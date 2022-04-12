@@ -1,0 +1,76 @@
+<html>
+<head>
+     <title>NetGuide Live</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<base target="_top">
+
+<table width="550" cellspacing=0 border=0 cellpadding=1>
+
+
+<tr><td align=middle>
+<nobr><A href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Home"
+target="_top"><img src="../../IMAGES/NAVBAR~1.GIF" tppabs="http://www.netguide.com:10101/images/navbarlogo.gif" align=top
+width="78" height="36" border="0"></A><img src="../../IMAGES/BLANK.GIF" tppabs="http://www.netguide.com:10101/images/blank.gif" width=100 height=1 border=0><img src="../../IMAGES/NAVBAR~2.GIF" tppabs="http://www.netguide.com:10101/images/navbar-std2.gif" align=top width="372" height="36" border="0" usemap="#navbar"></nobr><br><img src="../../IMAGES/GRAY20.GIF" tppabs="http://www.netguide.com:10101/images/gray20.gif" ALIGN=TOP WIDTH=550 HEIGHT=1 BORDER=0 VSPACE=2><br>
+
+<map name="navbar">
+<area shape=rect coords="0,0,0,0" nohref>
+<area shape=rect coords="289,9,371,28" href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Newsref">
+<area shape=rect coords="210,9,287,28" href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Knowhow">
+<area shape=rect coords="167,9,208,28" href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Explore">
+<area shape=rect coords="81,9,165,28" href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/SearchBrowse">
+<area shape=rect coords="2,9,78,28" href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/whatson">
+</map>
+</td></tr>
+
+<tr><td>
+<br><br>
+<blockquote>
+We're sorry, but the page you requested<br> no longer exists or is in a new location.
+<p>
+You can:
+
+<ol>
+
+<li> Visit the <a href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Home">NetGuide Live home page</a>
+
+<li> Visit our <a href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Sitemap">Site Map</a>
+
+<li> Make sure that the URL you typed in had the correct punctuation and capitalization
+
+<li> Report the error on our <a href="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Feedback">Feedback</a> page
+
+</ol>
+
+Thanks for visiting NetGuide Live!
+</blockquote>
+<img src="../../IMAGES/BLANK.GIF" tppabs="http://www.netguide.com:10101/images/blank.gif" height=20 width=1>
+
+<font size=2>Error message:  Attempted to execute a bad component: LiveEventsIE;;Standard 
+</td>
+</tr>
+
+<tr>
+   <td align=center>
+
+<CENTER>
+ <IMG SRC="../../IMAGES/GRAY20.GIF" tppabs="http://www.netguide.com:10101/images/gray20.gif" ALIGN=TOP BORDER="0" VSPACE="3" width=550 height=1><br>
+ <FONT SIZE=-1><A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Help" target="_top">Help</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/About"  target="_top">About NetGuide Live</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Feedback" target="_top">Feedback</A>
+ <br><IMG SRC="../../IMAGES/BLANK.GIF" tppabs="http://www.netguide.com:10101/images/blank.gif" ALIGN=TOP WIDTH="3" HEIGHT="3" BORDER="0"><br>
+ <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Home" target="_top">Home</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/whatson?eventapp.eventlist.maxperpage=showall" target="_top">What's On Now</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/SearchBrowse" target="_top">Search+Browse</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Explore" target="_top">Explore</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Knowhow" target="_top">Net Know-How</A> | <A HREF="Pending_relink" tppabs="http://www.netguide.com/server-java/NGPage/Newsref" target="_top">News/Reference</A>
+ </FONT>
+
+<P>
+<FONT SIZE="-2">Copyright &copy; 1997 CMP Media Inc. </FONT>
+</CENTER>
+
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+

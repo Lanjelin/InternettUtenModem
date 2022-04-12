@@ -1,0 +1,112 @@
+<html><head><title>TOURBUS Info Page</title></head>
+<body bgcolor="#ffffff">
+<img align="left" src="tbsmall.gif" alt="The Internet TourBus!">
+<i>"Why surf when you can ride the bus?"</i><br clear=all>
+<hr>
+<center>
+<h2>
+TOURBUS: Tuesday, July 30, 1996<br>
+DRIVER: Patrick Crispin<br>
+TODAY'S TOURBUS STOP:<br>Olympic Park Bombing</h2>
+</center>
+<p>
+Due to an unexpected calculus test, you fearless, professional college
+student/bus driver was unable to write a TOURBUS post on July 25th.  I was
+planning to write my post on Saturday, but events in Atlanta sort of
+changed those plans rather quickly.
+<p>
+Anyway, Bob is letting me take his place today so that I can share with you
+the latest information on the Atlanta bombing ...
+<pre>
+*--------* Online Backup for Business, Writers & Individuals *-------*
+ CYBeRGEM Remote Backup System provides an easy to use, cost effective
+ off site storage system for your critical data.  Save & retrieve your
+  zipped and encrypted files (only you have the key) via the internet.
+*-*  e-mail: backup@cybrgem.com  *  http://www.cybrgem.com/backup/ *-*
+</pre>
+Gee, where do I start?  I guess by now everyone knows that a pipe bomb
+exploded early Saturday morning in the Centennial Olympic Park in the heart
+of Atlanta.  Two people were killed, and 110 were injured.
+<p>
+The latest news from ACOG (the Atlanta Committee for the Olympic Games) is 
+that
+<pre>
+     On Tuesday morning, 30 July 1996, Centennial Olympic Park will be
+     reopened to the public. All activities within and around the Park
+     which have been suspended pending completion of law enforcement's
+     work will be resumed. Additional security measures will be
+     employed in the area consistent with its status as a place of
+     public access. --A.D. FRAZIER, Chief Operating Officer, ACOG
+</pre>
+Within hours of the explosion early Saturday morning, dozens of Web sites
+popped up offering the latest information on the bombing and the ongoing
+search for the terrorist who planted the bomb.  The "official" Olympic site
+for information about the bombing is at <a href="http://www.atlanta.olympic.org/acog/news/d-explosion.html">http://www.atlanta.olympic.org/acog/news/d-explosion.html</a>
+<p>
+This page has links to ACOG's and the IOC's (International Olympic
+Committee's) official press statements, as well as to pictures of the bomb
+site provided by Agence France-Presse.  This "official" site also has the
+complete transcript of Tom Brokaw's Interview of Billy Payne (Tom Brokaw is
+the anchor of the NBC Nightly News in the United States, and Billy Payne is
+the President of the Atlanta Committee for the Olympic Games).
+<p>
+The folks at Yahoo were also quick to set up a special Web page for the
+latest news about the bombing at <a href="http://www.yahoo.com/headlines/special/bomb/">http://www.yahoo.com/headlines/special/bomb/</a>
+<p>
+This page is updated several times a day with the latest news from the
+Reuters news service, so you may want to visit this page often.  You can
+also find links to other Olympic Park bomb information Web sites by going
+to <a href="http://sports.yahoo.com/olympics/">http://sports.yahoo.com/olympics/</a> and then clicking on the words "Pipe Bomb Explodes in Olympic Park" at the top of the page, or by jumping directly to <a href="http://www.yahoo.com/News/Current_Events/Pipe_Bomb_Explodes_in_Olympic_Park/">http://www.yahoo.com/News/Current_Events/Pipe_Bomb_Explodes_in_Olympic_Park/</a>
+<p>
+The most comprehensive Web page on the explosion, however, is at <a href="http://www.cnn.com/US/9607/27/olympic.bomb.main/index.html">http://www.cnn.com/US/9607/27/olympic.bomb.main/index.html</a>
+
+<p>
+CNN's global headquarters is only a couple hundred yards from the edge of
+the Centennial Olympic Park, so it is not surprising that CNN has the most
+comprehensive Web site about the bombing.  CNN's page has Quicktime movies
+of the explosion (courtesy of amateur photographer Robert Gee), maps of
+Atlanta showing you where the explosion occurred in relation to the other
+Olympic venues, information about the investigation, reaction from around
+the world, a look at how security at the games has changed, and links to
+other related sites and newsgroups.
+<p>
+Instead, I hope that we all can remember the victims of the bombing in our
+prayers tonight.
+<pre>
+*------------------*  WORK FROM HOME - ON-LINE!  *-------------------*
+ No sign-up fee, inventory or previous experience!  Put our website to
+    work for you!  Start your own business by trying our products,
+   30-days risk free!  Bonus: Enjoy the products & results! Email:
+                           LifeEx@citi.net
+*----------* (800) 854-3861   http://www.citi.net/LifeEx  *----------*
+
+*----------------------*  Be A CyberGourmand! *----------------------*
+    Twin Peaks Gourmet Trading Post - a Cornucopia of Pleasurable
+  Edibles. Sauces, Spices, Salsas, and Sweets. Indulge your Desires.
+*------------------------( http://tpeaks.com )-----------------------*
+</pre>
+<pre>
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+</pre><p><hr>
+<center>
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin<br>
+All rights reserved.  Redistribution is allowed only with permission.<br>
+Send this copy to 3 friends and tell them to get on the Bus!<br>
+<p>
+<h3>
+<a href="/wv/hotel/tourbus/tour.htm">Back to the TOURBUS Main Page</a><br>
+<a href="/wv/hotel/tourbus/archives.htm">Browse the TOURBUS Archives</a>
+</h3>
+<hr>
+<a href="/wv/navbar.map"><img border=0 src="/wv/images/elements/navbar.gif" ismap></a>
+<hr>
+<h5>(c) Copyright 1996, Elephant Consulting</h5>
+</center>
+</address>
+</BODY></HTML>

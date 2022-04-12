@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>Bugs in PGP 2.6.3i</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h1>Known bugs in PGP 2.6.3i</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif">
+<p>
+<i><font size=+2>T</font size>he following is a list of known bugs in PGP 2.6.3i, and how to correct them. If you think you have
+discovered a new bug, please mail the details to
+<a href="mailto:pgp-bugs@ifi.uio.no">pgp-bugs@ifi.uio.no</a>.</i>
+<p>
+<hr>
+<h2>PGP 2.6.3(i)a patches available</h2>
+Click <a href="PATCHS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/patch.shtml">here</a> to download the latest bug-fixes for PGP 2.6.3(i). (Sorry, source code only!)
+<p>
+<hr>
+<p>
+
+<h2><img src="IMAGES/BLUEBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/blueball.gif" alt=*> PGP ignores long form of TZ variable</h2>
+The TZ environment variable allows you to set your timezone and whether you're
+using Daylight Savings Time (DST). The long form of the TZ specification also
+allows you to specify when to switch to/from DST:
+<pre>
+  SET TZ=SSS[+|-]nDST,sm,sw,sd,st,em,ew,ed,et,shift
+</pre>
+However, most PGP compilations simply ignores everything after the first comma,
+which means that PGP will always switch to DST at 01:00 on the first Sunday in
+April, and back again at 02:00 on the last Sunday of October. This may not be
+correct for all countries (and certainly not if you're in the southern
+hemisphere).
+<p><hr><p>
+
+<h2><img src="IMAGES/BLUEBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/blueball.gif" alt=*> PGP can't handle pass phrases with accented characters</h2>
+A PGP user in Germany who recently upgraded from PGP 2.3a
+to PGP 2.6.3i reported that he can't use his old keys anymore
+with the new version, supposedly because he has used the german umlaut
+characters 'ä' and 'ß' in the pass phrase.
+<p>
+A piece of advice: don't use any such characters. :-) A pass phrase written
+in one character set or code page would probably not work in another anyway.
+I think this "bug" was introduced somewhere around version 2.6. If you
+have an old key with national characters in the pass phrase, change
+the pass phrase to plain ASCII before upgrading to 2.6.3i.
+<p><hr><p>
+
+<h2><img src="IMAGES/BLUEBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/blueball.gif" alt=*> Incorrect command line parsing with Borland C (MS-DOS)</h2>
+The precompiled DOS version of PGP 2.6.3i is compiled using Microsoft C. If you
+compile PGP yourself using Borland/Turbo C and are running the
+standard COMMAND.COM shell (not 4DOS), you will find that PGP does not
+behave as documented when using " (quotes) for specifying command line
+parameters with embedded blanks. For example:
+<pre>
+  pgp -seat +comment="Would you send mail without an envelope?" msg.txt schumacher
+</pre>
+should be written as:
+<pre>
+  pgp -seat "+comment=Would you send mail without an envelope?" msg.txt schumacher
+</pre>
+<p><hr><p>
+
+<h2><img src="IMAGES/REDBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/redball.gif" alt=*> Text files treated as binary (all platforms)</h2>
+The binary/text recognition routine in PGP 2.6.2i has been rewritten in
+2.6.3i in order to allow clearsigning of non-European languages (e.g.
+Japanese, Korean, Chinese). This usually works very well, but on texts
+with very long lines (longer than 132 characters), it will fail. To make the
+binary recognition less strict, simply remove line 1056 in fileio.c:
+<pre>
+  if (lfctr>132) return FALSE; /* line too long. Not a text file*/
+</pre>
+But please note that text files with such long lines normally don't get
+through email intact, resulting in a bad signature.
+<p><hr><p>
+
+<h2><img src="IMAGES/REDBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/redball.gif" alt=*> Cannot generate keys (Macintosh)</h2>
+There is an error in the MacPGP distribution archive. Here's how to fix it:
+<ol>
+  <li>Rename the "doc" folder to "Documentation"
+  <li>Move the "PGP User's Guide" folder into the "Documentation" folder
+</ol>
+PGP should now be able to generate the keys.
+<p><hr><p>
+
+<h2><img src="IMAGES/REDBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/redball.gif" alt=*> Compiling problems (various Unix platforms)</h2>
+<p>
+
+<h3>Undefined strdup() function</h3>
+The strdup() function is normally defined in &lt;string.h&gt;, but on some systems
+it may be missing. If PGP won't link because of this, change line 2922 in
+pgp.c from:
+<pre>
+  if (!(new[entrynum++] = strdup(tempbuf)))
+</pre>
+to:
+<pre>
+  if (!(new[entrynum++] = store_str(tempbuf)))
+</pre>
+<p>
+Then remove the 'static' declaration from store_str() in keymaint.c.
+If you're using an ANSI compiler, you'll have to add the prototype for
+store_str() in keymaint.h, too:
+<pre>
+  char *store_str(char *str);
+</pre>
+<p>
+<br>
+
+<h3>Undefined strncasecmp() function</h3>
+If your system doesn't have the strncasecmp() function, simply use
+strncmp() instead.
+<p>
+<br>
+
+<h3>Missing prototypes</h3>
+In pgp.c, insert the following line after line 129 (in the #ifdef UNIX
+section):
+<pre>
+#include &lt;sys/types.h&gt;
+</pre>
+<p>
+<br>
+
+<hr>
+<img src="IMAGES/REDBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/redball.gif" alt=*>
+This bug is unique to PGP 2.6.3i, but has been <a href="PATCHS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/patch.shtml">fixed</a>.<br>
+<img src="IMAGES/BLUEBALL.GIF" tppabs="http://www.ifi.uio.no/pgp/images/blueball.gif" alt=*>
+This <a href="../../tppmsgs/msgs24.htm#2496" tppabs="http://www.mit.edu:8001/people/warlord/pgp-faq.html">bug is inherited from MIT PGP 2.6.2</a> and is present in all versions of
+PGP.
+
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" width=31 height=31 border=0></a>
+<font size=-1>Last updated
+
+March,  5 1997
+by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt
+</font></address>
+</body>
+</html>
+

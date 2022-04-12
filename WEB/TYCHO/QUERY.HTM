@@ -1,0 +1,93 @@
+<HTML><HEAD>
+<META http-equiv="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cjhamil@lanl.gov" for "http://bang.lanl.gov/solarsys/" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'>
+<TITLE>Planetary Data Browser</TITLE>
+</HEAD>
+
+<BODY>
+<H1>Planetary Data Browser</H1>
+<hr>
+<P>
+This form allows you to query a database containing planetary
+data. Simply select the fields for the information desired.
+This form now supports tables. If your browser does not support
+tables, you can use the old one located <A HREF="Pending_relink" tppabs="http://www.astro.ku.dk/~lars_c/tbp/solar/queryold.htm">HERE.</A>
+
+<P>
+<form method="POST" action="http://www.c3.lanl.gov/~cjhamil/cgi/stats.cgi" tppabs="http://www.c3.lanl.gov/~cjhamil/cgi/stats.cgi">
+<P>
+<B>Select type of data to use:</B>
+<BR>
+<INPUT TYPE="radio" NAME="sel" VALUE="0" CHECKED> Sun, Planets &amp; Satellites
+<INPUT TYPE="radio" NAME="sel" VALUE="1"> Planets Only
+<INPUT TYPE="radio" NAME="sel" VALUE="2"> Satellites Only
+<BR>
+<INPUT TYPE="radio" NAME="sel" VALUE="3"> Planet &amp; its Satellites
+<INPUT TYPE="text" NAME="planet" VALUE="">
+<P>
+<B>Sort the information by:</B>
+<BR>
+<INPUT TYPE="radio" NAME="sortstat" VALUE="-1" > Planetary Order
+<INPUT TYPE="radio" NAME="sortstat" VALUE="0" CHECKED> Name
+<INPUT TYPE="radio" NAME="sortstat" VALUE="12"> Date of Discovery
+<INPUT TYPE="radio" NAME="sortstat" VALUE="3" > Vo
+<INPUT TYPE="radio" NAME="sortstat" VALUE="4" > Distance
+<BR>
+<INPUT TYPE="radio" NAME="sortstat" VALUE="8"> Radius
+<INPUT TYPE="radio" NAME="sortstat" VALUE="9"> Mass
+<INPUT TYPE="radio" NAME="sortstat" VALUE="10"> Density
+<INPUT TYPE="radio" NAME="sortstat" VALUE="5"> Orbital Period
+<INPUT TYPE="radio" NAME="sortstat" VALUE="6"> Inclination
+<BR>
+<INPUT TYPE="radio" NAME="sortstat" VALUE="17"> Tilt of Axis
+<INPUT TYPE="radio" NAME="sortstat" VALUE="7"> Eccentricity
+<INPUT TYPE="radio" NAME="sortstat" VALUE="19"> Escape Velocity
+<INPUT TYPE="radio" NAME="sortstat" VALUE="11"> Rotational Period
+<BR>
+<INPUT TYPE="radio" NAME="sortstat" VALUE="14"> Albedo
+<INPUT TYPE="radio" NAME="sortstat" VALUE="18"> Mean Orbital Velocity
+<INPUT TYPE="radio" NAME="sortstat" VALUE="15"> Discoverer
+
+<P>
+<B>Sort:</B>
+<INPUT TYPE="radio" NAME="sortdir" VALUE="0"> Up
+<INPUT TYPE="radio" NAME="sortdir" VALUE="1" CHECKED> Down
+
+<P>
+<B>Select the information to be included:</B>
+<BR>
+<INPUT TYPE="checkbox" NAME="num" VALUE="1" CHECKED> Satellite Number
+<INPUT TYPE="checkbox" NAME="orbits" VALUE="1" CHECKED> Body Orbited
+<INPUT TYPE="checkbox" NAME="date" VALUE="1"> Date of Discovery
+<INPUT TYPE="checkbox" NAME="v0" VALUE="1"> Vo
+<BR>
+<INPUT TYPE="checkbox" NAME="dist" VALUE="1" CHECKED> Distance
+<INPUT TYPE="checkbox" NAME="rad" VALUE="1" CHECKED> Radius
+<INPUT TYPE="checkbox" NAME="mass" VALUE="1"> Mass
+<INPUT TYPE="checkbox" NAME="density" VALUE="1"> Density
+<INPUT TYPE="checkbox" NAME="op" VALUE="1"> Orbital Period
+<BR>
+<INPUT TYPE="checkbox" NAME="incl" VALUE="1"> Inclination
+<INPUT TYPE="checkbox" NAME="tilt" VALUE="1"> Tilt of Axis
+<INPUT TYPE="checkbox" NAME="ecc" VALUE="1"> Eccentricity
+<INPUT TYPE="checkbox" NAME="esc" VALUE="1"> Escape Velocity
+<BR>
+<INPUT TYPE="checkbox" NAME="rotper" VALUE="1"> Rotational Period
+<INPUT TYPE="checkbox" NAME="albedo" VALUE="1"> Albedo
+<INPUT TYPE="checkbox" NAME="velocity" VALUE="1"> Mean Orbital Velocity
+<INPUT TYPE="checkbox" NAME="who" VALUE="1"> Discoverer
+
+<P>
+To start the query, press this button: <INPUT TYPE="submit" VALUE="Submit Query">
+
+<P>
+To clear the query, press this button: <INPUT TYPE="reset" VALUE="Clear Query">
+
+</form>
+<P>
+<hr>
+<P><A HREF="HOMEPAGE.HTM" tppabs="http://www.astro.ku.dk/~lars_c/tbp/solar/homepage.htm"><IMG SRC="HOME.GIF" tppabs="http://www.astro.ku.dk/~lars_c/tbp/solar/images/home.gif" ALT="HOME"></A>
+<A HREF="HOST.HTM" tppabs="http://www.astro.ku.dk/~lars_c/tbp/solar/host.htm"><IMG SRC="HOST.GIF" tppabs="http://www.astro.ku.dk/~lars_c/tbp/solar/images/host.gif" ALT="HOST"></A>
+<P>
+<hr>
+<H5>Author: <A HREF="AUTHOR.HTM" tppabs="http://www.astro.ku.dk/~lars_c/tbp/solar/author.htm">Calvin J. Hamilton</A>.</H5>
+</BODY></HTML>

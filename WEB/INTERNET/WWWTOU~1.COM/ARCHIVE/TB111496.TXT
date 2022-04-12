@@ -1,0 +1,236 @@
+
+From bobrankin@mhv.net Thu Nov 14 00:19:17 1996
+Date: Wed, 13 Nov 1996 23:14:36 -0500
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 14 Nov 1996 - COOKIES!
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |   Get FOUR FREE CD-Roms! Find out how by visiting     |//////|    |
+ |       http://www.worldvillage.com/freecds.htm         |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+           TODAY'S STOP: COOKIES!
+
+Hi, kids!  (This is Patrick, but I've asked Bob to post today's message.)
+
+As promised, today's TOURBUS is going to discuss a topic that everyone has
+probably heard a great deal about but which few of us really understand:
+Cookies.  [Personally, I always thought that Cookies were things that you
+dunked into milk, but I digress.]
+
+Fortunately, thanks to the help of guest bus driver Cynthia Kurkowski, a
+pretty well-known computer journalist (and a fellow bus rider), today's
+TOURBUS post is going to tell you EVERYTHING that you will ever need to
+know about Cookies.
+
+Before we get to Cynthia's article, though, I want to take a second to
+thank the folks who are making today's post of our little bus of Internet
+happiness possible:
+
+ /--------- WANT TO PICK FROM 40 FREE MAGAZINE SUBSCRIPTIONS? ---------\
+|  Then get the Fall & Holiday TOURBUS HOT SHEET from Magazine Express. |
+| The magazine deals are white-hot, with many under $12 per year.  And  |
+|    Dr. Bob's "Internet Goodies" is still FREE.  Send e-mail now to:   |
+ \--------------------- ( tourbus@magazines.com ) ---------------------/
+ /---------------------------------------------------------------------\
+|      Feeling the chill? Try Timberland's guaranteed waterproof        |
+|        leather bomber jacket from Aardwulf Apparel Company.           |
+ \--------------------( http://www.aardwulf.com )----------------------/
+
+
+WHY ALL THE FUSS ABOUT COOKIES?
+-------------------------------
+by Cynthia Kurkowski <zen@sirius.com>, ComputerJournalist@Large
+(Reprinted with permission from WEBster, the cyberspace surfer ezine at
+http://www.tgc.com)
+
+HTTP Cookies has caused much commotion and controversy both on and off the
+World Wide Web. Known primarily for their use in Netscape Navigator, HTTP
+Cookies (or MagicCookies as they are formally called) allow Web servers to
+recognize a user's browser to facilitate the session-to-session connection
+required for WWW surfing. So why all the fuss about Cookies?
+
+"Cookies represents a coming effort by organizations to monitor people's
+interest in their products and services through the covert gathering of
+personal data without their knowledge and consent," said Privacy Times
+Editor Evan Hendricks.
+
+BIG BROTHER IS WATCHING
+
+Most users cringe at the thought of a business "secretly" requesting
+information from their desktops without their knowledge or consent. Such
+tactics come too close to the Big Brother is Watching campaign described in
+George Orwell's best-selling novel, 1984.
+
+Cookies track users' Web page requests, and therefore, record the users'
+surfing on a given site. One could say it is the equivalent of a department
+store camera following you around as you shop; it gives you the creeps and
+sometimes you just want to turn it off. But now with Cookies the camera is
+in your home, and that's why folks react the way they do to Cookies. They
+want to turn off the camera by controlling Cookies.
+
+Cookies also disturb users because the method extends for collecting
+customer information beyond the social conventions. For example, people
+would likely find it normal for an auto repair shop to track and keep
+maintenance records through the use of your car license plate number. Yet,
+those same people likely would feel very different were a food store record
+the license plate number every time they visited that store.
+
+Initially designed to store a user's unique ID and clicking activities, the
+Cookies file is now used for much more. Although limited in size, the
+Cookies file can hold just about anything the Web administrator wants to
+store about the user -- a unique user number, user browsing preferences,
+demographics. However, Cookies cannot track the same information that is
+logged by Web servers and Web auditors.
+
+Cookies only track individual transactions, and can only surmise about any
+specific interrelations. Further, with the use of dynamic IP addresses (or
+proxy servers) Cookies may know only that a customer of a certain service
+provider (or company or college or online service) visited their site.
+
+Sites can only discover more if the user configured the browser to provide
+such information (i.e. email address). But for the most part, Cookies store
+information about an individual's transactions on a particular site, or
+your personal information if you register at their site.
+
+"It's an amazing technology. The way the technology is used in practice is
+not harmful, but there should be a standards, a code of conduct [for the
+use of the stored user information]," said Lawrence C. Stewart, chief
+technology officer of Open Market and author of a white paper on Cookies.
+
+WHAT COOKIES ARE MADE OF
+
+Most people have heard about the use of HTTP Cookies in Netscape Navigator.
+But other browsers including Microsoft Corp.'s Internet Explorer, Netcom
+On-line Communications Services Inc.'s Netcruiser and Quarterdeck Corp.'s
+Quarterdeck Mosaic 2.0 employ Cookies as well.
+
+Cookies were created out of the need to enable session-to-session
+communications by automatically recognizing a particular browser when it
+returns to a site after an extended interval. By storing an assigned user
+ID number, Cookies can connect (associate) one hit to another even after
+the browser has exited and restarted.
+
+Cookies also enable a Web site to commence WWW service upon the user's
+return from a "visit" to that Web site's service area (i.e. help screen).
+On the Web, every page is independent of another so the use of  Cookies
+helps the site server figure out who you are from page to page.  In this
+way, the Web site authenticates the user by identifying the browser.
+
+COOKIES ENHANCE THE WWW EXPERIENCE
+
+"Technology like Cookies help users gain the advantages of personalized
+services," said Stewart. "You can't have valuable online services without
+personalization ."
+
+Personalization on the Internet equals user authentication. How can a site
+provide that personal touch if they don't know who you are? Web site owners
+make a valid point with this question. You certainly cannot view your bills
+and pay them online with your banking service if the site cannot verify you
+are who you say you are.
+
+It is through the use of Cookies that Netscape can offer its users a
+Personal Workspace and Microsoft can feature a customizable "Start" page.
+Both Netscape and Microsoft use the Cookie file to write the users'
+preferences so that their respective Web sites can build a personalized
+environment for users seamlessly and transparently without users having to
+log in with passwords or ID's.
+
+Personalized service through the use of Cookies is rapidly spreading. The
+most common of which is the virtual shopping cart, or shopping list.
+Shopping cart programs allow users to maintain a shopping list of items
+they've purchased at an online shopping center, and allow them to resume
+shopping another day without resubmitting their credit card number.
+
+Harold Driscoll, Internet business consultant and software developer,
+provides interesting scenarios of the appropriate use and misuse of
+Cookies. He cites, for example, a tech support site which lets users
+indicate their product areas of interest. Upon your return, the tech
+support site could welcome you with a customized list of new bug fixes and
+upgrades for only those products which interest you.
+
+On the downside, Driscoll cites credit card fraud through the misuse of
+Cookies. Say a user purchases an urgent order through an office computer
+with the use of a personal credit card number. If the site stores that
+information in your cookie file (without your knowledge or permission), and
+a co-worker copies that file and uses it to charge other things, then the
+first user is faced with a significant financial dilemma.
+
+LOSING YOUR COOKIES
+
+Strong privacy advocates urge Net surfers to lose the Cookies' power of
+data collection by deleting the contents of the file or specifying Read
+Only. Other privacy advocates argue Cookies' residence on the users'
+desktops actually increase their privacy by allowing them to control their
+Cookie files. Users can see it and even modify it. Privacy advocates want
+to take this notion of user control a step further by allowing users to
+switch Cookies on or off.
+
+To check your cookie file and see who is profiling you, you must use a text
+editor. The first string you'll see (i.e.".netscape.com") indicates who
+issued you the Cookie.  It's important to note that the Cookies file is
+written to when you quit the browser, so remember to quit before you check
+the file.  PC users can delete the Cookies file when your system boots (eg.
+for PC MS-DOS AUTOEXEC.BAT to include "if exist c:\netscape\cookies.txt
+erase c:\netscape\cookies.txt".
+
+On the Macintosh, the file is named MagicCookies.
+
+While Netscape probably will not concede to a "switch off" feature, the
+company has released a more user-friendly version of Netscape Navigator
+(3.0) that notifies users when a site is requesting their Cookies file, and
+allows users to accept or refuse the request.
+
+"We need to figure out how to balance the features and requirements that
+make browsers easy to use and more secure without overwhelming the user,"
+said Chen.
+
+Like it or not, users will have to learn to live with their Cookies files.
+This spring, Netscape proposed HTTP Cookies as a standard HTTP technology
+for maintaining persistent client information.
+
+! SPECIAL NOTE FROM BOB: Just a bit of clarification... Cookies can NOT
+! access any of your personal data unless you actually enter it on a form
+! at a web site.  Cookies can NOT get your e-mail address or anything else
+! from a browser config file, nor can it rummage through your hard disk.
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+DITTY (noun).  A male parent.
+Usage: "my ditty kin beat up yer ditty."
+
+(Special thanks goes to Charlene Smith for today's wurd.)
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

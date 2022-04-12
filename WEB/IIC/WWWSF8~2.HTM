@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>WWW Security FAQ: Problems with Specific Servers</title>
+</head>
+
+<body>
+<H1>The World Wide Web Security FAQ</H1>
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF7~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html">Backward to <cite>Client Side Security</cite></a>
+  <li><A HREF="WWWSF9~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf9.html">Forward to <cite>Bibliography</cite></a>
+</ul>
+<HR>
+<H1><A NAME="specific">10. Problems with Specific Servers</A></H1>
+
+<h2>Windows NT Servers</h2>
+
+<H3><A NAME="Q62">Q62: Are there any known security problems with the
+Netscape Communications Server for NT?</A></H3>
+The NT versions of the Netscape servers (both the
+<a href="tppmsgs/msgs6.htm#652" tppabs="http://www.netscape.com/comprod/netscape_commun.html">
+Netscape Communications Server version 1.12</a> and the
+<a href="tppmsgs/msgs6.htm#654 tppabs="http://www.netscape.com/comprod/netscape_commerce.htm"l">
+Netscape Commerce Server</a>)
+have two problems involving the handling of CGI scripts.  One of these
+problems is also shared by the
+<a href=#Q63>WebSite Server</a>
+
+<h4>Perl CGI Scripts are Insecure</h4>
+The Netscape server does not use the NT File Manager's associations between
+file extensions and applications.  Thus, even though you may have associated
+the extension .pl with the perl interpreter, perl scripts aren't recognized
+as such when placed in the cgi-bin directory.  Until very recently, a Netscape
+technical note recommended placing perl.exe into cgi-bin and referring to
+your scripts as <code>/cgi-bin/perl.exe?&my_script.pl</code>.
+<p>
+Unfortunately this technique allows anyone on the Internet to execute an
+arbitrary set of Perl commands on your server by invoking such scripts as
+<code>/cgi-bin/perl.exe?&-e+unlink+%3C*%3E</code> (when run, this URL
+removes every file in the server's current directory).  This is
+<em>not a good idea</em>.
+A current Netscape technical note suggests encapsulating your Perl scripts
+in a .bat file.  However, because of a related problem with batch scripts,
+this is no safer.
+<p>
+Because the EMWACS, Purveyor and WebSite NT servers all use the File Manager
+extension associations, you can execute perl scripts on these servers
+without placing perl.exe into cgi-bin.  They are safe from this bug.
+
+<h4><a name="bat_files">DOS .bat files are Insecure</a></h4>
+Ian Redfern<a href="mailto:redferni@logica.com">redferni@logica.com</a>)
+has discovered that a similar hole exists in the processing of CGI
+scripts implemented as .bat files.  The following is excerpted from
+his e-mail describing the problem:
+<pre>
+  Consider test.bat:
+
+    @echo off
+    echo Content-type: text/plain
+    echo
+    echo Hello World!
+
+  If this is called as "/cgi-bin/test.bat?&dir" you get the output
+  of the CGI program, followed by a directory listing.
+
+  It appears that the server is doing system("test.bat &dir") which
+  the command interpreter is handling (not unreasonably) in the
+  same way /bin/sh would - execute it, and if things go OK,
+  execute the dir command.
+</pre>
+
+<h4>An Untested Workaround for the .bat File Hole</h4>
+It's possible to use <code>.bat</code> files safely by wrapping them
+in a compiled <code>.exe</code> file.  The <code>.exe</code> file
+first checks the command line parameters extremely carefully for
+things that might be misinterpreted by DOS, then invokes a
+<code>command.com</code> subshell, and executes the <code>.bat</code>.
+<p>
+This requires some care, and it might be easier to do everything
+in compiled code.  Brian Kendig <a href="mailto:brian@netscape.com">brian@netscape.com</a>
+reports that Netscape is aware of the problem and is working on a wrapper
+script with the functionality described above.
+<hr>
+
+<H3><A NAME="Q63">Q63: Are there any known security problems with the
+O'Reilly WebSite server for Windows NT/95</A></H3>
+<a href="tppmsgs/msgs6.htm#657" tppabs="http://website.ora.com/">WebSite</a> has the same problem with
+<a href="#bat_files">DOS .bat files</a> that Netscape does.  However because
+WebSite supports three different types of CGI scripting interfaces (native Windows, 
+Standard CGI for Perl scripts,
+and the rarely used DOS .bat file interface), the recommended action is
+to turn off the server's support for DOS CGI scripts.  This will not
+affect the
+server's ability to run Visual Basic, Perl, or C scripts.
+<p>
+Detailed information on the actions necessary to close the WebSite
+.bat file security hole can be found at
+<a href="tppmsgs/msgs6.htm#659" tppabs="http://website.ora.com/devcorner/secalert1.html">
+this page provided by WebSite's developer.</a>
+
+<H3><A NAME="Q64">Q64: Are there any known security problems with the
+Purveyor Server for Windows NT?</A></H3>
+According to the developers of <a href="tppmsgs/msgs6.htm#661" tppabs="http://www.process.com/">Purveyor</a>,
+they anticipated the .bat file security hole during the software's development.
+It's immune to this problem.
+<p>
+The EMWACS NT server, from which Purveyor is derived, also appears to
+be safe from this problem.
+
+<H3><A NAME="Q65">Q65: Are there any known security problems with the
+Microsoft's IIS Web Server</A></H3>
+Versions of the Microsoft IIS server downloaded prior to 3/5/96
+contain the same .BAT file bug that appears in other NT-based servers.
+In fact the problem is worse than on other servers because
+.BAT CGI scripts doesn't even have to be installed on the server
+for a malicious remote user to invoke any arbitrary set of DOS
+commands on your server!
+<p>
+Microsoft has released a patch for this bug, available at
+<a
+href="tppmsgs/msgs6.htm#662" tppabs="http://www.microsoft.com/infoserv">
+http://www.microsoft.com/infoserv</a>.  In addition, all copies of the
+IIS server downloaded after 3/5/96 should be free of this bug.  If you
+use this server, you should check the creation date of your server
+binary and upgrade it if necessary.
+
+<h2>Unix Servers</h2>
+
+<H3><A NAME="Q66">Q66: Are there any known security problems with
+NCSA httpd?</A></H3>
+Versions of <a href="tppmsgs/msgs6.htm#663" tppabs="http://hoohoo.ncsa.uiuc.edu/docs/">NCSA httpd</a>
+prior to 1.4 contain a serious security
+hole relating to a fixed-size string buffer.  Remote users could break
+into systems running this server by requesting an extremely long
+URL.  Although this bug has been well publicized for more than a
+year, many sites are still running unsafe versions of the server.
+The current version of the software, version 1.5, does not suffer
+from this bug and is available at the link given at the beginning
+of this paragraph.
+<p>
+<a name="util.c">Recently</a> it has come to light that example C code
+(<code>util.c</code>) long distributed with the NCSA httpd as an
+example of how to write safe CGI scripts ommitted
+the newline character from the list of characters that are shouldn't be
+passed to shells.  This ommission introduces a serious bug into
+any CGI scripts that were built on top of this example code: a remote
+user can exploit this bug to force the CGI script to execute any
+arbitrary Unix command.  This is another example of the 
+<a href="#bad_shell">dangers of executing shell commands</a> from CGI
+scripts.
+<p>
+The same buggy code is also distributed with the Apache server.
+Although the server itself is safe, CGI scripts built using the
+example code is not.
+<p>
+The patch to fix <code>util.c</code> is simple.  "phf" and any
+CGI scripts that use this library should be recompiled after applying
+this patch (the GNU patch program can be found at <a href="tppmsgs/msgs6.htm#664 tppabs="ftp://prep.ai.mit.edu/pub/gnu/patch-2.1.tar.g"z">
+ftp://prep.ai.mit.edu/pub/gnu/patch-2.1.tar.gz</a>):
+<pre>
+---------------------------------- cut here ----------------------------------
+*** httpd_1.5a-export/cgi-src/util.c.old	Tue Nov 14 11:38:40 1995
+--- httpd_1.5a-export/cgi-src/util.c	Thu Feb 22 20:37:07 1996
+***************
+*** 139,145 ****
+  
+      l=strlen(cmd);
+      for(x=0;cmd[x];x++) {
+!         if(ind("&amp;;`'\"|*?~&lt;&gt;^()[]{}$\\",cmd[x]) != -1){
+              for(y=l+1;y&gt;x;y--)
+                  cmd[y] = cmd[y-1];
+              l++; /* length has been increased */
+--- 139,145 ----
+  
+      l=strlen(cmd);
+      for(x=0;cmd[x];x++) {
+!         if(ind("&amp;;`'\"|*?~&lt;&gt;^()[]{}$\\\n",cmd[x]) != -1){
+              for(y=l+1;y&gt;x;y--)
+                  cmd[y] = cmd[y-1];
+              l++; /* length has been increased */
+---------------------------------- cut here ----------------------------------
+</pre>
+
+<H3><A NAME="Q67">Q67: Are there any known security problems with
+CERN httpd?</A></H3>
+No security problems have been reported with the
+<a href="tppmsgs/msgs6.htm#665" tppabs="http://www.w3.org/hypertext/WWW/Daemon/Status.html">CERN server</a>
+to date.
+
+<H3><A NAME="Q68">Q68: Are there any known security problems with
+Apache httpd?</A></H3>
+No problems have been reported with <a href="tppmsgs/msgs6.htm#630" tppabs="http://www.apache.org/">Apache
+httpd</a> to date.  However see the discussion of bugs in the <a
+href="#util.c">util.c</a> CGI example code distributed with Apache and
+NCSA httpd for important warnings about CGI scripts built on top of
+this code.
+
+<H3><A NAME="Q69">Q69: Are there any known security problems with
+the Netscape Servers?</A></H3>
+The <a href="tppmsgs/msgs6.htm#652" tppabs="http://www.netscape.com/comprod/netscape_commun.html">
+Netscape Communications Server</a>
+does not contain any known security holes.
+<p>
+There have, however been two well-publicized recent episodes in which the system
+used by the <a href="tppmsgs/msgs6.htm#666" tppabs="http://www.netscape.com/comprod/netscape_commerce.html">
+Netscape Secure Commerce Server</a>
+to encrypt sensitive communications
+was cracked.  In the first episode, a single message encrypted with
+Netscape's less secure 40-bit encryption key was cracked by brute
+force using a network of workstations.  The 128-bit key used for
+communications within the U.S. and Canada is considered immune from
+this type of attack.
+<p>
+In the second episode, it was found that the random number generator
+used within the server to generate encryption keys was relatively
+predictable, allowing a cracking program to quickly guess at the
+correct key.  This hole has been closed in the recent releases
+of the software, and you should upgrade to the current version if you
+rely on encryption for secure communications.  Both the server
+<em>and</em> the browser need to be upgraded in order to completely
+close this hole.  See <a
+href="tppmsgs/msgs6.htm#667" tppabs="http://home.netscape.com/newsref/std/random_seed_security.html">
+http://home.netscape.com/newsref/std/random_seed_security.html</a>
+for details.
+
+<H3><A NAME="Q70">Q70: Are there any known security problems with
+the IBM Internet Connection Secure Server for AIX?</A></H3>
+According to IBM's representative Mike Kearney
+(<a href="mailto:kearney@betvmic1.vnet.ibm.com">kearney@betvmic1.vnet.ibm.com</a>)
+the <a href="tppmsgs/msgs7.htm#736" tppabs="http://www.austria.eu.net/www-security-faq/www.ibmlink.ibm.com">IBM Internet Connection Secure
+Server</a> is free of any known security holes.  The server supports
+both SSL and SHTTP protocols, and is also available for OS/2 and OS/2-Warp.
+
+<H3><A NAME="Q71">Q71: Are there any known security problems with
+the WN Server?</A></H3>
+The <a href="tppmsgs/msgs6.htm#668" tppabs="http://hopf.math.nwu.edu/">WN server</a> is free of any
+known security holes.  As explained in <a href="WWWSF1~2.HTM#Q4" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q4">Q4</a>
+it contains several features that lessen the chance that security will
+be breached by improper server configuration.
+
+<h2>Macintosh Servers</h2>
+
+<H3><A NAME="Q72">Q72: Are there any known security problems with WebStar?</A></H3>
+Because the Macintosh, unlike either Unix or Windows, does not have a
+command shell, and because it does not allow remote logins, it is
+reasonable to expect that the Mac is inherently more secure than the
+other platforms.  In fact this expectation has been borne out so far: no
+specific security problems are known in either WebStar or its shareware ancestor
+MacHTTP.
+<p>
+Recently a consortium of Macintosh Internet software development
+companies, including StarNine, the developer of WebStar, posted a
+$10,000 reward to anyone who could read a password-protected Web page
+on a Macintosh running WebStar software.  As described in an article
+about the challenge in <a
+href="tppmsgs/msgs6.htm#669" tppabs="http://www.dartmouth.edu/pages/TidBITS/TidBITS.html">Tidbits#317/04-Mar-96</a>,
+after 45 days no one had stepped forward to claim the prize.
+<p>
+Although one cannot "break in" to a Macintosh host in the conventional way,
+potential security holes do exist:
+<ol>
+  <li>Exploiting holes in the server to read files outside the official
+      document tree.
+  <li>Finding a way to crash the server.
+  <li>Exploiting holes in CGI scripts to execute AppleScript commands.  This
+      particularly of concern for Perl scripts.  All the caveats and
+      warnings about <a href="#perl">safe scripting</a> apply.
+</ol>
+
+<H3><A NAME="Q73">Q73: Are there any known security problems with MacHTTP?</A></H3>
+No.  See the discussion <a href="#Q71">above</a>.
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF7~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html">Backward to <cite>Client Side Security</cite></a>
+  <li><A HREF="WWWSF9~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf9.html">Forward to <cite>Bibliography</cite></a>
+</ul>
+<HR>
+<address>Lincoln D. Stein, lstein@genome.wi.mit.edu<br>
+<a href="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">Whitehead Institute/MIT Center for Genome Research</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 19 23:56:51 MET 1996
+<!-- hhmts end -->
+</body> </html>

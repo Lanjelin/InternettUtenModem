@@ -1,0 +1,335 @@
+
+                Using PGP From TPU on VMS Systems
+                ---------------------------------
+
+Author: Phil Ottewell <phil@pottsoft.demon.co.uk>                 4-JUL-1996
+
+  This document contains a TPU procedure that allows you perform encryption,
+decryption and signing of PGP messages  from the  VMS  TPU editor (and hence
+from VMS MAIL).  Look  for  lines starting with ++++  and  extract  the text
+between  the  start  and  end  delimiters to create SETUP.COM  and PGP.TPU .
+Since I published the PGP.TPU procedure  on  vmsnet.tpu  a number of  people
+have suggested  that the procedure be renamed  to eve_pgp, which would allow
+you to type "PGP" on the command line instead of "TPU PGP".  This is left as
+an exercise for the  reader,  since I define <Ctrl>P to invoke the procedure
+anyway.
+
+  I  assume  that  you  know  how   to  use   a   TPU  section   file,  e.g.
+EDIT/TPU/SECTION=my.TPU$SECTION . See  the  VMS  documentation set , or  try
+HELP EDIT /TPU /SECTION if you aren't too familiar with this. This  has been
+tested with PGP 2.6.3i, and it  will _not_  work with PGP 2.6ui. PGP  2.6.3i
+is  obtainable  from a  number of sites. See the  alt.security.pgp newsgroup
+for an up to date list in the FAQ.
+
+There are two files in this document:
+
+1) SETUP.COM
+   ---------
+  This  command  procedure  lives  in   the   same  directory  as  the   PGP
+  executables. I keep the VAX and Alpha versions in the same directory, with
+  file  types .EXE and .EXE_ALPHA respectively.  Users can @  this SETUP.COM
+  from their LOGIN.COM, and  it  will set up the PGP symbol to  point to the
+  correct image.
+  
+    You  may  also  want  to  define  PGPPATH  to  point  to  your  own  PGP
+  initialization files. The PGP$LIBRARY logical  should be  defined to point
+  at  the  PGP [.DOC]  directory, either system  wide or in your LOGIN.COM .
+
+2) PGP.TPU
+   -------
+  The  second file, a TPU procedure, works with  EDIT/TPU (the  default  VMS
+  editor) used from either a DECterm, or via the DECwindows Motif interface.
+  I'm  still  clinging on to EDT,  so please excuse any TPU sloppiness  -  I
+  don't claim to be  an expert  ! I had to write  my own routine to hide the
+  pass  phrase, and the  prompt doesn't appear on the very bottom line where
+  the message asking you to type it in is displayed.
+  
+    This  procedure lets you encrypt, decrypt, or simply sign a  message  by
+  pressing <Ctrl>P and  following the prompts. It assumes  that you have the
+  PGP  command  symbol  and  associated  logical names set  up already. When
+  you encrypt a message, it is also signed by you,  so you will  be prompted
+  for your pass phrase even though  you have asked to use  Joe Bloggs public
+  key for the encryption.
+
+
+  Extract the two files, then EDIT/TPU PGP.TPU and follow the guidelines  at
+the top of the file to 'compile' the  procedures,  define the <Ctrl>P action
+and save the  new  section.  If you  are  going  to  use  this  on  a  mixed
+architecture/version cluster, compile the procedure on  the _lowest_ version
+of VMS so that you will be able to use the section file on all the machines.
+
+  Hope you find this  stuff useful, and please let me know  if you  think of
+some good improvements !
+
+                       Cheers,
+                                Phil Ottewell <phil@pottsoft.demon.co.uk>
+
+++++ Start of SETUP.COM --------------------------------------------------------
+$! Setup up PGP symbol and logical
+$! This assumes that the executables live in PDS$DISK:[PDS.PGP263II.SRC]
+$! so change this to suit your system.
+$!
+$! Phil Ottewell - <phil@yrsk.demon.co.uk> - 15-May-1996
+$!
+$! You may wish to define something similar to the following in your
+$! LOGIN.COM to point to location for CONFIG.TXT and LANGUAGE.TXT
+$!
+$! DEFINE/JOB/NOLOG PGPPATH DEV$DISK:[your_dir.INITS]
+$!
+$! You should also have PGP$LIBRARY defined to point at the
+$! PGP [.DOC] directory
+$!
+$ is_alpha = F$EXTRACT(0,4,F$GETSY("NODE_HWTYPE")).EQS."ALPH"
+$! Get correct EXEs
+$ IF is_alpha
+$ THEN
+$   exe = "EXE_ALPHA"
+$ ELSE
+$   exe = "EXE"
+$ ENDIF
+$! Help documents
+$ DEFINE/NOLOG PGP$LIBRARY PDS$DISK:[PDS.PGP263II.DOC]
+$! Foreign command symbol
+$ IF F$TYPE(PGP).EQS.""
+$ THEN
+$   IF F$SEARCH("PDS$DISK:[PDS.PGP263II.SRC]PGP.''exe'").NES.""
+$   THEN
+$     PGP:==$PDS$DISK:[PDS.PGP263II.SRC]PGP.'exe'
+$   ENDIF
+$ ENDIF
+$!
+$ EXIT
+++++ End   of SETUP.COM --------------------------------------------------------
+
+++++ Start of PGP.TPU ----------------------------------------------------------
+! PGP.TPU
+!
+! Author: Phil Ottewell, 15-May-1996, phil@yrsk.demon.co.uk (work)
+!                                     phil@pottsoft.demon.co.uk (home)
+!
+! How to use this file to get PGP encrypt/decrypt or signing from TPU editor:
+!
+! 1. Enter TPU and get this file, eg. EDIT/TPU/NOINIT this_file
+!    if you want to start from scratch
+! 2. Get TPU command line, by hitting <Do> key,
+! 3. EXTEND TPU *
+! 4. TPU DEFINE_PGP_KEY
+! 5. @[your_dir.whatever]EVE$INIT.EVE ! to get your other definitions, if any
+! 6. SAVE EXTENDED TPU your.TPU$SECTION
+!
+! Use <Ctrl>P to PGP sign or encrypt, and answer the questions.
+!
+! This procedure creates and deletes files in your SYS$LOGIN: with names
+! like _PGP_MAIL.ASC and .TMP, so dont use these names for your own files.
+!
+PROCEDURE pgp
+!
+  LOCAL orig_buffer,
+        orig_mode,
+        sel_range,
+        dcl_subprocess,
+        temp_buffer,
+        dcl_buffer,
+        sign_answer,
+        encrypt_answer,
+        sign_answer_string,
+        plain_text_copy,
+        recipients_keyname,
+        encrypt_answer_string,
+        pgp_command,
+        selection_saved;
+! Error handler (eg. CTRL-C)
+  ON_ERROR
+    [TPU$_READABORTED]:
+      MESSAGE("PGP operation cancelled.");
+!     Set current buffer and cursor position to original buffer
+      SET(orig_mode,orig_buffer);
+      POSITION(orig_buffer);
+      IF (selection_saved = "TRUE")
+      THEN
+!       Include the selection from saved text file
+        READ_FILE("SYS$LOGIN:_PGP_MAIL.TMP;");
+      ENDIF;
+!     Get rid of temporary buffers
+      IF (GET_INFO(BUFFER,"find_buffer","DCL_BUFFER") <> 0)
+      THEN
+        DELETE(dcl_buffer);
+      ENDIF;
+      IF (GET_INFO(BUFFER,"find_buffer","PGP_BUFFER") <> 0)
+      THEN
+        DELETE(temp_buffer);
+      ENDIF;
+      RETURN;
+    [TPU$_CONTROLC]:
+      MESSAGE("PGP  aborted by CTRL-C.");
+!     Set current buffer and cursor position to original buffer
+      SET(orig_mode,orig_buffer);
+      POSITION(orig_buffer);
+      IF (selection_saved = "TRUE")
+      THEN
+!       Include the selection from saved text file
+        READ_FILE("SYS$LOGIN:_PGP_MAIL.TMP;");
+      ENDIF;
+!     Get rid of temporary buffers
+      IF (GET_INFO(BUFFER,"find_buffer","DCL_BUFFER") <> 0)
+      THEN
+        DELETE(dcl_buffer);
+      ENDIF;
+      IF (GET_INFO(BUFFER,"find_buffer","PGP_BUFFER") <> 0)
+      THEN
+        DELETE(temp_buffer);
+      ENDIF;
+      RETURN;
+    [OTHERWISE]:
+!     Copy contents of dcl_buffer to end of MESSAGES system buffer
+      POSITION(END_OF(MESSAGE_BUFFER));
+      COPY_TEXT(dcl_buffer);
+!     Set current buffer and cursor position to original buffer
+      SET(orig_mode,orig_buffer);
+      POSITION(orig_buffer);
+      IF (selection_saved = "TRUE")
+      THEN
+!       Include the deleted text
+        READ_FILE("SYS$LOGIN:_PGP_MAIL.TMP;");
+      ENDIF;
+!     Get rid of temporary buffers
+      IF (GET_INFO(BUFFER,"find_buffer","DCL_BUFFER") <> 0)
+      THEN
+        DELETE(dcl_buffer);
+      ENDIF;
+      IF (GET_INFO(BUFFER,"find_buffer","PGP_BUFFER") <> 0)
+      THEN
+        DELETE(temp_buffer);
+      ENDIF;
+      MESSAGE("PGP error. Check system buffer MESSAGES for more information");
+      RETURN;
+  ENDON_ERROR;
+! Get current buffer name
+  orig_buffer:= GET_INFO(BUFFERS,"current");
+! Get mode (insert/overwrite)
+  orig_mode:= GET_INFO(CURRENT_BUFFER,"mode");
+! Get the select range
+  selection_saved := "FALSE";
+  sel_range := CREATE_RANGE (BUFFER_BEGIN, BUFFER_END);
+! Create a temporary buffer to receive the text
+  temp_buffer:=  CREATE_BUFFER("PGP_BUFFER");
+  POSITION(temp_buffer);
+  MOVE_TEXT(sel_range);
+  selection_saved := "TRUE";
+  WRITE_FILE(temp_buffer,"SYS$LOGIN:_PGP_MAIL.TMP;");
+! Delete temporary buffer
+  DELETE(temp_buffer);
+! Get text and margin size
+  encrypt_answer_string := READ_LINE("Encrypt/Decrypt/Sign (E/D/S) ? [S]:");
+  EDIT(encrypt_answer_string,TRIM);
+  EDIT(encrypt_answer_string,UPPER);
+  IF encrypt_answer_string = ""
+  THEN
+    encrypt_answer_string := "S";
+  ENDIF;
+!
+  IF SUBSTR(encrypt_answer_string,1,1) = "S"
+  THEN
+    encrypt_answer_string := "";
+    recipients_keyname := "";
+  ELSE
+    IF SUBSTR(encrypt_answer_string,1,1) = "E"
+    THEN
+      recipients_keyname := READ_LINE("Name to uniquely identify public encryption key:");
+      recipients_keyname := " """ + recipients_keyname + """";
+      encrypt_answer_string := "et";
+    ELSE
+      recipients_keyname := "";
+      encrypt_answer_string := "D";
+    ENDIF;
+  ENDIF;
+!
+  IF encrypt_answer_string = "D"
+  THEN
+    encrypt_answer_string := "";
+    sign_answer_string:= "";
+  ELSE
+    sign_answer_string:= "-sa";
+  ENDIF;
+!
+  MESSAGE("Enter your passphrase on this line - it will not be echoed");
+  pass_phrase := get_passphrase();
+  pass_phrase:= " -z """ + pass_phrase + """";
+!
+  pgp_command:= "pgp +batchmode +force " + sign_answer_string
+                   + encrypt_answer_string
+                   + " sys$login:_PGP_MAIL.TMP -o sys$login:_PGP_MAIL.ASC"
+                   + pass_phrase
+                   + recipients_keyname;
+! Create a temporary buffer to receive DCL output
+  dcl_buffer:=  CREATE_BUFFER("DCL_BUFFER");
+  MESSAGE("PGP-ing now ...");
+  dcl_subprocess:= CREATE_PROCESS(dcl_buffer,pgp_command);
+! Set current buffer and cursor position to original buffer
+  SET(orig_mode,orig_buffer);
+  POSITION(orig_buffer);
+! Include the PGP-ed file
+  READ_FILE("SYS$LOGIN:_PGP_MAIL.ASC;");
+  selection_saved := "FALSE";
+  IF SUBSTR(encrypt_answer_string,1,1) = "e"
+  THEN
+!   Check if user would like a plain text copy for themselves
+    plain_text_copy := READ_LINE("Mail yourself a plain text copy ? [N]:");
+    EDIT(plain_text_copy,TRIM);
+    EDIT(plain_text_copy,UPPER);
+    IF SUBSTR(plain_text_copy,1,1) = "Y"
+    THEN
+      SEND("MAIL/SUBJECT=""Plaintext of PGP mail"" SYS$LOGIN:_PGP_MAIL.TMP 'F$GETJPI("""",""USERNAME"")'",dcl_subprocess);
+    ENDIF;
+  ENDIF;
+! Delete the two temporary files
+  SEND("IF F$SEARCH(""SYS$LOGIN:_PGP_MAIL.TMP"").NES."""" THEN $ DELETE SYS$LOGIN:_PGP_MAIL.TMP;*",dcl_subprocess);
+  SEND("IF F$SEARCH(""SYS$LOGIN:_PGP_MAIL.ASC"").NES."""" THEN $ DELETE SYS$LOGIN:_PGP_MAIL.ASC;*",dcl_subprocess);
+! Delete subprocess
+  dcl_subprocess:= 0;
+! Delete DCL buffer
+  DELETE(dcl_buffer);
+  MESSAGE("Text PGP-ed")
+! ENDIF;
+ENDPROCEDURE;
+!
+! Set up key definition
+! 
+PROCEDURE define_pgp_key
+  DEFINE_KEY("PGP", CTRL_P_KEY, "PGP",eve$x_user_keys);
+  MESSAGE ( "CTRL-P = PGP" );
+ENDPROCEDURE;
+!
+! Get pass phrase without echoing it
+!
+PROCEDURE get_passphrase
+LOCAL the_key, string, shadow, the_len;
+  string := "";
+  shadow := "";
+  the_len := 0;
+  LOOP
+    the_key := read_key;
+    exitif the_key = RET_KEY;
+    exitif the_len > 132;
+    IF the_key <> DEL_KEY
+    THEN
+      shadow := shadow + "*";
+      string := string + ascii(the_key);
+      the_len := the_len + 1;
+    ELSE
+      IF the_len > 1
+      THEN
+        the_len := the_len - 1;
+        string := SUBSTR( string, 1, the_len );
+        shadow := SUBSTR( shadow, 1, the_len );
+      ELSE
+        the_len := 0;
+        string := "";
+        shadow := "";
+      ENDIF;
+    ENDIF;
+    MESSAGE(shadow);
+  ENDLOOP;
+  RETURN( string );
+ENDPROCEDURE;
+++++ End   of PGP.TPU ----------------------------------------------------------

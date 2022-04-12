@@ -1,0 +1,1380 @@
+IRPS NEWSLETTER 
+March 1, 1996
+Issue #3
+
+Table of Contents:
+Club Status Report (Michael Popovich <cad@digital.net>)
+Message From The Vice President (Craig Jannsen <daili@gate.net>)
+IRPS Monthly Newsletters
+   Ragboy's Wild Kingdom (Paul Wolfe <ragboy@outer.net>)
+   The Book of Genesis (Justin White <bwhite@cln.etc.bc.ca>)
+   ROLE-playing or RULE-playing (Lafe Bagley <bagman@online-la.com>)
+   R U L E S  &  R O L L S (Eduard W. Lohmann <lohmann@fwi.uva.nl>)
+   Slight's Miscellanea (Steven Cox <slight@bev.net>)
+Classifieds
+
+-------------------------------------------------------------------------
+Club Status Report (Michael Popovich <cad@digital.net>)
+-------------------------------------------------------------------------
+	IRPS has finally filled up some of it's open officer and
+department head positions also, at this time, we have several more
+department head positions for anyone who would be interested in assuming
+those positions.
+
+OFFICE OF THE PRESIDENT --> Michael Popovich (cad@digital.net)
+  Deparment of Web Resources --> Jacques Brunswick <jacquesb@worldaccess.nl>
+  Deparment of Internal Activities --> OPEN (inquire if interested)
+  Deparment of IRC Activities --> Thomas Charron (twolf@empire.net)
+    Undernet: #IRPS --> James Adams (jmadams@primenet.com)
+    Undernet: #AD&D --> Jesse Edes (leades@rapidramp.com)
+    Undernet: #Shadowrun --> Adam Richard (adam@cosmos.ab.ca)
+
+OFFICE OF THE SECRETARY --> Akilesh Deperalta (adep@loop.com)
+  Department of Membership Management --> handled by Akilesh
+  Department of Entertainment --> handled by Akilesh
+    Subdepartment CCG --> handled by Akilesh
+    Subdepartment RPG --> handled by Akilesh
+    Subdepartment PBEMs --> handled by Akilesh
+
+	As for all the deparment heads, under the office of the 
+President, you will all need to contact Michael Popovich 
+(cad@digital.net) cause I have things I need for you to do.  Everyone in 
+the department of the Secretary will report to Akilesh Deperalta 
+(adep@loop.com).
+	Also, if you have any ideas for a new department just e-mail
+Michael Popovich (cad@digital.net) with the name of the new department,
+the department's purpose, and any additional information.  If you do
+come up with a good idea for a department, and if it is approved, be
+ready to take the job of Department Head and ready to write a short
+article about it, in search of members to help assist in that department.
+	The club is also looking for new web pages to link to ours.  If
+you find anything interesting out there in the vast tome of the internet
+just e-mail me with the site and I'll check it out.  Also, if you think
+changes should be made to the web page e-mail me with the changes you
+have in mind and I'll be sure to alter the page if it's a good idea.
+	Also, I have had a few inquiries about writing for the IRPS 
+newsletter.  If you're interested in writing for the newsletter, all you
+need to do is make sure the column/article, which you intend to write is
+kept to the subject of role-playing (any aspect ranging from prices of
+products, new ideas, new rules, and you're not limited to writing
+adventures for any one gaming system).  As a writer, you'll retain all
+rights to your article and allow us to post it on the web page and send
+it out to members each month to read.  If you're interested contact
+Michael Popovich (cad@digital.net) with your full name, e-mail address,
+column name, and also your first article for the newsletter.  We look
+forward to hearing from you.
+	Also, I would love to see more members become involved with the
+club.  IRPS currently has an IRC (Internet Relay Chat) channel, on Efnet, 
+Undernet, and Dalnet, entitled #IRPS.  For those of you who haven't used
+IRC before, it's a program which allows users from all over the world to
+communicate with each other.  It's a very fun program, and I would highly
+recommend it to anyone.  There are also other interesting channels on the
+net which can be explored also such as #AD&D and #Shadowrun.  If you're
+interested in using IRC go to the club web page, go to the IRPS homepage
+located at http://ddi.digital.net/~cad and look down at the Club 
+Activities section.  Just click on the hypertext entitled Internet Relay
+Chat, and you'll be transported to a site contain an IRC program for
+downloading.
+
+-------------------------------------------------------------------------
+Message From The Vice President (Craig Jannsen <daili@gate.net>)
+-------------------------------------------------------------------------
+Greeting fellow IRPS members!
+
+I thought I would pass on some news. Daili's Collectibles has been busy 
+with a proposal to Wizards of the Coast for the TPO product line. I feel 
+that my company has a chance and have been actively pursuing the product 
+line. The TPO product line is a fantasy supplement line. This is one 
+reason that I have not been around and slow to answer email.
+
+In other news:
+
+Daili's Collectibles is now selling MTG singles and has lists available 
+for customers. The prices are based on Cloister's prices and will be 
+modified based on condition. 
+
+We have received some more used rpg items in from BattleTech and ADND 
+product lines. I will be getting my lists updated asap. 
+
+Please note: 
+New RPG products are 30% off for IRPS members not 25% 
+
+Feel free to stop by on Efnet IRC, my nickname is NetFlame.
+
+-------------------------------------------------------------------------
+Ragboy's Wild Kingdom (Paul Wolfe <ragboy@outer.net>)
+-------------------------------------------------------------------------
+	"Okay," says the DM, "It takes you four weeks to reach the cavern 
+complex.  Minus the appropriate rations."
+	Does this sound like a the wilderness travel sequence in your 
+campaign?  Sacre bleu!  If you've ever travelled overland for four weeks, 
+especially on foot, you know this is the far from being realistic.  The 
+wilds of your campaign world should be as colorful as your cities and as 
+dangerous as your firefights.  But danger takes a different turn when a 
+character is stuck in a month long road march, far from civilization.  
+Danger as obvious as an animal attack and as sublime as drinking tainted 
+water.  An adventure could stem from a lame horse, or from a figure 
+half-seen across a prairie at night.  From sudden storms to infected 
+wounds, the wilderness should offer more than an aside, or a paragraph.  
+The wilds are a source of magical components, strange cultures, alien 
+landscapes, and interesting encounters.
+	So watch this space for interesting twists, some rules 
+suggestions, and maybe an encounter or two with:
+
+Ragboy's Wild Kingdom...
+
+-------------------------------------------------------------------------
+The Book of Genesis (Justin White <bwhite@cln.etc.bc.ca>)
+-------------------------------------------------------------------------
+The  Foundation of a World
+
+	Many people I know have wanted to make their own fantasy world, 
+myself included.  Well, whether you are writing a novel based on the 
+world, or starting an RPG based on the world, the first step is probably 
+the EASIEST.  So, where does one begin?  That depends on the level of 
+realism you want.
+	When I made Varnaria, I wanted a whole world at my fingertips.  
+Extensive culture, Extensive background, Extensive realism.  Impossible?  
+Never.  I'll tell you, it was hard.  And once you have gotten it down, 
+it's harder to keep things straight.  But how do you get such a 
+realistic world?  There are many different methods;
+
+	1) Write a novel/start the game and make it all up as you go 
+along, marking all your ideas down when they come.  This is the easiest 
+method of World Creation.
+	   The players get to directly influence the world and there is 
+no wasted effort if the GM/Author decides not to use a portion of the 
+world that would have been developed using other methods.  A GM could be 
+easily caught off-guard if a player asks something that he hasn't decided
+upon. (What does the bar music sound like in this culture?)
+	2)  Start making the world in perfect detail before you begin.
+This is VERY time consuming, but it creates a consistant world.  If the
+campaign isn't very long, or you are not going to write a lot of novels, 
+you run the risk of spending a lot of wasted energy into this.
+	3) Many more that I have yet to think about.
+
+	I started using #1 when I started to write my first novel (which 
+has taken two years to comlete!)  I didn't think it worked because it was 
+TOO malleable.  I could do almost anything with it.  I feel safe within
+boundries because if I do it without them, I'm liable to contradict 
+myself.  I did that once.  In my PBeM, I told a player that he headed 
+west from a swamp to a town in Eudoria.  When I mapped the area later, I 
+put the swamp to the wast of the Wixian country, which was south-east of 
+Eudoria.
+	So I stopped, and thought to myself.  "Why don't I map this whole 
+thing myself before I go much further?"  I can tell you that, depending 
+on how much of a world you want, mapping can be a tough procedure.   I 
+had a whole world in mind for Varnaria, but I barely got an area the size 
+of the medetaranian sea done, or smaller.  I had to find another method 
+of mapping this.
+	I wanted a map that was unique, but was aesthetically pleasing, 
+and a map that I could incorparate the ideas that I already had down onto 
+it.  I found such a map at http://www.edu.isy.liu.se/~d91johol/fwmg.html 
+this was a 'Fractal WorldMap Generator'  When I ran the FWMG, I actually 
+used the date of my fifteenth birthday as the random seed, and I came up 
+with a map that was more than suitable.  Since then, the page owner has 
+added some features such as viewing the world in hemispheres, from the 
+north pole, and from the south pole.  That is a site that I would 
+SINCERELY recommend for lazy people like myslef.
+	Now that you have a map, you may want to think about where the 
+world came from, how it got to be, ecostructures, cultures, races, 
+people, towns et cetera.  I'll leave detail on this 'till the next 
+article.
+
+-------------------------------------------------------------------------
+ROLE-playing or RULE-playing (Lafe Bagley <bagman@online-la.com>)
+-------------------------------------------------------------------------
+	Don't you just hate it when you're in a new gaming group and you 
+realize that everyone has a different style of playing?  I think that 
+the thing which bothers me most (even more than a no show) is 
+inconsistant gaming style.
+	You might think that's a tall order to fill.  I don't.  It only 
+requires asking your players one question:
+
+		"Are you a ROLE-player or a RULE-player?"
+
+	Whatever their answer, you'll know who doesn't fit.  Whether you 
+have a brawler or a thinker, you'll all get along just great if you agree 
+on one of the above styles of play.  It doesn't even matter if you're 
+using a complicated game system, it's what the focus of the game is on 
+that matters.
+	Personally, I am a role-player.   I use to be a rules hound.  I 
+would shun any gaming system that didn't cover every possible 
+contingency.  Then after I was going on my 5th or so year of playing, it 
+hit me.  I was sick of rules, and what I enjoyed was getting into my 
+character.
+	Don't take that as a condemnation of complex games or of rules in 
+general.  It's just my choice.  I realize that I am a teller of stories, 
+and I prefer my game system to provide me the just the infrastructure for 
+answers.  I'll fill in the details--my imagination is far more complex 
+than any chart, and a lot more satisfying.
+	If you are a rules hound, play with other rules-hounds...there is 
+an appreciation of a well-crafted system, no doubt.  I still think of all
+those charts and formulas that, for some reason, I never had a problem
+memorizing.  They don't take up too much space in my tiny brain...maybe
+I'll haul out my dice and roll a 20-die attack for old time's sake.
+
+-------------------------------------------------------------------------
+R U L E S  &  R O L L S (Eduard W. Lohmann <lohmann@fwi.uva.nl>)
+-------------------------------------------------------------------------
+
+0.1       Introduction                                            
+
+	  In response to the appearance of our advice column in the IRPS
+	  newsletter #2 we received the following question from Bruce
+	  Sheffer:
+
+	  "I would be very interested in seeing an article on how the
+	  different game resolution systems compare. How does a dicepool
+	  system compare to a traditional d20 or percentile system? What 
+	  are each's strength and weaknesses? Which is more realistic? 
+	  Which is easier to conceptualize? Where do they break down. 
+	  Which is more appropriate for what kind of game."
+
+	  The following piece should answer most of his questions. 
+	  Especially chapter 3 and 4. If you or anyone has any other 
+	  questions regarding this piece or any other roleplaying matter 
+	  send email to:
+
+	       Eduard Lohmann      lohmann@fwi.uva.nl
+	       Barbara Haddad      bhaddad@LunaCity.com  
+
+	  If you are interested we could discuss different systems for
+	  deciding skill levels next time. But this subject is much less
+	  clear. Let us know.
+
+0.2       Basic Terms 
+
+	  The dice Notation. 
+
+	  Many roleplaying and game systems use a similar dice notation.
+	  It is usually a whole number followed by a 'D' and then 
+	  another whole number or a symbol. The first number represents
+	  the number of dice to be used. The 'D' simply means dice. If
+	  the third part is a number it represents the number of sides
+	  the dice used should have. Common dice are D4, D6, D8, D10,
+	  D20. 
+	
+	  So 2d4 would mean: use 2 dice, both of which have 4 sided
+	  numbered 1 to 4. If more than one die is used the results are
+	  added together. Sometimes a number is added or subtracted. 
+
+	  The third part of the notation can also be a symbol. A '%'
+	  means percentile and 'D%' works the same way a 'D100' would.
+	  Except that the result is interpreted as a percentage. In this
+	  text the notation 'DF' is also used. This means FUDGE(c) dice.
+	  These dice are six-sided two sided marked +1, two sided marked
+	  0 and two sided marked +1. 
+       
+	  Target Numbers
+
+	  A target number is a number you need to accomplish something
+	  when you are rolling dice.
+	
+	  Skills
+
+	  This is any numeric representation of a character that
+	  represents its level of competence. Dice are often compared to
+	  it. Skills are used in this article for any trait that is
+	  compared to a diceroll.
+
+	  Open-ended Rolls
+
+	  These are dicerolls where some very good or very bad result
+	  make you roll another die to see just how good or bad you did
+	  at the moment.
+
+	  GM
+
+	  GM stand for Game Master, or the person who will be
+	  leading the gamingsession.
+
+1.0       An Overview of much used Systems.
+
+	  Here we will describe a few basic systems that we will be
+	  referring to later on. We chose these systems because they
+	  represent a large part of practical roleplaying, except for
+	  the diceless system. All system are assumed to be skill based.
+
+1.1       Single Die, Skill + Die Systems
+
+	  These are systems that let you roll a single die and add the
+	  result to a skill. The result is then compared to a target
+	  number, a level of difficulty or an opponents result. Maximum
+	  rolls are often seen as critical successes and minimum rolls as
+	  critical failures, but this is not always the case. Open ended
+	  rolls can be useful here. Dark Dungeon(c) is an excellent but
+	  little known example.
+
+1.2       Single Die, Die <= Skill Systems
+
+	  These systems compare the roll of a single die to your skill.
+	  If your roll is not more than your skill you succeed. The
+	  difference can determine the degree of success or it can be a
+	  win/lose situation. Examples are attribute- and proficiency-
+	  checks in AD&D(R). (See http://www.ms.mff.cuni.cz/acad/webik/
+	  ~pmit2218/adnd.html)
+
+1.3       Multi Die, Skill + Dice Systems
+
+	  Here you add the result of several dice and add them to your
+	  skill. Just like the single die version you compare the result
+	  to a target number. Different target numbers could determine
+	  the degree of success. An example is DragonNet. (see
+	  dnet@cs.nmt.edu, http://www.cs.vu.nl/~wouterw/dnet/dnet.html )
+
+1.4       Multi Die, Dice <= Skill Systems  
+
+	  Here you add the result of several dice and if the result is
+	  not more that your skill you have succeeded. Again the degree
+	  of success may depend on the degree of difference. A special
+	  case of this is that if your result equals your skill you have
+	  only a partial result. An well known example is GURPS(R).
+	  (See http://www.io.com/sjgames/gurps/)
+
+	  This also includes systems like Champion(R) (See http://www.
+	  intercom.net/user/theala/hero.html) where
+	  the skill is figured from several of the characters
+	  characteristics on the spot. 
+
+1.5       Dicepool Systems
+
+	  These systems let you roll several dice with the same number
+	  of faces, the number depending on your skill. Often you have
+	  some control over the number of dice rolled in that you can
+	  use dice from a limited pool and decide to use them in a
+	  particular role.
+
+	  Here you also need roll equal to or higher than a target
+	  number, but with this system you can have zero, one or more
+	  successes. For target numbers higher that the number of sides
+	  on the dies used, open ended roles are used. ShadowRun(R) is a
+	  well known example. (See http://www.hut.fi/~jalkanen/SR.html )
+
+1.6       The FUDGE System
+
+	  This is basically a Multi Die, Dice + Skill System, but there
+	  are a few special differences. First, skills and even rolls
+	  are presented as words in stead of numbers. Second the
+	  average skill and roll is zero. More on this later.
+	  (See http://users.aol.com/ghostgames/index.html )
+
+1.7       Percentile Systems
+
+	  These systems are usually the same as Single die <= Skill
+	  Systems. But they use a D% or D100. making use of the well-
+	  known concept of percentages. Often two D10 are used to
+	  simulate a D% by multiplying one by 10 then adding them and
+	  finally dividing by 100. Examples are RuneQuest(R) (See http:
+	  //boris.qub.ac.uk/ds/links/rpgpages/chaosium.html) and
+	  Stormbringer(R). 
+
+1.8       Diceless Systems
+
+	  These systems are considered as an alternative for dice.
+	  Success often depends on things like situation modifiers and
+	  roleplaying. Amber(R) is an example. 
+	  (see http://www.ens-lyon.fr/~jcdubacq/amber.html)
+
+2.0       Math
+
+	  Here we discuss the probabilistic properties of the
+	  aforementioned systems. In general the probability for 
+	  success is investigated.
+
+	  T             Target number
+	  S             Skill used
+	  R             needed roll; some function of T and S
+	  Pi            Probability for success type i
+	  P(exp)        Probability that some expression is true
+	  X             Number of sides on dice used 
+	  n             Number of dice
+
+2.1       Single Die, Die + Skill Systems
+
+	  The mathematics are simple. All events are equally likely. 
+	  Assume R = T-S. If R<=1 then P1=1 and it is an automatic 
+	  success.  Otherwise,
+				 X-R+1
+	  P1(R) = P(1DX >= R) = -------
+				   X
+ 
+	  If X < R then P2=0 unless the system is open ended. That
+	  means that if you roll X on you DX your roll again and add X.
+	  Suppose this roll is called 1DX+ and R=k*X+R' with R'<X then
+
+						     1    
+	  P2(R) = P(k times 1DX+=X) * P(1DX+>=R') = --- * P1(R')
+						    X^k     
+
+	  It is not usual to use open-endedness with rolling ones. Often
+	  a 1 is considered an automatic failure. Lets call this type of
+	  roll 1DX*. If  R<=1 then P3(R)=(X-1)/X otherwise 
+
+				       
+	  P3(R) = P2(R)
+						 
+2.2       Single Die, Die <= Skill Systems
+
+	  Here it is even simpler. All events are also equally likely.
+	  If S>=X then its a success and P4=1. If S<1 then its a failure
+	  and P4=0 else
+				S  
+	  P4(R) = P(1DX<=S)  = ---  
+				X
+
+2.3       Multi Die, Skill + Dice Systems
+
+	  Here things start to get more complicated. Not all events are
+	  equally likely. And an important principle for roleplaying is:
+
+	  The more dice are added, the likelier are average results.
+
+	  It is not easy to give a basic function to decide on the
+	  probabilities in general. But here is a recursive one. 
+	  Assume R=T-S
+
+	  P*(R) indicates P1(R) if using the basic system
+			  P2(R) if using open ended rolls
+	  
+		
+	  P*(1,R) = P*(R)
+
+		      R-1
+	  P*(n+1,R) = SUM [ ( P*(r)-P*(r-1) ) * P*(n,R-r) ] + P*(R)
+		      r=1
+
+	  I agree that this is a horrible expression and if some
+	  mathematician could solve this it may add clarity. 
+	  
+
+2.4       Multi Die, Dice <= Skill Systems
+
+	  This is just as complicated as the previous system and the
+	  solution is the same with P*(R)=P4(R).
+
+	  In general, values range between n and nX. The graph is 
+	  centered around n*(X/2) with a variance of n*(X+1)/2. If more 
+	  than one die is used, the graph becomes bell shaped.
+
+
+2.5       Dicepool Systems
+
+	  In this case one is more interested in the number of
+	  successes. Call Y the number if open-ended rolls that were 
+	  >= T. P(Y>=0)=1, you always have at least zero successes. If n
+	  is the number of dice used P(Y>=n+1)=0, you can never have
+	  more successes than dice. Otherwise, with t the needed number
+	  of successes
+
+			     n
+	  P5(R) = P(Y>=t) = SUM [ comb(n,i) * P2(t)^t * (1-P2(t))^(n-t) ]
+			    i=t
+
+				k!
+	  Where comb(k,i) = -----------  and k! = k*(k-1)*(k-2)*...*1 
+			   (k-i)! * i!
+
+2.6       The FUDGE(R) System
+
+	  Here skills range from -s to s and rolls range from -r to r.
+	  The more dice are used the more extreme the results can
+	  become. But if a large range is used extreme results are still
+	  unlikely. The results are always -(r+s) <= result <= (r+s). 
+	  Assume R=T-S. If R > n then P6=0. If R <= -n then P6=1 otherwise
+
+			     round-down([n-R]/2)      n-i
+	  P6 = P(ndF>=R) =          SUM [ comb(n,i) * ( SUM comb(n-p,j) ) ] 
+				    i=0              j=R+i 
+			      
+	  Since P(ndF>=R) is the same as P(nD3>=R-2n) you could also
+	  use that to calculate the result.
+
+2.7       Percentile Systems
+
+	  These are mathematically equal to one of the others. But here
+	  X=100 and you should multiply P by 100 to get the success
+	  chance percentage.
+
+2.8       Diceless Systems
+
+	  Since diceless systems do not rely on random factors (except  
+	  GM mood-swings) there is no probability to discuss. It is 
+	  generally a good strategy to keep your GM happy.
+
+3.0       Strength and Weaknesses
+
+	  In this chapter we suggest when certain systems are more 
+	  useful than others.
+
+3.1       Single Die, Die + Skill Systems
+
+	  This is above all a simple system and therefore to be used
+	  when one does not want to pay to much attention to mechanics
+	  and more to roleplaying. The arithmetic is simple and the GM
+	  can use target numbers. Target numbers are often predefined
+	  in the system, so the GM can use varying difficulty levels with 
+	  minimal effort. Players can figure out there chances easily
+	  and can base there actions on there chances. Open ended rolls
+	  are easily used in this system if desired.
+
+	  This system makes for exciting play. The chances for very
+	  high and very low results are much greater than in more 
+	  realistic systems. So this system breaks down when realism 
+	  becomes important. These problems become more important if a 
+	  large ranged die is used.
+
+3.2       Single Die, Die <= Skill Systems
+
+	  This system is even easier then the previous one and has much
+	  of the same qualities. Open ended rolls are not as clear in 
+	  this system and skills are limited by the range of the die used.
+	  GM's are forced to use modifiers to reflect difficulty instead
+	  of target numbers. This may lead to too many modifiers.
+	  An advantage is that skills-numbers reflect the effective skill
+	  much better than with systems 1 and 3.
+	  
+	  
+3.3       Multi Die, Skill + Dice Systems
+
+	  Compared to the single die system(system 1) this system is
+	  more realistic. Since the probabilities are no longer flat,
+	  very high or low results are less likely. The more dice are
+	  used the more realistic and the less heroic the system becomes.
+	  Arithmetic and figuring your chances as a player are harder
+	  now. That is the price you pay. Again open-endedness is easily
+	  added.
+
+3.4       Multi Die, Dice <= Skill Systems
+
+	  The differences with system 3 are much the same as between 
+	  system 1 and 2. No target numbers, no open-ended rolls. But
+	  it is simpler that system 3. Systems 1 to 4 have one problem
+	  in common. They tell you if the attempt succeeded and give
+	  some indication by how much, but no more.
+
+3.5       Dicepool Systems
+
+	  Dicepool systems are complicated, but they also supply 
+	  much information. They are not simple but they are elegant. 
+	  They incorporate the use of target numbers and open-ended
+	  rolls fit in naturally. Success levels are clearly defined
+	  by the number of successes. Another advantage is that 
+	  players can have a small pool of dice that is under their
+	  control. This simulates extra attention of characters when
+	  they use there skills in an important event and allows 
+	  players more control over there characters. Since mostly
+	  small range dice are used, modifiers have a large impact 
+	  on the situation. All this is very suited to realistic 
+	  style games and makes bad tactics deadly.
+
+	  On the down side one needs many dice and figuring ones
+	  chances is complicated. A single modifier can have major 
+	  effects so players do not get a clear view of there 
+	  chances. 
+
+3.6       The FUDGE(R) System
+
+	  This system is basically like system 3. With the following 
+	  differences. Here skill-levels reflect actual effective 
+	  skill as much as possible. The skill-level is also the 
+	  average, expected and the most likely result. The roll
+	  also directly indicates its quality. Rolling a +1 means
+	  a little better than normal and rolling -3 means you usually 
+	  do a lot better. Furthermore Rolling +1,+1,-1 can be seen
+	  as you did rather well(+2) but experienced a minor setback(-1).
+	  But rolling 0,+1,0 can be interpreted you did a decent job.
+	  on the down side dF are hard to get. (you can order them
+	  from Gray Ghost Games(R) see 1.6 or make them yourself)
+
+3.7       Percentile Systems     
+
+	  Basically these systems are the same as system 2, but the
+	  range is very large (1 to 100) so it does not severely 
+	  limit the range of skill-levels. The system is easy to 
+	  use and complicated methods can be used to generate skill
+	  levels. The system is still linear, but if rolls are only
+	  considered very high or very low on a very small range, the 
+	  system becomes more realistic. 
+
+	  One can in fact simulate multi die systems by dividing
+	  the range of 1 to 100 up into regions that are small
+	  in the extreme end and become larger near 50. A danger of
+	  percentile systems is that if one needs let say 45 or under
+	  to succeed and 46 or 47 is rolled failure may seem unfair
+	  and arbitrary. Therefore I prefer to use systems were 
+	  rolling 1 more or less feels like a substantial difference.
+
+3.8       Diceless Systems     
+
+	  In diceless systems something needs to replace the role of 
+	  dice. Generally situational modifiers, GM interpretation
+	  and even roleplaying quality are used. GM interpretation
+	  is not truly random and can lead to unfair advantages.
+	  If the GM is fair, players may still view the game 
+	  as biased. Bias does not need to be bad though. A GM
+	  can favor actions that fit a character, improve the
+	  story or actions that are just more fun. One more
+	  advantage is that players are seldom distracted by
+	  game-mechanics.
+
+	  It is hard to compare diceless systems to others and 
+	  much depends on the quality of the GM. Playing with
+	  a good GM is fun regardless of the system used and
+	  even the best system can't guarantee a good time.
+
+4.0       Genres
+
+	  Finally we will briefly discuss genres. In general 
+	  Heroic versus Realistic, Fantasy versus Technological
+	  and High Fantasy versus Dark fantasy and Horror. 
+	  
+4.1       Heroic
+
+	  In heroic genres character are tough and capable of 
+	  fantastic things. If things go wrong they go very wrong,
+	  if thing go right they go very right. So here single dice
+	  systems like 1 and 2 are useful. 
+
+4.2       Realistic
+
+	  But single die systems are not very realistic. In realistic 
+	  games results are usually average. Sometimes things go 
+	  wrong, but things are seldom disastrous. Here the multi
+	  die systems function a lot better. Especially systems
+	  3, 4 and 5 are appropriate.
+
+4.3       Technological
+
+	  In technology rich games, things are often predictable
+	  once one knows what the situation is. Information tends
+	  to get very valuable. Equipment becomes more important 
+	  and more sophisticated. This calls for a system that
+	  supplies much information. Here dicepools are probably 
+	  the best option.
+
+4.4       High fantasy 
+
+	  Here persons tend to be powerful. The systems need to 
+	  be able to handle very high skills gracefully. Therefore
+	  systems 2 and 4 are not very useful. Systems 3 and 6 could
+	  be used but they lack open-ended rolls which are highly
+	  appropriate in high fantasy as characters often face 
+	  more powerful opponents that require some great deed to 
+	  defeat. System 7 uses percentages, which work fine in
+	  technological settings, but they just don't fit the mood
+	  of high fantasy. This leaves system 1 if you want to keep 
+	  mechanics simple and system 5 if you want a lot of detail. 
+	  They can be combined according to the level of complexity
+	  you want for different skills. System 8 can also be used
+	  to great effect, especially for creating the sense of 
+	  wonder that no good fantasy adventure should be without.
+
+4.5       Dark Fantasy
+
+	  In dark fantasy, the world is a dangerous place. Doing 
+	  the wrong thing can be disastrous and just getting by
+	  is a struggle. Realism is mixed with dire results so
+	  characters can not afford frequent bad results and frequent
+	  great results do not fit the genre. Exact detail in skills
+	  is less important. Failure is failure you learn to live 
+	  with that. Here systems 3 and 4 are the obvious choice.
+	  As systems 1 and 2 and 6 give to extreme results and
+	  system 5 complicates things needlessly.
+
+4.6       Horror
+
+	  In horror characters are not powerful, monsters are.
+	  Superb play and/or planning is needed to even hope to
+	  defeat the enemy. System 1 and 2 give great results to
+	  often and system 6 does not have the range to express 
+	  the skill-levels at both the high and the low end naturally.
+	  Just like in Dark fantasy system 5 and 7 are to detailed,
+	  horror just isn't about numbers. System 4 also limits 
+	  skill range so system 3 seems more useful if dice are
+	  to be used. System 8 is also very well suited, because
+	  it is much more description based as is horror.
+
+
+5.0       Epilogue
+
+	  During the final stages of writing this, I would have
+	  preferred to discuss many things with Barbara. Especially
+	  concerning chapter three. She could undoubtedly have added
+	  much wisdom. Sadly I could not reach her through the net
+	  and any oversight can only be blamed on me.
+
+-------------------------------------------------------------------------
+Slight's Miscellanea (Steven Cox <slight@bev.net>)
+-------------------------------------------------------------------------
+Salutations!
+
+Welcome to the first article of my monthly column!  I'd like to take a
+little space each month to provide some background information on the
+article itself, and perhaps to cover whatever is rambling around inside my
+mind.  First of all, this column is devoted to presenting game mech for the
+AD&D system, ranging from additional rules systems to new spells and magical
+items.  Who knows what I'll come up with from month to month, but I'll
+endeavor to make it unique and, hopefully, fun to use!  Second, this
+specific article deals with the recently-released new psionic system as
+presented in Player's Option: Skills and Powers and the new Dark Sun boxed
+set.  For a system that was supposed to claer up the errors found in the
+original Complete Psionics Handbook system, many folks have found the new
+system to be even more unworkable.  For your entertainment, presented below
+is a (rather-lengthy) patch to bring the new system up to speed.  Finally,
+anyone wishing a copy of these articles in their original MS Word 2.0
+format, just drop me an email and I'll send a copy out ASAP.  
+
+Enjoy!
+****
+
+S&P Psionics Revision  
+
+By:     Michael Brown           (mikeyb@thurston.ME.Berkeley.EDU)
+	Steven Cox              (slight@bev.net)
+
+Version Information
+
+v1.0:   Psionic Attacks and Psionic Defenses
+	Charp system for psionicists
+v1.2:   Virtually all the Miscellaneous information
+	Expanded upon Psionic Defenses
+v1.4:   Much editing and formatting  ;)
+	Mass Contact, Failure Costs, and Psionic Attack saving throws
+	Version information added
+	Harbingers & Constructs Table
+
+With the release of the Player's Option: Skills & Powers rulebook, AD&D
+gamers are presented with a revision of the existing psionic rules.  
+Unfortunately, despite the inherent potential in the ideas posed by S&P, 
+there are several design flaws that need to be corrected before the 
+revision could be put into test.  This article is intended to fix the 
+various errors and allow players to fully explore the new psionics.
+
+***Psionic Attacks***
+Probably the most glaring mistake is evident with the revised psionic 
+attack forms.  Originally, the five "telepathic attack modes" enabled 
+access to an opposing psionicist's mind by establishing tangents, or a 
+"three-fingered contact".  Now, before one gains access to a psionicist's 
+mind, one must totally batter their defenses down, shown in game terms as 
+a reduction of their PSP scores to zero.  Within this change, tho, 
+appears the problem.  In most cases, the attacks require a higher PSP 
+expenditure than the attacks take away from the defender!
+
+Ego Whip:       1d6 PSPs damage per 4 PSPs      (average 3.5/4)
+Id Insinuation: 1d8 PSPs damage per 6 PSPs      (average 4.5/6)
+Mind Thrust:    1d4 PSPs damage per 2 PSPs      (average 2.5/2)
+Psionic Blast:  1d12 PSPs damage per 10 PSPs    (average 6.5/10)
+Psychic Crush:  1d10 PSPs damage per 8 PSPs     (average 5.5/8)
+
+As shown, the average attack will cost more PSPs than the attack will 
+take away from the opposing psionicist.  The surest way to lose in 
+psionic combat is to participate!  This may have real-world similarities 
+(such as the Cold War-era MAD doctrine), but a gaming combat system that 
+discourages combat isn't very entertaining!
+
+Presented below is the suggested "patch" for the S&P psionic attack 
+costs.  They're quickly listed, but below them is presented some of the 
+math worked thru to mentally test the fix.
+
+Ego Whip:       2d6 PSPs damage per 4 PSPs      (average 7/4)
+Id Insinuation: 2d8 PSPs damage per 6 PSPs      (average 9/6)
+Mind Thrust:    2d4 PSPs damage per 2 PSPs      (average 5/2)
+Psionic Blast:  2d12 PSPs damage per 10 PSPs    (average 13/10)
+Psychic Crush:  2d10 PSPs damage per 8 PSPs     (average 11/8)
+
+First, there is the necessity to make these psionic attacks cost-
+efficient.  There is simply no psionicist in his right mind (no pun 
+intended) who would use the attacks as presented in S&P.  If a psionic 
+attack is going to be employed, it must make a "PSP profit", and in most 
+cases, a sizable profit.  As shown above, every attack now will do more 
+PSP damage than it costs to utilize, on the average.  The chance of 
+"going into the black" is still present, however.
+
+Second, given the fact that a psionicist may pick which psionic attacks 
+they gain as they advance levels, some incentive is needed to make the 
+lower-powered attacks more tempting to use.  This is accomplished by the 
+lessening percentage of PSP "profit" with the more powerful attacks.  
+Here are some numbers to toss around:
+
+Ego Whip:       75% profit average      16% not profitable
+Id Insinuation: 50% profit average      24% not profitable
+Mind Thrust:    250% profit average     6% not profitable
+Psionic Blast:  30% profit  average     31% not profitable
+Psychic Crush:  37% profit average      28% not profitable
+
+To clarify, Ego Whip does an average 7 PSPs of damage, or a 75% profit,  
+per 4 PSP expenditure.  To be non-profitable, one would have to do 2-4 
+PSPs of damage which occurs only 16% of the time.  As the maximum amount 
+of PSP damage per power rises, the profitability lowers and the chance to 
+be non-profitable increases.  While its the better tactic to try to drain 
+the opposing psionicist's PSPs as quickly as possible, using a slower 
+psionic attack has its advantages.
+
+But this brings to light another problem.  Now that the cheaper attacks 
+are comparatively better than their higher-cost brethren, what is 
+stopping the psionicist from not even bothering with the more expensive 
+powers?  For example, why invest 20 PSPs (or 2 "units" of PSPs) into 
+Psionic Blast when one could invest 20 PSPs (10 "units") into Mind Thrust 
+and get better results?
+
+One method to prevent this abuse is to put a PSP unit cap on each power,
+something like 4 units per round.  As such, a better power like Mind 
+Thrust is topped off at 8 PSPs, while the more difficult power of Psionic 
+Blast could throw 40 PSPs around in a single round!  This reduces the 
+min/maxing abuse inherent in the revision, while also slowing down high-
+level psionic combat.  Do we really want to see a 200 PSP Mind Thrust 
+utilized?
+
+An alternate method of dealing with the min/maxing problem (and if you 
+are willing to do the math) is to have each additional "unit" of PSP 
+damage rise in cost exponentially, doubling the cost with each additional 
+unit.  Or you may want to use "cost stacking" in which the cost of 
+succeeding attacks is the sum of the previous attacks (of the two 
+methods, the latter is suggested as the more fair option).  For example:
+
+Mind Thrust:    2 PSPs/2d4 PSPs damage  (base)
+(exponential)   4 PSPs/4d4 PSPs damage  (2*2)
+	8 PSPs/6d4 PSPs damage  (4*2)
+	16 PSPs/8d4 PSPs damage (8*2)... and so on.
+
+Mind Thrust:    2 PSPs/2d4 PSPs damage  (base)
+(cost-stacking) 6 PSPs/4d4 PSPs damage  (4+2)
+	12 PSPs/6d4 PSPs damage (6+4+2)
+	20 PSPs/8d4 PSPs damage (8+6+4+2)... and so on.
+
+These two options remove the need for the artificial PSP "cap", allowing
+high-level psionicists to exact serious damage in a single round, but at 
+a terribly inefficient cost ratio.  Sometimes speed is worth it!
+
+
+***Psionic Defenses***
+Another major problem is with the psionic defenses.  Under S&P rules, 
+when an attack and defense collide, one cross-references the powers on 
+the Psionic Attacks vs. Psionic Defenses Table.  Depending on which 
+powers are facing off, a MTHAC0 bonus or penalty is assigned to the 
+attacking psionicist.  Note an unusual property of this table - there is 
+a 40 to 60% probability that any given psionic defense will make one 
+more likely to take damage from a psionic attack!  The below numbers are 
+an attempt at making all the attacks, no matter their comparative power, 
+be a better defense than no defense!
+
+Note: These numbers are bonuses to the user's bases MAC.  For example, 
+using Tower of Iron Will against Mind Thrust grants a +10 MAC.  This 
+represents a minor change in how defenses are viewed, but hopefully is 
+an improved viewpoint.
+
+	       Thought   Mind   Mental   Intellect   Tower of
+	       Shield    Blank  Barrier  Fortress    Iron Will
+Mind Thrust     10       0      5        9           10
+Ego Whip        0        5      10       9            8
+Id Insinuation  0        10     7        3            7
+Psychic Crush   4        3      2        7            9
+Psionic Blast   1        3      4        6            7
+
+New suggested costs:  1/2/3/4/5 for Thought Shield to Tower of Iron Will, 
+in that order.  Statistically, this scheme has the attack modes meeting 
+less and less average defense (6.8/6.4/5.4/5/4.2) as the attacks power 
+up.  The average defense provided by each power increases with cost: 
+(3/4.2/5.6/6.8/8.2).
+
+Presented below is an reminder on how the various psionic attacks and
+defenses operate:
+
+Mind Thrust:  This mental attack is representative of the psi forming 
+physical "attacks" with his mind; forming mental swords, blasts of fire, 
+etc, and sticking his opponent with them. 
+ 
+Ego Whip:  This attack beats the target's emotions into paste; smashing 
+him with waves and symbols of despair, anguish, anger, and drowning him 
+in misery.  It is the manifestation of "pure" emotion. The Dark Sun 
+supplement, The Will and the Way, suggests harbingers like the Slave 
+(despair), or the Templar (betrayal).
+
+Id Insinuation:  This attack mode is often described as the equivalent of 
+a "mental poison"; when it strikes it sickens and weakens the target's 
+will and self-image, allowing his subconscious to run rampant and, as 
+noted in the Psionicist's Handbook, "driving him crazy".  Id insinuation 
+often takes the form of a poisonous gas or serpent-like monster; sneaking 
+around the psi's defenses or driving a poisonous fang right through them.
+
+Psychic Crush:  The psionicist generates "overwhelming forces" to smash 
+his enemy's mind.  This is another relatively "physical" attack, taking 
+the form of giant boulders, behemoth-type monsters, natural disasters 
+like earthquakes in the mental landscape, etc.
+
+Psionic Blast:  The most devastating attack mode is the ever-popular 
+Psionic Blast, which generates a ferocious burst of mental energy and 
+can take, reasonably, any "physical" form; a hail of missiles, a blast of 
+dragon's breath, etc.  Dark Sun gives Psionic Blast the attributes of a 
+vicious beast that tears and shreds the target into gory bits. The 
+defining characteristic of this attack is the power behind it; the only 
+real way to protect against it is to have as powerful a defense as 
+possible.  The more expensive the defense mode, the better defense it 
+provides.
+
+Thought Shield:  This defense mode generates "physical armors" for the
+psionicist's mental personae.  This provides excellent defense against 
+Mind Thrust's physical attacks (sword vs. shield); and some against 
+Psychic Crush (also physical).  It doesn't really have any application 
+to protecting the user's emotions, so it provides no defense against Ego 
+Whip, and the poisons of Id Insinuation just slip past the armor.  
+Psionic Blast just overpowers it completely, although the physical armor 
+helps a tiny, tiny bit.  
+Note: unlike the presentation of the Psionicist's Handbook, Thought 
+Shield is the weakest defense, not Mind Blank (which, as a defense 
+technique, has more utility).
+
+Mind Blank:  This defense mode "hides" the mind; clouding it in a 
+confusing landscape - forests, a thick fog, darkness, etc.  This provides 
+good defense against Ego Whip, since the mind is "hiding in the closet" 
+and the "door" muffles the attack.  Id Insinuation is totally foiled 
+because it can't find the right place to "bite".  The hiding technique 
+isn't as effective against the physical attacks - Psychic Crush defeats 
+it easily because of the "size" of the crushing attack (sure, you're 
+hiding in that copse of trees, but what good does that do when a 
+landwhale is smashing the whole thing down?).  Mind Thrust's directness 
+punches right through deception, and hiding from it will do one 
+absolutely no good.  Hiding might protect you from Psionic Blast a 
+little, but its harbingers either smash the entire hiding place at once, 
+or, as "animals", can hunt through it.  
+
+Mental Barrier:  This is the "concept" defense - the psionicist fills his
+mind with a powerful and consuming thought, like "Truth" or "Pure Will" 
+or even "Hatred" or "Denial" - you name it.  This provides great defense 
+against the "emotional" attack of Ego Whip (which is snuffed).   Id 
+Insinuation's poisons can't find purchase - a mind focused on "Truth" 
+transcends its subconsciousness and can't be dislodged - one that is 
+denying the attack's very existence renders the poisons feeble.   Mental 
+Barrier is a reasonably powerful defense, and the power behind it even 
+mitigates the ferocity of Psionic Blast to some degree; calming the 
+beast within, so to speak - but not very much. Mental Barrier provides 
+good strength against Mind Thrust as well, due to its "overpower" and the
+fact that these concepts, given form, somewhat confound the weaker, 
+direct attacks of Mind Thrust.  How can one "stab" the Truth?  
+Unfortunately,  Mental Barrier is confounded utterly by Psychic Crush, 
+which destroys the defender along with his petty concepts.....
+
+Intellect Fortress:  This defense girds the psionicist into the fleshly 
+form of an incredibly tough monster - a "living fortress". An ironwood 
+tree, a Dragon Turtle, Dinosaur, Tarrasque, an a giant Beetle are all 
+good examples of the Fortress constructs.  These provide great defenses 
+against all "physical" harbingers, and the "living" nature of the beasts 
+bolsters the psionicist against Ego Whip.  Id Insinuation is its 
+weakness - poison goes right to the heart of the living beast.
+
+Tower of Iron Will: This is the ultimate in defense - building a lonely,
+desolate fortification, strong walled and hard to reach. The psionicist 
+puts his psyche deep in the center of this haven.  This defense takes 
+the form of Castles, or lonely Towers.  This protects against 
+everything - the hidden mind is protected from Ego Whip, "physical" 
+attacks fail against its ramparts.  It is weakest against Psionic Blast
+(strong attack) and Id Insinuation (which can form poisonous vapors and 
+slip in the "windows" or find a hidden entrance - although not easily).
+
+***Charp System for Psionicists***
+One consistent complaint about the S&P revision of psionicists was the
+neglect to include the charp system rules for that class which the rest 
+of the book presented.  The following are suggestions for implementing 
+such a charp system for psionicists.  Note that it would take an 
+extensive list to fully upgrade S&P to use a charp psionicist.  In cases
+where the rules might be unclear, consider a psionicist follows the 
+guidelines for rogues.  Also, DM's should feel free to add new charp 
+purchasable skills/restrictions as necessary, as this is a very 
+customizable part of the entire character creation process.  
+
+Psionicists (beginning charps: 40)
+The standard psionicist purchases access to disciplines (25), psionic
+attacks/defenses (5), followers (5), and saving throw bonus (5).
+
+Access to Disciplines (5-25): It costs 5 points per discipline to which 
+the psionicist has access.  For example, if the psionicist wanted access 
+to 4 disciplines, it would cost 20 charps.  The standard psionicist 
+purchases all 5 disciplines for 25 charps.
+
+Psionic Attacks/Defenses (5): Psionicists who purchase this ability gain
+psionic attacks and defenses automatically by level advancement.  The 
+rate of acquisition is listed in S&P, p.154, Table 80
+
+1d8 for Hit Points (10): Psionicists with this ability use 1d8 to 
+determine their hit points instead of 1d6.
+
+Followers (5/10): By purchasing this skill, a psionicist can gain 
+followers as described in the Complete Psionics Handbook if he builds a 
+sanctuary and is at least 9th level.  If this is purchased as a 10 point 
+ability, the fighter can attract followers whenever he establishes a 
+sanctuary, regardless of level.
+
+Saving Throw Bonus (5): Psionicists with this ability gain a +2 bonus to 
+all saving throws vs. enchantment/charm spells.
+
+Warrior Hit Point Bonus (5): A psionicist with this ability can enjoy the
+benefits of a high Con score as if he were a fighter.  For example, a 
+psionicist with Con 18 would gain 4 bonus hp instead of 2.
+
+Armored Psionicist (15): This psionicist can use his abilities while 
+wearing the armor of his choice.
+
+Weapon Specialization (15): The psionicist can specialize in a particular
+weapon.  The charp cost for gaining proficiency and specialization in the 
+weapon must be met in addition.  
+
+Discipline Focus (10): The psionicist's MTHAC0 scores in his primary 
+discipline are increased by +2.
+
+Combat Bonus (10): A psionicist with this ability uses the priest's THAC0 
+table.
+
+Optional Restrictions
+No Weapons/Armor (5): The psionicist may not use any weapons or armor.
+
+Limited Magical Item Use (5+): A psionicist with this restriction 
+disdains enchanted items as a crutch for the weak and refuses to use 
+certain categories of magical items.  For each barred category, he 
+receives 5 charps.  The categories are: potions, oils, and scrolls; 
+rings, rods, staves, wands, and miscellaneous magical items; all magical 
+weapons and armor.
+
+Note that Contact (ie - psionic attacks) have been changed over to be a
+class ability, not treated as a nonweapon proficiency (an ill-fated 
+idea, in our opinion).  When dealing with Wild Talents, it is suggested 
+to allow them to use charps from their true class to purchase the 
+psionicist Psionic Attacks/Defenses ability, and to spend additional 5
+charp increments in the future to gain additional attacks (ie- Wild 
+Talents don't follow the true psionicist's attack/defense acquisition 
+rate, but must purchase them when able).
+
+Here are the suggested charp cost/relevant stats for the psionicist's 
+NWPs:
+
+Name                NWP cost    Init Rating
+Harness Subconscious    4       5
+(Wisdom/Willpower)              
+Meditative Focus        3       7
+(Wisdom/Willpower)              
+Rejuvenation            3       6
+(Wisdom/Willpower)              
+Mental Armor            3       5
+(Wisdom/Willpower)              
+
+
+***Miscellaneous***
+The S&P psionics revision created further problems, some of which are 
+unnoticed until studied with a careful eye.  Presented below are some 
+conceptual errors that need to be changed to make the system playable.
+
+Stealthy Psionicists:  The change to the nature of psionic contact 
+appears to have drastically weakened the psionicist when it comes to 
+making contact quietly and without notice.  Back in the Psionics 
+Handbook, the psionicist could enter a victim's mind without notice using 
+the Contact power.  Under S&P rules, the only method to enter a victim's 
+mind is by psionic attack.  As described in the Psionics Handbook, 
+contact by psionic attack feels "like a tiger has unsheathed its claws 
+in your head".  This is about as far from subtle as possible!  How could 
+powers such as Daydream, False Sensory Input, and Invisibility operate, 
+when their surprise factor highly reduced or simply eliminated?  
+
+While contact will always present itself as a sudden mental pain 
+(probably best compared to a headache, perhaps migraine level), this does 
+not necessarily point towards psionic intrusion.  Since psionics is rare 
+in most campaigns, it's very unlikely that a sudden headache will be 
+linked to a psionic attack.  Given the general state of health of the 
+average medieval citizen, headaches were probably a quite common 
+occurrence.  DMs may want to handle whether or not targets of contact 
+recognize the attempt as contact in a similar method as adjudicating 
+illusions.
+
+Clever psionicists will disguise their contacts with other painful
+activities - an earsplitting noise, a whack on the head, or even telling 
+the victim he's been given a drug.  Anything to give the victim a reason 
+to suspect that the sudden headache is being caused by normal 
+circumstances, or at least abnormal circumstances that don't relate to 
+psionics!
+
+For players of psionic characters who wish to bring back the truly 
+stealthy psionicist, you might want to allow psionic attacks with a -5 to 
+-10 MTHAC0 modifier to establish contact without causing an obvious 
+mental pain.  A subtle contact shouldn't be easy - part of the spirit of 
+the new rules is that no psionicist can manipulate a victim's mind 
+without some tell-tale clues.  Remember that one of the main complaints 
+about the Psionics Handbook was that the powers were too stealthy!
+
+Closing An Opened Mind: The S&P psionics revision has made it much easier
+for non-psionicists to protect themselves with the ability to close an 
+opened mind.  However, this reduces the effectiveness of psionic powers 
+that normally have long duration, such as Fate Link.  The problem can be 
+solved by redefining the effects of closing an opened mind.  First, 
+closing one's mind prevents the activation of any new telepathic powers 
+against the target, until the mind is re-opened.  Second, this prevents 
+exercising any active powers already established.
+
+In other words, passive powers such as Fate Link that have been 
+"implanted" into a victim while having an opened mind will not be severed 
+if the victim manages to close his mind.  Even active powers such as 
+Domination that have been implanted will not be severed, but no active 
+control can penetrate the closed mind.  In many ways, this is similar to 
+the effect of a Protection from Evil spell.  Powers remain in place if 
+the psionicist continues to pay maintenance costs, as the psionicist has 
+a "foot in the door".  When and if the target's mind is re-opened, the 
+implanted powers can again be accessed and controlled.
+
+Example: A Dominated victim could not be controlled after the he manages 
+to re-close his mind, but, if the maintenance costs are paid, the 
+psionicist won't have to reactivate Dominate once he re-opens the 
+target's mind.
+
+Level Modifications: It has been suggested that a system be installed 
+that makes it more difficult to resist higher-level psionicists.  This 
+problem is present throughout the AD&D system, and has finally been 
+touched upon by the presentation of Saving Throw Modifications by Level, 
+a set of new rules presented within the DMs Option: High Level Campaigns 
+sourcebook (table 36, p.143).
+
+For example, let's consider a 7th level fighter attempting to close his 
+mind from the intrusions of a 12th level psionicist.  When the fighter 
+makes his saving throw vs. paralyzation, his roll would normally need be 
+10 or better.  Due to the higher level of his psionicist attacker, this 
+saving throw is penalized, requiring a 14 or better.  If the fighter were 
+to have been of higher level than his attacker, the saving throw would
+have received a bonus.
+
+Presented below is the Psionicist's saving throws by caster level or hit
+dice (yes, this is the same as the rogue chart as presented in HLC):
+
+Target's Class  Target's Level  Paralyze/Death Magic    Petrify/Polymorph       Spells
+Psionicist      -9 or more        13                         12                  15
+		-5 to -8          12                         11                  13
+		-1 to -4          11                         10                  11
+		0                 10                         9                   9
+		+1 to +4          9                          8                   7
+		+5 or more        8                          7                   5
+
+Range Limitations:  With the loss of the unlimited range Contact power,
+replaced by the psionic attacks, the range of many of the telepathic 
+powers have been greatly reduced.  As the psionic attacks are limited to 
+line-of-sight targeting, what good are powers such as Mindlink, Send 
+Thoughts, and Sight Link?  Sending thoughts to comrades across the room 
+isn't nearly as useful as sending thoughts across the globe!  
+
+To handle this limitation, it's suggested that the non-attack 
+communication powers be granted an innate contact ability, allowing for a 
+much greater range.  This gives the powers the ability to "knock on the 
+door and ask to be let in" - to carry an announcement and request a 
+voluntary contact.  
+
+For these powers, use the old Contact rules found in the Psionics 
+Handbook to determine cost modifiers for range:
+
+Separation Distance     Power Score Modifier
+Line-of-sight                             0
+1 mile                                   -1
+10 miles                                 -3
+100 miles                                -5
+1,000 miles                              -7
+10,000 miles                             -9
+
+For example, consider a psionicist who wishes to give a message to an old
+friend who happens to live an another city nearly 100 miles away.  
+Instead of having to use a psionic attack on his comrade (which isn't 
+very friendly, and besides, the city is way beyond LOS), the psionicist 
+uses the innate, albeit limited, Contact of Send Thoughts.  The 
+psionicist makes his MTHAC0 roll at -5 for the distance involved, and 
+reaches out across the distance and politely requests that his friend 
+open his mind to accept a message via Send Thoughts.  This limited form 
+of Contact cannot force a target's mind open, nor can it by itself convey 
+any information beyond who the Contactee is.
+
+PSP Acquisition:  Similar to the inherent problem behind the S&P psionic
+attacks, the rate of PSP acquisition between psionicists and wild talents 
+is skewed.  Psionicists are listed as gaining 1d6 PSPs per level, while 
+the wild talents gain a flat rate of 4 PSPs per level.  For the 
+statistically challenged, the average value of 1d6 is only 3.5 - purebred 
+psionicists will have fewer PSPs than their equivalent wild talents?  
+
+There is another fault to be considered in PSP acquisition - the 9th 
+level PSP ceiling.  Akin to the slowdown point of hp acquisition at 9th 
+level, the psionicist is reduced to a 3 PSPs per level gain once reaching 
+that level (altho the wild talent is still gaining his flat rate 4 PSPs!)  
+These problems are simple to fix:
+
+1) Psionicists receive 8 PSPs per level         (plus any bonuses from Con, Int, Wis)
+2) Wild Talents receive 1d6 PSPs per level      (no bonuses possible)
+
+The rationale behind these values is easy to see.  Psionicists are, quite
+obviously, the specialists of psionic skill.  They should receive a flat 
+rate of PSP acquisition, and an appreciable rate at that.  3.5 PSPs per 
+level dampers the class to such a degree that be barely functional.  Wild 
+talents, on the other hand, are just the candidates for random PSPs.  
+Having gained their powers thru sheer luck, without any training or 
+discipline, their power level should be decided by luck as well.
+
+Mass Contact:  The high science of Mass Contact, listed in The Will And 
+The Way, needs to be updated to correspond with the new rules.  To use 
+this power under the modified rules, very few changes need to be made, 
+however.  The power is still considered a high science, and must be 
+purchased like normal psionic powers:
+
+Mass Contact
+Telepathic High Science
+MAC: special
+PSP special
+Range: special
+Area of Effect: special
+Prerequisite: 10th level
+
+Mass Contact is the High Science of Telepathy.  It allows the telepath to
+psionically attack a number of minds at the same time instead of 
+attacking each subject individually.  The user picks which one of the 
+five normal psionic attacks to use and may now use it to attack a group, 
+limited by the normal range of the chosen power.  
+
+The cost of Mass Contact is the sum of the power usage against each 
+target as if the psionicist would have attacked each target individually.  
+For each additional target past the first, the psionicist's MTHACO roll 
+is penalized by -1.  One attack roll is made for *all* the attacks, and 
+one attack is made for *all* of the power activations.  Mass Contact is 
+an all-or-nothing proposition.  
+
+For example, consider a high-level psionicist (MTHACO: 10) using a Mass
+Contacting-Mind Thrust on 10 low-level targets (MAC: 10) within range.  
+The psionicist spends 2 PSPs (the base cost of Mind Thrust) times 10 (the 
+number of targets) for a total of 20 PSPs.  The attack roll is penalized 
+by -9, so the psionicist needs to roll an 11 or better to succeed.  
+Assuming the psionicist succeeded with this attempt to open his target's
+minds, he can then go on to make another psionic attack that same round.  
+Now the psionicist uses a Mass Contact-Id Insinuation to bludgeon his 
+foes.  He spends 6 PSPs (base cost of Id Insinuation) times 10 (number 
+of targets) for a total of 60 PSPs and makes another attack roll at -9.  
+If effective, all ten targets are left dazed and confused for 1d4 rounds.
+
+Mass Contact is a High Science and cannot be selected as a science 
+without first engaging in extensive meditation (as outlined in The Will 
+And The Way).
+
+Psionic Vampirism:  Under the new psionic rules, the Psionic Vampirism 
+power (as presented in The Will and the Way) overlaps the function of 
+the new psionic attacks, as well as being inconsistent with some of the 
+new core rules.  Presented below is the revised Psionic Vampirism power
+
+Psionic Vampirism
+Psychometabolic Devotion
+MAC: 8
+PSP Cost: 8/3
+Range: touch
+Area of Effect: Individual
+Prerequisite: none
+
+Psionic vampirism is the much feared ability to steal another's psionic
+strength in order to replenish the psionicist's own.  Although it 
+resembles psychic drain, psionic vampirism is different in three 
+important ways: first, PSPs are directly drained; secondly, the victim 
+need not be asleep; and third, the victim need not be humanoid, it only 
+need a PSP pool.  Psionic vampirism is a very painful process, but is not 
+debilitating as psychic drain can be.
+
+To begin draining PSPs, the psionicist must first make his MTHAC0 roll
+against this power's MAC.  This roll also determines the amount of PSPs 
+drained per usage of the power (as below).  Once established, the 
+psionicist must touch the target to be drained, requiring a to-hit roll.  
+A successful touch attack is necessary for each round of draining 
+desired.
+
+MTHAC0 Roll     PSP Drain
+19-20           3 PSPs
+17-18           5 PSPs
+13-16           7 PSPs
+10-12           9 PSPs
+8-9            11 PSPs
+6-7            13 PSPs
+5 or less      15 PSPs
+
+Although no permanent damage is caused by this power, it is unpleasant to
+the extreme and the victim will almost certainly not want to voluntarily 
+experience this drain!  Psionic strength drained by this power returns 
+normally, just as if the victim had expended the PSPs himself.  If the 
+victim is drained to 0 PSPs by psionic vampirism, he must make a saving 
+throw versus death or fall unconscious for 2d6 turns.
+
+Power Score:    Rate of PSP drain doubles.
+20:             The power backfires; the user loses half of his remaining 
+		PSPs.
+
+Failure Costs of Psionic Attacks:  If a psionic power is attempted and
+failed, the user must still pay a small PSP cost, between 30-50% of the 
+power's true cost.  However, this doesn't hold true of the psionic 
+attacks.  No matter how many units of PSPs are pumped into these attacks, 
+the user still pays only 1-5 PSPs if the power were to fail.  The reason 
+is that, under the existing rules, the amount of PSP units placed in an 
+attack are determined after the attack roll is made.  This makes for both 
+unrealistic failure costs and removes strategy from psionic attacks.
+
+The PSP units should be declared before the attack roll is made.  If the
+attack roll fails, the user pays the regular failure cost times the 
+number of units.  For example, Ego Whip costs 4 PSPs per unit and 
+normally has a 2 PSP failure cost.  If the user intends to fire off a 20 
+PSP (5 unit) attack with this power and fails, the failure cost would be 
+10 PSPs (5 units times a failure cost of 2).
+
+Also note that disrupted psionic powers (unlike failed psionic powers, as
+mentioned above), normally cost 1 PSP when disrupted.  If a psionic 
+attack is disrupted, multiply the cost by the number of units.  As in the 
+example above, an Ego Whip attack using 5 units of PSPs would cost 5 PSPs 
+if disrupted.
+
+Psionic Attacks & Saving Throws:  It has been suggested that some of the
+psionic attacks are too potent to not allow saving throws, with Ego Whip 
+and Id Insinuation being noted most often as the offenders of the group.  
+If these powers do seem rather nasty, simply allow saving throws vs 
+paralyzation to negate the effects of the attack.  The other three 
+psionic attacks don't appear to need such saving throws, but could be 
+incorporated if felt necessary.  Psionic Blast and Psychic Crush could 
+have saves for half damage, if so desired, but it is the opinion of the 
+author's that these powers are expensive and limited enough as-is.
+
+Some might think that saving throws for Ego Whip and Id insinuation go to
+far to reducing the effectiveness of these powers.  An additional option 
+is to allow the psionicist to force saving throw penalties by pumping 
+more PSP units into the attacks.  Simply have each additional unit 
+invoke a -1 to the target's saving throw.  This makes it much more likely 
+that a high-level psionicist (with plenty of PSPs) will be able to force 
+thru an opponent's mind even with a saving throw attached to the psionic 
+attacks.  If using the level-modified saving throws mentioned earlier in 
+this article, it probably isn't necessary to add this option.
+
+Receptacle Usage & New Combat Rules  One of the more useful powers a 
+psionicist can have access to is Receptacle, which enables one to store 
+PSPs within a gem or an Empowered item.  A psionicist using Receptacle 
+effectively doubles his PSP pool, drawing stored PSPs out of the item as 
+needed.  This ability holds a potential problem under the new psionic 
+combat rules.  Now that psionicists can "pump up" their psionic attacks, 
+access to a larger PSP pool becomes abusive.  It is suggested that, under 
+S&P Psionic rules, that Receptacle only allows a transfer rate of PSPs 
+from the item to the psionicist at a rate of 1 PSP per round.  This 
+change removes the use of Receptacle to drastically increase a 
+psionicist's power, while still allowing the psionicist assess to 
+additional PSPs.  Basically turning a Receptacled item into a type of 
+PSP battery, allowing the user to "recharge" quicker than normally 
+allowed.
+
+Single Cost or Initial/Maintenance Costs?  As presented in the Complete
+Psionics Handbook, psionic powers originally possessed two different 
+costs - an Initial Cost and a Maintenance Cost.  In an attempt to 
+simplify psionics, the S&P rules incorporated a single PSP cost per 
+round, a cost that is generally less expensive than the original Initial 
+Cost, but more expensive than the Maintenance Cost.  The better method is 
+a matter of personal choice, as both methods work out be be roughly 
+equal.  However, note that the original costs are more beneficial towards 
+maintainable powers, while the new S&P rules lend themself to one-shot 
+powers.  We suggest using the original PSP costs for their more 
+interesting game dynamics, but if simplicity is desired, use the new PSP 
+costs.
+
+-------------------------------------------------------------------------
+Classifieds
+-------------------------------------------------------------------------
+If you have something which you are looking for, wish to sell, or are
+looking for gamers in your area and wish to post an add into the 
+newsletter just e-mail me the add.  For members this is free and we 
+encourage everyone to use this as a means of communication.  Just address
+all classifieds to Michael Popovich (cad@digital.net) to be added into
+the newsletter.

@@ -1,0 +1,30 @@
+The rules we use.
+
+There are no real 'rules' that I use to master the Atrilian campaign.
+
+A. The referee rules
+LOGIC and the WHIM of the referee are usually enough for most actions like
+raising tax, building roads, troop movements, manufacturing weapons for an
+army, travel, and similar actions.
+
+B. Magic & Monsters
+2nd edition AD&D rules are used for magic and monsters. Some of them are
+from the Al-Qadim setting (e.g. naval rules, genies), from the PlaneScape
+setting (e.g. planar travel), or from recent issues of the Dragon magazine
+(e.g. Spell Paths).
+
+C. Tactical combat
+The war game 'Ancients' by 3W is used for mass combat, with several house
+variants (magic, monsters, leaders).
+
+D. Weather generation
+I've written a program to generate weather for the campaign but, given the
+setting, the weather's usually 'sunny'. Only the monsoon might be dangerous
+for sea travel.
+
+E. Assassination attempts
+We have strict (house) rules for such attempts to ensure no one complains.
+
+Well... that's about all. I'm working on tables for droughts/crops, yearly
+tax and monthly expenses, and similar stuff, though, to make the game
+funnier.

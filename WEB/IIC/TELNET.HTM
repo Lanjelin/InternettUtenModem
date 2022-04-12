@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<TITLE>Telnet</TITLE>
+	<LINK REV=made href="mailto:cf@magnet.at">
+	<META HTTP-EQUIV="Reply-to" CONTENT="cf@magnet.at">
+	<META HTTP-EQUIV="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cf@magnet.at" for "http://www.iic.priv.at/iic" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'> 
+	<META NAME="Keywords" CONTENT="Internet, Information, newbie, free, guide, guides, howto, how to, how-to, history, cookie, ftp, www, gopher, usenet, news, irc, mail, indices, parents, protection, software, links, glossary, archie, new, DNS, adressing, construction, tcp/ip, structure">
+	<META NAME="Description" CONTENT="The IIC offers everything for the 'Net user in one place. Starting from History to user guides, lots of links and a hyper-glossary. A must for newbies">
+	<META NAME="Revisit-after" CONTENT="14 days">
+	<META NAME="Copyright" CONTENT="1996-1997 Christian Feichtner">
+</HEAD>
+
+<BODY LEFTMARGIN=0 TOPMARGIN=0 BGCOLOR="#FFFFFF">
+	<!--Main Toolbar -->
+	<A NAME="top">
+	<TABLE WIDTH=100% BGCOLOR="#000000" CELLSPACING=0 CELLPADDING=0 BORDER=0>
+		<TR><TD>
+	<A HREF="INDEX~1.HTM" tppabs="http://www.austria.eu.net/iic/index.html"><IMG  SRC="HOME.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/home.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="HELP.HTM" tppabs="http://www.austria.eu.net/iic/help.htm"><IMG SRC="FIRST.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/first.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="FEEDBACK.HTM" tppabs="http://www.austria.eu.net/iic/feedback.htm"><IMG SRC="FEEDBACK.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/feedback.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="AWARDS.HTM" tppabs="http://www.austria.eu.net/iic/awards.htm"><IMG SRC="AWARDS.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/awards.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="AD.HTM" tppabs="http://www.austria.eu.net/iic/ad.htm"><IMG SRC="AD.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/ad.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="tppmsgs/msgs0.htm#6" tppabs="http://members.magnet.at/cf/iic/guestbk.htm"><IMG SRC="GB.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/gb.gif" BORDER=0></A>
+		</TD><TD ALIGN=RIGHT>
+			<A HREF="INDEX-1.HTM" tppabs="http://www.austria.eu.net/"><IMG SRC="EUNET.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/eunet.gif" BORDER=0></A>
+		</TD></TR>
+	</TABLE>
+	</A>
+	<TABLE WIDTH=100% CELLPADDING=0 CELLSPCING=0 BORDER=0>
+		<TR><TD ALIGN=LEFT>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=1><B>
+			&nbsp;&nbsp;LAST UPDATE: MARCH, 10. 1997
+			</B></FONT>
+		</TD><TD ALIGN=RIGHT>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=1><B>
+			C H A P T E R &nbsp; &nbsp; 2.7 &nbsp; - &nbsp; HOW TO - USE TELNET&nbsp;
+			</B></FONT>
+		</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE WIDTH=100% BORDER=0>
+		<TR><TD>
+			&nbsp;&nbsp;<IMG SRC="DOCMAIN.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/docmain.gif" ALT="IIC"><BR>
+			&nbsp;&nbsp;<A HREF="INDEX~1.HTM" tppabs="http://www.austria.eu.net/iic/index.html"><IMG SRC="GIDX.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/gidx.gif" BORDER=0></A> <A HREF="HOWTO.HTM" tppabs="http://www.austria.eu.net/iic/howto.htm"><IMG SRC="GCONTENT.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/gcontent.gif" BORDER=0></A><BR>
+			&nbsp;&nbsp;<FONT FACE="Verdana, Arial, Helvetica" COLOR="#008000" SIZE=4><B>How do I use telnet ?<B></FONT>
+		</TD><TD ALIGN=RIGHT VALIGN=TOP>
+			<A HREF="TIME.HTM" tppabs="http://www.austria.eu.net/iic/time.htm"><IMG SRC="NEXT.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/next.gif" ALT="Next" BORDER=0></A>&nbsp;<BR>
+			<A HREF="MAILLIST.HTM" tppabs="http://www.austria.eu.net/iic/maillist.htm"><IMG SRC="PREV.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/prev.gif" ALT="Previous" BORDER=0></A>&nbsp;<BR>
+			<A HREF="GLOSSAR.HTM" tppabs="http://www.austria.eu.net/iic/glossar.htm"><IMG SRC="GLOSSAR.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/glossar.gif" ALT="Glossary" BORDER=0></A>&nbsp;<BR>
+		</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE WIDTH="640" CELLSPACING=5 CELPADDING=5>
+		<TR><TD WIDTH=180>
+			<!-- Spacer -->
+			<IMG SRC="BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" WIDTH=180 HEIGHT=1>
+		</TD><TD COLSPAN=2>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			Telnet is surly is one, if not the, oldest service on the internet. All other services are used to transfer data from a 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="SERVER.HTM" tppabs="http://www.austria.eu.net/iic/glossary/server.htm">server</A> to a 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="CLIENT.HTM" tppabs="http://www.austria.eu.net/iic/glossary/client.htm">client</A>. Except the 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="WEB.HTM" tppabs="http://www.austria.eu.net/iic/glossary/web.htm">WWW</A>, you can't execute 
+			any programs on the remote computer. Telnet allows you to use remote computers and resources (most likely applications) like
+			they were running on your own computer. This service is a text only service. For instance, students at universities can use
+			telnet to check availability of a book in the local library.
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP1.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap1.gif" ALT="Chapter 1">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>			
+			<!-- What do I need -->
+			<FONT COLOR="#008000" SIZE=3><B>What do I need ?</B></FONT><P>
+			This service is no exception: you will need a client and a server to connect to. If you are using Windows NT 4.0 or Windows 95, you already have a Telnet Client.
+			Click <I>Start</I> and <I>Execute</I> and type <I>telnet</I>. If you do not have a telnet client, then you might find one here:
+			<UL>
+			<IMG SRC="WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="*"> <A HREF="tppmsgs/msgs1.htm#170" tppabs="http://www.cwsapps.com/">CWS Apps List</A>
+			</UL>
+			<P>
+			One word of configuring your client correctly: Before you connect to an telnet host, be sure to set the terminal emulation correctly. The
+			terminal emulation is important so that the host knows how to display text on the client side. &quot;VT100&quot; or &quot;VT102&quot;
+			will work for most hosts.
+
+			<DIV ALIGN=RIGHT>
+			<A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A>
+			</DIV>
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP2.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap2.gif" ALT="Chapter 2">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>			
+			<!-- Where can I connect -->
+			<FONT COLOR="#008000" SIZE=3><B>Where can I connect ?</B></FONT><P>
+			You will need access to a server, that supports and allows you to issue commands and/or use remote programs. If you want you can use 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="ARCHIE-1.HTM" tppabs="http://www.austria.eu.net/iic/glossary/archie.htm">archie</A> using a telnet client. Simply connect 
+			to an archie server listed in the IIC's <A HREF="ARCHIE.HTM" tppabs="http://www.austria.eu.net/iic/archie.htm">archie section</A>. Other examples that can be used via telnet are
+			gopher or ftp. If you are an experienced Internet user, you might find that it is sometimes quicker to use telnet rather than a
+			window-based client. If, however, you want to connect to a remote computer to use programs installed there, you normally have to know a 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="USERNAME.HTM" tppabs="http://www.austria.eu.net/iic/glossary/username.htm">username/user id</A> and a 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="PASSWORD.HTM" tppabs="http://www.austria.eu.net/iic/glossary/password.htm">password</A> to connect. 
+			You will be prompted for them as soon as you want to log in. To get such a username and password ask the owner of the server you want to log in. 
+
+			<DIV ALIGN=RIGHT>
+			<A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A>
+			</DIV>
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP3.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap3.gif" ALT="Chapter 3">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>			
+			<!-- How do I use -->
+			<FONT COLOR="#008000" SIZE=3><B>How do I use telnet ?</B></FONT><P>
+			If you have used telnet for an ftp session and have downloaded a file, you might wonder where the file has been stored.
+			When you have a shell-account (that is if you have access to a remote computer with some reserved harddisk space for you),
+			then the file is generally stored there. To download the file to your local computer, you have to use a file transmission protocol
+			(most likely FTP). Connect to your remote computer using the same address you did use for establishing a telnet session, except
+			that you are using an ftp-client this time. Now you can download a file from your shell-account to your local computer.<P>
+			Another way to use telnet is chatting. No we do not mean IRC, we do mean <I>talkers</I>. Talkers is another funny way of chatting with
+			people. Unlike <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="IRC-1.HTM" tppabs="http://www.austria.eu.net/iic/glossary/irc.htm">irc</A>, where you have several
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="CHANNEL.HTM" tppabs="http://www.austria.eu.net/iic/glossary/channel.htm">channels</A> in which you can talk, you have to go
+			around in a virtual world and can explore things. It's much like a text-based adventure, except, that you do not have to fight anyone.
+			<P>
+			<B>Talkers</B><BR>
+			To use a talker you have to connect to a talker <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="SERVER.HTM" tppabs="http://www.austria.eu.net/iic/glossary/server.htm">server</A>.
+			Each talker is a bit different and offers different worlds to walk in. Here is a list of some talker-servers. If your 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="BROWSER.HTM" tppabs="http://www.austria.eu.net/iic/glossary/browser.htm">Web browser</A> is configured correctly for telnet, just
+			click on one of the links below. Otherwise start your telnet client and connect to the address given.
+			<UL>
+			<LI><A HREF="telnet:argoed.ilserv.com 3000">Argoed: <I>argoed.ilserv.com 3000</I></A>
+			<LI><A HREF="telnet:darkstar.cortland.edu 4242">Chaos: <I>darkstar.cortland.edu 4242</I></A>
+			<LI><A HREF="telnet:vineyard.igc.net 4242">Vineyard: <I>vineyard.igc.net 4242</I></A>
+			<LI><A HREF="telnet:genesis.skl.com 6969">Walt: <I>genesis.skl.com 6969</I></A>
+			<LI><A HREF="telnet:204.200.98.200 7000">Hole: <I>204.200.98.200 7000</I></A>
+			<LI><A HREF="telnet:fysh.org 4242">Insomnia: <I>fysh.org 4242</I></A>
+			<LI><A HREF="telnet:toybox.infomagic.com 4567">Burbs: <I>toybox.infomagic.com 4567</I></A>
+			<LI><A HREF="telnet:panther.envirolink.org 5050">Crossroads: <I>panther.envirolink.org 5050</I></A>
+			<LI><A HREF="telnet:acad.stedwards.edu 4444">Theatre in the Round: <I>acad.stedwards.edu 4444</I></A>
+			<LI><A HREF="telnet:amaterasu.math.orst.edu 1996">Backyard: <I>amaterasu.math.orst.edu 1996</I></A>
+			<LI><A HREF="telnet:131.174.80.47 1234">Curban Bar: <I>131.174.80.47 1234</I></A>
+			<LI><A HREF="telnet:oemsunix.onysd.wednet.edu 5150">Hotel: <I>oemsunix.onysd.wednet.edu 5150</I></A>
+			<LI><A HREF="telnet:alisa.brecknet.com 5000">Brecktown: <I>alisa.brecknet.com 5000</I></A>
+			<LI><A HREF="telnet:199.0.0.2 3000">The Slopes: <I>199.0.0.2 3000</I></A>
+			</UL>
+			Note the numbers after the addresses. These numbers are called port numbers and are part of the address. You have to specify them, or you will
+			be connected to some other service.
+			<P>
+			Once you have established a connection, then you have to log on using a <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="USERNAME.HTM" tppabs="http://www.austria.eu.net/iic/glossary/username.htm">username</A>
+			and <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="PASSWORD.HTM" tppabs="http://www.austria.eu.net/iic/glossary/password.htm">password</A>. If this is your first visit, then choose a
+			username and a password. But do not use your name, as it will be already in use. Think of a new name for you. Then enter a password. If you get a 
+			message, that the login has failed, then probably the selected username is already in use. Try to imagine another one. Once you have logged on, you
+			will find yourself in a special room. Whenever we talk of a room, we do not necessarily mean a real room, a talker-room can as well be a beach or a
+			forest. Your welcome message might look like this
+			<P>
+			<SAMP>
+			You find yourself on a sunny beach. You feel the cool wind blowing and listen to the waves of the sea. Also you notice some birds flying over your 
+			head.
+			<BR>
+			There is noone here except you.
+			</SAMP>
+			<P>
+			To find out, where you can walk, type the command <I>exits</I> which will list possible exists from this room = directions in which you can go.
+			<P>
+			<SAMP>
+			exits
+			<P>
+			pathway - leads away from he beach
+			snackbar - get yourself something to drink
+			</SAMP>
+			<P>
+			To exit the current room use the <I>go</I> command along with the direction you want to go.
+			<P>
+			<SAMP>
+			go pathway
+			</SAMP>
+			<P>
+			You will find yourself in a new room. A description of the current location and the number of other persons will be given when you enter the room. If
+			you enter a room with another person in it, you can talk to this person in private or in public. How you can do this, depends on the software, on which
+			the talker runs. Currently the <I>Nuts</I> and <I>Ew-Too</I> software is the most used software available. The following two tables give you an
+			overview of the most important commands for these two talkers. Let's begin with the Nuts talker:
+			<P>
+			<TABLE WIDTH=100% BORDER=1 BORDERCOLOR="#C0C0C0"  CELLSPACING=0>
+				<TR><TD BGCOLOR="#C0C0C0" WIDTH=40%><I><B><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Command</FONT></B></I>
+				</TD><TD BGCOLOR="#C0C0C0" WIDTH=60%><I><B><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Description</FONT></B></I>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>.help</FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Gives you a full list of commands. Using <I>.help command</I> gives you detailed help about the specified command
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>.wiz</FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Lists the admin staff that is currently logged on. Ask them if you have any problems.
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>.emote <I>action</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Acting; similar to the <I>/me</I> command on IRC. If you type <I>.emote smiles</I> then others will see:
+					<I>nick smiles</I> - where nick is the nickname you have used to log on
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>.tell <I>player</I> <I>message</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Tells the player with name <I>player</I> the given <I>message</I>
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>.shout <I>message</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Shout out <I>message</I>. This will be seen by all other players.
+					</FONT>
+				</TD></TR>
+			</TABLE>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=1><B>TABLE 2.7.1:</B> Basic Nuts commands</FONT>
+			<P>
+			If you are looking for a more in depth coverage of Nuts talkers, then you should have a look at the following address:
+			<UL>
+			<LI> <A HREF="tppmsgs/msgs1.htm#182" tppabs="http://amaterasu.math.orst.edu:8080/~sharpej/information/tutorial.html">Nuts Tutorial</A>
+			</UL>
+			<P>
+			And here is the list of basic EW-Too commands:
+			<P>
+			<TABLE WIDTH=100% BORDER=1 BORDERCOLOR="#C0C0C0"  CELLSPACING=0>
+				<TR><TD BGCOLOR="#C0C0C0" WIDTH=40%><I><B><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Command</FONT></B></I>
+				</TD><TD BGCOLOR="#C0C0C0" WIDTH=60%><I><B><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Description</FONT></B></I>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>help</FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Gives you a full list of commands. Using <I>help command</I> gives you detailed help about the specified command
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>lsu</FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Gives you a list of superusers, which are currently logged on. They will help you if you ask kindly.
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>say <I>message</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Sends a <I>message</I> to everybody that is in the same room
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>emote <I>action</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Similar to the /me command on IRC. <I>emote smiles</I> will display <I>nick smiles</I>, where <I>nick</I> is the name you used to log on
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>tell <I>player message</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Tells a <I>player</I> a certain <I>message</I>.
+					</FONT>
+				</TD></TR>
+				<TR><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>shout <I>message</I></FONT>
+				</TD><TD>
+					<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+					Shouts out the given <I>message</I> to all people in the same room. Note that shouts can be blocked by other users - which means
+					they do not see it.
+					</FONT>
+				</TD></TR>
+			</TABLE>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=1><B>TABLE 2.7.2:</B> Basic EW-Too commands</FONT>
+			<P>
+			<B>Additional Information on Talkers</B><BR>
+			More Information about talkers can be found under the following addresses:
+			<UL>
+			<LI><A HREF="tppmsgs/msgs1.htm#183" tppabs="http://ulibnet.mtsu.edu/~msimms/lists/talkers/about_ew/history.html">Talker History</A>
+			<LI><A HREF="tppmsgs/msgs1.htm#184" tppabs="http://zippy.spoods.dcs.kcl.ac.uk/~fang/">Fang's Talker List</A>
+			<LI><A HREF="tppmsgs/msgs1.htm#185" tppabs="http://ulibnet.mtsu.edu/~msimms/talkers.html">Grim's Talker List</A>
+			</UL>
+			</FONT>
+		</TD></TR>
+	</TABLE>
+	</CENTER>	
+
+	<!-- Footer -->
+	<P>	
+	<HR COLOR="#008000" SIZE=2 NOSHADE WIDTH=90%>
+	<CENTER><A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A></CENTER>
+	<DIV ALIGN=RIGHT>
+		<FONT FACE="Verdana, Arial, Helvetica" SIZE=1>
+		&copy 1996 - 97 Christian Feichtner&nbsp;&nbsp;<BR>
+		Redistribution without permission prohibited, <A HREF="LEGAL.HTM" tppabs="http://www.austria.eu.net/iic/legal.htm">Legal Notices</A>&nbsp;&nbsp;<BR>
+		Internet Services provided and sponsored by <A HREF="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">EUnet International</A>&nbsp;&nbsp;<BR>
+		</FONT>
+	</DIV>
+</BODY>
+</HTML>
+
+
+
+

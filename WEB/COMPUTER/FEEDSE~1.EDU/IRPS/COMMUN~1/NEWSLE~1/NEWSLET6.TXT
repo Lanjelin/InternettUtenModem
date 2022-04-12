@@ -1,0 +1,1311 @@
+IRPS NEWSLETTER 
+June 1, 1996
+Issue #6
+
+Table of Contents:
+
+IRPS Monthly Status Report
+Monthly Columns
+  New AD&D Monsters (Jonathan Thomas <angiejt@erols.com>)
+  Communication Within Gaming Systems (Harold Ogle <harold@svpal.org>)
+  Adam's Archive Of The Arcane (Adam Cecchetti <hackerc@westol.com>)
+  Torac's Mystical Orb (Dave Mavretic <davem1@mail.microserve.net>)
+  On The Shoulders Of Giants (Bruce Sheffer <bsheffer@arthritis.org>)
+  Theme: Just A Treasure Hunt Without It
+	(John Perich <shavenyak3@aol.com>)
+  Familiars (Wizard Davaro <ron@brecknet.com>)
+  DM's Advice (Earl Harrison <harrison@comsys.net>)
+  Warring In The Forgotten Realms (Dana Drury <dana@zip.com.au>)
+  Amber campaign: The Shadows of Truth 
+	(Sean Pagliarulo <71062.3412@compuserve.com>)
+Monthly Classified Ads
+  Subject: Chill RPG - The McIver Horror
+  Subject: Swords & Magick Fantasy Role-Playing Game
+  Subject: AD&D 2nd Edition - Game in Europe
+  Subject: IRC Role-Playing
+  Subject: IRC RPG Channel on Dalnet
+  Subject: PBEM Game
+  Subject: MUSHES
+  Subject: Dragon*Con
+
+
+-------------------------------------------------------------------------
+Club Status Report (Michael Popovich <cad@digital.net>) 
+-------------------------------------------------------------------------
+	Well everyone, our club is moving right along at a pretty good rate 
+since we're making a lot of progress in a lot of aspects in our club.  
+We're currently trying to work with other RPG internet clubs in hopes of 
+providing more to both of our members and hopefully we will have 
+something worked out soon for everyone to hear.
+	We have finally reached the 1000 barrier in club membership.  We 
+stand a little over that number and expect to grow even more in the 
+upcoming months.
+	Also, our web page is now located in a new site.  It's new location 
+is http://www.borg.com/~gdb319/daur/irps and we might be moving one more 
+time in the next few months.  If you haven't seen the web page in awhile, 
+it's been massively modified with the move.  It now uses frames which 
+allows the web browser to divide the screen in various partitions where 
+work can be done.  Also, we are currently trying to add a lot of graphics 
+to beautify some of the text on the web page so keep a look out for that.  
+Also, there might be some errors, I might have forgot about personal web 
+pages, etc., please send me the errors and I will correct them as soon as 
+possible.  Also, if you have suggestions on how to improve the web page, 
+feel free to email me that also.
+	Finally, a few of the IRPS officers have resigned due to several 
+personal reasons among other things.  If you are interested in filling 
+one of those positions please visit our web page for further information.
+
+-------------------------------------------------------------------------
+New AD&D Monsters (Jonathan Thomas <angiejt@erols.com>)
+-------------------------------------------------------------------------
+Skeletons
+	As they are composed chiefly of empty space, skeletons take only 
+half damage from slashing and thrusting weapons.  Bludgeoning weapons 
+inflict full damage.  As with all undead, Skeletons are immune to sleep 
+hold and cold based spells, as well as any spell affecting the mind.
+
+White Skeletons
+
+  Climate/Terrain:  Any
+ Number Appearing:  1d4+1
+        Frequency:  Very Rare
+               AC:  6
+     Organization:  Band
+         Movement:  12
+   Activity Cycle:  Any
+         Hit Dice:  2
+             Diet:  None
+            THACO:  19
+     Intelligence:  Low (2-4)
+Number of Attacks:  1
+         Treasure:  Incidental
+Damage per Attack:  By weapon
+        Alignment:  Neutral Evil
+ Magic Resistance:  Standard Undead
+             Size:  M
+           Morale:  Special (Never Checked)
+         XP Value:  175 to 270, depending on circumstances
+
+	A particularly nasty variant, the white skeleton is always 
+encountered as a guardian.  They initially appear as piles of bone 
+strewn about with a weapon fallen in them or nearby, but actions which 
+violate the skeletons' orders will cause it to rise up and wield their 
+weapons.  This takes a full round.  These skeletons are slightly 
+intelligent, though, and usually wait until folks' guards are down, 
+sometimes even allowing themselves to be searched in their disjointed 
+state.  Therefore, they usually gain surprise (3 point modifier in their 
+favor if the party is unaware of the threat.)  They do radiate both evil 
+and magic.
+	These critters are better constructed than their more familiar 
+counterparts, and can use their weapons to full advantage.  Some are 
+even armed with throwing weapons.  Their most horrific combat power, 
+though, only comes into play when they take damage.  White skeletons 
+regenerate at the rate of 1 hit point per round, even after being 
+reduced below zero hit points (yeah, even from dust will they rise).  If 
+they are killed, they will rise up from their piles upon regaining half 
+their hit points.  There are a few ways to prevent this.  Bless will 
+keep them from reattaching their bones for the duration of the spell, as 
+will chant and prayer.  Holy water applied to the ends of the bones will 
+keep them from reattaching permanently.  At minimum, the femurs and 
+humeri must be so treated.  In this case, the skeleton will still 
+reform, but handless, footless and harmless.  While treating all the 
+joints of one skeleton takes a whole vial of holy water, one can treat 
+up to four per vial in this way. 
+	Dispel magic cast on a white skeleton will destroy it outright 
+if it is successfully cast versus the skeleton's creator's level.
+	They turn as wraiths, reverting to their bonepile state if 
+turned.
+
+Black skeletons
+
+  Climate/Terrain:  Any
+ Number Appearing:  1d6
+        Frequency:  Very rare
+               AC:  4
+     Organization:  Band
+         Movement:  12
+   Activity Cycle:  Night
+         Hit Dice:  3
+             Diet:  None
+            THACO:  17  
+     Intelligence:  Semi (2-4)
+Number of Attacks:  2
+         Treasure:  none
+Damage per Attack:  1d6/1d6
+        Alignment:  Lawful Evil
+ Magic Resistance:  Standard Undead
+             Size:  M
+           Morale:  Fearless (20) 
+         XP Value:  270
+
+	These undead have been treated in a sorcerous concotion to make 
+them immune to non-magical weaponry.  A +1 or better weapon is required 
+to hit them.  They carry no weapons themselves, but their hands have 
+been replaced with largish claws, that they keep extremely sharp.  
+They are generally used as hunters and assassins.  To these ends, they 
+can track as a seventh level ranger and hide in the shadows with 75% 
+ability.
+	Their magical protection is negated by direct sunlight, so they 
+are active only at night and on heavily overcast days.  If found in 
+direct sunlight (fat chance) they can be hit by normal weapons.
+	They turn as wights.
+
+-------------------------------------------------------------------------
+Communication Within Gaming Systems (Harold Ogle <harold@svpal.org>)
+-------------------------------------------------------------------------
+	Communication has always been the most important factor in the 
+advancement of ideas, and this newsletter is testament to this.  My 
+column this month deals with communication systems in RPGs and how to 
+implement them as GMs or players.
+  	Referring back to the above postulate that communication 
+engenders ideas, a society with better communication will more likely 
+succeed over ones with lesser forms of communication, be it a system of 
+running messengers, smoke signals, or trans-wave receivers.  The 
+military importance of quick communication is obvious -- units can 
+report and react to orders faster -- but other aspects are just as 
+important.  Scientific advancements depend on the accurate relaying of 
+data, as does the responsive governing of  any nation. And a country led 
+by someone who is in touch with the citizenry's concerns -- and who can 
+react to such issues quickly -- will flourish, assuming the leader is 
+responsive!  Ingenious players will often come up with communication 
+systems when the GM has not provided adequate communications...though 
+limiting one's contact with others is a great device for generating 
+anxiety, fear, curiosity, and/or inventiveness in your players.
+  	Systems of communication are important in any game world, and 
+should be one of the things GMs plan out in advance for their settings. 
+How do military units communicate with others? How fast is that 
+communication, and does it maintain that speed over great distances?  
+Several ancient countries employed runners in series, who would either 
+memorize a message to be passed along, or in societies with written 
+language, would have a scroll, envelope or tablet to pass along the 
+chain of runners. The example of the Pony Express in the 19th century 
+United States is oft mentioned, where messengers would switch vehicles 
+rather than the messengers themselves. Another option is to use semi- 
+or unintelligent messengers to transmit notes or instructions.  Carrier 
+pigeons are a good example, though ensorcelled flying message capsules 
+could work just as well.
+  	Keeping with the low-tech communication systems, these messenger 
+systems are great in terms of complexity of the message, compared to, 
+say, smoke signals or drum beats...but the potential to disrupt a 
+message is much greater.  If someone eliminates the messenger, then 
+one's message is lost or in enemy hands!  Direct messages have the 
+further disadvantage of limiting the receiving point: if the message is 
+sent to a specific location, it will not be received if the intended 
+audience has moved...so battlefield communication would have to be 
+constant, with easily found pavilions or prearranged message drop-off 
+locations.  Sense signals (smoke, drums) could not be prevented (unless 
+through magic), but were not secret unless heavily encoded...and the 
+amount of code you could apply to such a message is limited, unless you 
+want the message to run for hours! So ask: do you want to broadcast, or 
+transmit a message directly?
+ 	In science fiction campaigns, if you are using FTL travel, you 
+will need to justify your FTL communciations: is there a small FTL 
+particle that can be sent in waves, or is there another dimension 
+(hyperspace, etc.) that permits the transmission of information 
+capsules?  Again, these are broadcast or direct transmissions, with 
+similar problems to the more primitve examples above.  But how much FTL 
+is the communication?  Is it instantaneous, or does it take an amount of 
+time to travel a distance?  Is that amount of time relative to distance, 
+just FTL, or is it a set amount of time (2 hours in the warp dimension 
+and a message can appear anywhere, regardless of distance), or is it 
+relative to some other factor (time relative to the mass of the message, 
+or to the gravity of the sending and receiving points)?  The amount of 
+time a message takes to arrive at its destination will always be 
+important as it affects game-play enormously. There are also telephone 
+analogs in SF or magic-heavy campaigns: the psionic communication of two 
+individuals who are mentally linked, whether constantly in contact or 
+able to contact in a short time.  Such contact tends to be instantaneous 
+regardless of distance, but is taxing on the communicators -- effort 
+which sometimes varies with distance.
+	As players our concern for secure communication is natural.  We 
+wish to take advantage of the means available to us, and wish to make it 
+as "safe" as possible. Usually some kind of combination of methods is 
+most desirable. Arranging signals in advance can go a long way toward 
+avoiding headaches later, so that a sense signal can be used to cue to
+a particular location or eventuality ("one if by land, two if by sea", 
+"two puffs means the tavern"), where the direct communication could take 
+place, coded appropriately. Such makes communication less likely to be 
+intercepted and tampered with. Meanwhile more obvious communications can 
+be used to confuse the enemy...
+
+-------------------------------------------------------------------------
+Adam's Archive Of The Arcane (Adam Cecchetti <hackerc@westol.com>)
+-------------------------------------------------------------------------
+Spell of the Month: Water Works
+
+	Water has been ignored far too long as a major element of magic.  
+I made these spells for those characters who do a lot of sea travel and 
+those who have an abundant supply of water river lake etc...
+
+Name: Creature of Water 
+Range: N/A
+Duration: 3 rounds per level
+Level: 3
+Components/Requirements: The thought of the creature must be in the 
+caster mind at all time, requiring full concentration.  If the caster's 
+concentration is broken the spell will not work properly.
+Effects: The creature will appear from the nearest source of water, made
+entirely of water, and will be under the total control of the caster.  
+Damage varies between creatures, but this chart may help.
+
+                Claw:1d6        Bite:1d8       
+                Beak:1d6        Talon:1d6       
+                Fang:1d4        Sting:1d4
+
+Name: Water of Life
+Range: Touch
+Duration: N/A
+Level: 5
+Components/Requirements: The caster will lose half his current hp.
+Effects: The touched character will regain full hp.  This does not take
+effect if the character is dead!!!
+
+Name: Hand of water
+Range: 100' 
+Duration: 10 rounds
+Level: 2
+Components/Requirements: A supply of water within 100'.
+Effects: A hand of water will rise from the source and grap whom ever 
+the caster wishes up to 100' away. If the snatched has a strength of over 
+17 then they may make a saving throw, only after the hand has grabbed 
+them.  The hand will hold the character in place untill 10 rounds is up 
+or untill the caster dispells the spell.  The character can only make one 
+saving throw!!!  If failed they are stuck.
+
+-------------------------------------------------------------------------
+Torac's Mystical Orb (Dave Mavretic <davem1@mail.microserve.net>)
+-------------------------------------------------------------------------
+Torac's Mystical Orb
+
+Freq:  Unique
+Exp:   8000
+Value: 10,000 
+
+ 	Torac, at a very early age, knew he was destined to be a mage.  He 
+was slight of build, and abhorred physical confrontation.  Also, 
+unbeknowenst to his father, Torac's next door neighbor was a fledgling 
+mage, who showed Torac some of the different things he could do.
+	Many years had passed for this Elven mage.  He studied and passed 
+all the tests to become a mage.  Once, he found a Wilder's spellbook, and 
+when casting a spell from that tome, caused a fairly serious rift to 
+form, in the woods just outside Shadowdale, which in turn caught the 
+attention of the famous Elminster. (But that is another story)
+	Once he had attained sufficent stature and experience, Torac began
+researching many different spells.  He figured out how to prolong ageing,
+and make himself stronger and bigger.  He then began to learn the arts of
+fighting as well, for there were a few times, when he was injured when a
+spell he cast didn't go off as planned.
+	But in the meantime, he had developed this Orb.  It is a simple 
+thing really.  He created it to do the following.  Whenever he felt he 
+needed to, he would withdraw it from wherever it was concealed upon his 
+person, and hold it up to his left shoulder. It would then hover there, 
+and the following would occur.  It would allow the Protection from Normal 
+Missle weapons, and Protection from Magic (+25%).  This would allow him 
+time to cast a suitable spell.
+	There was one side effect, that he wasn't aware of, until the day 
+he lost the orb.  Whenever used in the presence of any dragon, the Orb 
+would begin to vibrate, and emit a high pitched wail, that was extremely 
+painful for the weilder. (-1 HP per round)
+	If the weilder of the Orb closed to close proximity with the 
+dragon, the Orb would make a sound, not unlike a baby crying, and 
+immediately Teleport without error, the weilder to a point up to 100 
+miles away, rendering the weilder unconcious, and erasing any memorized 
+spells from the mages mind.  The Orb then teleports itself, to a location 
+known only to itself, to be found by someone else.
+	Any information gained by an Identify spell will tell the caster
+everything, except the last part.  The Orb is not sentient, by 
+definition.  But due to the spells used to create it, it has a "fear" of 
+dragons.   The Orb can only be used by mages of any school.  To anyone 
+else, the Orb is a beautiful Orb, (that radiates a faint glow of magic 
+if detect magic is cast), that can be sold for money, or can be used as a 
+show piece of some sort.
+	Torac has searched for the Orb.  But to date, hasn't found it, and 
+Torac has been pursuing other avenues, only rarely giving any fleeting 
+thought to the Orb anymore.
+	If you have any unique or Rare items you'd like to see listed here, 
+please send you ideas/items/concepts to:  davem1@island.microserve.com 
+to be place in this editorial....
+
+-------------------------------------------------------------------------
+On The Shoulders Of Giants (Bruce Sheffer <bsheffer@arthritis.org>)
+-------------------------------------------------------------------------
+	Too many times the only changes that occur in a campaign are 
+military or political.  Religious changes usually manifest themselves by 
+becoming the state religion and get the military clout behind them.  In 
+essence they become military and political as well.  However, 
+technological advance has always been the greatest destabilizing force 
+for change ever known.  These days, you leave a place for 10 years and 
+return to find a bizarre landscape that only vaguely matches your memory.  
+In many campaigns new technology and ideas can cause sweeping changes in 
+an otherwise stable political state.
+	In many modern day games or medieval games opportunities abound 
+for introducing "Future Tech".  These can come from many sources: 
+
+1)  Invention - someone had to invent everything.  Plastic was developed 
+from a distillate of oil, left in the sun, which become cloudy.  Most 
+strictly mechanical devices could have been invented most any time 
+assuming that the appropriate skills in metallurgy were present.  In 
+magical campaigns, magically hardened or malleable metals could take the 
+place of complex alloys present today.  
+
+2)  From the Future -  assuming that time travel is permissible, 
+artifacts can drop in either by accident, as test loads, or on the 
+person of time travellers.  These can be rather cryptic, useless, useful, 
+or super-powered by the standards of the time in which they appear.  The 
+Heechee stories by Frederick Pohl paint a wonderful tale of mysterious 
+objects that slowly give up their secrets.
+
+3)  From an alien world with higher tech -  Assuming that there are 
+other species on other worlds in the galaxy, there is every reason to 
+believe that some of their tech might find its way to Earth (or your 
+favorite fantasy world).  This could arrive in the form of messages 
+beamed through space, psychic imprints, probes from other worlds that 
+pass through the solar system or fall into the atmosphere for one reason 
+or another, artifacts from archeological digs of colonization attempts, 
+even genetic tinkering in the far past.
+
+4)  From a parallel dimension - any civilization that can create portals 
+to other worlds probably is a higher tech.  The possibilities are the 
+same as for time travel.
+
+	Having allowed such an item to come into your campaign you have 
+to decide what effect it can have.  Basic inventions such as mechanical 
+engines, explosives, flight, and electromagnetic communication will 
+quickly revolutionize a world, unless you take drastic steps to curb the 
+spread of information.  All the above were invented and widely used in 
+less than 50 years in our world.  Ways to curb such inventions are: 
+
+1)  Religious injunctions - associate the technology with impurity and 
+no one will want to use it (example: ancient China).  This assumes that 
+there really is a basis for the edict in the religion and not just the 
+priests trying to maintain power.  In such a case they themselves will 
+probably continue to develop the tech in private (fighting fire with 
+fire, redeeming it).  
+
+2)  Restrict the theory that it is based on.  If no one knows how to use 
+the tech, it cannot spread.  This can be done by making it a secret and 
+hiding the tech away, killing all those who know about it except for 
+royalty, or making it the province of a certain class or clan who guard 
+it zealously and kill all who steal it.  This will only slow down the 
+spread of such knowledge since knowing that a thing can be done is 
+usually enough to ensure that someone else will "reinvent" the concept.
+
+3)  Require that exotic and rare components are necessary to construct 
+devices or exploit the technology.  In the Skylark of Space series by 
+E.E. "Doc" Smith the protagonist discovers an unknown metal in an 
+assumed meteor strike that is a catalyst for a nuclear disintegration 
+process that can release immense amount of controllable energy.  By 
+experimentation and personal genius a number of incredible devices are 
+invented (including a star drive).  However, without the metal "X", no 
+one else can use this technology.
+
+	Why would you want to restrict the technology?  
+
+1)  Those in power don't want anyone to know that advanced races exist.  
+If you have told your people that they are the pinnacle of creation, 
+other people using advanced tech might raise some doubts.  Likewise, if 
+you have subjugated a people and they learn that more powerful races 
+exist, they might be more willing to throw off your yoke.
+
+2)  You want only a certain group to have the benefits of the 
+technology.  In Bureau 13 (Tri Tac Games) the players work for a shadow 
+agency who is looking for an edge over its enemies.  As a result, any 
+advanced technology that they discover is confiscated by their 
+organization, hopefully to be returned to them in interesting devices 
+and objects which will aid them in their work.  This information is not 
+disseminated since that would give the edge to their enemies as well.
+
+3)  Civilization isn't ready for it.  Some discoveries are so powerful 
+that wide sweeping changes will result.  Fast changes usually mean 
+economic chaos.  Unbalances in technology also mean political and 
+military clout.  If one side fears that the other has such an advantage 
+they might go to war as a preemptive "protective" measure or, feeling 
+invincible, one side might initiate conquest, capitalizing on their 
+temporary advantage.
+
+4)  If the owners know that someone has it, they will come and take it 
+back.  A zillion movie plots have been based on this idea.  This idea 
+assumes that after a sufficient amount of time, it will be safe to use 
+the item.  This means that either the owners have gone away never to 
+return, or you have been developing the technology in secret and 
+dispersing it so that even if the rightful owners come back there won't 
+be anything they can do about it.  The genie will be out of the bottle.
+
+	Regardless of who benefits from the technology, the real trick 
+is how to describe the technology in an interesting way.  Information 
+fiat is the worst possible way.  This is usually presented as: "OK, you 
+have discovered the secrets of the wonder widget so now you can make 
+anything you want invisible".  How boring.  Also, since the players 
+don't really know the basis of the technology, they cannot extrapolate 
+to other interesting uses.  The best way to present the information is 
+to allow the players to experiment with the device and describe its 
+effects.  Thus described the players might understand that the device 
+is actually an psionic broadcast device that forces everyone to ignore 
+whatever it is attuned to, rather than warping light around the object.  
+Knowing this, the players might then reason that it could be changed to 
+make people do other things (a domination device, possibly a mechanical 
+educator, or even mind transfer).  
+	Now it gets really tricky.  No device is constructed of only one 
+part so you now have to describe the interplay of the components.  
+Shadis Magazine recently published an article suggesting that you create 
+a pseudo science (ala Star Trek which used phase bubbles and imaginary 
+subatomic particles) which describes the basis for the device.  Each 
+component must then be described to show how it contributes to the 
+proper operation of the device.  This has three benefits:
+
+1)  The players know how to fix it if it breaks or runs out of an 
+essential material.
+
+2)  The players know what will happen if it overloads or is damaged.
+
+3)  The players might be able to use this interplay of components and 
+concepts to invent brand new devices.  
+
+	Don't cheat the players by making it too simple.  If the 
+principles are too advanced for the characters, let them seek out a sage 
+or expert who can help them understand it.  Don't let them dump it into 
+his or her hands and walk away.  Keep them involved.  Perhaps they have 
+to protect him, while he deciphers it, from others who want its secrets.  
+Maybe once they understand its nature, it is snatched away and they must 
+retreive it before it can be reproduced (it acts as the working 
+prototype).  By the end of the adventure, they should be experts in its 
+function and design.  The result is an adventure that is both a puzzle 
+and an opportunity, as well as a chance for personal excellence for the 
+players.  
+	If you do decide to introduce technology that will have sweeping 
+changes, take the effort to design a timeline of derivative effects.  
+This will enhance the sense of continuity in your campaign as the 
+players see the fruit of their actions and adventures.  This will also 
+make the results seem less arbitrary, more organic in development.
+
+-------------------------------------------------------------------------
+Theme: Just A Treasure Hunt Without It (John Perich <shavenyak3@aol.com>)
+-------------------------------------------------------------------------
+     	Generic Adventure: The party is approached by a merchant.  The 
+merchant asks them to rescue his daughter from a group of bandits.  The 
+party accepts, goes out, kills the bandits and rescues the daughter.  
+The merchant rewards the PCs with lots of money in gratitude.
+     	Hello again!  This article is about Theme.  Theme is an 
+important part of a story, yet is often left out of most adventures 
+(notably, the one given above).  Well, what is a theme?  How can you 
+find the theme in a story?  How can you put a theme in an adventure?
+	Let's take a look at the novel "Dragons of Autumn Twilight," by 
+Tracy Hickman and Margaret Weis. What are some important ideas or 
+philosophies that float in the background of this book?
+     	- The truth isn't always easy or desirable.
+     	- External appearances aren't what count.
+     	- All things change with time.
+     	Et cetera, et cetera.  While none of those were outwardly stated 
+("Tanis said, `External appearances aren't what count.'" No, it doesn't 
+sound right to me either), they are all visible in the pattern of the 
+story.  They're very subtle, but add depth and value to the novel.
+     	Take away the themes that were prevalent in Dragons of Autumn 
+Twilight (there's more than just three, believe it or not).  What's left 
+is a rather long dungeon crawl.  The PCs take the staff to Darken Wood.
+The PCs go to Xak Tsaroth and kill the dragon.  The PCs go back to
+Solace, get captured and get rescued by the Qualinesti elves.  The PCs
+sneak into Pax Tharkas and kill Verminaard.  Doesn't sound quite as epic
+that way, does it?
+     	So, now that we know what theme is, all we need to do is put it 
+into our adventures.  Unfortunately, this is more of a task than it 
+seems.  The main reason that theme is so difficult to use in an AD&D 
+module or campaign is that the PCs can make their own choices.  You, as 
+the DM, can't force the players' actions.  Your task, therefore, is to 
+give a theme to the adventure without making it seem contrived or 
+forced.
+	Below I have prepared a list of one-word themes that can be 
+adapted to any adventure.  Giving an adventure theme is simply stated, 
+but difficult to do.  The theme can be a motivation for one or more of 
+the NPCs involved.  The theme can be a side issue, something that makes 
+the job difficult for the adventurers.  It can be an urgent matter that 
+needs to be resolved, or else the PCs' task won't be successfully 
+completed.  I'll show you an example of how it's done later.
+
+     	Vengeance	Hatred	Love
+	Maturity	Honor		Responsibility
+	Discovery	Sacrifice	Greed
+	Charity	Courage	Hope
+	Devotion	Justice	Deceit
+	Desire	Pride		Fear
+
+     	Let's take the Generic Adventure from above and give it a theme 
+or two.  I think that Deceit and Maturity are two good ones (OK, I just 
+picked them at random).  I find some way to tie the two in with the 
+important parts of the plot.  Take a look at the Themed Adventure below.
+     	The party is approached by a merchant.  The merchant asks them 
+to rescue his daughter from a group of bandits.  The PCs agree and 
+journey to the bandits' hideout.  However, the leader of the bandits is 
+the girl's original mother (a child born out of wedlock)!  The merchant, 
+suspecting this, decided not to tell the PCs, hoping that a few combat-
+happy fighters could take care of the details.  If the adventurers are 
+still insistent on bringing the girl back, they have a minor problem: 
+the girl doesn't want to go back!  She's only 15, and has never left her 
+home city until she was kidnaped.  Having seen the outside world, she's 
+in no hurry to go back, knowing that her father will eventually pass the 
+merchant business on to her.  The PCs must decide whether they will 
+leave the girl where she wants to be (with her adventurous mother) or 
+honor their contract (but leave the girl unhappy and make an enemy of a 
+bandit captain).  Oh, and if the PCs decide to renege, the merchant 
+hires more adventurers to go kill them and retrieve the girl.  And these 
+new adventurers will be much more eager to kill people.
+     	There we go!  I used Deceit with the merchant, as he 
+deliberately kept facts away from the PCs, and that he will hire more 
+adventurers to kill the PCs if they don't see things his way.  Maturity 
+came in when the girl decided not to go back home.  Both of these will 
+have to be faced some time in the adventure.  Overall, which one do you 
+think will be more satisfying: the Themed Adventure or the Generic one?  
+
+-------------------------------------------------------------------------
+Familiars (Wizard Davaro <ron@brecknet.com>)
+-------------------------------------------------------------------------
+	This artical is dedicated to advise on the uses of spells and 
+magical items in AD&D.  But whether this advise is legal or not in your 
+game is solely up to the DM, so don't write me angry letters complaning 
+about something that was useless in your campaign.
+	Because of his magical studies a wizard cannot take the time to 
+learn how to use a weapon and does not have the strength to wear heavy 
+armor.  Most of his senses are dulled by long hours of work in the 
+laboratory.  That is why a 'Find Familiar' spell is commonly used.  The 
+familiar is devoted to serving the summoner and can be a spy or a weapon.  
+The summoner also gains the familiar's sensory abilities.  But sometimes 
+you can end up with a useless familiar.  What if you summoned a toad?  A 
+wide angle vision is good for avoiding sneak attacks but that is as far 
+as it goes.  It can't help in close combat and the toad can't be much 
+help if someone sees it in town and squashes it.
+	A 'Polymorph Other' spell can come in handy at times with your 
+familiar.  If you weren't happy with what showed up when you summoned a 
+familiar then you might polymorph it into something else, preferably 
+something with great sensory powers such as a great cat, or if you wanted 
+something that is better for protection an aurumvorax would be good for 
+scaring off any opponents.
+	Even while familiars are not often looked at to be spies by 
+enemies, if your character is a known wizard most will look twice at a 
+cat that is following them around.  You can be extra cautious by casting 
+an 'Invisibility' or even an 'Improved Invisibility' spell on your 
+familiar.  'Advanced Illusion' can be very useful in disguising your 
+familiar by changing its fur color, or even its species so that it could 
+not be recognized as your familiar without a good look.
+	Sometimes a familiar cannot get back to you in time to relay 
+important spying information.  The 'ESP' spell is useful at these times, 
+or if you have one, an Medallion of ESP.  You can contact your familiar 
+at times and get an update on what is going on and give orders to the 
+familliar based on the report.  Using the Medallion, you could keep in 
+constant contact with your familiar.
+	I have found that the best way to introduce these ideas into your 
+game is during combat and without warning.  If you ask your DM before 
+hand if it is okay then he would have more time to think of restrictions 
+or to forbid the actions.
+
+-------------------------------------------------------------------------
+DM's Advice (Earl Harrison <harrison@comsys.net>)
+-------------------------------------------------------------------------
+	It seems that I have created a stir with the two articles that I 
+have written.  Let me explain my point of view on the articles before 
+venturing into this month's article.
+	I did not mean for the kobold lair to be taken as  a first or even 
+a 4th level dungeon.  The article was geared towards the higher levels to 
+give those adventurers something to do.  There are enough hard monsters 
+out there for the characters to fight, but given the chance to fight a 
+measly kobold at such a high level most players will jump at the chance.  
+When they get pummeled by the horde of kobolds in that lair they will 
+think twice the next time you mention the kobold lair.  The lair that I 
+had written about could be used for the low level characters but not 
+with all of the traps and tricks that are in there.  Chop the number of 
+kobolds down a bit also.  Don't use the 40-400 that the monster manual 
+says to use.  Use less than 100 for the total kobold population of the 
+lair.  As for the intelligence of the average kobold they should be as 
+smart as the average city dweller or farmer.  They should be allowed the 
+supplies that I mentioned.  They may not have the access that their human 
+counterparts may have but they should have some access as limited as it 
+might be.  
+   	The dragon's lair has not had that much impact on most people so I 
+will leave it alone and let it stand by itself.  The dragon, as I stated 
+before, should be the most fearsome monster that the players ever come 
+across.  They should remember that adventure for years to come.  If they 
+do not they YOU have not played the dragon as well as he or she should 
+have been played.  The dragon will not always fight the players, even 
+reds can be talked with.  My idea only helps the DM out with letting the 
+dragon stay alive a little longer to give the players something to fight 
+for.  Remember to that the players will be getting alot of gold, magic 
+items and maybe an artifact or two, so don't just let the players walk 
+in there and slaughter the dragon.  Make him a very formiable opponent.  
+Kill the players if you have to to make them respect the dragon and maybe 
+make them want to come back and fight him again!
+
+Now on with the show!!
+
+	How many times have your players built up a character, only to be 
+more powerful than any creature in the books.  It is kind of hard to 
+challenge those characters.  How many monsters do you have to put up 
+against him/her to get even 1 hit point taken away from the character 
+only to have them get it back with some sort of magic.  How many hits 
+does it take for that character to kill even the most powerful NPC or 
+monster that you have.  Have you ever created a module that took you 
+several weeks to design, putting together the maps and player handouts 
+only to have the party destroy it in just a matter of a few hours on 
+that Saturday afternoon.  Remember how you felt when the bad guy at the 
+end just fell like he was nothing!  Well stick around a few minutes and 
+listen to the tales that I am about to tell you.
+	Most of the games written out there challenge the CHARACTERS and 
+not the PLAYERS.  Yes that is right, think about it.  The players just 
+have to simply play their characters and they will survive most any game 
+out there.  But the objective here is to challenge the PLAYERS!!  How 
+often do your players check their barbarians back protection? How often 
+does he check for illusions?  I bet most players out there do not check 
+for these things every round like they are supposed to.  Have a fight 
+break out behind the characters and get surprise on them and the first 
+round of attacks before they even know what hit them.  If the other party 
+has multiple attacks don't use all of them on attacks, how about running 
+around a corner and waiting until the party comes after them.  Aha! 
+Another free round of attacks.  That is two rounds of attacks and the bad 
+guys have not even had to defend themselves yet.  How about a thief with 
+an illusion on him to make the party think he is a peasent, when really 
+he is picking their pockets. Taking all of their small items such as 
+magic wands, daggers and even bags of holding.  Why stop at these things 
+make the party think that they are in no danger and then spring a few 
+spells on them.  Saving throws get in the way of most spells but not if 
+the spells were aimed at the area they are in or on the weapons that they 
+have.  Imagine a mage with a crystalbrittle spell and an animate object 
+spell.  What will your players think of fighting their own weapons only 
+to have them shatter like glass at the first hit.  Looks like they just 
+lost all of those magic weapons.  I know magical items get a saving throw 
+too, but this save is a lot high and harder to make than the one they 
+would have to roll if the spell was cast upon them.  Has anyone thought 
+about using drugs in their campaign?  I didn't think so.  Getting the 
+CHARACTERS hooked on some drug should be an easy task and then the 
+character is an easy target when he is under the influence of the drug.  
+NOTE THAT I DO NOT CONDONE THE USE OF DRUGS BY PLAYERS OR DMs BUT AS 
+CHARACTERS WHY NOT?  I would like some comment on this subject if any are 
+willing to give it.
+	Traps are another situation that some players do not check for all 
+of the time.  Most players do not check for traps every little step they 
+take.  If you are going to use traps have the trap be a multiple trap.  
+Sort of like the board game "Mouse Trap".  Some of my favorite traps are:
+    *  Have an Oytugh give the character a disease: AIDS and then the 
+players are attacked by a mummy, which ages the character. He dies of 
+full blown AIDS.
+    *  An incindary cloud is in the hallway.  A zombie with a lit torch 
+is hiding in a secret compartment just around the bend from where the 
+characters are.  When they enter the cloud the zombie is triggered to 
+come out and walk around the bend.
+    *  a black cat sits on the bed of a mage's chamber with a spell book 
+lying beside him.  The book has a polymorph spell cast onto it when 
+someone reads it they are transformed into a goldfish which the cat 
+immediately gobbles up when the transformation is done.
+    *  Putting a cursed item somewhere only to have it activate when the 
+party get near it.  "A Rod of Cancellation that falls", a trigger that 
+moves the Demi-Lich just out of striking distance of the party.
+
+	As you can see you can be as creative as you like with multiple 
+traps.  These are just a few of the hundreds or thousands of ideas that 
+any DM can come up with if they only try.  I would be interested in 
+seeing some of the traps that you can come up with.  Just e-mail them to 
+me.  I should be able to come up with a few more if given the time and 
+motivation.
+	Taking your players to another plane without telling them always 
+confuses things.  The farther out into the planes that the players get 
+the less magic they have.  If they go 3 planes out then that +5 broad 
+sword they had is now only a +2 broad sword.  The monsters out there are 
+even more deadly.  The Githyanki for instance are a very deadly creature 
+when not found on the prime material plane.  About 10-15 of these can 
+sure wreck havoc on a group of players not expecting to find githyankis 
+on the prime.  Little do they know that they are no longer on that plane.  
+Magic spells are another thing all together.  Some don't work on some 
+planes and others work better.  Have some plane traveler come up with 
+some water from the river Styx and give it or throw it on the characters.  
+They won't even remember who did it let alone try and kill the person.  
+Heck, they just might lose an item or two.
+	Artifacts are another thing to.  If you give a powerful character 
+one make sure that you have the means of taking it back from them.  
+Having a king or mayor demand it from the players may not be enough to 
+get it from them.  you may have to take it by force, which will be a very 
+tough undertaking.  The artifact makes the party twice as powerful as 
+they once were.
+	One other thing that you might try to do to your players and that 
+is to treat the game you are DMing as a Mario Brothers type video game.  
+This may sound crazy but just follow me.  On the video game you have to 
+beat several monsters, avoid the traps, solve the puzzles and then beat 
+the bad guy at the end before you go to the next level.  Hey, this sounds 
+like an AD&D game to me.  The puzzles part is a bit tricky to do.  The 
+trick here is to give certain clues to an NPC that the players would 
+otherwise not talk to.  The only way to get to the bottom of the 10 level 
+dungeon is to find the secret door that leads down there and the only 
+person that knows where it is is the peasant that was asking for a few 
+copper pieces at the main gate.  You know the one that the players either 
+killed or just snubbed off.  Now he may or may not want to give that 
+information to the players anymore, or he may ask for several platinum 
+pieces to give up the information that the players now want from him.
+	Have the players try and acquire several pieces to a larger item.  
+Such as TSR's Rod of Seven Parts.  Maybe this is the only way into the 
+last level of the dungeon or the key into the crypt of the evil mummy.  
+Aquiring several scrolls for the local cleric and then a task or two for 
+the blacksmith or local guilds might also slow down the players for 
+several games and frustrate them a bit.  Try and get the players off 
+track for a gaming session or two might also be the trick to drop their 
+guard and then spring the monsters on them when they are not looking for 
+a fight.
+	You might even trick them into doing something evil for the bad 
+guys and have to get out of trouble with the town that they are in.  
+Making your players run from the law is always exiciting for the DM.  
+News of a new evil roaming the area will travel faster than the players 
+can.  The new towns will always be watching for them to come to the town 
+and buy provisions.  Your players will have to come to a town sooner or 
+later to restock on food, water, new weapons and if you use them, spell 
+components.  It will will be very hard to find all of this stuff out in 
+the wilds of the dungeons and humanoid villages.  If they find this stuff 
+in the villages and they are running from the law chances are this small 
+village may have heard of them and will either not sell them the stuff or 
+make it very very hard for them to purchase it.  They might even stall 
+the players long enough for a small band of the sheriff's men to come and 
+take them back to the town where they commetted their criminal acts.  The 
+players would not dare to fight the sheriff's men again would they?  Also 
+you will have to watch out for bounty hunters and other adventuring 
+parties that might want to ccollect the reward for bringing in these evil 
+creatures!
+
+
+	One last thing that always gets to the players and that is to make 
+them use all of the abilities of their characters.  If ythey do not use 
+them then make it extremely hard to complete the game that you have 
+created for them.  Plan ahead.  If you know that there will be more than 
+one thief in the party then have multiple traps in the corridors and 
+roadways.  If one thief does not do his job then the whole party suffers 
+by falling into the trap that you have devised.  If there are alot of 
+fighters in the group then have a few extra monsters roaming around. 
+Even make the random encounters more frequent or make them harder.  If 
+you have a mage or cleric with an unusual spell or two then have an 
+encounter where the only way to get thru it is for the mage or cleric to 
+use that spell.  Take for instance the Bless spell.  Most clerics take 
+this spell but how often do you have a chance to use it.  Most high level 
+clerics may have it but have long since forgotten what the spell does 
+anymore.  Make them use the spell that they have.  If you want to 
+eliminate the magic from tyour adventure, have a few encounters where 
+they have to use alot of spells to get thru it.  In order to do this the 
+monsters have to be a bit more powerful than the fighters in the group.  
+This forces the mages and clerics to use up their spells more quickly.  
+The next party member to mention is the psionicist.  This character at 
+very high levels can be a very dangerous one.  In order to challenge the 
+player of one of these characters is to put some psionic monsters in the 
+game.  Mind Flayers and Thought Eaters are tremendous to use against a 
+single psionicist.  If you allow more than one psionicist in a group then 
+you may have a problem dealing with them.  Just make sure you make the 
+psionicist roll his ability checks and deduct PSPs after he has used an 
+ability.  Getting PSPs back should be a very hard task also.  The only 
+way to gain PSPs is with rest.  The last characters that!
+	I am going to mention are the monks and ninjas.  I usually group 
+these two together simply because they both are weak as low level 
+characters and get very powerful at higher levels.  The DM may be 
+challenged himself to get these characters in trouble.  The thing to do 
+to these characters is make the player use the abilities of these 
+characters almost every round or two while in a dungeon or city 
+adventure.  City adventures are best suited for these two characters.  
+Dungeons don't suit these characters very well and most players could do 
+better than to bring them onto a dungeon adventure.  Solo adventures 
+inside the main campaign are well suited for these characters.  Make them 
+go it alone so as to get them away from the rest of the party.  Most of 
+the time these guys are the main fighting force for the party when they 
+reach the higher levels.  So if you can get them away from the rest of 
+the group you can have more fun with either the solo adventure or the 
+group.
+	High level characters should never be allowed to just rest.  Keep 
+the players guessing what you are doing.  Make them set up a strategic 
+camp.  Keeping watch and traps around the camp will usually keep most 
+monsters away.  If only all monsters were not on the ground.  Some 
+monsters fly.  Swooping attacks are usually very hard for most players.  
+They are simply not ready for an air-based attack.  Melee weapons no 
+longer work for these types of encounters.  If a monster can cast spells 
+and can also fly then why not give him the silence spell and make the 
+swooping attack a surprise attack from behind.  If a couple of characters 
+are taken into the air, shaken up a bit, losing weapons and items, and 
+dropped back onto the ground.  All before the party has a chance to get 
+ready for the attack.  These types of attacks can only be random 
+encounters or planned attacks trying to get a particular item from the 
+party.  Be creative with this one. 
+	As I stated before when you are DMing a very high level game it is 
+very easy to get caught up in the trap of just challenging the 
+characters and not the players.  The only way to get at the characters is 
+to get at the players first.  Challange their minds not their paperwork.  
+A character is very durable. Most players are not.  Most of them know all 
+of the rules but cannot role-play very well. I have been Dming for better 
+than 10 years and the easist games to DM is the ones that make it harder 
+on the players than it does on the characters.  For my next article or 
+two I wound like them to come from every one else.  E-Mail me and tell me
+what you would like to see and I will try to do it or get a little help 
+from my group and then put it to print.  What I would like is some of 
+your greatest adventure stories.  I have a few that you may find amusing 
+and a few that you may find a bit weird.  Send in your traps, adventure 
+stories or 5-minute adventures and see if your games are anything like 
+ours.  I will put a few of mine in there to make it more interesting.
+
+Until next time, Earl Harrison <harrison@comsys.net>
+
+-------------------------------------------------------------------------
+Warring In The Forgotten Realms (Dana Drury <dana@zip.com.au>)
+-------------------------------------------------------------------------
+	In the last article I looked at War and its often overlooked 
+importance in FRPG's.  This article centered around the concept of war 
+and its varying uses in a Fantasy Campaign. I will again stress that it 
+isn't a quick fix. For it to work it requires some thought and sweat...
+	If you missed it for some reason you can get it off me (my address 
+is at the top).
+	Continuing on from the last piece the next equally important 
+decision to make about the war is -
+
+Where will the war take place?
+	Whether you do the last point first (How large will the war be) or 
+this point doesn't matter. I find working out how large I'm going to make 
+a war helps me to work out its staging area. It may differ from person to 
+person but that's just me. 
+	Generally the larger the war the more important the place will 
+become.  As this is a role playing world you have to make the PC's 
+interested not just have it as an occurrence . If you wish to shed some 
+light on an area for some reason then a large "known" war could just be 
+the thing however it is still up to you to get the characters there.  
+This I will discuss later.
+	Small wars are the perfect sounding board for a first time DM. 
+They are easier to run and have less outside influence to deal with.  You 
+can also introduce some foes that may become long standing ones and a 
+bond may develop with the local folk.
+	How big a war is doesn't generally make too much of a difference 
+however I don't suggest you run out and try a war similar to the Tuigan 
+Horde, unless you have had a bit of practice first because as they say 
+"Practice Makes Perfect" and players can easily get killed off in a war, 
+especially if they go into battle.
+	Now that I have added a bit to the last article I will get on with 
+this one.  Where the war takes place is a vital factor. Will it be a back 
+water war? In some small obscure barony that no one has heard off or will 
+it be closer to home, and pose a much more serious threat ? 
+	For instance, Karameikos in Mystara is not likely to be subjected 
+to a full scale war however a disgruntled group of Drow (or Dark Elves as 
+they are in Mystara) may come through the mountains from the north. The 
+players are in a small town at the time and have to help lead the local 
+unorganized malita against these invaders, or hold them back till help 
+arrives etc. 
+	The FR will only be susceptible to small scale skirmishes with out 
+it becoming an international incident, although many of the areas to the 
+south (near the Great Rift) are perfect for staging a larger war.
+	One other unique way of creating a war is if the players are evil 
+and have a reputation, they may be asked to help the denizens of the 
+Underdark to help attack a city/village/town. 
+	As I mentioned, the world of Ravenloft almost stops wars from 
+occurring however local townsfolk may have had enough and forget there 
+fear of death to challenge the Lord. If this happens it may be the 
+perfect way to remove one of the small realms from Ravenloft if this 
+needs to be the case. I Personally wouldn't recommend such an action, 
+Ravenloft isn't really a place of mighty hero's atop a mountain of dead 
+Yugloth, or Dragons frying helpless spearmen or. well you get the 
+picture. 
+	Unfortunately my Fantasy Role Playing is Limited to Palladiums RPG, 
+AD&D and D&D. However much of this applies to other games such as Earth 
+Dawn, Dangerous Journeys, GURPS and Warhammer FRPG. (Thus the examples)
+	Once you have the place in which the war is set it would be best to 
+work on why the war occurred, may ask your self -
+
+What is the reason behind the war? Who started it and why? When did it 
+begin?
+	There are many reasons wars are started, most of them are over land 
+claims, which may be the enemy has wandered in and claimed the land. 
+There can be other acceptable reasons, these can range from retaliation 
+for some action, trying to rescue someone or the Lord was insulted by the 
+other Lord/Baron. On the other hand it doesn't even have to involve a 
+human enemy. Orcs will just attack because they hate humans and other 
+races attack out of necessity. (Such as a Unicorn will attack people who 
+hurt forest areas.)
+	Dwarves will happily slay Goblins and Ogres will slay each other. 
+If any of you have read the book "The Legacy" by R.A. Salvatore will know 
+what I am talking about. If not, an extended attack occurred between a 
+group dwarves and tribe of goblins, Although it started there and ended 
+there, war may have broken out if a larger tribe had existed.  
+	I warn you however, Orcs generally attack as a large tribe, they 
+are usually never gathered into an "Army" unless the whole of the Orc 
+species are at risk or there is a higher power governing them. The later 
+being the most common case respectively. 
+	Working out when the war begun also helps flesh out adventure 
+possibilities. Many wars are fought over a long time, if this is the case 
+(such as a religious war) then the players impact "may" not make that 
+much of a difference, it may win a battle or two but far from the winning 
+the war. 
+	A newly generated war is easier to stop with players involvement 
+and there are less feelings of hate on both side compared with a 
+religious war (to a degree). If the players can make a difference then 
+they will feel a sense of accomplishment. The players may even be the 
+cause of the war!
+	I will leave the idea behind the war up to you, but you do get the 
+generally gist of things (don't you?). It always helps to know when the 
+war started. The reason being? Well setting the scene is very important 
+in a war -
+	You wander slowly down the dirt road, around you lie the fallen 
+bodies of soldiers draped in awkward positions. Smoke rises from the huts 
+to the back and the odd moan comes from the left and right making you 
+wary of the carnage around you. Tired villagers tend to the wounded. 
+They are obviously used to this war. Such a scene must be common place.
+	If the war had just started then the Villagers would be in shambles 
+not knowing what was happening which may provide some interesting 
+challenges for the players. They may be attacked, asked for help or 
+worse. 
+	If the war is a long drawn out one, villagers may be on a exodus 
+away from the kingdom. 
+	A lot of ground has been covered in this article. I am trying to 
+keep the information generic thus there are not too many specific 
+examples, however as I mentioned last issue, if there is interest then 
+email me with your preferences at dana@zipper.zip.com.au, and I will try 
+and include a useable example. I have received some material that will 
+provide useful to many players out there, it will be coming up in later 
+articles. 
+
+-------------------------------------------------------------------------
+Amber campaign: The Shadows of Truth 
+	(Sean Pagliarulo <71062.3412@compuserve.com>)
+-------------------------------------------------------------------------
+	I am interested in starting a long term Amber campaign, using a 
+local variant of  the Amber Diceless game system.  There are a few 
+philosophical ideas and other considerations I wish to discuss so 
+everyone will know where I am coming from and trying to take the game.
+	First and foremost I'm  looking for dedicated players who will post 
+at least twice a week.  Next, they must be interested in helping to 
+create an interactive campaign world.  Amber is just too darn big for 
+any one person to define all aspects of it, so I will be looking for and 
+demanding input from my players to help me. To that end, I ask that 
+every person who submits a character proposal include at least one world 
+description. The description need not be complete or even very thorough, 
+but the more information I am given the better I can help simulate that 
+shadow. You may submit more than one, and it can be as brief as you wish, 
+for example: "I think you should have a shadow that is the Planet of the 
+Apes series."  That statement alone tells me enough to go and run that 
+world.  While it does not describe all that could be said,there is 
+enough atmosphere to make it playable.
+	I feel that any game world, novel, movie, or anything else is a 
+viable shadow world.  So I will be using some of the existing ones, such 
+as Shadowrun, Vampire, Blood Shadows, Castle Falkenstein, and others. 
+Some will be unique, but in all cases the story is what will drive the 
+situations.  The characters and their interaction will define what is 
+important.
+	A note on the importance of characters and their interactions. I am
+changing the nature of the Amber view point.  The (POINT- OR POWER)gap 
+between Human, Chaosian, Amberite, and Ranked individuals will be 
+narrower.  The frequency of meeting with more powerful adversaries will 
+be much greater.  In short I am drawing the characters down from 
+Superhero status, to  powerful Hero status.  I wish to reintroduce the 
+factor of risk and uncertainty that seems slightly absent from some 
+Amber games.  Now I am not saying that Amberites are not damn hard to 
+kill.  This game will be  based on exploration and interaction rather 
+than the Familial competition ethic that is prevalent in the books. 
+	The Shadow dwellers will be more important due to the changes I 
+have wrought.  You will never be sure that the person that you are 
+dealing with is not another Amberite, a Chaosian, or really powerful 
+Shadow dweller.  So I wish to have all players make the Shadow Dwellers 
+important to their characters.  Now that can be done in a couple of 
+ways-- no, it does not mean that you must love them. You could be the 
+quintessential hero and regard every life as important or you could 
+prefer to be worshipped, andthink that every shadow dweller is merely a 
+means to an end.  There are many other ways to handle it, and I trust 
+you to make them important.
+	The Auction is also being changed.  I will ask for a single bid 
+from each character for each attribute. Undoubtedly there will be some 
+characters who desire a #1 for their character conception, that is fine, 
+but remember that you are only #1 of your generation, there will be 
+plenty of others who are above and below you. The primary reason for 
+this, is to offer me as many options as possible as a game master, and 
+allow players to enter the game late.
+	Game play will also be different than some of the other games you 
+may have played.  First it is an on-line game, which is more like 
+creating an interactive novel than role-playing. Next all messages will 
+go through me, and then back out to the players.  While at first glance 
+that seems a bit piggy of me, there are several very good reasons for it. 
+This will enable me to add in description that shows a character's 
+personal outlook. So the same thing will look different to characters 
+with different levels of Good and Bad stuff.  Another good reason is the 
+uncertainty of Trump Contact. Another is the mere logistical element of 
+being sure who is doing what, since sometimes people forget to CC the gm 
+when things get hot and heavy.  A note here, some players prefer to 
+include their characters thoughts when doing a message to give it 
+context, others prefer not.  It is up to you, but since I am the clearing 
+house for all messages, I need to know what you would like sent on to 
+others.  So inform me with [OOC: ] Out of Character comments above or 
+below the passage so I know what to do. I just need some sort of context 
+to be able to comfortably handle the message traffic.
+	A note on game related information.  First I don't require anyone 
+to own the Amber role-playing system, I can explain it in just a few 
+messages.  Next Magic will not be run exactly like it is in the rule 
+book.  Magic will be much more free form, and slightly quicker.  While 
+the maintenance of spells will still be a consideration, your character 
+could possibly  have a racked spell and cast it in Classic Fantasy style. 
+But I will use the Steven Brust adage: A knife is quicker than a 
+sorcerers spell. Or something like that. The exact quote is "A knife 
+between a sorceror's shoulder blades will severely cramp his style.", 
+but I changed it to fit my game a little better. So I ask that all who 
+take Sorcery, Conjuration and or Power Words focus on the magic side of 
+their characters.  Talk to me about the nature of magic for the 
+character.  Does the character require Gestures, Incantation, or other 
+forms of foci?  I will certainly ask questions if you don't tell me what 
+I need to know.  
+    	Also about Conjuration and Power words.  Both are the same cost as 
+in the Amber game book, but their nature will be more flexible. Note that 
+since Sorcery is slightly faster, especially with hung spells, that Power 
+words are not quite as crucial.  Sorcery can be used to combat Sorcery 
+with effectiveness.
+	Next on game stuff, every character may have a {Personal????} Trump 
+deck, by merely paying the two points to have one.  The characters will 
+be at Corwin's new Pattern. And contact with Amber is nonexistent, though 
+there is a place near Chaos like the courts called the Gates of Never.  
+Feel free to come up with new powers and ask about them, the more the 
+merrier, after all it is an infinite universe out there.  The game will 
+be about personal and group oriented adventure, exploration and 
+discovery. A whole new set of shadows were created when Corwin drew his 
+Pattern, and everyone is free to explore them. 
+	Another comment on the Amber system.  Skills are considered 
+freebies, because Amberites are basically immortal, there is very little 
+reason why you cant have your character know whatever you want them to. 
+But the way I want to handle this, is in your character background.  And 
+rather than have a player list every little skill, I would prefer to have 
+professions or experiences listed.  For example if a character was a 
+doctor on Shadow Earth (present day medicine) for twenty years, then when 
+dealing with situations, pretty much anything that a doctor from our 
+world would know could be justified. Obviously the final call will be on 
+my end, but I am looking for more control and creation from the players, 
+than in some other games, so you will be given more latitude.  Just keep 
+you character in perspective when thinking about its interactions.
+	Finally on the points...  Every player will have 150 points to 
+spend on their character.  This may seem like a lot, but I am asking for 
+quite a bit of input from each of you, and not allowing any other form 
+of personal contribution (at least for points). Also, every character 
+may have the Pattern free, yes free. That means that if you take Basic 
+Pattern Imprint it costs nothing (and Advanced is only twenty-five more 
+points), but if you don't take it for your character, your character 
+gains nothing. No Pattern imprint, no additional points.  
+	Every player should try and answer some basic questions in their 
+character background, and in the world descriptions you create.  
+Remember the more information I receive the better I will be able to work 
+with your character, or shadow.
+    	Goals are important for a character.  What drives him or her?
+    	What is important to your character?
+    	What kinds of places has he or she visited?
+   	Answer any of the Character Quiz questions that sound appropriate 
+to you. 
+    	Do you want to create a home shadow with another player (not 
+necessarily spending points, but working with someone else) to have a 
+close knit history?
+    	Do you want to have close ties with another player character?  
+Close full brothers, sisters, etc... (Note you don't have to have a 
+friend playing in the game, if you mark this, I can pair you up with 
+someone else who is interested in the same thing.  Brother and sister 
+relationships can be great grist for the role-playing mill.)
+    	Are you included in any public trump decks?  If not, why not? 
+(Unless a really good reason is given, since you are all Corwin's 
+children, you will exist in the standard Trump deck that everyone 
+possesses.)
+    	Describe your character's starting situation.
+    	Remember that your character is immortal, and is likely to be with 
+you for a long time.  Love your Character. Find your character's Focus, 
+and finally write in character.  The whole process will be much better 
+the more we stay in character.
+
+
+-------------------------------------------------------------------------
+Classified Advertisements
+-------------------------------------------------------------------------
+Subject: Chill RPG - The McIver Horror
+Author: Thomas Deeny <fauxpas@cy-net.net>
+
+"The McIver Horror" is an adventure played using Chill, Mayfair's horror
+role-playing game.  Knowledge of Chill's game mechanics is not needed for
+playing this PBeM game.  "The McIver Horror" takes place in present day
+Oregon.  As a member of the secret organization of SAVE (Societas 
+Argenti Viae Eternitata, or The Eternal Society of the Silver Way), you 
+and your fellow SAVE envoys are to investigate strange occurrences in the 
+small logging town of McIver, Oregon; determine if the Unknown is 
+operating there; and take whatever steps is neccessary to stop it.  
+
+For those of you unfamiliar with the atmosphere of Chill, it is similar 
+to a really creepy X-Files episode, or almost any of numerous gothic 
+horror novels or movies.  Anne Rice's _The Witching Hour_ and _Interview 
+with the Vampire_, H.P. Lovecraft's horror stories (especially _The 
+Dunwich Horror_ and _The Whisperer in the Darkness_), and _The 
+Exorcist_ or _The Omen_ spring to mind.  _Army of Darkness_ and _Friday 
+the 13th Part VII:  Jason Takes Manhattan_ don't.  Speaking of Anne 
+Rice, her investigative group "The Talamasca" is very similar to 
+Chill's SAVE.
+
+There will be two turn/action deadlines per week, one on Tuesday
+night/Wednesday morning at 2am and one on Saturday night/Sunday morning 
+at 2am.  Collated GM turns will be distributed on Wednesday and Sunday 
+by 10pm.  I estimate the game will last through the summer.
+
+"The McIver Horror" was originally published in Chill's "Horrors of North
+America" under a different name.  If you have played this adventure 
+before, you are welcome to observe the game.  This adventure requires 
+three to six SAVE envoys.
+
+For more information or to sign up, please e-mail me at 
+fauxpas@cy-net.net --> Please include "Chill:  " in your subject line.  
+
+Subject: Swords & Magick Fantasy Role-Playing Game
+Author: Geoff Bottone <cyrathax@usa.nai.net>
+
+Brand new generic fantasy role-playing system without all the 
+unnecessary junk.  Easy to learn.  150 page manual comes complete with 
+everything that you need to run a one-time adventure or begin a 
+campaign.  $12.00 plus $3.00 for shipping and handling.  Send checks 
+only to GeoffQuest, PO Box 1359, Cheshire, CT 06410. Also, visit our web 
+site at http://www.wp.com/90596/home.html
+
+Subject: AD&D 2nd Edition - Game in Europe
+Author: Denny<lstarker@venus.net>
+
+Do you live in the Swizerland Co. IN area?  Do you want to be involved 
+in an AD&D 2nd Edition game?  Can you make trips to Vevay every week or 
+so?  Do you not mind Dennis Starker being your DM?  If you ansewered yes
+to all of these questions, then e-mail me to get more info.  The campaign
+will be set in the DragonLance world.  Very poor game environment until I
+get a good set. Kender are allowed, Drow are not.
+
+Subject: IRC Role-Playing
+Author: D <arch@netjax.com>
+
+                        For Unique and Exciting Role-Play
+                             on the IRC's Dalnet,
+                             You are Welcome in
+                                Lord Corwen's
+                                 #VALMORTHA
+                 The game is role-play centered, not hack-n-slash.
+                    If you're up to the challenge, seek us:  
+                            weekdays btw 4 - 6pm cst 
+                 weekends are sporadic, but usually btw 12-4pm cst 
+
+Subject: IRC RPG Channel on Dalnet
+Author: Greg Mann <lmann@netwalk.com>
+
+		*****-IRC ROLE-PLAYERS-*****
+If you're interested in getting into an online IRC campaign for any game,
+drop Greg Mann a line at:
+		        lmann@mail.netwalk.com
+
+A channel for this purpose is already created on DalNet, and Greg is 
+looking for players and game masters.  A bot is monitering the channel 
+and provides dice rolling, social commands, security, and more.  SO IF 
+YOU'RE INTERESTED, GO AHEAD AND CONTACT GREG TO SHOW YOUR INTEREST AND 
+GET IN A CAMPAIGN!!!
+
+Subject: PBEM Game
+Author: Sean Pagliarulo <71062.3412@compuserve.com)
+
+         Game Master: Sean Pagliarulo
+       Gaming System: Amber
+             Players: 5-15 depends 
+     Number of Turns: N/A
+Campaign Description: Long term campaign with dedicated players, set 
+		      in Corwin's new Pattern.
+
+Other Information:  (I am puting the finishing touches on a text based 
+message that can fit here when it is done (probably next week sometime).  
+It will include the philosophy behind the setup, and other basic 
+information so that people can decide if they are interested.
+
+Subject: MUSHES
+Author: Hawk <hawk@tcd.net>
+
+	MUSHes and MUDs are gaining in popularity.  Some are similar to 
+something out of a Choose Your Own Adventure book.  Others provide a 
+great Role-Playing experience.  One I'd like to bring to your attention 
+is the Shadowrun MUSH.  It is by far the best I have seen.  There is a 
+strong emphasis on Role-Playing, and less on actual combat.   This is 
+partly because you must have a good Background for your character, and 
+get approved by the staff.  If you play Shadowun, or like the idea of an 
+awakened futuristic-world, this is a must try!  It is located at 
+shadowrun.dnaco.net port: 4201 .  They also have a website located at
+http://www.dnaco.net/~shadow/ .  -Hawk (hawk@tcd.net)
+
+Subject: Dragon*Con
+Author: <cmcdanie@mindspring.com>
+
+Dragon*Con is a multi-genre science fiction convention which crosses over
+into fantasy, gaming, and comics, with broad ranges which extend from
+books, art, and film to computers, special effects, and music.
+
+Our 1996 convention will take place June 20-23, 1996 at the Atlanta 
+Hilton and Towers, Westin Peachtree Plaza Hotel, and the Atlanta Civic 
+Center.
+
+Over 300 featured Guests include:
+
+Mark Hamill  -  Star Wars' Luke Skywalker and  star of Origin Systems' 
+Wing Commander series
+David Prowse  -  Star Wars' Darth Vader
+Vincent Perez  -  Star of the forthcoming The Crow: City of Angels
+Timothy Leary  -  Pop cultural icon
+Donald Schmitt   -  UFO Crash at Roswell Investigator and Author
+John Kricfalusi   -  Animator and Creator of Ren & Stimpy
+Kevin Smith  -  Writer / Director of Clerks and Mallrats
+Richard "Lord British" Garriott  -  Creator of the Ultima games
+Al Feldstein  -  Creator of Mad Magazine and Tales from the Crypt
+Steve Sansweet  -  Ambassador to Lucasfilm
+Joseph Peter Hale  -  NASA Virtual Reality Director
+Richard Hatch  -  Battlestar Galactica's Apollo
+Mark Goddard  -  Lost in Space's Major Don West
+Lloyd Kaufman   -  President of Troma Films
+
+Writers / Editors include:
+
+Kevin J. Anderson - X-Files and Star Wars Bestselling Author and Editor
+C.J. Cherryh - Multiple Hugo Winning Author of Cuckoo's Egg and Cyteen
+Storm Constantine - British Author of the Wraeththu Trilogy
+Charles L. Grant - Author of two X-Files and many Horror Novels
+Patricia Kennealy-Morrison - Author of the Keltiad series and Strange 
+	Days
+Rudy Rucker - Cyberpunk Forefather crossing SF, Science, and Math
+R.A. Salvatore - Bestselling Author of The Legacy and The Halfling's Gem
+R.U. Sirius - Founder of Mondo 2000 & author of The Cyberpunk Handbook
+John Shirley - Screenwriter of The Crow and VR5 and Cyberpunk Writer
+Michael Stackpole - Star Wars Author and Game / Computer Designer
+Bruce Sterling - Author, Cyberpunk and Hacker Extraordinaire
+Robert Anton Wilson - Illuminatus Trilogy and Schroedinger's Cat Author
+
+Comics Writers and Artists include:
+
+Chris Claremont - A decade of Uncanny X-Men and now Sovereign Seven
+Peter David - Top Comics Writer and Babylon 5 Screenwriter
+Neil Gaiman - Writer of The Sandman and Screenwriter of Neverwhere
+Kevin Nowlan - Artist of WildC.A.T.S. and Batman: Black and White
+James O'Barr - Writer, Artist, and Creator of The Crow
+P. Craig Russell - Artist of Darkhorse's Star Wars and Topps' Elric
+Mark Schultz - Writer, Artist, and Creator of Cadillacs & Dinosaurs
+Jeff Smith - Writer, Artist, and Creator of Bone
+William Stout - America's #1 Dinosaur Illustrator
+Charles Vess - Sandman Illustrator and Creator of Ballads and Sages
+Reed Waller - Writer, Artist, and Creator of Omaha, The Cat Dancer
+Robt. Williams - Internationally Renowned Pop Culture Artist
+
+and many, many more!
+
+Events and Activities include:
+
+Fourteen Programming Tracks (including complete
+  tracks dedicated to: Space, Science, Writing,
+  Star Wars, Star Trek, X-Files, Pern, Children,
+  Queen's Own, and Filk)
+Huge Dealers Room (over 400 tables and booths) Costume Contest (with
+seating for 5,000)
+Tournament and Open Gaming (over 500 events)
+Live Role-Playing (Vampire and Dark Confrontation)
+Robot Battles (with Robot Wars' Mark Thorpe)
+Art Show and Print Shop (larger than in 1995!)
+Three Video Rooms (Japanimation and Psychotronic)
+Live Concerts and Dances (with GWAR Sat. night!)
+
+Discount hotel space is still available (at the flat rate of $93/night 
+for 1 to 4 guests).  You can zoom directly from the Atlanta Airport to
+Dragon*Con via Atlanta's Rapid Rail System for only $1.50.
+
+Advance Memberships are $50 for all four days ($60 at the door).  Daily
+Memberships are available for $25 (or $20 on Sunday).  4-Day Advance
+Memberships may be reserved now though Ticketmaster at (404) 249-6400.
+
+Please e-mail us (digest@dragoncon.org) for your free 24-page update
+(delivered via first class snail) or check out our web site at:
+
+          http://www.dragoncon.org
+
+For additional info, please e-mail us or contact our office, Monday -
+Friday from 8:30 - 5:00 at (770) 925-0115.  Our 24-hour info and Fax line
+is (770) 623-6321.  You can receive Program Book advertising info from
+Stuart Hellinger (sch@panix.com).

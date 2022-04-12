@@ -1,0 +1,243 @@
+Date: Thu, 11 Jan 96 17:47:05 CST
+From: Patrick Douglas Crispen <PCRISPE1@UA1VM.UA.EDU>
+Subject: TOURBUS - Jan 11 1996 - MORE NEAT E-MAIL LISTS
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TOURBUS - THURSDAY, JANUARY 11
+TODAY'S STOP: SOME MORE NEAT E-MAIL LISTS
+TODAY'S ADDRESSES: http://ua1vm.ua.edu/~crispen/word.html
+                   http://hiwaay.net/~crispen/
+                   http://update.wsj.com/
+                   topten@listserv.clark.net
+                   http://www.dartmouth.edu/pages/TidBITS/TidBITS.html
+                   tidbits@ricevm1.rice.edu
+
+
+Before we get too far into today's TOURBUS stops, I have a
+couple of quick "excursions" that you might also want to check
+out.  If you are a fan of the Southern words of the day -- and
+who isn't? -- I strongly recommend that you bop on over to the
+Southern Word homepage at
+
+     http://ua1vm.ua.edu/~crispen/word.html
+
+This page is a HUGE archive of every Southern word that has
+ever appeared on TOURBUS (thanks to the help of Hungarian
+TOURBUS rider Valas Gyorgy).
+
+Also, if you are interested in learning more about the
+parental units that spawned me (and isn't THAT a graphic
+image?), you should visit the Crispen family's homepage at
+
+     http://hiwaay.net/~crispen/
+
+... and I am not just saying this because my parents gave
+me their bank card :)
+
+Talking about neat stuff to check out, here is a quick message
+from the folks that are making today's TOURBUS post possible:
+
+
++-----------------> Netscape Road Map Training Manual <-------------------+
+| Now available for use by Trainers and Presenters.  This 55 page manual  |
+| succinctly reviews the basic functions of Netscape 2.0.  Get your copy  |
+| today for just $16. FREE info & sample chapter, E-mail: CDOMEYE@AOL.COM |
++-------------------------------------------------------------------------+
+
+
+A few weeks ago, Bob announced that TOURBUS is the fourth most
+popular LISTSERV list in the world ("we're number 4! we're
+number 4!").  If you aren't quite sure what a LISTSERV list
+is, you probably should check out Roadmap lesson 5 (LISTSERVS)
+by sending an e-mail letter to
+
+     LISTSERV@UA1VM.UA.EDU
+
+(that's "you-aye-won-vee-em") with the command
+
+     GET MAP05 LESSON F=MAIL
+
+in the body of your e-mail letter.
+
+Anyway, back to being number 4.  Here is the list of the four
+largest LISTSERV lists in the world (as of a few minutes ago):
+
+     RANK  LISTNAME      SUBSCRIBERS
+
+     1.    WSJ-ANNOUNCE  110,095
+     2.    TOPTEN        96,744
+     3.    TIDBITS       31,018
+     4.    TOURBUS       23,363
+
+
+Let's take a quick look at each of these lists, including how
+you can subscribe to each of them (gee, just what you need ...
+MORE e-mail!).
+
+
+WSJ-ANNOUNCE
+============
+
+Explaining the WSJ-ANNOUNCE list is going to be a tad bit difficult.
+
+The Wall Street Journal has an online service called "Money & Investing
+Update."  According to their Web page, "Money & Investing update
+features continually updated coverage of global markets and the
+top stories in business and finance world-wide, drawing on news and
+information from The Wall Street Journal, The Asian Wall Street
+Journal, The Wall Street Journal Europe and Dow Jones newswires."
+
+Money & Investing Update is a free subscription servive ... but here
+is the bad news: the Update is only available through the Web,
+and you have to have a forms-capable Web browser (like Netscape)
+to access it.
+
+So what is the WSJ-ANNOUNCE list for?  Well, it is a way for
+the folks at the Wall Street Journal to tell the Money & Investing
+Update subscribers about changes to the Update service.  The only
+way that you can subscribe to WSJ-ANNOUNCE is to subscribe to the
+Money & Investing Update by visiting the Update's homepage at
+
+     http://update.wsj.com/
+
+Once you are at this page, click on the words "Free Subscription"
+in the bottom left-hand corner of the page.  This will take you
+to the subscription page (whick is why I said that you need a
+forms-capable Web browser).  As long as the "Yes, I want to receive
+e-mail when new features are added" box on the subscription page
+is checked, you will automatically be subscribed to WSJ-ANNOUNCE
+when you subscribe to Money & Investing Update.
+
+
+TOPTEN
+======
+
+This is probably my favorite e-mail list (when it is working).
+TOPTEN is the e-mail distribution list for David Letterman's
+Top Ten lists.
+
+For those of you who may not be in the states, David Letterman
+is the host of "The Late Show," a nightly, hour-long talk show
+on CBS.  As a part of each of his shows, Letterman reads a
+Top Ten list (like "Top Ten Signs You Bought a Bad Computer").
+Each Top Ten list is made up of funny responses to that night's
+list's topic (like "2. While running, it emits deafening
+calliope music").
+
+After each night's Late Show, the folks at the TOPTEN list
+(with Mr. Letterman's permission, of course) copy that evening's
+Top Ten list and email it to the people subscribed to the TOPTEN
+list.  In other words, the volume of mail on this list is
+pretty light ... just one letter each night.
+
+There is some bad news, though.  Because of some problems at
+the TOPTEN list's LISTSERV site, the TOPTEN list is not currently
+sending out any new Top Ten lists.  I have been told, however, that
+TOPTEN is still accepting subscriptions and hopes to be back delivering
+Top Ten lists to its subscribers quite soon.
+
+To subscribe to TOPTEN (for free, of course), just send an e-mail
+letter to
+
+     LISTSERV@LISTSERV.CLARK.NET
+
+with the command
+
+     SUBSCRIBE TOPTEN YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and
+YOURLASTNAME with your first and last names.
+
+
+TidBITS
+=======
+
+As a Macintosh user, it does my heart proud to see that TidBITS
+has so many subscribers.  "TidBITS is a free weekly electronic
+publication that reports on interesting products and events in
+the computer industry, currently with an emphasis on the world
+of the Macintosh."
+
+If you are a serious Web-head, you can visit the TidBITS homepage at
+
+     http://www.dartmouth.edu/pages/TidBITS/TidBITS.html
+
+or you can subscribe to TidBITS (for free) through e-mail by sending
+an e-mail letter to
+
+     LISTSERV@RICEVM1.RICE.EDU
+
+with the command
+
+     SUBSCRIBE TIDBITS YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and
+YOURLASTNAME with your first and last names.
+
+
+TOURBUS
+=======
+
+That's us :)
+
+By the way, some of you may have noticed that there is a difference
+between the number of people who are subscribed to TOURBUS through
+the LISTSERV (23,000) and the number of people that actually receive
+each TOURBUS post (42,500).  This is because some of our subscribers
+have asked for our permission to redistribute TOURBUS to their
+friends and coworkers :)
+
+
+SOME FINAL THOUGHTS
+===================
+
+While TOURBUS may not be the biggest LISTSERV list around,
+I am willing to bet that our subscribers could beat up any
+other list's subscribers ... and we're much better looking too
+(except, of course, for Bob).
+
+Oh ... one last thing: for those of you who have access to
+CU-SEEME (Cornell University's audio/visual networking software),
+you can probably find me lurking on CU-SEEME throughout the day
+(8:00 AM to 4:45 PM CST) at either 158.36.33.3 or 128.171.171.10
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+GUMMIT - Noun.  An often-closed bureaucratic institution.
+Usage: "Great ... ANOTHER gummit shutdown!"
+(Special thanks goes to Rick Snyder for today's wurd)
+
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.

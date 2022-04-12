@@ -1,0 +1,106 @@
+TOURBUS: Tuesday, July 9, 1996
+DRIVER: Bob Rankin
+TODAY'S TOURBUS STOP: Free E-Mail?
+
+   
+   I think everybody should have an e-mail address. One of my goals is to
+   get my parents wired before the end of this year, but I'm not sure
+   they would see the value in paying even $5 a month for an Internet
+   account. Wouldn't it be nice if e-mail was free?
+   
+   Surprise, it is. Today I'll highlight two new services that offer FREE
+   E-MAIL accounts with no strings attached. Juno and Freemark are two
+   companies that are beginning to offer free e-mail to almost anyone
+   with a modem. What's the catch? Commercials. But it's done right - you
+   only have to endure a display ad on the bottom of your screen. No ads
+   are actually delivered to your inbox. Kinda like commercials on TV...
+
+*--------------------------*  ONLINE COURSES  *----------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*--------------------------------------------------------------------*
+
+   I should state up front that both of these services cater only to
+   users in the U.S. with Windows-based computers. But they are both
+   planning to accomodate Mac users in the near future, and I'd be really
+   surprised if the concept does not spread around the world like
+   wildfire. If you hear about a similar service outside the U.S. please
+   let me know and I'll share it here!
+   
+  Rather Fight Than Switch?
+  
+   If pay an access provider or online service each month just for the
+   privilege of using e-mail, then you really should consider moving to a
+   service like this. At the very least, you could probably save money by
+   using a free e-mail service and limiting your online time to other
+   activities such as Web surfing.
+   
+   But here's another twist, it turns out you can access almost ANY
+   Internet resource through e-mail. My free guide "Accessing the
+   Internet By E-Mail" tells you how to use FTP, Gopher, Archie,
+   Veronica, Finger, Usenet, Whois, Netfind, the World-Wide Web, and some
+   other fun stuff using simple e-mail commands.
+   
+   To get the latest edition, send e-mail to one of the addresses below.
+   
+   To: mail-server@rtfm.mit.edu (for US, Canada & South America)
+   Enter only this line in the BODY of the note:
+   send usenet/news.answers/internet-services/access-via-email
+   
+   To: mailbase@mailbase.ac.uk (for Europe, Asia, etc.)
+   Enter only this line in the BODY of the note:
+   send lis-iis e-access-inet.txt
+   
+  Which is Better?
+  
+   I've seen the screens for Juno and Freemark and they both look really
+   easy to use. But Juno is available in a few places where Freemark is
+   not, and they also promise access via a tollfree 800 number if there
+   is no local Juno number in your area.
+   
+   The one annoying feature of Juno is that you cannot receive a message
+   larger than 60KB, and I'm pretty sure that there is a cap on the
+   number of messages you can send or receive in one day. It's possible
+   that Freemark has similar limitations as well.
+   
+   Freemark requires only 3-5 megs of free space on your hard drive,
+   while Juno requires 15 megabytes. Try 'em both!
+
+*---------------*  Win the $1 Million Dollar Giveaway!  *-------------*
+ Play the Prize-link Progressive Jackpot Sweepstakes at Web Warehouse.
+  A chance to WIN up to $1 Million Instantly!  Web Warehouse offers a
+ wide assortment of quality consumer items from jewelry to music CDs.
+*-----------------------( http://webwarehouse.com )-------------------*
+
+  See For Yourself
+  
+   You can get more information on JUNO at http://www.juno.com, or by
+   sending e-mail to info@juno.com. You can even call them tollfree at
+   1-800-654-JUNO.
+   
+   You can get more information on FREEMARK at http://www.freemark.com,
+   or register to receive their software by emailing your name and
+   address to subscribe@freemark.com. You also can call them at
+   617-492-6600.
+   
+   You can bet that if free e-mail services are successful, then other
+   types of advertiser-sponsored services will not be far behind. Free
+   SLIP/PPP, anyone? It could get really interesting... :-)
+   
+   See you next time! -Bob
+   
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     _________________________________________________________________
+   
+   TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+   All rights reserved. Redistribution is allowed only with permission.
+   Send this copy to 3 friends and tell them to get on the Bus!

@@ -1,0 +1,249 @@
+From crispen@CAMPUS.MCI.NET Wed Mar  5 21:31:09 1997
+Date: Wed, 5 Mar 1997 10:05:40 -0800
+From: Patrick Douglas Crispen <crispen@CAMPUS.MCI.NET>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS -- 6 MARCH 1997 -- EXPLORER SECURITY HOLE / MORE CRAIG/              VIRUSES IN E-MAILS
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"      /    |  \
+  |__________|__________/__________|__________|___________/     |   \
+ /                                                       /______|----\
+|     Visit the TOURBUS website to see the Archives,     |//////|    |
+|           FAQ, and Subscription Information!           |//////|    |
+|                 http://www.TOURBUS.com                 |//////|    |
+|                                                        |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s    \___/
+
+TODAY'S STOP:      EXPLORER SECURITY HOLE / MORE CRAIG / VIRUSES IN E-
+                   MAIL?
+TODAY'S ADDRESSES:
+     http://www.educom.edu/edupage.old/edupage.97/edupage-03.05.97
+     http://www.microsoft.com/ie/security/update.htm
+     http://ciac.llnl.gov/ciac/CIACHoaxes.html
+     http://www.fcc.gov/Bureaus/Miscellaneous/Public_Notices/
+        pnmc5036.txt
+
+Hi, kids!
+
+Today's TOURBUS is made possible by the generous support of today's
+sponsors.  Make sure you stop by and thank them for keeping the bus on the
+road for another week ... :)
+
+*------------ DHEA. MELATONIN. SPORTS NUTRITION. VITAMINS -----------*
+    HealthPort Newsletter: it's like a TOURBUS of Health Industry!
+         Facts and Fun On-Line: get your FREE subscription at
+*-------------------( http://www.healthport.com ) -------------------*
+
+*--------------------------- MASS MUSIC -----------------------------*
+  More Music For Your Money!  Over 185,000 Titles Just A Click Away.
+ FREE Weekly Music Zine - Buy 7 Get 1 FREE Everyday - Treasure Hunt!
+      TOURBUS Rider Discount code: SAVENOW! use it and save 5%
+*------------------(  http://www.Mass-Music.com  )-------------------*
+
+And now, let's get this week's journey under way!
+
+SECURITY HOLE IN INTERNET EXPLORER
+----------------------------------
+
+According to Wednesday's Edupage, there is a potentially damaging security
+hole in Microsoft's Internet Explorer web browser software.  Edupage
+reports that
+
+     Microsoft says it is moving quickly to plug a security hole in
+     its Explorer Web-browsing software that was discovered by
+     Worcester Polytechnic Institute student Paul Greene.  Microsoft
+     says the flaw, which involves basic functions within Microsoft's
+     Windows 95 and Windows NT operating systems, bypasses the highest
+     levels of the software's security systems. (Washington Post 3 Mar
+     97)
+
+     [quoted from http://www.educom.edu/edupage.old/edupage.97/
+     edupage-03.05.97]
+
+The security hole leaves users vulnerable to remote file deletion and
+uploading, as well as to hard drive erasure.  According to Microsoft
+
+     Users could be affected by this problem if they are running
+     standard or 128-bit versions of Internet Explorer 3.0 and 3.01
+     for Windows 95 and Windows NT 4.0. It cannot affect users of
+     Internet Explorer 3.0 / 3.0a for Windows 3.1/NT 3.51 or Internet
+     Explorer for Macintosh 2.1 / 3.0 / 3.0a.
+
+Microsoft has already fixed the security problem, and a code fix can be
+found on the Web at
+
+     http://www.microsoft.com/ie/security/update.htm
+
+The code fix for Explorer 3.01 was available on Wednesday (5 March), and a
+code fix for Explorer 3.0 should be ready on Thursday (6 March).
+
+
+CRAIG SHERGOLD TAKES A WALKABOUT
+--------------------------------
+
+Last week, I wrote
+
+     Folks, if you receive a letter telling you that Craig Shergold,
+     Jessica Mydek, Anthony Parkin, or ANY other sick/dying kid wants
+     you to send them business cards, get well cards, e-mail letters,
+     or anything else, DON'T BELIEVE IT!  These stories not only
+     betray the public's confidence, they cause damage to legitimate
+     organizations like the American Cancer Society and the Mayo
+     Clinic.
+
+Well, it looks like we can add a school to the long list of victims of the
+Craig Shergold hoax.  According to Ian Stevens, a TOURBUS rider in
+Australia (the *DEEP* south)
+
+     I sent [you] a message last week about a snail mail chain letter
+     I received on Craig John, a young boy supposedly suffering from
+     cancer in Adelaide, Australia.  You said you had not heard of it
+     but presumed it to be a hoax. I checked it out by determining the
+     phone number of the person to send cards to.  It was a school.
+     The contact turned out to be the principal of the school.  They
+     have received literally thousands of cards.  There is no person
+     by the name of Craig John and they don't know where it started
+     from.
+
+Remember, folks, the Craig Shergold (et. al) story is yet another Internet
+hoax that, unfortunately, refuses to die.  :(
+
+
+VIRUSES IN E-MAILS
+------------------
+
+The biggest hoaxes floating around the Net right now are the messages
+telling you that you can get a virus from e-mail letters that contain a
+certain subject line.  Here are the some of the more popular virus hoax
+messages:
+
+     Here is some important information. Beware of a file called
+     Goodtimes. ... If you get anything called "Good Times", DON'T
+     read it or download it. It is a virus that will erase your hard
+     drive.  Forward this to all your friends. It may help them a lot.
+
+or
+
+     There is a computer virus that is being sent across the Internet.
+     If you receive an e-mail message with the subject line "Irina",
+     DO NOT read the message. DELETE it immediately.
+
+or
+
+     There is a computer virus that is being sent across the Internet.
+     If you  receive an email message with the subject line
+     "Deeyenda", DO NOT read the message, DELETE it immediately!
+
+or
+
+     This is a warning for all internet users - there is a dangerous
+     virus propagating across the internet through an e-mail message
+     entitled "PENPAL GREETINGS!".  DO NOT DOWNLOAD ANY MESSAGE
+     ENTITLED "PENPAL GREETINGS!"  This message appears to be a
+     friendly letter asking you if you are interested in a penpal, but
+     by the time you read this letter, it is too late.  The "trojan
+     horse" virus will have already infected the boot sector of your
+     hard drive, destroying all of the data present.  It is a self-
+     replicating virus, and once the message is read, it will
+     AUTOMATICALLY forward itself to anyone who's e-mail address is
+     present in YOUR mailbox!
+
+     [All quotes from http://ciac.llnl.gov/ciac/CIACHoaxes.html]
+
+Some of these virus warnings also come with an emergency warning from the
+United States Federal Communications Commission -- the FCC (remember them?).
+
+Folks, it is flat out IMPOSSIBLE for you to get a virus from reading the
+text of an e-mail message.  It can't be done.  Period.  I don't care what
+anyone else says.  It is IMPOSSIBLE!  Letters warning you about "Good
+Times," "Irina," "Deeyenda," "Penpal Greetings," and any other e-mail-borne
+viruses are HOAXES!
+
+Oh, and as for the FCC warnings, the FCC's policy is that
+
+     The U.S. FCC does not disseminate information regarding the
+     existence, impact, or affect of computer virus. [sic]
+
+     [Quoted from http://www.fcc.gov/Bureaus/Miscellaneous/
+     Public_Notices/pnmc5036.txt]
+
+With that said, let me tell you that it *IS* possible for you to get a
+virus from a file that is *attached* to an e-mail message, but you have to
+execute that file first.  For example, let's say that someone sends you an
+e-mail letter and he attaches a virused Microsoft Word file to that e-mail
+letter.  Your computer would NOT become virused if you opened and read the
+e-mail letter (remember, it is IMPOSSIBLE for you to get a virus from an
+e-mail letter).  Your computer *would*, however, become virused the moment
+you launched the attached, virused Microsoft Word document.
+
+Should you be worried about receiving a virused file attached to an e-mail
+letter is sent to you?  Yes and no.  According to an article that was
+recently posted on the Macintosh Evangelist mailing list, there are
+currently
+
+     - 10,000-11,000 DOS viruses
+     - 12 Windows viruses
+     - 35 Mac viruses
+     - 200+ macro viruses; 70-90% are cross platform
+     - 6 Unix viruses
+
+Those 10,000 to 11,000 DOS viruses affect all DOS, Windows, and Windows95
+machines (but not Macs), and most of those 200+ macro viruses affect ALL
+machines (PC and Mac).  By the way, macros are a series of commands
+(usually Microsoft Word commands) that allow you to group together a whole
+bunch of tasks into a single command.
+
+We've talked about this a couple of times before, but how can you keep
+yourself from downloading a virus from the Net?  The answer is: NEVER open
+a file without first running it through a virus checker.  Even if the file
+is from your boss, your loved one, or your clergy member, CHECK THE FILE
+BEFORE YOU OPEN IT.
+
+Finally, how can you protect yourself from the "Good Times," "Irina,"
+"Deeyenda," and "Penpal Greetings" viruses?  YOU DON'T HAVE TO!  THEY'RE
+HOAXES!
+
+TODAY'S ADDRESSES:
+     http://www.educom.edu/edupage.old/edupage.97/edupage-03.05.97
+     http://www.microsoft.com/ie/security/update.htm
+     http://ciac.llnl.gov/ciac/CIACHoaxes.html
+     http://www.fcc.gov/Bureaus/Miscellaneous/Public_Notices/
+        pnmc5036.txt
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+SPLODE (verb).  To release energy by the sudden production of gases.
+Usage: "Ah went to the races last night, there wuz lots of
+        kee-rashes but none of um sploded."
+
+(Special thanks goes to Louis Jezsik for today's word)
+
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.tourbus.com/
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+    TOURBUS - (c) Copyright 1997, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

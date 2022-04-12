@@ -1,0 +1,33 @@
+******************************************************************************
+ K  K   I    CCC     K  K   BBBB    U   U   TTTTTTT   TTTTTTT      333
+ K K    I   C    C   K K    B   B   U   U      T         T        3   3
+ KK     I   C        KK     BBBB    U   U      T         T          33
+ K K    I   C    C   K K    B   B   U   U      T         T        3   3
+ K  K   I    CCC     K  K   BBBB     UUU       T         T         333
+********************************************* made by the HeadAche ***********
+* WAD info *
+Single player   : No
+Cooperative     : No
+Deathmatch      : Yes!
+New stuff       : No
+
+* Build info *
+File name       : kickbut3.wad
+Build time      : about 3 hours
+Editor          : EdMap 1.31
+Bugs            : Don't hope so. Mail me if you can find any.
+
+* Comments *
+The third WAD in the 'kickbutt' series. It's a little bit different to the
+others. You've got all the weapons in this wad (except of the chainsaw).
+The Plasma and BFG are slightly harder to get than the others.
+
+
+Homepage: http://www.vestdata.no/~olag/ole
+Doompage: http://www.vestdata.no/~olag/ole/doom2.htm
+E-mail:   sg-3data@online.no
+
+You'll find all my new WADs on my Doompage....Check them out!
+
+
+

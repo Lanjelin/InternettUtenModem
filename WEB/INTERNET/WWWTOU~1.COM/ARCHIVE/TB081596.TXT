@@ -1,0 +1,223 @@
+
+From crispen@campus.mci.net Thu Aug 15 21:18:13 1996
+Date: Wed, 14 Aug 1996 17:22:19 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS -- 15 AUGUST 1996 -- MERCURY MAIL (PART TWO)
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /   Take the MYST Trivia Challenge at WorldVillage and |//////|    |
+ |   win one of 50 great prizes from Broderbund!  For   |//////|    |
+ |   details, see http://www.worldvillage.com/myst.htm  |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP      : MERCURY MAIL (PART TWO)
+TODAY'S TOURBUS ADDRESSES : http://www.worldvillage.com/tourbus.htm
+                            http://www.ua.edu/~crispen/word.html
+                            news@merc.com
+                            weather@merc.com
+                            stocks@merc.com
+                            sports@merc.com
+                            entertainment@merc.com
+                            nfl@merc.com
+
+Hi, kids!  Last week I told you that you can find all of the previous
+TOURBUS posts at
+
+     http://www.worldvillage.com/tourbus.htm/
+
+Well, it looks like your fearless bus driver went a little "slash happy"
+and added an unnecessary "/" at the end of that URL.  The *correct* address
+for the TOURBUS archives is
+
+     http://www.worldvillage.com/tourbus.htm
+
+(notice that there is no "/" at the end of the URL).  Sorry about that.  To
+make up for my little slash incident, I am happy to announce that I have
+updated the Southern Word homepage at
+
+     http://www.ua.edu/~crispen/word.html
+
+This page contains every Southern Word that has appeared in my TOURBUS
+posts over the past year, and is required reading if you ever want to be
+able to converse with a "suddener."  :)
+
+Of course, if you want to be a TRUE Southerner, you'll have to know how to
+make gourmet grits ...
+
+*---------------------*  Be A CyberGourmand! *-----------------------*
+    Twin Peaks Gourmet Trading Post - a Cornucopia of Pleasurable
+  Edibles. Sauces, Spices, Salsas, and Sweets. Indulge your Desires.
+*-----------------------( http://tpeaks.com )------------------------*
+
+Last week we pulled our little bus of Internet happiness into Mercury Mail,
+a *free*, advertiser-supported service (sort of like TOURBUS) that delivers
+only the news and information that you want, when you want it.  You may
+remember that I wrote that
+
+     [Y]ou have to have a forms-capable Web browser to be able to
+     "configure" Mercury Mail to send you what you want, when you want
+     it.  (Actually, I think you can do this through e-mail too, but I
+     could not find any directions on their web page ... I'll keep
+     looking, though.).
+
+Well, I am happy to announce that I have found a way that you can subscribe
+to, and configure, all of Mercury Mail's services using nothing but e-mail!
+Am I a great guy or what?!
+
+As a review, Mercury Mail offers 8 services: News; Weather; Snow; Stocks;
+Sports; Entertainment; Reminders; and Calendars.  All of the services, with
+the exception of "Calendars," are absolutely free.  Mercury Mail is able to
+fund these "free" services by placing small ads in the e-mail letters that
+they send you (sort of like what Bob and I do to be able to pay for
+TOURBUS).
+
+Let's take a look at how to subscribe to Mercury Mail's free news service,
+NEWSpot.  NEWSpot offers briefs of headline news in 14 categories with web
+links to the full story.  To subscribe to NEWSpot, just send an e-mail
+letter to
+
+     NEWS@MERC.COM
+
+All of Mercury Mail's subscription addresses will "autorespond" to your
+letters, so it does not matter what you put in the subject line or the body
+of your letters.
+
+Shortly after you send off your letter to NEWS@MERC.COM, you will receive a
+letter that looks something like this:
+
+     Welcome to NEWSpot, a new free service from Mercury Mail! NEWSpot
+     delivers a daily e-mail summary of news topics, including U.S.
+     news, international news, and special events.
+     ... %< snip snip snip ... %<
+
+     By replying to this message, we can get you set-up with NEWSpot
+     today! Place an X between the brackets if you want that feature
+     enabled.
+
+     General News
+      [ ] U.S.
+      [ ] International
+      [ ] Science & Medicine
+      [ ] Technology
+     ... %< snip snip snip %<
+
+All you need to do to subscribe to NEWSpot is reply to the e-mail letter
+from NEWSpot and put an X between the brackets next to any and all of the
+particular features that you are interested in!
+
+Simple, huh?  Here's some information on how to subscribe to *ALL* of
+Mercury Mail's services via e-mail.
+
+     NEWSpot
+     -------
+
+     NEWSpot offers briefs of headline news in 14 categories with web
+     links to the full story.   To subscribe to NEWSpot, send an e-
+     mail letter to NEWS@MERC.COM
+
+     WeatherVane
+     -----------
+
+     WeatherVane brings The Weather Channel to the desktop, offering
+     customized coverage of weather in your choice of cities and
+     regions.  To subscribe to WeatherVane, send an e-mail letter to
+     WEATHER@MERC.COM
+
+     SnowBytes
+     ---------
+
+     SnowBytes provides snow conditions and mountain reports on a
+     subscriber's selected resorts.  SnowBytes also includes events
+     and happenings in those locations.  Since it is 100 degrees in
+     the shade right now, SnowBytes has taken a little vacation ...
+     but SnowBytes will start up again in September (Mercury Mail will
+     send you a notice through their other services telling you how to
+     subscribe to SnowBytes).
+
+     CLOSING BELL
+     -------------
+
+     CLOSING BELL offers the daily closing prices and related news on
+     the stock/companies that you are following.  CLOSING BELL
+     includes several options such as morning news, inter-day news
+     alerts, mid-day stock reports and weekend reports.  To subscribe
+     to CLOSING BELL, send an e-mail letter to STOCKS@MERC.COM
+
+     Sports Wrap
+     -----------
+
+     Sports Wrap delivers personalized coverage of the Olympics,
+     baseball, basketball, golf, tennis, hockey and other sports as
+     they come into season.  To subscribe to Sports Wrap, send an e-
+     mail letter to SPORTS@MERC.COM
+
+     SpotLite
+     --------
+
+     SpotLite personalizes the latest information on movies, rentals,
+     theater, television, music releases, horoscope, lottery, gossip,
+     etc.  To subscribe to SpotLite, send an e-mail letter to
+     ENTERTAINMENT@MERC.COM
+
+
+The reminders service (ConsoliDate) is only accessible through the Mercury
+Mail homepage at
+
+     http://www.merc.com/
+
+and the calendar service (Quotes & Anecdotes) actually costs money (because
+of licensing agreements) so I'm just going to detour our bus around that
+service.
+
+Also, for those of you who are big NFL (National Football League) fans, you
+might want to check out Mercury Mail's NFL service at NFL@MERC.COM
+
+That's it for this week. Have a safe weekend ... and watch out for them
+squirrels!
+
+---------------------------------
+TODAY'S SOUTHERN WORDS OF THE DAY
+---------------------------------
+
+THUD - adjective.  What comes after second.
+Usage:  "My dad just graduated thud grade."
+
+(Special thanks goes to Dan Bragg for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://www.ua.edu/~crispen/word.html
+
+*-----------------*  WORK FROM HOME - ON-LINE!  *--------------------*
+ No sign-up fee, inventory or previous experience!  Put our website
+  to work for you!  Start your own business by trying our products,
+   30-days risk free!  Bonus: Enjoy the products & results! Email:
+                          LifeEx@citi.net
+*---------* (800) 854-3861  <http://www.citi.net/LifeEx> *-----------*
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name toLISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }            http://www.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.
+
+

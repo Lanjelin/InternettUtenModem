@@ -1,0 +1,78 @@
+
+
+<HTML>
+
+<HEAD><TITLE>Meny</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Beginning of WebMania/JavaScript Applet -------------------
+/* Copyright (C)1996 Q&D Software Development
+   All Rights Reserved.
+
+*/
+function scroll_status (seed)
+{
+        var msg = "Välkommen till Ardis hemsida!    Glöm inte att registrera dig på maillistan!!!";
+        var out = " ";
+        var c   = 1;
+
+        if (150 < seed) {
+                seed--;
+                var cmd="scroll_status(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 150 && 0 < seed) {
+                for (c=0 ; c < seed ; c++) {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scroll_status(" + seed + ")";
+                window.status=out;
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 0) {
+                if (-seed < msg.length) {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scroll_status(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,100);
+                }
+                else {
+                        window.status=" ";
+                        timerTwo=window.setTimeout("scroll_status(150)",100);
+                }
+        }
+}
+// -- End of JavaScript code "Pending_relink" tppabs="http://www.algonet.se/~mickey-h/ardis/--------------.class" -->
+
+
+</SCRIPT>
+</HEAD>
+<BODY onLoad="timerONE=window.setTimeout('scroll_status(100)',50);">
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" ALINK="#FF0000" VLINK="#FFFF00">
+
+<MAP NAME="meny">
+<AREA SHAPE="RECT" COORDS="0,32,26,218" HREF="WOMAN~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/woman.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="11,290,89,315" HREF="VALKOM~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/valkommen.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="28,272,95,287" HREF="DIVERS~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/diverse.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="0,251,72,272" HREF="NEWS~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/news.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="21,220,91,250" HREF="BBS~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/bbs.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="28,192,97,215" HREF="ARDIS_~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/ardis_info.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="32,149,96,189" HREF="../../../tppmsgs/msgs0.htm#7" tppabs="http://cgi.algonet.se/htbin/cgiwrap?user=mickey-h&script=mailing_list.cgi" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="31,111,97,148" HREF="GUESTB~1/GUESTB~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/guestbook/guestbook.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="33,87,95,109" HREF="TURNE~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/turne.html" TARGET="innehåll">
+<AREA SHAPE="RECT" COORDS="32,51,97,75" HREF="../../../tppmsgs/msgs0.htm#8" tppabs="http://cgi.algonet.se/htbin/cgiwrap?user=mickey-h&script=chat.cgi" TARGET="innehåll">
+</MAP>
+<!--Map by Web Hotspots 2.0  http://www.cris.com/~automata/ -->
+<!---->
+
+<img src="IMAGES/ARD_MENY.GIF" tppabs="http://www.algonet.se/~mickey-h/ardis/images/ard_meny.gif" border=0 USEMAP="#meny"><br>
+
+<A HREF="DISCOG~1.HTM" tppabs="http://www.algonet.se/~mickey-h/ardis/discografi.html" TARGET="innehåll"><img src="IMAGES/DISCO.GIF" tppabs="http://www.algonet.se/~mickey-h/ardis/images/disco.gif" border=0></A>
+</BODY>
+
+</HTML>
+

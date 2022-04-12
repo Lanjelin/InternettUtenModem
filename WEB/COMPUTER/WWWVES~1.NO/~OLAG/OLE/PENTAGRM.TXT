@@ -1,0 +1,25 @@
+********************* T H E   P E N T A G R A M ******************************
+                                        made by the The HeadAche
+
+ * WAD info *
+ Doom 2 PWAD file, made from scratch
+ Map#           : MAP01
+ Single player  : Yes, but you'll get out of monsters...no exit.
+ Cooperative    : No
+ Deathmatch     : Yes!
+ New graphics   : No
+ New sounds     : No
+
+ * Build info *
+ File name      : pentagrm.wad
+ Editor used    : EdMap 1.31
+ Build time     : 2-3 hours
+ Bugs           : If you find any, email me!
+
+ * Comments *
+ This PWAD is made for Deathmatch, in Doom2. It should be pretty good both for
+ Deathmatch 2.0 and 'old' Deathmatch. I have placed some monsters around, if
+ you like to play with them. There is no exit. Hope you'll enjoy it!
+
+ http://www.vestdata.no/~olag/ole/doom2.htm
+ sg-3data@online.no

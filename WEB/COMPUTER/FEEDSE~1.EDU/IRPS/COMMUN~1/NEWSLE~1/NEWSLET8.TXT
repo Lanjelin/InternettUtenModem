@@ -1,0 +1,644 @@
+IRPS NEWSLETTER
+August 1, 1996.
+Issue #8
+
+Table of Contents:
+
+IRPS Monthly status Report (Michael Popovich <cad@digital.net>)
+------------------------------------------------------------------------------
+Monthly Columns:
+  IRPS Internet Programming Project (Jared Nielsen <grafx1@airmail.net>)
+  Fires of the Heart  (Thom Allen <allent@MAIL.WSU.EDU>)
+  Rambling Thoughts (Kosala Ubayasekara <kosala@dataphone.se>)
+  DM's Advice (Earl Harrison <harrison@comsys.net>)
+  Battle Lust (Aaron Harrier <dharr@penn.com>)
+  Top Ten  - Famous Last Words  (John "B.J." Tomkins <gr8dm@acronet.net>)
+
+------------------------------------------------------------------------------
+Monthly Classified Ads:
+  Subject: IRC Roleplaying
+  Subject: Campaign Name: FireFly! Play Testing
+  Subject: Column Submissions
+
+------------------------------------------------------------------------------
+Column Name: IRPS Monthly Status Report
+Author: Michael Popovich <cad@digital.net>
+------------------------------------------------------------------------------
+	Hey everyone, as usual the club is still here and growing.  Our 
+approximate size is about 1300 people, and we seem to be stablizing out for
+the number of members in the club.
+	Also, IRPS has another Associate gaming club,  the Kindred Network,
+which is an Officially Sanctioned White Wolf club located in England, and we
+have a web page linked to them.  See the associate gaming section of the
+IRPS Homepage if you're interested.
+
+------------------------------------------------------------------------------
+Column Name: IRPS Internet Programming Project
+Author: Jared Nielsen <grafx1@airmail.net>
+------------------------------------------------------------------------------
+	Have you considered on-line front-end games?  Origin and 3DO have
+theirs but the worlds are proprietary, closed except to certain "qualifying"
+members.  Palladium and TSR are closing their doors somewhat to free on-line
+creation as well.  I have been developing a Win/95/NT based gaming front end
+that passes Winsock packets to register information/updates.  A virtual world
+with the downloaded front end software has always been a dream of mine.  The
+ultimate extension of role-playing.
+	I am more than willing to donate asignificant amount of time helping
+out with a project like this.If anyone is interested in helping Jared
+with this project please contact him at <grafx1@airmail.net>.
+
+------------------------------------------------------------------------------
+Column Name: Fires of the Heart
+Auhtor: Thom Allen <allent@mail.wsu.edu>
+------------------------------------------------------------------------------
+	The tug was almost imperceptible.  Almost.
+	Pelonius of Tyr spun quickly around and made a wild grab for the
+grubby little hand that had reached out from a nearby shadow to lift his belt
+pouch.
+	Even before he had the tiny arm in his grasp he knew it must have
+belonged to an amateur.  The thieves and pickpockets in Shadow Square were
+masters of the art and Pelonius rarely made it through this rowdy corner of
+the city still owning all his possessions.
+	On this night, though, he would not only escape with a full purse, but
+catch athief, as well.  Pelonius yanked on the small limb with the intention
+of pulling the attached halfling into the brilliant glow of Guthay's celestial
+lunar light.  With shock he looked down, not into the feral face of a
+halfling, but into the eyes of a dirty human child.
+	A gruff voice reminded Pelonius of his surroundings, 
+	"Ah, let the urchin go.  You can't reform every soul in this blasted
+city."  Looking around Pelonius exchanged a glance with his burly companion,
+Maedoc, an overly-muscular barbarian born and raised in the unforgiving
+desert.  He and six others, stood in the cramped alleyway impatiently waiting
+to finish their trek back to their home, a two-story building located in the
+heart of Tyr's poverty stricken district known as `the Warrens'.  In the days
+after King Kalak's death, walking these lawless streets during the day was bad
+enough.  At night, leaving the home was tantamount to walking a gauntlet.
+Pelonius and his friends knew that safety was found only in numbers and the
+occasional trips out- doors mandated a group this large.  Suddenly, the child
+twisted sharply in Pelonius's grasp.  Aided by the greasy filth covering her
+body, the girl broke free and fled back into the shadows.  His first thought
+was to follow, but a restraining hand on his shoulder made him pause.
+	"Let her go," Maedoc said once more in a calm voice.  "You have done
+much to help these people, my friend, but we must rest.  Tomorrow we leave for
+battle."  Maedoc was right.  The next day, all eight of them were leaving with
+the rest of the Tyrian army because the neighboring state of Urik had declared
+war.  The Urikite king, Hamanu had pledged to wrest control of Tyr's iron
+mines from the struggling, chaotic city.    Fortunately, a motley collection
+of arena gladiators, king's templars and newly emancipated freemen had vowed
+to stop him.  Pelonius and his friends would be among them.
+	The army would need his help, after all.  He possessed invaluable
+skills of healing and medicine that would be of great use during the fight to
+come. His form of priestly magic had another purpose.  For unlike the urban
+templars, he commanded the magic of fire -  the spiritual magic of war.  Long
+ago Pelonius had taken the oath dedicating his life to the purpose of the
+cleansing elements of flame.  His master, Barchan Dune, had been with him then
+as he had risked his life in the ritual that bonded him to that particular
+element.  As he stood all night within a raging bonfire, protected from the
+heat by Barchan's own powerful magic, Pelonius vowed to do all that the flames
+had asked of him.
+	He had survived that ritual out in the desert so may years ago.
+However, the Lords of Fire had left their mark upon him.  His once dirty-brown
+hair and dull green eyes now flared brightly red.  And he saw things a bit
+different now, as well_things others did not perceive.  To Pelonius, this
+bleak and dead world that he lived in was actually growing.  Centuries of
+abuse by the dreaded defilers and the power-hungry sorcerer-kings had brought
+Athas to the brink of utter disrepair.  However, his order of priests, and
+numerous other factions had long fought against the destruction.  Now, with
+Kalak dead, Pelonius actually felt the spark of life within the dusty sand
+underfoot re-kindle and begin to grow.
+	Pelonius remembered his vows, then, and everything he had done to aid
+in the revival.  That night in the bonfire he had promised something to a
+voice within the flames.  He would toil the rest of his life to return the
+splendor of the great cities to the desolate world of Athas; to replenish the
+forests that once grew over all that is now dust and hot desert sand.  In
+return, the elemental spirits of fire would grant him power.  The magic that
+flowed in him now was magic for healing, growth and even destruction if needs
+be.
+	"Come on it's getting late,"  Maedoc's voice brought him again from
+his revere.  It was near midnight before the small band of Tyr's defenders
+made it back to their home and settled in for one last cool night behind their
+beloved city's walls.
+                             <<< >>>
+
+	The following morning, Pelonius and his band of patriots led a grim 
+march through the city streets.  The morning's chill had quickly fled and the 
+heat of the dark sun crept in.  A greenish-orange haze crowned the sky, just 
+like every other day on Athas, and hot dust clung to freshly aired clothes and 
+filtered into lungs, producing muted coughs from those in the processional.
+Words were not spoken and were not needed.  A shared thought consumed the 
+small party.  This could be the last morning they would ever spend in the 
+hellish paradise city-state of Tyr.  All eight had consigned their very lives 
+in the defense of their city.
+	A woman's scream shattered the morning silence.  Instinctively, 
+everyone in the group turned to face the direction of the commotion, but 
+Pelonius was the first to act.  The others watched as he sprinted down a 
+deserted street somewhere in the middle of the maze-like Warrens.  Pelonius 
+had rounded the first corner before Maedoc finally spoke,
+	"We best follow.  Who knows what trouble he'll get himself into."
+	Griggs, a wily half-elf in the back of the group murmured to himself,
+"When are we gonna start charging money for services rendered?"  Maedoc had 
+only gone halfway down the street in the direction Pelonius had gone when he 
+saw the smoke.  A black, billowing cloud of fine ash rose into the sky above 
+the rooftops in front of him.  The shouts for help and more screams could now 
+be heard just ahead.  Rounding the block, Maedoc and the others saw a squat 
+two-story adobe style building set among a number of other dirty little 
+hovels.  A crowd of nearly twenty people had gathered outside to watch the 
+spectacle, and some were actually cheering.  A frantic, disheveled woman of 
+indeterminable age stood near the doorway screaming and pointing towards the 
+upstairs window where flames were just beginning to lick the outside sill.  
+The first floor doorway near the woman was completely engulfed in flames and 
+the little group could just make out a stout red-haired man as he dove into 
+the doorway, heedless of the deadly flames.
+                                 <<<>>>
+
+	Pelonius had to hurry.  One of the benefits of his craft left him 
+immune to the effects of flame, but at best, this power only shielded him for 
+a matter of minutes.  As he rushed through the burning doorway, his mind was 
+filled with the image of that woman outside screaming for help.  Her baby was 
+trapped upstairs.
+	Pelonius's first impression of the dirty little room was that nothing 
+this poor family owned would be saved.  The flames had spread over the entire 
+first floor.  However this blaze had started, the fire had indeed grown at a 
+phenomenal rate.  As Pelonius studied the room looking for access to the floor 
+above, he became aware of the eyes.  Perhaps you would have to be actually 
+looking for them to see them, or perhaps a normal person would not be able to 
+see them at all.  A small flight of stairs at the back of the room was his 
+obvious destination, but he found that he could not move,  the sight of the 
+eyes held him transfixed.
+	Dozens of them were flitting amongst the flames as if performing some 
+gleeful yet horrible dance.  As he stood and stared, the voices came to him.
+Hardly discernible at first, but then gaining in clarity.
+	"Ooo, ank. ooo tank,"  they seemed to be saying.  Over and over again 
+the voices repeated, popping and crackling in his head.  At first the voices 
+held a cadence, keeping rhythm with the dance of the many eyes, then they 
+began to blend together and become a turbulent chorus,  "Tank ooo, tank ooo, 
+Pelonius!  Unger, eed, unger," they babbled.
+	Pelonius made a break for the stairs.  
+
+      "Feed hunger, feed hunger.  Thank you, Pelonius!"  the tiny elementals 
+chanted in his head.  Ignoring their words, Pelonius reached the second floor.
+The entire room was nearly ablaze.  A small bed near the window was enveloped 
+in flames as more of the eyes spun wildly under and around it.  "Thank you!" 
+Burning debris littered the floor and Pelonius had to duck because a thick 
+layer of black smoke covered the ceiling.  "Feed!" Finally, Pelonius spotted 
+a small form huddled in a corner opposite the burning bed.  Waves of heat and 
+flames nearly hid the child from his view.  Although he was still protected 
+from the flames for several more minutes, he knew that his shielding magic 
+would do nothing to save him or the child if the structure it- self collapsed. 
+He reached the child a second later.  Her form offered no resistance as he 
+attempted to wrap her body within his robes, but all that r emained of them 
+were charred shreds of cloth hanging from his broad shoulders.
+	Covering the girl with his arms, he raced back across the room to the 
+window and certain safety.
+	Outside, Pelonius could see that the crowd had grown to twice its size 
+since he had entered the building.  A few of the king's templars had arrived 
+outside and were instructing three half-giant guards who were busy scooping 
+enormous armfuls of dirt and sand from the street and dumping them into 
+hardened leather buckets.  The templars were ordering the buckets dumped on 
+the flames just as Pelonius began lowering the child out the window and into 
+Maedoc's waiting arms below.
+	Just then, a flash of recognition struck Pelonius with a jolt.  The tiny 
+arms he now held were the same he held last night in Shadow Square.  Beyond 
+the grime and filth that covered her face, Pelonius remembered the face he had 
+seen, as well.  But those eyes, the same eyes he locked gazes with last night, 
+were now closed, her form limp and lifeless.  Her head lolled to one side and 
+he could see the charred ruin that had once held cherubic beauty.  He could 
+sense it now.  Her life spirit had indeed fled, she had probably died from the 
+smoke long before the fire had reached her.  Pelonius let her arms go and 
+stepped back into the conflagration, his screams of denial bleeding with the 
+screams of a grieving mother below and the roaring flames around him.
+	When Pelonius finally stepped from the burning building, the templars 
+had moved the crowd back down the street, clearing the way for the half-giants 
+to douse the fire.  As he reached the crowd, Griggs handed him a spare cloak 
+to cover his nakedness.  Normally Pelonius felt a sense of complete inner 
+cleanliness after walking with his element.  Now he felt only corruption, 
+betrayed.  The throng of people witnessing the event had grown quiet.  The 
+sobbing of the woman drowned the street in a morose somberness that none could 
+resist.
+	Quite smoothly a man stepped from the crowd and bent towards the woman.
+He wore a light blue robe and his white wispy hair was pulled back tight 
+behind his head and held there by a leather thong.  On his feet he wore a pair 
+of thick oled sandals as if he were accustomed to walking through mud.  The 
+man scooped up the body of the girl, his whispered words heard only by the 
+bereaved mother.
+ 	"Come my brother, we have work to do," the man said to Pelonius.  With 
+a start, Pelonius stared at the stranger and then followed him as he walked 
+back towards the burning house with the child cradled in his arms.
+	The man carried his burden into the narrow alley between the burning 
+house and the building next door to it, dodging falling embers and showers of 
+dirt and sand.  When Pelonius caught up, the man had reached the rear of the 
+house.  A small cluttered yard was all that was back there.  With a sudden 
+kick, the man forced open the crude wood and bone door leading back into the 
+still burning house.  "No need to build a pyre, my brother," he said and laid 
+the child's body in the doorway.  "But I'll need your help here." The man 
+gestured towards the flames billowing from the open doorway and Pelonius did 
+as he was bidden, easing the body back into the blistering heat.
+	Without thought, Pelonius began his rites of the dead.  His words seemed 
+hollow and meaningless, as he spoke to the fire lapping at the empty vessel at 
+his feet.  "Lords of the Eternal Embers, take this now so that one day another 
+may return to this world, stronger than before."  He ended his heartless chant 
+only to hear another voice behind him echoing his words with all of his lost 
+conviction and more.  A warm gust of wind rippled at Pelonius's new cloak, 
+fanning the flames like a smithy's bellows.  As he stepped back out of the 
+doorway, he turned to face the mysterious stranger. The older man spoke first, 
+"The conflict in you rages like these wind-fed flames.  Your heart is a noble 
+one, I can sense that."
+	"I feel as if my whole life had been dedicated to the spirits of fire," 
+Pelonius rasped, "yet today my eyes have been opened to the monstrosities I 
+have served."
+	The stranger smiled, "Your consciousness and your heart work together to 
+tell you what is right and wrong, my brother," he said, "And you choose to 
+follow the path of the just.  Yet the spirits that you serve, the very spirits 
+that give you the power to weather the inferno, to heal the sick, this power 
+knows no laws nor morals, only hunger."  The man spread his arms wide.  "They 
+are tools, my friend.  Only tools.  You may freely use them as they would you. 
+But the craftsman decides if his work will be of fine quality or not, not the 
+tools."
+	At this, Pelonius turned back towards the doorway.  The rippling breeze 
+had continued to blow while the two had talked and now the body that had once 
+housed the spirit of a beautiful young girl was in ashes.  Only blackened 
+bones remained, and by the heat of the blaze in front of him, Pelonius guessed 
+that even those would be ashes soon.  After a moment of pondering what the 
+stranger had said, Pelonius amended,
+	"But the skill of the craftsman and his tools determines his worth, 
+isn't that right?"  When the man did not reply, Pelonius turned to face him 
+only to find the man had vanished and not a trace of his presence or his 
+departure remained.
+	Pelonius stood for a moment longer, lost in his troubled thoughts, then 
+turned and slowly walked back to rejoin his friends back on the street.
+                         		<<<>>>
+
+	The crowd had dispersed before Pelonius reappeared from around the side 
+of the still smoldering house.  The grieving mother was nowhere to be found.
+The half-giants continued to heap dirt and sand onto the ruins, the aftermath 
+of their labors had produced huge craters in the street.  No words were spoken 
+as the group of eight once more took up their now much more solemn march 
+towards the army's mustering site outside the gates of Tyr.
+	To six members of the group, another life had been culled away by the 
+harsh world they all lived in.  To Pelonius, an innocent spark that once was 
+a beautiful life was snuffed out long before it had the chance to grow into a 
+flame, and he couldn't help but think that somehow he was responsible.  But to 
+Maedoc, a friend was in pain, struggling with some inner turmoil that he could 
+not help to fight.  The two had been through many scrapes in the past and by 
+the might of his fists, Maedoc had always seen the other through it safely.  
+Today his friend suffered and there was nothing he could do about it, let 
+alone fully understand his pain.
+	Maedoc stood for a minute more in the hot and dusty street while the 
+others plodded away, and he surveyed the ruined structure before him.  As his 
+gaze wandered to the smoke smudged sky, he thought he saw the figure of a man 
+floating high up between Tyr's golden spires where only the Kestrels belonged.
+It was just a flash of blue garb and wispy white hair that had caught his 
+attention, but a second look revealed nothing.  His eyes had deceived him.
+Thinking the illusion must have been a result of his liberal celebrating the 
+night before, Maedoc shook his head and mumbled to himself, "I've got to 
+remind myself to take it easy on that Mericlean wine."  With a heavy heart, 
+Maedoc turned and jogged back down the street to catch up with the others.
+
+------------------------------------------------------------------------------
+Column Name: Rambling Thoughts
+Author: Kosala Ubayasekara <kosala@dataphone.se> 
+------------------------------------------------------------------------------
+The Coming Of the AD&D Core Rules CD-ROM
+
+	There I was browsing through my favorite fantasy shop the other day, 
+when I chanced upon this month's DRAGON magazine. Much to my amazement I 
+discovered it came with a demo CD-ROM of the much longed for AD&D Core Rules 
+CD-ROM from TSR.  So I thought I would take a look, and having been 
+sufficiently impressed I decided to share the cool news with the lot of you.
+	The demo CD-ROM itself doesn't do much but it does give you a clean idea 
+of what the final product will be like.  Note that the final product might 
+turn out somewhat differently than I describe it, since they are still 
+refining and perfecting the program. But here is how I found the program. 
+Some of the details of this description came from the article about the CD-ROM 
+in DRAGON issue #231.  Here are all the features that will be included:
+	* A very detailed character generator.  Every single feature of the 
+character generation method is incorporated.  You create the whole character 
+by clicking the appropriate selection with the mouse and everything from 
+rolling the statistics to choosing spells and proficiencies is there.  You can 
+even click on an option for more information about that option during the 
+selection phase (Non-weapon proficiencies etc.)  You can print the character 
+sheet in full color if you have access to color printers and even choose a 
+background and/or border from the ones made available.
+	* If you already have a character then you can type in the statistics 
+yourself without going through the character generation phase, you can update 
+existing characters, view character sheets without printing them etc.
+	* There is Books on-line feature.  The Players Handbook, the Dungeon 
+Masters Guide, Monstrous Manual, Arms and Equipment and Tome of Magic are all 
+completely online on the CD-ROM (the demo only contains limited excerpts from 
+these books). The article in DRAGON says that all the books will be completely 
+cross-referenced and hyperlinked in the final product. You can even bring the 
+text into a word processor and reorganize and rewrite parts of the rules books 
+to reflect house rules etc. if you wish!  And then save the database with 
+your changes!  There is also a key topic search facility.
+	* A series of invaluable DMing aids.  These include the Handout 
+Generator, the Treasure Generator, Monster Generator, Encounter generator, 
+NPC generator, Map Maker, Dice rolls and Table rolls.  The handout generator, 
+as described in the article in DRAGON, is a collection of pre-formatted 
+templates for creating handouts.  They can be printed with a variety of 
+medieval looking borders and styles.
+	* The treasure generator allocates and identifies treasure.  The 
+treasure database is readily customized and treasure not suitable to a 
+campaign can be temporarily removed and will then be ignored by the random 
+generation process.
+	* The monster generator is used to create your own monsters by answering 
+a series of questions.
+	* The NPC generator is the fast way to generate NPC's.  It will let you 
+develop them yourself or plonk them out totally automatically if you so wish. 
+It is even supposed to be able to name them if you cannot be bothered to pick 
+a name yourself.
+	* The encounter generator sounds snazzy!  It is supposed to be able to 
+provide a user with lists of possible foes and monster encounters after the 
+user has entered in the type of terrain and level of play the encounter should 
+take place on.  The program can even automatically generate monsters randomly, 
+complete with hit points, experience etc. for pre-assembled encounters.
+	* The Map Maker is a truly wonderful utility that makes drawing and 
+maintaining maps trivial.  You can draw both exterior and interior maps, 
+complete with icons in full color, descriptions, encounters, monsters etc.  
+Encounters generated in the Encounter generator can be keyed to the maps.  
+Just clicking on the appropriate encounter on the map shows you a description 
+of the encounter. The same goes for monsters and treasure!  It is also easily 
+updated and after drawing an interior map such as a dungeon you are supposed 
+to be able to render it into a 3D, first person perspective view, which you 
+can walk in!
+	* An on-line help for all the features is provided in the shape of 
+wizard that you can click on, for more help on a particular screen.
+	This product is being developed for TSR by Evermore Entertainment and the 
+final version will be released first at GEN CON and will be available 
+world-wide by September, according to DRAGON magazine.
+	The information for this article was taken from DRAGON issue #231 and my 
+own examination of the demo CD-ROM.
+------------------------------------------------------------------------------ 
+Column Name: DM's Advice
+Author: Earl Harrison <harrison@comsys.net>
+------------------------------------------------------------------------------ 
+	I want to thank everyone for the responses I have received regarding my 
+utilities package.  As of this writing I have not received any good or bad 
+remarks back from you.  How about a few?  Criticize please, it will only help 
+my package get better.  I have started writing some of the additions I talked 
+about, so if you want them wait a bit longer and then e-mail me for the 
+current additions.  The GNSB proved to be a bit bigger than my program can 
+handle so unless you out there can come up with a solution to the problem I 
+am afraid the GNSB will be out of the picture.  For those of you wanting the 
+passwords you should have them by the time you read this.
+
+To be a great DM you must have a few essential tools.
+
+	1. Have all books and rules your group uses
+	2. Knowledgeable of rules
+	3. Have improvisation skills
+	4. Create NPC's
+	5. Role-Playing Skills
+	6. Get All players involved
+	7. Handle Power Mongers
+	8. Character/Player Knowledge
+	9. Imagination
+
+	First and foremost you must have access to all of the books and rules 
+that your group use.  If you are going to be the main DM for your group I 
+recommend that you either hold the books at your house or that you go and buy 
+the books that you need.  About five sets of dice are needed also.  A few 
+extra twenties and sixes are always helpful.
+	Next you have to be very knowledgeable of all of the rules and to know 
+where to look them up if ever challenged by your players.  Have the books 
+handy at the table when you play.  Don't have them memorized word for word, 
+just be able to tell the players what the rule is and where it is if you need 
+to.  Be very knowledgeable of the spells and magic items that your players 
+use. It is not to much to ask to have your players jot down all of their items 
+and spells a day or two before the game.  This way you have a chance to go 
+through the books and really get to know their items and spells.  Just to 
+protect you and your game.  It is also not to much for you to throw out an 
+item or two.  It is rare that a mage have two staves of power.  With spells on 
+the other hand, little can be done unless you want to destroy pages of their 
+books or make them lose their memories when they start to cast the spell.
+	Next, be able to improvise as needed.  Not all players will go down the 
+straight and narrow path you have created for them.  Be able to make something 
+up on the fly and lead them back to your adventure.  If you make the players 
+think this is part of the game and not just something that you are making up 
+they will think that you are a better DM than you actually are.  Be ready for 
+these times, they will happen.  A possible impromptu might be the characters 
+going out the east gate instead of the north gate.  There they head south a 
+bit when you had them going straight north.  Put a jungle out there or a very 
+nasty creature that you know they can't defeat.  They might take the hint.  
+The jungle idea works well if you can get them lost.  When lost they don't 
+know where you are leading them.  Lead them back north again and the jungle 
+will clear out a bit. 
+	NPC's are another thing some DM's don't do much with.  I am not going to 
+tell you to create every NPC in the city.  Just create enough of them to make 
+the players feel like they are in a real city.  Keep the adventure going here 
+to. Pickpockets, caravans, carnivals and street urchins always come in handy 
+when just cruising through the city.  Have royalty come by them and watch 
+their reaction.  The party could create a very powerful enemy or a very 
+powerful friend.  An adventure is just waiting to happen with this one.  Don't 
+always let them get to the bar and start a fight and then escape from the very 
+powerful NPC chasing them.  Lead them into more interesting NPC's.  Perhaps 
+the gypsies have an adventure for them.  They must travel with them and they 
+get to meet some of the gypsies and make a few good allies.  Even let them 
+take a few of the NPC's as characters.  Then you have control over what the 
+character has and doesn't have.  When they encounter a new NPC have fun with 
+the person. Give him an attitude!  Role play the person.  Don't just be 
+mundane about him.  Just three descriptions about a person and the player can 
+instantly visualize the person.  Give them a race, a few things they are 
+wearing and body structure.  The players can get into something like this.  I 
+have had NPC's that the players just love to come back and visit. 
+	Role-Playing is another key variable in becoming a good DM.  You must be 
+able to act out what is happening with the monsters and NPC's alike.  Don't be 
+shy about acting like the monster.  I am not saying to actually get out of 
+your chair and dance around the room.  Noises, facial and arm movements are 
+usually enough to get most players into it.  Make sure that if you are 
+role-playing your part that they are doing the same with their characters.
+Don't just let them sit there and be boring.  After all this is a role-playing 
+game!  I have a few players that really get anxious when they are in the heat 
+of battle or when they are really into a NPC.  Encourage the new players in 
+the group to role play.  There is nothing to be shy about if everyone is doing 
+it and it starts with the dungeon master.  They are the one that is 
+controlling the game. He is the one telling the story.  However the DM is 
+reacting to the game is the way the players will react to the game. 
+	Get the boring players involved.  You know the one guy over there 
+doodling on the back of his character sheet.  If he is not paying any 
+attention to you then that means he is not having any fun.  Have him be 
+attacked or accosted by one of your drunk NPC's.  Have a little kid come 
+running up to him and grab something from him.  Now watch him get into the 
+game.  The way you handle this is not to make it into a very big deal in the 
+whole scheme of the game.  It is only to get that player involved in the game 
+more.  The main objective of the game is for everyone to have fun and not just 
+a few players.  The ones that are constantly reacting to the DM are the 
+players that the DM must do something with.  If you find one player constantly 
+in your face have him fall into a trap or get captured by the city watch.  Now 
+that he is away from the party there is no need for him to react with the 
+others.  Remind him of this also. 
+	Handling power hungry players is a very key item to becoming a good DM.
+Most players at one time or another will get attached to a favorite character 
+and want him to achieve "God-hood."  What I mean is they want this character 
+to be able to walk through the monster manuals and kill everything without 
+getting a scratch.  The job of the DM is to prevent this from happening.  Do 
+not give out to many magic items and if you do make sure they have a purpose 
+in being where they are.  Make your players use their gold for obscure things 
+like bribes, food and rentals.  What I mean by rentals is to make them sleep 
+at the inn, buy a wagon, horse or pack animals.  If they insist on getting 
+cannon fodder NPC's make them pay high prices for them, especially if they 
+have been to this town before with none of the henchmen with them that they 
+had bought here previously.  If they want to buy magic items be wary of this.  
+This is only the power coming at them.  They want the items without 
+adventuring for it.  Make the prices be double or greater for really good 
+items.  If you allow them to buy try to have a plan to either destroy or take 
+the item from them.  After all they did not earn the item they merely bought 
+it.  Easy come easy go.
+	One of the hardest things for the DM to control is the character/player 
+knowledge thing.  Yeah, your players all know the description of the mighty 
+orc or they know that the flapping of wings from behind them is that dragon 
+come chasing them again.  One thing that I like to do is an old trick that TSR 
+taught me long ago.  Change the descriptions around a bit.  Why can't you 
+have a mutant orc that is green and only has one arm in the middle of his 
+chest?  Will your players be afraid of this abomination?  Hopefully they will, 
+and your lowly orc can get the first attack and maybe do some damage before 
+they realize that this creature is no threat.  Maybe they may even run from 
+it. Boy won't he have a story to tell when he gets back to camp!  Why can't 
+that dragon have a silence spell cast or like the orc, be mutated or have a 
+polymorph spell cast.  There are endless things you can do to change what the 
+players know.  It is usually not enough to remind the players that their 
+characters have never seen an orc.  It is more fun to play this out as if the 
+characters have not ever seen an orc.  Another one for this is an old NPC.  
+The new characters may never have seen him but the players may have run across 
+him hundreds of times with other characters.  It is your job to make the NPC 
+not know the characters and make him behave as such.  Another thing to do is 
+not let the players let their characters know each other.  A few can but not 
+all of them.  The players might tell the NPC that they know so and so and ask 
+him if they ever heard of him.  To get the players going is to have the NPC 
+tell the characters something that he does not like about the other character.  
+They will usually leave this guy alone.  Just don't let them pick on the NPC, 
+have him alert the city watch of troublesome characters.
+	The last thing I want to talk about is your imagination.  Yeah you might 
+be able to visualize the happenings going on but can the players.  They can 
+not see into your mind.  You have to describe what is going on around them.
+What they see, smell, hear and feel.  You cannot give them emotion but you can 
+set the stage for them to feel the emotion, may it be love, hate or somewhere 
+in between.  You have to describe the surroundings and the people.  Just three 
+descriptions about a person and the player can instantly visualize the person.  
+Give them a race, a few things they are wearing and body structure.  For 
+example the chubby old human threw back his cloak to reveal his overgrown 
+belly.  Most of you instantly saw this guy and probably a few chuckled at what 
+you saw.  I know the good DM's out there are still going on with a short story 
+of the guy.  After a brief description give the person something to do.  The 
+surroundings sometimes are a bit tricky.  "The sloping meadow led into a thick 
+jungle".  Sometimes this just does not get it. You need to add some wind and 
+a few smells and sounds to this.  I will let you finish this one off for 
+yourself.  You get the idea though.  Imagination is something we all have and 
+most rarely use it.  As a DM you must use it all of the time.  Don't let the 
+players leave your story behind because of a lack of imagination.  You may 
+have the best game ever going and without the descriptions of the surroundings 
+and the people they are interacting with they will be lost.
+	I hope I have not rambled on to much with this but I enjoy being the DM 
+for our group and this is just some of the things that I do as a DM to keep my 
+players coming back.  I hope you agree with just a few of the things I have 
+said and maybe some of you out there were thinking of becoming a DM and with 
+my words may have gotten the help that you needed.
+	I do want to thank Kosala Ubayasekara for inspiring me to write this 
+article.  He opened my eyes and made me want to add a little something to what 
+he had written last month.  This article is dedicated to him and his wonderful 
+writing.  I just hope I have done just as good of a job as he had done last 
+time.
+
+				Until Next Time
+				Earl Harrison
+				harrison@comsys.net
+
+------------------------------------------------------------------------------ 
+Column Name: Battle Lust
+Author: Aaron Harrier <dharr@penn.com>
+------------------------------------------------------------------------------
+
+		BATTLE LUST             
+                          
+               Atop the hill he sat and stared
+               wondering where he might have erred.
+               When there came a sound from far below
+               what terrors in him it did bestow!!
+
+               He had heard it only once before
+               from deep below a dungeon floor.
+               The monster that made that horrid note sing
+               from the depth of the abyss came it's horrible sting!!
+     
+               But fear is now over in this noble man
+               he will defeat this thing-he knows that he can!
+               His heart beats strong as he sees the beast
+               His battle lust is now complete.
+
+               Sword in hand helmet in place 
+               he stands and sets a hurried pace.
+               The monster comes on just as fast
+               he has defeated many in his past!!!
+ 
+               He never felt the final blow
+               just fell backwards into the snow
+               The battle lust had finally died,
+               he accepted fate with even strides
+       
+               The monster just smiled and few away,
+               he leaves NO foe for another day!
+               But he would never forget that noblest man
+               for he was the only one who hadn't ran...
+
+                                  Aaron Harrier 
+------------------------------------------------------------------------------ 
+Column Name: Top Ten  - Famous Last Words
+Author: John "B.J." Tomkins <gr8dm@acronet.net> 
+------------------------------------------------------------------------------ Top Ten Famous Last Words
+
+10. "Hey guys! Look at the pretty flower." 
+9. "Now where did that thief go?"
+8. "DM's never use Piercers!"
+7. "I turn the Lich!"
+6. "They're only Orcs."
+5. "I pickpocketed the Vampire."
+4. "Did I make my saving throw?"
+3. "I, Samford the Mage, will charge into battle." 
+2. "I cast Fireball on the Ogres next to me."
+
+And the number one Famous Last Word;
+1. Ya know, as a DM you suck!"
+
+-------------------------------------------------------------------------------- 
+Classified Ads
+-------------------------------------------------------------------------------- 
+Subject: IRC Roleplaying
+Author: John "B.J." Tomkins <gr8dm@acronet.net>
+	I am looking for players in an IRC game based in the lands of Greyhawk.  
+Be a part of the group that makes headlines in the most famous newspaper across 
+the Flanaess (okay, the only newspaper).
+	Stop by #BJSROOM at either us.undernet.org or nemesis.acronet.net on 
+Wednesdays, 9 p.m. EST and say Hi and read about the action going on.
+
+-------------------------------------------------------------------------------- 
+Subject: Campaign Name: FireFly! Play Testing 
+Author: <dpoole@bud.peinet.pe.ca >
+	Web Page Location: http://www.peinet.pe.ca./raven/firefly/ 
+Description: FireFly! is the first of several PBM/PBEM strategy games, to be 
+published by Visceral Games.  FireFly! is a ship to ship "arena combat" game.
+In FireFly!, you are the Captain of a spacecraft you design yourself, pitted 
+against other Captains.  There is one computer controlled opponent, known as 
+the Rabbit Ship.  The Rabbit Ship is your moving target for the duration of 
+each Round.  It may prove to be the least of your worries.  For those of you 
+who require a set up, you're in the far future where elite pilots are at the 
+top of the food chain.  They get the luxury goods, the best looking dates, 
+and the best pay.  However, they are constantly bickering over which of them 
+is "the best" pilot, so they compete in FireFly!
+
+Their Commanders consider it to be good training.
+
+The FireFly Home Page has a complete set of rules on-line, and sample play aids.  Interested Play Testers should check out the appropriate link at the page for further information on how to become a playtester.
+Cheers.
+                    Dale Poole, Raven Information Systems
+                           dpoole@bud.peinet.pe.ca
+                         * www.peinet.pe.ca/raven/ * 
+-------------------------------------------------------------------------------- 
+Subject: Column Submissions
+Author: John "B.J" Tomkins <gr8dm@acronet.net>
+	I am taking submissions of campaign journals, notes and so forth that 
+are entertaining, funny or enlightening.  They should be in context of the 
+genre of game being played and from a one person point of view, as if the 
+person were relaying the story around a camp fire! Whether the camp fire is 
+made with wood or nuclear waste...
+	Please direct these to John "BJ" Tomkins at <gr8dm@acronet.net>.  A few 
+will be chosen to be published each month in a new IRPS newsletter column 
+called "Fireside Talk".

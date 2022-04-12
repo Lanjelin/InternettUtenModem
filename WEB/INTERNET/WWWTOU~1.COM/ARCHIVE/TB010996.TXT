@@ -1,0 +1,185 @@
+Date: Mon, 8 Jan 1996 20:08:14 -0500
+From: Bob Rankin <bobrankin@mhv.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - Jan 09 1996 - Alta Vista, Baby!
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+   |__________|__________/__________|__________|________/     |   \
+  /                                                    /______|----\
+ /    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+ |   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+ |                                                     |//////|    |
+ ~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP: ALTA VISTA
+TOURBUS ADDRESS ----> http://www.altavista.digital.com
+
+Move over, Lycos!  There's a new kid on the block and he's bigger, better
+and faster than you.
+
+Oh, by the way... this is Bob.  Patrick and I switched days *again* due to
+the LISTSERV problem last week.  Just for the record, we tried to send out
+a Tuesday post last week, but LISTSERV was frozen solid and we had to use
+the 6000-amp TOURBUS battery to jump start it.  Everything appears to be
+working now, but there's a massive snowstorm assaulting the eastern US, so
+I hope this Bus makes it through...
+
+Patrick will be with you every Thursday now, but he did want me to make one
+very important announcement:
+
+--> Due to the overwhelming demand (six people - all Yankees no doubt),
+--> Patrick has created a SOUTHERN WORD OF THE DAY archive on the Web!
+--> Check it out at http://ua1vm.ua.edu/~crispen/word.html
+
+
+Webis Caninus
+-------------
+
+And just one more little thing - remember that crack Patrick made about
+my face in the last issue?  Little does he know, I am actually a Shetland
+Sheepdog.  You can see my face and decide for yourself whether or not it
+poses a risk to society.  (Go to http://csbh.mhv.net/~bobrankin and click
+on the sketch to see the "real" me.)
+
+
+Alta Vista, Finally
+-------------------
+
+Alta Vista is a tres cool Internet search tool developed by Digital.  This
+newcomer to the field boasts a database of over 16,000,000 web pages and
+some 13,000 Usenet newsgroups.  Just feed it a search word or two and
+Alta Vista hits you with the results before you can lift your finger
+from the mouse button.
+
+According to Digital, "ALTA VISTA is the result of a research project
+started in the summer of 1995 at Digital's Research Laboratories in Palo
+Alto, California.  By combining a fast Web crawler with scalable indexing
+software, the team was able to build a large index of over 16,000,000 pages.
+
+Since announcing the site about three weeks ago, they are handling over two
+million requests per day using some high-powered hardware and software
+developed by researchers at Digital.
+
+
+One-Stop Shopping
+-----------------
+
+The really nice thing about Alta Vista is that it can query both the Web
+and Usenet newsgroups.  And my testing shows that it finds 5 TO 10 TIMES
+the number of hits that Lycos, InfoSeek or WebCrawler can muster.
+
+And the Lycos home page STILL says they are "10X larger" than any other
+web searcher almost a month after Alta Vista's arrival - Oops.  I got a
+kick out of the fact that Webcrawler and InfoSeek didn't even know about
+Alta Vista when I ran queries there!
+
+Some other notable features of Alta Vista are:
+
+  * Boolean searching with AND, OR, NOT and NEAR operators
+  * Case-sensitive and quoted-string searching
+  * Ability to search on portions of a URL
+
+And though this is not advertised, it appears that Alta Vista will do a
+Usenet search if your Web search comes up empty.  That's really slick.
+
+
+Attach Drool Bibs Securely, Please
+----------------------------------
+
+In case you're interested in the technical details, the Alta Vista system
+consists of 5 networked computers.  (Rumors that a squirrel-powered
+generator supplies power to the site could not be substantiated.)
+
+ * The AlphaStation 250 4/266, (with 4 GB disk and 196 MB memory) handles
+   all the HTTP traffic to the site, running a multi-threaded Web server.
+
+ * The AlphaServer 8400 5/300, (with 210 GB RAID disk, 4 GB memory, 8
+   processors), the largest machine built by Digital, builds the index
+   using pages sent by Scooter.  It currently serves a Web index of 30 GB,
+   but most requests take under a second.
+
+ * Scooter is a DEC 3000 Model 900 (30 GB of RAID disk, 1GB memory).  The
+   "super-spider" runs from this machine, fetching pages from the Web and
+   sending them to the Web Indexer.
+
+ * Two additional computers, sporting 37 GB of disk and 350 MB of memory
+   handle the Usenet spool and indexing for the system.
+
+If you don't know a gigabyte from a garden burger, let me translate the
+preceding information for you from the original Geek:
+
+"YEEEEEEEEEEEEEEEOOOOOOOOoooooowwww!  This is one hot little number."
+It makes the 486 on your desk look like the "+" key on one of those cheap
+solar-powered calculators.  Roughly speaking, this getup has about 400
+times the capacity of the lump of plastic and silicon that graces my desk.
+But hey, I've got got a nice blue "INTERNAUT" bumper sticker on mine!
+
+
+Squealing Off The Lot
+---------------------
+
+Let's take this baby for a test drive and show off what it can do.  I ran
+a simple query on "TOURBUS" at four different search sites and found the
+number of hits varied widely:
+
+  --> Alta Vista=800+, Lycos=186, Infoseek=70, WebCrawler=24
+
+Not bad, but can this thing find any hits on "snarch" (the funniest word
+in the English language)?  Sure enough, there are two:
+
+  - Evelyn Snarch, BA'33, McGill University
+  - Law Firm "Snarch & Allen", Vancouver BC
+
+The other guys were positively Snarch-less.  OK, here's one more that
+illustrates several of the fancy features in one shot...  Let's say
+we want to find all the web pages that contain "Boardwatch Magazine"
+but are NOT resident on the Boardwatch web site.  Kind of a "who's
+talking" scan.
+
+  Try: "Boardwatch Magazine" AND NOT www.boardwatch.com
+
+Tick, tick, tick... three seconds later we have another 800 hits.
+And just in case you're wondering how many web pages contain the word
+"the" - Alta Vista authoritatively answers: "about 10,000,000".
+
+
+Sky So Blue
+-----------
+
+This kind of technology has the potential to revolutionize the way we
+deal with information.  We're on the brink of being able to make the
+sum total of written human knowledge available and searchable by ordinary
+schmucks.  (Gee, I hope that's not a cuss word anywhere.)
+
+The mere fact that you are reading this means you have a tremendous
+advantage over your friends and colleagues who are not "wired".  Access
+to scientific data, government records, and historical documents;
+recipes, art, news, and the collective wit and wisdom of the online
+community empowers you in a way you can probably not begin to imagine.
+
+Make it a personal goal to start realizing that potential this year!
+
+
+ +-------------> Earn Transferrable College Credit Online <---------------+
+ |  Seven University of Wisconsin-Stout courses begin 2/5/96 on America   |
+ |  Online. Register now for "Critical Thinking and Issues Analysis". To  |
+ |  visit UW-Stout's virtual campus on AOL use keyword "EUN".             |
+ +-------- Send mail to conted@uwstout.edu or call 715-232-2693 ----------+
+
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!

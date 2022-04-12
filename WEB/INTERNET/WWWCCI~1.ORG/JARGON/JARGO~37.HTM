@@ -1,0 +1,127 @@
+<!doctype HTML public "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This HTML file was created by texi2html 1.28
+     from jargon.tex on 26 July 1996 -->
+<HTML>
+<HEAD>
+
+<TITLE>The New Hacker's Dictionary  - = Z =</TITLE>
+</HEAD>
+<BODY>
+<P>Go to the <A HREF="JARGO~39.HTM" tppabs="http://www.ccil.org/jargon/jargon_40.html">previous</A>, <A HREF="JARGO~50.HTM" tppabs="http://www.ccil.org/jargon/jargon_42.html">next</A> section.<P>
+<H2><A NAME="SEC48" HREF="JARGON~1.HTM#SEC48" tppabs="http://www.ccil.org/jargon/jargon_toc.html#SEC48">= Z =</A></H2>
+
+
+
+<A NAME=TAG2040><B>zap</B></A> <P> 1. /n./ Spiciness.  2. /vt./ To make food spicy.  3. /vt./ To
+   make someone `suffer' by making his food spicy.  (Most hackers
+   love spicy food.  Hot-and-sour soup is considered wimpy unless it
+   makes you wipe your nose for the rest of the meal.)  See
+    <A HREF="JARGO~41.HTM#TAG2041" tppabs="http://www.ccil.org/jargon/jargon_41.html#TAG2041">zapped</A>.  4. /vt./ To modify, usually to correct; esp. used
+   when the action is performed with a debugger or binary patching
+   tool.  Also implies surgical precision.  "Zap the debug level to 6
+   and run it again."  In the IBM mainframe world, binary patches are
+   applied to programs or to the OS with a program called
+   `superzap', whose file name is `IMASPZAP' (possibly contrived
+   from I M A SuPerZAP).  5. /vt./ To erase or reset.  6. To  <A HREF="JARGO~22.HTM#TAG707" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG707">fry</A> a
+   chip with static electricity.  "Uh oh -- I think that lightning
+   strike may have zapped the disk controller." <P>
+<A NAME=TAG2041><B>zapped</B></A> /adj./ <P> Spicy.  This term is used to distinguish
+   between food that is hot (in temperature) and food that is
+   <EM>spicy</EM>-hot.  For example, the Chinese appetizer Bon Bon
+   Chicken is a kind of chicken salad that is cold but zapped; by
+   contrast,  <A HREF="JARGO~36.HTM#TAG1891" tppabs="http://www.ccil.org/jargon/jargon_37.html#TAG1891">vanilla</A> wonton soup is hot but not zapped.  See also
+    <A HREF="JARGO~32.HTM#TAG1305" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1305">oriental food</A>,  <A HREF="JARGO~28.HTM#TAG1013" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1013">laser chicken</A>.  See  <A HREF="JARGO~41.HTM#TAG2040" tppabs="http://www.ccil.org/jargon/jargon_41.html#TAG2040">zap</A>, senses 1 and
+   2.  <P>
+<A NAME=TAG2042><B>zen</B></A> /vt./ <P> To figure out something by meditation or by a
+   sudden flash of enlightenment.  Originally applied to bugs, but
+   occasionally applied to problems of life in general.  "How'd you
+   figure out the buffer allocation problem?"  "Oh, I zenned it."
+   Contrast  <A HREF="JARGO~23.HTM#TAG807" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG807">grok</A>, which connotes a time-extended version of
+   zenning a system.  Compare  <A HREF="JARGO~26.HTM#TAG826" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG826">hack mode</A>.  See also  <A HREF="JARGO~23.HTM#TAG819" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG819">guru</A>.  <P>
+<A NAME=TAG2043><B>zero</B></A> /vt./ <P> 1. To set to 0.  Usually said of small pieces of
+   data, such as bits or words (esp. in the construction `zero
+   out').  2. To erase; to discard all data from.  Said of disks and
+   directories, where `zeroing' need not involve actually writing
+   zeroes throughout the area being zeroed.  One may speak of
+   something being `logically zeroed' rather than being
+   `physically zeroed'.  See  <A HREF="JARGO~46.HTM#TAG1563" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1563">scribble</A>.  <P>
+<A NAME=TAG2044><B>zero-content</B></A> /adj./ <P> Syn.  <A HREF="JARGO~19.HTM#TAG334" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG334">content-free</A>.  <P>
+<A NAME=TAG2045><B>Zero-One-Infinity Rule</B></A> /prov./ <P> "Allow none of  <A HREF="JARGO~22.HTM#TAG670" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG670">foo</A>,
+   one of  <A HREF="JARGO~22.HTM#TAG670" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG670">foo</A>, or any number of  <A HREF="JARGO~22.HTM#TAG670" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG670">foo</A>."  A rule of thumb for
+   software design, which instructs one to not place  <A HREF="JARGO~33.HTM#TAG1457" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1457">random</A>
+   limits on the number of instances of a given entity (such as:
+   windows in a window system, letters in an OS's filenames, etc.).
+   Specifically, one should either disallow the entity entirely, allow
+   exactly one instance (an "exception"), or allow as many as the
+   user wants -- address space and memory permitting. <P>
+   The logic behind this rule is that there are often situations where
+   it makes clear sense to allow one of something instead of none.
+   However, if one decides to go further and allow N (for N &#62; 1), then
+   why not N+1?  And if N+1, then why not N+2, and so on?  Once above
+   1, there's no excuse not to allow any N; hence,  <A HREF="JARGO~24.HTM#TAG940" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG940">infinity</A>. <P>
+   Many hackers recall in this connection Isaac Asimov's SF novel
+   "The Gods Themselves" in which a character announces that the
+   number 2 is impossible -- if you're going to believe in more than
+   one universe, you might as well believe in an infinite number of
+   them. <P>
+<A NAME=TAG2046><B>zeroth</B></A> /zee'rohth/ /adj./ <P> First.  Among software designers,
+   comes from C's and LISP's 0-based indexing of arrays.  Hardware
+   people also tend to start counting at 0 instead of 1; this is
+   natural since, e.g., the 256 states of 8 bits correspond to the
+   binary numbers 0, 1, ..., 255 and the digital devices known as
+   `counters' count in this way.
+<P>
+   Hackers and computer scientists often like to call the first
+   chapter of a publication `Chapter 0', especially if it is of an
+   introductory nature (one of the classic instances was in the First
+   Edition of  <A HREF="JARGO~27.HTM#TAG979" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG979">K&#38;R</A>).  In recent years this trait has also been
+   observed among many pure mathematicians (who have an independent
+   tradition of numbering from 0).  Zero-based numbering tends to
+   reduce  <A HREF="JARGO~22.HTM#TAG608" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG608">fencepost error</A>s, though it cannot eliminate them
+   entirely.  <P>
+<A NAME=TAG2047><B>zigamorph</B></A> /zig'*-morf/ /n./ <P> 1. Hex FF (11111111) when used
+   as a delimiter or  <A HREF="JARGO~22.HTM#TAG607" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG607">fence</A> character.  Usage: primarily at IBM
+   shops.  2. [proposed] /n./ The Unicode non-character U+FFFF
+   (1111111111111111), a character code which is not assigned to any
+   character, and so is usable as end-of-string.  (Unicode (a subset
+   of ISO 10646) is a 16-bit character code intended to cover all of
+   the world's writing systems, including Roman, Greek, Cyrillic,
+   Chinese, hiragana, katakana, Devanagari, Ethiopic, Thai, Laotian
+   and many other languages (support for  <A HREF="JARGO~20.HTM#TAG547" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG547">elvish</A> is planned for a
+   future release).  <P>
+<A NAME=TAG2048><B>zip</B></A> /vt./ <P> [primarily MS-DOS] To create a compressed archive
+   from a group of files using PKWare's PKZIP or a compatible
+   archiver.  Its use is spreading now that portable implementations
+   of the algorithm have been written.  Commonly used as follows:
+   "I'll zip it up and send it to you."  See  <A HREF="JARGO~38.HTM#TAG1753" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1753">tar and feather</A>.  <P>
+<A NAME=TAG2049><B>zipperhead</B></A> /n./ <P> [IBM] A person with a closed mind.  <P>
+<A NAME=TAG2050><B>zombie</B></A> /n./ <P> [Unix] A process that has died but has not yet
+   relinquished its process table slot (because the parent process
+   hasn't executed a <CODE>wait(2)</CODE> for it yet).  These can be seen in
+   <CODE>ps(1)</CODE> listings occasionally.  Compare  <A HREF="JARGO~32.HTM#TAG1306" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1306">orphan</A>.  <P>
+<A NAME=TAG2051><B>zorch</B></A> /zorch/ <P> 1. [TMRC] /v./ To attack with an inverse heat
+   sink.  2. [TMRC] /v./ To travel, with @Math{v} approaching @Math{c}
+   [that is, with velocity approaching lightspeed --ESR].  3. [MIT]
+   /v./ To propel something very quickly.  "The new comm software is
+   very fast; it really zorches files through the network."  4. [MIT]
+   /n./  Influence.  Brownie points.  Good karma.  The intangible and
+   fuzzy currency in which favors are measured.  "I'd rather not ask
+   him for that just yet; I think I've used up my quota of zorch with
+   him for the week."  5. [MIT] /n./ Energy, drive, or ability.  "I
+   think I'll  <A HREF="JARGO~34.HTM#TAG1437" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1437">punt</A> that change for now; I've been up for 30 hours
+   and I've run out of zorch."  6. [MIT] /v./ To flunk an exam or
+   course.  <P>
+<A NAME=TAG2052><B>Zork</B></A> /zork/ /n./ <P> The second of the great early experiments
+   in computer fantasy gaming; see  <A HREF="JARGO~17.HTM#TAG11" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG11">ADVENT</A>.  Originally written
+   on MIT-DM during 1977-1979, later distributed with BSD Unix (as a
+   patched, sourceless RT-11 FORTRAN binary; see  <A HREF="JARGO~33.HTM#TAG1501" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1501">retrocomputing</A>)
+   and commercialized as `The Zork Trilogy' by  <A HREF="JARGO~24.HTM#TAG942" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG942">Infocom</A>.  The
+   FORTRAN source was later rewritten for portability and released to
+   Usenet under the name "Dungeon".  Both FORTRAN "Dungeon" and
+   translated C versions are available at many FTP sites.  <P>
+<A NAME=TAG2053><B>zorkmid</B></A> /zork'mid/ /n./ <P> The canonical unit of currency in
+   hacker-written games.  This originated in  <A HREF="JARGO~41.HTM#TAG2052" tppabs="http://www.ccil.org/jargon/jargon_41.html#TAG2052">Zork</A> but has spread
+   to  <A HREF="JARGO~29.HTM#TAG1233" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1233">nethack</A> and is referred to in several other games.  <P>
+<P>Go to the <A HREF="JARGO~39.HTM" tppabs="http://www.ccil.org/jargon/jargon_40.html">previous</A>, <A HREF="JARGO~50.HTM" tppabs="http://www.ccil.org/jargon/jargon_42.html">next</A> section.<P>
+</BODY>
+</HTML>

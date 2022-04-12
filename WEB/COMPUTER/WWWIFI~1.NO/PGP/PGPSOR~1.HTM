@@ -1,0 +1,49 @@
+<html>
+<title>PGPSort</title>
+<body>
+<h1>PGPSort</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif">
+<p>
+PGPSort is a utility that lets you sort your PGP public key
+rings alphabetically. Alternatively, you can sort the keys
+according to their key ID, size, or date of creation. BP 7.0
+source code is included in the archive.
+<p>
+The command line syntax for PGPSort is:
+<p>
+<pre>
+PGPSORT +U  [-R] [&lt;keyring&gt;] - tries to sort on last name in user ID<br>
+PGPSORT +K  [-R] [&lt;keyring&gt;] - sorts on 8-digit key ID (PGP 2.6)<br>
+PGPSORT +K6 [-R] [&lt;keyring&gt;] - sorts on 6-digit key ID (PGP 2.3)<br>
+PGPSORT +S  [-R] [&lt;keyring&gt;] - sorts on key size<br>
+PGPSORT +D  [-R] [&lt;keyring&gt;] - sorts on date of creation<br>
+PGPSORT      -R  [&lt;keyring&gt;] - removes bad keys (no sorting)<br>
+<br>
+Use '-' instead of '+' to sort in descending order<br>
+Use '-R' to remove bad keys<br>
+</pre>
+<p>
+If you only specify the '+u' option, PGPSort will sort the
+default key ring PUBRING.PGP according to the user IDs.
+<p>
+<dt>History of PGPSort:
+<ul>
+<li>v1.04 - Added capability to remove bad keys
+<li>v1.03 - Sorts secret keyrings, both ascending/descending order
+<li>v1.02 - Sorts key IDs according to last 8 digits (was 6) to support PGP v2.6
+<li>v1.01 - Improved sorting of 'unstandard' user IDs
+<li>v1.00 - Original version
+</ul>                                                                           
+<p>
+PGPSort is freeware. To download PGPSORT.ZIP now, click
+<a href="../../tppmsgs/msgs28.htm#2899" tppabs="ftp://ftp.ifi.uio.no/pub/pgp/pc/msdos/pgpsort.zip"><b>here</b></a>.
+<p>
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" width=31 height=31 border=0></a>
+<font size=-1>Last updated January 29, 1995 by
+<a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt;
+</font></address>
+</body>
+</html>
+

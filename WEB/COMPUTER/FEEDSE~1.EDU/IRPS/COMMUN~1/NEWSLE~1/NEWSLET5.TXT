@@ -1,0 +1,1076 @@
+IRPS NEWSLETTER 
+May 1, 1996
+Issue #5
+
+Table of Contents:
+Club Status Report (Michael Popovich <cad@digital.net>)
+
+IRPS Monthly Newsletters
+   What We Can Learn From AD&D (John Perch <shavenyak3@aol.com>)
+   New AD&D Monsters (Jonathan Thomas <angiejt@erols.com>)
+   DM's Advice - 1st Article (Earl Harrison <dungeonm@si-net.com>)
+   DM's Advice - 2nd Article (Earl Harrison <dungeonm@si-net.com>)
+   Tales of Phantasm (Anonymous)
+
+IRPS Stories
+   The Dungeon Delver (Than Lee Caroled <taverntales@iquest.net>)
+
+Classifieds
+   Greyhawk
+   Earthdawn
+   IRC Game
+   Books For Sale
+
+Gaming Conventions
+   Darkcon
+
+-------------------------------------------------------------------------
+Club Status Report (Michael Popovich <cad@digital.net>) 
+-------------------------------------------------------------------------
+	Hello Everyone.  I'm proud to say that our club has risen from 600 
+members to about 800 members.  Soon we will start asking other internet 
+based clubs, such as college clubs if they would like to exchange 
+resources and information in order to benefit both of our members.
+	IRPS has also been considering the possibility of holding a meeting 
+on IRC (Internet Relay Chat), which is a program that allows multiple 
+users to come together in a network and chat with each other.  All that's 
+need to run an IRC program is an IRC Client, which can be downloaded from 
+the Internet for free.  Please send me (cad@digital.net) your input about 
+holding meetings through IRC or another medium.
+	Also, in this ZIP file was a file called HERBS.TXT, which is also a 
+monthly newsletter column (rather large that's why I couldn't incorporate 
+it in to the main email).  But it's written by club member Shaun Hately 
+(drednort@bud.swin.edu.au).
+	IRPS would also like to thank Karen Mizeri (kmizeri@mail.awinc.com 
+until May 15, after which time it will change to kmizeri@jetstream.net) 
+who will now edit all of the IRPS newsletters.  She's currently an 
+English major which makes her more than qualified for the position.  She 
+may need some help on the editing, so if you're interested email her.
+
+------------------------------------------------------------------------- 
+What We Can Learn From AD&D (John PeRich <shavenyak3@aol.com>) 
+-------------------------------------------------------------------------
+	Hello all!  This is my first time writing for the newsletter, as 
+well as for ANY internet/web letter.  However, I'm no stranger to either 
+role-playing games (10 years and counting) or writing (I can't think back 
+that far).  So, I've decided to make my IRPS debut with this old piece 
+that I had eating up disk space.
+	From the title of this article, the first thing that might come to 
+your minds is, "Ah, this is an article extoling the virtues of AD&D by 
+saying how it develops imagination, vocabulary, teamwork, and basic 
+arithmetic.  I think I'll skip down to something useful."  Trust me, I'm 
+not that brite.  This article highlights the major errors of the AD&D 
+system as a whole and how they can be resolved.  So, while this is still 
+"what we can learn from AD&D", an appropriate subtitle might be "so we don't 
+do it as well."
+
+LEVELS
+	The biggest and worst of them all.  Levels.  All characters in 
+beginning level campaigns start out at Level 1.  Through the gaining of 
+experience, they proceed all the way up to realms unknown.  Fun.
+     	Now, a few problems arise from this.  Every fighter, for example, 
+requires the same amount of experience to advance between Levels 1 and 2 
+(this is ignoring high Prime Requisite bonuses and all).  What this leads 
+one to assume is that: a) all fighters develop exactly the same skills at 
+exactly the same time, and b) all fighters experience life in the same 
+way.  Both of these assumptions are wrong.
+     	A good example is Inigo Montoya in the book (or movie, though I'll 
+be quoting the book) "The Princess Bride."  When Inigo's father is killed 
+by the six-fingered count, Inigo goes out to train desperately in fencing 
+to avenge him.  Ten years later he returns, and is declared by top there.  
+You may be working on the same thing at the same time, but people will 
+have different ideas about it, (it's called creativity!  Corporations 
+survive off of it!) and will react to it differently.  If everyone at 
+your job was identical, you'd have an assembly-line, not a think-tank. 
+(Note: if you actually DO work on an assembly-line, this metaphor falls 
+through, but you see my point.)  The class system has very few merits, as 
+very few people fit into nice tight categories.
+
+EXPERIENCE POINTS FOR MONSTERS
+     	The general rules for AD&D are: when you kill a monster, you gain 
+experience points.  The rulebooks put all sorts of disclaimers on this to 
+keep it from being abused (must advance the plot, etc.), but these are 
+tough to identify.  Slaying those suspicious-looking boars around the 
+orcish camp can be justified, even if only for the XP a boar gives you.
+     	This is probably AD&D's weakest point.  All of the hack-and-slash, 
+combat-hungry, find-things-to-beat-up-then-kill-them-then-have-lunch 
+mentalities connect directly to this.  Granted, the PC's are adventurers, 
+but must adventuring always lead to killing?  Better still, does killing 
+always help in adventuring?
+     	Also, the level-system ties into this folly.  You gain some XP for 
+killing an orc.  You are a thief.  Therefore, the logical conclusion is 
+that slaying an orc helps your thieving skills.  The next time you get a 
+lucky backstab on that lone guard, thank the orc you slew for giving you 
+the XP you needed (P.S. This is what is called irony).  When you finally 
+learn that "teleport" spell, thank all the orcs you've killed, despite 
+the fact that slaughtering has little to do with the teleport spell.
+     	Obviously, this system should probably be the first to go.  
+Whenever I start up a new AD&D campaign, I tell the players of some 
+house rules, one of which is the revised Experience Point system.  PC's 
+get 1-5 XP's for each adventure.  These can be used to increase stats, 
+get new proficiencies or even advance in level.  Of course, I don't use 
+the PHB's same tables in this system.  If I get enough requests, I may 
+send in the full Revised Experience Point System in another article.
+
+HOW DO I KNOW THESE THINGS ARE ERRORS?
+     	. . . you skeptics are asking.  Well, let me explain the one 
+overwhelming point in my favor.  NO OTHER MAJOR, SUCCESSFUL ROLE-PLAYING 
+SYSTEM USES ANY OF THOSE!!  None!  I've played AD&D, Shadowrun, Hero 
+Games, GURPS and dozens of others.  Very few use those same systems, or 
+in the same way, as AD&D does.  While they don't have the head start that 
+AD&D did, they are still very popular, regardless  (Yes, I know there are 
+some exceptions.  There are probably also some RPG's that do use those 
+systems and are successful.  E-mail me and tell me how wrong I am.  Go 
+ahead.  I enjoy abuse).  GURPS is my favorite example, as it is my 
+favorite RPG outside of AD&D.  Every starting character gets 100 points 
+to be used on characteristics, skills, special abilities and other fun 
+stuff.  They can take disadvantages to make up point-deficits and add 
+depth to their character.  Neither levels, nor classes, nor experience 
+(for monsters) are used.  If you need to ask more about GURPS's success, 
+give me a call and I'll buy a bottle of paint to decorate the rock that 
+you live under.
+	This article wasn't solely designed to bash AD&D.  Regardless of 
+those, I still play AD&D regularly, and I still use (some of) those 
+systems in my games.  However, recognizing their faults is the best way 
+of correcting them and enhancing the quality of your campaign. (Oh, yeah, 
+my e-mail address is shavenyak3@aol.com.  Gimme a buzz.)
+
+------------------------------------------------------------------------- 
+New AD&D Monsters (Jonathan Thomas <angiejt@erols.com>) 
+------------------------------------------------------------------------- 
+Manticoria
+
+Climate/Terrain:  Any
+AC:  5
+Frequency:  Rare
+Movement:  12/18(E)@6
+Organization:  Pack
+Hit Dice:  5+4
+Activity Cycle:  Any
+THACO:  15
+Diet:  Carnivore
+Number of Attacks:  4
+Intelligence:  Average (8-11)
+Damage per Attack:  1d3/1d3/1d8/1d4
+Treasure:  D, I
+Special Attacks:  Poison, Singing
+Alignment:  Lawful Evil
+Magic Resistance:  Standard
+Number Appearing:  2d4
+Size:  L (10’ long)
+Experience Point Value:  1400
+Morale:  Elite (13-14)
+
+	Much like the manticore, the manticoria appears to be a huge, 
+winged lion with a human face.  They have gigantic raven like wings, 
+usually in black or grey.  Their faces are heavy browed and jawed, 
+hairless, and tend to be reddish or purplish.  Only male Manticoria have 
+manes, which are generally black; the females have a ridge of black hair 
+starting between the shoulder blades and running up the neck and head to 
+where the hairline would be on a human.  Older males tend to lose the 
+part of their manes which cover the crown of their heads.  Manticoria 
+have the tails of giant scorpions, bluish black in color.  They have 
+teeth much like any carnivorous mammal, except for the fact they sport 
+three rows.
+	Manticoria have high pitched piping voices, and occasionally growl 
+and roar in a very lion like way.
+	Manticoria are somewhat smaller than Manticores.  Adults tend to be 
+about 10’ long, about 5’ at the shoulder, and have a wingspan of 18 or 20 
+feet.  Females are only slightly smaller.
+
+Combat:   
+	Manticoria hunt in packs and they are intelligent enough to 
+coordinate their actions.  They have amazing control of their voices, and 
+can  cause them to appear to be coming from up to 30’ away.  Also, female 
+manticoria can sing, which has the dual effects of making it very hard to 
+concentrate and very difficult to estimate the number of manticoria that 
+are not in view.  In game terms, this means that an immediate morale 
+check is called for at -2.  Anyone trying to do anything requiring 
+concentration (cast or maintain a spell or use psionics) must make a 
+saving throw vs. spell to be successful.
+	Manticoria tails carry type F poison (save or die in one round) and 
+can strike in front of the monster.  They are affected by their own 
+poison.  Tail attacks can be directed at a different target than the 
+claw/claw/bite routine is directed at.  While flying they can use their 
+tails and claws against opponents on the ground, not their bite. 
+	Manticoria are excellent trackers (Base 16, modifiers relating only 
+to scent apply) and will follow prey until they catch it.  Fortunately, 
+they are also noisy, and prey will know their trail has been scented from 
+miles away under good conditions.  They are not usually inclined to quiet 
+down until the trail becomes very fresh or the prey is in sight, 
+approximately 100 yards.
+
+Habitat/Society:  
+	Manticoria can be found in any land, but prefer temperate forested 
+hills and other temperate to subtropical areas that offer some long range 
+concealment.  Some are partial to jungles.  Manticoria are pack hunters 
+with huge territories, often 20 miles or more in radius from their lairs.  
+Once a pack has a scent, the only easy way to throw them off is to leave 
+their territory and keep going.  Manticoria will track prey outside their 
+territories, but check their morale hourly with modifying it by -1 
+cumulatively for every hour.  This modifier is also applied to any morale 
+check they make outside their territories. (For example, a pack tracks 
+the party to the edge of their territory and beyond.  If they catch up 
+with the party 3 hours after leaving their territory, they are -3 on any 
+morale checks.)
+	Manticoria Packs consist of a dominant male and female, subordinate 
+adults, and the pups of the dominant pair.  Pups take two years to 
+mature. They are neither venomous nor airborne the first year, and have: 
+2+1 hit dice, a THACO of 19, do 1 point of damage with  tails and claws, 
+and 1d4 with their bites.  During the second year pups: earn their wings, 
+become poisonous at +4 on the save, have 4+2 hit dice, THACO of 17, do 
+1d2 with their claws, 1d3 with their tails and 1d6 with their bite.  If 
+two are encountered it will be a mated pair, the third through sixth will 
+be pups (d4 for each for growth: 1=new born, 2=1st year, 3=2nd year, 
+4=grown), and any others will be adults with lower hit points than the 
+mated pair.
+	Manticoria typically pick the highest point in their territories in 
+which to lair, then either find a cave near it or dig a hole in which to 
+sleep.  These areas may be buttes, hill tops, or gigantic trees.  Those 
+living in trees may forgo digging a hollow if mating season is not near, 
+but always give birth in a sheltered area.  They are slow, but even the 
+pups are sure climbers.
+	Treasure is gathered to line the lair and to bribe powerful 
+monsters to leave their territories.  It is generally Types D&I:
+
+1d6K cp 10%			
+1d6C(30%)+1d6C(15%) ep or pp 1d10K sp 15%		
+2d6(55%)+1d10(30%) gems
+1d3K gp 50%			
+2d4(50%)+1d6(25%) art
+Any 3 Magic + 1 potion (15%)
+
+	Manticoria can and will use any magic item they can without hands.
+	Manticoria have a god which they worship.  This god is a Sidhe, a 
+member of an extinct race raised to divinity, and will be described fully 
+as whim allows.  They can become shamans reaching 5th level, but this rarely happens.
+	These creatures generally occupy the top of the food chain in their 
+area.
+
+------------------------------------------------------------------------- 
+DM's Advice - 1st Article (Earl Harrison <dungeonm@si-net.com>) 
+-------------------------------------------------------------------------
+	"THERE!" exclaims the over joyous thief, Timothy.  "There just 
+above the cliff three-quarters up to the left." "That is what we are 
+looking for!"
+	The thief latched onto the back of the broad barbarian as he began 
+to climb the rock face of the mountain.  The barbarian did not seem at 
+all encumbered by the weight of the halfling as he made great leaps and 
+bounds up the mountain.
+	After many hours of climbing the barbarian hurled the thief onto 
+the ledger just facing the lair of the dragon.  Borg finally climbed over 
+the edge, then stood and brushed himself off onto the now dust-free 
+thief.  So once again Timothy dusted himself off, all the while snarling 
+and cursing at the bigger man.
+	Swiftly and quietly a large two-handed broad sword is lifted out of 
+its resting place to gleam brightly in the sun. Two small daggers, both 
+dull, are pulled from unknown hiding places on the body of the halfling 
+thief.  
+	"Let’s Go" commands the barbarian.
+	As they enter the cave the stench becomes almost unbearable.  After 
+several more minutes of traveling into the cave, the barbarian begins 
+feeling the walls to find his way when light appears from a gem that the 
+halfling has clutched in his tiny little hands. 	
+	"Humans!" exclaims the thief in a very disgruntled voice, as out 
+from the earth jumps a very large creature.  He gazes upon the two heroes 
+with no effect.  A few claw and pincer attacks and the creature must now 
+defend himself.  Three swift and powerful strokes of the sword and the 
+Umber Hulk lays at the feet of the powerful barbarian. 
+	"HA!" laughs Borg as he lifts the corpse into the air and throws 
+it into the hole it had created to get the surprise on the two 
+scavengers.  A few more twists and turns and just yards in front of the 
+two are more riches and treasures than they could ever hope to carry from 
+this place.
+	"THUD!" a huge red claw comes crashing down just inches from the 
+thief who had been trying to sneak into the chamber and slip off with a 
+few goodies before the real action began.	Borg leaps into the air, turns 
+his ring and the confidence swells in him.  A few well placed sword hits 
+and the dragon rocks back onto its hind quarters.  The thief jumps into 
+the fray only to miss his first attack and the other dagger goes flying 
+off into the darkness of the cave.
+	The dragon rears back and belches forth a great blast of fire.  
+Borg laughs it off and then jumps into the dragon’s face for another 
+three strong strokes with the broad sword.  After the second hit the 
+dragon attempts a getaway, but the third and final attack strikes true 
+and the dragon slumps to its death.  Our heroes have defeated the great 
+wyrm.
+	"Timothy!" Borg cries into the darkness. "You can come out of your 
+hiding place!"
+	There is no answer.  For several moments the barbarian searches 
+for his tiny friend. He finds his friend burnt beyond recognition.  He 
+had taken the full blast from the dragon’s breath weapon and was not as 
+lucky as the powerful barbarian.
+
+	The above scenario could be played out on any given Saturday at any 
+DM’s home, except one -  MINE!  If you would like to know how to scare 
+your players and have them packing their books, grabbing their dice, and 
+heading for the door with the mere mention of the word 'dragon' - then 
+read on.
+	The average great wyrm has lived for over 750 years and destroyed 
+countless treasure raiders, how else do you think they get all of their 
+wealth, villages and castles in their days?  How many players do you know 
+that can boast about these things?  Not many!  Therefore a dragon should 
+have countless more powers and hit points than the players do.  If played 
+"by the book" then the Umber Hulk at the beginning of our little 
+adventure could have a good shot at the dragon.  But upon consideration 
+by myself and my group, we decided that by adding two zeros to the end 
+of the dragon’s hit dice the creature now becomes the opponent that you 
+have only heard about in fantasy books and legends.  I know some of you 
+out there are saying, "If you would play the dragon correctly then you 
+would not have to do that."  Okay, let’s examine this. Let’s take the 
+following character against any 15 HD dragon that you have lying around 
+in your campaign.
+
+BORG: level 15 barbarian with a CON of 18.  That equals 180 HP plus the 
+4 HP that he gets for the high constitution, which equals a grand total 
+of 240 HP.  Also give our hero an 18/00 STR, that gives him a +3 to hit 
+and +7 damage. We can’t forget the +4 chain armor and the ring of fire 
+resistance.  Oh, and don’t forget the +5 two-handed broad sword.
+	Now your little dragon has a very powerful enemy to fight.  
+According to the Monster Manual you roll an 8-sided die to figure HP for 
+a monster.  With this in mind our 15 HD dragon can only have 120 HP when 
+the dragon belches his breath weapon the most HP that Borg could take 
+would be 60, remember the ring.  If the saving throw is made then that 
+number is now 30.  Not a very powerful attack from such a noble creature.
+	Consider the hero and the damage that he can dish out.  Three 
+attacks with a broad sword at 3d6+12, which comes out to about 30 
+HP/shot. Now combine the other two attacks for a total of 90 HP of 
+damage for the lowly humanoid the dragon despises so much.
+	Next round the breath weapon is now only 30 hit points of damage at 
+the MAXIMUM!  Borg makes his saving throw and he only takes 7 HPD! OUCH 
+HURT ME!  Borg attacks again and the maid is cleaning up the mess.
+	My little idea no longer looks so dumb.  Even calculating the 
+dragon’s HP and adding one zero to that still makes the dragon a very 
+powerful opponent.  The dragon is the heart and soul of the game, hence 
+the name.  Where there are evil dragons there are good ones. The same 
+rule applies to these as well.  To make them even more powerful seek out 
+the handbook "Dragonomicon."  The dragon spells alone are worth the 
+price of the book.  One of the spells "Death’s Door", when walked 
+through by player characters, drains 50 levels before it becomes 
+inactive..  Try attacking the dragon now after your 20th level 
+characters are now all 6th and 7th level.
+	Dragons can be very powerful allies, or they can be very powerful 
+enemies.  It is all in the way the DM plays them, and the way the players 
+treat them.  It is up to your group to decide how to handle them.  The 
+next time you throw a dragon at your players, give my idea a try and see 
+if the outcome is a bit different than the players had planed.
+	Next time I will come down to earth a bit and tell you how to 
+chase 10th level characters out of the kobold lair.
+
+Please send any comments, questions or even answers to
+
+					dungeonm@si-net.com
+
+------------------------------------------------------------------------- 
+DM's Advice - 2nd Article (Earl Harrison <dungeonm@si-net.com>) 
+-------------------------------------------------------------------------
+	Consider your average 8th level party of no more than 6 characters, 
+and send them into the cave of one, two, or maybe even 3 clans of 
+kobolds; and witness the outcome.    The fighter standing tall at the 
+head of the party swinging his trusty sword as if cutting down weeds at 
+his farm house back at the village.  The thief sneaking around to get the 
+surprise and backstab, and then sneaking off again to attack yet another 
+hapless kobold.  The mage at the back of the party casting his spells and 
+destroying countless kobolds with the wave of his hand. The priest is 
+merely reclining and twiddling his thumbs because he knows that these 
+lowly kobolds will never in a thousand years - not even if the fighter 
+was asleep - hit him with their crude weapons. The archer is half-way 
+between the fighter and the mage, flipping arrows off of his bow and 
+striking a kobold with each one.  The kobolds, after several rounds, will 
+either be dead or they will be running for their lives. 
+	The party will no doubt give chase and eventually corner the 
+cowering little kobolds at the end of their lair and finish the job, with 
+the priest standing outside the door. What little treasure the kobolds 
+have can now be tallied and split amongst the party members. 
+	The thief was never seen by the kobolds. The mage and cleric were 
+seen but they were never challenged, and the archer was also behind the 
+fighter. If this sounds like your typical kobold slaughter, read on and 
+challenge the 8th level party the next time they enter the lair of the 
+dreadful kobolds!
+    	Firstly, caves and kobold lairs are dark. Who was holding the 
+torch in the above example?  The priest?  Not likely!  If no one was 
+holding a torch, then everyone had infravision, right?  Wrong!  Not the 
+human characters, there could not have been any of them in that fight. 
+Secondly, kobolds would not cut out a cave that was big enough for a 
+human or elf sized character to come wandering into. They would carve out 
+a cave that was just right for them.  This means that the elves and humans 
+were at a -4 AC and to hit! That makes for easier targets for the 
+kobolds, and harder targets to hit, since the humans and elves can no 
+longer use big weapons such as long bows or long swords. How about them 
+daggers boys!  Did anyone check for those secret doors with the kobolds 
+hiding in them that are behind the mage and priest?  Won't they be 
+surprised when 10-25 kobolds jump out from behind them and hit their 
+measly 7 AC's and disrupt their spells.  Did anyone check to see that 
+there were 20 more kobolds just around the corner when the others went 
+flying around it?  Now the kobalds automatically get to attack first at 
+the party of running characters.  
+	So their AC's are not what they were a few minutes ago.  The 
+kobolds have the surprise attack and the characters do not get to use 
+their dexterity adjustment because they are battle ready.
+   	Kobolds some times train dire wolves to be used as mounts and guard 
+dogs. Keeping in mind that the humans are bent over using daggers and 
+blind,  how are these guys going to fare against a few dire wolves 
+jumping onto them?  Can you imagine the pain of bouncing your head on 
+the rock ceiling above, the wolf jumping for your throat and attacking 
+with only a dagger?  Shamans are another useful weapon for the kobold. 
+You do not have to use him for offensive spells, use them for the 
+healing and defensive spells.  Invisible kobolds waiting around the 
+corner, letting the party walk by and then attacking from behind, only 
+to go around the corner again and wait for the party to continue on down 
+the corridor only to attack them with another barrage of arrows... sounds 
+fun! 
+	That little incident could go on for the remainder of the game.  
+How about murder holes on the sides of the walls?  The women and 
+children could make this attack with little coming back their way.  Not 
+to mention the possibility of murder holes on the ceiling of a two-level 
+or three-level lair.  Hot water from above and hot steamy metal spears in 
+the bottoms of leather bound feet.  Pit traps and snares in the bigger 
+chambers work wonders for the characters that are only watching for 
+kobolds to jump out of nowhere to attack them. Once upside down in the 
+snare trap, you are spear food.  
+	Falling into a pit can be big trouble for the party as well. 
+Spears stabbing down at you, rocks being thrown at you, and the dire 
+wolves bitting fingertips as the hapless characters try to climb out of 
+the pit.  We could also put some murder holes in the bottom of the pit 
+with all of the above going on! If not the murder holes how about very 
+soft mud, or quick sand, to get the party stuck, no more dexterity bonus 
+for their AC!  Now you have spears, rocks, murder holes and mud to 
+contend with all at the same time.  Do I hear the word surrender coming 
+from the 8th level characters?
+  	Kobolds like to carve out labyrinths so as to be able to run around 
+behind the party and attack from behind.  Not to mention the secret doors 
+everywhere.  Kobolds won't all go down the same corridor. They will split 
+up into two or more groups and go down different corridors, so the party 
+will have to split up if they want to kill all of the them before they 
+are able to get help.  Imagine the possibilities of ten kobolds 
+encountering three separate corridors and three going down each, one 
+getting another ten from each corridor.  The party is now split up and 
+they are the ones running for their lives.
+    	Kobolds are very nasty creatures.  When they are done with 
+something they just pitch it into the trash and leave it there.  This 
+means anything that they are done with, old barrels, boxes, crates, 
+wagons, the like.  What if the kobolds built a maze through this junk 
+and then lead the party into this little maze?  The kobold would have to 
+crawl through this, what is the bigger foe going to have to do to get 
+through this to kill the measly kobold?  The tide has turned in favor of 
+the kobold.  He can climb through this maze and get a good attack or two 
+on the characters before they can get their bearings and see where the 
+attack came from.  By the time the characters figure out where the kobold 
+is, he has already moved into another spot and attacked the characters 
+again.  A couple of rounds of this is all the kobolds need to frustrate 
+the characters and make them want to chase them even more, only to be 
+lead into more and more traps devised by the clever DM.  Trip wires into 
+a pit.  A barrel of oil with a hole in it rolling down the corridor at 
+the characters and a kobold with a torch at the top smiling makes the 
+characters want to run.  Kobolds love to drill holes in bare walls just 
+big enough for them to get through so when  human chases him he leads 
+the character down to this 16" hole in the wall and escapes.  Coming 
+after the human out of a secret door are fifteen more kobolds with 
+flaming arrows. 
+	The kobolds could even eventually lead the party back out of their 
+cave, where the party may take the hint and leave. Who is to say that the 
+forest around this new entrance is not trapped as much as the lair was?
+   	An underground bear's lair with a pit trap over it makes for an 
+interesting encounter. A whole new crop of monsters could be on this 
+side of the lair waiting for the kobolds to come out, only to see a bunch 
+of humans and elves exit the lair. Most creatures that live in caves find 
+humans and elves to be quite delicious.  The party will not have much of 
+a fight left in them if the kobold lair is set up like the above 
+examples, and they just might be easy pickins' for the right group of 
+monsters to fight.
+   	Kobolds are as bright as the average common farmer or city dweller 
+and they should be played as such.  They should have access to fire, oil 
+and poisons just as easily as the characters have.  They should never be 
+used as flies waiting for the fly swatter to come along, to kill them 
+just for the experience points and treasure that they hold.  Give them a 
+fighting chance against any level of characters. Challenge even the high 
+level parties with these guys and maybe they won't try the goblins and 
+orcs!  Most players will thank you for a job well done.  Some players 
+might want to go back in the lair only to find out the kobolds have 
+healed themselves and reset all of their traps.  
+	Maybe the party has been through only half of the lair and the 
+kobolds will lead them through the other half this time.  The party may 
+get lost in the lair and never be able to find their way out.  The 
+kobolds would keep track of them and keep picking on them until they 
+surrendered or the characters were all killed.  Who was mapping the lair 
+anyway?
+  	Kobolds can also be used as scouts for any city that would have 
+them, if paid the right amount of silver and electrum.  Kobolds are 
+happy to take these coins from the city and the gypsy caravans travelling 
+the roadways, asking for directions only the kobolds could give them. 
+They will be loyal trusting servants for the city if treated well.  They 
+could tell the city where the next goblin or orc raid was coming from, as 
+well as any other creature that might want to attack the city.  Open 
+field fights are not suited for kobolds because then they are flies for 
+the swatting.  They can be used in the battlements and attack wagons 
+that are used by the armies for the protection of the city.  They could 
+also be used as bait for the attacking armies to be lead into the waiting 
+arms of the protecting armies of the city. The city may not care if a few 
+kobolds were taken out by the raiding armies.  The city could convince 
+them they were getting revenge for the losses they have suffered.
+   	As you can see kobolds may be just 1 HD creatures with 1-4 HP but 
+they do not have to be played like that.  They are far from just the easy 
+slaughtering that some gamers like to do on a Saturday morning.  Give the 
+party a challenge the next time they adventure into your kobold lair. 
+	You don't even have to tell them they are going to fight kobolds. 
+Let them figure it out and watch the fun begin when they are driven out 
+of the lair of the lowly kobold!
+
+                           Until next time,
+                                    Earl Harrison
+
+------------------------------------------------------------------------- 
+Tales of Phantasia (Anonymous)
+------------------------------------------------------------------------- 
+Fellow RPG gamers,
+      	This is the 1996 Tales of Phantasia American petition.  Are 
+you angry when you see an awesome RPG come out in Japan, sell millions of 
+copies, get acclaimed as one of the best role playing games ever, and 
+then never come out in America?  THIS IS WRONG!  Well, Japan is going to 
+do it to us again.  In December of 1995, Namco released Tales of 
+Phantasia for the Super Famicom.  This masterpiece was animated by one of 
+Japan's most well-known and famous animators, Kosuke Fujishima.  This 
+game also features an opening sequence with a recorded theme song and 
+vocals!  REAL singing and talking are used during this game!  Tales has 
+been acclaimed for it's incredibly in-depth story line (taking up 48 megs 
+of memory, the biggest ever!) , it's lush, beautiful, detailed graphics, 
+and magnificent soundtrack.  This isn't just another RPG.  THIS IS THE 
+ULTIMATE ROLE PLAYING GAME!!!  
+	Yet, there are no plans to release Tales of Phantasia in America.  
+Wrong?  Unjust?  I think so!!  Don't we Americans deserve the very best 
+RPG's?  Don't you want to be enjoying this masterpiece in your home on 
+your Super Nintendo?
+    	Namco is trying to decide whether or not to release Tales of 
+Phantasia in America.  Let's show them that we want it!  If we can 
+persuade Namco that there is a demand in America, they will release it 
+here!  If enough replies are made to this petition, we will also send it 
+to Namco of Japan!  If this petition is successful, it will serve as a 
+wake up call to all other RPG companies telling them, "WE WANT ROLE 
+PLAYING GAMES IN AMERICA!"
+        We must band together and demand what we want!  We must make 
+ourselves heard!  Do you want the video game companies in Japan saying, 
+"Americans are too lazy and stupid to understand this role playing game, 
+let's give them some more action games!"  I'm sure you don't!  Together 
+we can make a difference!
+        If you feel strongly about the release of Tales of Phantasia in 
+America, let Namco know!  Please take some time to reply.  All e-mails 
+will be passed directly to Namco of America, and if enough replies come 
+in, Namco of Japan.  Just take a couple of minutes to tell Namco that YOU 
+WANT TALES OF PHANTASIA IN AMERICA!
+	Your reward could be one of the best role playing games ever.
+
+        E-MAIL ALL REPLIES TO: OHKI82@aol.com.  THESE GO STRAIGHT TO 
+NAMCO.  TELL THEM WHAT YOU FEEL!
+
+        LET'S LET NINTENDO KNOW TOO!  E-MAIL THEM AT: 
+NOAPulse@Nintendo.com
+
+------------------------------------------------------------------------- 
+Warring In FRPG's - Part One (Dana Drury <dana@zipper.zip.com.au>) 
+------------------------------------------------------------------------- 
+Note: This article is generally aimed towards DM's of games such as 
+Palladiums RPG and AD&D.  However, aspects can apply elsewhere as well as 
+provide useful information for players.
+
+	Over this serial I hope to provide some useful information on the 
+Art of War, (although not exactly up to Sun Tzu's standards) and using it 
+in FRPG's.    
+
+	One aspect I see often overlooked in most Fantasy Role Playing 
+campaigns is war and its effects and benefits it brings upon the general 
+populace. Benefits?  How can death and destruction bring benefits?  
+Well, in the campaign terms it can't usually, however it can provide a 
+hook or two for an adventure, open up new territories and shut off 
+others. 
+	War is always present, as a DM myself I used to throwing in the odd 
+rumor of war, details of a war, or the after affects of a war.  It wasn't 
+until recently I discovered running a war with players involved can be 
+time consuming and change the campaign completely.
+	Sensible Software may have said "War is Fun" but sadly this isn't 
+ways the case. If you wish to start a war in the campaign (this also 
+applies to players) make sure you know what your getting into. Here are 
+some things to take into consideration (there is probably more).
+
+Does your campaign need it? are the players having fun or do you need a 
+new way to wake up your players? 
+
+	Some campaigns are more suited than others to a war.  There is 
+little chance of a war happening in the middle of the Forgotten Realms 
+(although it could be interesting), and Krynn is exhausted from years of 
+war.  Mystara however is ripe for war, as is Planescape which allows for 
+anything and everything; while in Ravenloft is almost impossible due to 
+the problems in the world.  And finally Birthright is all about war.  
+Others, such as Palladiums RPG have left the Timro Kingdom open to attack 
+from Ogres. Many of the books supplied with AD&D boxed sets or Palladium 
+Source Books give indications of rising tension in areas, or wars already 
+waging.
+	
+How Big will the war be?
+
+	This is a fairly important question to ask yourself.  Small wars 
+are easy to run, are not so messy, and don't have the potential to scar 
+a campaign. However, they can provide limited adventures and even allow 
+for players to command troops. Small wars tend to involve the characters 
+more because they usually have status and are respected. If this is not 
+the case a Baron/Lord/Lady sure could do with some 4th Level adventurers 
+on his/her side. 
+	Big Wars will be costly, not only on the world but the DM running 
+it.  Larger wars can limit the players involvement, but this doesn't 
+have to be the case. Unless the players are high level they won't be 
+running around with an Army under their belts. Kings and Queens or 
+Commanders may assign them to more pressing tasks such as Sabotage, 
+Spying, or Scouting (the three S's).  Assassination could prove to be an 
+interesting task for the players. Maybe the enemy could do more damage if 
+there were another commander leading. Such things can be used in smaller 
+wars to great effect but large wars can range across varied terrain and 
+places, some of which the Army knows nothing of.
+  
+Thus concludes the First part of this series.  In the next part I shall 
+shed more light on planning out a war. If there is enough interest I 
+would be happy to build up a profile adventure which you could use or 
+modify. If anyone has anything to add: preference, place for the profile, 
+or questions; feel free to e-mail me at dana@zipper.zip.com.au.
+
+------------------------------------------------------------------------- 
+The Dungeon Delver (Nathan Lee Caroland <taverntales@iquest.net>) 
+-------------------------------------------------------------------------
+
+ 	The night comes upon you swiftly as you walk towards your 
+destination, the Dungeons of Kergoth.  Continuing past the farms where 
+hard faced men stare and brutal sounding dogs bark, you see a tavern up 
+ahead; the lights casting gloom to the surrounding tree's, sounds of 
+talking and singing coming from inside.  "Aye this is the place" you say 
+to yourself.  Six more hours from here to the Dungeon's.  With a proud 
+swagger you enter the tavern.	
+	Once inside, you see the tavern is well stocked with patrons 
+sitting around swilling ale and passing stories amongst themselves.  The 
+tavern is well kept, with blackwood tables and chairs and a blazing 
+hearth large enough to roast a whole Ox.  Hustling between tables you 
+see several wenches serving, one smiles at you as she saunters by.  
+Behind the black bar is a large man, a scant vest upon his frame, his 
+bare arms and chest showing many puckered scars.  One such scar runs the 
+side of his face, his grizzled salt and pepper beard bare where it 
+passes.  You see a wry smile cross the man's features as he suddenly 
+booms in a deafening voice:
+	 "Aha, seems we have another adventurer, and a young one at that!" 
+	Looking, you see all appraising you, some moodily stare, others 
+laugh and offer up a smile, raising their tankards to you in silent 
+salute. 
+	"To the Dungeon's are ye?"  At your hesitant nod he bellows again. 
+"Well then, come and have a drink. The first is upon the house", and 
+reaching under the bar he brings up a foaming tankard.  Smiling you walk 
+forward and place yourself at the bar, sipping at the heady brew, idly 
+wondering about the barkeep and his scars.  With a start you notice that 
+he is looking at you, "I see your interested in these here scars are ye?"  
+Not waiting for an answer, he pulls back his vest and you see that his 
+torso is literally traced with scars. "Each is a story and all of em I 
+got in that dammed dungeon. Believe me, their stories are such that you 
+do not want to experience for yourself."  At that you firm your chin 
+while you put your hand upon your weapon.
+	"I can take care of myself". 
+	The man begins laughing, "Aye maybe ye can then! I myself was about 
+your age when I made my first run into those dungeons, maybe you will 
+live if you keep your thoughts in place and your arm strong. Well then, 
+since your so bent on going you might be wantin to take a look at me 
+books before ye go eh? They tells ya of all sorts of things, from magic 
+to creatures and all of it good to know about iffin you run into to 
+something in there ... and ye will".  As if seeing your thought he adds 
+"Now I got this scar here," at that he points at a puckered red scar that 
+travels his chest," gettin out with these books.  It'll cost ye 5 silver 
+to have a look at em."  With that he smiles, "After all, this really did 
+hurt ...."
+	With your half tankard of Norish ale you sit in the overstuffed 
+black chair, it seems the barkeep has a penchant for black.  The grizzled 
+man has something about him that makes him a very agreeable person; 
+either way you're glad your luck has brought you the chance to view these 
+tomes, even if it cost you five out of the ten silver that you owned.  It 
+would be worth it if you did run into something in those dungeons.  The 
+shuffling of feet announces the man's return as he kicks open the door, 
+his arms heavily laden with five large expensively bound and worn tomes. 
+With a huff he sets the books on a table across from you. 
+	"Not as strong or as young as I used to be" he says, laughing as if 
+at some great joke, "though I can live with it."  Again he laughs.  With 
+a smile you get up to examine the stacked tomes.  Each is capped with 
+gold or silver and bound in precisely tooled hide, one such is bound in 
+a pale skin with a skull worked into the hide. "Human" the man utters 
+beside you. 
+	"Excuse me sir?" you ask. 
+	"Human skin, that's what that books bound in.  A sage informed me a 
+few years back when he stopped to have a look at these here.  This one 
+caught his attention right away and he began to mutter and wave his hands 
+about, then pronounced that this tome was bound in human skin and worked 
+with the suffering of others."  Chuckling dryly he concludes, "I've never 
+been comfortable with it since then. Damn me for being fickle but what if 
+it were me own skin adornin some damn book?"  nodding numbly you continue 
+to stare at the books, "Well have a look at em, I'll leave ye to your 
+reading and bring ye another tankard back in a little.  Take as much time 
+as ye wish, I urge ye to learn all ye can.  I got them there in the 
+Dungeons of Kergoth and I can tell ye that some of that stuff is actually 
+down there, though most of the dungeon has been picked clean after all 
+these years if ye ask me, but ye never know."  With that he leaves, 
+closing the door solidly behind him.  Sitting once more you moodily look 
+at the books, drinking from your tankard again before resolutely 
+retrieving a brown covered book with a triangular symbol within a circle 
+emblazoned upon the cover.  Opening the book you see that it deals with 
+ceremonies and worshipping of devils and elements, and how to appease and 
+acquire their favor.  With a vile oath you set the evil book aside and 
+empty your tankard.  Perhaps the dungeons had denizens that worshipped 
+such evil and false creatures.  It was something to consider about if so.  
+Looking over the books you hesitantly reach for the pale, skull tooled 
+tome.  Opening it you begin to search through the pages, each filled with 
+clear print and astonishingly lifelike pictures. "Yes this one will tell 
+me much ..."
+	Moodily, you set the last book down.  The books, although full of 
+useful knowledge about creatures, magic, and other oddities; were also 
+vile in their content.  The writers of these books were either very 
+depraved individuals or insane beyond wonder. Either way the information, 
+if it proved true, would be a boon to you when in a situation that called 
+for decisive knowledge.  Strangely you notice you have three empty 
+tankards at your side, you don't remember receiving or drinking them.  
+Standing, you stretch the kinks out of your back and legs.  The chair - 
+though comfortable looking - had the stuffing shifted in the most 
+uncomfortable way.  Opening the door you walk back down the hallway to 
+the tavern room, noticing it is well into the night and there are no 
+patrons left.  The barkeep is busily sifting new sawdust to the floor, 
+the old removed after the heavier drinkers were done for the night. 
+Yawning he turns toward you:
+	 "Find anything interesting within those pages?" 
+	Slightly nodding in a sleepy voice you answer, "Aye that I did good 
+barkeep, that I did. Though full of useful knowledge, those books leave 
+one feeling unwashed and sick, I think they were written by evil men."  
+With a grin he responds, "Evil he was, but no longer.  I slew him twelve 
+winters ago when I found him in those dungeons, a cult leader who lead 
+raids to our town and used townsfolk in sacrifices. Me and others hunted 
+him down, I took his books to see what he had.  Wicked and evil he is and 
+the books tainted by him, but I has to admit that he was a lodestone of 
+knowledge and them books and their writtins have actually helped me out 
+of a spot when I met up with a big brute of a thing in the swamps over 
+thata ways."  Yawning again he waves a hand toward the stairs, "Take a 
+night of lodging on the house also. Though I don't knows ye I knows what 
+ye are and I feel a kinship to ye even after I'd put up me sword all 
+these years now."  As you are beginning to shake your head he interrupts: 
+"Now don't ye argue with me, I may be older but I can still whip ye if I 
+has to, now up to the room on the first right and get a nights sleep so 
+you can be alert when ye go on to them dungeons."  Chuckling at the man's 
+callous kindness you half-heartily wave and trudge to the second landing 
+of the tavern and open your door.  Disrobing without finesse, you lay 
+down on the straw mattress. 
+	Sunlight streams in through the cracked shutter, dust motes 
+traveling the rays to your bed where you lay with strewn blankets 
+entwined about your legs.  With a groan you struggle to a sitting 
+position, wiping your fog filled eyes with the back of your hand and 
+idly wondering the time of the day.  Grunting, you push yourself off the 
+bed, opening your hallway door to retrieve the customary morning wash 
+basin.  Shivering, you clean thoroughly, thinking it may be a time before 
+you're able to wash again, if ever.  Shaking away your dark thoughts you 
+dress quickly, hoping that you have all that is needed. 	
+	Walking slowly down the stairs you see the tavern has few 
+customers, most eating, though a few nursing tankards.  The doors to the 
+kitchen open, and out comes a middle aged wench laden with food, which 
+she promptly distributes to the patrons at the tables. With a cracking, 
+nasally voice she shrills: 
+	"And what can I do YOU for?".  Her obvious dislike for you shows in 
+her looks, though whether it is your appearance or the fact that you're 
+a stranger, you do not know. In a slightly colder tone than you wished 
+you ask for morning feast, and with a sniff she turns back to the 
+kitchens. 
+	"You mustn't mind Missy there, she's a good soul but sour."  you 
+hear as you see the barkeep straddle a chair and beckon for you to do 
+the same.  "So you still intent on continuing on this 'venture eh?" at 
+your nod he smiles again, "Well then, before ye start the 'venturing I 
+will give ye my name, ye never asked ye know!"  With a  flourish he 
+stands and bows to you, "I am Delgan Roth, owner of this fine 
+establishment, retired venture ..." a nasally voice calls from behind: 
+	"And a big windbag!"  Looking you see Missy smiling and you cannot 
+help but begin to laugh, Delgan himself joining your outburst. 
+	"Well that may be, but I thinks I earned the rights to be a 
+windbag.  As for you," he says, turning, " I will neither ask nor hear 
+your name till you return here alive to tell your tales of the dungeon."
+	With that you curiously look at him.  "And why not Delgan?" 
+	"Because you have not yet earned your name. To me you will be known 
+as 'Stranger' till you have earned your name, either through deeds or 
+knowledge. That way I have nothing to mourn if you do not come back to 
+tell your tales."  With that statement he looks a little abashed and 
+quickly takes a parcel from his pocket, tossing it to you.  "Here.  That 
+there is salve for healing.  I found it years ago and have not had the 
+need to use it, and I figure that you yourself do not want to scar 
+yourself as I have eh?"  He quickly gets up and lays a large hand on your 
+shoulder, muttering "Venture well.", and leaving you to contemplate his 
+actions.
+	With  forced step you exit through the door you entered last night, 
+wondering if it was hard to leave because of what you faced ahead or of 
+what you were leaving behind. Walking, you weave your way down the road, 
+looking at the town with an appraising eye now that you can see it in 
+daylight, and liking it.  The farms surround you in an ordered fashion, 
+rock walls seeming to spring from the ground to mark neat sections and 
+rows.  Ahead of you the road weaves through the green hills.  The large 
+elm trees are yet untouched by the oncoming fall, their leaves still 
+large and green. 
+	Over the hills in the distance you see a dark splotch upon the 
+landscape, it could only be the Eldritch Forest.  Kergoth was said to 
+have been a War Master of unmatched skills and unmatched evil.  To 
+consort with devils and element lords.  To kill for no reason.  Only the 
+combined might of several armies could defeat him and even then half of 
+his fiendish army escaped, some returning to the Dungeons of Kergoth to 
+harry the land again.  With a shiver you remind yourself it happened well 
+over a hundred years ago, and that Kergoth was dead.  
+	Tightening your hands upon your sword you begin walking toward the 
+dark in the distant.  Five hours should find you at the border of the 
+forest.  Another hour, if the track signs still remain, should find you 
+at the ruins and the dungeon.  Not for the first time you fervently wish 
+for a horse, wondering why life is so unfair.  Inwardly groaning you 
+continue on, passing the thought around of Delgan Roth and his 
+hospitality.  It is unusual in these days to find fairness and kindness 
+in complete strangers, though you speculate that it stems mostly from you 
+being a new adventurer.  Either way, your stay was a boon beyond your 
+hopes.  The books alone gave you knowledge you had not possessed, but the 
+solvent Delgan gifted you with and most importantly, Delgan himself were 
+valuable. True friendship is rare and you promise yourself that you will 
+make a name for yourself and return to tell your tale. You quicken your 
+pace.  
+	In front of you lies your destination, the land filled as far as 
+you can see with the dark Eldritch forest.  The trees form a large canopy 
+over everything, branches of different tree's starting where another 
+leaves off.  A queer silence emanates from the dark.  A feeling of malice 
+washes over you as if something watches. Hissing, your sword pulls free 
+of the scabbard and you stand, watching and waiting for something to rush 
+from the undergrowth.  Minutes pass by and the only thing you see is a 
+large black squirrel tittering from branch to branch, pausing only long 
+enough to chatter at you then bounding off into the forest.  Sighing, 
+you decide to enter.  Looking above you see that you have a few more 
+hours till darkness, which alone should be enough to find you to the 
+ruins and entrance to the dungeons.  
+	With your sword at ready, you tighten your pack straps and march 
+into the forest.  Immediately the light dims.  The foliage overhead 
+filters what little light does escape through to the leaf and rubble 
+strewn ground.  Tight brambles clutch at your clothing as you pass 
+twisted dark trees, the leaves seeming to be diseased or sickened.  
+Nature itself seems to have been perverted by the evil that once lurked 
+here, and still might. The thrashing of squirrels above diverts your 
+attention long enough for you to stumble, barely catching yourself before 
+you fall to the forest floor.  Angrily you kick the stone that tripped 
+you, only to have your foot crunch into the moss covered rock.  Sickly 
+you see that it is a not a rock, but a skull, and one that is definitly 
+not human. 
+	With a new eye you scan the surrounding area, seeing more skulls 
+and full skeletons, all covered in moss and leaves.  What you thought was 
+the crackling of leaves was actually the breaking of aged bones.  
+Apparently there was a skirmish here at one time or another, the dead 
+where they had fallen.  Gripping your sword tighter you move on, wincing 
+every time you break another bone.  These bones, you hope, means that you 
+are getting closer to the ruins.  Hopefully you will be there within the 
+next half hour.  For another quarter  hour you walk on, peering into the 
+dark hoping that nothing will disturb you, though getting desperate to 
+find the ruins.  
+	As you contemplate your next action a noise comes to your ears.   
+Harsh guttural voices issue from your left, the language, clearly 
+non-human.  Momentarily you freeze, thinking your life at an end; but 
+regaining your senses you quickly scale a tree, hiding deep in the 
+foliage.  Long minutes pass by in silence and you begin to think that 
+once more you are alone, until you see a spear head emerge from the 
+underbrush followed quickly by a squat green-skinned creature.  Course 
+black hair pulled into a topknot reveals beady cautious eyes, the face 
+tattooed in swirls of bright orange ink creating a fierce expression.  
+The goblin, for it could be nothing other, is clothed in a overly large, 
+blood stained tunic, a ragged hole sliced into the side. Bare feet make 
+no noise as it comes into the small glen where you are hidden, its eyes 
+scanning the leaf strewn ground before it. With a silent curse you see 
+that he has noticed your tracks, his eyes curiously traveling the ground 
+before him with his spear held level, walking toward the tree you are now 
+hidden in.  As he walks towards your position you silently pull your 
+dagger, praying the gods are with you as you launch yourself from the 
+tree.  The goblin glances upward as your shadow crosses him, the dagger 
+taking him full in the face.  With a grunt you push yourself off of the 
+goblin, grabbing for your sword, only to notice that the creature is 
+dead, your dagger protruding from his brow with dark blood covering it. 
+	Turning, you crash through the bushes beside you, leaping a fallen 
+limb and hurtling through the foliage to your right, leaving the corpse 
+and your dagger behind for fear that your struggle was heard.  Within 
+moments a strange hooting issues from behind you, the sound quickly being 
+echoed behind you.  Several moments pass and the hooting still follows, 
+with the crashing of undergrowth to spur you on.  As you run through a 
+glen you throw a backward glance and spot two darting shapes in the 
+undergrowth, drawing steadily nearer.  Awkwardly drawing your sword you 
+swiftly turn and run at the nearest shape.  With a strangled start a 
+goblin leaps from the growth, only to be skewered by your brand.  
+Twisting, you pull it free just as a spear takes you across the back 
+from a goblin rushing you from the side.  Swinging wildly you knock the 
+spear from its hands.  Fear upon it's face, it rushes into the 
+undergrowth, alluding your sword.  The crazed hooting begins again, 
+though now it travels away from you. With a sigh you sheath your sword, 
+thanking your luck that goblins are cowardly creatures and that more 
+were not closer. 	Looking at the goblin you surprised, you see it too is 
+tattooed, though in black ink.  Bending over to inspect the corpse you 
+gasp and grab at your back, feeling the skin widely laid open across the 
+ribs and spine, your tunic opened and bloody.  Gritting your teeth you 
+quickly riffle the body and find nothing of use. 
+	"By Devi's skull this hurts!" you splutter. How Delgan had accepted 
+the pain from all his hurts begins to amaze you as you look to the 
+darkening sky. With a painful lumber you trot away from the goblin, 
+hoping others don't return to hunt you.  The dark is traveling fast, 
+descending upon you a quarter hour later.  With weariness you look for a 
+suitable camp, deciding to take your night beside a large boulder and 
+brush sheltered tree. 	With practiced ease you scrape a fire pit and set 
+dead wood to fire.  Looking to your pack you see a cut, your rolled 
+pup-tent inside sliced clean through and stained with your blood.  Once 
+again your luck has held, the pack taking most of the blade and leaving 
+you alive, if worn.  Riffling your pack you bring out the salve gifted to 
+you.  Opening the side of the package to find a white paste which smells 
+odd though mildly pleasing. Setting it aside you pull your tunic off, the 
+blood matting it to the wound and tearing your skin. Covering your 
+fingers with the salve your uncomfortably massage it onto the wound, 
+noticing that the salve is numbing your skin on both your back and hand.  
+Blackly you think upon your failed search for the ruins, your lost 
+dagger, and the cut upon your back. 
+	"Not a good start ..." With a shiver you look into the night 
+around you, the strained silence setting you to edge more than screaming 
+howls would.  Wincing, you sit back against the tree, noticing absently 
+the unusual projections of the dancing fire on the boulder across from 
+you.  For a few more minutes you stare into the night then heave into 
+your pack in search of supper. It is going to be a long night.  With a 
+lurch, you start from the ground, cursing yourself for falling so deeply 
+into to sleep. Wondering darkly how many creatures could have easily 
+crept upon you in your sleep, you bend to retrieve your satchel only to 
+start upright again, grabbing at your back.  There is no pain!  Quickly 
+you pull your tunic up and run an apprehensive hand across the skin, only 
+to find it unbroken. It is healed! With a whoop you tattoo a jig upon 
+the ground, only to stop quickly and peer hurriedly about.  
+	Grinning widely you grab your pack and turn to exit through the 
+brushes only to once more receive a sight which surpasses the last.  The 
+shadows which played upon the boulder last night were not only shadows.  
+The boulder before you is worked with intricate symbols. Though weather 
+worn they still showed clearly, though their meaning is lost to you.  
+Grinning, you pat the rock fondly and step out of the camp to find 
+yourself upon a bluff overlooking the ruins.  Eyes wide you snatch your 
+blade from its scabbard, holding it before you as if to ward a blow, your 
+fright written upon your features.  When you camped for the night the 
+seemingly endless forest stretched before you, but now, as if magically 
+appearing the ruins sprawl brokenly across the vine covered ground.  
+Jagged, broken tower's reaching for the heavens as would a dying soul, 
+are outlined against the pink morning light.  Crumbling, broken walls 
+litter the ground, nature retaking its own. 
+	With wide eyes you stare at the ruins before you, here you will 
+find the dungeons, the way mapped out by explorers before you.  Your 
+glory will be sung by all the bards in the land!  With a hesitant step 
+you walk slowly down the bluff, your sword held at ready and your eyes 
+darting to each shadow; seeking signs of occupation or trouble.  Ahead 
+of you lies a single jutting tower, the rocks black and rough.  
+	Winding your way through the rubble you loose sight of it for a 
+moment, as you scramble over a broken wall a chill seizes chest and 
+before you the earth churns and is thrown in the air with a rumble.  
+Spitting and coughing, you wipe the dirt from your eyes and in horror 
+find yourself staring wildly at a yellowed skeleton.  UN-DEAD!  With a 
+hoarse cry you launch your sword at it, only to have it raise it's bony 
+arm in defense.  With a crack, your sword cleaves the skeletal arm in 
+twain, the skeleton not seeming to notice as it jerkily pulls it 
+sharpened finger bones across your chest, leaving bloody furrows.  
+Yelling, you turn and doggedly jump over the rubble you had moments ago 
+crossed, fleeing the creature of bones and running wildly across the 
+ruins.  With fear coursing your veins you see several more explosions of 
+earth erupt about you and spew forth their skeletal remains.  Behind you 
+the clack of bone against bone can be heard, wind howling through their 
+empty sockets.  A ts about this story whether they are good or bad, just 
+email me at taverntales@iquest.net
+
+------------------------------------------------------------------------- 
+Monthly Club Advertisements
+-------------------------------------------------------------------------
+	As always, this section is always free for our members.  If you
+wish to put an advertisement into the newsletter, feel free to email me
+at cad@digital.net and I'll be sure to put it in next month's newsletter.
+These must be sent to me sometime before the 25th of each month or they
+will have to go into the month after.
+
+Joe Hackett <jersey@internauts.ca>
+Subject: Greyhawk
+
+	Greyhawk Survivors: DM's, GM's, players, still active in the world 
+of Greyhawk, I am forming a support group to bemoan the lack of support. 
+I Would like to exchange ideas, progress, NPC's and the like with anyone 
+still active in this gaming world.  Contact me at jersey@internauts.ca
+
+Jeff Hazen <avedis@u.washington.edu>
+Subject: Gaming Materials
+
+	Is anyone in possession of the AD&D supplement _The Will and the 
+Way_ that they would be willing to sell to me?  It seems that it's either 
+out of print or the bookstores here have just stopped stocking it.  
+Email me at avedis@u.washington.edu (or jhazen@linknet.kitsap.lib.wa.us 
+if I don't respond within 24 hours).
+
+Richard Tomasso <richt@bgs.com>
+Subject: Earthdawn
+
+	Hey Earthdawn fans! Do you have ideas/fiction/adventures/etc for 
+the game?  Do you like to write and share your thoughts and ideas with 
+others?  Then please consider joining _Legends_, the first and only 
+Earthdawn APA.  For those who don't know, APA stands for Amateur Press 
+Association.  It is a group of people who share a common interest (in 
+this case Earthdawn) and write about it and share those writings with 
+the other members of the APA. If you are interested check out the Legends 
+web page at: http://www.tripod.com/~LegendsAPA
+
+Daniel Demole <danield@digital.net>
+Subject: IRC Game
+
+	Hello All IRPS members.  If you're interested in playing a game 
+via IRC please contact me at danield@digital.net with your experience 
+and when you'll be able to play.
+
+Bruno Diotte <ebd0739@deneb.ci.umoncton.ca> Subject: Books For Sale
+
+	I have a selection of used RPG books to sell.  I have books from 
+various RPG systems:  AD&D (1st and 2nd ed.), Rolemaster, Gamma world, 
+Battletech, etc...)  All my books are approximately 50% off regular store 
+prices.  The complete list (200+ items) can be found on the web at the 
+following address:
+
+http://www.administration.umoncton.ca/usagers/etudiant/brunod/index.html
+
+	Or I can send you the list via email.  Also, the prices are in 
+Canadian currency. 
+
+------------------------------------------------------------------------- 
+Gaming Conventions
+-------------------------------------------------------------------------
+
+Jeremy Fowler-Lindemulder <jandk@brightok.net> 
+Subject: DarkCon Press Release
+
+     	DarkCon III is Oklahoma's largest gaming convention.  It will be 
+held on July the 19-21, 1996 at the Central Plaza Inn, in Oklahoma City.  
+Featuring events such as: R.P.G.A. Sanctioned Masters, Living City, 
+Living Jungle, Decathlon, Teams, Benefit, and Star Wars.  Sanctioned 
+Magic the Gathering Tournaments Types I, II, &  Sealed Deck.  Live Action 
+Vampire run by the same people who do GEN-CON.  Warhammer 40K Demos, New 
+Gaming system Pelicar "Fantasy Role Playing,"  Rifts, Axis & Allies 
+Tourney, Johnny Reb, Naval Engagements, D.B.A., Chill, Heroes, Champions, 
+Rage, Werewolf, Adventure Maximum, and many more.  Dice Games, Computer 
+games, Live Action events, Artists, Discussion groups, Card Games, War 
+Games, Board Games, and Role Playing Games Galore.  So much to do there 
+is not enough time in the weekend to complete everything.
+   	Cost for this convention is $10.00 till April 15th.  Then it's 
+$15.00 till July.  $18.00 at the door.  All sanctioned gaming will have 
+a cost of $1.00.  Everything else is free to the attending public.  The 
+hotel room rate is $50.00 per night for four guests to a room.  $65.00 
+per night in suites.  $5.00 per each additional guest.  For additional 
+information, including rates for convention book advertisements, call, 
+write, or Email:
+
+     DarkCon III
+     P.O. Box 6021
+     Moore, Ok. 73160
+     Telephone (405) 329-3302
+     Email DBULLOCK@gslan.offsys.uoknor.edu
+     WEB PAGE http://www.brightok.net/~jandk/DarkCon.html
+
+Reserve your room now by contacting Central Plaza Inn at (405) 235-2761 
+or write:
+
+                     Central Plaza Inn
+                     112 S. Martin Luther King
+                      OKC. Ok. 73117
+
+We also plan to have 20 computers to offer Doom, Heretic, Rise of Triad, 
+Descent, and other related games like Sega and Ninetendo systems to offer 
+the TV. buff a little entertainment.

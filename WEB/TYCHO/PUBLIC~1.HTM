@@ -1,0 +1,122 @@
+<HTML><HEAD><TITLE>NBIfAFG Publication Registration Form</TITLE></HEAD>
+<BODY ><H1 ALIGN=center>NBIfAFG Publication Registration Form</H1>
+
+This page allows the interactive management of publications in the
+NBIfAFG publication database.<P>
+
+To use it:
+
+  <ol>
+    <li>Choose your department from the popup box.
+    <li>If you want to add a new publication, choose the publication type
+        from the popup box.
+    <li>Press the appropriate button to add or edit a publication or to
+        list or show publications.
+  </ol>
+
+To use this system, you need an account on the Unix system at your
+department. Please contact your system administrator or <A
+HREF="mailto:serges@nbi.dk">Ulrik
+Serges</A>, if you need such an account.
+
+<HR>
+
+<FORM method="get" ACTION="http://www.astro.ku.dk/cgi-bin/publications.pl" tppabs="http://www.astro.ku.dk/cgi-bin/publications.pl">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=3>
+<TR>
+<TD>
+Department:
+</TD>
+<TD>
+<select name="dept" size=1>
+<option selected value="ao">AO
+<option value="ga">GA
+<option value="nbi">NBI
+<option value="oel">&Oslash;L
+<option value="tac">TAC
+</select>
+</TD>
+</TR>
+<TR>
+<TD>
+Type of publication:
+</TD>
+<TD>
+<select name="form" size=1>
+<option selected value="article">Article
+<option value="proceedings">Conference proceedings
+<option value="inproceedings">Article in conference proceedings
+<option value="book">Book
+<option value="mastersthesis">Masters thesis
+<option value="phdthesis">Ph.D. thesis
+<option value="techreport">Report
+</select>
+</TD>
+</TR>
+<TR>
+<TD>
+<input name="mode" value="Add a new publication" type="submit">
+</TD>
+<TD>
+Add a new publication to the database.
+</TD>
+</TR>
+<TR>
+<TD>
+<input name="mode" value="Edit a publication" type="submit"><BR>
+</TD>
+<TD>
+Modify a publication already in the database.
+</TD>
+</TR>
+<TR>
+<TD>
+<input name="mode" value="Delete a publication" type="submit"><BR>
+</TD>
+<TD>
+Remove a publication from the database.
+</TD
+</TR>
+<TR>
+<TD>
+<input name="mode" value="List publications by user" type="submit">
+</TD>
+<TD>
+List all publications entered by a given user
+</TD>
+</TR>
+<TR>
+<TD>
+<input name="mode" value="Show all publications" type="submit">
+</TD>
+<TD>
+Show the common database. The common database contains all
+publications for all users in the department. (The AO
+database was last build at Wed Mar 12 13:13:09 1997.)
+</TD>
+</TR>
+<TR>
+<TD>
+<input name="mode" value="Manually rebuild" type="submit">
+</TD>
+<TD>
+Rebuild the common database. <EM>This is only necessary
+when you have edited your BibTeX file by hand.</EM>
+</TD>
+</TR>
+</TABLE>
+</FORM>
+<P>
+A description of the publication database system is found on
+<A HREF="Pending_relink" tppabs="http://www.astro.ku.dk/publications">http://www.astro.ku.dk/publications</A>.
+<P>
+(See the
+<a href="Pending_relink" tppabs="http://www.astro.ku.dk/help/BibTeX/bibtx-7.html"
+>BibTeX help files</a> for a description of the various types of 
+entries---not all of them are available, and a few more fields are 
+required for our entries)
+<HR>
+
+Last updated Thu Dec 21 17:01:00 1997 / <a href="mailto:serges@nbi.dk">serges@nbi.dk</a>
+</BODY></HTML>

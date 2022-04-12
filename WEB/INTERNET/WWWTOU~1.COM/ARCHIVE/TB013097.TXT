@@ -1,0 +1,168 @@
+<html><head><title>TOURBUS Info Page</title></head>
+<body bgcolor="#ffffff">
+<center>
+<a href="http://www.worldvillage.com/cgi-bin/redirect.cgi?AD=goahead"><img src="http://www.worldvillage.com/adds/banners/goahead.gif" border=0 alt="Go Ahead Got It! Internet Accelerator - Your Answer to a Faster Web" width=468 height=60 ></a>
+</center>
+<hr>
+<img align="left" src="tbsmall.gif" alt="The Internet TourBus!">
+<i>"Why surf when you can ride the bus?"</i><br clear=all>
+<hr>
+<center>
+<h2>
+TOURBUS: Thursday, January 30, 1997<br>
+DRIVER: Patrick Crispin<br>
+TODAY'S TOURBUS STOP: The World Wide Web Broadcaster</h2>
+</center>
+<p>
+Hi, kids!  :)
+<p>
+Your fearless bus driver is back from the MECA conference in Mississippi
+with yet another installment from our continuing journey around the
+Internet.  Before we get today's tour underway, however, I want to give a
+special thank you to the ultra cool folks at Mass Music who are making
+today's TOURBUS post possible:
+<pre>
+*--------------------------- MASS MUSIC -----------------------------*
+  More Music For Your Money!  Over 185,000 Titles Just A Click Away.
+ FREE Weekly Music Zine - Buy 7 Get 1 FREE Everyday - Treasure Hunt!
+      TOURBUS Rider Discount code: SAVENOW! use it and save 5%
+*------------------(  http://www.Mass-Music.com  )-------------------*
+</pre>
+Okay, you've finally written your own World Wide Web homepage (if you
+haven't, just pretend that you have).  Now how do you tell everyone that
+your page exists?  You can visit all of the search engines like Yahoo and
+Alta Vista and enter your information by hand, but that could take hundreds
+of hours.  You could pay some company to add your information to all of the
+search engines, but who can afford to do that?
+<p>
+Well, kids, today we are going to drive our little bus of Internet
+happiness "across the pond" to visit a Web service that just may be able to
+help you get a little more traffic on those wonderful Web pages of yours!
+<p>
+The World Wide Web Broadcaster is a totally *FREE* service that enables you
+to submit your Web page addresses to over 235 search engines at once.  All
+you have to do is visit the Broadcaster's homepage at <a href="http://www.broadcaster.co.uk/">http://www.broadcaster.co.uk/</a>
+and fill in all of the blanks.  There are a couple of things that you need
+to remember, though:
+<ol>
+<li>The Broadcaster's Web server is located in the United Kingdom.
+        If you are in the United States, it may take a little while
+        for their page to load (it takes a couple of seconds for all
+        of those IP packets to make their journey across the Atlantic
+        ocean).  Be patient ... The Broadcaster is well worth the
+        wait.
+<li>You need to fill out *ALL* of the fields on the page in order
+        for your submission to work.  If you leave a field blank, the
+        Broadcaster's web server will retaliate by sending you a whole
+        bunch of bland English food.  (I'm kidding about the food, by
+        the way.  English food is much too bland to be sent by
+        computer).
+
+    <li>You can only submit one URL (a URL is a Web page address) at a
+        time.
+</ol>
+<p>
+With that said, let's take a look at how you can use the Broadcaster to
+actually submit the address of one of your Web pages to over 235 search
+engines at once.  First, point your Web browser to: <a href="http://www.broadcaster.co.uk/">http://www.broadcaster.co.uk/</a>
+<p>
+Remember, this page may take a little while to load, so please be patient.
+Once this page has loaded, click on the "Start" button over on the
+right-hand side of the page.
+<p>
+This will take you to a page that shows you the Broadcaster's "User
+Guidance and Terms of Use."  Make sure that you read this (it is pretty
+much just a repeat of those three points that I made a moment ago).  Do
+notice that at the bottom of the page is a check box that says
+<pre>
+     We want to keep our users up to date with future developments.
+     If you do NOT wish to be kept up-to-date please untick this box.
+</pre>
+If you do not want to receive e-mail updates from the folks at the
+Broadcaster, make sure that you uncheck the check box.  Then, click on the
+"I Agree" button at the bottom right-hand corner of the screen.
+<p>
+The rest of the process is pretty easy.  There are 8 pages that you have to
+fill out in order to submit your Web page address.  The first page asks you
+for your e-mail address, your name, the title of your Web page, your page's
+address.  You are also asked if your page has any "adult content."
+<p>
+Notice that at the bottom of this page are a bunch of words (like "E-Mail,"
+"Maintainer," "Title," etc.) followed by red Xs.  Ignore this for now.
+I'll show you what all this means in a moment.
+<p>
+Once you have completed the first page, click on the "Next" button at the
+bottom right-hand corner of the page.
+<p>
+The next page that appears (page 2 of 8) asks you for some more information
+about yourself, including your address and phone number.  Fortunately, you
+don't have to give this information if you don't want to.  Instead, just
+type "NA" (without the quotes, and note that there is no slash between the
+letters N and A) in the fields that you would rather not divulge.
+<p>
+Also take a look at those words and Xs that we saw at the bottom of the
+first page.  Notice how some of the red Xs have changed to green check
+marks?  As you fill in the blanks on each of the pages, the Broadcaster
+keeps track by changing the red Xs to green check marks.  It's just a way
+to help you ensure that you fill in all of the blanks.  :)
+<p>
+The next four pages are pretty much self-explanatory.  Just fill in the
+blanks.  :)
+<p>
+The 7th page gives you a preview of the information that you have submitted
+on the previous 6 pages.  DOUBLE CHECK EVERYTHING because once you approve
+this information, there is no way for you to correct it.  If you need to
+change something, click on the "Back" button located on the right-hand side
+of the page (it's in the *middle* of the page).  If everything looks good,
+click on the "Broadcast" button, which is right under the "Back" button.
+<p>
+That's it!  The folks at the broadcaster will confirm your submission by
+e-mail, which may take a few days.  In the interim, if you want to submit
+another URL, you can go back to the Broadcaster's main homepage by clicking
+either the words "Click Here" or on the "Start" button.
+<p>
+Neat, huh?
+<p>
+<pre>
+---------------------------------
+TODAY'S SOUTHERN WORDS OF THE DAY
+---------------------------------
+
+THAR (adverb,noun,pronoun).  The opposite of HAIR.
+FER (preposition).  Something that grows on a cat (among other things)
+ITCH (contraction).  Alternative spelling of ITSA.
+YER (pronoun).  Something that isn't MAIN.
+WAIF (noun).  A female married person.
+
+Usage:  "Thars a phone call fer yew.  Itch yer waif."
+
+(Special thanks goes to Richard Omer for today's wurds.)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+</pre>
+<pre>
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+</pre><p><hr>
+<center>
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin<br>
+All rights reserved.  Redistribution is allowed only with permission.<br>
+Send this copy to 3 friends and tell them to get on the Bus!<br>
+<p>
+<h3>
+<a href="/wv/hotel/tourbus/tour.htm">Back to the TOURBUS Main Page</a><br>
+<a href="/wv/hotel/tourbus/archives.htm">Browse the TOURBUS Archives</a>
+</h3>
+<hr>
+<a href="/wv/navbar.map"><img border=0 src="/wv/images/elements/navbar.gif" ismap></a>
+<hr>
+<h5>(c) Copyright 1996, Elephant Consulting</h5>
+</center>
+</address>
+</BODY></HTML>

@@ -1,0 +1,446 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE>Egypt - &AElig;gypten, 1. del</TITLE>
+
+   <meta name="AUTHOR" content="Elin Rand Nielsen">
+   <META  NAME="keywords"  CONTENT="Egypt &AElig;gypten Elins homepage Egypten Elin Nationalmuseet &AElig;gyptisk Billed Bureau">
+   <META  NAME="description"  CONTENT="Page in Danish giving links to sites on Egypt.
+Elin's Egypt peger p&aring; sider, der handler om &AElig;gypten og ikke er s&aring; 
+sv&aelig;re at l&aelig;se: Om Nationalmuseet, pyramider, Tut-ankh-Amon,
+Ramses, hieroglyffer, spil, Dansk &AElig;gyptologisk Selskab, &AElig;gyptisk Billed Bureau.">
+   <META http-equiv="PICS-Label" content='(PICS-1.1
+"http://www.classify.org/safesurf/" l gen t for
+"http://inet.uni-c.dk/~randkoie/" r (SS~~000 1 SS~~100 1))'>
+
+<SCRIPT LANGUAGE = "JavaScript">
+
+<!-- skjul
+//udformet af Elin pga. JavaScript tip of the Week og http://www.s-data.se/jesper/valet.htm
+var remote = null;
+function remoteStart() {
+    remote = window.open('','','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=610,height=40');
+    if (remote != null) {
+    if (remote.opener == null) {
+        remote.opener = self;
+        }
+    remote.location.href = 'rem.htm';
+    }
+}
+
+
+// Public domain cookie code written by:
+// Bill Dortch, hIdaho Design (bdortch@netw.com)
+
+
+//      - - - - - - - - Get Decoded Value of Cookie - - - - - - - -      
+
+
+function getCookieVal (offset) {
+        var endstr = document.cookie.indexOf (";", offset);
+               if (endstr == -1)
+               endstr = document.cookie.length;
+        return unescape(document.cookie.substring(offset, endstr));
+        }
+
+
+//      - - - - - - - - Get Value of Cookie - - - - - - - -      
+
+
+function GetCookie (name) {
+        var arg = name + "=";
+        var alen = arg.length;
+        var clen = document.cookie.length;
+        var i = 0;
+        while (i < clen) {
+        var j = i + alen;
+                if (document.cookie.substring(i, j) == arg)
+                return getCookieVal (j);
+        i = document.cookie.indexOf(" ", i) + 1;
+                if (i == 0) break; 
+        }
+
+return null;
+}
+
+
+//      - - - - - - - - Set Value of Cookie - - - - - - - -      
+
+
+function SetCookie (name, value) {
+        var argv = SetCookie.arguments;
+        var argc = SetCookie.arguments.length;
+        var expires = (argc > 2) ? argv[2] : null;
+        var path = (argc > 3) ? argv[3] : null;
+        var domain = (argc > 4) ? argv[4] : null;
+        var secure = (argc > 5) ? argv[5] : false;
+        document.cookie = name + "=" + escape (value) +
+        ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+        ((path == null) ? "" : ("; path=" + path)) +
+        ((domain == null) ? "" : ("; domain=" + domain)) +
+        ((secure == true) ? "; secure" : "");
+}
+
+
+//      - - - - - - - - End of Public Domain Cookie Code - - - - - - - -     
+//      - - - - - - - - JTotW Cookie Functions by Nick Heinle- - - - - - - -      
+
+
+function show_count() {
+        var expdate = new Date();
+        var num;
+        expdate.setTime(expdate.getTime() +  (24 * 60 * 60 * 1000 * 365)); 
+                if(!(num = GetCookie("jtotwcount"))) 
+                num = 0;
+        num++;
+        SetCookie ("jtotwcount", num, expdate);
+                if (num == 1) document.write("<B>Jeg h&aring;ber at se dig igen.</B>");
+                else document.write("<B>Dette er <EM>dit</EM> bes&oslash;g nr <FONT SIZE=+2>" + num + "</FONT></B>"); 
+        
+        
+}
+
+
+      
+/* 
+This script is copyright (c) 1996 by Tomer Shiran and Yehuda Shiran. It will all be posted in
+our upcoming book on JavaScript, along with many others. Feel free to copy the script. A link to this
+page would be a nice gesture in return. The official site of the t-banner is http://www.geocities.com/Hollywood/4250/t-banner.htm
+The JavaScript collection is located at http://www.geocities.com/Hollywood/4250/index.html
+*/
+var i = 0;
+var TextNumber = 0;
+var TextInput = new MakeArray(4); // (0, 1, 2, 3, 4)
+var HelpText="";
+var Text = "";
+var Speed=300	var WaitSpace="      "
+TextInput[0] = "Husk at hilse på Nofret."  
+TextInput[1] = "Skriv dit navn til hende, og tryk \"ok\"."
+TextInput[2] = "Giv hende også hånden."
+TextInput[3] =  "Så blinker hun til dig."
+TextInput[4] =  "Tegneserien Nofret er tegnet og fortalt af Sussi Bech.                                                                                    "
+
+TotalTextInput = 4; // (0, 1, 2, 3, 4)
+
+
+for (var Tomer = 0; Tomer <= TotalTextInput; Tomer++) {
+	TextInput[Tomer]+=WaitSpace
+}
+
+
+	
+var TimerId
+var TimerSet=false;
+
+function startBanner ()  {
+        TimerSet=!TimerSet
+        if (TimerSet)
+                banner();
+        else
+                kill();
+}
+
+function banner() {
+        Text=rollMessage();
+	TimerId = setTimeout("banner()", Speed)
+	window.status=Text;
+        
+}
+
+function rollMessage () {
+        Wait_yn=false;
+	i++;
+	var CheckSpace = HelpText.substring(i-1, i);
+	CheckSpace = "" + CheckSpace;
+	if (CheckSpace == " ") {i++;}
+	if (i >= HelpText.length+1) {
+		i=0; 
+		if (TextNumber < TotalTextInput) 
+			TextNumber++
+		else 
+			TextNumber = 0; 
+		init();
+	}
+        Text = HelpText.substring(0, i);
+	return (Text);
+}
+
+function init () {
+        Text = TextInput[TextNumber]
+	HelpText = Text;
+}
+
+function kill () {
+        clearTimeout (TimerId)
+}
+
+function scrollerPause () {
+	kill ();
+	TimerId = setTimeout("banner()", 3000);
+}
+
+function DoMessages(Message) {
+	DoPause();
+	window.status = Message
+}
+
+function MakeArray(n) {
+   	this.length = n;
+   	for (var i = 1; i <= n; i++) { 
+    		 this[i] = 0
+	}
+    	return this
+}
+
+
+
+// Form Validation with JavaScript
+// Developed by Timothy Wallace,  timothy@essex1.com
+//Men udviklet af Elin Rand Nielsen, http://inet.uni-c.dk/~randkoie/
+
+// Reports if all forms have filled out properly.
+function testForm()
+   {
+   if  (isName() )
+      {
+      var name = document.forms[0].elements[0].value;
+
+      alert("Hej "+name+".\nVelkommen til Egypt - Ægypten!");
+      }
+   }
+
+// Checks the NAME field.
+function isName()
+   {
+   var str = document.forms[0].elements[0].value;
+   // Return false if name field is blank.
+   if (str == "")
+      {
+      alert("Hej INGENTING.\nEr dit navn en hemmelighed?")
+      document.forms[0].elements[0].focus();
+      return false;
+      }
+   // Return false if characters are not a-z, A-Z, or a space.
+   for (var i = 0; i < str.length; i++) 
+      {
+      var ch = str.substring(i, i + 1);
+      if (((ch < "a" || "z" < ch) && (ch < "A" || "Z" < ch)) && ch != ' ' && ch != 'æ' && ch != 'ø' && ch != 'å' && ch != 'Æ' && ch != 'Ø' && ch != 'Å') 
+         {
+         alert("Er du hemmelig agent?\nHar du ikke også et mere almindeligt navn?");
+         document.forms[0].elements[0].select();
+         document.forms[0].elements[0].focus();
+         return false;
+         }
+      }
+   return true;
+   }
+
+
+
+// -- End of JavaScript code "Pending_relink" tppabs="http://inet.uni-c.dk/~randkoie/--------------.class" -->
+
+</SCRIPT>
+</HEAD>
+
+<BODY BGCOLOR="#f8da94" onLoad="init(); startBanner();">
+<NOBR>
+<CENTER><!-- BEGIN WEBRING HEADER -->
+<TABLE COLSPEC="L20 L20 L20" BORDER=0>
+<TR><TD WIDTH=215>
+
+<A HREF="../../tppmsgs/msgs0.htm#26" tppabs="http://www.iglobal.net/pub/wagers/ousia/KMT.html" onMouseOver="scrollerPause()"><IMG
+SRC="WRH1.GIF" tppabs="http://inet.uni-c.dk/~randkoie/wrh1.gif" BORDER=0 WIDTH=210 Height=13 align=left ALT="Home"></A>
+</TD><TD><NOBR><FONT SIZE=-2>
+ [ <A
+HREF="../../tppmsgs/msgs0.htm#27" tppabs="http://www.webring.org/cgi-bin/webring?ring=egypt&id=005&random" onMouseOver="scrollerPause()">Tilf&aelig;ldig</A> | <A
+HREF="../../tppmsgs/msgs0.htm#28" tppabs="http://www.webring.org/cgi-bin/webring?ring=egypt&id=005&sprev" onMouseOver="scrollerPause()">2 frem</A>
+ | <A
+HREF="../../tppmsgs/msgs0.htm#29" tppabs="http://www.webring.org/cgi-bin/webring?ring=egypt&id=005&skip" onMouseOver="scrollerPause()">2 tilbage</A>
+ | <A
+HREF="../../tppmsgs/msgs0.htm#30" tppabs="http://www.webring.org/cgi-bin/webring?ring=egypt&id=001&list" onMouseOver="scrollerPause()">Alle</A>
+ | <A
+HREF="../../tppmsgs/msgs0.htm#31" tppabs="http://www.webring.org/cgi-bin/webring?ring=egypt&id=005&prev" onMouseOver="scrollerPause()">Forrige</A
+> ]  
+</FONT>
+<A
+HREF="../../tppmsgs/msgs0.htm#32" tppabs="http://www.webring.org/cgi-bin/webring?ring=egypt&id=005&next" onMouseOver="scrollerPause()"><IMG
+SRC="WRH2.GIF" tppabs="http://inet.uni-c.dk/~randkoie/wrh2.gif" BORDER=0 WIDTH=100 Height=13 ALT="Next"></A></NOBR>
+</TD></TR>
+</TABLE>
+<!-- END WEBRING HEADER --></CENTER></NOBR><P>
+
+<A HREF="ELINRAND.HTM" tppabs="http://inet.uni-c.dk/~randkoie/elinrand.htm" onMouseOver="scrollerPause()">
+<IMG SRC="ELINHOME.GIF" tppabs="http://inet.uni-c.dk/~randkoie/elinhome.gif" ALT="[Elins homepage]" WIDTH=361 HEIGHT=54 border=0 ></A>
+
+<A HREF="INDEX-1.HTM" tppabs="http://inet.uni-c.dk/~randkoie/index.htm" onMouseOver="scrollerPause()"><IMG SRC="NOFER.GIF" tppabs="http://inet.uni-c.dk/~randkoie/nofer.gif" ALT="[Sussi Bechs Nofret]" WIDTH=139 HEIGHT=250 border=0 align=right>
+</A>
+
+<P>
+
+<H2><STRONG>Velkommen til <font color="#9933ff">Egypt - &AElig;gypten</font>!</STRONG></H2><P>
+
+Du er l&aelig;ser <A HREF="../../tppmsgs/msgs0.htm#33" tppabs="http://www.digits.com/web_counter/" onMouseOver="scrollerPause()">nummer</A>
+ <IMG SRC="../../COUNTE~1.COM/WC--C&~2" tppabs="http://counter.digits.com/wc?-c&11&-d&6&-f&000000&-b&ffff66&-e&ffff66&randkoie" ALT=[tal]  ALIGN=absmiddle WIDTH=90 HEIGHT=20 BORDER=0><BR>
+eller i overs&aelig;ttelse... <A HREF="../../tppmsgs/msgs0.htm#33" tppabs="http://www.digits.com/web_counter/" onMouseOver="scrollerPause()"><IMG SRC="../../COUNTE~1.COM/WC--C&~1" tppabs="http://counter.digits.com/wc?-c&15&-d&6&-f&000000&-b&ffff66&-e&ffff66&randkoie"  ALT=[tal] ALIGN=absmiddle WIDTH=90 HEIGHT=20 BORDER=0></A><BR>
+
+<SCRIPT LANGUAGE = "JavaScript">
+<!--
+show_count();
+//-->
+</SCRIPT>
+
+<form>
+<TABLE COLSPEC="L20" BORDER=0 ALIGN=right>
+<TR><TD>
+<CENTER>
+<script>
+<!--
+document.write("<FONT SIZE=-1><B>Hej, jeg hedder Nofret.<BR>Hvad hedder du?</B></FONT>")
+//-->
+</script><BR>
+<INPUT TYPE="text" NAME="name"   SIZE=8>
+
+<INPUT TYPE="button" name="but "VALUE="ok" onClick="testForm()">
+</form>
+
+</CENTER>
+</TD></TR></TABLE>
+
+<P>
+
+<STRONG><FONT color=#9933ff>Elin's Egypt</FONT></STRONG> peger p&aring; sider, der 
+
+<UL>
+<LI>handler om &AElig;gypten <EM>og</EM><BR>
+<LI>ikke er s&aring; sv&aelig;re at l&aelig;se</LI><BR>
+</UL>
+
+But why not in <a href="ENG.HTM" tppabs="http://inet.uni-c.dk/~randkoie/eng.htm" onmouseover="scrollerPause()">English</a>?<p>
+
+
+<EM>Vil du have den komplette - i stedet for den lette - l&oslash;sning, skal du kigge i <A HREF="../../tppmsgs/msgs0.htm#34" tppabs="http://www-oi.uchicago.edu/OI/DEPT/RA/ABZU/ABZU_REGINDX_EGYPT.HTML" onMouseOver="scrollerPause()">ABZU</A>s index over samtlige &aelig;gyptiske sider, samlet af Chuck, der er bibliotekar p&aring; Oriental Institute i Chicago.</EM><P>
+Du kan ogs&aring; v&aelig;lge at m&oslash;de <i>levende &aelig;gyptologer</i> i <a href="DAES.HTM" tppabs="http://inet.uni-c.dk/~randkoie/daes.htm">Dansk &AElig;gyptologisk Selskab</a>!<p>
+<CENTER><IMG SRC="MEANDER.GIF" tppabs="http://inet.uni-c.dk/~randkoie/meander.gif" ALT="[Bort]" border=0 WIDTH= 595 HEIGHT=15 ></CENTER><BR>
+<H3>Sidste nyt<IMG SRC="NY.GIF" tppabs="http://inet.uni-c.dk/~randkoie/ny.gif" ALT="ny" WIDTH=21 HEIGHT=12 HSPACE=5 BORDER=0 ALIGN=absmiddle></H3>
+<FONT SIZE=-1><B>Jeg har s&aring; travlt for &oslash;jeblikket, at jeg kommer bagud med at opdatere de n&aelig;ste sider. Derfor har jeg valgt at s&aelig;tte de nye link p&aring; her, efterh&aring;nden som jeg finder dem. Senere bliver de flyttet til de rigtige afsnit.</B></FONT><p>
+
+
+<!-------------------NYE LINK----------------------------->
+
+<B>Nye link 4. februar 1997:</B><P>
+<A HREF="../../tppmsgs/msgs0.htm#35" tppabs="http://www.cnn.com/TECH/9701/29/egypt.tomb.reut/index.html">Grav i Giza restaureret - med filmklip - fra CNN.</A><BR>
+<A HREF="../../tppmsgs/msgs0.htm#36" tppabs="http://www2.pbs.org/wgbh/pages/nova/pyramid/">Online pyramider - lyder sp&aelig;ndende!</A><P>
+
+
+<B>Nye link 1. februar 1997:</B><P>
+
+<A HREF="../../tppmsgs/msgs0.htm#37" tppabs="http://www.idsc.gov.eg/culture/egy_mus.htm">Det ægyptisk museum, Cairo.</a><BR>
+<A HREF="../../tppmsgs/msgs0.htm#38" tppabs="http://interoz.com/egypt/Antiq.htm">Det &aelig;gytiske turist-ministerium:</a><BR>
+
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left>
+<A HREF="../../tppmsgs/msgs0.htm#39" tppabs="http://interoz.com/egypt/kings.htm">Kongeliste</A><BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left>
+<A HREF="../../tppmsgs/msgs0.htm#40" tppabs="http://interoz.com/egypt/monument.htm">Se &aelig;gyptiske monumenter</A><BR>
+Guay, Michel: (Fransk tekst, men meget flotte billeder i 3-d)<BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#41" tppabs="http://www.unites.uqam.ca/dhist/pagesp/pagemg3.htm">Rekonstruktion af Nakht's gods i el-Amarna.</A><BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#42" tppabs="http://www.unites.uqam.ca/dhist/pagesp/pagemg1.htm">Rekonstruktion af Djosers trinpyramide</A><BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#43" tppabs="http://www.unites.uqam.ca/dhist/pagesp/pagemg2.htm">Cheop's pyramidekompleks</A><BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#44" tppabs="http://www.unites.uqam.ca/dhist/pagesp/pagemg4.htm">AVI-video med rekonstruktion af Cheops' pyramide.</A><BR>
+Udstilling i Houston af genstande fra Hildesheim.<BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left>
+<A HREF="../../tppmsgs/msgs0.htm#45" tppabs="http://mfah.org/splendor/docs/highlts/index.html">De flotteste genstande</A><BR>
+
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#46" tppabs="http://www.chron.com/content/interactive/voyager/egypt/tour/table.html">Katalog over alle samlingens 76 genstande.</A><BR>
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#47" tppabs="http://www.chron.com/content/interactive/voyager/egypt/qtvr/index.html">Quick-time VR-film af udstillingen.</A><BR>
+Louvres &aelig;gyptiske samling:<BR>
+
+<IMG SRC="5X5.GIF" tppabs="http://inet.uni-c.dk/~randkoie/5x5.gif" WIDTH=1 HEIGHT=1 hspace=3 VSPACE=0 BORDER=0 ALIGN=left><A HREF="../../tppmsgs/msgs0.htm#48" tppabs="http://mistral.culture.fr/louvre/anglais/musee/collec/colleceg.htm">Samlingens bedste 10 stykker.</A><p>
+
+<form method="GET"
+action="http://www.netmind.com/cgi-bin/uncgi/url-mind">
+<p><STRONG>Vil du have brev, n&aring;r <FONT COLOR="#9933FF">Egypt - &AElig;gypten</FONT> er <IMG SRC="OPDAT.GIF" tppabs="http://inet.uni-c.dk/~randkoie/opdat.gif" alt="[OPDATERET]" border=0 hspace=5 WIDTH=57 HEIGHT= 12>?</STRONG><BR>
+S&aring; skriv <STRONG>din e-mail-adresse</STRONG> i boksen herunder - <BR>
+og igen p&aring; den side, der dukker op, n&aring;r du trykker <B>OK</B>.<BR>
+Du kommer automatisk tilbage til denne side igen, n&aring;r du har trykket p&aring; knappen "I agree".<BR>
+<input type=text size=40 name="required-email"><br>
+<input type=hidden
+value="http://inet.uni-c.dk/~randkoie/" name=url>
+        <INPUT TYPE=HIDDEN VALUE="http://inet.uni-c.dk/~randkoie/reg.htm" NAME=resppage>
+
+<INPUT TYPE="submit" VALUE="     OK     ">
+<INPUT TYPE="reset" VALUE="FORTRYD">
+</form>
+<p>
+
+<CENTER><IMG SRC="MEANDER.GIF" tppabs="http://inet.uni-c.dk/~randkoie/meander.gif" ALT="[Bort]" border=0 WIDTH= 595 HEIGHT=15 ></CENTER><BR>
+
+
+
+
+<table border=0 cellpadding=20>
+<tr><td>
+<A HREF="../../tppmsgs/msgs0.htm#49" tppabs="http://www.netscape.com/assist/net_sites/starter/samples/animate.html" onMouseOver="scrollerPause()"><IMG SRC="MOZILLA.GIF" tppabs="http://inet.uni-c.dk/~randkoie/mozilla.gif" ALT="[Netscape]" hspace=15 WIDTH=64 HEIGHT=64 border=0 align=left hspace=20></A>
+
+</td><td>
+<B><FONT SIZE=+1>
+<A HREF="INDEX2.HTM" tppabs="http://inet.uni-c.dk/~randkoie/index2.htm" onMouseOver="scrollerPause()"><FONT SIZE=+2>F</FONT>ORTS&AElig;T  MED <FONT SIZE=+2> E</FONT>GYPT -<FONT SIZE=+2> &AElig;</FONT>GYPTEN</A><BR>
+</FONT>
+</B>
+<br>
+<font size=2>Bruger du <a href="../../tppmsgs/msgs0.htm#50" tppabs="http://home.mcom.com/comprod/mirror/index.html" onmouseover="scrollerPause()">
+Netscape 2.0 </a>eller bedre vises de n&aelig;ste sider i <strong>rammer</strong>.</font><p>
+
+<font size=3>
+<B>
+<script>
+<!--
+
+   if (navigator.appVersion.lastIndexOf('3.') != -1)
+if(navigator.appName.lastIndexOf('Netscape')!=-1)
+      {
+
+document.write("<A HREF='javascript:remoteStart()' onMouseOver='scrollerPause()'>Fjernbetjening isf. rammer, TAK!</A>");
+}
+//-->
+</script>
+
+</font>
+</B>
+
+
+</td></tr>
+</table>
+
+
+
+
+<CENTER><IMG SRC="MEANDER.GIF" tppabs="http://inet.uni-c.dk/~randkoie/meander.gif" ALT="[Bort]" border=0 WIDTH= 595 HEIGHT=15 ></CENTER><BR>
+
+
+<CENTER><TAble BORDER=0 width=500>
+<TR>
+<TD valign=middle>&copy; 1997<A HREF="ELINRAND.HTM" tppabs="http://inet.uni-c.dk/~randkoie/elinrand.htm" onMouseOver="scrollerPause()"><IMG SRC="ELINRAND.GIF" tppabs="http://inet.uni-c.dk/~randkoie/elinrand.gif" border=0 ALT="[Elin Rand Nielsen]" WIDTH=200 HEIGHT=24 align=absmiddle hspace=5></A><BR>
+<A HREF="AEBB.HTM" tppabs="http://inet.uni-c.dk/~randkoie/aebb.htm" onMouseOver="scrollerPause()"><EM>&AElig;gyptisk Billed Bureau</A> & <A HREF="AEWD.HTM" tppabs="http://inet.uni-c.dk/~randkoie/aewd.htm" onMouseOver="scrollerPause()">Web Design</A></EM><BR>
+
+Opdateret 1. februar 1997.<BR>
+
+<A HREF="mailto:elin@inet.uni-c.dk" onMouseOver="scrollerPause()">mailto:
+elin@inet.uni-c.dk</A><BR>
+<A HREF="INDEX.HTM" tppabs="http://inet.uni-c.dk/~randkoie/" onMouseOver="scrollerPause()">http://inet.uni-c.dk/~randkoie/</A><BR>
+
+</TD>
+<TD valign=bottom><ADDRESS>
+<A HREF="HERERJEG.HTM" tppabs="http://inet.uni-c.dk/~randkoie/hererjeg.htm" onMouseOver="scrollerPause()">Elin Rand Nielsen<BR>
+Keilstruplund 23<BR>
+3460 Birker&oslash;d<BR>
+tel & fax +45 4281 2771<BR></A></ADDRESS>
+</TD></TR>
+</TABLE></CENTER>
+<P>
+<CENTER><IMG SRC="MEANDER.GIF" tppabs="http://inet.uni-c.dk/~randkoie/meander.gif" ALT="[Bort]" border=0 WIDTH= 595 HEIGHT=15 ></CENTER><BR>
+
+<center><A HREF="AEWD.HTM" tppabs="http://inet.uni-c.dk/~randkoie/aewd.htm" onMouseOver="scrollerPause()"><H3>PS: Jeg s&oslash;ger arbejde!</H3></A></CENTER>
+
+</BODY>
+</HTML>
+

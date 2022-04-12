@@ -1,0 +1,326 @@
+
+From crispen@campus.mci.net Thu Oct 24 00:27:15 1996
+Date: Wed, 23 Oct 1996 19:39:35 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 24 OCTOBER - THE AFTERMATH OF THE CHILD PORN SPAM
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |   Get FOUR FREE CD-Roms! Find out how by visiting     |//////|    |
+ |       http://www.worldvillage.com/freecds.htm         |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+TODAY'S STOPS:      THE AFTERMATH OF THE CHILD PORN SPAM
+TODAY'S ADDRESSES:
+     http://www.merc.com/stories/cgi/story.cgi?id=361137-9a0
+     http://www.news.com/News/Item/0,4,4669,00.html
+
+Hi, kids!  "I sent you this letter because your e-mail address was on a
+list that fit this category." (I'M KIDDING!) :)
+
+Actually, we have a lot to talk about today, so let's pay some bills and
+get the latest tour of our little bus of Internet happiness underway.  I do
+want thank today's TOURBUS sponsor, not only for making today's post
+possible, but for also offering some of the lowest clothing prices I have
+seen in a long time (something that, as a continuously poor college
+student, I deeply appreciate).  :)
+
++--------------------------------------------------------------------+
+     Authentic apparel from Timberland, Duck Head, Woolrich and
+        Calvin Klein is available from Aardwulf Apparel at
++--------------------( http://www.aardwulf.com )---------------------+
+
+Let's bring everybody up to date on everything that I know so far about the
+"child porn spam":
+
+Early on the morning of Monday, October 21st, e-mail letters were
+distributed to thousands of unsuspecting Internet users around the world,
+advertising child pornography for sale through "snail mail" from an
+apartment in New York City.  Within minutes of the child porn spam being
+distributed, THOUSANDS of local, state, and federal police agencies around
+the world were flooded with complaints from angry Internet users who
+received the spam.  According to a news.com report, a police officer in the
+New York Police Department reported that their vice squad has "been getting
+calls from all over the world since [Monday] morning -- from Germany,
+Norway, Sweden -- everybody."
+
+I recently told you that "I personally believe that the [child porn spam]
+is a 'spoof,' written by someone who decided it would be funny to exact
+some sort of revenge on 'Steve Barnard.'" [Steve Barnard's name was listed
+in the child porn spam as the point of contact].  I recently heard from
+Steve Barnard -- well, I heard from *a* Steve Barnard ... I'm not sure if
+he is *the* Steve Barnard in question  -- who denies any involvement in
+this.
+
+The FBI seems to agree with Steve.  In a prepared statement, the FBI said
+that the child porn spam "message is a hoax and the matter is being
+investigated."
+
+The FBI's statement goes on to say that the child porn spam letters appear
+to have been sent from two accounts at America Online.  Reuters reports
+that America Online responded by announcing that the accounts had been
+disconnected Monday morning and the service's legal department was also
+investigating the matter.  [The FBI also reports that hackers have, in the
+past, established bogus America Online accounts using stolen credit card
+numbers and the sign-up disks the service widely distributes by mail and in
+magazines].
+
+According to Bill Rubin in a post he made to the Spam Prevention Discussion
+List <SPAM-L@PEACH.EASE.LSOFT.COM>, thousands of complaints about the child
+porn spam letter have been filed with law enforcement agencies.  The FBI
+visited the address listed in the child porn spam, which was the address of
+a company that rents post office boxes.  The FBI and police questioned the
+company's manager for several hours.
+
+The FBI also visited the person who owned both of the America Online
+addresses from which the child porn spam letters were originally
+distributed.  He claims that he did not post the letters, but the FBI
+confiscated his PC as evidence.  According to Bill Rubin in his SPAM-L
+post, the FBI has found no evidence of the child porn spam mailing on the
+suspect's system.
+
+That's pretty much all I know right now.  I pulled my information from a
+couple of resources that you may want to visit on your own, including:
+
+     U.S. says FBI investigating pornography e-mail
+     Reuters - Mercury Mail
+     http://www.merc.com/stories/cgi/story.cgi?id=361137-9a0
+
+     "Porn spam sparks investigation"
+     Janet Kornblum - news.com
+     http://www.news.com/News/Item/0,4,4669,00.html
+
+With that out of the way, let's start answering the questions that everyone
+REALLY wants to ask ...
+
+     Q: What is a "spam?"
+
+     A: A spam is the Internet equivalent of junk mail.  Spams are
+        usually unsolicited advertisements sent to tens of thousands
+        of Internet users at once.  Spams also take the form of
+        totally untrue stories that continue to float around the Net
+        for years.  Some of these untrue stories include story of a
+        boy who is dying of a brain tumor and who wants you to send
+        him your business cards, how there is a virus in e-mail
+        letters with the subject line "Good Times,"  how Neiman Marcus
+        charged someone $250 for a cookie recipe, and how you can
+        "Make Money Fast" by sending a chain letter to 10 of your
+        friends.
+
+     Q: Why is an unsolicited advertisement called a spam?
+
+     A: I'll warn you up front that you really have to be a Monty
+        Python fan to understand this.  The term "spam" comes from the
+        Monty Python diner sketch where the waitress says "well
+        there's egg and bacon; egg, sausage and bacon; egg and spam;
+        bacon and spam; egg, bacon, sausage and spam; spam, bacon,
+        sausage and spam; spam, egg, spam, spam, bacon and spam; spam,
+        spam, spam, egg and spam; spam, spam, spam, spam, spam, spam,
+        baked beans, spam, spam, spam and spam; or lobster thermidor
+        aux crevettes with a mornay sauce garnished with truffle
+        pate', brandy and a fried egg on top of spam."  Meanwhile, in
+        the background, a group of Vikings in the sketch randomly sing
+        the "spam" song (you *really* have to have seen the sketch to
+        understand).
+
+        Well, when an unsolicited advertisement is sent to a Usenet
+        newsgroup or LISTSERV list, a great many clueless people send
+        their angry replies not to the sender of the advertisement but
+        rather to the newsgroup or list on which the advertisement was
+        originally posted. The real conversation on the newsgroup or
+        list (the "food") is soon smothered by the discussion, and
+        complaints about, the unsolicited advertisement (the "spam").
+
+     Q: The child porn spam says that the letter was sent to me
+        because my "e-mail address was on a list that fit this
+        category."  How did I get on such a list?
+
+     A: You didn't.  Folks, I hate to break this to you, but the
+        spammer lied.  If you received the child porn spam, the only
+        category that you fit in is that you have an e-mail address.
+        The reason that the spammer said that you fit into a
+        particular "category" was to keep you interested in reading
+        the rest of his spam.
+
+     Q: How do spammers get my e-mail address?
+
+     A: I honestly don't know.  I do know, however, that there are
+        hundreds of files of e-mail addresses that can be found all
+        over the Internet.  One TOURBUS reader found a Web page full
+        of e-mail addresses here at the University of Alabama, and
+        Mark Trevino found a 92 Kb file at NCSA that has nothing but
+        e-mail addresses.  In short, e-mail addresses are all over the
+        place.
+
+     Q: How can I keep my e-mail address private?
+
+     A: Outside of never using it, you can't.  There are a couple of
+        tricks, however, that will help you keep your e-mail address a
+        little less public:
+
+             1. "Conceal" your e-mail address on every LISTSERV list
+                that you are subscribed to.  This prevents people from
+                reviewing the list and finding your e-mail address [by
+                the way, you don't have to do this if you are
+                subscribed to any of the LISTSERV lists that I own --
+                my lists are set up so that the only person who can
+                see your subscription address is me].  To conceal your
+                address, just send an e-mail letter to
+
+                   LISTSERV@LISTS.INTERNIC.NET
+
+                with the command
+
+                   SET listname CONCEAL
+
+                in the body of your e-mail letter, replacing
+                "listname" with the name of the list to which you are
+                subscribed.
+
+             2. Your Web browser may be telling the owners of the Web
+                sites that you visit more about you than you may know.
+                Thanks to something called "cookies" (which we won't
+                talk about today) the Web sites that you visit may be
+                able to find out what type of computer you are using,
+                what your name is, and even what your e-mail address
+                is.
+
+                You can, however, "hide" your real address from prying
+                Web sites by telling your Web browser that your e-mail
+                address is something like "noname@good.bye.bye."
+                [Please use a *fake* e-mail address.  You make think
+                that changing your e-mail address in your browser to
+                president@whitehouse.gov is funny, but the Secret
+                Service will probably disagree.] This won't work if
+                you use your Web browser to read your e-mail, though.
+
+                Here's how to locate the address and names field that
+                you need to change (remember, if you use your browser
+                to read your e-mail, please do not do this):
+
+                   Netscape Navigator 1
+
+                      Options --> Preferences --> Mail and News
+
+                   Netscape Navigator 2
+
+                      Options --> Mail and News Preferences -->
+                      Identity
+
+                   Netscape Navigator 3
+
+                      Options --> Mail & News Preferences --> Identity
+
+                   Microsoft Internet Explorer 2
+
+                      Edit --> Options ... --> Mail  News
+
+                   Microsoft Internet Explorer 3
+
+                      Brother Bill has yet to release a Mac version of
+                      IE 3, so I'm not really sure where the name and
+                      address fields are located in this version :(
+
+     Q: What should I do if I get spammed?
+
+     A: Your best bet is to delete the spam and go on with your life.
+        If you don't want to choose this route, however, you have a
+        few options [taken from my Roadmap workshop]:
+
+        First, NEVER reply to the group.  The spammer won't read it.
+        He is interested in talking, not listening, and he is not a
+        list member or a regular reader.  Your angry posting will only
+        annoy the other members of the group and will not affect the
+        spammer in the slightest.
+
+        Second, if you have a lot of time on your hands, you may read
+        the responses of members who ignored my first bit of advice.
+
+        Third, if you have even more time on your hands, reply to the
+        poster at his own e-mail address.  But you may not get
+        satisfaction.  Quite often spammers hit and run, and by the
+        time you get back to yell at them, they have closed out their
+        accounts (or if their site administrator is on her toes, they
+        will have had their accounts closed by the administrator).
+
+        Fourth, if you are even angrier at the spammer, you can write
+        to the administrator of his site.  If the spammer is
+        CLOWN@CIRCUS.COM, his administrator is POSTMASTER@CIRCUS.COM
+
+     Q: Who should I contact if I receive a spam that contains
+        "illegal" stuff (like the child porn spam)?
+
+     A: Your best bet is to contact your own site's postmaster or
+        network security administrator and let them handle it.  Most
+        companies, schools, and large Internet Service Providers have
+        full-time security experts whose job is to work closely with
+        law enforcement agencies on matters of network safety and
+        security.
+
+        You may decide to contact an appropriate law enforcement
+        agency.  One word of warning though: if you receive an illegal
+        spam at work, make sure to contact your employer's network
+        security administrator *BEFORE* you contact any law
+        enforcement officials!  Network security people tend to get a
+        little upset if you go behind their backs and contact the
+        police, and your little act of good net citizenship may get
+        you a reprimand in your personnel file.
+
+        If you do decide to contact a law enforcement agency, which
+        one should you contact?  It depends on where you live, and
+        where the spam is from.  If you live in the United States and
+        you are sure that the illegal spam crossed state lines,
+        contact the FBI (your local FBI office's number can be found
+        in the phone book).  Otherwise, contact your local police
+        department and ask for an officer knowledgeable about
+        "computer crimes."
+
+        One word of warning, though: don't expect your local police
+        department or local FBI office to know *ANYTHING* about the
+        Internet or computers.  As a matter of fact, when I turned in
+        the child porn spammer to the Tuscaloosa FBI office, they had
+        me *fax* a copy of the spammer's e-mail letter to them.  :)
+
+That's it for this week!  Remember, if you get spammed, you best bet is to
+just delete it and go on with your life!  :)
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+MODEM (phrase) - to increase in quantity.
+
+Usage:  "I'm gonna git me modem moon pies!"
+(Hint: 'modem' is the way Southerners say "more of them")
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

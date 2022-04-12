@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Dykking i Norge / Diving in Norway</TITLE>
+   <META NAME="AUTHOR" CONTENT="Einar Sverdrup">
+   <META NAME="KEYWORDS" CONTENT="dykking, scuba, diving, scuba diving,Norge, Norway, dykkesteder, diving destinations, dykkelinker, scuba links, dykkeskader, dykkemedisin, diving medicine, regler for dykking, rules, dykkeklubber, scuba clubs, dykkesentre, scuba centers, programvare for dykking, scuba software">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+// the string that should scroll
+var scrlStr = "Velkommen til 'Dykking i Norge'. . . din internett-kontakt for informasjon om dykking i Norge. . .Kontakt oss på email:  dykkernett@norwaymail.com. . . ."
+
+// the width of the scrolling area
+var width = 120;
+
+var strLen = scrlStr.length;
+var pos = 1 - width;                // start far enough to the left for only
+                                    // one letter to be showing
+
+function scroll(){
+    var scroll = "";                // initialize the string to be printed
+    pos++;                          // move to the right in the string
+    if (pos == strLen)              // start over if the string is done
+        pos = 1 - width;            // scrolling
+
+    if (pos<0) {                    // add spaces to beginning if necessary
+        for (var i=1; i<=Math.abs(pos); i++)
+            scroll = scroll + " ";  
+       scroll = scroll + scrlStr.substring(0, width - i + 1);
+    }
+    else
+        scroll = scroll + scrlStr.substring(pos, pos + width);
+
+    window.status = scroll;         // print the string
+    setTimeout("scroll()",100);     // recurse after 1/10 of a second
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY TEXT="#FFFF00" BGCOLOR="#0000FF" LINK="#FFFFFF" VLINK="#33FFCC" ALINK="#FF0000" BACKGROUND="GRAFIKK/BACKGROU.JPG" tppabs="http://web.sol.no/sportweb/scuba/grafikk/backgrou.jpg" ONLOAD="scroll(); return true">
+
+<P><!-- JavaScript --></P>
+
+<CENTER><TABLE CELLSPACING=0 CELLPADDING=0 WIDTH="100%" >
+<TR>
+<TD><A HREF="DIVE.HTM" tppabs="http://web.sol.no/sportweb/scuba/dive.htm"><IMG SRC="GRAFIKK/GBFLAG.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/gbflag.gif" BORDER=0 HEIGHT=40 WIDTH=60></A><B><FONT COLOR="#80FFFF"><FONT SIZE=+1>
+<BR>
+U.K version</FONT></FONT></B></TD>
+
+<TD>
+<CENTER><P><IMG SRC="GRAFIKK/INTROTXT.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/introtxt.gif" HEIGHT=120 WIDTH=400></P></CENTER>
+</TD>
+
+<TD>
+<CENTER><P><A HREF="news:sol.sport.dykking"><IMG SRC="GRAFIKK/NEWSGP.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/newsgp.gif" ALT="News Group" HEIGHT=93 WIDTH=80></A></P></CENTER>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<P><BR>
+<A HREF="NEWS.HTM" tppabs="http://web.sol.no/sportweb/scuba/news.htm"><IMG SRC="GRAFIKK/NYTT.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/nytt.gif" BORDER=0 HEIGHT=25 WIDTH=50></A><B><TT><FONT COLOR="#FF0000"><FONT SIZE=+1>
+DYKKEULYKKE VED&nbsp;&Aring;LESUND&nbsp;(fra NTB 18.02.97)</FONT></FONT></TT></B>
+<HR WIDTH="100%"></P>
+
+<CENTER><TABLE WIDTH="100%" >
+<TR>
+<TD VALIGN=TOP WIDTH="100"><A HREF="mailto:dykkernett@norwaymail.com"><IMG SRC="GRAFIKK/LOGONO.JPG" tppabs="http://web.sol.no/sportweb/scuba/grafikk/logono.jpg" HEIGHT=99 WIDTH=99></A><A HREF="mailto:dykkernett@norwaymail.com"><IMG SRC="GRAFIKK/BGBLUE1.JPG" tppabs="http://web.sol.no/sportweb/scuba/grafikk/bgblue1.jpg" BORDER=0 HEIGHT=300 WIDTH=100></A></TD>
+
+<TD VALIGN=TOP>
+<CENTER><P><B><FONT COLOR="#FFFF80"><FONT SIZE=+3>Velkommen til &quot;Dykking
+i Norge&quot;</FONT></FONT></B></P></CENTER>
+
+<CENTER><TABLE>
+<TR>
+<TD VALIGN=TOP><B><U><FONT COLOR="#FFFF00"><FONT SIZE=+1>Internett's st&oslash;rste
+samling av dykkerelaterte ressurser i Norge</FONT></FONT></U></B></TD>
+</TR>
+</TABLE></CENTER>
+
+<CENTER><P>
+<HR WIDTH="100%"></P></CENTER>
+
+<CENTER><TABLE WIDTH="100%" >
+<TR>
+<TD VALIGN=TOP>
+<DIV ALIGN=right><P><A HREF="FRAMESNO.HTM" tppabs="http://web.sol.no/sportweb/scuba/framesno.htm" TARGET="FRAME"><IMG SRC="GRAFIKK/ALT1.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/alt1.gif" ALT="Trykk her" HEIGHT=29 WIDTH=75></A></P></DIV>
+</TD>
+
+<TD VALIGN=TOP>
+<UL>
+<P><B><I><FONT SIZE=+1><FONT COLOR="#FF0000">...hvis du &oslash;nsker &aring;
+f&aring; maksimalt ut av sidene (m/ Frames)<BR>
+</FONT><FONT COLOR="#00FF00">Denne versjonen er optimalisert for Netscape
+2.x eller bedre.</FONT></FONT></I></B></P>
+</UL>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<HR WIDTH="100%"></TD>
+
+<TD>
+<HR WIDTH="100%"></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<DIV ALIGN=right><P><A HREF="DYKKFR~1.HTM" tppabs="http://web.sol.no/sportweb/scuba/dykkfront.htm"><IMG SRC="GRAFIKK/ALT2.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/alt2.gif" ALT="Trykk her" HEIGHT=29 WIDTH=75></A></P></DIV>
+</TD>
+
+<TD>
+<UL>
+<P><B><I><FONT COLOR="#FF0000"><FONT SIZE=+1>...hvis du vil ha full informasjon,
+men se sidene uten Frames</FONT></FONT></I></B></P>
+</UL>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<P>
+<HR WIDTH="100%"></P>
+</TD>
+
+<TD VALIGN=TOP NOWRAP WIDTH="100">
+<CENTER><TABLE>
+<TR>
+<TD VALIGN=TOP>
+<CENTER><P><A HREF="../../../tppmsgs/msgs0.htm#24" tppabs="http://www.sol.no/sportweb/"><IMG SRC="GRAFIKK/INT5.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/int5.gif" BORDER=0 HEIGHT=70 WIDTH=100></A></P></CENTER>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<CENTER><P><A HREF="mailto:aquarius@online.no"><IMG SRC="GRAFIKK/AQUAF.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/aquaf.gif" HEIGHT=100 WIDTH=100></A></P></CENTER>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<CENTER><P><A HREF="../../../tppmsgs/msgs0.htm#25" tppabs="http://www.giantstride.com/"><IMG SRC="GRAFIKK/ANILOGG.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/anilogg.gif" BORDER=0 HEIGHT=66 WIDTH=66></A></P></CENTER>
+</TD>
+</TR>
+
+<TR>
+<TD><A HREF="../../../tppmsgs/msgs0.htm#26" tppabs="http://www.askernett.no/integra/"><IMG SRC="GRAFIKK/INTWEB.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/intweb.gif" BORDER=0 HEIGHT=60 WIDTH=120></A></TD>
+</TR>
+</TABLE></CENTER>
+</TD>
+</TR>
+
+<TR>
+<TD><A HREF="mailto:dykkernett@norwaymail.com"><IMG SRC="GRAFIKK/EMAIL1.GIF" tppabs="http://web.sol.no/sportweb/scuba/grafikk/email1.gif" ALT="E-mail webmaster" HEIGHT=26 WIDTH=89></A></TD>
+
+<TD>
+<CENTER><P><B><FONT SIZE=+1>&quot;Dykking i Norge&quot; er n&oslash;ytral
+i forhold til ulike interessegrupper.<BR>
+<BR>
+</FONT><FONT COLOR="#00FF00">Alle sider er optimalisert for skjerm med
+oppl&oslash;sning lik 1024x768 piksler.</FONT></B></P></CENTER>
+
+<CENTER><P><BR>
+<B><FONT COLOR="#FF0000"><FONT SIZE=+0>&copy; Hvis du kopierer eller gjengir
+stoff fra disse sidene, s&aring; vennligst henvis til &quot;Dykking i Norge&quot;</FONT></FONT></B></P></CENTER>
+</TD>
+
+<TD><B><FONT COLOR="#FF0000">Webmaster : <BR>
+</FONT></B>E. Sverdrup 
+<P>Oppdateres ukentlig</P>
+</TD>
+</TR>
+</TABLE></CENTER>
+
+<P><IMG SRC="../../CGI-BIN/TELLER/FTP-IN~1.XBM" tppabs="http://web.sol.no/cgi-bin/teller/ftp-integra.xbm" > </P>
+
+</BODY>
+</HTML>

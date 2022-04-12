@@ -1,0 +1,80 @@
+<html>
+<head>
+   <title>html</title>
+   <meta name="Author" content="Eric Tilton">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF"
+      alink="#FF00FF" vlink="#FF0000">
+
+<div align=right>
+ <p><a href="INDEX~1.HTM" tppabs="http://www.cs.cmu.edu/~tilt/index.html">
+    <img src="CENTER.GIF" tppabs="http://www.cs.cmu.edu/~tilt/center.gif" alt="[Center]" border=0 height=60 width=62></a>
+    <img src="HTML.GIF" tppabs="http://www.cs.cmu.edu/~tilt/html.gif" alt=".html" border=0 height=55 width=207>
+ </p>
+</div>
+
+<p>I've had a bit of a love/hate relationship with that dark god,
+HTML, ever since 1993. Early that spring, I'd been turned on to
+HyperCard, that crazy Macintosh app that first started to put the fear
+of hypertext on the common man's mind. I was a bit of a
+Johnny-come-lately -- HyperCard had been out at least since 1987, and
+was starting to show itself as a bit long in the tooth even
+then. Still, I was entranced. I went out and bought a copy of
+<cite>Computer Lib/Dream Machines</cite>; I read Vannevar Bush's
+<cite>As We May Think</cite>. Hell, I even re-read some of my old
+<cite>Choose Your Own Adventure</cite> books, and deconstructed some
+innocent bystanders.</p>
+
+<p>That summer, some friends and I took a hike over to the Oregon State
+Library, where the then-guru-in-residence showed us this crazy hot new
+app from the folks at NCSA ... a little thing called Mosaic. <i>Wow!</i>
+My mind started to whirl with the possibilities. Unfortunately, us poor
+folks at Willamette didn't exactly have an X-term hanging about, and NCSA
+hadn't yet ported Mosaic to any platforms of interest. Mosaic puttered
+back down to the bottom of my head while I played with other toys.</p>
+
+<p>By fall, Willamette had a new toy -- a new X-term named
+&quot;twinkie.&quot; Mosaic bubbled back up, and I went in search of
+information on how to use this cool new medium. It wasn't as hard as I
+thought -- I found the NCSA <a
+href="../../../Internet/HTMLPrim.htm" tppabs="http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html">Beginner's
+Guide to HTML</a>, and within an hour, I'd gotten up to speed. Those
+first efforts are, in retrospect, pretty darn amusing -- I've come a
+long way since then. But I was grateful for such a great primer, and
+impressed that it was well done enough that I could get going so
+quickly. (As an aside, many of those first efforts are still around,
+although quite a few them will finally die an honorable death with
+this long overdue reworking of my corpus.)</p>
+
+<p>However, as I continued to learn more about HTML I realized that,
+as with any language, there are good ways to use HTML and there are
+bad ways.  In January of 1994 I started to make a list of the bad
+idioms and simple mistakes I was seeing both in my work and in the
+work of others. My intention was to create a &quot;lint&quot; program,
+but what I ended up creating was
+<a href="../../tppmsgs/msgs0.htm#62" tppabs="http://www.cs.cmu.edu/~tilt/cgh/">Composing Good HTML</a>.  A
+longer history of that document can be found in CGH itself. However,
+one notable further development which CGH led to was the writing of a
+book: <cite><a href="../../tppmsgs/msgs4.htm#425" tppabs="http://www.aw.com/devpress/titles/48959.html">Web
+Weaving</a></cite>.</p>
+
+<p>All in all, I've spent a fair amount of time mucking about with HTML
+since then, and -- all in all -- it's been a hell of a ride. In three years,
+I've watched the explosion of a totally new medium for publishing bereft
+of all former ties to physical creation and distribution problems. The
+global press is something even more new and exciting than it was when Johannes
+Gutenberg changed the world in the 15th century.</p>
+
+<hr>
+
+<div align=right>
+ <p> <img src="PINEAL~1.GIF" tppabs="http://www.cs.cmu.edu/~tilt/pineal-small.gif" alt="[Optimized for PinealWeb]"
+           border=0 height=44 width=150 align=left></p>
+
+ <p> Last Modified: June 1, 1996 
+ <br>Eric Tilton &lt;tilt+@cs.cmu.edu&gt;</p>
+</div>
+
+</body>
+</html>

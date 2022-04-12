@@ -1,0 +1,217 @@
+From crispen@campus.mci.netThu May  2 10:40:37 1996
+Date: Wed, 1 May 1996 22:21:15 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - MAY 2, 1996 - ROADMAP96!
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /     Be the first web-surfer on your block to own an  |//////|    |
+ | ultra-cool WorldVillage T-shirt. For more info visit |//////|    |
+ |        http://www.worldvillage.com/tshirt.htm        |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP      : ROADMAP96
+TODAY'S TOURBUS ADDRESSES : roadmap96@lists.internic.net
+                            http://www.campus.mci.net/roadmap
+                            http://rs.internic.net/roadmap
+
+I will admit that this has absolutely nothing to do with the Internet, but
+since when has that ever stopped me?  Anyway, if you are looking forward to
+the upcoming Olympics in Atlanta as much as I am, you will probably want to
+know that "Summon the Heroes," the official musical album of the centennial
+summer Olympic games in Atlanta, was released this past Tuesday (John
+Williams and the Boston Pops Orchestra, "Summon the Heroes," Sony Classical
+Music, SK 62592).
+
+Summon the Heroes contains mostly classical music -- Dimitri Shostakovich's
+theme for the 1980 Moscow Olympics, the first recording ever of Leonard
+Bernstein's Olympic Hymn (no, not the Olympic Hymn that they sing when they
+bring in the flag ... this is a DIFFERENT Olympic Hymn), Carl Orff's O
+Fortuna, etc. -- and the album can be found at most major record stores.
+Best of all, the first track on the album is John Williams' "Summon the
+Heroes," the official theme for the 1996 Atlanta Olympic games (Williams
+also composed the official theme for the 1984 Olympic games in Los Angeles,
+as well as the music for pretty much EVERY movie ever made (Jaws, ET, Close
+Encounters of the Third Kind, the Star Wars trilogy, the Indiana Jones
+trilogy, Schindler's List ...)).
+
+And, while we are talking about folks from the Boston area, it seems that
+your fearless Bus driver forgot to tell you something in last week's
+TOURBUS post (Car Talk): Tom and Ray Magliozzi are not only auto mechanics,
+they also have engineering degrees from MIT :)
+
+Finally, talking about degrees, I am happy to announce that -- weather and
+squirrels permitting -- I will receive my Bachelors degree in Economics in
+December!  Yay me!!
+
+Since I am going to be a poor college student for 8 more months, you can
+bet that there are going to be many more ramen noodle dinners in my future!
+Fortunately ...
+
+*----------------------*  THE NOODLES ARE COMING!  *---------------------*
+   The Flying Noodle has a cool collection of gourmet pastas and sauces
+  on-line. Mention The Tourbus and we'll take $5 off any order over $20.
+*---------------------( http://www.flyingnoodle.com )--------------------*
+
+Most of you know that in the Fall of 1994 I wrote a free, 27 lesson
+Internet training workshop called "Roadmap." Roadmap was pretty successful
+-- over 500,000 people participated in it!  Unfortunately, time has not
+been kind to Roadmap, and a number of the original workshop's lessons are
+now terribly out of date  (after all, a LOT has changed on the Internet
+over the past 18 months).
+
+IT'S BAAAAAACK!
+---------------
+
+Well, I am happy to announce that Roadmap is back. The workshop has been
+completely revised and updated, and starting on June 6, new Roadmap96
+workshop sessions will begin every two weeks!
+
+Roadmap96 is a FREE, 27 lesson Internet training workshop open to everyone.
+Best of all, like TOURBUS, the entire Roadmap workshop is conducted
+through e-mail!  The Roadmap96 workshop lessons are written for users who
+have accounts on systems with a command-line interface (like UNIX, VAX/VMS,
+or VM/CMS), but EVERYONE is welcome to participate! Roadmap96 will cover:
+E-mail; LISTSERVs, Majordomo, Listproc, and other e-mail distribution
+systems; Usenet; FTP; Archie; Gopher; Veronica; Address Searches; the Web;
+and many other topics.  Since a number of Roadmap96's participants only
+have e-mail access to the Internet, the Roadmap96 workshop lessons will
+also teach you how to access many of the Internet's tools (FTP, Archie,
+Gopher, etc.) through e-mail!
+
+ROADMAP HAS A HOME!
+-------------------
+
+Thanks to the kind folks at the Internet Network Information Center
+(InterNIC), Roadmap96 now has a permanent home ... and, as I said a moment
+ago, new Roadmap96 workshop sessions will start every two weeks (the first
+workshop starts June 6)!  All you have to do to participate in one of the
+free Roadmap96 workshop sessions is subscribe to the Roadmap96 e-mail
+distribution list!
+
+Once you are subscribed to Roadmap96, you will receive one lesson a day,
+via e-mail, for about six weeks.  Since the workshop is entirely
+self-paced, feel free to take as little or as much time as you want to
+complete the lessons.  In fact, almost all of the people who were in the
+original Roadmap workshop just printed out the lessons and then completed
+the lessons later :)
+
+Now, before I open the Roadmap96 LISTSERV list to the entire world, I need
+to ask the experienced Internet users on our little bus to do me a favor.
+I need to find a couple of people who are willing to help me "beta-test"
+the new workshop.  What is a beta-test?  Well, it is sort of a
+dress-rehearsal where you go through the workshop before everyone else does
+and make sure that the workshop "works" and does not contain any glaring
+errors.  Since I am prone to spelling errors, this is going to be a pretty
+big job! ;P
+
+So, if you are an experienced Internet user who is interested in getting a
+sneak-peek at, and being a beta-tester for, Roadmap96, all you have to do
+send an e-mail letter to
+
+     LISTSERV@LISTS.INTERNIC.NET
+
+with the command
+
+     SUBSCRIBE ROADMAP96 YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.  The beta-test begins on Thursday, May 23,
+so you need to send your e-mail letter in before Wednesday, May 22!
+
+Now, what if you do not want to be a beta-tester, and instead want to be
+just a participant in one of the official Roadmap96 workshop sessions?
+Simple.  Anytime AFTER Wednesday, May 22, just send an e-mail letter to
+
+     LISTSERV@LISTS.INTERNIC.NET
+
+with the command
+
+     SUBSCRIBE ROADMAP96 YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.  Remember, though, that you have to wait
+until AFTER May 22 to subscribe to Roadmap96!  If you subscribe before May
+22, you will be put on the beta-tester's distribution list (and you do not
+want to do that, do you?) :)
+
+Starting on Thursday, June 6, you will also be able to view all of the
+Roadmap96 workshop lessons on the Web at either
+
+     http://www.campus.mci.net/roadmap/
+
+or
+
+     http://rs.internic.net/roadmap
+
+Neither of these addresses work right now (I am still html-ifying the new
+lessons), but they will be up and running on June 6!
+
+And, as always, Roadmap is free, so you are more than welcome to take the
+Roadmap96 lessons (both the ASCII and HTML versions) and redistribute them
+or rewrite them to meet your particular needs.  Just remember my three
+rules:
+
+     1. I cannot make any money off of Roadmap96, so neither can you,
+
+     2. Give credit where credit is due, and
+
+     3. If you redistribute the lessons, make sure that the people that
+        you redistribute the lessons to know that the lessons were
+        redistributed by you, not me.
+
+Finally, I want to remind you: if you want to be a beta-tester for
+Roadmap96, subscribe today!  If you want to be a participant in one of the
+official Roadmap96 lessons, send your subscription letter in anytime after
+Wednesday, May 22!
+
+Have a safe and happy weekend!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+HERBAL (pronouncing the 'h') -  Adjective. Terrible, awful.
+Usage: "He's got hisself into one herbal mess."
+(Special thanks goes to Barry McQuade for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*----------------*  BIG-TIME MAGAZINES FOR $10 A YEAR?  *----------------*
+   Take a ride to Magazine Express for exclusive TOURBUS discounts, and
+  get Dr. Bob's new "Internet Goodies" for FREE.  For details, e-mail to
+*-----------------------( tourbus@magazines.com )------------------------*
+
+*-----------------------*  FREE TRIAL PERIOD!  *-------------------------*
+ E-Mail to FAX...  Anywhere in the World !!   Best Rates & Many Features!
+ Fax Broadcasting!  Fax Wordprocessing and Graphic documents by E-Mail...
+*-----------( http://www.entrepreneurs.net/intersol/hasada.htm )---------*
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \  *NEW ADDRESS* crispen@campus.mci.net *NEW ADDRESS*
+    |-| '-' \    }      http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

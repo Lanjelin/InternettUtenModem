@@ -1,0 +1,204 @@
+
+From bobrankin@mhv.net Fri Sep 27 02:53:58 1996
+Date: Fri, 27 Sep 1996 01:54:16 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 26 SEPTEMBER 1996 - SEIDMAN'S ONLINE INSIDER
+
+Just to confuse things even further, this is Bob posting Patrick's
+September 26 TOURBUS message...  :-)
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |  The Believer's Weekly mailing list from WorldVillage |//////|    |
+ |   takes you on a tour of online spiritual resources.  |//////|    |
+ |   To join, send e-mail to majordomo@worldvillage.com  |//////|    |
+ |      with SUBSCRIBE BELIEVER in the message body.     |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+
+TODAY'S TOURBUS STOPS     : SEIDMAN'S ONLINE INSIDER
+TODAY'S TOURBUS ADDRESSES : roadmap96@lists.internic.net
+                            http://ua1vm.ua.edu/~crispen/roadmap.html
+                            http://www.campus.mci.net/roadmap96/
+                            online-l@peach.ease.lsoft.com
+                            http://techweb.cmp.com/net/online/current/
+                              columns/seidman/online_insider
+                            http://www.clark.net/pub/robert/back.html
+                            http://www.cnet.com/Content/Voices/
+                              Seidman/index.html
+
+This week's "mega blunder" award goes to my partner in crime, Dr. Bob
+Rankin, who accidentally sent every one of you a letter asking you for your
+old e-mail address.  It seems that dear Dr. Bob received a letter from one
+of our many TOURBUS riders asking him to update the rider's subscription
+address, and, without thinking, Dr. Bob accidentally sent a "what is your
+old e-mail address" letter to the *entire* TOURBUS list.
+
+What makes this even more humorous is that over 2000 of you have been kind
+enough to send Dr. Bob letters telling him what your old e-mail addresses
+were.  Needless to say, Dr. Bob wanted me to express his gratitude to
+everyone, and to remind everyone that you really do NOT have to send Dr.
+Bob your old e-mail address.  As a matter of fact, I get a sinking feeling
+that if Dr. Bob receives another "old address" letter, he is going to pelt
+his computer with pasta.
+
+Speaking of the many uses of noodles [gee, my segues are getting worse,
+aren't they?], I am pleased to present the folks who are making this week's
+edition of our little bus of Internet happiness possible:
+
+
+*---------------------( THE NOODLES ARE COMING!! )-------------------*
+The Flying Noodle has a cool collection of gourmet pastas and sauces.
+Mention The Tourbus and we'll take $5 off your first order over $20.
+*--------------------( http://www.flyingnoodle.com )-----------------*
+
+
+ROADMAP96
+---------
+
+Before we get to today's TOURBUS stop,  I need to engage in a quick bit of
+shameless self-promotion.  Everyone on the bus should know by now that I
+recently wrote a completely *FREE*, 27 lesson Internet training workshop
+called "Roadmap96."  Roadmap96 teaches you how to use the Net, covering
+topics ranging from E-mail to Gopher to FTP.  What you may not know is that
+thanks to the kind folks at the Internet Network Information Center (the
+InterNIC), Roadmap96 is now an on-going project ... and new workshop
+sessions start every two weeks!
+
+If you know ANYONE who may be interested in participating in the next
+Roadmap96 workshop session, just have them send an e-mail letter to
+
+     LISTSERV@LISTS.INTERNIC.NET
+
+with the command
+
+     SUBSCRIBE ROADMAP96 YOURFIRSTNAME YOURLASTNAME
+
+in the body of their e-mail letter, replacing YOURFIRSTNAME and
+YOURLASTNAME with their first and last names.  That's it!  :)
+
+I am really excited that Roadmap96 is an on-going project, and any help
+that you can give me to promote this workshop would be gratefully
+appreciated.  Oh, by the way, you might also want to tell your friends that
+they can find HTML-ified versions of the 27 Roadmap96 lessons at
+
+     http://ua1vm.ua.edu/~crispen/roadmap.html
+
+          or
+
+     http://www.campus.mci.net/roadmap96/
+
+
+SEIDMAN'S ONLINE INSIDER
+-------------------------
+
+As much as members of the Internet community like to downplay the influence
+of the Commercial Online Services, the Internet community does so at its
+own peril.  As can be witnessed by the *THOUSANDS* of TOURBUS riders whose
+only access to the Net is though AOL, CompuServe, or Prodigy, the
+Commercial Online Services continue to exert a profound influence on the
+state of the Net.
+
+Unfortunately, for people like me whose access to the Net is through an
+Internet Service Provider and not through a Commercial Online Service,
+finding the latest, inside information from the Commercial Online Service
+industry can be a tad bit difficult.
+
+Fortunately, Robert Seidman, an "editor at large" for NetGuide magazine,
+writes a free, weekly e-mail newsletter called "Seidman's Online Insider."
+The Online Insider is "a weekly summary of events in the Consumer Online
+Services Industry."  This means that Seidman focuses on the commercial
+online services like AOL, CompuServe, and Prodigy [and I just want to say
+that I really miss e-world ... *sniff*] as well as the Microsoft v.
+Netscape and AT&T v. MCI wars.
+
+What makes Seidman's Online Insider so superb is that Seidman really does
+give you *inside* information.  It is not unusual for Seidman to call up
+the Chief Executive Officer of AOL, C|NET, Netscape, etc. to find out what
+is *really* going on.  It is because of Seidman's incredible reporting
+style that pretty much everyone who is anyone on the Internet reads his
+Online Insider articles each week [Seidman also mentioned our little bus of
+Internet happiness in his April 26, 1996, post, so he must be a pretty
+smart dude as well].
+
+To join the ranks of the folks who read Seidman every week (including Dr.
+Bob and me) just send an e-mail letter to
+
+     LISTSERV@PEACH.EASE.LSOFT.COM
+
+with the command
+
+     SUBSCRIBE ONLINE-L YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.
+
+If you have Web access, you can also find Seidman's Online Insider on the
+Web at [deep inhale]
+
+     http://techweb.cmp.com/net/online/current/columns/
+     seidman/online_insider  (put that all on one line)
+
+[exhale].  The neat think about this Web page is that it has links to both
+Siedman's current and previous articles, although the previous articles
+only go back to July 19, 1996.  If you want to see some of Seidman's
+*really* old articles, point your Web browser to
+
+     http://www.clark.net/pub/robert/back.html
+
+Mr. Seidman has also written some articles for our friends at C|Net, and
+those articles can be found at
+
+     http://www.cnet.com/Content/Voices/Seidman/index.html
+
+Even if you do not subscribe to Seidman's Online Insider, I really
+recommend that you check out some of Seidman's articles at C|Net
+(especially his article "kicking and screaming into the information age").
+
+That's about it for this week.  Your fearless bus driver is heading to the
+Great White North next week -- I have to speak at a conference in Toronto
+-- but I promise to send you another TOURBUS post before I trek into the
+frozen tundra of Canada.  After all, what is a week without your weekly
+Southern Word?
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+BAGEL - adjective. Quite Large.
+
+USAGE: "That's a bagel bowl of grits you got there."
+
+(Special thanks goes to Lisa Ward for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

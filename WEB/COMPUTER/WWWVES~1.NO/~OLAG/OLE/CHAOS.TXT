@@ -1,0 +1,35 @@
+****************************************************************************
+****************************** C H A O S ***********************************
+****************************** for Doom 2 **********************************
+******************************* made by ************************************
+***************************** The HEADACHE *********************************
+**************************** Ole Hartvigsen ********************************
+****************************************************************************
+****************************** WAD info ************************************
+****************************************************************************
+Map #			: 1
+Single player		: YES!!!!
+Cooperative		: Yes
+Deathmatch		: Yes, but I don't think it's funny
+New graphics		: No...
+New sounds		: No
+New monsters		: NO!
+Difficult settings	: Only Ultra-Violence (I don't wanna waste my time)
+****************************************************************************
+***************************** Build info ***********************************
+****************************************************************************
+Editor used		: EdMap v.1.31
+Build time		: 10-12 hours(It's only my fourth WAD, and I also had
+			  some bug-problems)
+Bugs			: I really don't hope so. Mail me if you find some.
+****************************************************************************
+Chaos.wad is the fourth wad I have ever made. I think it's the best too. 
+I have made it as tough as I can manage myself. I hope it's tough enough for
+you! (Hey, I'm not an amateur!! I have finished both Ultimate Doom and Doom2
+on UV)
+
+The HEADACHE, alias Ole Hartvigsen
+E-mail: sg-3data@online.no
+Doom page: http://www.vestdata.no/~olag/ole/doom2.htm
+Homepage: http://www.vestdata.no/~olag/ole/
+			  

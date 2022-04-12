@@ -1,0 +1,164 @@
+From crispen@campus.mci.netFri Apr 12 00:55:48 1996
+Date: Wed, 10 Apr 1996 20:33:08 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 11 APRIL - METACRAWLER (BORK! BORK! BORK!)
+
+    /~~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~~\
+   |      "Why | Surf When / You Can | Ride The | Bus?"    /    |   \
+   |___________|__________/__________|__________|_________/     |    \
+  /                                                      /______|-----\
+ /  Get the latest software reviews, interviews, live    |//////|     |
+ | chat, online gaming & more! Subscribe to WorldVillage |//////|     |
+ |  Citizens, a great weekly mailing list. For info, see |//////|     |
+ |       http://www.worldvillage.com/wv/join.htm         |//////|     |
+ |                                                       |//////|     |
+ ~~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~~~
+     \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP      : METACRAWLER (BORK! BORK! BORK!)
+TODAY'S TOURBUS ADDRESSES : http://www.aclu.org/court/cdacom2.html
+                            infobot@infomania.com
+                            http://astro.queensu.ca/~dursi/borker.html
+                            http://metacrawler.cs.washington.edu:8080/index.html
+
+First, to those who were offended by my "mad cow" joke last week, I offer
+my deepest apologies.  Second, to those of you who have been having
+problems getting into epic.org to download the text of "ACLU, et al., v.
+Reno" (the lawsuit filed by the ACLU to stop the U.S. Government's
+enforcement of the recently adopted Communications Decency Act), you might
+have better luck at the following alternate site:
+
+     http://www.aclu.org/court/cdacom2.html
+
+This is the ACLU's official Web version of their lawsuit, and this page is
+pretty big (about 110K).  As I said back on March 21, though, the "Nature
+of the Online Medium" section of the ACLU's lawsuit is most clear, concise,
+and user-friendly demystification of the Net that I have ever seen.
+
+Finally, thanks to the kind help several alert passengers at the back of
+the bus, I have once again found the address for the "English to Muppet
+Show Swedish Chef Translator" (a.k.a. the "text borkifier").  You can have
+the text of any e-mail letter "borkified" by e-mailing it to
+
+     infobot@infomania.com
+
+with the word CHEF as the subject line of your letter.  You can also find a
+borkifier on the Web at
+
+     http://astro.queensu.ca/~dursi/borker.html
+
+And, before I get mail bombed by a whole bunch of angry Swedes, let me just
+add that anyone who has ever been to Sweden can tell you that people in
+Sweden do NOT speak like the Swedish Chef ...
+
+... now, people from Norway, on the other hand ...
+
+*----------------------(  MEMORY PRICES SLASHED!  )----------------------*
+      Add more Memory to your Laptop or PC and Do Everything Faster!
+    It's easy to add memory and dramatically boost system performance.
+  Because you asked for it -- CLC RESEARCH has just cut prices by 15-20%
+      Money Back Guarantee and Special Discounts for TOURBUS Riders
+*--------------(  Visit us at http://www.CLCR.com/memory  )--------------*
+
+Do you know what my dream Web search engine would be?  No, it wouldn't be
+Alta Vista (just between you and me, I absolutely *hate* Alta Vista).  My
+dream Web search engine would be one that sent my search query to ALL of
+the Web's biggest search engines: Open Text, Lycos, WebCrawler, InfoSeek,
+Excite, Inktomi, Alta Vista, Galaxy and Yahoo.  Better still, my dream Web
+search engine would take my query, send it to all eight of these databases,
+and then collate the results and throw away all of the redundant URLs (the
+same URLs repeated in different databases).
+
+Guess what, folks.  Such a search engine exists.  It was created by Erik
+Selberg and Oren Etzioni at the University of Washington, it is called
+"MetaCrawler," and it is completely FREE!
+
+You can find MetaCrawler on the Web at
+
+     http://metacrawler.cs.washington.edu:8080/index.html
+
+Because MetaCrawler is forms-based, you'll need a forms-capable web browser
+like Netscape, Mosaic, or Internet Explorer to use MetaCrawler.  However,
+once you get to the MetaCrawler Web page, you'll discover that MetaCrawler
+works like any other search engine on the Web.  You type one or more
+keywords in a box on your screen, and then click on the search button.  The
+search engine finds all of the Web pages around the world that have your
+keyword(s) in them (the "hits"), and then displays the hits on your screen.
+You then access the hits that interest you by clicking on their
+hyperlinks.
+
+While MetaCrawler may look like other search engines, it is actually quite
+different.  For example, MetaCrawler searches take a little longer than
+searches through other search engine, but that is because MetaCrawler sends
+your query to eight different search engines!  My personal experience with
+MetaCrawler is that a basic ("all these words") search takes about a
+minute.  But, MetaCrawler's results are well worth the extra time!
+
+When you do a search, MetaCrawler will display a screen showing you which
+search engines it has queried and how many "hits" it found on that search
+engine.  Be patient.  This process takes some time.  After all of the hits
+have been collected (which usually takes a minute), MetaCrawler collates
+the results.  MetaCrawler looks for duplicate links, throws them out, and
+then displays the results on your screen.
+
+If this isn't cool enough, MetaCrawler also has an option that will check
+all of the links that it finds to make sure that the links are both
+accessible and contain valid data.  Just do your search "as a phrase"
+instead of looking for "all of these words."  These "as a phrase" searches
+will take a little longer (about 3 minutes instead of 1), but if you are
+someone who is frustrated by "404" errors, you'll find that this expanded
+search option will significantly lower your blood pressure ... and increase
+the number of "valuable" hits that you can find.
+
+Now for the shocker: MetaCrawler doesn't have any commercials on it, and
+Erik and Oren have no plans to add any commercials in the near future.
+According to Erik and Oren, "MetaCrawler is primarily a research tool, and
+will continue to be such for the first few years."
+
+That's about it for today.  Oh, by the way, if you have sent in a Southern
+Word and did not receive a thank you from me, I apologize.  I have been
+swamped over the past couple of months and my recent problems with my Mac
+have turned my onramp onto the Information Superhighway into an onramp into
+the Information Supercollider.  Suffice it to say that I *do* thank each
+and every one of you for your "word" suggestions, and I have printed out or
+saved every suggestion that has been sent :)
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+RAISIN - Noun.  Motive or explanation.
+Usage: "There ain't no raisin to be actin' thatta way."
+(Special thanks goes to Jeryl Geary for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE
+SOUTHERN WORD HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*---------------------(  ELVIS IS ALIVE AND WELL!  )---------------------*
+  ELVIS the Mailbot, that is...  And he's talking about Magazine Express.
+   Find out what hundreds of TOURBUS riders already know--Your favorite
+  magazines are all dirt cheap at Magazine Express, and you get something
+ FREE just for talking to ELVIS!  For an automatic reply, send e-mail to:
+*----------------------(  tourbus@MAGAZINES.com  )-----------------------*
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \  *NEW ADDRESS* crispen@campus.mci.net *NEW ADDRESS*
+    |-| '-' \    }      http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

@@ -1,0 +1,75 @@
+<html><head><title>International Racing Site</title></head>
+<body onload="startclock()" bgcolor="#FFFFFF" text="#000000" link="#000080"
+vlink="#000080" alink="#000FFF">
+<Script language="JavaScript">
+
+
+
+<!--
+
+function ClearStatus() {
+
+  window.status="";
+
+  return true;
+
+}
+
+
+
+function ShowStatus(text) {
+
+   window.status=text;
+
+   return true;
+
+}
+
+//-->
+
+
+</Script>
+
+<script Language="JavaScript">
+
+<!-- Helpers for JSI page...
+// Navigation - Start
+function goback(){
+alert("Good Bye!");
+history.go(-1);
+}
+
+var timerID = null;
+var timerRunning = false;
+function stopclock (){
+        if(timerRunning)
+                clearTimeout(timerID);
+        timerRunning = false;
+}
+
+function startclock () {
+        // Make sure the clock is stopped
+        stopclock();
+        showtime();
+}
+
+function showtime () {
+        var now = new Date();
+        var hours = now.getHours();
+        var minutes = now.getMinutes();
+        var seconds = now.getSeconds()
+        var timeValue = "" + ((hours >24) ? hours -24 :hours)
+        timeValue += ((minutes < 10) ? ":0" : ":") + minutes
+        timeValue += ((seconds < 10) ? ":0" : ":") + seconds
+        document.clock.face.value = timeValue;
+        timerID = setTimeout("showtime()",1000);
+        timerRunning = true;
+}
+// end Helpers -->
+
+</script>
+
+<form name="clock" onSubmit="0">
+<input type="text" name="face" size=6 value="">
+
+</body></html>

@@ -1,0 +1,87 @@
+<head>
+<title>PGP Reference by Kurt Huwig</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h2>PGP Reference by Kurt Huwig</h2>
+Here a 'reference card' for PGP 2.6.x. I thought this was missing in the
+documentation. Also some of the features were missing in the documentation,
+such as '-km' that displays the "web of trust".<br>
+I think a lot of questions in alt.security.pgp could be 
+answered by this.<br><br>
+
+Kurt Huwig<br>
+&lt;khuwig@cs.uni-sb.de&gt;<br><br>
+
+<table>
+<caption><b>PGP Reference</b></caption>
+<tr valign=middle align=left><th>History:<td>v1.0<td><td>Oct 6th 1995
+<tr>
+<tr valign=middle align=left><th>Modifiers:<td>a:<td><td>ASCII armor file, create a radix-64 armored file with CRC
+<tr valign=middle align=left><td><td>b:<td><td>generate separate signature-file
+<tr valign=middle align=left><td><td>f:<td><td>filter mode, get data from stdin and put data to stdout
+<tr valign=middle align=left><td><td>i:<td><td>VMS only: same as 't'
+<tr valign=middle align=left><td><td>l:<td><td>verbose output, same as +VERBOSE=2
+<tr valign=middle align=left><td><td valign=top>m:<td><td>encrypt: 'for you eyes only'<br>decrypt: display file using 'more' and ask for save
+<tr valign=middle align=left><td><td>o:<td><td>specify outputfile '-o outputfile'
+<tr valign=middle align=left><td><td>p:<td><td>preserve filenames, restore original filename when encrypted with '-a'
+<tr valign=middle align=left><td><td>t:<td><td>use textmode for output
+<tr valign=middle align=left><td><td>u:<td><td>specify userid '-u userid'
+<tr valign=middle align=left><td><td>z:<td><td>specify a password '-z password' on the command line
+<tr valign=middle align=left>
+<tr valign=middle align=left><th>Commands:<td>?:<td><td>display help
+<tr valign=middle align=left><td><td>c:<td><td>conventional encryption, with IDEA
+<tr valign=middle align=left><td><td>d:<td><td>decrypt only, leaves signatures in the plaintext
+<tr valign=middle align=left><td><td>e:<td><td>encrypt file
+<tr valign=middle align=left><td><td>h:<td><td>display help
+<tr valign=middle align=left><td><td>k:<td><td>display help for key-commands
+<tr valign=middle align=left><td><td>ka:<td><td>add keyfile to ring
+<tr valign=middle align=left><td><td>kc:<td><td>key check, check signatures and backup rings
+<tr valign=middle align=left><td><td>kd:<td><td>disable/revoke key
+<tr valign=middle align=left><td><td>ke:<td><td>edit key
+<tr valign=middle align=left><td><td>kg:<td><td>generate a key
+<tr valign=middle align=left><td><td>km:<td><td>maitenance pass, display web-of-trust
+<tr valign=middle align=left><td><td>kr:<td><td>remove keys/signatures
+<tr valign=middle align=left><td><td>ks:<td><td>sign key
+<tr valign=middle align=left><td><td>kv:<td><td>display matching keys
+<tr valign=middle align=left><td><td>kvv:<td><td>display matching keys and their signatures
+<tr valign=middle align=left><td><td>kx:<td><td>extract key
+<tr valign=middle align=left><td><td>s:<td><td>sign file
+<tr valign=middle align=left><td><td valign=top>w:<td><td>wipe file<br> file is filled with 0 and then deleted works also as<br> a modifier when encrypting, then the plaintext file is deleted
+</table>
+<p>
+<table>
+<tr valign=middle align=left><th>Long options:<td>b:<td><td> accepts ON/OFF
+<tr valign=middle align=left><td><td>c:<td><td> command line only
+<tr valign=middle align=left><td><td>n:<td><td> accepts a number
+<tr valign=middle align=left><td><td>s:<td><td> accepts a string
+<tr valign=middle align=left>
+<tr valign=middle align=left><td><td>b<td><td> ARMOR:<td><td>same as '-a'
+<tr valign=middle align=left><td><td>n<td><td> ARMORLINES:<td><td>limit for files, splits files when longer 0=disable split
+<tr valign=middle align=left><td><td>s<td><td> BAKRING:<td><td>filename of keyring backup, used for '-kc'
+<tr valign=middle align=left><td><td>bc<td><td> BATCHMODE:<td><td>do not ask for anything
+<tr valign=middle align=left><td><td>n<td><td> CERT_DEPTH:<td><td>how deep introducers may be nested (0-8)
+<tr valign=middle align=left><td><td>s<td><td> CHARSET:<td><td>select character set
+<tr valign=middle align=left><td><td>b<td><td> CLEARSIG:<td><td>leave signed messages as clear text
+<tr valign=middle align=left><td><td>s<td><td> COMMENT:<td><td>add a comment to all pgp files
+<tr valign=middle align=left><td><td>n<td><td> COMPLETES_NEEDED:<td><td>number of completely trusted signatures to trust a new key (1-4)
+<tr valign=middle align=left><td><td>b<td><td> COMPRESS:<td><td>compress output file if possible
+<tr valign=middle align=left><td><td>b<td><td> ENCRYPTTOSELF:<td><td>allow decryption of encrypted file by yourself also
+<tr valign=middle align=left><td><td>bc<td><td> FORCE:<td><td>	force "Yes" as answer to all questions
+<tr valign=middle align=left><td><td>b<td><td> INTERACTIVE:<td><td>ask for configmation for key adds
+<tr valign=middle align=left><td><td>b<td><td> KEEPBINARY:<td><td>keep binary ciphertext files after decrypting
+<tr valign=middle align=left><td><td>s<td><td> LANGUAGE:<td><td>select language
+<tr valign=middle align=left><td><td>n<td><td> LEGAL_KLUDGE:<td><td>enable/disable compatibility to pgp-version before 2.6
+<tr valign=middle align=left><td><td>bc<td><td> MAKERANDOM:<td><td>generate new randseed-file
+<tr valign=middle align=left><td><td>n<td><td> MARGINALS_NEEDED:<td><td>number of marginally trusted signatures to trust a new key (1-...)
+<tr valign=middle align=left><td><td>s<td><td> MYNAME:<td><td>select default userid for signatures
+<tr valign=middle align=left><td><td>bc<td><td> NOMANUAL:<td><td>generate keys without the manual installed
+<tr valign=middle align=left><td><td>s<td><td> PAGER:<td><td>pager for plaintext displaying
+<tr valign=middle align=left><td><td>s<td><td> PUBRING:<td><td>specify public key ring
+<tr valign=middle align=left><td><td>s<td><td> RANDSEED:<td><td>filename for random number seed
+<tr valign=middle align=left><td><td>s<td><td> SECRING:<td><td>specify secret key ring
+<tr valign=middle align=left><td><td>b<td><td> SHOWPASS:<td><td>display password when entered
+<tr valign=middle align=left><td><td>b<td><td> TEXTMODE:<td><td>same as '-t'
+<tr valign=middle align=left><td><td>s<td><td> TMP:<td><td>specify directory for temporary files
+<tr valign=middle align=left><td><td>n<td><td> TZFIX:<td><td>adjust timezone
+<tr valign=middle align=left><td><td>n<td><td> VERBOSE:<td><td>verbose output (0=quiet, 1=not quiet, 2=verbose)
+</table>

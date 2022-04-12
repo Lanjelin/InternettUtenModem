@@ -1,0 +1,460 @@
+<HTML>
+
+<HEAD>
+<TITLE>genstande</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- begin hiding
+
+function element(objName, name, location, bitmap, row)
+{
+  this.objName = objName
+  this.open = false
+  this.name = name
+  this.location = location
+  this.bitmap = bitmap 
+  this.kid = null
+  this.nextPeer = null
+  this.addKid = addKid
+  this.addPeer = addPeer
+  this.draw = draw
+  this.row = row
+  this.toggle = toggle
+}
+
+
+
+function addPeer(item) {
+  if (this.nextPeer != null) {
+    this.nextPeer.addPeer(item)
+  }
+  else {
+    this.nextPeer = item
+  }
+}
+
+function addKid(item) {
+  if (this.kid != null) {
+    this.kid.addPeer(item)
+  }
+  else {
+    this.kid = item
+  }
+}
+
+
+function toggle() {
+
+   if (top.GenOutlineSetting.substring(this.row-1,this.row) == "0") {
+      this.open = false
+    } else {
+      this.open = true
+    }
+
+    if (this.kid != null) {
+      this.kid.toggle();
+    }
+
+    if (this.nextPeer != null) {
+      this.nextPeer.toggle();
+    }
+}
+
+
+
+function writestatus(n,OnOFF) {
+
+  var szString= top.GenOutlineSetting.substring(0,n) + OnOFF  + top.GenOutlineSetting.substring(n+1,top.GenOutlineSetting.length);
+  top.GenOutlineSetting=szString;
+
+}
+
+
+function open(item) {
+    item.open = true
+    writestatus(item.row-1,"1");
+}
+
+function close (item) {
+    item.open = false
+    writestatus(item.row-1,"0");
+}
+
+
+function draw() { 
+
+  if (this.kid == null) {
+    //print("\n<DT><IMG SRC='/kulturnet/img/bul.gif' HEIGHT=20 WIDTH=20>") 
+    print("\n<DT>") 
+    if (this.location != null) { 
+      print("<A HREF =" + this.location +" TARGET='main'>" + this.name + "</A>")
+    }
+    else {
+      print(this.name)
+    }
+    if (this.nextPeer != null) {
+      this.nextPeer.draw()
+    }    
+    else {
+      print("</DL>")
+      return
+    }
+  }
+  else {
+    if (this.open) {
+      // --------------------------------
+      // Close node
+      // --------------------------------  
+      print("\n<DT><A HREF='javascript:" + chk + "writestatus(" + this.row +"-1,0);redraw()}'>")
+      print("<IMG SRC='../img/minus.gif' HEIGHT=20 WIDTH=20 BORDER = 0 align=top>")
+      if (this.bitmap != null) {
+        print("<IMG SRC='" + this.bitmap + "'HEIGHT = 20 WIDTH = 20 BORDER = 0></A>")
+      }
+      else {
+        print("</A>")
+      }
+      if (this.location != null) {
+        print("<A HREF =" + this.location +" TARGET='Main'>" + this.name + "</A><DL>")
+      }
+      else {
+        print(this.name+"<DL>")
+      }
+      this.kid.draw()
+      if (this.nextPeer != null) {
+        this.nextPeer.draw()
+      }    
+      else {
+        print("</DL>")
+      }
+    }
+    else {
+      // --------------------------------
+      // Open node
+      // -------------------------------- 
+      print("\n<DT><A HREF='javascript:" + chk + "writestatus(" + this.row +"-1,1);redraw()}'>")
+      print("<IMG SRC='../img/plus.gif' HEIGHT=20 WIDTH=20 BORDER=0 align=top>")
+      if (this.bitmap != null) {
+        print("<IMG SRC='" + this.bitmap + "'HEIGHT = 20 WIDTH = 20 BORDER = 0></A>")
+      } 
+      else {
+        print("</A>")
+      }
+      if (this.location != null) {
+        print("<A HREF =" + this.location +" TARGET='Main'>" + this.name + "</A>")
+      }
+      else {
+        print(this.name)
+      }
+      if (this.nextPeer != null) {
+        this.nextPeer.draw()
+      }    
+      else {
+        print("</DL>")
+      }
+    }
+  }
+}
+    
+
+function print(text) {
+
+  top.Main.document.write(text)
+
+}
+
+
+
+function redraw() { 
+  history.go(0);
+}
+
+
+
+function initdraw() {
+  print("<DL>")
+  klaede.toggle();
+  klaede.draw()
+}
+
+
+//-----------------------------------
+// Function Outline for Artefacts
+//-----------------------------------
+function outline(){
+
+klaede=new element("klaede","Kl&aelig;dedragt", null, null,1)
+	klaede.addKid(Baelteudstyr=new element("Baelteudstyr", "B&aelig;lteudstyr", null, null,2))
+		Baelteudstyr.addKid(new element("Baelte", "B&aelig;lte", URL +  " TARGET='Main'", null,3))
+		Baelteudstyr.addKid(new element("Baeltebeslag", "B&aelig;ltebeslag", URL  + " TARGET='Main'", null,4))
+		Baelteudstyr.addKid(new element("Baeltedaase", "B&aelig;lted&aring;se", URL  + " TARGET='Main'", null,5))
+		Baelteudstyr.addKid(new element("Baeltekrog", "B&aelig;ltekrog", URL  + " TARGET='Main'", null,6))
+		Baelteudstyr.addKid(new element("Baelteplade", "B&aelig;lteplade", URL  + " TARGET='Main'", null,7))
+		Baelteudstyr.addKid(new element("Baeltetaske", "B&aelig;ltetaske", URL  + " TARGET='Main'", null,8))
+	klaede.addKid(Dragtsmykker=new element("Dragtsmykker", "Dragtsmykker", null, null,9))
+		Dragtsmykker.addKid(new element("Boejlenaal", "B&oslash;jlen&aring;l", URL  + " TARGET='Main'", null,10))
+		Dragtsmykker.addKid(new element("Dragtnaal", "Dragtn&aring;l", URL  + " TARGET='Main'", null,11))
+		Dragtsmykker.addKid(new element("Hjulnaal", "Hjuln&aring;l", URL  + " TARGET='Main'", null,12))
+		Dragtsmykker.addKid(new element("Haegte", "H&aelig;gte", URL  + " TARGET='Main'", null,13))
+		Dragtsmykker.addKid(new element("Roer_til_snoreskoert", "R&oslash;r til snoresk&oslash;rt", URL  + " TARGET='Main'", null,14))
+		Dragtsmykker.addKid(new element("Smykkeplade_(tutulus)", "Smykkeplade (tutulus)", URL  + " TARGET='Main'", null,15))
+	klaede.addKid(Fodtoej=new element("Fodtoej", "Fodt&oslash;j", null, null,16))
+		Fodtoej.addKid(new element("Fodlap", "Fodlap", URL  + " TARGET='Main'", null,17))
+		Fodtoej.addKid(new element("Sko", "Sko", URL  + " TARGET='Main'", null,18))
+	klaede.addKid(Hovedbeklaedning=new element("Hovedbeklaedning", "Hovedbekl&aelig;dning", null, null,19))
+		Hovedbeklaedning.addKid(new element("Hue", "Hue", URL  + " TARGET='Main'", null,20))
+		Hovedbeklaedning.addKid(new element("Haarnet/haarbaand", "H&aring;rnet/h&aring;rb&aring;nd", URL  + " TARGET='Main'", null,21))
+	klaede.addKid(Knapper=new element("Knapper", "Knapper", null, null,22))
+		Knapper.addKid(new element("Dobbeltknap", "Dobbeltknap", URL  + " TARGET='Main'", null,23))
+		Knapper.addKid(new element("Knap", "Knap", URL  + " TARGET='Main'", null,24))
+	klaede.addKid(Kvindedragt=new element("Kvindedragt", "Kvindedragt", null, null,25))
+		Kvindedragt.addKid(new element("Bluse", "Bluse", URL  + " TARGET='Main'", null,26))
+		Kvindedragt.addKid(new element("Roer_til_snoreskoert1", "R&oslash;r til snoresk&oslash;rt", URL  + " TARGET='Main'", null,27))
+		Kvindedragt.addKid(new element("Skoert", "Sk&oslash;rt", URL  + " TARGET='Main'", null,28))
+		Kvindedragt.addKid(new element("Snoreskoert", "Snoresk&oslash;rt", URL  + " TARGET='Main'", null,29))
+	klaede.addKid(Mandsdragt=new element("Mandsdragt", "Mandsdragt", null, null,30))
+		Mandsdragt.addKid(new element("Kappe", "Kappe", URL  + " TARGET='Main'", null,31))
+		Mandsdragt.addKid(new element("Kofte", "Kofte", URL + " TARGET='Main'", null,32))
+		Mandsdragt.addKid(new element("Laendeklaede", "L&aelig;ndekl&aelig;de", URL  + " TARGET='Main'", null,33))
+	klaede.addKid(oevrig_beklaedning=new element("oevrig_beklaedning", "&Oslash;vrig bekl&aelig;dning", null, null,34))
+		oevrig_beklaedning.addKid(new element("Beklaedningsgenstand,_ubestemmelig", "Bekl&aelig;dningsgenstand, ubestemmelig", URL  + " TARGET='Main'", null,35))
+		oevrig_beklaedning.addKid(new element("Fragment,_ubestemmeligt", "Fragment, ubestemmeligt", URL  + " TARGET='Main'", null,36))
+		oevrig_beklaedning.addKid(new element("Taeppe", "T&aelig;ppe", URL  + " TARGET='Main'", null,37))
+
+//-----------------------------------
+// Smykker
+//-----------------------------------
+klaede.addPeer(Smykker=new element("Smykker","Smykker", null, null,38))
+	Smykker.addKid(Armringe=new element("Armringe", "Armringe", null, null,39))
+		Armringe.addKid(new element("Armring", "Armring", URL  + " TARGET='Main'", null,40))
+		Armringe.addKid(new element("Armring_med_spiralformede_ender", "Armring med spiralformede ender", URL  + " TARGET='Main'", null,41))
+		Armringe.addKid(new element("Manchetarmring", "Manchetarmring", URL  + " TARGET='Main'", null,42))
+		Armringe.addKid(new element("Spiralarmring", "Spiralarmring", URL  + " TARGET='Main'", null,43))
+	Smykker.addKid(Baeltesmykker=new element("Baeltesmykker", "B&aelig;ltesmykker", null, null,44))
+		Baeltesmykker.addKid(new element("Baeltedaase1", "B&aelig;lted&aring;se", URL  + " TARGET='Main'", null,45))
+		Baeltesmykker.addKid(new element("Baelteplade1", "B&aelig;lteplade", URL  + " TARGET='Main'", null,46))
+	Smykker.addKid(Dragtsmykker1=new element("Dragtsmykker1", "Dragtsmykker", null, null,47))
+		Dragtsmykker1.addKid(new element("Boejlenaal1", "B&oslash;jlen&aring;l", URL  + " TARGET='Main'", null,48))
+		Dragtsmykker1.addKid(new element("Dragtnaal1", "Dragtn&aring;l", URL  + " TARGET='Main'", null,49))
+		Dragtsmykker1.addKid(new element("Hjulnaal1", "Hjuln&aring;l", URL  + " TARGET='Main'", null,50))
+		Dragtsmykker1.addKid(new element("Haegte1", "H&aelig;gte", URL  + " TARGET='Main'", null,51))
+		Dragtsmykker1.addKid(new element("Roer_til_snoreskoert2", "R&oslash;r til snoresk&oslash;rt", URL  + " TARGET='Main'", null,52))
+		Dragtsmykker1.addKid(new element("Smykkeplade_(tutulus)1", "Smykkeplade (tutulus)", URL  + " TARGET='Main'", null,53))
+	Smykker.addKid(Fingerringe=new element("Fingerringe", "Fingerringe", null, null,54))
+		Fingerringe.addKid(new element("Fingerring", "Fingerring", URL  + " TARGET='Main'", null,55))
+		Fingerringe.addKid(new element("Spiralfingerring", "Spiralfingerring", URL  + " TARGET='Main'", null,56))
+	Smykker.addKid(Halssmykker=new element("Halssmykker", "Halssmykker", null, null,57))
+		Halssmykker.addKid(new element("Halskrave", "Halskrave", URL  + " TARGET='Main'", null,58))
+		Halssmykker.addKid(new element("Halsring", "Halsring", URL  + " TARGET='Main'", null,59))
+	Smykker.addKid(oevrige_ringsmykker=new element("oevrige_ringsmykker", "&Oslash;vrige ringsmykker", null, null,60))
+		oevrige_ringsmykker.addKid(new element("Fodring", "Fodring", URL  + " TARGET='Main'", null,61))
+		oevrige_ringsmykker.addKid(new element("Ring", "Ring", URL  + " TARGET='Main'", null,62))
+		oevrige_ringsmykker.addKid(new element("Spiralring", "Spiralring", URL  + " TARGET='Main'", null,63))
+		oevrige_ringsmykker.addKid(new element("oerering", "&Oslash;rering", URL  + " TARGET='Main'", null,64))
+	Smykker.addKid(oevrige_smykker=new element("oevrige_smykker", "&Oslash;vrige smykker", null, null,65))
+		oevrige_smykker.addKid(new element("Pandesmykke", "Pandesmykke", URL  + " TARGET='Main'", null,66))
+		oevrige_smykker.addKid(new element("Perle", "Perle", URL  + " TARGET='Main'", null,67))
+		oevrige_smykker.addKid(new element("Smykke", "Smykke", URL  + " TARGET='Main'", null,68))
+		oevrige_smykker.addKid(new element("Smykke,_ubestemmeligt", "Smykke, ubestemmeligt", URL  + " TARGET='Main'", null,69))
+
+//-----------------------------------
+// Toiletsager
+//-----------------------------------
+klaede.addPeer(Toiletsager=new element("Toiletsager","Toiletsager", null, null,70))
+	Toiletsager.addKid(Knive=new element("Knive", "Knive", null, null,71))
+		Knive.addKid(new element("Kniv", "Kniv", URL  + " TARGET='Main'", null,72))
+		Knive.addKid(new element("Kniv,_med_bronzegreb", "Kniv, med bronzegreb", URL  + " TARGET='Main'", null,73))
+		Knive.addKid(new element("Kniv,_med_rammegreb", "Kniv, med rammegreb", URL  + " TARGET='Main'", null,74))
+		Knive.addKid(new element("Kniv,_oprindelig_med_greb_af_organisk_materiale", "Kniv, oprindelig med greb af organisk materiale", URL  + " TARGET='Main'", null,75))
+	Toiletsager.addKid(Rageknive=new element("Rageknive", "Rageknive", null, null,76))
+		Rageknive.addKid(new element("Ragekniv", "Ragekniv", URL  + " TARGET='Main'", null,77))
+		Rageknive.addKid(new element("Ragekniv,_med_hestehovedgreb", "Ragekniv, med hestehovedgreb", URL  + " TARGET='Main'", null,78))
+		Rageknive.addKid(new element("Ragekniv,_med_menneskehovedgreb", "Ragekniv, med menneskehovedgreb", URL  + " TARGET='Main'", null,79))
+		Rageknive.addKid(new element("Ragekniv,_med_spiralgreb", "Ragekniv, med spiralgreb", URL  + " TARGET='Main'", null,80))
+	Toiletsager.addKid(oevrige_toiletsager=new element("oevrige_toiletsager", "&Oslash;vrige toiletsager", null, null,81))
+		oevrige_toiletsager.addKid(new element("Kam", "Kam", URL  + " TARGET='Main'", null,82))
+		oevrige_toiletsager.addKid(new element("Pincet", "Pincet", URL  + " TARGET='Main'", null,83))
+		oevrige_toiletsager.addKid(new element("Syl", "Syl", URL  + " TARGET='Main'", null,84))
+
+//-----------------------------------
+// V&aring;ben
+//-----------------------------------
+klaede.addPeer(Vaaben=new element("Vaaben","V&aring;ben", null, null,85))
+	Vaaben.addKid(Dolke=new element("Dolke", "Dolke", null, null,86))
+		Dolke.addKid(new element("Dolk", "Dolk", URL +  " TARGET='Main'", null,87))
+		Dolke.addKid(new element("Dolk,_med_bronzegreb", "Dolk, med bronzegreb", URL  + " TARGET='Main'", null,88))
+		Dolke.addKid(new element("Dolk,_oprindelig_med_greb_af_organisk_materiale", "Dolk, oprindelig med greb af organisk materiale", URL  + " TARGET='Main'", null,89))
+		Dolke.addKid(new element("Dolkklinge", "Dolkklinge", URL  + " TARGET='Main'", null,90))
+		Dolke.addKid(new element("Dolkskede", "Dolkskede", URL  + " TARGET='Main'", null,91))
+		Dolke.addKid(new element("Endebeslag_til_dolkskede_(dupsko)", "Endebeslag til dolkskede (dupsko)", URL  + " TARGET='Main'", null,92))
+		Dolke.addKid(new element("Flintdolk", "Flintdolk", URL  + " TARGET='Main'", null,93))
+		Dolke.addKid(new element("Grebknap_til_dolk", "Grebknap til dolk", URL  + " TARGET='Main'", null,94))
+	Vaaben.addKid(Svaerd=new element("Svaerd", "Sv&aelig;rd", null, null,95))
+		Svaerd.addKid(new element("Endebeslag_til_svaerdskede_(dupsko)", "Endebeslag til sv&aelig;rdskede (dupsko)", URL  + " TARGET='Main'", null,96))
+		Svaerd.addKid(new element("Grebknap_til_svaerd", "Grebknap til sv&aelig;rd", URL  + " TARGET='Main'", null,97))
+		Svaerd.addKid(new element("Krumsvaerd", "Krumsv&aelig;rd", URL  + " TARGET='Main'", null,98))
+		Svaerd.addKid(new element("Svaerd1", "Sv&aelig;rd", URL  + " TARGET='Main'", null,99))
+		Svaerd.addKid(new element("Svaerd,_med_bronzegreb", "Sv&aelig;rd, med bronzegreb", URL  + " TARGET='Main'", null,100))
+		Svaerd.addKid(new element("Svaerd,_med_ottekantet_greb", "Sv&aelig;rd, med ottekantet greb", URL  + " TARGET='Main'", null,101))
+		Svaerd.addKid(new element("Svaerd,_oprindelig_med_greb_af_organisk_materiale", "Sv&aelig;rd, oprindelig med greb af organisk materiale", URL  + " TARGET='Main'", null,102))
+		Svaerd.addKid(new element("Svaerdfragment", "Sv&aelig;rdfragment", URL  + " TARGET='Main'", null,103))
+		Svaerd.addKid(new element("Svaerdklinge", "Sv&aelig;rdklinge", URL  + " TARGET='Main'", null,104))
+		Svaerd.addKid(new element("Svaerdskede", "Sv&aelig;rdskede", URL  + " TARGET='Main'", null,105))
+	Vaaben.addKid(oekser=new element("oekser", "&Oslash;kser", null, null,106))
+		oekser.addKid(new element("Endeknap_til_traeskaft", "Endeknap til tr&aelig;skaft", URL  + " TARGET='Main'", null,107))
+		oekser.addKid(new element("Kultoekse", "Kult&oslash;kse", URL  + " TARGET='Main'", null,108))
+		oekser.addKid(new element("Randlisteoekse", "Randliste&oslash;kse", URL  + " TARGET='Main'", null,109))
+		oekser.addKid(new element("Vaabenoekse_(paalstav)", "V&aring;ben&oslash;kse (p&aring;lstav)", URL  + " TARGET='Main'", null,110))
+		oekser.addKid(new element("oekse", "&Oslash;kse", URL  + " TARGET='Main'", null,111))
+	Vaaben.addKid(oevrige_vaaben=new element("oevrige_vaaben", "&Oslash;vrige v&aring;ben", null, null,112))
+		oevrige_vaaben.addKid(new element("Koelle", "K&oslash;lle", URL  + " TARGET='Main'", null,113))
+		oevrige_vaaben.addKid(new element("Pilespids", "Pilespids", URL  + " TARGET='Main'", null,114))
+		oevrige_vaaben.addKid(new element("Spydspids", "Spydspids", URL  + " TARGET='Main'", null,115))
+
+//-----------------------------------
+// V&aelig;rkt&oslash;j og redskaber
+//-----------------------------------
+klaede.addPeer(Vaerktoej_og_redskaber=new element("Vaerktoej_og_redskaber","V&aelig;rkt&oslash;j og redskaber", null, null,116))
+	Vaerktoej_og_redskaber.addKid(Knive1=new element("Knive1", "Knive", null, null,117))
+		Knive1.addKid(new element("Kniv1", "Kniv", URL  + " TARGET='Main'", null,118))
+		Knive1.addKid(new element("Kniv,_med_bronzegreb1", "Kniv, med bronzegreb", URL  + " TARGET='Main'", null,119))
+		Knive1.addKid(new element("Kniv,_med_rammegreb1", "Kniv, med rammegreb", URL  + " TARGET='Main'", null,120))
+		Knive1.addKid(new element("Kniv,_oprindelig_med_greb_af_organisk_materiale1", "Kniv, oprindelig med greb af organisk materiale", URL  + " TARGET='Main'", null,121))
+	Vaerktoej_og_redskaber.addKid(Landbrugsredskaber=new element("Landbrugsredskaber", "Landbrugsredskaber", null, null,122))
+		Landbrugsredskaber.addKid(new element("Flintsegl", "Flintsegl", URL  + " TARGET='Main'", null,123))
+		Landbrugsredskaber.addKid(new element("Segl", "Segl", URL  + " TARGET='Main'", null,124))
+	Vaerktoej_og_redskaber.addKid(Mejsler=new element("Mejsler", "Mejsler", null, null,125))
+		Mejsler.addKid(new element("Doellemejsel", "D&oslash;llemejsel", URL  + " TARGET='Main'", null,126))
+		Mejsler.addKid(new element("Mejsel", "Mejsel", URL  + " TARGET='Main'", null,127))
+	Vaerktoej_og_redskaber.addKid(oekser1=new element("oekser1", "&Oslash;kser", null, null,128))
+		oekser1.addKid(new element("Doelleoekse_(celt)", "D&oslash;lle&oslash;kse (celt)", URL  + " TARGET='Main'", null,129))
+		oekser1.addKid(new element("Endeknap_til_traeskaft1", "Endeknap til tr&aelig;skaft", URL  + " TARGET='Main'", null,130))
+		oekser1.addKid(new element("Randlisteoekse1", "Randliste&oslash;kse", URL  + " TARGET='Main'", null,131))
+		oekser1.addKid(new element("Vaabenoekse_(paalstav)1", "V&aring;ben&oslash;kse (p&aring;lstav)", URL   + " TARGET='Main'", null,132))
+		oekser1.addKid(new element("oekse1", "&Oslash;kse", URL  + " TARGET='Main'", null,133))
+	Vaerktoej_og_redskaber.addKid(oevrige_redskaber=new element("oevrige_redskaber", "&Oslash;vrige redskaber", null, null,134))
+		oevrige_redskaber.addKid(new element("Ildslagningssten", "Ildslagningssten", URL  + " TARGET='Main'", null,135))
+		oevrige_redskaber.addKid(new element("Redskab_med_doelle", "Redskab med d&oslash;lle", URL  + " TARGET='Main'", null,136))
+		oevrige_redskaber.addKid(new element("Sav", "Sav", URL  + " TARGET='Main'", null,137))
+		oevrige_redskaber.addKid(new element("Skaft", "Skaft", URL  + " TARGET='Main'", null,138))
+		oevrige_redskaber.addKid(new element("Syl_eller_pren", "Syl eller pren", URL  + " TARGET='Main'", null,139))
+
+//-----------------------------------
+// Husholdning
+//-----------------------------------
+klaede.addPeer(Husholdning=new element("Husholdning","Husholdning", null, null,140))
+	Husholdning.addKid(Keramik=new element("Keramik", "Keramik", null, null,141))
+		Keramik.addKid(new element("Kar", "Kar", URL  + " TARGET='Main'", null,142))
+		Keramik.addKid(new element("Laag", "L&aring;g", URL  + " TARGET='Main'", null,143))
+		Keramik.addKid(new element("Skaal", "Sk&aring;l", URL  + " TARGET='Main'", null,144))
+		Keramik.addKid(new element("Skaar", "Sk&aring;r", URL  + " TARGET='Main'", null,145))
+	Husholdning.addKid(Metalkar=new element("Metalkar", "Metalkar", null, null,146))
+		Metalkar.addKid(new element("Kop", "Kop", URL  + " TARGET='Main'", null,147))
+		Metalkar.addKid(new element("Metalkar1", "Metalkar", URL  + " TARGET='Main'", null,148))
+		Metalkar.addKid(new element("Skaal1", "Sk&aring;l", URL  + " TARGET='Main'", null,149))
+	Husholdning.addKid(Traebeholdere=new element("Traebeholdere", "Tr&aelig;beholdere", null, null,150))
+		Traebeholdere.addKid(new element("Barkaeske", "Bark&aelig;ske", URL + " TARGET='Main'", null,151))
+		Traebeholdere.addKid(new element("Kar1", "Kar", URL  + " TARGET='Main'", null,152))
+		Traebeholdere.addKid(new element("Skaal2", "Sk&aring;l", URL  + " TARGET='Main'", null,153))
+		Traebeholdere.addKid(new element("Traebeholder,_ubestemmelig", "Tr&aelig;beholder, ubestemmelig", URL  + " TARGET='Main'", null,154))
+		Traebeholdere.addKid(new element("aeske", "&AElig;ske", URL  + " TARGET='Main'", null,155))
+	Husholdning.addKid(oevrig_husholdning=new element("oevrig_husholdning", "&Oslash;vrig husholdning", null, null,156))
+		oevrig_husholdning.addKid(new element("Drikkehorn", "Drikkehorn", URL  + " TARGET='Main'", null,157))
+		oevrig_husholdning.addKid(new element("Ske", "Ske", URL + " TARGET='Main'", null,158))
+
+//-----------------------------------
+// Kunst og religion
+//-----------------------------------
+klaede.addPeer(Kunst_og_religion=new element("Kunst_og_religion","Kunst og religion", null, null,159))
+		Kunst_og_religion.addKid(new element("Guldskive", "Guldskive", URL  + " TARGET='Main'", null,160))
+		Kunst_og_religion.addKid(new element("Hjul", "Hjul", URL  + " TARGET='Main'", null,161))
+		Kunst_og_religion.addKid(new element("Hovedsmykke", "Hovedsmykke", URL + " TARGET='Main'", null,162))
+		Kunst_og_religion.addKid(new element("Kedelvogn", "Kedelvogn", URL + " TARGET='Main'", null,163))
+		Kunst_og_religion.addKid(new element("Klapstol", "Klapstol", URL  + " TARGET='Main'", null,164))
+		Kunst_og_religion.addKid(new element("Krumsvaerd1", "Krumsv&aelig;rd", URL  + " TARGET='Main'", null,165))
+		Kunst_og_religion.addKid(new element("Kultoekse1", "Kult&oslash;kse", URL  + " TARGET='Main'", null,166))
+		Kunst_og_religion.addKid(new element("Solvogn", "Solvogn", URL  + " TARGET='Main'", null,167))
+
+//-----------------------------------
+// Diverse
+//-----------------------------------
+klaede.addPeer(Diverse=new element("Diverse","Diverse", null, null,168))
+	Diverse.addKid(Begravelse=new element("Begravelse", "Begravelse", null, null,169))
+		Begravelse.addKid(new element("Egekiste", "Egekiste", URL  + " TARGET='Main'", null,170))
+		Begravelse.addKid(new element("Lig", "Lig", URL  + " TARGET='Main'", null,171))
+		Begravelse.addKid(new element("Skind", "Skind", URL  + " TARGET='Main'", null,172))
+	Diverse.addKid(Natur=new element("Natur", "Natur", null, null,173))
+		Natur.addKid(new element("Forstening", "Forstening", URL  + " TARGET='Main'", null,174))
+		Natur.addKid(new element("Gren", "Gren", URL  + " TARGET='Main'", null,175))
+		Natur.addKid(new element("Horn", "Horn", URL  + " TARGET='Main'", null,176))
+		Natur.addKid(new element("Haarlok", "H&aring;rlok", URL  + " TARGET='Main'", null,177))
+		Natur.addKid(new element("Knogle_eller_tand,_fra_menneske_eller_dyr", "Knogle eller tand, fra menneske eller dyr", URL  + " TARGET='Main'", null,178))
+		Natur.addKid(new element("Sneglehus_eller_muslingeskal", "Sneglehus eller muslingeskal", URL  + " TARGET='Main'", null,179))
+		Natur.addKid(new element("Sten", "Sten", URL  + " TARGET='Main'", null,180))
+		Natur.addKid(new element("Ubearbejdet_rav", "Ubearbejdet rav", URL  + " TARGET='Main'", null,182))
+	Diverse.addKid(Produktion=new element("Produktion", "Produktion", null, null,183))
+		Produktion.addKid(new element("Afslag", "Afslag", URL  + " TARGET='Main'", null,184))
+		Produktion.addKid(new element("Blik", "Blik", URL  + " TARGET='Main'", null,185))
+		Produktion.addKid(new element("Baand", "B&aring;nd", URL  + " TARGET='Main'", null,186))
+		Produktion.addKid(new element("Laeder(snoere)", "L&aelig;der(sn&oslash;re)", URL + " TARGET='Main'", null,187))
+		Produktion.addKid(new element("Stang", "Stang", URL  + " TARGET='Main'", null,188))
+		Produktion.addKid(new element("Svovlkis", "Svovlkis", URL  + " TARGET='Main'", null,189))
+		Produktion.addKid(new element("Soem", "S&oslash;m", URL  + " TARGET='Main'", null,190))
+		Produktion.addKid(new element("Traad", "Tr&aring;d", URL  + " TARGET='Main'", null,191))
+		Produktion.addKid(new element("oekseplanke", "&Oslash;kseplanke", URL  + " TARGET='Main'", null,192))
+	Diverse.addKid(oevrigt=new element("oevrigt", "&Oslash;vrigt", null, null,193))
+		oevrigt.addKid(new element("Diverse1", "Diverse", URL  + " TARGET='Main'", null,194))
+		oevrigt.addKid(new element("Fragment,_ubestemmeligt1", "Fragment, ubestemmeligt", URL  + " TARGET='Main'", null,194))
+		oevrigt.addKid(new element("Genstand,_ubestemmelig", "Genstand, ubestemmelig", URL  + " TARGET='Main'", null,196))
+		oevrigt.addKid(new element("Proeve", "Pr&oslash;ve", URL  + " TARGET='Main'", null,197))
+		oevrigt.addKid(new element("Ring1", "Ring", URL  + " TARGET='Main'", null,198))
+		oevrigt.addKid(new element("Roer", "R&oslash;r", URL  + " TARGET='Main'", null,199))
+		oevrigt.addKid(new element("Spiral", "Spiral", URL  + " TARGET='Main'", null,200))
+		oevrigt.addKid(new element("Stok", "Stok", URL  + " TARGET='Main'", null,201))
+		oevrigt.addKid(new element("Traekul", "Tr&aelig;kul", URL  + " TARGET='Main'", null,202))
+     
+chk = 'if (klaede == null) {top.location = "/kulturnet/index.htm"} else {'
+     
+}
+
+
+// -->
+</SCRIPT>
+
+
+
+</HEAD>
+
+
+<BODY BACKGROUND="../img/gggbck.jpg" BGCOLOR="#F5E6C8" TEXT="#000000">
+<FONT SIZE=+3 COLOR=BF0000><b>Genstande</b></font><br><b>
+<FONT COLOR=Black>V&aelig;lg en kategori og evt. underkategori, - klik p&aring;
+<IMG SRC="../IMG/plus.GIF" WIDTH=20 HEIGHT=20 BORDER=0 ALIGN=TOP><br> 
+
+v&aelig;lg derefter genstandstype</b></font>
+
+<br clear=all>
+<IMG SRC="../IMG/kettle.gif" WIDTH=286 HEIGHT=247 BORDER=0 align=right> 
+
+<NOSCRIPT>
+<BR>I denne version af Guder og grave er genstands- og<BR> 
+anl&aelig;gss&oslash;gning kun implementeret ved hj&aelig;lp af javascript
+</NOSCRIPT>
+
+
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- start
+var URL = "cd-rom.htm";
+outline();
+initdraw();
+
+// end -->
+</SCRIPT> 
+
+
+</HEAD>
+</BODY>
+</HTML>
+

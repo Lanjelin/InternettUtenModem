@@ -1,0 +1,92 @@
+Date: Tue, 24 Jan 1996 01:36:14 -0500 
+From: Bob Rankin <bobrankin@mhv.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM 
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 23 Jan 1996 - FREE PIZZA!
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+   |__________|__________/__________|__________|________/     |   \
+  /                                                    /______|----\
+ /    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+ |   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+ |                                                     |//////|    |
+ ~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS SITE   : The Pizza Server
+TODAY'S TOURBUS ADDRESS: http://www.ecst.csuchico.edu/~pizza
+
+
+The Internet is full is wild and wacky people.  Brian Hall, also known
+as "beej", is one of them.  While a student at California State University
+Hall and some friends felt a burning need to create a mechanism to enable
+the delivery of free pizza over the Internet.  Why?  Just because!
+
+The service originally started out as a text-based mail server that
+would take requests and make pizza deliveries by e-mail.  Although the
+e-mail portion of The Pizza Server still functions, it's also available
+on the Web, and has been rated as one of the "Top 5%" of web sites by
+Point Communications.
+
+Ever wonder what a pizza with kittens and green M&M's would be like?  Or
+how about pepperoni and legos?  The Pizza Server has been delivering these
+and a host of other "make your own" pizza creations since April of 1994.
+
+Wanna try your own?
+
+  * Pop on over to http://www.ecst.csuchico.edu/~pizza
+  * Select "Order and view a pizza over the Web!"
+  * Choose from a list of toppings that includes bacon, beetles, eyeballs,
+    kittens, pepperoni, sausage, Garlick (funny!), mushrooms, olives,
+    baseballs, footballs, bolts, green M&M's, floppy disks and Legos
+  * Press "Order Pizza" and watch your pizza appear on the screen
+
+If you're limited to e-mail access, don't worry -- you still get a pizza.
+Just send e-mail to pizza@ecst.csuchico.edu with "pizza help" in the SUBJECT
+line (ditch the quotes, though).  You will need software to decode and view
+the returned image if that functionality is not built into your e-mail
+program.  If you need help with decoders or viewers, please refer to the
+"alt.binaries.pictures" FAQ, available by anonymous FTP at RTFM.MIT.EDU as
+
+  pub/usenet/news.answers/pictures-faq/part1
+  pub/usenet/news.answers/pictures-faq/part2
+  pub/usenet/news.answers/pictures-faq/part3
+
+There are lots of fun little tidbits scattered around the Pizza Server web
+site, so poke around and find out why the denizens of digital dough have
+declared war on Pizza Hut, and find out who Garlick really is!
+
+
+TOURBUS - Catchin' the Waves
+----------------------------
+
+Patrick and I recently completed a radio interview to be aired on an
+upcoming national broadcast in Australia.  ABC Radio listeners down under -
+keep your ears open for the new CLICK ON! show on Sundays at 5 PM.
+
+We're also in the process of working with a major Public Radio network here
+in the USA to create a daily TOURBUS radio program - cool!  We'll give you
+the details as soon as they are available.
+
+
++----------> Online courses ----------------------------------------------+
+| ... can enhance your personal life. Register for "Nutrition for Healthy |
+| Living". Earn 2 college credits from University of Wisconsin Stout.     |
+| 7 other courses offered on America Online. Get more info on AOL using   |
+| keyword "EUN", send mail to conted@uwstout.edu or call 715-232-2693     |
++-------------------------------------------------------------------------+
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1995, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

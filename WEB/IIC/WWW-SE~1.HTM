@@ -1,0 +1,203 @@
+<HTML>
+<HEAD>
+<TITLE>The WWW Security FAQ</TITLE>
+</HEAD>
+<BODY>
+<CENTER>
+<H1>The World Wide Web Security FAQ</H1>
+Lincoln D. Stein
+<A HREF="mailto:lstein@genome.wi.mit.edu">
+&lt;lstein@genome.wi.mit.edu&gt;</A><BR>
+Version 1.2.3, March 28 1996
+</CENTER>
+
+<h2>MIRROR SITES FOR THIS DOCUMENT</h2>
+<ul>
+  <li><a href="tppmsgs/msgs5.htm#523" tppabs="http://cip.physik.uni-wuerzburg.de/www-security-faq.html">
+      http://cip.physik.uni-wuerzburg.de/www-security-faq.html</a>
+  <li><a href="tppmsgs/msgs5.htm#524" tppabs="http://www.usma.edu/mirror/WWW/www-security-faq/">
+      http://www.usma.edu/mirror/WWW/www-security-faq</a>
+</ul>
+You may mirror this document by copying and unpacking the following
+tar archive:
+<a href="tppmsgs/msgs5.htm#525" tppabs="http://www.genome.wi.mit.edu/WWW/faqs/www-security-faq.tar.gz">
+http://www.genome.wi.mit.edu/WWW/faqs/www-security-faq.tar.gz</a>.
+Please let me know that you intend to set up a mirror site so that I
+may add you to this list.
+
+<H2><A NAME="contents">CONTENTS</A></H2>
+
+<OL>
+  <LI> <A HREF="WWWSF~1.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf.html">Introduction</A>
+  <LI> <A HREF="WWWSF0~1.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf0.html">What's New?</A>
+  <LI> <A HREF="WWWSF1~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html">General Questions</A>
+       <UL>
+	 <LI> <A HREF="WWWSF1~2.HTM#Q1" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q1">Q1</A> What's to worry about?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q2" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q2">Q2</A> Exactly what security risks are we talking about?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q3" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q3">Q3</A> Are some Web servers and operating systems
+	      more secure than others?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q4" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q4">Q4</A> Are some Web server software programs more
+	      secure than others?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q5" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q5">Q5</A> Are CGI scripts insecure?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q6" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q6">Q6</A> Are server-side includes insecure?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q7" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q7">Q7</A> What general security precautions should I take?
+	 <LI> <A HREF="WWWSF1~2.HTM#Q8" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html#Q8">Q8</A> Where can I learn more about network security?
+       </UL>
+  <LI> <A HREF="WWWSF2~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html">Running a Secure Server</A>
+       <UL>
+	 <LI> <A HREF="WWWSF2~2.HTM#Q9" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q9">Q9</A> How do I set the file permissions of my server
+	      and document roots?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q10" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q10">Q10</A> I'm running a server that provides a whole
+	      bunch of optional features.  Are any of them security risks?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q11" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q11">Q11</A> I heard that running the server as "root"
+	    is a bad idea.  Is this true?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q12" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q12">Q12</A> I want to share the same document tree between my
+	      ftp and Web servers.  Is there any problem with this idea?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q13" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q13">Q13</A> Can I make my site completely safe by running
+	      the server in a "chroot" environment?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q14" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q14">Q14</A> My local network runs behind a firewall.  How can I
+	      use it to increase my Web site's security?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q15" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q15">Q15</A> My local network runs behind a firewall.  How can
+	      I get around it to give the rest of the world access to the
+	      Web server?
+	 <LI> <A HREF="WWWSF2~2.HTM#Q16" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html#Q16">Q16</A> How can I detect if my site's been broken into?
+       </UL>
+
+  <LI> <A HREF="WWWSF3~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html">Protecting Confidential Documents at Your Site</A>
+       <UL>
+	 <LI> <A HREF="WWWSF3~2.HTM#Q17" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q17">Q17</A> What types of access restrictions are
+	      available?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q18" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q18">Q18</A> How safe is restriction by IP address or domain name?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q19" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q19">Q19</A> How safe is restriction by user name and password?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q20" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q20">Q20</A> What is user verification?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q21" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q21">Q21</A> How do I restrict access to documents by the
+	      IP address or domain name of the remote browser?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q22" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q22">Q22</A> How do I add new users and passwords?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q23" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q23">Q23</A> Isn't there a CGI script to allow users to
+	      change their passwords online?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q24" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q24">Q24</A> Using <CODE>.htaccess</CODE> to control
+	      access in individual directories is so convenient, why
+	      should I use <CODE>access.conf</CODE>?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q25" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q25">Q25</A> How does encryption work?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q26" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q26">Q26</A> What are: SSL, SHTTP, Shen?
+	 <LI> <A HREF="WWWSF3~2.HTM#Q27" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q27">Q27</A> How do I accept credit card orders over the Web?
+	 <LI>  <A HREF="WWWSF3~2.HTM#Q28" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html#Q28">Q28</A> What are: First Virtual Accounts, DigiCash,
+	      Cybercash?
+       </UL>   
+
+  <LI> <A HREF="WWWSF4~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html">CGI Scripts</A>
+       <UL>
+	 <LI> <A HREF="WWWSF4~2.HTM#Q29" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q29">Q29</A> What's the problem with CGI scripts?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q30" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q30">Q30</A> Is it better to store scripts in the cgi-bin
+	      directory or to identify them using the .cgi extension?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q31" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q31">Q31</A> Are compiled languages such as C safer than
+	      interpreted languages like Perl and shell scripts?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q32" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q32">Q32</A> I found a great CGI script on the Web and I
+	      want to install it.  How can I tell if it's safe?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q33" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q33">Q33</A> What CGI scripts are known to contain security
+	      holes?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q34" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q34">Q34</A> I'm developing custom CGI scripts.  What unsafe
+	      practices should I avoid?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q35" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q35">Q35</A> But if I avoid eval(), exec(), popen() and system(),
+	      how can I create an interface to my database/search engine/graphics
+	      package?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q36" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q36">Q36</A> Is it safe to rely on the PATH environment variable
+	      to locate external programs?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q37" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q37">Q37</A> I hear there's a package called cgiwrap that makes
+	      CGI scripts safe?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q38" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q38">Q38</A> People can only use scripts if they're accessed from
+	      a form that lives on my local system, right?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q39" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q39">Q39</A> Can people see or change the values in "hidden"
+	      form variables?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q40" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q40">Q40</A> Is using the "POST" method for submitting forms
+	      more private than "GET"?
+	 <LI> <A HREF="WWWSF4~2.HTM#Q41" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html#Q41">Q41</A> Where can I learn more about safe CGI scripting?
+       </UL>
+
+  <LI> <A HREF="WWWSF5~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html">Safe Scripting in Perl</A>
+       <UL>
+	 <LI> <A HREF="WWWSF5~2.HTM#Q42" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q42">Q42</A> How do I avoid passing user variables through
+	      a shell when calling exec() and system()?
+	 <LI> <A HREF="WWWSF5~2.HTM#Q43" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q43">Q43</A> What are Perl taint checks?  How do I turn
+	      them on?
+	 <LI> <A HREF="WWWSF5~2.HTM#Q44" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q44">Q44</A> OK, I turned on taint checks like you said.  Now
+	      my script dies with the message: <SAMP>"Insecure path at line XX"
+	      </SAMP>every time I try to run it!
+	 <LI> <A HREF="WWWSF5~2.HTM#Q45" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q45">Q45</A> How do I "untaint" a variable?
+	 <LI> <A HREF="WWWSF5~2.HTM#Q46" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q46">Q46</A> I'm removing shell metacharacters from the
+	      variable, but Perl still things it's tainted!
+	 <LI> <A HREF="WWWSF5~2.HTM#Q47" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q47">Q47</A> Is it true that the pattern matching operation
+	      <KBD>$foo=~/$user_variable/</KBD> is unsafe?
+	 <LI> <A HREF="WWWSF5~2.HTM#Q48" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html#Q48">Q48</A> My CGI script needs more privileges than it's
+	      getting as user "nobody".  How do I run a Perl script as suid?
+       </UL>
+
+  <LI> <A HREF="WWWSF6~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html">Server Logs and Privacy</A>
+       <UL>
+	 <LI> <A HREF="WWWSF6~2.HTM#Q49" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html#Q49">Q49</A> What information do readers reveal that
+	      they might want to keep private?
+	 <LI> <A HREF="WWWSF6~2.HTM#Q50" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html#Q50">Q50</A> Do I need to respect my readers' privacy?
+	 <LI> <A HREF="WWWSF6~2.HTM#Q51" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html#Q51">Q51</A> How do I avoid collecting too much information?
+	 <LI> <A HREF="WWWSF6~2.HTM#Q52" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html#Q52">Q52</A> How do I protect my readers' privacy?
+       </UL>
+       
+  <LI> <A HREF="WWWSF7~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html">Client Side Security</A>
+       <UL>
+	 <LI> <A HREF="WWWSF7~2.HTM#Q53" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q53">Q53</A> Someone suggested I configure /bin/csh as a viewer for
+	      documents of type application/x-csh.  Is this a good idea?
+	 <LI> <A HREF="WWWSF7~2.HTM#Q54" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q54">Q54</A> Is there anything else I should
+	      keep in mind regarding external viewers?
+	 <LI> <A HREF="WWWSF7~2.HTM#Q55" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q55">Q55</A> How do I turn off the "You are submitting
+	      the contents of a form insecurely" message in Netscape?  Should I
+	      worry about it?
+	 <LI> <A HREF="WWWSF7~2.HTM#Q56" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q56">Q56</A> How secure is the encryption used by SSL?
+	 <LI> <A HREF="WWWSF7~2.HTM#Q57" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q57">Q57</A> My Netscape browser is displaying a form
+	      for ordering merchandise from a department store that I trust.  The
+	      little key at the lower left-hand corner of the Netscape window is
+	      solid and has two teeth.  This means I can safely submit my credit
+	      card number, right?
+	 <LI> <A HREF="WWWSF7~2.HTM#Q58" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q58">Q58</A> How private are my requests for Web documents?
+	 <li><a href="WWWSF7~2.HTM#Q59" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q59">Q59</a> What's the difference between Java and JavaScript?
+	 <li><a href="WWWSF7~2.HTM#Q60" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q60">Q60</a> Are there any known security holes in Java?
+	 <li><a href="WWWSF7~2.HTM#Q61" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html#Q61">Q61</a> Are there any known security holes in JavaScript?
+       </UL>
+   <LI> <a href="WWWSF8~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html">Specific Servers</a>
+       <ul>
+	 <li> Windows NT Servers
+	     <ul>
+	       <li><a href="WWWSF8~2.HTM#Q62" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q62">Q62</a> Are there any known problems with the Netscape Servers?
+	       <li><a href="WWWSF8~2.HTM#Q63" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q63">Q63</a> Are there any known problems with the WebSite Server?
+	       <li><a href="WWWSF8~2.HTM#Q64" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q64">Q64</a> Are there any known problems with Purveyor?
+	       <li><a href="WWWSF8~2.HTM#Q65" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q65">Q65</a> Are there any known problems with Microsoft IIS?
+	     </ul>
+	 <li> Unix Servers
+	     <ul>
+	       <li><a href="WWWSF8~2.HTM#Q66" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q66">Q66</a> Are there any known problems with NCSA httpd?
+	       <li><a href="WWWSF8~2.HTM#Q67" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q67">Q67</a> Are there any known problems with CERN httpd?
+	       <li><a href="WWWSF8~2.HTM#Q68" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q68">Q68</a> Are there any known problems with Apache httpd?
+	       <li><a href="WWWSF8~2.HTM#Q69" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q69">Q69</a> Are there any known problems with the Netscape Servers?
+	       <li><a href="WWWSF8~2.HTM#Q70" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q70">Q70</a> Are there any known problems with the IBM ICSS Server?
+	       <li><a href="WWWSF8~2.HTM#Q71" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q71">Q71</a> Are there any known problems with the WN Server?
+	     </ul>
+	 <li> Macintosh Servers
+	     <ul>
+	       <li><a href="WWWSF8~2.HTM#Q72" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q72">Q72</a> Are there any known problems with WebStar?
+	       <li><a href="WWWSF8~2.HTM#Q73" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf8.html#Q73">Q73</a> Are there any known problems with MacHTTP?
+	     </ul>
+       </ul>
+
+   <LI> <A HREF="WWWSF9~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf9.html">Bibliography</A>
+</OL>
+
+<HR>
+<ADDRESS><A HREF="mailto:lstein@genome.wi.mit.edu">Lincoln
+D. Stein</A><BR>
+<A HREF="tppmsgs/msgs5.htm#532" tppabs="http://www-genome.wi.mit.edu/">Whitehead Institute for
+Biomedical Research</A>
+</ADDRESS>
+<hr>
+<!-- hhmts start -->
+Last modified: Thu Mar 28 13:01:33 EST 1996
+<!-- hhmts end -->
+</BODY>
+</HTML>

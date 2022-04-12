@@ -1,0 +1,48 @@
+<html><head><title>Midi</title></head>
+<body background="MIDI1.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/midi1.gif" text="#410000" link="#82FF00" vlink="#004E00"></body>
+<h1 align=CENTER><font size=+10>MIDI</font></h1>
+
+<h4 align=center>MIDI = Music Instruments Digital Interface</h4>
+<h3 align=LEFT>Bakgrund</h3>
+
+På 80-talet när när synthvärlden fullkomligt exploderade skulle alla synthar vara så olika att när man väl lyckats lära
+ sig ett märke fick man hålla sig till det. Energin.räckte inte till att lära sig ny teknik även om det nya märket lät bättre 
+och till slut blev det hela ett tekniskt kaos där musiken kom i sista hand. Mot allt detta uppstod en reaktion där man 
+krävde en enkel standard som gällde för olika märken. 
+MIDI är ett elektroniskt språk för att överföra musikinformation mellan synthar/elektroniska instrument och datorer. 
+Praktiskt taget alla synthar/elektroniska instrument förstår midi nu och även datorerna med hjälp av s.k. midi-interface.
+ Ett midi-interface är länken mellan syntharnas midispråk och datorernas ettor och nollor. 
+<br>De musikinspelningsprogram som nu finns för datorer använder sig av midi och det gör också att man kan spara sina 
+inspelningar som midi-filer. SMF = Standard Midifile Format. De får då ändelsen ".mid" och kan spelas upp av
+vilket annat musikprogram som helst som använder sig av midi-filer.
+<hr size=3 width=400 align=CENTER>
+<h3 >Vilken musikinformation sänds via Midi?</h3>
+<ul><li>	¤ Status = vilken typ av musikhändelse det är frågan om. Det kan vara
+<ol><li>	En ton 
+<li>	En ljudkaraktär
+<li>	Numret på intern midikanal
+<li>		etc . . . 
+		</ol>
+<li>	¤ Värde (value)	Om det är en ton.
+<ol><li>				När tonen ska börja	
+<li>				Vilken ton det är.
+<li>				Hur lång den är
+<li>				Hur hårt anslaget på tonen är
+</ol>
+<li>	¤ Värde (value)		Om det är ljudkaraktär
+<ol><li>				Vilken ljudbank den kommer ifrån på synthen.
+<li>				Vilket nummer ljudet har i ljudbanken.
+<li>				Fr.o.m. när det nya ljudet ska börja låta.</ol></ul>
+De flesta synthar kan spela flera ljud samdigt. Det heter då att de är multitimbrala. 
+För att inte allt ska bli en elektronisk gröt delar man upp ljuden på flera kanaler, s.k. midikanaler. 
+Om synthen kan sända ut t.ex. 8 olika ljud samtidigt använder man sig av 8 midikanaler med nummer 1, 2, 3, osv. 
+Sedan bestämmer man ett ljud för varje midikanal så att man t ex. kan ha ett pianoljud på midikanal 1, 
+ett basljud på midikanal 2. 
+<br>Midi-meddelandena  har utvecklats mer och mer så att man nu kan skicka information om vilket sorts eko, rymdklang mm effekter man vill ha.
+ <p>
+<center><table border=5 valign=bottom cellpadding=0>
+<tr><td><a href="../../INDEX~1.HTM" tppabs="http://skol1.telia.se/midimusikskolan.html/index.html"><img src="HEM.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/hem.gif"></a></td>
+<td><a href="#MIDI"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif"></a></td>
+</center>
+</table> 
+</html>

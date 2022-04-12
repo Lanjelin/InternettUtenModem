@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN//3.2">
+<HTML>
+<HEAD>
+	<META http-equiv="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cf@magnet.at" for "http://www.iic.priv.at/iic" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'> 
+	<TITLE>IIC: Introduction to TCP/IP</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=10>
+
+	<IMG SRC="../IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=10><BR>
+	<A NAME="Top"><FONT FACE="Arial" SIZE=5><B>Einf&uuml;hrung in TCP/IP</B></FONT></A>
+	<BR>
+	<FONT FACE="Arial" SIZE=2>
+	<I>October, 17. 1996</I><BR>
+	<IMG SRC="../IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=20>
+	</FONT>
+	<FONT SIZE=2>
+	<P>
+	TCP/IP ist das Protokoll, welches im Internet verwendet wird, um Daten zu transferieren. TCP ist die Abk&uuml;rzung f&uuml;r
+	<I><B>T</B>ransmission <B>C</B>ontrol <B>P</B>rotocol</I>. TCP ist verantwortlich f&uuml;r eine stabile Verbindung zwischen zwei Computern.
+	Der Datentransfer zwischen zwei Computern wird wie folgt gehandhabt:
+	<P>
+	Der zu sendende Datenstrom wird in kleine Pakete aufgeteilt. Ein einzelnes Paket wird als <I>Datagramm</I> bezeichnet. Zuvor wird vom
+	TCP noch ein Header in das Datagramm eingef&uuml;gt, der lebenswichtige Informationen, wie zum Beispiel eine Checksumme und eine
+	laufende Nummer enth&auml;lt. Die laufende Nummer wird dazu verwendet, um die Pakete am Zielort wieder in der richtigen Reihenfolge
+	zusammenzustellen, da es passieren kann, da&szlig; das Datagramm #19 vor dem Datagramm #18 am Zielort ankommt. Die Checksumme wird
+	zur &Uuml;berpr&uuml;fung der Korrektheit des Datagramms verwendet. Die Checksumme bildet sich aus der Summe der einzelnen 
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/OCTET.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/octet.htm">Octets</A>
+	im Datagramm. Wird durch einen &Uuml;bertragungsfehler ein Byte ver&auml;ndert, dann stimmt die Checksumme nicht mehr und das Datagramm
+	wird nocheinmal angefordert.
+	<P>
+	Sowohl der Sender als auch der Empf&auml;nger schicken sich gegenseitig Empfangsbest&auml;tigungen, um sicherzustellen, da&szlig; die 
+	Datagramme korrekt &uuml;bertragen worden sind. Wird f&uuml;r ein Datagramm nach einer gewissen Zeit keine Best&auml;tigung empfangen,
+	dann wird das Datagramm nocheinmal angefordert.
+	<P>
+	IP ist die Abk&uuml;rzung f&uuml; <I><B>I</B>nternet <B>P</B>rotocol</I>. Die Funktionen dieses Teils liegen in der Adressierung
+	und der weiteren Aufsplittung der Datagramme falls n&ouml;tig. TCP reicht alle Datagramme mit Ihrer 
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/IP.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/ip.htm">IP-Addresse</A> an das IP weiter. Das IP schickt das
+	Datagramm anschlie&szlig;end auf die Reise. das IP f&uuml;gt ebenfalls eine Header-Information ein, um den korrekten Transfer zu 
+	gew&auml;hrleisten. Das IP leitet dann die Datagramme durch Ihren Weg im Netz zum entsprechenden Empf&auml;nger. Einzelne Datagramme
+	m&uuml;ssen nicht unbedingt denselben Weg zum Ziel nehmen. Die einzelnen Datagramme werden an bestimmten Punkten <I>geroutet</I> - 
+	d.h. es wird entschieden auf welchem Weg das Ziel erreicht wird. Das kann bei Besch&auml;digungen oder langsamen Verbindungen ganz
+	n&uuml;tzlich sein. 
+	</FONT>
+	<DIV ALIGN=RIGHT>
+		<HR ALIGN=RIGHT WIDTH=200 SIZE=1 COLOR=#000000>
+		<FONT FACE="Arial" SIZE=1>
+		&copy 1996 Christian Feichtner<BR>
+		Verbreitung in jeglicher Form nur mit Zustimmung des IIC.<BR>
+		Internet Dienste werden gesponsert und zur Verf&uuml;gung gestellt von<A HREF="../../../tppmsgs/msgs0.htm#94" tppabs="http://www.austria.eu.net/">EUnet International</A>
+	</DIV>
+
+</BODY>
+</HTML>

@@ -1,0 +1,42 @@
+<HTML>
+<HEAD><TITLE>Net~User </TITLE>
+</HEAD>
+<BODY BACKGROUND="../IMAGES/PDRBKGRN.JPG" tppabs="http://www.net-user.com/images/pdrbkgrn.jpg" TEXT="#000000">
+<CENTER><IMG SRC="../IMAGES/NET~USER.GIF" tppabs="http://www.net-user.com/images/net~user.gif" ALT="Net~User">
+<BR>
+<FONT SIZE=+2>F</FONT>eedback
+<P>
+</CENTER>
+Use this to send feedback and let us know what you think about this site. If your browser doesn't support forms, you can use this <A HREF="mailto:Net-User@worldnet.att.net">normal mailto link.</A>
+<P>
+<FORM METHOD="POST" ACTION="http://www.net-user.com/cgi-bin/formmail.pl">
+<input type=hidden name="recipient" value="Net-User@worldnet.att.net">
+<input type=hidden name="redirect" value="http://www.net-user.com/graphics/">
+<input type=hidden name="subject" value="## Graphics Feedback ##">
+<input type=hidden name="required" value="realname,email,rating,comments">
+<input type=hidden name="env_report" value="REMOTE_HOST,HTTP_USER_AGENT">
+<input type=hidden name="sort" value="order:realname,email,rating,comments,url">
+<STRONG>Real Name:</STRONG><BR>
+<INPUT NAME="realname" TYPE="TEXT" SIZE="35"  MAXLENGTH="45"><P>
+<STRONG>E-Mail Address:</STRONG><BR>
+<INPUT NAME="email" TYPE="TEXT" SIZE="35"  MAXLENGTH="45"><P>
+<STRONG>Web Site URL:</STRONG><BR>
+<INPUT NAME="url" TYPE="TEXT" SIZE="45"  MAXLENGTH="75"><P>
+<STRONG>How do you rate this site?:</STRONG><BR>
+<SELECT NAME="rating" SIZE= 1>
+<OPTION>The best I've ever seen!
+<OPTION>Great!
+<OPTION>Pretty good.
+<OPTION>Nice try...
+<OPTION>You call this a web page?
+</SELECT>
+<P>
+<STRONG>Comments:</STRONG><BR>
+<TEXTAREA ROWS=8 COLS=60 NAME="comments" WRAP=VIRTUAL></TEXTAREA>
+<P>
+<TABLE BORDER=4 CELLPADDING=0 CELLSPACING=3>
+<TR><TD ALIGN=CENTER><INPUT TYPE="SUBMIT" NAME=button VALUE=SUBMIT></TD>
+<TD ALIGN=CENTER><INPUT TYPE="RESET" NAME=button VALUE=CLEAR FORM></TD></TR>
+</TABLE>
+</BODY>
+</HTML>

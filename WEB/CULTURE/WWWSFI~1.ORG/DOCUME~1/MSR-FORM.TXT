@@ -1,0 +1,78 @@
+Email Submission Format
+TO: VOPS@SFI.ORG
+FROM: <Reporting Officer Email Address>
+Subject: MSR <Month/Year> <Chapter Name>
+
+*Note:  Please do *NOT* attach any other text to the report.
+        Any comments can be sent by seperate private EMail to this Address.
+        Comments, Questions or Problems concerning STARFLEET Operations can be 
+        directed to Commodore Tom Monaghan, Chief of STARFLEET Operations at:
+        OPS@SFI.ORG                                                             
+                                                                Thank You
+=============================================================================
+STARFLEET
+EMAIL MONTHLY STATUS REPORT
+CHAPTER FORM
+
+Status Report:  <Report for Month/Year>
+
+
+From:  <Chapter Name>   
+Registry: <NCC #>
+Chapter Type: <Meeting Chapter/Correy Chapter/Armed Services Chapter>  
+Region: 
+STARFLEET Crew: <Number of Active and Pending Members>
+*Note: A list of Members Names and Expirition Dates would be helpful here as
+well
+Last Meeting:           
+Next Meeting:
+Chapter Newsletter:                     
+Last Publication Date:
+
+Commanding Officer:
+<Capt./CO's name and SCC number)>
+Mailing Address: <CO's mailing address>
+Phone: <CO's Phone#>    
+E-mail:  
+OTS/OCC Status: <Currently Have Both>
+
+Executive Officer:
+Cmdr. <XO's name and SCC number>
+Mailing Address:
+<XO's mailing address>    
+Phone:
+E-mail:
+OTS/OCC Status: <Currently Have Both>
+
+Chapter Charter Fee Paid: <Date When Paid>
+
+Chapter Address: <Your Chapter/shuttle's mailing address>
+
+Chapter Email:<Your Chapter Email Address>
+
+City of Charter: <City and state/province Chapter was commissioned in>
+
+Shuttles:  
+
+Promotions, DSA's and/or Citations:
+
+Academy Graduates:
+
+Activities:
+
+Problems:  
+<Any Problem! They will be reviewed and passed on to the proper person for
+action>
+
+Comments:  
+<As above, any Comments or Suggestions will be reviewed and passed on>
+
+
+
+Commanding Officer:  <CO's Name>                   
+Date: <Of Report>
+
+Reporting Officer:   <Reporting Officers Name>        
+Date: <Of Report>
+
+<eof>

@@ -1,0 +1,2394 @@
+IRPS NEWSLETTER
+September 1, 1996.
+Issue # 9
+
+Table of Contents:
+
+IRPS Monthly status Report (Michael Popovich <cad@digital.net>)
+Editor's Note              (Karen Mizeri <kmizeri@jetstream.net)
+--------------------------------------------------------------------------------
+MONTHLY COLUMNS:
+--------------------------------------------------------------------------------
+Make your Campaign more fun Jenn Millington <jimjen@interlog.com>
+Message from Marz           Lawrence marz <marz@hotstar.net>
+Rambling Thoughts           Kosala Ubayasekara <kosala@dataphone.se>
+DM's Advice                 Earl Harrison <harrison@comsys.net>
+Status Report - #IRPS       David Knisley <bean6@ix.netcom.com>
+On the Shoulders of Giants  Bruce Sheffer  <BSHEFFER@arthritis.org>
+More Than Just Dice         Jay Collins    <backburn@earthlink.net>
+The MetroGnome              Dave Mavretic <davem1@mail.microserve.net>)
+The Dragon                  Bruce Butkus <Butkusbr@postoffice.ptd.net>
+--------------------------------------------------------------------------------
+FICTION:
+--------------------------------------------------------------------------------
+The Assassins               Tim Elford  <telford@tusc.au>  AND
+                            Goran Zidar <goran@elf.aust.com>
+Journal of Fireside Tales   John "B.J." Tomkins <gr8dm@acronet.net>
+Top Ten                     John "B.J." Tomkins <gr8dm@acronet.net>
+Rae Dawn                    Anthony Scalzitti  <AJS13@aol.com>
+--------------------------------------------------------------------------------
+Monthly Classified Ads:
+--------------------------------------------------------------------------------
+Land of Shadows PBEM
+The Kindred Network
+The Moon Nights
+ANDCON Convention
+Image
+Webverse
+
+--------------------------------------------------------------------------------
+IRPS Monthly status Report 
+Michael Popovich <cad@digital.net>
+--------------------------------------------------------------------------------
+Hello Once Again!
+	Wow, I'm definitely pleased with how IRPS has been progressing through
+the past few months.  When the club first started, we had only a few things to
+offer such as the web page, newsletter, and gaming discounts, but with the IRPS
+Online city soon coming into existence we'll have more to offer to our club
+members.
+	Also, I would like to thank each and everyone of our members who make
+IRPS a much better place.  Currently, our club membership is up to around 1400
+people which is definitely a growth spout for the club.
+	Well, that's enough about my mouth yapping away, enjoy the rest of the
+newsletter (which by the way is arranged differently this month).
+
+--------------------------------------------------------------------------------
+Editor's Note
+Karen Mizeri  <kmizeri@jetstream.net>
+--------------------------------------------------------------------------------
+Greetings all!
+        You will notice this month's newsletter is fairly large.  I would like 
+to thank everyone who  submitted and encourage them to keep up the good work. :)
+We are starting to draw a lot more attention.  For this reason we have a new set
+of guidelines for submissions.
+Effective immediately they are as follows:
+ - All articles must be submitted in DOS text.  Lines are 80 characters.
+ - Absolutely no foul language.
+ - Articles must be spell checked, and have an understandable format.
+ - Articles must meet basic grammar requirements.
+ - We accept articles in English only.
+ - ARTICLES MUST MEET ALL COPYRIGHT/TRADEMARK LAWS.  This is very, very
+   important.  The larger companies are starting to crack down.  IRPS cannot
+   afford to be held responsible for copyright/trademark breech.  Questionable
+   articles will be refused unless the author can prove they meet these laws.
+ - Original submissions only please.  We do not reprint.
+ - We reserve the right to not to publish everything we receive.
+ - We accept role playing aides, fiction, poetry, and classified advertisements.
+ - Submission deadline is the 25th of the month until further notice.
+
+For anyone not sure if they meet these requirements, submit your article early.
+I am quite willing to assist anyone who would like to submit in meeting the
+guidelines.
+
+ The newsletter will now be divided into four parts.
+ 1) Monthly columns.  For those of you who write every month.
+ 2) Role playing aides.  This is monsters, items, new tables, etc.
+ 3) Fiction
+ 4) Classified advertisements
+
+We are also considering doing an on-line magazine for IRPS.  I will need 
+volunteers to work in all departments and head others:
+
+Graphics 
+Research
+On-line maintenance
+HTML
+Layout  - Jenn Millington
+Editing/coordination - Karen Mizeri
+
+Anyone who is interested please E-mail me <kmizeri@jetstream.net> with a list
+of your qualifications and experience.  I will continue to do the editing and
+coordination of the newsletter/magazine. Jenn Millington will be handling 
+layout.  We will shortly be starting weekly meetings for the newsletter staff.  
+These will be announced at a later date.
+
+Again, thanks to all the writers for helping the newsletter grow.  :)  I would
+like to encourage anyone out there who is thinking about submitting and hasn't
+yet.  :)  Anyone who has questions can email me at the above address, or from 
+the IRPS homepage.
+
+Sincerely,
+
+Karen Mizeri
+
+------------------------------------------------------------------------------
+Ways to Make your Campaign more Fun
+Jenn Millington   <jimjen@interlog.com>
+------------------------------------------------------------------------------
+I have found that sometimes campaigns can become boring.  Gamers play the same
+characters over and over again and eventually their characters become
+identical.  Sometimes I find the best way to cure this problem is by creating
+a bogey table.
+
+The bogey table allows you to give negative and positive traits to your gamers.
+I recommend giving one positive and one negative.  This will require gamers to
+take more care in role playing their characters.
+
+Bogey Table (roll 1d6 and 1d10)
+
+%
+Bogey
+Notes
+
+01 Ugliness
+-1 to comeliness
+
+02 Beauty
++1 to comeliness
+
+03 Poor Sight
+10 % chance of reading something wrong.
+
+04 Sexual Charm
++2 to Charisma when dealing with opposite sex.  Members of opposite sex find
+you sexually irresistible
+
+05 Deafness Can hear only the loudest noises.
+
+06 Amiability
+Never takes offense +1 to Charisma
+
+07 Stammer
+-1 to Charisma.  Cannot speak in an emergency
+
+08 Leadership
++1 to Charisma
+
+09 Limp
+-1 to Dexterity: movement rate one slower than normal
+
+10 Presence of mind
+Gains +1 in morale or control tests
+
+11 Asthma
+-1 to Constitution.  Allergic to pollen, dust or animals.
+
+12 Oratory
++1 to Charisma.  Can convince people to see things his way.
+
+13 Poor Health
+-1 to Constitution.  Gets exhausted easily, +1 to catching diseases.
+
+14 Born organizer
++1 to Intelligence.  Will never forget supplies.
+
+15 Shyness
+Difficulty in dealing with people.  -1 to Charisma.
+
+16 Gift of sleep
+Can sleep anywhere, anytime
+
+17 Belligerence
+Takes offense at any criticism. -1 to Charisma
+
+18 Resistance to alcohol
+Never gets drunk.  +2 in tests
+
+19 Insomnia
+Fitful sleep
+
+20 Good health
++1 to Constitution.  Takes twice as long to become exhausted, -1 to catching
+diseases.
+
+21 Prone to intoxication
+Always gets drunk.  -2 in tests
+
+22 Resistance to pain
++1 to any checks to do with pain.
+
+23 spendthrift/hoards
+obsessional spending or hoarding of money
+
+24 Gift of tongues
++2 to figuring out language (takes 1 day)
+
+25 Fear of crowds
+Fears being around more than 10 people.  Save vs paralyzation at -2 or freeze
+in terror
+
+26 Allure
+Can receive one henchman every 6 levels
+
+27 Kleptomania
+Always stealing small objects +20% to pick pockets
+
+28 Impersonation
+Automatically gets the disguise proficiency
+
+29 Agoraphobia
+Paralyzing fear of open spaces.  Save vs paralyzation at -2 or freeze in
+terror.
+
+30 Good with animals
+Has animal handling proficiency
+
+31 Fear of water 
+Cannot swim.  Save vs. paralyzation at -2 or panic if in water over head.
+
+32 Gambling
+Has the gaming proficiency
+
+33 Fear of spiders/snakes
+Paralyzing fear of spiders/snakes.  Save vs paralyzation at -2 or freeze in
+terror.
+
+34 Green fingers
+Can make any  plant grow
+
+35 Fear of rodents
+Paralyzing fear of rodents. Save vs paralyzation at -2 or freeze in terror.
+
+36 Mechanical genius
+Can understand machines workings after study.  Has engineering proficiency
+
+37 Fear of animals
+Paralyzing fear of one animal.  Save vs paralyzation at -2 or freeze in terror.
+
+38 Born Swimmer
+automatic swimming proficiency
+
+39 Allergic to horses
+Must make a constitution check or be paralyzed by sneezing
+
+40 Born climber
++20% to climb walls
+
+41 Easily bruised
+suffers an extra hp damage for each d of damage from bludgeoning weapons
+
+42 Artistic ability
+Has artistic ability proficiency
+
+43 Clumsy
+-1 to Dexterity
+
+44 Sense of direction
+Knows exactly where he is (relative to north/south)
+
+45 Monochrome sight
+Cannot see colors - only black, white or shades of gray
+
+46 Photographic memory
+Intelligence check to see if player remembers situation
+
+47 Deep sleeper
+Will only awaken when disturbed by a loud noise - takes 1-6 rounds before
+he is capable of any combat.
+
+48 Trivia Buff
+25% chance to know some obscure piece of history about an area
+
+49 Fear of heights
+Save vs paralyzation at -2 or freeze in terror
+
+50 Musical Instrument
+Has musical instrument proficiency in one instrument.
+
+51 One Eye
+-1 to Dexterity and comeliness
+
+52 Resistance to cold
+Has survival cold proficiency
+
+53 Body odor
+-1 to Charisma.  People avoid you
+
+54 Resistance to heat
+Has survival heat proficiency
+
+55 Snoring
+Anybody sleeping within 30 ft. indoors, 20ft. outdoors will not be able to
+sleep restfully.
+
+56 Light sleeper
+75% chance to wake at slightest disturbance
+
+57 Different colored eyes
+-1 to Charisma.  Considered to have bad luck and the evil eye.
+
+58 Juggling
+Has juggling proficiency
+
+59 Claustrophobia
+Paralyzing fear of confined spaces.  Save vs paralyzation at -2 or panic.
+
+60 Ambidextrous
++1 to Dexterity.  Can use a weapon in either hand equally well.
+
+61 Talks in sleep
+Tends to talk in his sleep.  Will disturb the sleep of other players and may
+share important secrets while asleep.
+
+62 Reads lips
+Automatically has the rip leading proficiency.
+
+63 Sleep walker
+Walks in his sleep.  Has no memory of this occurrence.
+
+64 Natural Rider
+Naturally knows how to ride horses.  Has riding land-based proficiency.
+
+65 Lycanthropy
+50% change into a wolf/bear/dog on a full moon, or under intense situations
+(25% chance).
+
+66 Healing Hands
+Restores 1-6hp once per day by laying on hands.
+
+67 Hot-tempered
+Tends to lose his temper when things are not going his way or in fights.  He
+will tend to act before thinking.
+
+68 Empathy
+Can sense what sentients are feeling (as per the Psionicist's Handbook).
+
+69 Paranoid
+Believes that the world is out to get him.
+
+--------------------------------------------------------------------------------
+Message from Marz
+Lawrence Marz  <marz@hotstar.net>
+--------------------------------------------------------------------------------
+
+GURPS PHOBIAS
+
+Q- QUIRK    -#s = DISADVANTAGES
+
+A
+
+-5      Acaro-itching or of the insects that cause itching
+-5      Acero-sourness
+-10     Achluo, Scoto-darkness
+-5      Acoustico-noise
+-5      Acro-heights
+-5      Aero-drafts, or airbourne noxious substances
+Q       Aeroacro-open high places
+Q       Aeronausi-vomiting secondary to airsickness
+-10     Agora, Demo-open spaces or of being in crowded, public places like 
+        markets
+-5      Agra-sexual abuse
+-5      Agrizoo-wild animals
+-5      Agyro-streets or crossing the street
+-5/-10  Aichmo, Belene-needles or pointed objects(ie weapons)
+Q       Ailuro, Eluro, Felino, Galeo, Gato-Cats
+Q       Albuminuro-kidney disease
+Q       Alektoro-chickens
+-5/-10  Algo, Odyno, Odyne-pain
+Q       Allium-garlic
+-5      Allodoxa-opinions
+-10     Alto-heights
+-5      Amatho, Konio-dust
+Q	Amaxo-riding in a car
+-10	Ambulo, Stasibasi, Stasi-walking
+Q	Amnesi-amnesia
+-5	Amycho-scratches or being scratched
+-5	Anablepobia-looking up
+-5	Ancrao, Anemo-wind
+-15	Andro-men
+-5	Anemo-air drafts or wind 
+-10	Angino-angina, choking or narrowness
+Q	Anglo-England, English culture, etc
+-5	Ankylo-immobility of a joint
+-5	Anthro-flowers
+-15	Anthropo-people or society
+-5	Antlo-floods
+-5	Anupta-staying single
+Q	Apeiro-infinity
+-15	Aphenphosm, Haphe, Hapte--being touched 
+Q	Api-bees
+-5	Apotemno-persons with amputations
+Q	Arachibutyro-peanut butter sticking to roof of mouth
+Q	Arachne-spiders
+-15	Arithm-numbers
+-15	Arrhen-men
+-10	Arson-fire
+-5	Astheno-fainting or weakness
+-5	Astra or Astrapo-thunder and lightning
+-5	Atelo-imperfection
+Q	Ate-ruins
+-5	Atychi-failure
+Q	Aulo-flutes
+Q	Auro-gold
+Q	Aurora-Northern lights
+Q	Autodysomo-one that has a vile odour
+-10	Automyso-being dirty
+-10	Auto-being alone or of oneself
+-5	Avio or Aviato-flying
+
+B
+
+Q	Bacillo, Microbio-microbes
+Q	Bacterio-bacteria
+-5	Bogy-bogies or the bogeyman
+-5	Ballisto-missles or bullets
+Q	Bolshe-Bolsheviks
+-10	Baro-gravity
+-15	Baso or Basi- Inability to standwalking or falling
+-5	Batho-depth
+-15	Batono-plants
+-5/Q	Bato-heights or being close to high buildings
+Q	Batracho-amphibians, such as frogs, newts, salamanders 
+-10	Biblio-books
+Q	Blenno, Myxo-slime
+-5	Bromidrosi or Bromidro-body smells
+Q	Bronto-thunder storms
+Q	Bufono-toads
+
+C
+
+-5	Caco-ugliness
+-5	Caino or Cainoto-newness, novelty
+-5	Caligyne-beautiful women
+-5	Cardio-the heart
+-10	Carno-meat
+-5	Catagelo-being ridiculed
+Q	Catapeda-jumping from high and low places
+-10	Cathiso-sitting
+Q	Catoptro-mirrors
+-5	Ceno or Cento-empty rooms, empty spaces
+Q	Cerauno-thunder
+-5	Chaeto, Trichopatho, Tricho-hair
+-5	Cheima or Cheimato-cold
+-5	Chemo-chemicals or working with chemicals
+Q	Chero-gaiety
+Q	Chiono-snow
+Q	Choro-dancing
+-5	Chrometo or Chremato-money
+-15	Chromo or Chromato-colors
+-15	Chrono-time
+-15	Cibo, Sito, Sitio-food
+-5	Claustro-confined spaces
+-5	Cleithro or Cleisio-being locked in an enclosed place
+Q	Clepto-stealing
+Q	Climaco-stairs, climbing or of falling downstairs
+-5	Clino-going to bed
+-5	Clithro or Cleithro-being enclosed 
+Q	Cnido-strings
+Q	Cometo-comets
+Q	Coimetro-cemeteries
+Q	Coito-coitus
+-5	Contrelto-sexual abuse
+Q	Coprastaso-constipation
+-5	Copro-feces
+Q	Counter- The preference by a phobic for fearful situations
+Q	Cremno-precipices
+Q	Cryo-extreme cold, ice or frost
+-5	Crystallo-crystals or glass
+-5	Cyber-computers or working on a computer
+
+Q	Cyclo-bicyles
+Q	Cymo-waves or wave like motions
+Q	Cyno-dogs
+-5	Cyprido, Cypri, Cypriano, or Cyprino -prostitutes or venereal disease
+
+D
+
+-5	Decido-making decisions
+Q	Defecaloesio-painful bowels movements
+Q	Deipno-dining and dinner conversations
+-5	Demento-insanity
+Q	Demono or Daemono-demons
+Q	Dendro-trees
+Q	Dento-dentists
+Q	Dermato-skin lesions
+-5	Dermatosio or Dermato-skin disease
+Q	Dextro-objects at the right side of the body
+Q	Diabeto-diabetes
+Q	Didaskaleino-going to school
+-5	Dike-justice
+Q	Dino-dizzyness or whirlpools
+Q	Diplo-double vision
+-5	Dipso-drinking
+Q	Dishabilio-undressing in front of someone
+-5	Domato or Oiko-houses or being in a house
+-5	Dora-fur or skins of animals
+Q	Dromo-crossing streets
+Q	Dutch-the Dutch
+-5	Dysmorpho-deformity
+Q	Dystychi-accidents
+
+E
+
+-5	Ecclesio-church
+-5	Eco-home
+Q	Eico or Oiko-home surroundings
+Q	Eisoptro-mirrors or of seeing oneself in a mirror
+-5	Electro-electricity
+-5	Eleuthero-freedom
+Q	Emeto-vomiting
+Q	Eneto-pins
+-5	Enochlo-crowds
+-5	Enosio, Enisso-having committed an unpardonable sin
+-15	Entomo-insects
+-10	Eoso-dawn or daylight
+Q	Epistaxio-nosebleeds
+Q	Equino-horses
+-5	Eremo-being oneself or of loneliness
+Q	Ereuthro-blushing
+Q	Ergasio- 1)work or functioning 2) Surgeon's operating
+-10	Ergo-work
+-10	Eroto-sexual love
+Q	Eu-hearing good news
+Q	Euroto-female genitalia
+Q	Erythro, Eryto, Ereutho- 1) redlights 2) Blushing
+
+F
+
+-5	Febri, Fibri or Fibrio-fever
+Q	Franco, Gallo, Galio-France, French culture
+Q	Frigo-cold, cold things 
+
+G
+
+-5	Gamo-marriage
+Q	Gelio-laughter
+-5	Genio-chins
+-10	Geno-sex
+-5	Genu-knees
+Q	Gephyro-crossing bridges
+Q	Germano-Germany, German culture, etc
+-5	Gerasco-growing old
+-5	Geronto-old people or of growing old
+-5	Geuma or Geumo-taste
+-5	Glosso-speaking in public or of trying to speak
+-10	Gnosio-knowledge
+-5	Grapho-writing or handwriting
+-5	Gymno-nudity
+-15	Gyne or Gyno-women
+
+H
+
+-5	Hade-hell
+-5	Hagio-saints or holy things
+-5	Hamarto-sinning
+-5	Harpaxo-being robbed
+Q	Hedono-feeling pleasure
+-15	Helio-the sun
+Q	Hellenologo-Greek terms or complex scientific terminology
+Q	Helminth-being infested with worms
+-5	Hemo or Hema or Hemato-blood
+Q	Heresy or Hereio-challenges to official doctrine or of radical 
+        deviation
+-15	Herpeto-reptiles
+-10	Hetero, Sexo-the opposite sex
+-5	Hiero-priests or sacred things
+Q	Hippo-horses
+Q	Hippopotomonstrosesquippedalio-long words
+Q	Hodo-road travel
+Q	Horme-shock
+Q	Homichlo, Nebula-fog
+Q	Homilo-sermons
+-5/-10	Homo-sameness, monotony or of homosexuality or of becoming 
+        homosexual (males more than females)
+Q	Hydrargyo-mercurial medicines
+-15	Hydro-water
+Q	Hydrophobo-rabies
+-5	Hyelo or Hyalo-glass
+-15	Hygro-liquids, dampness, or moisture
+Q	Hyle-materialism 
+Q	Hylo-forests
+-5	Hypengyo or Hypegia-responsibility
+-15/Q	Hypno-sleep or of being hypnotized
+-5	Hypsi-height
+
+I
+
+-5	Iatro-going to the doctor
+-15	Ichthyo-fish
+-10	Ideo-ideas
+Q	Illyngo-veritgo or feeling dizzy when looking down
+-5	Io-poison
+-10	Isolo-solitude, being alone
+Q	Isoptero-termites, insects that ear wood
+Q	Ithyphallo-seeing or having an erect penis
+
+J
+
+Q	Japano-Japanese
+Q	Judeo-Jews
+
+K
+
+Q	Kainolo-novelty
+Q	Kaino-anything new, novelty
+-5	Kakorrhaphio-failure or defeat
+-5	Katagelo-ridicule
+-10	Kathiso-sitting down
+-5	Keno-voids or empty spaces
+Q	Kerauno-thunder and lightning
+-15	Kineto or Kineso-movement or motion
+Q	Klepto-stealing
+-5	Koinoni-rooms
+-10	Kolpo-genitals, particularly female
+-5	Kopo-fatigue
+Q	Kymo-waves
+Q	Kyno-rabies
+Q	Kypho-stooping
+
+L
+
+Q	Lachano-vegetables
+Q	Lepro or Lepra-leprosy
+-10	Lalio or Lalo-speaking
+-5	Leuko-the color white
+Q	Levo-things to the left side of the body
+Q	Ligyro-loud noises
+-5	Lilapso-tornadoes and hurricanes
+Q	Limno-lakes
+Q	Linono-string
+Q	Litica-lawsuits
+-5	Logizomechano-computers
+-15	Logo-words
+Q	Lui-lues, syphillis
+-15	Lygo-darkness
+-5	Lysso-becoming mad
+
+M
+
+Q	Macro-long waits
+-5	Maieusio-childbirth
+-5	Malaxo, Sarmasso-love play 
+-5	Mania-insanity
+-5	Mastigo-punishment
+-10	Mechano-machines
+Q	Medomalacu-losing an erection
+Q	Medortho-an erect penis
+-5	Megalo-large things
+Q	Melisso-bees
+-5	Melo- Fear or hatred of music
+Q	Meningito-brain disease
+-5	Meno-menstruation
+-5	Merintho-being bound or tied up
+-10	Metallo-metal
+Q	Meteoro-meteors
+Q	Methy-alcohol
+Q	Metro- Fear or hatred of poetry
+-5	Micro-small things
+-10	Miso-being contaminated with dirt of germs
+-5	Mnemo-memories
+-5	Molysmo or Molysomo-dirt or contamination
+-10	Mono-being alone
+Q	Monopatho-definite disease
+Q	Motor-automobiles
+Q	Motte-moths
+Q	Muso or Muro-mice
+-5	Mycro-small things
+-15	Mycto-darkness
+Q	Myrmeco-ants
+-5	Myso-germs or contamination
+-5	Mytho-myths or stories or false statements
+
+N
+
+-5	Necro-dead things
+Q	Negro-Negros
+-5	Nelo-glass
+Q	Neopharma-new drugs
+-15	Neo-anything new
+Q	Nepho-clouds
+-5	Nocti-the night
+-15	Nomato-names
+Q	Nosocome-hospitals
+-5	Noso or Nosema-becoming ill
+-5	Nosto-returning home
+Q	Noverca, Phthirio-your mother-in-law
+Q	Nucleomitu-nuclear weapons
+-10	Nudo-nudity
+-15	Numero-numbers
+-15/-10	Nycto-the dark or of night
+
+O
+
+-5	Obeso, Pocresco-gaining weight
+-5	Ochlo-crowds or mobs
+-5	Ocho-vehicles
+Q	Odonto-teeth
+Q	Oeno-wines
+Q	Oiko-home surroundings, house
+-10	Olfacto-smells
+-10	Ombro-rain or of being rained on
+-10	Ommeta or Ommato-eyes
+Q	Oneiro-dreams
+Q	Oneirogmo-wet dreams
+Q	Onomato-hearing a certain word or of names
+Q	Ophidio, Snake-snakes
+Q	Ophthalmo-being stared at
+Q	Opto-opening one's eyes
+-10	Ornitho-birds
+-5	Ortho-property
+-5	Osmo or Osphresio-smells or odours
+-5	Ostracono-shellfish
+-10	Ourano-heaven
+
+P
+
+-10	Pago-ice or frost
+-10	Pantho-suffering and disease
+-15	Pano or Panto-everything
+Q	Papa-the Pope
+-5	Papyro-paper
+-5	Paralipo-neglecting duty or responsibility
+-5	Para-sexual perversion
+-10	Parasito-parasites
+Q	Partheno-virgins or young girls
+-10	Patho-disease
+-5	Patroio-heredity
+-5	Peccato-sinning, imaginary crime
+Q	Pediculo, Phthirio-lice
+Q	Pedio-dolls
+-10	Pedo-children
+Q	Pelado-bald people
+Q	Pellagro-pellagra
+-5	Penia-poverty
+-10/-15	Phago-swallowing or of eating
+Q	Phalacro-becoming bald
+Q	Phallo-a penis, esp erect
+Q	Pharmaco-taking medicine
+Q	Phasmo-ghosts
+-15	Phengo-daylight or sunshine
+Q	Philema or Philemato-kissing
+-5	Philo-falling in love or being in love
+-5	Philoso-philosophy
+Q	Photoauglia-glaring lights
+-15	Photo-light
+-10/Q	Phono-noises or voices or one's own voice; of phones
+-5	Phronemo-thinking
+Q	Phthisio-tuberculosis
+Q	Placo-tombstones
+-5	Pluto-wealth
+-5	Pluvio-rain or of being rained on
+-5	Pneumati-spirits
+-5	Pnigo or Pnigero-choking of being smothered
+Q	Pogono-beards
+Q	Politico- Fear or abnormal dislike of politicians
+-10	Poly-many things
+-5	Poine-punishment
+-5	Pono-overworking
+Q	Potam-rivers
+Q	Poto-alcohol
+Q	Pharmaco-drugs
+Q	Procto-rectum
+        Proso-progress
+Q	Psellismo-stuttering
+-5	Psycho-mind
+Q	Pterono-being tickled by feathers
+-5	Pyrexio-Fever
+-5	Pyro-fire
+
+R
+
+-5	Radio-radiation, x-rays
+Q	Ranida-frogs
+-5	Recto-rectum or rectal diseases
+-5/-10	Rhabdo-being severely punished or beaten by a rod, or of being 
+        severely criticized Also magic
+-5	Rhypo-defecation
+Q	Rhyti-getting wrinkles
+-5	Rupo-dirt
+Q	Russo-Russians
+
+S
+
+-5	Satano-Satan
+Q	Scato-fecal matter
+-5	Scelerophibia-bad men, burglars
+-5	Scio Scia-shadows
+Q	Scoleci-worms
+Q	Scoliono-school
+-5	Scopo or Scopto-being seen or stared at
+Q	Scotoma-blindness in visual field
+Q	Scripto-writing in public
+Q	Sela-light flashes
+-5	Seleno-the moon
+-5	Seplo-decaying matter
+-5	Siderodromo-trains, railroads or train travel
+-5	Sidero-stars
+-5	Sinistro-things to the left, left-handed
+Q	Sino-Chinese, Chinese culture
+Q	Socera-parents-in-law
+-5	Social -being evaluated negatively in social situations
+-10	Socio-society or people in general
+-5	Sopho-learning
+-10	Space-outer space
+Q	Spectro-specters or ghosts
+-5	Spermato or Spermo-germs
+Q	Sphekso-wasps
+Q	Stauro-crosses or the crucifix
+-5	Steno-narrow things or places
+Q	Stygio or Stigio-hell
+Q	Suri-mice
+Q	Symbolo-symbolism
+Q	Symmetro-symmetry
+-5	Syngeneso-relatives
+Q	Syphilo-syphilis
+
+
+T
+
+-5	Tacho-speed
+Q	Taenio-tapeworms
+Q	Taphe, Tapho-being buried alive or of cemeteries
+Q	Tapino-being contagious
+Q	Tauro-bulls
+-10	Techno-technology
+-5/-10	Teleo- 1)  definate plans 2) Religious ceremony
+Q	Telephono-telephones
+Q	Terato-bearing a deformed child, monsters or deformed people
+Q	Testo-taking tests
+Q	Tetano-lockjaw, tetanus
+Q	Teuto-German or German things
+Q	Texto-certain fabrics
+-10	Thaaso-sitting
+-5	Thalasso-the sea
+-15	Thanato-death or dying
+Q	Theatro-theatres
+-5	Theologico-theology
+-10	Theo-gods, religion
+-10	Thermo-heat
+-5	Toco-pregnancy or childbirth
+-5	Tomo-surgical operations
+Q	Tonitro-thunder
+-5	Topo-certain places
+-5	Toxi, Toxo, Toxico-poison
+-5	Traumato-injury
+Q	Tremo-trembling
+Q	Trichino-trichinosis
+Q	Triskadeka-the number 13
+Q	Tropo-moving or making changes
+Q	Trypano-injections
+Q	Tuberculo-tuberculosis
+-5	Tyranno-tyrants
+
+U
+
+-5	Urano-heaven
+-10	Uro-urine or urinating
+
+V
+
+-5	Vaccino-vaccination
+-5	Venustra-beautiful women
+-10	Verbo-words
+-5	Vermino-germs
+-5	Vesti-clothing
+Q	Virgiuiti-rape
+Q	Vitrico-step-father
+
+X
+
+Q	Xantho-the color yellow or the word yellow
+-10	Xeno-strangers or foreigners
+-5	Xero-dryness
+-5	Xylo- 1)  wooden objects 2) Forests
+
+Z
+
+Q	Zelo-jealousy
+Q	Zoo-animals
+
+
+--------------------------------------------------------------------------------
+Rambling Thoughts
+Kosala Ubayasekara <kosala@dataphone.se
+--------------------------------------------------------------------------------
+-The Green Oasis-
+
+Sand rustled softly under his feet as he walked the streets of Tyr, heading 
+towards the main gate. It was daybreak and the city was slowly coming to life. 
+Merchants set up their stands, under the guidance of officials from the various 
+merchant guilds, and the beggars and thieves started their rounds of the city. 
+He met a group of Templars and nodded a quick greeting. They bowed low in 
+recognition and the tall Human smiled inwardly. There were certain perks to 
+being a Mage in the Sorcerer King's direct service.
+
+His robes picked up in the warm breeze and he thought about his first days here 
+in Tyr. He had been so young then. Barely twenty years old and seeking power. 
+Didn't every twenty year old lad seek power? He chuckled to himself. Sheer 
+persistence got him an apprenticeship with one of the leading Mages in the 
+Sorcerer King's service, and his potential was soon noticed by the Sorcerer 
+King's advisor's. He had uncommon strength in his magic, they had said. Great 
+strength of will, they had said. Once again he felt a burst of humor. He did 
+indeed have those things - and so much more. More than they had imagined. Tiring 
+of his tutor when he could teach him no more, he had challenged the old man to 
+single combat and soundly beaten him. The quickness of which the battle took 
+place had disturbed the onlookers, and as he had expected he soon received a 
+summons from the Sorcerer King Kalak himself.
+
+Over the next few years Kalak had personally seen to his tutelage and now he had 
+finally achieved the power he sought. He was complete in his magic. He thought 
+back to the day he cast his first spell. He could still remember the power. The 
+way he could feel the energy in the vicinity rush into his body waiting to be 
+controlled and expelled as he wished. He relished that feeling. Now walking 
+along the main, dusty road of Tyr he relished that feeling again. A few muttered 
+words and a gesture and he felt the euphoric influx of energy once more. A thin 
+film of ash settled on the ground in a small circle around him and a small bolt 
+of white light hit a passing beggar incinerating a hole in his chest.
+
+Raynard Dionus, ArchMage and advisor to His Imperial Highness King Kalak of Tyr, 
+watched the beggar fall. He glanced around momentarily to see if his actions 
+were noticed. But then shrugging he resumed his walk. Another of his many perks, 
+he reminded himself, and smiled.
+
+****
+
+His journey would be a long one, he thought as he boarded the caravan. During 
+the weeks that it took for him to arrive at Raam he thought on this latest 
+mission that his King had sent him on. To kill the famed Druid of the Green 
+Oasis. Raynard had heard of the place, but had dismissed it for a myth. The 
+Druid of the Green Oasis was supposed to guard a large piece of fertile land in 
+the middle of the desert, north of Raam. The Oasis was also said to hold the 
+gateway to a large iron mine. Iron. The most valuable commodity on Athas - and 
+most of it would soon be his to control. The thought pleased the Mage. His mind 
+once again turned to the matter at hand. From what he had heard, a seeker of the 
+oasis had to specifically want to find it, and had to be alone. And then if the 
+oasis so wished, it found you. Or at least that was how the rumors went. Raynard 
+did not know of anyone who had found it and returned, but the thought only 
+bothered him momentarily. It was an old tale. The Druid would have to be an old 
+manby now. No match for Raynard's magic or cunning.  Watching the swirling sand 
+as it caressed dune after dune on its passage across the desert, he fell asleep.
+
+Raynard did not stay long in Raam.  Only taking time to restock his provisions 
+before heading northwards. He wore long robes now, that almost covered his 
+entire body. They kept the wind and the sand away as he began his trek 
+northwards. Even this far out into the desert he mysteriously met no threat to 
+his presence. The otherwise lethal Athasian sands were unusually still. Over the 
+next week Raynard walked and searched. The few obstacles he ran into soon 
+regretted it and he made good progress. But by the end of the week bitterness 
+had set in. It was all proving to be an old wives tale after all. But when he 
+woke up on the eighth day, he emerged from his tent onto moist soil, instead of 
+sand.
+
+Raynard took a moment to survey his surroundings.  It was not what he had 
+expected. This place was - beautiful. The word came slowly and from far away in 
+his mind. He looked at the bushes and the fruits and the grass growing on the 
+ground. The whole, roughly circular, oasis was no more than one hundred meters 
+in radius. He could see the sands blowing just beyond the edge of the oasis, but 
+here the biting winds of the Athasian desert did not blow. It was almost surreal 
+and somewhat - grand. Another word he had not thought of in many years. There 
+were sages who said that the whole of Athas had once looked like this. Raynard 
+shook himself out of his meanderings violently, and his regular pattern of 
+thoughts pushed through to the surface again. Preposterous! He thought of the 
+iron and the wealth and the possibility of a green Athas rapidly dwindled.
+
+He took a few steps around the nearest boulder and there seated in front of him 
+was an old man. He was wearing a golden robe and a long, ancient beard grew from 
+his chin. Small, bright eyes watched Raynard approach and an aged, wrinkled hand 
+lifted in greeting. Raynard almost burst into laughter. This was the famed 
+Druid?! 
+
+"Yes I am the Keeper of the Green Oasis," replied the old man.
+
+Raynard stopped for a moment in contemplation. So the old man could read 
+thoughts to some extent. He opened his mouth to speak but the old man beat him 
+to it.
+
+"I know why you are here." he said sighing heavily, "You come as others before 
+you have come, in search of wealth and fame." 
+
+Raynard leapt forward at the word 'fame', a dagger appearing out of the folds of 
+his robes into his hand, stabbing at the figure of the old man. But he had 
+disappeared. "You cannot kill me that way," came a voice behind him. Raynard 
+whirled to find the old man standing a little way behind him. "So be it then old 
+one," Raynard snarled, "we will do it your way."
+
+"On the sand," came the reply.
+
+"What?" Raynard asked puzzled.
+
+"We will fight on the sand."
+
+Raynard followed the old man out of the oasis, and into the desert. The faced 
+each other now. Raynard a little taken aback with the turn of events and the old 
+man tall and regal in his golden robes, in front of him. But the Mage didn't 
+hesitate for long. He had always adapted to situations as they changed and 
+although it seemed that this old man was going to be more trouble than he had 
+thought, he felt no fear. Summoning his will he called for his magic and felt 
+the influx of energy from his surroundings as he formed a magical shield around 
+his body. A thin layer of ash settled on the sand nearest him and his mouth 
+widened imperceptible into the beginnings of a smile. The old man shook his head 
+sadly and summoned his own magic from within him. There was no ash surrounding 
+him though. His was the magic of life not death. 
+
+The ensuing battle was fearsome to behold. Great bolts of lightning crashed at 
+the old Druid who returned the attacks with swirling winds and fire.  Summoned 
+creatures fought and died for their masters as one tried to gain supremacy over 
+the other. Both men danced an dodged each others attacks as magical shields were 
+battered down and new ones were erected in their place. They fought thus for a 
+long time.
+
+The Druid looked almost fatigued to the point of death. His already old and 
+wrinkled features were drawn with the strain and he wavered more and more under 
+each attack from the vile Mage. Raynard himself was at the end of his magical 
+repertoire. He had relished this fight. The old man was strong! He had not had 
+this much of a challenge in a very long time. Still, it was time to end it. 
+Raynard summoned his last ounce of power and channelled a huge magical bolt of 
+energy at the Druid's chest. It struck the shield in front of the old man and 
+was absorbed but destroying the shield in the process. Now Raynard chose to play 
+his greatest advantage. He summoned his enormous will inside him and mentally 
+evoked a tremendous blow to his opponent's psyche. 
+
+Yet once again the old man's mind rose to the challenge building up a psychic 
+wall to hold against the Mage's bombardment. Enraged, Raynard increased his 
+attack with a scream. He pulled at the Druids very soul and launched both of 
+their spirits into an alternate dimension. Quasi-energy replicas of both Druid 
+and Mage faced each other in the new battlefield. Raynard formed a thought into 
+a great scythe and swung it at the Druid. The old man erected a huge wall with a 
+thought and met the scythe full force. The wall shuddered - and held. Another 
+thought transformed the wall into a whip and it was sent cracking towards the 
+Mage. Raynard turned his scythe into a giant fist and caught the whip in 
+mid-air. A hail of black arrows rose from Raynard's psyche and rained on the old 
+Druid who in his turn erected a great shield as his defence, but in his intense 
+concentration to keep the arrows away he missed the spear. Channelled by 
+Raynard's thoughts the spear struck the unsuspecting Druid in his exposed chest. 
+Raynard quickly followed the attack with a huge hammer aimed at the old man's 
+shield. Weakened from the psychic spear the Druid's will finally gave way. His 
+shield burst into a million pieces on impact from the hammer and the great iron 
+head of the Mage's psychic weapon landed heavily on the Druid. Both spirits were 
+launched heavily back into their bodies.
+
+The old man crumpled into the sand - lifeless. Raynard, exhausted beyond 
+anything he had ever known, dropped to his knees with his head in his hands. 
+"Raynard" came the quiet voice in his head. Raynard jerked his head up to look 
+at the dead Druid. As he watched a small thin wisp of smoke rose from the Druids 
+body. It grew filling out in form and shape until it was an enormous golden 
+creature with a large, beautiful snout filled with rows of teeth. Four legs 
+supported a body rippling with muscles and a long tail lay curled on the ground 
+around it. It's body shone metallic in the light of the Athasian sun and Raynard 
+paralyzed with fear could only watch.
+
+Large eyes watched him without moving and the tail came around in impatience, 
+its point not far from Raynard's face. "You.." he stammered.
+
+"Yes Raynard," came the soothing voice again. "I am a gold dragon. The last of 
+my kind on Athas."
+
+"But...I killed you. I won." came the weak reply.
+
+The enormous figure of the Dragon shook in laughter. "You lost the moment you 
+set foot on my oasis, defiler" came the soft reply. "How do you think this place 
+was created?" continued the Druid turned Dragon. 
+
+"But the rumors. The iron?"
+
+"I started the rumors and there was never any iron."
+
+A single large claw extended towards Raynard and a little trickle of electricity 
+crackled towards Raynard's head.
+
+Head thrown back Raynard was forced to watch the vision that the Dragon weaved 
+in his mind. He saw Athas in all its dusty glory. He saw the great sand dunes 
+and the beasts that roamed them. He was suddenly taken back to a time when the 
+now dusty ground was covered in green grass, thriving forests and great lakes of 
+water. He saw the flowers as they bloomed, the birds as they sang and stood 
+under great torrents of rain as it washed down on him from the sky. He smelled 
+the green grass and marvelled at the waves that crashed into the shores. 
+
+Then suddenly he was thrown again into a different place. Hooded men walked the 
+grasslands turning them into ash and dust. He saw them cast spells and with each 
+burst of magic he saw a bit of grass vanish. With each incantation a portion of 
+a lake evaporated. The rain stopped falling. The birds stopped singing. The 
+great sun turned hot and red.
+
+Behind the hooded figures walked others in green trying to bring back that which 
+was destroyed. Suddenly the initial figures turned on these others and destroyed 
+them too. Then laughing they continued their destruction. Great sadness filled 
+Raynard and for the first time in his life a single tear rolled down his 
+hardened face. As the figures neared he tried to call out to them and tell them 
+to stop this madness. But when they turned to him and waved it was as if they 
+were long time friends. Coming closer they removed their hoods and to his horror 
+they all bore his face.
+
+The vision ended and Raynard was once again looking at the huge figure of the 
+Dragon. There was a long silence and once again the soft voice of the Dragon 
+spoke. "It is time for you to give back a small portion of what you have taken 
+Raynard." 
+
+The wings of the great Dragon lifted and his huge body rose majestically into 
+the air in front of Raynard. "I am Terivindel, " boomed the voice, "Keeper of 
+the Green Oasis and Preserver of Life. And you Raynard must now die in order to 
+return some of the life you robbed from this world." Breathing in sharply the 
+Dragon rolled his body into a knot and breathed out a great column of light 
+directly at the Mage. Raynard began to disintegrate gradually. Dissolving into 
+small particles he floated gently up to the Dragon. When the Mage no longer 
+kneeled on the ground, Terivindel turned his great head and breathed down on his 
+oasis. The borders of the Green Oasis extended a few feet more and a new tree 
+rose out of the ground, towering high above the other plants on the oasis. "So 
+Raynard," the Dragon mouthed, "there was some good in you after all." The leaves 
+of the new tree shook gently at the Dragon as if in reply, and then all was 
+still.
+
+The Dragon came slowly towards the ground, and walked back towards his oasis. 
+When he reached the green borders he was once again an old man. Proceeding 
+calmly to the center of the oasis he caressed the bushes and flowers as he went 
+by. Most turned towards him as he passed by and the vines and tall grasses 
+turned aside to allow him passage. Coming to the new tree, he squatted down on 
+his haunches, and slowly rocking back and forth - he started to sing.
+
+--------------------------------------------------------------------------------
+DM's Advice
+Earl Harrison <harrison@comsys.net>
+--------------------------------------------------------------------------------
+
+	I am very excited to tell you all that I have gotten quite a large 
+response to my shareware package.  I do have to ask one favor, again.  Where are 
+the responses coming back telling me if you like the package or not?  I know a 
+few of you did not like it and a few of you are using it.  How about telling me 
+if you do or do not like it.
+	For those of you that have MIRC or similar program may log into the 
+channel that I am at and chat with me.  I am on there every morning from 7-10a 
+Indiana time.  My nickname is DungeonM and I am at "IRC.QUARTERDECK.COM" and 
+the channel you will be looking for is "30+".  Hope to see some of you there.  I 
+can create a new room if enough of you come over to play.  We could even get a 
+big game going right there in the chat room.
+	This month's article is going to be about something we are not very 
+familiar with yet, but we are working on it everyday.  I am talking about 
+"Birthright".  This game caught our eye like no other game TSR has put out in 
+the last couple of years.  It is all of the other games put together.  It has 
+the deserts of Dark Sun and the mystery of Ravenloft and the bizarre that is 
+Planescape.  Please don't say mean things about me for saying that about 
+Planescape.  I have only seen pictures and read small articles about it.  So I 
+am only saying that based on the limited amount of work that I have read on 
+the subject.
+        Birthright is a game  that any player can get into.  It is full of all 
+types of cultures, from the western civilizations to the orientals to the 
+mysterious undead.  If you want a challenge then tackle one of the 
+awnsheghlien.  There are artifacts waiting to be found and adventure 
+everywhere.  The most important part of Birthright is the ability to rule your 
+own kingdom.  My group will tell you that it is not easy.  There are so many 
+things to do and so many things that the DM can do to you while you are 
+ruling your kingdom.  Awnshe may attack you or you might be ambushed by 
+another kingdom wanting to expand their domain.
+	The army battles are even easier than the rest of the game.  You get 
+your army cards and place them on your mat and then draw the combat cards. No 
+dice involved.  When you first get the Birthright boxed set you only get 
+enough cards to fill about 1/4 of the box that you are supposed to use for 
+them.  We have bought enough extra material to fill this box.  We will have to 
+get another box for them if TSR ever comes out with more cards.
+	For those that don't think there is enough material out there to get 
+you going has not been to their local hobby shop in the past few months.  TSR 
+is putting out domain books.  What these are is one section of the entire 
+continent outlined.  They tell the history, politics, rumors, NPC's and a slew 
+of other things to keep that domain going strong for years to come. There is 
+even a map of the domain for those that just wish to pass through.  Next they 
+have a half dozen modules.  I don't recommend getting these to early in your 
+quest to learn the game.  They are much to hard for beginning DM's and players 
+to play.  There are a few kit books out there, and I am sure there will be 
+more to come.
+	I highly recommend looking into this new realm of magic and wonder. 
+If you don't do it for you then do it for your players.  I am sure they will 
+thank you for giving them somewhere new to adventure.  The entire package is 
+very well done.  There is enough maps in the boxed set to keep you going for 
+sometime.  They have to be the best maps that TSR has ever done.  My group 
+keeps coming back for more of this great continent.  They do not want to play 
+our old world anymore.
+
+--------------------------------------------------------------------------------
+Status Report
+David Knisley <bean6@ix.netcom.com>
+--------------------------------------------------------------------------------
+
+	Hail and well met.  I haven't published an article for a couple of
+months and I thought it was about time I share some of the progress we are
+making in several areas.  Firstly we are adding five new channel operators to
+the undernet channel #IRPS.  This means the channel will be monitored virtually
+around the clock now, so make sure you go in and check it out.  Secondly the
+On-line city is progressing nicely and we are only a couple of weeks away from
+having the Website up and running.  The site will have at the very least a
+dedicated ISDN line, but most likely a leased line running at 56kbps, which
+will be ideal.  By the publication of the next IRPS newsletter we will be
+looking for testers for the On-line city.  I will tell you that we will be
+carefully screening play testers as this will be quite an honor.  As a result
+if you are interested in test driving the site, polish up your resume and be
+ready to submit it.  We are planning on taking only 15-20 people to test the
+site initially.  If you would like to see some of the progress that is being
+made you may check out the temporary server at
+http://wki.accumem.com:81/jelhan/
+	Finally I would like to thank everyone that is a member of the IRPS
+for showing the enthusiasm to make our Society the largest single role-playing
+body on the Web.  You all deserve a big round of applause.  See ya next
+month!!!
+
+
+                                The game grows.
+                                David Knisley
+--------------------------------------------------------------------------------
+On the Shoulders of Giants
+Bruce Sheffer <bsheffer@arthritis.org>
+--------------------------------------------------------------------------------
+
+When exploring alternate worlds or dimensions you may meet what
+seems to be your double.  I see this occurring basically in six different
+ways:
+
+1)	There is someone with the same appearance but due to differences in 
+birth and upbringing, are totally different than yourself.
+
+2)	There is someone who looks completely different but is you in all
+other ways (holds the same job, same upbringing, same grades, same friends, 
+etc.).  This assumes that the world is identical to Earth in all significant 
+ways, including social trends, inventions, even celebrities and movies.  
+This has the possibility to completely weird the players out (especially if 
+that person is of the opposite sex), since all the evidence except their eyes 
+convinces them that this true.  Usually, seeing is believing, but not here.
+
+3)	There is someone who is you on a completely parallel world, but made a 
+choice in the past that sent them in a completely different direction.  This 
+can also be done in worlds where the time is advanced (say 20 years in the 
+future) and an event still to happen has radically changed the course of your 
+expected life -  the life you would have lived if you did not become an 
+explorer (for example).  I really teased one guy by saying that he had become 
+a male prostitute on an alternate world.  The player didn't want to think that 
+anything could force him down that path, so be careful.  RPG's are supposed to 
+be fun.
+
+4)	There is someone who looks like you and acts like you even though the 
+world's history is totally different.  Has the same taste in partners, music, 
+food, sports, and literature.  May even have followed the same career or 
+another interest that you have but never pursued.  However, everything else 
+is different.
+
+5)	There is your identical self in the same world, same everything, but 
+time is retarded and you are seeing a younger (perhaps happier) version of 
+yourself.  Do you warn yourself about tragedies still to come, try to get 
+him to make the decisions you wish you had made?
+
+6)     There is yourself exactly as you are.  Lots of folks really don't like
+themselves so would probably hate having to deal with an externalized version 
+of themselves (especially if they had a tendency to use other people and 
+would now be exploited by this duplicate of themselves).
+
+	As you can see, there are lots of possibilities for adventure and
+confusion.  Multiply this by the number of player characters and the tangle 
+may never be unwound without Alexander the Great's solution to the puzzle knot.
+
+--------------------------------------------------------------------------------
+More Than Just Dice:  A look at Your Character's Personality
+Jay Collins    <backburn@earthlink.net>
+--------------------------------------------------------------------------------
+
+        Have you been having trouble trying to get the feel of your character? 
+Face it, everyone gets into this dilemma whether you're a beginner or a novice 
+to role-playing games. Sure you've had a lot of characters by now, and some of 
+them seem very similar to each other in more ways than one. By looking at a 
+character's Ability Scores we can determine different things about them.
+
+        The numbers on your character sheet and the ones you roll in combat
+are more than just numbers. They are what DEFINE your character. They decide 
+whether you have enough charm to seduce the thick-witted bartender, and they 
+determine whether you strike your opponent or miss. We are going to analyze 
+and examine your character. Let's take a look at a typical generic AD&D 
+character sheet (Some things are excluded on behalf that some are irrelevant 
+to the article):
+
+
+Name: Kaylin Gailswind      Age: 150                Eyes: Blue
+Class/Race: Mage/Wood Elf   Hair: Black with hints of silver
+Alignment: True Neutral     Weight: 110 lbs.        Level: 1
+Sex: Male
+
+Ability Scores:
+
+Strength: 11
+Int: 16
+Dex: 10
+Con: 9
+Wis: 14
+Cha: 7
+
+Non-Weapon Proficiencies:
+Spellcraft, Religion, Ancient History, Leatherworking
+
+Weapon Proficiencies:
+Quarterstaff
+AC: 8 (leather)
+
+THAC0: 20
+Base: 20
+
+There's your typical character sheet, with a few things taken out. Let's
+begin to flesh out what Kaylin is like:
+
+Name: Kaylin's name tends to be very exotic and foreign, not like one you
+would find in large and overcrowded human populations. This is what leads
+to his race.
+
+Race/Class: Kaylin is a wood elf, and at a young age took an interest in
+the tribal shaman's magic skills. With many years of hard work and
+diligence, he learned to weave spells of magic.
+
+Age: The only thing to be deducted from his age is that he is 150 years
+old, and rather young for and Elf.
+
+Weight: Kaylin weighing 11 pounds is a good average weight for an elf,
+since they tend to be shorter than humans.
+
+Alignment: Kaylin's  true neutral alignment suggests that he is easily
+moved to either side of a situation and is neutral in all affairs, thus
+being very indecisive in situations.
+
+Ability Scores: Now comes the really important part, Kaylin's Ability
+Scores. All in all you would sum Kaylin up as being moderately strong,
+never really devoting himself to physical exercise, because of his studies.
+He is extremely Intelligent due to years of meditation, and reading books
+on all schools of magic has hardened his brain into complete focus. He is
+moderately dexterous only choosing to run, or leap to escape the local
+authorities in the nearest town for sneaking his way into the library. In
+this particular town the elves of the nearby woods were shunned from the
+community of humans. Coddled by his mother and father from birth, Kaylin
+was never let outside to play with the other boys for fear of getting hurt,
+but he soon recognized not to trifle with the law after his father sternly
+reprimanded him for sneaking into the library. Spending most of his life
+indoors, Kaylin wasn't exposed to lengthy talks with others or social
+interaction and so his Charisma is atrocious. Reading all of those books
+paid off, when it came to Wisdom. Though he was not able to experience
+most of life's pleasure's Kaylin's books opened new worlds to him and he
+experienced tragedy and triumph through the writers words.
+
+        Well, I hope you enjoyed this article. You can expect to see me
+around the Internet Role-playing Society scene. If anyone has any
+question/comments about the article free to E-mail me at the
+aforementioned address. I am currently running only one campaign which is
+set in the City of Sigil, in the Planescape Setting. Have fun gaming!
+
+                 Jay
+--------------------------------------------------------------------------------
+The MetroGnome
+Dave Mavretic <davem1@mail.microserve.net>
+--------------------------------------------------------------------------------
+
+This submission is from Tim Elford.  I have not play tested this yet, but
+will in a game coming up soon.  Apologies to the list for nothing from me
+last month.  I have been beyond, "extremely busy" at work, and have not
+had any time to play, let alone play test....:)
+
+Please leave me know how this works out for you.....and as always, if you
+have a magical item you would like sent out to the list, please send it to
+me at:
+
+davem1@island.microserve.com
+
+And I'll be happy to play test it and send it to the list with any comments
+I have.....Thanks!!!
+
+        Dave
+
+From: telford@tusc.com.au
+
+There was a discussion on R.G.F.D recently about thieves and their tools.
+Someone mentioned that an accurate time-keeping device would be handy as
+thieves need to know how long they have been picking locks, the time b/n guard
+shifts, etc..  Anyway, from that discussion I invented the MetroGnome [sic] a
+timekeeping device.  I haven't play tested it yet (it's only a day old) but will
+soon.
+Thought you might get a giggle.
+
+Here ya go:
+
+MetroGnome:
+~~~~~~~~~~~
+
+This small magical statuette was created by Theodore Humplesprain, a gnomish
+Mage/Thief.  He was a very adept thief and decided to make a time-tracking
+device to aid him in his exploits.
+
+The MetroGnome is a small 2-inch statuette of Theodore himself that he wore
+on a necklace.  When Theodore needed to accurately keep track of time (for the
+opening of doors, timing guard movements, etc.) he activated the MetroGnome.
+
+Pushing the tiny button on the statuette's belt buckle activates the timer
+and the left eye begins to blink (a barely discernible violet glow) every
+"second".  After 60 such blinks the right hand of the statuette opens and one 
+digit is displayed.  After another 60 blinks the right hand displays a second 
+digit, and so on.. After 5 of these transitions the right hand clenches into a 
+fist once more, and the left fist opens and displays one digit.  The process 
+begins anew.
+
+After 30 minutes the left hand (now displaying 5 fingers) and the right hand 
+(also displaying 5 fingers) clench and the right eye glows a dull green.
+After another 30 minutes the right eye glows a dull red, then blue, then yellow,
+and then back to off.
+
+The glow from the eyes is barely discernible; virtually invisible at any
+distance greater than over 5 feet. If so desired the user of the MetroGnome
+can pull down the eyelids of the statuette and rely on the hands/finger
+combinations and his/her own memory.
+
+Pushing on the statuette's hat turns the Timer off (and resets it)
+
+Theodore Humplesprain died in custody, and the statuette fell into the hands of
+his wicked brother - who sold it to an adventuring party.  Where the statue is
+now is anybody's guess (though DM's have a fair idea....)
+
+
+LEFT HAND:
+
+# Digits        Time (min.)
+~~~~~~~~~~~~~~~~~~~~~
+None            check right hand, 1 digit = 1 minute.
+1               5 min. + right hand 
+2               10 "   "   "     "
+3               15 "   "   "     "
+4               20 "   "   "     "
+5               25 "   "   "     "
+None            (eye turns green [30 min.] + right hand)
+etc.
+
+Tim
+*<.-)\
+
+--------------------------------------------------------------------------------
+The Dragon
+Bruce Butkus <Butkusbr@postoffice.ptd.net>
+--------------------------------------------------------------------------------
+        Dragons, they are powerful and intelligent. This is a creature that
+has survived the millennium. There should not be so few in the AD&D world.
+This is a new kit.
+
+Level      HD     # of spells per level # of times per day AC  THAC0     x.p. 
+1          8      2                           2             0     15    65,000  
+2          8      3 1                         2             -1    15    130,000 
+3          9      3 1                         2             -2    14    260,000 
+4          9      4 2 1                       3             -3    14    520,000
+5          10     4 2 1                       3             -4    13	1,050,000 
+6          10     5 3 1 1                     3             -5    13    1,250,000
+7          11     5 3 2 1                     4             -5    12   	1,550,000
+8          11     6 4 2 1 1                   4             -6    11	1,750,000 
+9          12     6 4 2 1 1                   4             -6    10	1,950,000 
+10         12     7 5 3 2 1 1                 5             -7    9    	2,150,000
+11         13     7 5 3 2 1 1 1               5             -7    8	2,350,000 
+12         14     8 6 3 2 1 1 1 1             5             -7    7	2,550,000  
+
+Bruce Butkus (Butkusbr@postoffice.ptd.net)
+
+--------------------------------------------------------------------------------
+FICTION
+--------------------------------------------------------------------------------
+The Assassins - Graduation
+Tim Elford    (telford@tusc.com.au) -  The DM
+Goran Zidar   (goran@elf.aust.com)  -  Craven
+Home Page:      http://www.ozemail.com.au/~goran/Roleplay.htm
+--------------------------------------------------------------------------------
+
+Episode 1  -  Graduation.
+
+NOTES:
+
+Character:     Now I am talking.  (action is drawing a weapon) NOW I'M   
+               YELLING.  {Now I am thinking to myself}
+
+        ------------------------------------------------------
+
+The Assassins: Argos - Human Thief 1st level LE (NPC)
+               Craven - Human Duelist/Thief 1st/1st LE (PC)
+               Keldirk - Human Thief 1st level NE (PC)
+
+Locale:        An antechamber somewhere in the Olman Islands, the secret home
+               of The Family, a worldwide network of assassins.
+
+Date:          3rd Ready'reat 581 CY (Common Year)
+
+
+        ------------------------------------------------------
+
+Craven, Keldirk and Argos sip wine and nervously await their first audience with
+The Heart of Darkness, known to his followers as The Marquee de'Ahb or
+Grandfather of All Assassins. Having recently finished their apprenticeships,
+they expect to learn where on the Flanaess they will begin their careers.
+
+Craven:        (looks anxiously at the huge bronze doors that lead to the
+               audience chamber.  He adjusts his collar for the tenth time)
+
+Argos:         So, what's he like?
+
+Keldirk:       Who? The Marquee de'Ahb?
+
+Argos:         (nods)
+
+Keldirk:       How in hell am I supposed to know, I haven't met him either.
+
+Craven:        I once heard some of the elders talking about him, he's really
+               old... ancient in fact, and extremely powerful.  They said that
+               he has been ruling over the family for over a century.
+
+Argos:         (whistles in amazement) He can't be human.
+
+Listening to their conversation from just outside the room was Shardan, the
+Chamberlain's assistant.  He had been sent to speak with the graduates
+instructing them on the proper conduct when presented to their leader. He was
+also told to explain something of the Marquee de'Ahb to them.
+
+Shardan:       (enters the room) Oh he's human enough... but more than that
+               now I feel.  You three will be presented to him in a short
+               while and I have been instructed to prepare you.  My name is
+               Shardan, I am the assistant to the Chamberlain.  The Marquee
+               de'Ahb is, as you know, the head of our Family. He wears the
+               cloak of office which bestows certain gifts to the wearer. One
+               of the gifts is longevity.
+
+               This cloak is called the Vilus Corumdak, translated it means
+               "The Cloak of the Vanquished".  It is made from the faces of
+               our most prized targets, which have been removed from the
+               victim as you have been taught.  These faces are cured then
+               sewn to the hem of the Cloak.  It is believed that the Cloak
+               allows the wearer to communicate with the spirits of those
+               whose faces are part of it.
+
+               (pauses to gauge the reaction of the three graduates)
+
+               When the Chamberlain summons you, make sure you are ready; The
+               Marquee de'Ahb does not like to be kept waiting.  Do not speak
+               unless he invites you to do so and above all else show him the
+               respect he deserves.  The Grandfather has ruled our family for
+               well over 100 years; he deserves and demands respect.  In his
+               time he has slain hundreds of people, from beggars to kings,
+               and in recent times killed a number of insolent graduates.
+               Watch what you say and do.  This meeting is your final test.
+               Survive this and you will truly be an assassin.
+
+Shardan leaves and the three graduates are left alone to contemplate their
+future.  Not only will this meeting formally mark the end of their
+apprenticeship and elevate them to an active member of the family, but it will
+also define where they will spend the next several years.
+
+The prize for all assassins is to be posted to the Free City of Greyhawk.
+Ordinarily a new graduate would never be posted there but rumor has it, one
+of the Family's operatives was recently killed in Greyhawk and it has been
+decided he will be replaced by a graduate.  That prize could be been given
+to any
+of the three who now sat waiting for their meeting.
+
+* Argos - arguably the best proponent of the crossbow that the assassins have
+ever trained.  This ability would serve him well in the crowded city affording
+him great opportunities to make the kill.
+* Craven - graduated second overall, and his unique blend of combat and
+assassination make him a strong contender for the position.
+* Keldirk - Graduated prematurely.  His early initiation indicates that the
+elders have big plans for him.  That could mean he is due to be posted to
+Greyhawk.
+
+More time passes and the three graduates are became increasingly restless.
+Keldirk resists the urge to consume his fourth glass of wine, while Craven
+began pacing the length of the small antechamber. Argos, sits comfortably,
+seemingly oblivious to the situation, only the constant twitching of his
+foot betrays his nervousness.
+
+Keldirk:       I hate all this waiting... what is he doing?
+
+Argos:         (to Craven) You know that Xavier is in there?
+
+Craven:        What? Oh hell... if that son-of-a-bitch says anything we could
+               be looking at some serious trouble.
+
+Argos:         (looking innocent) What's this WE business? It's you he hates.
+
+Craven:        Well the feeling is more than mutual.
+
+Keldirk:       Who's Xavier?
+
+Argos:         He's the guy who graduated ahead of Craven.
+
+Keldirk:       I like him already.
+
+Craven:        Ever since I beat him in the battle royale, he's been trying
+               to make everyone think I cheated.  He says that I organized his
+               downfall with Argos... and that's the only way I managed to
+               win.
+
+Keldirk:       Not a bad idea... I guess it worked.
+
+Craven:        IT NEVER HAPPENED! He lost because he got careless... and
+               that's all there is to it.  Its just that he can't accept that
+               he got beaten.' (to Argos) 'If he spreads his crap to the
+               Marquee de'Ahb we could be in deep trouble.
+
+Argos:         Again with this WE business.  Just leave me out of it... the
+               last thing I want is for the Marquee de'Ahb to focus his
+               attention on me.  If things go bad I'm afraid you're on your
+               own.
+
+Craven:        Thanks buddy - It's good to know where your loyalties are.
+
+Craven's statement was interrupted by the opening of the bronze doors that
+lead into the main audience chamber.  A middle aged man enters their room and
+addresses the three of them.
+
+Man:           Gentlemen, I am Montlebahn Criss, the Marquee de'Ahb's
+               Chamberlain. The time has come for you to be presented to The
+               Marquee de'Ahb. Ready yourselves for I will announce you
+               presently.
+
+Keldirk:       (stands and stretches his arms above his head)
+
+Craven:        (smooths down his clothes and adjusts his weapons)
+
+Argos:         (quickly finishes his drink and rises)
+
+Montlebahn:    If you would follow me.
+
+They walk into the audience chamber and are formally presented to the Marquee
+de'Ahb, the Grandfather of All Assassins.  He sits upon a large golden throne
+and beckons them to rise from their positions of supplication. The Vilus
+Corumdak all but covers the old, wizened man and all three take a quick
+intake of breath as they look upon his skeletal visage. Montelbahn Criss exits
+through a curtain.
+
+Marquee de'Ahb: (his voice barely a whisper) Welcome to my Family.  You have
+               each worked hard and long, and to stand before me is testimony
+               to your discipline and prowess.  I am proud.
+
+               (looks to Craven) You have done well, Craven of Karaban.
+               Bladesmaster Kyam counts you as the best student in many years.
+               Your skills in assassination require some work; but I am
+               confident they will come in time.
+
+               (looks to Argos) You are somewhat of an enigma; your history
+               is clouded but I cannot deny your courage or desire to succeed.
+               Your loyalty to The Family was established on Kallmaird Beach;
+               to which Craven will attest.  I am pleased to call you
+               Grandchild.
+
+               (looking to Keldirk) You are a young graduate, by any standard
+               and you are yet to complete your studies.  But you, like your
+               colleagues, have shown great promise and come to me with your
+               Tutor's glowing recommendation.
+
+               (looks at each assassin in turn, then slowly floats out of his
+               chair, the 20' long Vilus Corumdak flowing like a macabre
+               wedding train behind him.  He floats to the rear of the chamber
+               where a large mural hangs.  The mural is a detailed map of the
+               Flanaess)
+
+               The situation on the continent is grave.  Ordinarily I would
+               offer you your choice of cities to begin your career.  However,
+               I no longer have that luxury.  My agents in Rauxes have
+               informed me that Mad Ivid and his council are preparing for
+               war.  This means more work for us, naturally.  I have been
+               forced to relocate an agent from the Prelacy of Almor to The
+               Great Kingdom in anticipation of increased workload.  This
+               agent was very experienced, and you three will be taking her
+               place in Eastern Almor.
+
+               (waves a bony hand, little more than a claw, to the region
+               known as The Prelacy of Almor)
+
+               The Prelacy is trapped between hammer and anvil.  To the East
+               lies Ivid the Insane, his fiendish council and the multitude of
+               power hungry Noble Families intent on conquest both within and
+               without The Great Kingdom.  To the West lies the Kingdom of
+               Nyrond - with its armored oppressors and war-loving King.  In
+               the middle lies The Prelacy of Almor, the once battle ground of
+               these military giants.
+
+               As you know the peace in the region relies upon Almor's
+               neutrality and its willingness to side with the non-aggressor
+               in any war between the two.  If war breaks out, say at the
+               behest of Ivid, Almor will close it's borders to The Great
+               Kingdom and welcome Nyrond.  The peace also hinges on Ivid's
+               constant need to defend his throne and the perpetual threat of
+               The Bandit Kingdoms north of Nyrond... ..
+
+               I have made arrangements for you to leave for your posts in two
+               days, time is of the essence and I can not afford you the
+               luxury of rest before you become useful to us.  Montlebahn will
+               provide you the specifics of your assignment.  For now, go with
+               my blessing and know that you are being groomed for a more
+               important duty.
+
+The curtain opens again and the Chamberlain enters.  He nods before his
+lord and indicates to the three assassins that they are to follow. He leads
+them out of the audience hall, through the curtain and into another room which
+contains a desk and three chairs.  He motions for them to be seated and
+begins hunting through some papers on his desk. The room was a shrine to order.
+The shelves, the desk even the tapestries which hung on the walls seemed to
+have been purposely placed.  There was no clutter anywhere, even though the
+desk was covered with items, everything was exactly where it was meant to be,
+and it was only seconds before Montlebahn had the paper he was looking for.
+
+Montlebahn:    You have been booked passage aboard a vessel called The Sea
+               Swift. It will arrive off the main jetty at dawn the day after
+               next.  The journey is expected to take around two weeks at
+               which time you will arrive in Chathold. Chathold is the capital
+               city of Almor, it will appear strange to you as I know that
+               none of you have been in a city of that size in many years.
+               Once there you will contact a man called Don Lombard.  He is a
+               trader, he owns a business in the Trade Ward.  He has requested
+               that all contacts be made at his business, should it prove
+               impossible to contact him there he resides in a house in the
+               Common Quarter.  The address is on here along with an inventory
+               of provisions you will be issued with.'  (hands Craven a piece
+               of paper) 'He is expecting you and he will provide you with
+               additional instructions.
+
+               I understand that there will be a celebration to mark your
+               graduation tomorrow evening.  I trust the three of you will be
+               ready to leave the next day, I do not care if you are
+               unconscious just do not miss that boat. Any questions?
+
+Keldirk:       Just one.  Are we supposed to all work together? I was kind of
+               hoping that I would get to work alone.
+
+Montlebahn:    (smiles) Ordinarily, yes that would be the case... but in
+               this situation you will be required to work as a team.  On
+               occasion it may be advantageous for one of you to work alone,
+               but that will be determined by the situation.
+
+               If there is nothing else, I will leave you to your own devices
+               until you are due on board the ship.  The equipment on that
+               list will be delivered to your quarters tomorrow evening.
+
+               Congratulations... You are dismissed.
+
+
+We would like to thank Thomas Miller for inspiring us to chronicle our stories.
+Check out T. Miller's Green Dragon Inn homepage - accessed from our links page.
+
+--------------------------------------------------------------------------------                                
+Journal of Fireside Tales
+John "B.J." Tomkins <gr8dm@acronet.net>
+--------------------------------------------------------------------------------                                
+Journal of Fireside Tales; Tales from the Tyrellian Helix (Ix's tale)
+
+My companions and I  had entered  a subterranean complex beneath the lost city
+of Altharez.   My companions were a roguish bunch: there was Cimion the leprous,
+beggar-thief; Toliape, Mistress of the Mystical Arts of Ulion; Demetriv, former
+leader of a mercenary company that had turned mutinous; and of course the one
+handed sociopath, Varsen the Pirate.
+We were following Paeani, a blind mystic.  Our directions in our quest through
+the tunnels of this mysterious subterranean maze for came from the visions of
+Paeani who would  relate this information in the most annoying fashion.  He
+would chant out strange rhyming riddles, which the rest of us were obliged to
+solve.  We finally came to the Chamber of  Echoes, the object of our quest.
+Here was supposedly the "Fabled Treasure of the Ages" whose very name caused
+spittle to dribble over our greedy lips. The chamber had been carved out of the
+living rock into a perfect dodecahedron.  Each side was painted with a detailed
+landscape that seems so perfectly executed that you could almost walk into the
+scene.  There was on the various walls
+  A Desert scene;
+  A tropical atoll;
+  A sylvan wood;
+  A forbidding tundra;
+  A chilling boreal woodland scene;
+  A great expanse of open ocean stirred by a squall;
+  A scene of floating islands in clouds topped with cities grown out of living
+    crystals,
+  A sprawling metropolis of canals, spires, ziggurats, hanging gardens, graceful
+    flying buttresses  and archways, sky walks linking towers;  This decorates
+    the floor.
+  A lonely moor with a lichen covered cromlech
+  A purplish range of majestic snow-capped mountains
+  A craggy arid landscape of mesas and canyons under a multi-hued expansive sky
+  A dreary swamp of gnarled trees and hanging Spanish moss
+
+The hall was very large.  It  seemed to echo with the sounds of the various
+scenes.  It quickly became an overwhelming experience.  Their faces ashen, my
+comrades fledpanicked from the chamber, but  I remained, fascinated.  I felt
+particularly drawnto a strange platform in the center of the chamber.  It bore
+a large mounted cylinder wrapped with twelve interwoven spirals of various
+runes.  The spirals were comprised of connecting plates carved with curious and
+disturbingly alien runes.  The colors were: Russet, Azure, Aquamarine, Emerald,
+Hazel, Amber, Mauve, Damask, Ebony, Tope, Vermilion,  and Lavender.  On the
+platform lay the miniature of this object.  On the polar ends of the cylinder
+were inscribed runes.   On one end was the symbol of Infinity, on the other
+side, nothingness.  The device seemed to be some sort of puzzle and with the
+horrible cacophony pounding maddeningly in my ears  I felt overwhelmingly
+compelled to begin to solve the puzzle.  The colors twisted and slid about like
+the Puzzle Box of Rubric, and the sound of the room began to suddenly feel
+washed out as if muffled.  The room also began to blur into blotches of the
+twelve colors of the helix.  Only the puzzle helix remained real for me as I
+continued to  work on it with fevered urgency.  At the moment  I completed the
+puzzle I felt as if I was falling through any inky black void.  The puzzle
+cylinder fell from my grasp and my consciousness drifted away.  As I begin to
+waken  I heard a strange sounding voice speaking an alien tongue that I
+mysteriously understood. Only the last words were directed toward me, they were:
+Welcome Home.
+
+(more installments possible if there is interest, this was how the Tyrellian Helix
+PBEM game began-at least from Ix's perspective)
+
+All memebers of IRPS are invited to submit the tales of their characters to John
+"BJ" Tomkins at <grdm@acronet.net>  One will be chosen and published in each
+month's newsletter.
+
+--------------------------------------------------------------------------------
+Top Ten - Names DM's should never name NPC's.
+John "B.J." Tomkins <gr8dm@acronet.net>
+--------------------------------------------------------------------------------                                
+
+Cyrus Lenn and His Top Ten Present;
+Names DM's Should Never Name NPC's
+
+10. Dennis
+9. IBM (it's a PC name, get it!)
+8. Tim
+7. Paul Lind
+6. Lyndon LaRouche
+5. Skippy
+4. Rodham
+3. Beavus or Butthead
+2. Barney
+
+And the number 1 name that DMs should never name NPC's,
+1. Buttafuco
+
+--------------------------------------------------------------------------------
+Rae Dawn
+Anthony Scalzitti <AJS13@aol.com>
+--------------------------------------------------------------------------------
+As the sun set in the West, an old hermit was beginning a long and arduous
+journey Eastward.  He travelled in an old weather worn wagon pulled by an even
+older horse.  Within the wagon the hermit carried all of his worldly possessions;
+two trunk fulls of clothing and personal effects.  Among the items in the trunks
+were ceremonial skulls, candles, various herbs, roots, dried leaves, etc...all
+for use in the magical rituals which the hermit partook in regularly.  He also
+carried in the wagon a trunk full of treasure and one enormously large leather
+bound book of extreme importance.
+
+But among all these items none was more important than the small bundled up form
+of a sleeping infant child.
+
+The infant had been conjured and given life by the hermit in his most powerful
+acts of magic ever.  He was the oldest and most knowledgeable of the Druids in
+Terra Firma and as he neared death, one of the last truly magickal feats the
+hermit performed was to create the child to carry on his legacy.
+
+He thought back now to the day of her conjuring.  It was early spring and life
+was blooming all about the land, the druid however felt this was to be his last
+spring for he had grown old and the end for him grew near.  As a druid, the old
+man had sworn to protect the land and her secrets.  He remained today as the
+eldest of the druids, whose numbers diminished daily, and knew he must pass the
+knowledge of his experience and the land's secrets on to someone worthy.  Yet he
+felt none of the current druids were worthy.  Thus his plan to create one who
+was worthy was formulated.
+
+The child had been born of the earth, the eternal mother.  Through his summoning
+of a tree , a young white oak sapling, the old hermit had begun to formulate his
+spell.  At his command the tree uprooted itself and went towards the hermit.
+This white oak would serve as the skeleton for her new life form.
+
+The druid began his incantation and an eerie violet fire flooded from his finger
+tips to envelope the sapling and entwine it's roots and branches, decreasing
+it's size and forming the framework of quasi-bones upon which the magician
+would build.  The violet light writhed among the branches as leaves folded in
+upon themselves which in turn enveloped branches and intertwined with other
+branches to form limbs and torso.
+
+The skeletal structure was complete and the druid chose to use the earth itself
+as substance for this soon to be life form.  He called upon the land's own skin,
+the soil and rocks to give form to this figure and strength to it's frame.  The
+earth gathered in crooks and crevasses upon the wooden frame as is lifted by
+invisible hands and filled out the frail form.  Rocks filled gaps to serve as
+muscle and lend the strength of the land itself to this child.
+
+Now the druid called upon a different magic as he summoned the land's moisture
+to serve as the fluids necessary to sustain this body.  The skin must be supple
+and smooth, and so the hermit formed the child's skin from the tiniest, most
+precious flowers in all the land.
+
+And when he had finished what stood before him was the most breathtakingly
+beautiful woman he had ever seen with the darkest hair imaginable and deep
+crystal clear emerald green eyes.
+
+However the body before him had no life yet within it.
+
+The druid knew that to provide the life spark to his creation he must summon a
+magic not used in all his lifetime and for many lifetimes before his birth.  A
+magic older than the land itself, embedded deep within the earth's core.
+The druid summoned the Magic of Life.
+
+And it did answer.
+
+The life giving magic burst forth from the ground to envelope the druid in a
+whirlwind of oranges and blues, yellows and reds.  A true myriad of spectral
+colors.  The magic threatened to overtake the druid with it's power but as he
+was about to lose all, the druid harnessed the very essence of life and sent it
+forth from his hands to the lifeless girl before him.
+
+The flames at once ate up the frail form of the girl and entombed her body in
+sheath of white hot light which grew to such an intensity that the hermit was
+forced to shield his eyes with the cloak he wore.
+
+All at once there was a silent explosion of white light.  The energy burst
+forth from the girl in every direction and was instantly gone.
+
+When the druid was again able to look, what he saw left him momentarily stunned.
+On the ground where the beautiful raven-haired girl had stood not moments before,
+there now rested an even more beautiful infant.  The infant was sleeping and
+wrapped in leaves.  Upon examined the sleeping child the druid found she
+possessed the same icy emerald green eyes and raven black hair as the woman.
+However there was now a snow white streak in the otherwise black hair on the
+babe's head.
+
+The druid had gathered the babe and returned to his home, shaking his head in
+disbelief.  He had dealt with the forces of magic for his entire adult life yet
+this magickal miracle had taken him by surprise.
+
+The druids home was in a grove stand of evergreen trees and as he entered the
+front door to his humble shack, he frantically searched for a clean place to
+lay the child.  Debris was strewn everywhere, books and vials containing left
+over spell components, skulls stacked on shelves and tables, leaves and twigs
+mixed in with robes and swaths of satin and cloth lay about the one room
+shack.  The hermit hastily swept a pile of cloth onto the floor and lay the
+wonder child upon a long oak table.  He took one of the swaths of satin from
+the floor and wrapped the child in it, for warmth as much as to keep her from
+rolling off the table top.  He then dragged a chair over to the table's edge
+and sat in front of the babe, wondering at the marvel of this creation at his
+hands.  The elder sat in the chair watching the child for merely a few minutes
+before slipping off to sleep. The druid slept uneasily, troubled by dreams.  In
+his dreams he saw much destruction and at the center of all the chaos stood a
+mature version of the babe.  This troubled the druid's subconscious mind and he
+awoke with a start.  He calmed himself and checked to ensure the infant was
+still asleep.  The child slept on, uninterrupted and the druid lay down to fall
+asleep once again.  And the dreams continued.
+
+The druid dreamed of himself this time however.  He dreamed himself in a
+grove of trees, surrounded on all sides by dark and evil beings not of human
+form.  Surely demons he thought.  And they sought to take the babe which the
+elder held against his frail chest.  In his dream the druid was extremely aged
+with many weaknesses and he knew he could not protect the child.  He stood
+helpless against this menace as the creatures closed the circle about him.
+They lunged forward, attacking and the old man screamed.
+
+There was a sudden blink of light in his dream and the druid found himself
+alone and standing before a heavenly, luminescent figure.
+
+"You must leave this land, druid," the angel spoke to him,"take the babe away
+from here to a place where she will be safe.  There you must leave her to
+discover her legacy on her own.  Your teachings will be of no avail to this
+child for she shall overcome even your great command of the land's magic.
+Evil has been summoned with your use of the One Great Power.  Evil as powerful
+as the good you have created with this summoning.  And this evil shall seek to
+have the child and her strength for it's own use.  You must take the child and
+leave, hide her and leave her to save her life."
+
+Then the light faded and the druid stood once again in the grove of tree stand
+before him stood the grown up child and the druid spoke to her.
+"This, child you shall remember when i am gone: yours is the power of the earth.
+None shall equal it.  Use it to create and prosper and be not tempted by the
+evil which hunts you even now and will not rest until one or both of you is
+destroyed.  I have blessed you and cursed you with this gift of life.  Sleep now
+and when you awaken your life will begin anew."
+
+The druid awoke from his sleep and heeding the dream's warning began 
+preparations for their departure.
+
+He rode now in the wagon with the child in the back, covered and sleeping.  They
+travelled North-Easterly with no destination in mind.  Thoughts flooded the
+druids mind as the wagon rumbled along the grassy terrain.  Most prevalent among
+those thoughts was the alarming rate at which he was aging.  He had grown older
+and more decrepit as the journey wore on.  And he noticed the child had grown
+also.  For as frail and wrinkled as he had become, the babe had developed and
+grown in equal proportion to the point where she now resembled a pre-adolescent
+girl.  And she slept the entire trip thus far.  Seemingly the druid had
+sacrificed his existence to give this child life.  His once dark wavy hair was
+now long and pure white, as were the beard and moustache he wore.  His cheeks
+were now sunken and his nose was long and thin where once his profile had been
+proud and handsome.  His brows now furrowed over his eyes and clouded their deep
+blue color.  His bones had grown old and brittle and his skin had dried and
+shrivelled with each passing day while the child grew bigger and stronger.
+Nearly a full moon's length of days had passed when the hermit knew he could
+continue no further.  Finding a copse of trees nearby, the druid led the horse
+and carriage into the shaded cover of their branches.  Here he climbed down from
+the wagon and freed the horse.  Then the druid prepared his death rite.
+He lie side by side with his daughter upon his lover, the earth and died.
+As the warm soothing grip of death took hold of him, the druid again saw the
+angel, and she again spoke to him.
+
+"You have done well old one.  The child will be free to learn of her legacy as
+she wishes and she shall escape harm.  Sleep now, keeper of the land, let
+yourself go.  I hold a restful place for you here.  A place of warmth and
+beauty. Come to me now, let death take you into her loving arms.  Die with me
+Paolo." And he did.
+
+At the moment of the old druid's passing, the young raven haired woman awoke.
+Her eyes opened to the clear blue sky above.  She drew in her first breath of
+fresh air and sat up.  Looking around the clearing, the beauty saw an old
+weathered wagon.  Beside the wagon stood an aged grey horse grazing on the grass
+at his feet.  She noticed a bundle of dried leaves and twigs lying in the grass
+next to her and knew instinctively that this was the remains of the druid.  She
+took in the grace and beauty of the trees encircling her, the scents of pine and
+heather in the air and the sounds of birds singing and creatures scurrying
+through the underbrush.  The dark haired woman knew these things innately, knew
+what birds and trees and creatures of the forest were.  She knew from where her
+knowledge came.  And she felt a pang of loss in her heart for the old man.
+Her eyes fell upon the wagon.  Rising to her feet, the beauty strode towards the
+wooden cart without a sound.  She looked through the back of the wagon and found
+trunks full of clothing and treasure, as well as the large leather bound book.
+At once she knew that the book was meant to be read by her and she climbed into
+the wagon, settling on a blanket upon the floor.  She set the book on her lap
+and opened it.  At once she was flooded with a deluge of memories of the old
+druid and his home.  She felt a strong connection to the old man but could not
+recall the basis for it so she stored these memories deep in her subconscious
+mind for later consideration and began to read the book.
+
+Inside the front cover was an inscription dedicating the book to her.
+"To the greatest fruit of my labor, my lovely daughter, Rae Dawn Snoe. Be wise."
+It was not signed.
+
+Again she felt the pains of great loss but could not connect them with anything
+she knew.
+
+She turned the first page and was at once absorbed by the words written there.
+For thirteen full cycles of the moon she read without interruption.  And when
+she finished and closed the book, the tome magically consumed itself in a blaze
+of beautiful violet flames so that all was left of it was a handful of ashes,
+which she gathered up and deposited in a small pouch to be carried at her side
+at all times.
+
+She knew now that she was called Rae Dawn.  And she knew a great many other
+things which she had no use for now but was certain through this knowledge that
+she would have a use for it in the future.  She knew of the land she was in and
+it's history and the aspects of nature which surrounded her world.  She knew of
+the energies within the core of the land and how it could be used for prosperity
+and harm.  And she knew that this power surged through her body at this very
+moment.  She felt at akin to the land and knew she would give herself completely
+to protect it and it's secrets.
+
+This power within her was strong an she felt the need to release it.  She felt
+also that if she released it that the power itself would consume her and all her
+surroundings.  This power could be harnessed though she felt and she must know
+more of it an it's abilities.
+
+So it was that on a warm sunny day in late summer Rae Dawn Snoe, born of the
+union between her father Paolo and mother Earth, set out to discover the truth
+behind her being an the  energy which brimmed within her.
+
+And she did this with an urgency she could not comprehend.
+
+Let the journey begin.
+
+--------------------------------------------------------------------------------
+Classified Ads
+--------------------------------------------------------------------------------
+Subject: Land of Shadows PBEM
+Author: charh@midmonet.net.
+The world of Asithean has fallen into a dark depression. This 
+once beautiful land now lies in ruins, covered by evil shadows. No-one 
+knows for sure how or why the land has become of this, but someone has to 
+find out. 
+
+Hello, My name is Mark Hegg, and I am starting a PBEM game. I will be
+running the game with the 2nd edition AD&D system. I am looking for 
+players. If you want to join in on this game, please e-mail me a 
+character sheet, along with a background. My address is: 
+charh@midmonet.net.
+--------------------------------------------------------------------------------
+Subject: The Kindred Network
+Author:  chill@brunel.co.uk
+
+The Kindred Network is a new support society for the World of Darkness line
+of products produced by White Wolf Inc; with an emphasis on Vampire: The
+Masquerade.
+
+Members receive a bi-monthly magazine which is filled with reviews, fiction,
+readers artwork, members letters, card game lists, new rules such as new
+bloodlines, disciplines, gifts and similar rules for all the games in the
+line, new storytelling ideas, new material for The Masquerade LRP,  and The
+Eternal War - A Vampire: The Eternal Struggle Card League.
+
+On the application form we ask people not only for basic details such as
+name and address (which is known as 'nature') but also for 'character
+details' (which is known as 'demeanour').  
+
+The character details include Character Name, Race (Vampire, Mage etc.),
+Clan/Tribe/Tradition etc., Character Location in the UK, Generation/Rank,
+Character Political Stance (Camarilla, Technocracy.....), Character
+Political Sympathies (Anarch, Inconnu, Black Spiral Dancers........) and
+Character Quote.
+
+With this information we compile a map of the UK detailing political control
+split into counties.  Just which political group or race controls which
+county depends upon the numbers and sympathisers there are in that area.
+The character quotes are used throught the magazine when appropriate with
+the characters being properly credited.
+
+There is also a section in the magazine for members to write in
+'In-Character' where they can talk to, plot, argue, gloat (etc...) to other
+characters in the Network.
+
+All members also receive a 10% discount on all World of Darkness and related
+products (such as Vampire: The Eternal Struggle and Rage) at selected
+retailers throughout the UK.
+
+For more information on the Kindred Network come and see us at Euro GenCon
+in September or contact:
+
+Chris Hill      01952 272782 (answer machine)
+e-mail:         chill@brunel.co.uk
+www:            http://www.questing-knight.co.uk/kindred/kindred.html
+
+A PO Box number will be available shortly 
+--------------------------------------------------------------------------------
+Subject: The Moon Knights are just now starting up in Columbus Ohio.
+Author: magesage@infinet.com
+
+We're a Club for anybody interested in Roleplaying Games. Don't feel to old
+or too young, our member ages range from 40 and under :-). Cost ?, NONE, we
+plan on event fees supporting the club (and if you volunteer help out you
+won't even have to pay that).
+
+We'll be sponsoring Game Days (1 day conventions) with Living (TM)
+Campaigns such as LivingCity, Living Jungle (Malatra), Living Death
+(Ravenloft) , Virtual Seattle (Shadowrun), Threads of Death (Earthdawn)
+etc. We also play many other Roleplaying games. We are an official RPGA
+Network Club.
+
+If you would like more information please visit us at
+www.dm2solutions.com/moonknights.
+
+We also have an online database for Living Campaign Characters (LC, LJ, LD
+etc). Anybody may add their character and search for other RPGA/Living
+friends.
+
+thanks
+
+Joshuah, Paladin
+Most Senior Knight
+Moonknights
+
+My email is: magesage@infinet.com
+
+The Roleplaying Game Association (RPGA) is a international gaming
+society sponsored by TSR, the creators of Advanced Dungeons and Dragons
+(AD&D).
+
+New Roleplaying Club in Columbus Ohio
+
+DM2 Solutions                 Mark Middleton              magesage@Infinet.com
+Macintosh Solution Provider         VP        DM2solutionz@applelink.apple.com
+LANs, Database & C++                                       Phone: 614-529-1969
+Multimedia and CBT services                                Fax:   614-529-1920
+
+--------------------------------------------------------------------------------
+Subject: ANDCON Convention
+Author: magesage@Infinet.com
+
+Volunteers are needed to help with the ANDCON Convention being held in
+Toledo Ohio from September 12-15th.
+
+Computer Game Tournaments, Roleplaying Games , a Magic Card Tournament and
+many other events are planned.
+
+Volunteers of any skill or interest level can help out. In the Computer
+Games Area. We need people to help at the sign up table (reading and
+writing are the big skills here) as well as Computer Gamers to help setup
+the games on the LAN or serve as referees during the tournaments. We can
+use help for a little as a few hours to several days.
+
+Your reward, earn partial or full admission to all 4 days plus the
+satisfaction of doing cool fun stuff with other people.
+
+To volunteer for the Computer Game Tournament email magesage@infinet.com
+(Mark Middleton) or call 614-529-1969 for all other events call ANDCON @
+1800-529-EXPO.
+
+Duke Nukem 3D, Descent II, Warcraft II and Command & Conquer are just some
+of the Hottest computer games on the market according to Mark Middleton,
+Vice President of DM2 Solutions. All of them plus many more computer games
+will featured at Andcon 96 being held September 12-15th in Toledo Ohio at
+the Seagate Convention Center. Attendee's at Andcon 96 will be able to
+match their skills with players from all over the US in tournaments. All
+the Tournaments are unique since they will feature multi-player versions of
+the games on a computer network. Multi-Player means players will face 1 to
+7 other live opponents. Over 16 Computer Game Companies are sponsoring 21
+Tournaments to be held over the course of the weekend. 16 PCs all
+networked, will be used  for play.
+
+2 Tournaments will be played continuously from Starting 2:30 pm Thursday
+till midnight and then Friday and Saturday from 10 am to 1 am in the
+Seagate Convention Center Hall C.
+
+All tournaments will require on site registration. Players may register for
+as many tournaments as the want. Pre-registration weekend badge price is
+$24.95. Daily and visitor passes will be available. Game Tournaments and
+their exact Times will be posted on the web in a few more days.
+
+ANDCON 96 will continue its tradition of being the largest Regional
+convention in Ohio, and the flagship convention of the gaming industry.
+1,000 attendee's are expected with over 400 events planned, including
+Magic: The Gathering  and other CCG Tournaments,  role-playing events
+(including Role Playing Game Association events), board games, miniatures,
+an auction, and plenty of other events to satisfy even the non-gamer.
+Also, Origins is proud to have as Guests of Honor: Randy Asplund-Faith,
+Darwin Bromley, Peter Bromley, Shawn Carnes, Julia Martin, Paul Peterson,
+Nick Pollotta and Brom .
+
+DM2 Solutions is running the computer game tournaments. DM2 Solutions is a
+Software Development firm located in Hilliard, Ohio that specializes in
+computer based sales and marketing presentations, custom interactive
+training, E-Books, Internet Web services,  and promotional multimedia
+software. DM2 has developed commercial CD-ROMs that have shipped over
+300,000 copies.
+
+For more information regarding Andcon contact Andon at 1800-529-EXPO.
+Firms may also visit or fax DM2 solutions at our Internet web site at
+www.dm2solutions.com, e-mail DM2 Solutions at dm2@dm2solutions.com or call
+Troy Daniels at (614) 529-1969
+
+Andon Inc is in charge of running Andcon. Andon, Inc. is the convention
+subsidiary of Wizards of the Coast, a game manufacturer based in Seattle,
+Washington. In August 1993, Wizards of the Coast created a worldwide
+sensation when it released its first trading card game, Magic: The
+Gathering«. To date, more than a billion cards have sold worldwide in six
+languages.
+
+Confirmed Game Tournaments (All authorized!)
+
+Apache
+Fly your Apache Attack Helicopter against 3 other human opponents in a
+death-match Heli-Sim. 50 minute Heats will be run hourly. One final will be
+run at the end of the time slots.
+
+Quake
+An Eight player network game. The Newest ID Software 3D Shooter with new
+weapons and a new graphics engine. This is truly better than DOOM. 20
+minute heats will be run with the High FRAG score advancing to the Semi
+Final. Preliminaries everyday The Final will be run Sunday.
+
+Strife
+An Eight player network game. Strife is a First Person Fantasy based 3D
+Shooter based on the DOOM Engine. 20 minute heats will be run with the High
+FRAG score advancing to the Final held at the end of the Strife heats. Free
+Demo CDs. This is a Thursday Only event.
+
+Warcraft II
+An Eight player network game. Azeroth is a kingdom in peril as you and your
+opponents struggle for domination.  Only once will emerge victorious, will
+it be you? Warcraft II is a fantasy based tactical and strategic computer
+game. 2 hour preliminary rounds will be run with the top scorer advancing
+to the Finals on Sunday. Preliminaries everyday except Sunday. We will also
+be taking on site sign ups for our Alliances tournaments (teams of 2, 3 or
+4 players against teams of the same number of players.
+
+Doom II
+A Four player network game. Blast your way through friends and monsters in
+this classic! 20 minute heats will be run with the High FRAG score
+advancing to the Semi Final. Preliminaries everyday. The Final will be run
+Sunday.
+
+Duke Nukem 3D
+An Eight player network game. Duke takes on aliens and friends alike in
+this spectacular sequel.  20 minute heats will be run with the High FRAG
+score advancing to the Semi Final. Preliminaries everyday. The Final will
+be run Sunday.
+
+BattleBeast
+Man to Man combat by controlling Morphing Critters in this hilarious One on
+One computer Fighter game. This is a Thursday Only event.
+
+Destruction Derby
+A four player network game. No Rules, No PitStops and No Friends in this
+Demolition Derby event!
+
+Descent
+An Eight player network game. Fly through lunar tunnels trying to survive
+the onslaught with heavy weapons! This is a Thursday Only event.
+
+Top Gun: Fire at Will
+A four player network game. Your Grumman F-14 Tomcat and you against friend
+and foe alike in this Movie Dogfight game! This is a Thursday Only event.
+
+Whiplash
+An Eight player network game. Sit down and strap in  for a tire squealing
+stunt racing duel to the death! This is a Friday Only event.
+
+Descent II
+An Eight player network game. All new weapons, all new enemies in this
+Descent sequel.  Both computer and human controlled opponents. This is a
+Friday Only event.
+
+Tyran
+Head to Head in Intense multiplayer arcade action in this vertical
+scrolling shooter! This is a Saturday Only event.
+
+Assault Rigs
+A four player network game. Futuristic Tank 3D action pits man vs. man in
+multiplayer combat in the Virtual World. This is a Saturday Only event.
+
+Witchhaven II
+A four player network game. Armed with your sword and your wits you must
+take on friend and foe in this first person fantasy combat sim.
+
+VR Soccer
+Virtual Reality Soccer against the computer or against another human! This
+is a Saturday Only event.
+
+VR Pool
+Virtual Reality Pool against the computer or against another human.  Rack
+'em up! This is a Saturday Only event.
+
+Big Red Racing
+An Eight player network game. The Rules of the road do not apply when you
+are racing everywhere from Outer Space to the Desert! This is a Saturday
+Only event.
+
+Total Mayhem
+An Eight player network game.  Giant Robots fight for control of the
+universe! The entire tourney is on Sunday morning with the final Sunday
+Afternoon
+
+TekWar
+An Eight player network game. Fight in the world created by William
+Shatner.  Combat the TekLords and others in this first person shooter! This
+is a Sunday Only event.
+
+Chaos Overlords
+An Eight player network game.  As a Chaos Overlord, you control the
+futuristic streets.  Now there are others in your way.  Street by street
+multiplayer warfare. Only One time Slot. This is a Sunday Only event.
+
+DM2 Solutions                 Mark Middleton              magesage@Infinet.com
+Macintosh Solution Provider         VP        DM2solutionz@applelink.apple.com
+LANs, Database & C++                                       Phone: 614-529-1969
+Multimedia and CBT services                                Fax:   614-529-1920
+--------------------------------------------------------------------------------
+Subject:  Image
+Author: JeffOber@msn.com
+
+I've an image that people could grab if they're interested.  On my main page at 
+www.he.net/~bdrag, I made an image that shows me as a member of the IRPS, and 
+it links to the IRPS page.  Just thought I'd mention it in case other people 
+want to use it to link back to the IRPS page!
+
+Jeff Ober <JeffOber@msn.com>
+--------------------------------------------------------------------------------
+Subject: WebVerse
+Author: grafx1@airmail.net/
+
+If you remember the last issue, we sent out a call for help in developing an
+online world. Since that time we have gathered quite a group of people
+together to start the development. I would like to let you know how we are
+doing and see if there are any other interested parties out there.
+We have identified a new web address and a dedicated server to host the new
+online universe. We are also detailing a small village scenario to host the
+first alpha of the product. Our coding team is diligently at work getting the
+host site prepared and some of the basic ActiveX applets and scripts developed.
+One area we could sure use some help in is developing realistic graphics for
+the site. If anyone out there wants some exposure, here is your opportunity.
+We are excited to see where this development will take us, because we think we
+have found a new paradigm for Internet gaming. We have taken all of the good
+features of MUDs, PBeMs, and chat rooms and tried to combine them in a computer
+assisted role-playing environment that we think everyone will enjoy. Whether
+you like medieval times, futuristic zones, or space combat, this could possibly
+become your favorite bookmark when it becomes available.
+I would like to get some idea of who would want to participate in an alpha test
+when we have finished the development. Please respond with the subject WEBVERSE
+ALPHA: and send your mail directly to mailto://grafx1@airmail.net/In your mail
+answer these questions:
+- Would you really pay to play an online game?
+- If so, how much?
+- If the game were free, would you contribute ideas, graphics, and NPCs to keep
+it alive?
+- If your PC were successful in the game, what rewards would you expect?
+- What do you like the most about online games?
+- What do you dislike the most about online games?
+- What speed is your Internet connection?
+
+--------------------------------------------------------------------------------
+Newsletter staff
+
+Karen Mizeri <kmizeri@jetstream.net>
+Jenn Millington <jimjen@interlog.com>
+John "BJ" Tomkins <gr8dm@acronet.net>
+Eugene Tillery <ewulf@dbtech.net>
+--------------------------------------------------------------------------------

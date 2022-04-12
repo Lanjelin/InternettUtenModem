@@ -1,0 +1,230 @@
+
+From crispen@campus.mci.net Wed Nov 27 17:52:04 1996
+Date: Wed, 27 Nov 1996 13:50:35 -0800
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS -- 28 NOVEMBER 1996 -- SPAM!
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |     MOMS WANTED for Internet panel to advise major    |//////|    |
+ |  company.  For info, e-mail to: moms@cybersurveys.com |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+TODAY'S STOP:      SPAM!
+TODAY'S ADDRESSES: http://www.suck.com/dynasuck/95/11/15/
+                   http://www.yahoo.com/Society_and_Culture/
+                   Mythology_and_Folklore/Urban_Legends/
+
+Happy Turkey Day, y'all! (For those bus riders who may not be in the
+States, every fourth Thursday in November is Thanksgiving, a holiday where
+we celebrate the one day in history that we were nice to the Native
+Americans.  People in the United States celebrate Thanksgiving by consuming
+vast quantities of turkey (my parents are currently cooking a 20 pound bird
+to feed our family of four), followed by the ritualistic watching of
+football (by the men) and the final approval of tactical war plans for the
+Christmas shopping season (by the women))
+
+It is customary for the turkey growers of America to give the President of
+the United States a free, live turkey.  It is also customary for the
+President to grant the turkey a Presidential pardon and to place the turkey
+in a petting zoo.  This year, however, while President Clinton was making
+up his mind about the pardon and the Republicans in the House were debating
+a continuing resolution to override the President's pardon and to condemn
+the President for being soft on poultry, the turkey died of old age.
+
+All kidding aside, its time for us to pay some bills ...
+
+*-------------------------- MASS MUSIC ------------------------------*
+ More Music For Your Money!  Over 185,000 Titles -- Just A Click Away.
+            Sign up for our FREE Weekly Music Zine Now!
+ Buy 7 Get 1 FREE Everyday. Try the Treasure Hunt for a Chance to win.
+*-----------------(  http://www.Mass-Music.com  )--------------------*
+
+Since today is "turkey day," I figured it would be appropriate if we talked
+about the *REAL* turkeys of the Internet: the "spammers."  On the Internet,
+the word "spam" has two meanings:
+
+     1. A canned luncheon meat with the shelf life of gravel, and
+
+     2. Inappropriate e-mail letters, oftentimes advertisements, that
+        are sent to hundreds of thousands of people on the Internet.
+
+If you want a good overview of the second definition, I recommend that you
+take a look at ROADMAP workshop lesson 9 (Spamming and Urban Legends).  You
+can retrieve this lesson for free by sending an e-mail letter to
+
+     LISTSERV@UA1VM.UA.EDU
+
+(that's "you-ay-won-vee-em") with the command
+
+     GET MAP09 LESSON F=MAIL
+
+in the body of your e-mail letter.  Lesson 9 gives you a little longer
+definition of what a spam is, and it also tells you what you should do if
+you ever see a spam.
+
+There are two types of "spams": deliberate spams which are mostly
+advertisements that are posted to thousands of LISTSERV lists and Usenet
+newsgroups, and inadvertent spams which are e-mail letters that sound true
+and which readers decide to forward to all of their friends.
+
+The inadvertent spams are the hardest to spot, because they seem to be
+legitimate.  Here are some of the most prevalent inadvertent spams on the
+Net today:
+
+     THE BRAIN TUMOR BOY
+
+          MYTH: A child dying of a brain tumor wants to get into the
+                Guiness Book of World Records for having the most
+                business cards/ post cards/ get well cards sent to
+                him.
+
+          TRUTH: The boy's name is Craig Shergold, he is alive and
+                well (the tumor is gone), he made it into the Book of
+                World Records years ago, and he DOESN'T WANT ANY MORE
+                DARNED CARDS!!
+
+                This would be an innocent story, but a while back
+                someone decided to change the story so that instead of
+                asking that the cards be sent directly to Craig (in
+                England) they should instead be sent to the
+                Make-a-Wish foundation.  So now, Make-a-Wish (an
+                organization that grants the dying wish of children
+                with terminal diseases) is being flooded with cards
+                for a child that is no longer sick and who doesn't
+                need or want any more cards.
+
+                Even if you do not agree with some of the things that
+                Make-a-Wish has done in the past, considering the
+                damage that this spam is causing to the mailroom at
+                Make-a-Wish, I think that everyone will admit that the
+                BRAIN TUMOR BOY is the cruelest, sickest, spam/urban
+                legend on the Internet today.
+
+     THE GOOD TIMES VIRUS
+
+          MYTH: E-mail letters that have the words "GOOD TIMES" (or
+                "DEEYENDA" or any of a host of other words) in their
+                subject lines actually contain viruses or trojan
+                horses that destroy your hard drive once you open the
+                e-mail letter.
+
+          TRUTH: It's a lie.  You CAN'T get a virus or a trojan horse
+                by reading an e-mail message.  It is flat out
+                impossible.
+
+                You can, however, get a virus or a trojan horse from
+                launching an executable file that has been attached to
+                an e-mail letter.  How can you protect yourself from
+                virused attachments?  Simple.  NEVER launch a program
+                or file (especially a Microsoft Word file) that you
+                receive from ANYONE without first checking that
+                program or file with an up-to-date virus checker.
+
+     THE $250 COOKIE RECIPE
+
+          MYTH: A person is charged "two-fifty" for a cookie recipe,
+                he thinks that "two-fifty" is $2.50, and he decides to
+                get revenge by sending the recipe to everyone he can.
+
+          TRUTH: Its a lie, and the cookies suck.  You can find a MUCH
+                 better cookie recipe at http://ua1vm.ua.edu/~crispen/
+                 cookie.html
+
+     MAKE.MONEY.FAST/WITH FAITH (OR SEX) ALL THINGS ARE POSSIBLE
+
+          MYTH: By forwarding an e-mail letter to 5, 10, or 20 of your
+                closest friends within 96 hours, you will make $50,000
+                a month, become really lucky, or "become REALLY
+                lucky."
+
+          TRUTH: #1) These are the Internet's version of chain
+                letters.  They are not legitimate, and their claims
+                are totally false.
+                #2) Most Internet service providers have explicit
+                rules prohibiting chain letters.  If you decide to
+                forward a chain letter to your friends and someone
+                complains to your service provider's postmaster, there
+                is a pretty good chance that your service provider may
+                limit or even cancel your Internet account.
+                #3) Most Net "gurus" (including me) respond to chain
+                letters by forwarding the letters (along with really
+                angry replies) to the sender's postmaster.
+                #4) Forwarding a chain letter to a LISTSERV list or
+                Usenet newsgroup under the assumption that "the chain
+                letter said that if I forward the letter to 10 people
+                I will become lucky -- so sending the letter to a list
+                with 2,000 subscribers will make me REALLY lucky" is
+                foolish, and is a really great way to get yourself
+                banned from that list for the remainder of your life.
+
+With that said, if you want to see what each of these spams actually
+looks like, you should check out
+
+     http://www.suck.com/dynasuck/95/11/15/
+
+This page gives you links to everything you could ever want to know about
+spam (both the "meat" and the net abuse), and it also has a special feature
+that allows you to spam yourself. :)
+
+You might also want to check out Yahoo's urban legends page at
+
+     http://www.yahoo.com/Society_and_Culture/
+     Mythology_and_Folklore/Urban_Legends/
+
+Finally, to protect yourself against accidentally spamming the Net,
+remember this one simple rule: if you receive an e-mail letter that asks
+you to forward the letter to others, the only person that you should
+forward it to is the sender's postmaster.
+
+*----------------------*  Be A CyberGourmand! *----------------------*
+Give a gift of good taste for the holidays, shop at Twin Peaks Trading
+Post for all your gourmet desires. Cornucopia of pleasurable edibles!
+*------------------------( http://tpeaks.com )-----------------------*
+  +-----------------------------------------------------------------+
+  |  Win a Color TV by playing Where in the World? at WorldVillage  |
+  |     http://www.worldvillage.com/wv/gamezone/html/where.htm      |
+  +-----------------------------------------------------------------+
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+ANOMALY (phrase) - My usual practice.
+Usage: "Anomaly drink Dr. Pepper, but ah'll have a Pepsi few don't
+       mind."
+
+(Special thanks goes to an anonymous TOURBUS rider ("deroldad") for today's
+wurd.)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

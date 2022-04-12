@@ -1,0 +1,137 @@
+Path: news.vol.it!news
+From: marco.coletti@eurofin.it (Marco Coletti)
+Newsgroups: alt.security.pgp
+Subject: Re: Win95 long file names
+Date: Thu, 02 Jan 1997 23:41:18 GMT
+Organization: Video On Line
+Lines: 120
+Message-ID: <32cc3711.3692614@nntpserver.vol.it>
+References: <5aea1r$cla@boursy.news.erols.com>
+NNTP-Posting-Host: 195.31.133.48
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Newsreader: Forte Agent .99f/32.299
+
+BlackGate@compuserve.com## (Brandon Blackmoor) wrote:
+
+>One of the things that annoys me about Win95 is that any old
+>programs will overwrite long file names with short ones. This
+>happens with PGP, too. I've been working on batch files (using a
+>program called Visual DialogScript) that get the long file name,
+>do a PGP thing (so far, just conventionally encrypt & decrypt),
+>then copy the long file name back onto the resulting file.
+>
+>For example, it goes like this for encrypting:
+>This is a test.doc  <-- plaintext file
+>THISISAT.PGP        <-- resulting encrypted file
+>This is a test.doc  <-- encrypted file is renamed 
+
+
+Never heard of PGP 32-bit ?
+
+It runs on win32 (text mode only) and supports long file names.
+
+Basically it is a recompilation of the source code of PGP 2.6.3i for DOS.
+
+ftp://ftp.ifi.uio.no/pub/pgp/pc/windows/pgp263i-win32.zip
+
+Maybe its use is not legal inside USA.
+
+
+I installed PGP-32 simply by unpacking the zip file, renaming PGP.EXE to
+PGP32.EXE and moving the file PGP32.EXE to my preexisting PGP home dir (so that
+PGP and PGP-32 can share the private and public key ring).
+
+You can even build a basic Explorer support for PGP by means of PGP-32 and
+something like the following registry keys (taken from my win95 registry):
+
+........................................................................
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\*\shell]
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_decrypt]
+@="PGP decrypt"
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_decrypt\command]
+@="d:\\prg\\pgp\\pgp32.exe -p \"%L\""
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_encrypt]
+@="PGP sign and encrypt"
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_encrypt\command]
+@="d:\\prg\\pgp\\pgp32.exe -es \"%L\" -o \"%L.pgp\""
+
+[HKEY_CLASSES_ROOT\.pgp]
+@="PGPfile"
+
+[HKEY_CLASSES_ROOT\PGPfile]
+@="Pretty Good Privacy"
+"EditFlags"=hex:00,00,00,00
+
+[HKEY_CLASSES_ROOT\PGPfile\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PGPfile\shell\open]
+"EditFlags"=hex:01,00,00,00
+
+[HKEY_CLASSES_ROOT\PGPfile\shell\open\command]
+@="d:\\prg\\pgp\\pgp32.exe -p \"%L\""
+
+[HKEY_CLASSES_ROOT\PGPfile\DefaultIcon]
+@="C:\\WINDOWS\\SYSTEM\\PASSWORD.CPL,1"
+........................................................................
+
+You should substitute d:\\prg\\pgp\\pgp32.exe for your PGP-32 full pathname and
+C:\\WINDOWS for your win95 home dir.
+Then save as a file with extension .REG and double click it.
+Now look at the right-click menu in Explorer... and guess what happens if you
+double-click a .PGP file?
+
+
+If you like to keep the same filename for the encrypted file (rather than
+appending the extension .PGP) change the rows
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_encrypt\command]
+@="d:\\prg\\pgp\\pgp32.exe -es \"%L\" -o \"%L.pgp\""
+
+in
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_encrypt\command]
+@="d:\\prg\\pgp\\pgp32.exe -es \"%L\" -o \"%L\""
+
+Even so, you can decrypt a file wich extension is not .PGP right-clicking it
+and choosing the "PGP decrypt" menu item, but I feel more correct the schema:
+
+long file name.doc --(encryption)--> long file name.doc.pgp --(decryption by
+double-click)--> long file name.doc
+
+
+Another idea would be to add the -w parameter to improve security:
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_encrypt\command]
+@="d:\\prg\\pgp\\pgp32.exe -esw \"%L\" -o \"%L.pgp\""
+
+
+And finally, something for protecting sensitive files against non authorized
+scrutiny:
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_lock]
+@="PGP lock"
+
+[HKEY_CLASSES_ROOT\*\shell\PGP_lock\command]
+@="d:\\prg\\pgp\\pgp32.exe -ew \"%L\" marco.coletti@eurofin.it -o \"%L.pgp\""
+
+
+The power of Explorer...
+
+
+---------------------------------------------------------- -= MarCo =-
+PGP public key:
+finger marco.coletti@mail.bearnet.it
+http://www.pgp.net/cgi-bin/pks-extract-key.pl?op=get&search=0x96A79061
+
+Fingerprint: 9F E5 80 61 F6 9F 05 2D  EA 53 6F 2D 82 8B C7 C2
+----------------------------------------------------------------------
+

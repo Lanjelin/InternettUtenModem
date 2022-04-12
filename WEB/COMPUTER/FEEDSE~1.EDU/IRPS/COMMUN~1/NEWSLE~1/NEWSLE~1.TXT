@@ -1,0 +1,1099 @@
+IRPS NEWSLETTER
+October 1, 1996.
+Issue #10
+
+Table of Contents:
+
+IRPS Monthly status Report (Michael Popovich <mlp26745@pegasus.cc.ucf.edu>)
+Editor's Note  (Karen Mizeri  <kmizeri@pris.bc.ca>)
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+Rambling Thoughts  (Kosala Ubayasekara <d96-kub@nada.kth.se>)
+DM's Advice (Earl Harrison  <harrison@comsys.net>)
+Top Ten List (John "BJ" Tomkins  <gr8dm@acronet.net>)
+
+--------------------------------------------------------------------------------
+Role Playing Aides
+--------------------------------------------------------------------------------
+If You Give Your Players Enough Rope...(Jenn Millington <jimjen@interlog.com>)
+The Black Swamp (Irving Galvez <egalvez@correo.tamnet.com.mx>)
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+The Assassins  (Tim Elford <telford@tusc.au>) AND
+               (Goran Zidar <goran@elf.aust.com>)
+Fireside Chat (John "BJ" Tomkins  <gr8dm@acronet.net>)
+
+--------------------------------------------------------------------------------
+Monthly Classified Ads:
+--------------------------------------------------------------------------------
+Subject: Seeking players for Amber Diceless Roleplaying
+Subject : Kosala's AD&D site
+Subject: Legends
+Subject: Seeking players
+
+--------------------------------------------------------------------------------
+IRPS Monthly status Report 
+Michael Popovich <mlp26745@pegasus.cc.ucf.edu>
+--------------------------------------------------------------------------------
+	Well everyone, the club seems to be moving full spead ahead, especially
+considering that the newsletter department is thinking about converting all of
+our future newsletters into HTML format so you can read them from the web page.
+No telling what the might add into those pages (pics, java, cgi, etc.). ;)
+
+--------------------------------------------------------------------------------
+Editor's Note
+Karen Mizeri <kmizeri@pris.bc.ca>
+--------------------------------------------------------------------------------
+Greetings all!
+Good News!  As of the next issue we hope to be releasing a full graphical E-Zine
+version of the IRPS newsletter.  Thank-you to all who volunteered their time to
+help with the project.  I would like to take this opportunity to ask all members
+to submit their suggestions for a name for the E-Zine.  You can mail these to me
+at <kmizeri@pris.bc.ca>.
+
+With the upcoming release of the E-Zine, our submissions deadline will be bumped
+ahead to the fifteenth of every month, as to accommodate the extra work involved.
+We will also be accepting original artwork from any who would like to submit it,
+This can be mailed to Kosala Ubayasekara at <d96-kub@nada.kth.se>, who is in
+charge of the graphics department.
+
+As well I would like to bring to your attention that we have set up a "Writer's
+Assistant' for anyone worrying about meeting our new guidelines.  You can email
+Eugene Tillery at <ewulf@dbtech.net>.  He will assist you in any way he can.
+
+For anyone who would like to volunteer for the E-Zine, Layout/Design is
+still lacking people, and we need someone to look after the actual on-line
+maintenance of the magazine.  You will find all relevant addresses at the bottom
+of the newsletter.
+
+Thank-you to all those who submitted, keep up the good work.  :)
+
+Sincerely,
+
+Karen Mizeri
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+Rambling Thoughts
+Kosala Ubayasekara <d96-kub@nada.kth.se>
+--------------------------------------------------------------------------------
+-High Level Campaigning and the much neglected Thief's Guild-
+
+Every DM at one point or another has or will come to the point when the players
+are simply too powerful. Gone are the days when a group of Orcs were a real
+threat. Even a dragon can become only a slightly-above-average-threat at some
+point. The DM feverishly turns the pages of the monsters manual and much to his
+or her dismay can't seem to find anything that would threaten the party, while
+still keeping the game realistic. Enter man.
+
+The human adversary is the most under used opponent for PC's. There are no better
+challenges to high-level PC's than high-level NPC's. So when your party starts
+hitting the levels above twelve start reconsidering your campaign plan. In high-
+level campaigns the DM has the potential to get delicious role-playing
+opportunities into the game. Combat is still necessary but the role-playing
+aspect can be explored to previously impossible levels. Firstly the characters
+are not only more powerful, but also more known. That makes them eligible for
+posts of public service, politics and all manner of other activities, which were
+hitherto closed to them. I do not, in this article intend to explore all the
+possibilities, for the obvious reasons. However I will take up one side of the
+AD&D game that is often neglected - the great potential of the Thief's Guild.
+Particularly at higher levels the local Thief's Guild has the ability to create
+enormous amounts of fun for both the players and the DM. Two possible scenarios
+are given below:
+
+a)  The PC's are part of the guild:
+notice here that the PC's do not have to be thieves to be part of a thief's
+guild. A thief's guild will often be in need of special services that only
+persons of certain classes can achieve.  So they will constantly be on the look-
+out for eligible characters.  The party does not have to be evil to
+be a part of such  a guild.  Not every move made by a guild involves
+assassination and kidnapping.  Scrying, information gathering, robbery are all
+activities that often require more than the average thief's skills to accomplish
+well.  Of course if the characters are lawfully aligned this option would be
+difficult.
+
+Also thief's guilds can be established for a variety of reasons.  It can be in a
+city ruled by a tyrant and the guild would then assume "Robin Hood" proportions.
+It would be the classic scenario of take-from-the-rich-and-give-to-the-poor.
+This would naturally incur great support for the guild from the local peasants
+and working class, and the officials attempts to uproot the guild members would
+give ample adventuring possibilities and role-playing situations.
+It could alternatively be a quasi-political thief's guild, with a far reaching
+political influence achieved through extensive role-playing on the part of the
+PC's, the guild would be in a position to influence matters on a global scale.
+This scenario works best if the PC's are high up in the hierarchy of the guild.
+This would give the PC's a huge responsibility and make them consider every move
+their characters make very carefully, as is only proper for powerful characters.
+
+b)  The PC's are hired by the guild:
+Here the potential for treachery is enormous.  The PC's could be hired by the
+guild to achieve a particular goal.  Having achieved this goal successfully the
+guild then decides the characters know too much and wants them "silenced".  This
+would put the PC's in a run for their life with assassins chasing them, until
+they can find a way to "persuade" the guild to stop.  This scenario of an entire
+Thief's Guild vs PC's is great for a group of very high-level characters.
+
+Alternatively the PC's might choose to intentionally betray the guild and deal
+with consequences, ultimately with the goal of taking over the guild themselves.
+This of course would require some extensive advance planning, and is another
+involved idea for those PC's tired of clubbing mediocre foes to death.
+
+So the possibilities are endless, and I am sure the reader can think of many
+more.  But remember what fun a Thief's Guild can be when used wisely.  And the
+leader of the guild doesn't necessarily have to be humanoid...
+
+--------------------------------------------------------------------------------
+DM's Advice
+Earl Harrison  <harrison@comsys.net>
+--------------------------------------------------------------------------------
+
+
+For this month's article I would like to comment on TSR's new CD-ROM Core
+Rules.  I ran out and bought it as soon as I saw it on the shelf.  I had to
+have it.  I knew it would be good.  I knew it was going to be the most used CD
+in my collection.  I slapped down the three bills required to buy this CD.  I made
+the wife drive home and read the instructions from top to bottom before we
+got home.  I turned on the computer and moved my utilities package to the
+recycle bin and then I tore open the package and flipped the CD in the tray.
+Boy was it better than the demo.  The village tour was awesome.  The wizard
+help was incredible and the main menu was well done.
+
+I got into the programs and after a couple of hours felt like I had been
+cheated out of my money.  The programs were slow and sluggish.  They took
+forever to load.  Granted, the character generator was pretty smart when it
+came to giving you abilities and weapons, but I can write up a character
+just as fast as you can write one with this program.  It was a very boring
+and unattractive way of creating a character.  Then I printed it out.  YUCK!
+5 pages for 1 character.  That is very uncalled for.  Most players I know
+don't want that many pages to deal with when playing the game.  Pray you
+don't have to generate spells, well that is another page or two.  Generating
+NPC's was just as dull and boring.  I did like the fact that you could create
+any character that you wanted even if he did not go by official rule and it
+would try and fit him in.  Generating encounters and treasure was even
+worse. To generate an encounter seemed like it took for days.  I gave up
+half way through. 
+
+The map maker was by far the best program on the CD but it to was very
+boring to use.  I did not and have not to this day even tried to generate a
+3D map.  I can only imagine what it consists of. 
+
+The best part of the CD was the books on-line.  If it had not been for this I
+would have sent it back to the depths of TSR's very own dungeon.  I feel that
+TSR could have and should have done a far better job of putting this CD on
+the market. So what if it took a few more months.  The die hard fans would
+have waited on it.  We have waited this long, what would a few more months be.  
+
+I still see the same four copies sitting on the shelf right beside the one
+that I picked up.  I knew a few others that were going to buy it but my
+opinion changed that and they kept their money.  If you have not bought it,
+DON'T unless you want or need the books on-line.  That is the only reason to
+buy it.  The printouts are terrible and they are even ugly.  They could have
+given the person the option to print on one of their character sheets.  One
+page sheets are always the best.  I am not saying this to be biased but my
+group and I have put this CD back on the shelf at my house and put my
+utilities package back on the hard drive and will continue to use that until
+TSR brings out another CD that is much better than what they have done here.
+NO, mine does not have all the bells and whistles that theirs has, but it
+is much easier to use and so much faster.  I know that I will get challenged
+on this one because I know that someone out there actually liked it, but
+send the mail and I will argue till the end.  This package was not put
+together that well.  I just hope that there is someone out there in cyberland
+that agrees with me.  TSR used to put out quality products but now I am not
+so sure.
+
+P.S. I have one name to throw out at you and if you know him please let him
+know he is needed back at TSR.  LONG LIVE GARY, GARY, GARY, GARY!
+
+Until Next Time
+Earl Harrison
+
+--------------------------------------------------------------------------------
+Top Ten Lists
+John "BJ" Tomkins  <gr8dm@acronet.net>
+--------------------------------------------------------------------------------
+
+Cyrus Lenn's Top Ten Things To Scare The Beejeebers Out Of P.
+10. Green Balrogs (They're not quite ripe yet.)
+9. Thieves who say, "Uhmm... Guys..."
+8. Regis and Kathy Lee.
+7. Gig's artistic ability.
+6. Paladin's who say. "Uhmm... Guys..."
+5. Dwarves in tutus.
+4. That "makeup" girl from the Drew Carey Show.
+3. Mages with poor depth perception.
+2. DM's who roll dice for no apparent reason, (I don't like this one!)
+And the number one thing To Scare The Beejeebers Out Of PCs,
+1. Barney Modules!
+
+Greyanna Everhate's Top Ten Situation's To Avoid At A Balrog Party.
+10. The selling life insurance.
+9. The salsa marked "for those to stupid to care"
+8. If you're Drew Carey... the makeup girl.
+7. Anyone who offers you "your head on a stick" as an hors 'd ouvre.
+6. The balrog whose soul quota is low for the month.
+5. The door marked "Sacrifice in Progress, Visitors Welcome".
+4. Jimmy Swaggert
+3. The room where they only play "Hotel California."
+2. The one balrog who looks real, real pissed.
+And the number one Situation To Avoid At A Balrog Party,
+1. The green ones!
+
+
+--------------------------------------------------------------------------------
+Role Playing Aides
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+If You Give Your Players Enough Rope They'll Hang Themselves
+by Jenn Millington (jimjen@interlog.com)                    
+--------------------------------------------------------------------------------
+
+I have found that players can sometimes be very demanding.  They
+seem to want the world to be theirs.  I have come up with a
+simple solution for dealing with these type of players and that
+is to give them exactly what they ask for.
+
+I once had a group where one of the players wanted a female love
+interest (NPC) as there were no female PC's in the group.  He
+kept rejecting the NPC's I sent their way as dull and boring. 
+He wanted a female who was at least as good a fighter as he was.
+Somebody who would be a challenge for him.  I asked him if he
+was sure this was what he wanted and told him he would still
+have to win her over.  He was playing a human fighter and
+readily agreed.  So I gave him what he wanted.  I created
+Lorissa, the ultimate elven Knight, out of the Elves of Evermeet
+(TM TSR).  By the time Lorissa reached 7th level she had a +10
+to hit and a +9 to damage with an elven moonblade (TM TSR) which
+is equivalent to a longsword.  Our young human fighter
+specializing in a two-handed sword couldn't match her speed and
+seemed to become most disillusioned about his lady-love. 
+Especially as he was still trying to win her over.  Every time
+he nearly won her over he would commit a selfish action and the
+knight was lawful good so he kept trying.
+
+Then there was the sword.  He wanted a really powerful
+two-handed sword (he had managed to acquire a +1 two-handed and
+I told him how rare really powerful two-handed swords were). 
+They completed a mission for the Simbul (TM TSR) and in return
+he got to choose his reward so he asked for a really powerful
+sword.  I gave him a sword with an ego equal to his personality
+score and boy that sword was arrogant.  It took him over
+whenever it could and demanded that he get rid of magical items
+or it wouldn't fight for him.  However, he thought it was a
+great sword and didn't get rid of it.  I never did tell him
+where it came from.  I guess someday he'll find out.  My players
+have learned to stop and think when I ask them if that is what
+they really want.
+
+
+Then there's the super-player as I call them.  I want an 18/00
+strength, 18 dexterity, 18 intelligence, 18 constitution, 18
+wisdom, 18 charisma and I rolled it up as they look at you
+innocently.   First of all, I always make my players roll scores
+in front of me or use a secure dice roller on the internet. 
+However, using the secure dice roller with me in the room I have
+seen 5 17's, a 16 and a 15 come up so don't always dismiss the
+most outlandish rolls as being impossible.  The super-player is
+easy to deal with, they almost always manage to insult someone
+very quickly and well often that's the last of that player. 
+After all if they're a 1st level character with these statistics
+you can be sure that there's a 10th level character somewhere
+with the same statistics and if they manage to insult them well
+we all know what happens then.  You can always create the
+ultimate villain as well.  My current group has an enemy who is
+very powerful.  He's a 19th level psionic gold dragon who is
+thoroughly evil.  After all gold dragons are supposed to be good
+and they don't have psionics.  However, this one does and they
+still haven't discovered the reasons for this.  They have,
+however, realized that they should fear this enemy and stay away
+from him if they can.  In their last encounter with him they
+ended up losing two party members.  After all creativity is the
+gold mine of the GM and I love to mutate monsters.
+
+However, I normally deal with each situation as it arises I tell
+my players no a lot during character creation.  I stick to
+character's out of the books only and I specify in advance which
+are not allowable.  I have refused my players the rights to use
+the internet for character kits.  There's some really scary
+stuff out there like dragon knights, mystic Jedi, etc.  I make
+up for my restrictions by allowing a generous starting ability
+roll.  My belief on this is that player's will become heroes so
+there must be something special about them.  I allow players to
+roll 4d6 7 times and re-roll any 1's in my face-to-face
+campaigns.  I will allow them to repeat these sets three times
+and then they have to use one of the three sets.  (I use
+comeliness in my campaigns hence 7 statistics).  In my PBEM's I
+have them roll 4d6 20 times and pick the best 7 on a secure dice
+roller only.  I roll hit points for characters and will re-roll
+1's or 2's normally.  I like to give them the best fighting
+chance they have because I like to throw things at them that are
+really nasty.
+
+Finally, we come to wishes.  Boy I love wishes.   Most of my
+players will sell a ring of wishes rather than use it.  There's
+the classic wish 'I want to be just like Elminster' (TM TSR). 
+Now they look like Elminster and they get chased by all of
+Elminster's enemies.  Or 'I want to be the most powerful mage in
+the world'.  I take over their character as an NPC of Elminster.
+ 'I want the most powerful sword in the world', so I give them
+the most powerful sword, but someone's bound to come looking for
+this item.  My players just run when offered a wish now.
+
+So, in closing the best advice I can give a GM is to give the
+players exactly what they ask for.  They always make a mistake
+in the wording of their demands and well then, they got what
+they asked for, right?
+
+--------------------------------------------------------------------------------
+The Black Swamp
+Irving Galvez <egalvez@correo.tamnet.com.mx>
+--------------------------------------------------------------------------------
+This is a very strange place.  After the big catastrophe, tar
+started to raise from the ground eliminating every kind of
+ecosystem.  For years this natural tar well extended up (nearly
+100 square miles) east of what is now the Unforgiving Wastes. 
+The first creatures that moved to this place were dinosaurs,
+that stayed in a small plateau near the center of the swamp now
+know as the Reptile Lands.  Nearly any creature that tried to
+live here died.  But sooner or later some humanoids adapted to
+this land, these were the lizardmen.  After years of rough
+adaptation the lizardmen learned how to coexist with this
+hostile environment.  Their skin grew harder and their living
+skills of water turned into tar skills.  In the present, the now
+known Black Lizardmen is some how like his other brothers, but
+their skin is black, they can swim in the tar and they rule
+these rich lands.  They live in villages build over the tar
+swamp.  They are very organized and have good skills in military
+tactics.  They are good merchants and can obtain nearly anything
+they want.  The only problem is they don't have many lands to
+use in agriculture.  SPEKTROK the capital, a big city built in
+the Reptile Lands, is a famous place to hire mercenaries,
+hunters, scouts and is the capital of commerce in the Black
+Swamp.  There is a big road, the only one, built so that trade
+can arrive to this city.  The road is nearly 50 miles long and
+it is well guarded with 10 large outposts.  The Black Lizardmen
+have learned to live in harmony with dinosaurs so they are a
+good help in many circumstances.  These are good reasons for
+anyone to be allied or to be in peace with the Lizardmen.
+
+SLARDOK XI, the lizard king, has divided the Black Swamp into
+Five sectors.  North Sector has the richest lands in the swamp. 
+Here Black Swamp has the biggest agricultural camps.  These
+lands are the major food supplier the land has so there are some
+outposts that guard this place.  South Sector is the poorest in
+that its major parts are infested by giant size insects. 
+Therefore, it has little population but Slardok thinks it is the
+most vulnerable place and has set up many scout camps and
+military camps.  East Sector is where the tar well springs.  So
+here is what is know as the OIL LAKE which is very deep.  West
+Sector is where most of the lizardmen villages are located. 
+Here is where the big road was constructed.  So these villages
+exist near the road.  The last section, Center Sector contains
+the Reptile Lands and the capital city, Spektrok.
+
+Spektrok is a major city with a population of 500,000 people. 
+(65% are black lizardmen, 15% humans, 10% demi-humans and 10%
+humanoids.) In the center of the city is a big palace, home of
+the king, where he rules with justice.  The city has walls
+protecting it, and its walls are divided in sectors that have
+small guard towers usually with a siege weapon.  There are only
+four entrances to the city, 2 main ones and 2 lesser ones.  The
+main gates are large enough for any kind of terrestrial
+transport.  The lesser ones only admit people.  The city is a
+good place for thieves to find victims and sometimes it becomes
+a battlefield for the different thieves guilds.  There are only
+two kinds of crimes lesser and major crimes.  Lesser crimes are
+paid for with prison.  Major crimes are dealt with by death in
+the main park. 
+
+
+There are 4 military orders:  The Followers of the Spear, Heavy
+Cavalry, Air Assault and The 100 Feet. 
+
+The Followers of the Spear are the Royal Elite Guard.  They have
+golden chain mail +2 and Spears +2.  They are the ones that
+protect Spektrok City.  They are divided into:   Royal Guards
+that are the personal body guards of the king, Palace Guards
+that guard the entire palace complex, City Guards that guard the
+city limits and Police Guards that guard and make justice in the
+city.  All the members of these Guards are Black Lizardmen.
+
+The Heavy Cavalry is composed of mixed forces of lizardmen,
+humans, humanoids and demi-humans, mounted on different kinds of
+prehistoric animals and dinosaurs.  The creatures used most
+often are:  dire wolves, sabretooth tigers, Bekkahs,
+triceratops, mastodons and mammoths.  
+
+Air Assault is composed of mixed forces like the Cavalry.  They
+use many different kind of prehistoric birds and some black
+dragons.
+
+The 100 Feet is also a mixed force.  They are infantry and
+scouts.
+
+Many years ago the Black Lizards old wicca, Squark, searching
+its path to immortality, built an artifact called the EYE OF
+TAQUAKSU that was made to protect the habitants of the Black
+Swamp from dying.  Now in our days, this artifact is in the
+hands of the king.  It is a hand sized obsidian gem set in a
+small statue that resembles a Cyclops.  It is said that the
+wicca had to kill the strongest Cyclops in Mystara.
+
+The black swamp habitants worship Algotuku Kasquas, in human
+dialect, The Great Black One.  This god was invented in the past
+but really didn't exist.  Now that Squark is immortal, he has
+taken this god role and is looking after its people.
+
+The only true enemies of the black lizardmen is a not so small
+group of gatormen that live in a small swamp in the Unforgiving
+Wastes.  Some lizardmen spies have intercepted secrets papers
+that uncover plans of attacking Black Swamp with another group
+of humanoids.
+
+The language the lizardmen use is a primitive thyatian dialect. 
+So anyone that speaks thyatian can understand some words.
+
+ rrafo predeter.11
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+The Assassins
+Tim Elford  (telford@tusc.com.au) - The DM
+Goran Zidar (goran@elf.aust.com) - Craven
+
+--------------------------------------------------------------------------------
+
+The Authors:   Tim (telford@tusc.com.au)  - The DM
+               Goran (goran@elf.aust.com) - Craven
+
+Homepage:      http://www.ozemail.com.au/~goran/Roleplay.htm
+
+
+                      ---------------------------------                       
+
+                              - The Assassins -                               
+                                  Episode 2                                   
+
+The Assassins: Argos - Thief 1st level LE (NPC)
+               Craven - Duelist/Thief 1st/1st LE (PC)
+               Keldirk - Thief 1st level NE (PC)
+
+Locale:        At the docks in a hidden cove somewhere in the Olman islands.
+               The trio have been waiting for a ship called the Sea Swift for
+               some time.  It has been arranged that the Sea Swift will carry
+               them to Chathold, capital city of the Prelacy of Almor.
+
+Date:          5th Ready'reat 581 CY (Common Year)
+
+                      ---------------------------------                       
+
+Craven, Keldirk and Argos are sitting on their backpacks on a rickety jetty,
+waiting to be picked up.  Keldirk is in a foul mood at being kept waiting and
+Craven and Argos are hung over from last night's farewell celebrations.
+
+Argos:         Good party last night, eh?
+
+Craven:        (rubbing his bleary eyes) Yeah, not bad... I finally went all
+               the way with Kymm.
+
+Argos:         Yeah? How was she?
+
+Craven:        Ummm, I don't remember.
+
+Argos:         (laughs heartily) That'll teach you for entering drinking
+               competitions with Angor.  I knew that Half Orc would drink you
+               under the table.  In fact, with all that money changing hands,
+               I ended up doing quite nicely.
+
+Craven:        I hope you intend on sharing it, then?
+
+Argos:         Did you share Kymm with me?
+
+Craven:        Share her with you? No chance.  She has taste! (smiles)
+
+Argos:         Taste? Her? That's a laugh.  She's had every guy on this
+               island... twice.  I heard that once she took...
+
+Keldirk:       Don't you goat lovers ever shut up?
+
+Craven:        (to Argos) What's his problem?
+
+Argos:         Dunno, maybe his mummy didn't kiss him goodbye.
+
+Keldirk:       (scowls) Listen.  I've been waiting here for over an hour and
+               the last thing I want to hear is your incessant drivel.  So
+               shut your traps, or I'll shut 'em for you!
+
+Craven:        Actually, Argos, I know there's one fellow that Kymm hasn't
+               had... (laughs)
+
+Argos:         (laughs)
+
+Keldirk picked up his backpack and walked down the jetty, away from his
+fellow assassins.  One thing he thought he could rely on was that assassins
+worked alone; free to act without having to deal with others.  The irony was
+that although he was finally getting off this island, away from the
+restrictive rules and procedures, he was being sent out with two other
+assassins.  It felt to Keldirk as though he were being punished.
+
+The two friends, Craven and Argos, continued their banter on the jetty while
+they waited.  Keldirk began to clean his knives for the third time this
+morning.
+
+It was several hours before a small row boat pulled into the cove and docked
+at the Jetty.  In the boat were three wild-looking men.
+
+Man #1:        Yo! Top mornin', eh? Me name's Red Tum and I'm to be takin'
+               yer to The Swift.  She's a beaut; sturdy as a galleon and as
+               fast as a gull.
+
+Keldirk:       (hands Red Tum his backpack and enters the boat) About bloody
+               time you showed up!
+
+Argos:         (enters the boat carefully)
+
+Craven:        (enters the boat and almost retches as it rocks from side to
+               side) Damn! Can't you keep this barge still?
+
+Red Tum:       Still? Ha! This aint nothin'.  Just wait lad... just you wait.
+               The Needles' Eye - now there's a strip o' water where you'll be
+               battlin' to keep yer lunch.
+
+The small boat was rowed out of the cove and across a coral reef, eventually
+coming along side a large ship called The Sea Swift.  The three assassins
+climbed a rope ladder and were welcomed by the Sea Swift's captain and his
+huge, humanoid first mate.
+
+Captain:       Welcome aboard.  My name is Captain Thrush and before you
+               begin with the jokes let me warn you.  The last man that joked
+               about my name lost his tongue.  This here (pointing to the Ogre
+               to his left) is my first mate, Flim.  Flim is a crazy son of a
+               cur, and like me he has no tolerance for smart arses or lay
+               abouts.  Stay out of our way and do EXACTLY as you're told.
+               Understand?
+
+Keldirk:       Why the bugger are you late? We've been waiting on that bloody
+               jetty since daybreak.  I hope you can sail better than you can
+               take instructions.  (gesturing to Flim) Doesn't he ever stop
+               drooling?
+
+Craven:        (whispering to Argos) That Keldirk's a cheery chap.
+
+Argos:         (smiles) Yeah, always out to make friends.
+
+Captain:       (restraining Flim) Don't question me, you little turd.  I am
+               the captain of this ship and if...
+
+Keldirk:       I don't give a flying crap who you are or how crazy your ugly
+               friend is.  All I care about is getting to the mainland as
+               quick as possible.  You're being paid good money to do just
+               that, so stop your pathetic threats and power plays and start
+               sailing this barge.  (points to one of the crew) You! Take me
+               to my cabin.
+
+Craven:        (to a flabbergasted Captain Thrush) I'm Craven and this is
+               Argos.  The walking mouth is Keldirk.  Don't worry about him,
+               he was born on the wrong side of bed.
+
+Captain:       (to another of the crew) Take these two land-lubbers below.
+
+The Sea Swift carried the three assassins across the Azure Sea for a little
+over a week.  Keldirk stayed mostly to himself, only communicating to the
+others when required.  Captain Thrush gave Keldirk a wide berth, preferring to
+deal with Craven and Argos.  This more than suited Keldirk who spent long
+hours polishing and honing the edges of his arsenal of knives.
+
+Argos and Craven were rarely apart and spent many hours sparring with wooden
+swords below decks.  Craven found sleeping difficult and eating an almost
+impossible task.  He became known among the Sea Swift's crew as "The Fish
+Feeder".
+
+One morning, as Craven was feeding the fish his breakfast, out of the thick
+fog emerged a large ship.  Arrayed along its bow were scores of armed men,
+preparing to leap aboard the Sea Swift.
+
+Crewman #1:    PIRATES!! ARM YOURSELVES!
+
+Crewman #2:    GET THE CAPTAIN! Where's Flim?
+
+Craven:        (wipes his mouth, and draws his father's sword) This will get
+               the kinks out.  Argos! Get your lazy arse over here... call
+               Keldirk, too.
+
+The pirate ship came alongside the Sea Swift with relative ease.  A swarm of
+armed buccaneers jumped and swung onto the Sea Swift, several falling to
+crossbow bolts fired by the Sea Swift's defenders.  Before long, both Argos
+and Craven were fighting for their lives.
+
+Craven was joined in combat by two men, little more than children.  They were
+poorly trained but had the advantage of being used to fighting at sea.
+
+Craven:        (wins the initiative and lands a solid blow against one
+               opponent with his sabre, while parrying with his rapier)
+
+Pirate #1:     (sends a stroke out wide, nearly hitting his comrade)
+
+Pirate #2:     (stabs at Craven, but the blow is turned aside)
+
+Craven:        (his confidence growing as he realizes that these two are no
+               match for his skill, lunges first with his rapier before
+               slashing down with his sabre, killing one of his opponents)
+
+Pirate #1:     (dies)
+
+Pirate #2:     (looks at his fallen comrade and attacks furiously)
+
+Craven:        (parries a clumsy blow and kicks the young pirate overboard
+               after stabbing him in the stomach with his rapier)
+
+Meanwhile, Argos was engaged in a struggle with a large, dark-skinned pirate
+wielding a massive club.  Argos was struggling to fend off the rapid blows of
+his larger opponent and had been pushed back against the ships railing.
+
+Argos:         (steps sideways, narrowly avoiding being brained by the huge
+               club)
+
+Pirate:        (smiles) I'm going to crush your head like a melon, little
+               man.
+
+Argos:         (having no desire to reply, he waits for the man to begin his
+               backswing before darting in and stabbing the man in the thigh)
+
+Pirate:        (drops to one knee, but manages to complete his strike.  He
+               hits the now off-balance Argos in the chest, knocking him to
+               the ground, winded and badly injured) Youll die for that!
+
+Argos:         (crawling backward, trying to place as much distance between
+               the dark skinned man as he can) CRAVEN!!!
+
+Craven had just finished his fight with the two pirates and was looking for
+another opponent when he heard Argos plea.  He saw the tall pirate move
+towards his friend and moved to intercept.
+
+Craven:        (steps over the body of the first pirate he killed, slashes,
+               and grazes the shoulder of the dark skinned pirate)
+
+Pirate:        (turns to face this new threat)
+
+Craven:        (lunges with the rapier, piercing the pirate's chest near his
+               heart)
+
+Pirate:        (drops the club and collapses to his knees, clutching his
+               chest over the fatal wound, blood bubbling from his mouth)
+
+Craven:        (to Argos) Are you ok?
+
+Argos:         (breathlessly) I... don't think... I can stand...
+
+Craven:        Let's get you below.
+
+Craven sheathed his sabre and helped Argos to the hatch, while fending off
+several pirates with his rapier.  Most of the pirates were engaged with Sea
+Swift crewmen so few paid the two assassins any serious attention.  When they
+reached the hatch, Keldirk opened the door.
+
+Keldirk:       (smiling) I hope there are some left...
+
+Craven:        Get out of my way, I've got to get Argos below.
+
+Keldirk:       What happened to... DOWN! (reaches into his tunic and pulls
+               out two throwing knives)
+
+Craven:        (drops to his knees, pulling Argos down with him)
+
+Keldirk:       (throws the two knives at a pirate approaching Craven from
+               behind, killing him instantly)
+
+Craven:        (stands and continues to take Argos below)
+
+Keldirk:       (to Craven) Don't mention it!
+
+Craven:        I won't.
+
+Keldirk retrieved his knives from the dead pirate and was scanning the area
+for another target when he noticed a second ship approaching.  As far as he
+could tell, none of the Sea Swift crew had seen the new threat.  Keldirk
+spotted Captain Thrush near the mast battling two pirates, and quickly made
+his way toward him.
+
+Keldirk had spent most of his youth aboard boats and had little trouble
+negotiating the debris and swirling melee to reach the Captain.  As Keldirk
+approached the mast he saw the Captain still fighting; both of his opponents
+sported wounds and the Captain appeared uninjured.  Keldirk, never one to
+wait, grabbed one of the Captain's opponents around the neck and buried his
+dagger into the middle of the man's back.  The man died, without knowing what
+hit him.  This distracted Thrush's other opponent long enough for the Captain
+to finish him off.
+
+Keldirk:       THRUSH! There is a second ship approaching! (pointing
+               starboard)
+
+His words were drowned out by the sound of splitting wood and the crash of
+one ship colliding with another.  All people on the deck were sent sprawling
+and several fell overboard... fighting ceased as everyone looked around to see
+what had happened.  Amidst the chaos, a lone figure stood upon the prow of the
+second ship, oblivious to the rocking of the boats and began to speak.
+
+Man:           I am Kincaide, leader of this motley crew of freebooters, it
+               seems that you have failed to reach an understanding with my
+               representatives. Who is the Captain?
+
+Thrush:        I am!
+
+Kincaide:      Thrush, my good man... how wonderful that we should meet again
+               after so long.  I trust my arrival has not inconvenienced you.
+
+Thrush:        What have you done to my ship you son-of-cur?
+
+Kincaide:      Never mind, my friend.  We broke her above the waterline; you
+               should be able to fix her provided we reach an amiable
+               agreement...
+
+Thrush:        I see.
+
+Kincaide:      Do come aboard my ship and let's discuss terms.
+
+With that, Kincaide turned and went back onto the deck of his ship.  A second
+man stepped forward and began to order the pirates back onto their own ship.
+
+Craven had just managed to get Argos into their cabin when the crash
+occurred.  He was sent flying against the far wall, and hit his head on one of
+the beams and fell unconscious.
+
+Keldirk was left alone while the crew of the Sea Swift worked to clear the
+deck of the bodies and repair any damage to the upper deck.  Several men were
+sent below to make sure they were not taking on water and others were
+retrieving their crewmen who had been knocked overboard.  All the activity was
+co-ordinated with amazing efficiency by the Ogre, Flim.  After several minutes
+the Captain returned and spoke to Flim.  The humanoid, grunted and smashed his
+fist down against the railing, obviously the Captains news did not make him
+happy.  The Captain gestured to the second ship and more pirates came aboard
+the Swift.  The pirates ignored the stunned Sea Swift crew and went below
+decks.  Captain Thrush addressed his crew.
+
+Thrush:        It seems that we have been allowed to sail free, provided we
+               pay our hosts the required tariffs.  So I want none of you to
+               cause any trouble. (he turns and looks directly at Keldirk)
+               Especially you!
+
+Red Tum:       You're joking, Capt'n! Aint ya?
+
+Thrush:        No, Tum, I aint.  We're badly outnumbered and Kincaide has got
+               himself a spell-weaver that can see through the fog as if it
+               were a clear day.  We're to do exactly as he says, pay our dues
+               and swallow our pride... for now.  Don't worry lads, we've
+               powerful friends and this matter aint over 'til I say it's
+               over.  Now, tend to the wounded and throw the dead overboard.
+               Flim, get the Patchin' Crew onto that hole!
+
+Flim:          (nods) You heard the Capt'n; git to it or I'll flay ya alive.
+
+The crew of the Sea Swift went about their business and before long
+Kincaide's two ships were gone... along with a sizeable 'tariff'.  Keldirk had
+tried to keep Kincaide's men out of their cabin, but Thrush himself ordered
+him aside.  A fight almost ensued but Flim stepped in and Keldirk begrudgingly
+stepped aside.
+
+The pirates stole Craven's rapier and a great deal other things besides.
+Keldirk and Argos managed to keep the pirates from their most prized of
+belongings; the diamond garottes.
+
+An hour after the Kincaide's ships left, Craven awoke.
+
+Craven:        What the bugger hit me?
+
+Argos:         We were hit by a second boat... you knocked your head on that
+               beam.
+
+Keldirk:       Thrush made a deal and more pirates came aboard.  They went
+               through the boat like stewed kali beans.  They've taken all of
+               our setup money, Argos' crossbow and your sword.  I tried to
+               stop...
+
+Craven:        My sword! They've taken my bloody sword?  (looks to Argos
+               accusingly) You let them take my sword?
+
+Keldirk:       (answering for Argos) Argos was barely conscious himself; if
+               there's someone to blame then it's that spineless Captain of
+               ours.  He's the one that struck the deal.  (Shrugs his
+               shoulders and begins to leave) Anyway, it was just a sword.
+               We've still got our Family heirlooms - so be thankful.
+
+It took Craven several days to calm down.  His father's sword was the only
+thing he had of his former life.  Now it was gone.  Over the days Craven began
+to understand Keldirk's way of thinking; they should be thankful the Diamond
+Garottes weren't discovered.  If they had been stolen there would be hell to
+pay.
+
+The Diamond Garottes were used by the assassins to remove the faces of
+selected victims after which time they were sewn into The Vilus Corumdak. It
+was considered a personal insult to The Marque de'Ahb if an assassin lost his
+or her garotte.  Every assassin knew it was safer to risk their lives in
+trying to reclaim the lost artifact, no matter what the odds, than it was to
+announce it's loss to the Family.  To lose your garotte generally meant your
+death.
+
+It took the crew of the Sea Swift two full days to patch the huge hole in the
+hull.  During this time Argos remained in his cabin recuperating, Keldirk
+watched the repair crew and Craven tried (unsuccessfully) to get his sea legs.
+Captain Thrush was in a foul mood and the assassins decided it would be best
+if they left the matter of compensation for another time.
+
+Once repairs were complete, Captain Thrush ordered the sails set and the Sea
+Swift lurched into motion.  The ship crossed the Azure sea and traversed the
+Sea of Garnet without incident before entering the waters of Relmor Bay.
+Captain Thrush assured the assassins that they would be on firm land within
+three days.
+
+Late one evening, as Keldirk and Craven were above deck discussing the twin
+moons, a massive ball of fire erupted off the Sea Swift's prow.  Both
+assassins shielded their eyes against the conflagration but as quickly as the
+fire ball appeared, it vanished... leaving the assassins and the Night Crew
+temporarily blinded.  Just as their vision was returning a booming voice
+shattered the silence.
+
+Voice:         You trespass in the waters of The Overking.  Lay down your
+               arms and surrender to the might of The Imperial Navy!
+
+Craven and Keldirk blinked, trying to regain their vision, and peered into
+the darkness.  Both had weapons drawn when the silhouette of a huge warship
+came into view.  Upon its bow, illuminated in a ghostly white light, was a
+large uniformed man.  To his left was a small child holding a large pole, the
+top of which sported a limp crimson standard.  To the man's right stood a
+robed figure holding aloft a twisted staff that was the source of the eerie
+light.
+
+The crew of the Sea Swift scrambled to their posts, nocking crossbows and
+making preparations for another conflict.  The Night Steward told his crew to
+calm down and ordered one man to go and notify the Captain.
+
+In a matter of minutes Captain Thrush emerged from below, dressed in his
+customary leather armor, holding a small wooden box.  He walked across the
+deck to the Imperial Warship.
+
+Captain Thrush: I am Captain Thrush the master of this vessel.  I seek passage
+               through the waters of the Overking.
+
+Voice:         Such passage is not granted cheaply.  Only the Sharks of Ivied
+               may sail these waters freely.
+
+Captain Thrush: I have gained passage in the past and understand your terms.
+               (opens the small box and withdraws several gemstones extending
+               his hand to the uniformed man)
+
+Voice:         What is your destination?
+
+Captain Thrush: Chathold.
+
+Voice:         (nods to the robed figure)
+
+The robed figure extended his hand and magically the gemstones lifted from
+Captain Thrushs open hand and floated gently to the waiting hands of the
+uniformed man.  Once the gems were in his possession the uniformed man looked
+them over before passing them on to the robed figure who scrutinized them
+closely.  When he had finished, he nodded to the uniformed man and The Sea
+Swift was allowed to continue.
+
+Two days later, just before dawn, a crewman woke the three assassins.
+
+Crewman:       Get your things together; we have prepared a landing craft to
+               drop you off outside the port.  It will be leaving as soon as
+               you are ready. (leaves)
+
+Craven:        Great! Another stinking little boat.
+
+Keldirk:       (looking out the porthole) Looks pretty rough out there.  Good
+               thing we haven't had breakfast.
+
+Argos:         (laughs)
+
+Craven:        It's a small boat... you guys are lucky I haven't had
+               breakfast.
+                      ---------------------------------                       
+
+--------------------------------------------------------------------------------
+Fireside Chat
+John "BJ" Tomkins <gr8dm@acronet.net>
+--------------------------------------------------------------------------------
+"I remember that adventure clearly...a few weeks ago it was....or more perhaps,
+time is not something I keep close eye on." some of the people gathered round
+snickered at this, but Tarick Darkon, renowned necromancer continued the telling
+of his tale, "We, my friends, and fellow caravan mercenary guards were traveling
+northwards towards the Sealand province of Alidonne, when , a brilliant wave of
+energy came towards us from the east.  Myself, I broke and ran.  Some of my
+party, especially, the Time Warrior Mordbrick stood their ground, but none of
+it was of any use.  The energy wave swept over my companions and I.  The next
+thing I recall correctly was that I was lying in a bank of snow, in that very
+same spot.  However, two of our party...the hated Crescenters had somehow been
+killed.  We continued, eager to leave that spot, and eventually reached
+Alidonne.  In an Alidonne Inn that night, I was plagued by strange dreams.
+These dreams, I later found out, with the help of a Diviner were a tale of 
+another world, somewhere that I am my friends had been transported to by the
+energy wave." Darkon paused, while the rabble near him drew closer in interest.
+"However, the whole tale of our time in this other world, or other time is
+for...another time.  What I wish to tell you now, is of a horrid beast we
+encountered while there.  Apparently, the Diviner told me, we had been
+transported back in time, and were at a key point in history, the Gods War.
+We were in...a different reality somehow, somewhere along the flow of time, the
+past had been changed.  Evil had won in the Gods War, and each of us found
+himself a soldier of that evil.  We were, said the Diviner put through a series
+of tests, to become full-fledged officers."
+"The one I will tell you about is that of the Maze Test.  IT involved us
+negotiating our way through a maze, and collecting amulets which would
+automatically defeat the guardians of the maze.  Suffice to say we did not
+succeed in collecting all these amulets, and managed to find only two.  One, in
+the shape of a bear, the other an owl."
+"Hours later, when we reached the end of the maze, we were confronted by a
+pillar of hieroglyphics.  We pushed the amulets to their proper spots and
+watched the monstrous pictures transform, into enemies we had to do battle with.
+One, was a dragon of lightning, another a snake made of fire.  The last creature
+was the most fearsome.  It had taken the form of something none of us would
+suspect.  Something perhaps we were even wearing...."
+The crowd around Darkon grew closer, as he masterfully told this tale of dread,
+"It was........a WereSheep!"
+For a moment, the crowd was speechless, but then, they broke out in laughter,
+rolling over, some crying they had laughed so hard, Darkon stood, and glowered
+out the mob below him, "Laugh as you might, but his creature, a WereSheep,
+nearly killed us all...."
+
+Submitted to Fireside Chat by:
+Peter Miller  E-MAIL: <scouse@inforamp.net>
+
+You can submit your humorous campaign experiences to BJ at <gr8dm@acronet.net>
+One will be chosen to be published each month.
+
+--------------------------------------------------------------------------------
+Classified Ads
+--------------------------------------------------------------------------------
+Subject: Seeking players for Amber Diceless Roleplaying
+Author: brkk@usa.pipeline.com (Fred Wolke) 
+
+The Courts of Chaos have been struck three heavy blows.  First, the
+Patternfall war, a fiasco of heretofore unknown proportions, deprived Chaos
+of the cream of its youth.  Then, in the chaos following after, King
+Swayvill died, leaving a clear line of succession. Thousands were
+assassinated or died in duels soon after, leaving Merlin to take the
+throne. Finally, in spite of the insistence of the Minister of Protocol
+that his accession was entirely legal and proper, hundreds of Lords of
+Chaos rebelled against the half-amberite king.  This rebellion, while
+quashed, still simmers under the surface, awaiting any sign of weakness
+from King Merlin. 
+ 
+Players in this game will play the roles of some of the few remaining Chaos
+Lords left in the Courts of Chaos.  They will not need to have a copy of
+the ADRP rulebook, as this is a very rules-light system, but they will need
+to be familiar with the material in Roger Zelazny's Amber novels, most
+specifically books six through ten, 'Merlin's Chronicle'. 
+ 
+Particulars will be worked out as to scheduling and details in discussion
+with players. 
+
+Fred and Dee
+brkk@usa.pipeline.com 
+(though this will change soon)
+--------------------------------------------------------------------------------
+Subject : Kosala's AD&D site
+Author: Kosala Ubayasekara <d96-kub@nada.kth.se>
+
+If anyone is interested in finding other players around the world to play
+RPG's with there are worldwide players listings available on my site at
+
+http://www.student.nada.kth.se/~d96-kub
+
+for email, IRC and face-to-face gaming.
+
+You can make contact with the players directly yourself by using the email
+links provided.
+
+Regards,
+
+Kosala
+--------------------------------------------------------------------------------
+Subject: Legends
+Author: tomasso@an.hp.com
+
+Legends, the first Amateur Press Association for Earthdawn, is looking for
+new members. If you've got adventures, fiction, new Disciplines, new magic
+items, or just cool stuff to share with other Earthdawn players, please
+consider joining. For more information check out the URL
+http://members.tripod.com/~LegendsAPA or send me some email at
+tomasso@an.hp.com
+--------------------------------------------------------------------------------
+Subject: Seeking players
+Author EASTERNHEALINGARTS@zianet.com
+
+        I am currently seeking 3-6 players of characters, 20 rulers of
+major countries, and at least 20 deities to become part of Nairth.
+
+WHAT IS NAIRTH:  Nairth is a combination medieval fantasy/sci-fi role
+playing PBEM game world of my original design and using a system of my own
+design. Players have the option of beginning zero level characters, ruling
+a country or acting as a deity, or a combination of these.  Interested
+persons should be mature, interested in deep story development and NOT just
+hack and slash and looting, and committed to a long term game.  Experienced
+roleplayers are preferred, and it would be helpful to have a copy of a set
+of TSR's AD&D books any edition for reference materials.
+
+Players: players may wish to be part of a small party or adventure
+solo, there will be a turn every 2 business days, and possibly in the
+future some on-line live IRC sessions. Players will start at 0 level and
+will be human. Non human characters will be possible only after an
+opportunity to explore Nairth a little.
+
+Rulers: Rulers will have the opportunity to roleplay as a ruler of
+one of the major countries of Nairth.  This would be more attractive for
+those interested in intrigue, strategy and politics.  Rulers will have a
+more sideline role to the main campaign and will be limited to three
+actions per game week. They will have the opportunity to be involved with
+shaping the history of Nairth.
+
+Deities:  Deities will have the opportunity to take on a roleplay
+of a major deity or demigod of Nairth. Deities have a more background
+role, although they are very important. They would be ideal for those
+who haven't much time but would still like to be involved, or as an aside
+to playing a ruler or character. Deities are limited to 3 actions per game
+month.
+
+I am an experienced Roleplayer and have been a Game Master for
+over 15 years.  I have put a lot of thought and creativity in my PBEM game.
+I am disinclined to tell you much more about my world because it would spoil
+the fun of discovery.  It is free and for fun.
+
+If you would like to participate in my world in any capacity please email
+me indicating your roleplaying experience and which of the above three
+you are inclined towards. I will email you back info to get you started.
+
+email address:
+EASTERNHEALINGARTS@zianet.com
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+The IRPS Newsletter/E-Zine staff:
+General Inquiries and all submissions can be sent to Karen Mizeri at
+<kmizeri@pris.bc.ca>
+Editing:  Karen Mizeri  <kmizeri@pris.bc.ca>
+ - John "BJ" Tompkins
+ - Anthony Scalzitti
+ - Jason Stover
+Layout/Design:  Jenn Millington <jimjen@interlog.com>
+ - Thomas Forlenza
+ - Lawrence Marz
+Graphics: Kosala Ubayasekara <d96-kub@nada.kth.se>
+ - Woodelf                 
+ - Aries J. Galindo        
+ - Delta S                  
+HTML:   Vincent J. Paul  <vpaul@nmia.com>
+Research: Andrew Henry <AHenry7261@aol.com>
+Writer's Assistant : Eugene Tillery <ewulf@dbtech.net>
+
+--------------------------------------------------------------------------------
+
+
+
+

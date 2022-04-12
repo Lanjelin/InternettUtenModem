@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN//3.2">
+<HTML>
+<HEAD>
+	<TITLE>IIC: Internet Addressing</TITLE>
+	<LINK REV=made href="mailto:cf@magnet.at">
+	<META HTTP-EQUIV="Reply-to" CONTENT="cf@magnet.at">
+	<META HTTP-EQUIV="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cf@magnet.at" for "http://www.iic.priv.at/iic" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'> 
+	<META NAME="Resource-type" CONTENT="Document">
+	<META NAME="Keywords" CONTENT="Internet, Information, newbie, free, guide, guides, howto, how to, how-to, history, cookie, ftp, www, gopher, usenet, news, irc, mail, indices, parents, protection, software, links, glossary, archie, new, DNS, adressing, construction, tcp/ip, structure">
+	<META NAME="Description" CONTENT="The IIC offers everything for the 'Net user in one place. Starting from History to user guides, lots of links and a hyper-glossary. A must for newbies">
+	<META NAME="Revisit-after" CONTENT="14 days">
+	<META NAME="ObjectType" CONTENT="Information">
+	<META NAME="AUTHOR" CONTENT="Christian Feichtner - cf@magnet.at">
+	<META NAME="Distribution" CONTENT="Global">
+	<META NAME="Copyright" CONTENT="1996 Christian Feichtner">
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=10>
+
+	<IMG SRC="IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=10><BR>
+	<A NAME="Top"><FONT FACE="Arial" SIZE=5><B>Internet Addressing</B></FONT></A>
+	<BR>
+	<FONT FACE="Arial" SIZE=2>
+	<I>December, 27. 1996</I><BR>
+	<IMG SRC="IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=20><BR>
+	</FONT>
+	<FONT SIZE=2>
+	Unlike commercial computer networks, where the information is accessible from special 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/CLIENT.HTM" tppabs="http://www.austria.eu.net/iic/glossary/client.htm">clients</A>
+	having several menus, you have to <I>know</I>
+	where the desired information is located when using the Internet. Each computer which is connected to the internet - no matter
+	if permanent or temporarily - is assigned a unique address. This unique address is called an 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/IP.HTM" tppabs="http://www.austria.eu.net/iic/glossary/ip.htm"><I>IP-Address</I></A> 
+	Such an IP address is made up of four numbers, ranging from 0 to 255 (8 bytes), separated by a point.  So the entire IP address consists of
+	32 bytes (8 x 4 bytes).	An example of such an IP address would be:
+	<P ALIGN=CENTER>
+	</FONT><SAMP>
+	140.78.34.45
+	</SAMP><FONT SIZE=2>
+	<P>
+	To simplify administration of addresses, <I>netclasses</I> have been introduced. There
+	currently are five classes (A thru E) defined. The Addresses from 1.0.0.0 to 126.255.255.255 are using the first number for the network number. The other
+	three numbers are available for the host number. Such a network is defined as a class A network. Normally class A networks are used for general
+	purposes like the <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/ARPANET.HTM" tppabs="http://www.austria.eu.net/iic/glossary/arpanet.htm">ARPAnet</A>
+	itself. Large organizations normally are assigned a class B network. A class B network uses the
+	first two numbers for the network number. Valid network numbers are 128.0.0.0 thru 191.255.255.255. Addresses beginning with
+	127 are reserved for special use. A class B network can serve up to 65536 computers. The smallest, a class C network, uses
+	the first three numbers for the network number, ranging from 192.0.0.0 to 223.255.255.255. A class C network can serve up to 255
+	computers (hosts). Addresses above 223 are reserved for future use as a class E network, but are currently not defined. To illustrate this, have a look at the
+	following graphic:
+	<P ALIGN=CENTER>
+	<IMG SRC="IMAGES/ILLUSTR/NETCLASS.GIF" tppabs="http://www.austria.eu.net/iic/images/illustr/netclass.gif" ALT="Netclasses">
+	<P ALIGN=LEFT>
+	The first bits are used for determination of the netclass. A class A network is determined by a zero in the first bit. A class B network by a one and a zero
+	and a class C network by a one, one and zero.
+	<P>
+	The following table gives an overview of currently defined netclasses. Have a look at the image below, which shows how the addresses
+	are organized.
+	</FONT>
+	<P ALIGN=CENTER>
+	<TABLE>
+	<TR><TH BGCOLOR=#3AAFF5>
+		<FONT SIZE=2 FACE="Arial">Netclass</FONT>
+	</TH><TH BGCOLOR=#3AAFF5>
+		<FONT SIZE=2 FACE="Arial">Valid Numbers</FONT>
+	</TH><TH BGCOLOR=#3AAFF5>
+		<FONT SIZE=2 FACE="Arial">Max. # computers</FONT>
+	</TH><TH BGCOLOR=#3AAFF5>
+		<FONT SIZE=2 FACE="Arial">Max. # networks</FONT>
+	</TH></TR>
+	<TR><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>C</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>192.0.0.0 to 223.255.255.255</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>255</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>16 777 216</FONT>
+	</TD></TR>
+	<TR><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>B</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>128.0.0.0 to 191.255.255.255</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>65 536</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>65 536</FONT>
+	</TR></TD>
+	<TR><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>A</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>1.0.0.0 to 126.255.255.255</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		 <FONT SIZE=2>16 777 216</FONT>
+	</TD><TD BGCOLOR=#ECECEC ALIGN=CENTER>
+		<FONT SIZE=2>256 </FONT>
+	</TD></TR>
+	</TABLE>
+	<P>
+	<FONT SIZE=2>
+	If haven't made any calculation mistakes, this results in a total of 857 3157 376 addressable computers on the internet. Don't be mislead 
+	by this number. If the number of Internet users keeps growing in the current way, then in a few years there won't be sufficient
+	addresses left.
+	<P>
+	If a company now requests a new IP address, then the company is not assigned a single IP number, but instead they are assigned a
+	netclass due to their requirements. This assignment is handled by Network Information Centers. Normally each country has such a
+	NIC, which is usually hosted by a university or a large ISP.
+	<P>
+	To make life easier for the Internet user - such an IP address is hard to remember - computers have been assigned a unique
+	name. An example for such a name would be
+	<P ALIGN=CENTER>
+	</FONT><SAMP>
+	www.yahoo.com
+	</SAMP><FONT SIZE=2>
+	<P>
+	Each of such a unique address is mapped to an (also unique) IP address. The corresponding IP address for the above name would
+	be
+	<P ALIGN=CENTER>
+	</FONT><SAMP>
+	205.216.146.70
+	</SAMP><FONT SIZE=2>
+	<P>
+	This mapping mechanism is called the <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/DNS.HTM" tppabs="http://www.austria.eu.net/iic/glossary/dns.htm">domain name system.</A>
+	How this mapping is done can be found in the <A HREF="DNS.HTM" tppabs="http://www.austria.eu.net/iic/dns.htm">DNS</A> section.
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>T</FONT>HE <FONT SIZE=3>N</FONT>EXT <FONT SIZE=3>G</FONT>ENERATION</B></FONT><P>
+	Due to the rapid growth of the Internet, there won't be sufficient IP addresses to address all computers in a few years time. To prevent this,
+	the <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/IETF.HTM" tppabs="http://www.austria.eu.net/iic/glossary/ietf.htm">IETF</A> and other organizations and companies are
+	working on a new standard for <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/TCPIP.HTM" tppabs="http://www.austria.eu.net/iic/glossary/tcpip.htm">tcp/ip</A>. Apart from
+	the technical improvements made, there will also be a new way to address computers on the Internet. The new address format will possibly look
+	something like
+	<P ALIGN=CENTER>
+	</FONT><SAMP>
+	1080:0:0:0:800:417A
+	</SAMP><FONT SIZE=2>
+	<P>
+	Instead of 4 numbers between 0 and 255 there will be eight <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="Pending_relink" tppabs="http://www.austria.eu.net/iic/glossary/hex.htm">hexadecimal </A>
+	numbers, separated by a &quot;:&quot;. The result is, that there are 2<SUP>128</SUP> possible Internet addresses. That are around 
+	300000000000000000000000000000000000 (should be 38 zeros) possible addresses. I do not know how to pronounce this number, but there are quite
+	a few number of possible addresses. Some people have calculated, that using the new scheme, there can be around 1500 addresses per square meter
+	(m<SUP>2</SUP>) on earth. There also has been put a lot of effort to stay compatible with the current addressing scheme. So an old style address would 
+	look like
+	<P ALIGN=CENTER>
+	</FONT><SAMP>
+	::134.245.74.43
+	</SAMP><FONT SIZE=2>
+	<P>
+	But, there is no need to panic. Until the new scheme will be officially introduced, there are still some years to go (about 10). The new protocol will be
+	called <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/IPV6.HTM" tppabs="http://www.austria.eu.net/iic/glossary/ipv6.htm">IPv6</A> or 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/IPV6.HTM" tppabs="http://www.austria.eu.net/iic/glossary/ipv6.htm">IPng</A>. More Information can be found at the following
+	addresses:
+	<P>
+	<LI><A HREF="../../tppmsgs/msgs8.htm#853" tppabs="http://play-ground.sun.com/pub/ipng/html/ipng-specifications.html">IPv6 specification</A><BR>
+	<LI><A HREF="../../tppmsgs/msgs8.htm#854" tppabs="http://www.stl.nps.navy.mil/~jenierle/thesis.html">Implementing the IPv6 in the Marine Corps Tactical Data Network</A><BR>
+	</FONT>
+	<DIV ALIGN=RIGHT>
+		<HR ALIGN=RIGHT WIDTH=200 SIZE=1 COLOR=#000000>
+		<FONT FACE="Arial" SIZE=1>
+		&copy 1996 Christian Feichtner<BR>
+		Redistribution without prior permission prohibited.<BR>
+		Internet Services sponsored and provided by <A HREF="../../tppmsgs/msgs0.htm#94" tppabs="http://www.austria.eu.net/">EUnet International</A>
+	</DIV>
+</BODY>
+</HTML>

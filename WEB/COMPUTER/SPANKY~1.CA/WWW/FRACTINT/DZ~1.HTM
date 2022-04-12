@@ -1,0 +1,238 @@
+<html>
+<head>
+<title>FRACTINT Deep_Z</title>
+<link rev=made href="mailto:noel@triumf.ca">
+</head>
+<body>
+<!--  This is a comment -->
+
+<h1>
+Deepzooming with Fractint
+</h1>
+<hr>
+<p>
+	Fractint now has this amazing capability to zoom into unbelievable
+depths with precision up to 1600 decimal digits. So you can now look for 
+new and unique fractal regions at previously unheard of scale. The trick
+is not to get carried away with just zooming in, where you can get lost
+in infinite whorls of self-similarity, but to carefully step from minibrot
+to minibrot, looking for new levels of complexity and detail. I took a
+shot at it and produced this image. I thought that the fine filigree 
+structure was fascinating.
+<p>
+<a href="../../../tppmsgs/msgs21.htm#2117" tppabs="http://spanky.triumf.ca/www/fractint/longtime.gif">
+<IMG SRC="MINI_LT.GIF" tppabs="http://spanky.triumf.ca/www/fractint/mini_lt.gif" ALIGN="LEFT" 
+ALT="Deep_zoom Image:"> </a>
+<p>
+The region is in a spiral, but not
+too deeply and the precision is about 18 decimal digits. It is not even
+seriously testing the arbitrary precision math, but the full size image
+still managed to take about 3 weeks to compute on my 486DX/66 computer. This is
+primarily due to the high iteration limit and the image resolution of 1024x768
+for the full-size image.
+It was my first attempt to achieve the dubious honour of watching fractint
+inform me that my image took too long to compute. I didn't quite succeed. I was
+about three days short of the required lapsed time, but I seriously taxed my
+own limits in creating it. That's a long time to wait for one image. Hat's off
+to those with the personal fortitude to explore deeper and wait longer. 
+<p>
+Wes Loewer, <i>loewer@tenet.edu</i> the one who programmed the 
+<a href="../../../tppmsgs/msgs21.htm#2118" tppabs="http://spanky.triumf.ca/www/fractint/arb-prec.html">
+arbitrary precision math </a>
+routines into fractint, has sent me his deepest zooming
+effort. It is a 1.0e1500 zoom into a self similar region at the very
+top of the mset in the region of (0.0, 1.0)
+<p>
+<IMG SRC="DZ/TOP1500S.GIF" tppabs="http://spanky.triumf.ca/www/fractint/dz/top1500s.gif"
+ALIGN="Bottom" ALT="top1500s image:"> The Top1500s image.
+<p>
+This version is a gif87a format and I use it here as it is a much smaller
+file due to a better compression with a reduced palette than 
+the <a href="../../../tppmsgs/msgs21.htm#2119" tppabs="http://spanky.triumf.ca/www/fractint/dz/top1500.gif">
+original gif89a version</a> that contains the fractint information. The
+two images are almost identical and the only reason to download the gif89a
+version would be to load it into fractint and keep zooming or to actually
+see fractint report an image that took 7 weeks, 2 days, 8 hours, 15 minutes, 
+33.50 seconds of actual running time to compute on a 486sx/25 system.
+It was calculated using a boundary trace mode that help reduce the calculation
+time. Only about 20% of the pixels in this image needed to be computed using 
+this algorithm The fractint .par entry is:
+<pre>
+top-mag1500        { ; a really really deep zoom            Wesley Loewer
+                     ; highly self similar
+                     ; took over 1200 hours at 320x240 on a 486sx/25
+  reset=1920 type=mandel passes=b center-mag=0.0/1.0/1e+1500
+  maxiter=15000
+  }
+</pre>
+<p> 
+Learn more about Wes's efforts in 
+<a href="../../../tppmsgs/msgs21.htm#2120" tppabs="http://spanky.triumf.ca/www/fractint/loewer/endless.html">
+exploring self-similarity in the M-set </a>
+in this area and view a couple of fli animations he has created.
+<img ALT="[NEW]" SRC="NEW.GIF" tppabs="http://spanky.triumf.ca/www/fractint/new.gif">
+<p>
+I used Dewey Odhner's <i>dewey@mipg.upenn.edu</i> original parameter file 
+<p>
+<a href="../../../tppmsgs/msgs21.htm#2121" tppabs="http://spanky.triumf.ca/pub/fractals/images/others/horz-hld.gif">
+<IMG SRC="MINI-HLD.GIF" tppabs="http://spanky.triumf.ca/www/fractint/mini-hld.gif" ALIGN="Bottom" 
+ALT="Horiz-hold Image:"> Horizontal-hold image</a> to generate
+this fractal. It caused a reasonable amount of consternation on
+the <b> sci.fractals</b> usenet newsgroup. Noone had seen anything
+quite like this before and some people thought that <b> Fractint's
+</b> deepzooming feature was broken. This was modified slightly from
+the original. It uses 1-pass mode with periodicity turned off and has
+a different palette, but it should give you an idea why we were all
+concerned. 
+<p>
+Bengt M&aring;nsson <i>bengtmn@algonet.se</i> backed out a little bit and
+found this 
+<p>
+<a href="../../../tppmsgs/msgs21.htm#2125" tppabs="http://spanky.triumf.ca/pub/fractals/images/others/mand-240.gif">
+<IMG SRC="MINI-BEN.GIF" tppabs="http://spanky.triumf.ca/www/fractint/mini-ben.gif" ALIGN="Bottom" 
+ALT="Horiz-hold Image:"> reassuring geometric structure </a> 
+nearby and we all relaxed again. Another version of the horzontal-hold image
+was created by Serge Moes, <i>serge@cix.compulink.co.uk</i>. <p> This 
+<a href="../../../tppmsgs/msgs21.htm#2131" tppabs="http://spanky.triumf.ca/pub/fractals/images/others/horihold.gif">
+<IMG SRC="MINI-HH.GIF" tppabs="http://spanky.triumf.ca/www/fractint/mini-hh.gif" ALIGN="Bottom" 
+ALT="big-Horihold Image:"> thumbnail </a> 
+links to Serge's fullsize 1024x768 version done with Dewey's original
+colour scheme. He says it took about 10 days on his 486DX2 computer.
+<p>
+Kerry Mitchell, <i> lkmitch@primenet.com </i> created a deepzoom fractal
+from this area as well. I'll include the text and the parfile that he sent
+me along with the image. <p>
+<IMG SRC="DZ/ZOOM256.GIF" tppabs="http://spanky.triumf.ca/www/fractint/dz/ZOOM256.GIF"
+ALIGN="Bottom" ALT="zoom256 image:"> The zoom256.gif image.
+<p>
+Here is my first attempt at a deepzoom fractal.  It is a Mandelbrot 
+midget on the spike (negative real axis), that was carefully chosen.  If 
+you look at the midget at -1.75, you'll see that it is associated with 
+the number 3.  That is, this midget causes the band of dwell = 3 to dip 
+down toward the axis, and the main cardioid for this midget has 
+periodicity = 3.  In a similar fashion, the midget in this deepzoom is 
+associated with 256.  It took over 37 hours to compute on a 486DX50, at 
+320x240 resolution and single pass mode (although the image is symmetric).
+
+<pre>
+two56              {;dwell 256 midget by Kerry Mitchell lkmitch@primenet.com
+  reset=1930 type=mandel passes=1
+  center-mag=-1.9999999999999999999999999999999999999999999999999999999999\
+  999999999999999999999999999999999999999999999999999999999999999999999999\
+  999999999999999999999988958369124178362173165279999331644308055316120970\
+  270840859424786314709441797847655533023252895333209618981099216864198315\
+  29734837424289096210971806586916814/0.0/7e+305 params=0/0 float=y
+  maxiter=8192 inside=0 periodicity=0
+  colors=CCC<14>eCegCggCg<14>_CsZCsXDs<12>EJsCKsCMs<13>CmsCosCor<14>CsS<22\
+  >qsnssossn<21>ssMssKsrK<14>sWCsVCrUCqTC<11>hECgCCgCC<46>cCsbCs`Cs<12>EFs\
+  CGsCIs<14>Cks<14>CFF cyclerange=0/255
+  }
+</pre>
+<p> 
+Bengt M&aring;nsson has continued his 
+<a href="../../../tppmsgs/msgs21.htm#2140" tppabs="http://spanky.triumf.ca/www/fractint/bmansson.html">
+deep-zooming explorations.</a>
+
+<p>More 
+<a href="../../../tppmsgs/msgs21.htm#2143" tppabs="http://spanky.triumf.ca/www/fractint/bmansson1.html">
+Deepzoom's with Bengt </a> at the Tip of the Mset.
+<img ALT="[NEW]" SRC="NEW.GIF" tppabs="http://spanky.triumf.ca/www/fractint/new.gif">
+
+<p>Bengt has started his explorations
+<a href="../../../tppmsgs/msgs21.htm#2150" tppabs="http://spanky.triumf.ca/www/fractint/seahorse2.html">
+in a seahorse valley</a> of the Mset.
+<img ALT="[NEW]" SRC="NEW.GIF" tppabs="http://spanky.triumf.ca/www/fractint/new.gif">
+<p>
+
+Here is another interesting Deepzoom image of Dewey's that has a bit 
+of history. This is a deepzoom image into the mandelbrot using 63 decimal 
+digits of precision.
+<br clear=all>
+<a href="../../../tppmsgs/msgs21.htm#2157" tppabs="http://spanky.triumf.ca/www/fractint/dz/390m586.gif">
+<img ALT="[NEW Image]" ALIGN="LEFT" vspace=10 hspace=30
+SRC="DZ/M-390M~1.GIF" tppabs="http://spanky.triumf.ca/www/fractint/dz/M-390M586.GIF">
+</a><br><br>
+The thumbnail leads to a 1024x768x256 image of 195 kbytes. <br>
+The maximum iteration count was set to 65535. <br> The calculation time to
+completion was: <br>
+2413 hrs, 22 min, 56.14 seconds. <br> The approximate location
+of the image is: <br>
+(x = -0.03905562293721000) <br>
+(y = 0.58680201260632834) <br>
+The magnification factor is 4.4x10^58 <br clear=all>
+
+Dewey Odhner <i> dewey@mipg.upenn.edu </i> started this fractal and posted 
+the partial image on the net when it was 2/3 completed after 
+expending approximately 2343 hours of calculation time on a 486/33 computer. 
+Charles Crocker <i> chasc@ccsnet.com </i> picked up the image and finished it 
+in about 70 hrs on a Pentium 90 system and sent it on to me. This is about
+a factor of 20 increase in performance. Not insignificant! It turns a 
+calculation that was going to take hundreds of days into something tolerable.
+<p> Both Charles and I were a little curious as to how Dewey found this
+minibrot. When calculation times are this long, random zooming is no
+longer a workable method. He must have some technique for isolating the buds.
+I queried him on this and here is his reply:
+<blockquote>
+&quot;
+I found the spidrweb minibrot by looking at areas around larger minibrots
+and learning to recognize where they occur, what the areas tend to look like
+as you look on smaller buds and closer to the tip of the bud.  I tried to
+find the largest minibrot within that distance of the bud tip.
+&quot;
+</blockquote>
+<p>
+Frank Gentges has contributed a few images and some documentation on
+his 
+<a href="../../../tppmsgs/msgs21.htm#2164" tppabs="http://spanky.triumf.ca/www/fractint/hholdfg.html">
+deepzooming explorations </a> into the Horizontal Hold area.
+<img ALT="[NEW]" SRC="NEW.GIF" tppabs="http://spanky.triumf.ca/www/fractint/new.gif">
+<p>
+These and other more ambitious deepzooms can be found in this 
+<a href="../../../tppmsgs/msgs21.htm#2171" tppabs="http://spanky.triumf.ca/www/fractint/deep_par.doc">
+collection of email's
+and parfiles </a> gleaned from the sci.fractals usenet newsgroup.
+
+<p>
+Minoru Morikawa <i> morikawa@fukui-nct.ac.jp </i> in Japan, has provided
+three small deepzoom images into the tip of the mset. 
+<p>
+<IMG SRC="DZ/M1280CM.GIF" tppabs="http://spanky.triumf.ca/www/fractint/dz/m1280cm.gif"
+ALIGN="Bottom" ALT="m1280cm image:"> The m1280cm.gif image.
+<p>
+  m1280cm.gif   : small M with period 1280. mag 10^1539.  
+                  preview mode.
+<p>
+<IMG SRC="DZ/M1280PA.GIF" tppabs="http://spanky.triumf.ca/www/fractint/dz/m1280pa.gif"
+ALIGN="Bottom" ALT="m1280pa image:"> The m1280pa.gif image.
+<p>
+  m1280pa.gif   : the right side of the above small M. mag 10^1542.
+                  preview mode.
+<p>
+<IMG SRC="DZ/M320PAF.GIF" tppabs="http://spanky.triumf.ca/www/fractint/dz/m320paf.gif"
+ALIGN="Bottom" ALT="m320paf image:"> The m320paf.gif image.
+<p>
+  m320paf.gif   : the right side of small M with period 320. mag 10^386.
+                  320*200 mode.
+
+You can also view more detailed information on 
+<a href="../../../tppmsgs/msgs21.htm#2183" tppabs="http://spanky.triumf.ca/www/fractint/deep_zoom.html">
+Fractint's Deepzooming</a>
+by looking at the online documentation.
+<p>
+<HR>
+<b>
+Back to
+<a href="FRACTI~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/fractint.html">
+The Fractint Home Page.</a>
+or back to
+<a href="FINDEX~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/findex.html">
+The Fractint Index Page.</a>
+</b>
+<HR>
+<h3>This page maintained by</h3>
+<address>
+Noel Giffin, <a href="../../../tppmsgs/msgs17.htm#1707" tppabs="http://www.triumf.ca/">TRIUMF</a><br>
+noel@triumf.ca
+</address>
+</body>
+</html>

@@ -1,0 +1,1916 @@
+<html>
+<head>
+<title>FRACTINT commands info</title>
+<link rev=made href="mailto:noel@triumf.ca">
+</head>
+<body>
+<h1>
+Fractint Commands
+</h1>
+<HR>
+
+<p>
+<ol>
+<li>
+<b>
+Getting Started
+</b>
+<p>
+  To start the program, enter FRACTINT at the DOS prompt. The program
+  displays an initial 'credits' screen. If Fractint doesn't start
+  properly, please see 
+<a href="../../../tppmsgs/msgs24.htm#2446" tppabs="http://spanky.triumf.ca/www/fractint/problems.html">
+Common Problems</a>
+
+<p>
+  Hitting <b>[Enter]</b> gets you from the initial screen to the main 
+menu. You can select options from the menu by moving the highlight with the
+cursor arrow keys and pressing <b>[Enter],</b> or you can enter commands
+directly.
+
+<p>
+  As soon as you select a video mode, Fractint begins drawing an image -
+  the 'full' Mandelbrot set if you haven't selected another fractal type.
+
+  For a quick start, after starting Fractint try one of the following:
+<pre>
+    If you have MCGA, VGA, or better:  [F3]
+    If you have EGA:                   [F9]
+    If you have CGA:                   [F5]
+    Otherwise, monochrome:             [F6]
+</pre>
+<p>
+  After the initial Mandelbrot image has been displayed, try zooming into
+  it (see Zoom Box Commands) and color cycling (see Color Cycling
+  Commands).  Once you're comfortable with these basics, start
+  exploring other functions from the main menu.
+
+<p>
+  Help is available from the menu and at most other points in Fractint by
+  pressing the <b>[F1]</b> key.
+
+<p>
+  AT ANY TIME, you can hit a command key to select a function. You do not
+  need to wait for a calculation to finish, nor do you have to return to
+  the main menu.
+
+<p>
+  When entering commands, note that for the 'typewriter' keys, upper and
+  lower case are equivalent, e.g. <b>[B]</b> and <b>[b]</b> 
+have the same result.
+
+<p>
+  Many commands and parameters can be passed to FRACTINT as command-line
+  arguments or read from a configuration file; see 'Command Line
+  Parameters, Parameter Files, Batch Mode' for details.
+
+
+<p>
+<li>
+<b>
+<a name="plotting_anchor">
+Plotting Commands</a>
+</b>
+<p>
+  Function keys &amp various combinations are used to select a video mode and
+  redraw the screen.  For a quick start try one of the following:
+<pre>
+    If you have MCGA, VGA, or better:  [F3]
+    If you have EGA:                   [F9]
+    If you have CGA:                   [F5]
+    Otherwise, monochrome:             [F6]
+</pre>
+
+<ul>
+<li>
+<b>
+  [F1]
+</b>
+<p>
+  Display a help screen. The function keys available in help mode are
+  displayed at the bottom of the help screen.
+<p>
+<li>
+<b>
+  [M] or [Esc]
+</b>
+  Return from a displayed image to the main menu.
+
+<p>
+<li>
+<b>
+  [Esc]
+</b>
+  From the main menu, <b>[Esc]</b> is used to exit from Fractint.
+
+<p>
+<li>
+<b>
+  [Delete]
+</b>
+  Same as choosing 'select video mode' from the main menu.  Goes to the
+  'select video mode' screen.  See 
+<a href="#video_key_anchor">
+Video Mode Function Keys</a>.
+
+<p>
+<li>
+<b>
+  [h]
+</b>
+  Redraw the previous image in the circular history buffer, revisiting
+  fractals you previously generated this session in reverse order.
+  Fractint saves the last ten images worth of information including
+  fractal type, coordinates, colors, and all options. Image information is
+  saved only when some item changes. After ten images the circular buffer
+  wraps around and earlier information is overwritten. You can set image
+  capacity of the history feature using the maxhistory=[nnn] command.
+  About 1200 bytes of memory is required for each image slot.
+
+<p>
+<li>
+<b>
+  [Ctrl-h]
+</b>
+  Redraw the next image in the circular history buffer. Use this to return
+  to images you passed by when using <b>[h]</b>.
+
+<p>
+<li>
+<b>
+  [Tab]
+</b>
+  Display the current fractal type, parameters, video mode, screen or (if
+  displayed) zoom-box coordinates, maximum iteration count, and other
+  information useful in keeping track of where you are.  The Tab function
+  is non-destructive - if you press it while in the midst of generating an
+  image, you will continue generating it when you return.  The Tab
+  function tells you if your image is still being generated or has
+  finished - a handy feature for those overnight, 1024x768 resolution
+  fractal images.  If the image is incomplete, it also tells you whether
+  it can be interrupted and resumed.  (Any function other than <b>[Tab]
+</b> and  <b>[F1]</b> counts as an 'interrupt'.)
+
+<p>
+  The Tab screen also includes a pixel-counting function, which will count
+  the number of pixels colored in the inside color.  This gives an
+  estimate of the area of the fractal.  Note that the inside color must be
+  different from the outside color(s) for this to work; inside=0 is a good
+  choice.
+
+<p>
+<li>
+<b>
+  [T]
+</b>
+  Select a fractal type. Move the cursor to your choice (or type the first
+  few letters of its name) and hit <b>[Enter]</b>. Next you will be 
+prompted for any parameters used by the selected type - hit <b>[Enter]</b>
+for the defaults.
+  See 
+<a href="FRACTA~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/fractal_types.html">
+Fractal Types </a> for a list of supported types.
+
+<p>
+<li>
+<b>
+  [F]
+</b>
+  Toggles the use of floating-point algorithms (see 
+<a href=
+"../../../tppmsgs/msgs24.htm#2448" tppabs="http://spanky.triumf.ca/www/fractint/periodicity.html#integer_math_anchor">
+'Limitations of
+  Integer Math (And How We Cope)' </a>).  Whether floating point is in
+  use is shown on the <b>[Tab]</b> status screen.  The floating point 
+option can also be turned on and off using the 'X' options screen.  If you 
+have a non-Intel floating point chip which supports the full 387 instruction
+  set, see the 'FPU=' command in 
+<a href="../../../tppmsgs/msgs22.htm#2290" tppabs="http://spanky.triumf.ca/www/fractint/startup_params.html">
+Startup Parameters </a> to get the  most out of your chip.
+
+<p>
+<li>
+<b>
+  [X]
+</b>
+  Select a number of eXtended options. Brings up a full-screen menu of
+  options, any of which you can change at will.  These options are:
+<ul>
+<li>
+    'passes=' - see 
+<a href="../../../tppmsgs/msgs24.htm#2411" tppabs="http://spanky.triumf.ca/www/fractint/drawing_method.html">
+Drawing Method </a>
+<li>
+    Floating point toggle - see <b>[F]</b> key description above
+<li>
+    'maxiter=' - see 
+<a href="../../../tppmsgs/msgs24.htm#2434" tppabs="http://spanky.triumf.ca/www/fractint/image_calc_params.html">
+Image Calculation Parameters </a>
+<li>
+    'inside=' and 'outside=' - see 
+<a href="../../../tppmsgs/msgs22.htm#2294" tppabs="http://spanky.triumf.ca/www/fractint/color_params.html">
+Color Parameters </a>
+<li>
+    'savename=' filename - see 
+<a href="../../../tppmsgs/msgs24.htm#2435" tppabs="http://spanky.triumf.ca/www/fractint/file_params.html">
+File Parameters </a>
+<li>
+    'overwrite=' option - see 
+<a href="../../../tppmsgs/msgs24.htm#2435" tppabs="http://spanky.triumf.ca/www/fractint/file_params.html">
+File Parameters </a>
+<li>
+    'sound=' option - see <a
+href="../../../tppmsgs/msgs24.htm#2437" tppabs="http://spanky.triumf.ca/www/fractint/sound_params.html">
+Sound Parameters</a>
+<li>
+    'logmap=' - see 
+<a href="../../../tppmsgs/msgs24.htm#2417" tppabs="http://spanky.triumf.ca/www/fractint/log_map.html">
+Logarithmic Palettes and Color Ranges</a>
+<li>
+    'biomorph=' - see 
+<a href="../../../tppmsgs/msgs24.htm#2418" tppabs="http://spanky.triumf.ca/www/fractint/biomorphs.html">
+Biomorphs </a>
+<li>
+    'decomp=' - see 
+<a href="../../../tppmsgs/msgs24.htm#2415" tppabs="http://spanky.triumf.ca/www/fractint/decomposition.html">
+Decomposition </a>
+<li>
+    'fillcolor=' - see 
+<a href="../../../tppmsgs/msgs24.htm#2411" tppabs="http://spanky.triumf.ca/www/fractint/drawing_method.html">
+Drawing Method </a>
+</ul>
+<p>
+<li>
+<b>
+  [Y]
+</b>
+  More options which we couldn't fit under the <b>[X]</b> command:
+<ul>
+<li>
+    'finattract=' - see 
+<a href=
+"../../../tppmsgs/msgs24.htm#2450" tppabs="http://spanky.triumf.ca/www/fractint/append_a_misc.html#finite_attract_anchor">
+Finite Attractors </a>
+<li>
+    'potential=' parameters - see 
+<a href="../../../tppmsgs/msgs24.htm#2419" tppabs="http://spanky.triumf.ca/www/fractint/contin_pot.html">
+Continuous Potential </a>
+<li>
+    'invert=' parameters - see 
+<a href="../../../tppmsgs/msgs24.htm#2414" tppabs="http://spanky.triumf.ca/www/fractint/inversion.html">
+Inversion </a>
+<li>
+    'distest=' parameters - see 
+<a href="../../../tppmsgs/msgs23.htm#2377" tppabs="http://spanky.triumf.ca/www/fractint/dem.html">
+Distance Estimator Method </a>
+<li>
+    'cyclerange=' - see 
+<a href="#cycling_anchor"> 
+Color Cycling Commands 
+</a>
+</ul>
+<p>
+<li>
+<b>
+  [Z]
+</b>
+  Modify the parameters specific to the currently selected fractal type.
+  This command lets you modify the parameters which are requested when you
+  select a new fractal type with the <b>[T]</b> command, without having 
+to repeat
+  that selection. You can enter 'e' or 'p' in column one of the input
+  fields to get the numbers e and pi (2.71828... and 3.14159...).
+  From the fractal parameters screen, you can press <b>[F6]</b> to bring 
+up a sub
+  parameter screen for the coordinates of the image's corners.  With
+  selected fractal types, <b>[Z]</b> allows you to change the 
+<a href="../../../tppmsgs/msgs22.htm#2299" tppabs="http://spanky.triumf.ca/www/fractint/bailout.html">
+Bailout Test</a>
+
+<p>
+<li>
+<b>
+  [+] or [-]
+</b>
+  Switch to color-cycling mode and begin cycling the palette by shifting
+  each color to the next 'contour.'  See 
+<a href="#cycling_anchor"> 
+Color Cycling Commands 
+</a>
+
+<p>
+<li>
+<b>
+  [C]
+</b>
+  Switch to color-cycling mode but do not start cycling.  The normally
+  black 'overscan' border of the screen changes to white.  See 
+<a href="#cycling_anchor"> 
+Color Cycling Commands 
+</a>
+
+<p>
+<li>
+<b>
+  [E]
+</b>
+  Enter Palette-Editing Mode.  See 
+<a href="#palette_anchor"> 
+Palette Editing Commands.
+</a>
+
+<p>
+<li>
+<b>
+  [Spacebar]
+</b>
+  Toggle between Mandelbrot set images and their corresponding Julia-set
+  images. Read the notes in Fractal Types, 
+<a href="../../../tppmsgs/msgs23.htm#2360" tppabs="http://spanky.triumf.ca/www/fractint/julia_type.html">
+Julia Sets </a> before
+  trying this option if you want to see anything interesting.
+
+<p>
+<li>
+<b>
+  [J]
+</b>
+  Toggle between Julia escape time fractal and the Inverse Julia orbit
+  fractal. See 
+<a href="../../../tppmsgs/msgs23.htm#2363" tppabs="http://spanky.triumf.ca/www/fractint/inv_julia_type.html">
+Inverse Julias </a>
+
+<p>
+<li>
+<b>
+  [Enter]
+</b>
+  Enter is used to resume calculation after a pause. It is only necessary
+  to do this when there is a message on the screen waiting to be
+  acknowledged, such as the message shown after you save an image to disk.
+
+<p>
+<li>
+<b>
+  [I]
+</b>
+  Modify 3D transformation parameters used with 3D fractal types such as
+  'Lorenz3D' and 3D 'IFS' definitions, including the selection of 
+<a href="../../../tppmsgs/msgs24.htm#2423" tppabs="http://spanky.triumf.ca/www/fractint/3d_params.html"> 'funny
+  glasses' </a>red/blue 3D.
+
+<p>
+<li>
+<b>
+  [A]
+</b>
+  Convert the current image into a fractal 'starfield'.  See 
+<a href="../../../tppmsgs/msgs24.htm#2420" tppabs="http://spanky.triumf.ca/www/fractint/starfields.html">
+Starfields </a>
+
+<p>
+<li>
+<b>
+  [Ctrl-A]
+</b>
+  Unleash an image-eating ant automaton on current image. See 
+<a href="../../../tppmsgs/msgs23.htm#2378" tppabs="http://spanky.triumf.ca/www/fractint/ant_type.html">
+Ant  Automaton </a>.
+
+<p>
+<li>
+<b>
+  [Ctrl-S] (or [k])
+</b>
+  Convert the current image into a Random Dot Stereogram (RDS).  See
+<a href="../../../tppmsgs/msgs23.htm#2304" tppabs="http://spanky.triumf.ca/www/fractint/rds.html">
+  Random Dot Stereograms (RDS) </a>
+
+<p>
+<li>
+<b>
+  [O] (the letter, not the number)
+</b>
+  If pressed while an image is being generated, toggles the display of
+  intermediate results -- the 'orbits' Fractint uses as it calculates
+  values for each point. Slows the display a bit, but shows you how clever
+  the program is behind the scenes. (See 
+<a href="../../../tppmsgs/msgs24.htm#2448" tppabs="http://spanky.triumf.ca/www/fractint/periodicity.html">
+'A Little Code' in 'Fractals and
+  the PC' </a>
+
+<p>
+<li>
+<b>
+  [D]
+</b>
+  Shell to DOS. Return to Fractint by entering 'exit' at a DOS prompt.
+
+<p>
+<li>
+<b>
+  [Insert]
+</b>
+  Restart at the 'credits' screen and reset most variables to their
+  initial state.  Variables which are not reset are: savename, lightname,
+  video, startup filename.
+
+<p>
+<li>
+<b>
+ [L]
+</b>
+  Enter Browsing Mode.  See 
+<a href="#browse_anchor"> 
+Browse Commands.
+</a>
+
+</ul>
+
+<p>
+<li>
+<b>
+<a name="zoom_box_anchor">
+Zoom box Commands
+</a>
+</b>
+<p>
+  Zoom Box functions can be invoked while an image is being generated or
+  when it has been completely drawn.  Zooming is supported for most
+  fractal types, but not all.
+
+<p>
+  The general approach to using the zoom box is:  Frame an area using the
+  keys described below, then <b>[Enter]</b> to expand what's in the 
+frame to fill the whole screen (zoom in); or <b>[Ctrl] [Enter]</b> 
+to shrink the current image into the framed area (zoom out). With a mouse, 
+double-click the left button to zoom in, double click the right button to
+ zoom out.
+
+<ul>
+<li>
+<b>
+  [Page Up], [Page Down]
+</b>
+<p>
+  Use <b>[Page Up]</b> to initially bring up the zoom box. It starts 
+at full screen size. Subsequent use of these keys makes the zoom box smaller or
+larger.  Using <b>[Page Down]</b> to enlarge the zoom box when it is 
+already at maximum size removes the zoom box from the display. Moving the mouse
+away from you or toward you while holding the left button down performs the
+same functions as these keys.
+
+<p>
+  Using the cursor 'arrow' keys or moving the mouse without holding any
+  buttons down, moves the zoom box.
+
+<p>
+  Holding <b>[Ctrl]</b> while pressing cursor 'arrow' keys moves the 
+box 5 times faster.  (This only works with enhanced keyboards.)
+
+<p>
+  Panning: If you move a fullsize zoombox and don't change anything else
+  before performing the zoom, Fractint just moves what's already on the
+  screen and then fills in the new edges, to reduce drawing time. This
+  feature applies to most fractal types but not all.  A side effect is
+  that while an image is incomplete, a full size zoom box moves in steps
+  larger than one pixel.  Fractint keeps the box on multiple pixel
+  boundaries, to make panning possible.  As a multi-pass (e.g. solid
+  guessing) image approaches completion, the zoom box can move in smaller
+  increments.
+
+<p>
+  In addition to resizing the zoom box and moving it around, you can do
+  some rather warped things with it.  If you're a new Fractint user, we
+  recommend skipping the rest of the zoom box functions for now and coming
+  back to them when you're comfortable with the basic zoom box functions.
+
+<p>
+<li>
+<b>
+  [Ctrl] [Keypad-], [Ctrl] [Keypad+]
+</b>
+  Holding <b>[Ctrl]</b> and pressing the numeric keypad's + or - keys 
+rotates the zoom box. Moving the mouse left or right while holding the right 
+button down performs the same function.
+
+<p>
+<li>
+<b>
+  [Ctrl] [Page Up], [Ctrl] [Page Down]
+</b>
+  These commands change the zoom box's 'aspect ratio', stretching or
+  shrinking it vertically. Moving the mouse away from you or toward you
+  while holding both buttons (or the middle button on a 3-button mouse)
+  down performs the same function. There are no commands to directly
+  stretch or shrink the zoom box horizontally - the same effect can be
+  achieved by combining vertical stretching and resizing.
+
+<p>
+<li>
+<b>
+  [Ctrl] [Home], [Ctrl] [End]
+</b>
+  These commands 'skew' the zoom box, moving the top and bottom edges in
+  opposite directions. Moving the mouse left or right while holding both
+  buttons (or the middle button on a 3-button mouse) down performs the
+  same function. There are no commands to directly skew the left and right
+  edges - the same effect can be achieved by using these functions
+  combined with rotation.
+
+<p>
+<li>
+<b>
+  [Ctrl] [Insert], [Ctrl] [Delete]
+</b>
+  These commands change the zoom box color. This is useful when you're
+  having trouble seeing the zoom box against the colors around it. Moving
+  the mouse away from you or toward you while holding the right button
+  down performs the same function.
+
+<p>
+  You may find it difficult to figure out what combination of size,
+  position rotation, stretch, and skew to use to get a particular result.
+  (We do.)
+
+<p>
+  A good way to get a feel for all these functions is to play with the
+  Gingerbreadman fractal type. Gingerbreadman's shape makes it easy to see
+  what you're doing to him. A warning though: Gingerbreadman will run
+  forever, he's never quite done! So, pre-empt with your next zoom when
+  he's baked enough.
+
+<p>
+  If you accidentally change your zoom box shape or rotate and forget
+  which way is up, just use <b>[PageDown] </b>to make it bigger until it
+  disappears, then <b>[PageUp]</b> to get a fresh one.  With a mouse, 
+after removing the old zoom box from the display release and re-press the left
+button for a fresh one.
+
+<p>
+  If your screen does not have a 4:3 'aspect ratio' (i.e. if the visible
+  display area on it is not 1.333 times as wide as it is high), rotating
+  and zooming will have some odd effects - angles will change, including
+  the zoom box's shape itself, circles (if you are so lucky as to see any
+  with a non-standard aspect ratio) become non-circular, and so on. The
+  vast majority of PC screens *do* have a 4:3 aspect ratio.
+
+<p>
+  Zooming is not implemented for the plasma and diffusion fractal types,
+  nor for overlayed and 3D images. A few fractal types support zooming but
+  do not support rotation and skewing - nothing happens when you try it.
+</ul>
+
+<p>
+<li>
+<b>
+<a name="cycling_anchor"> 
+Color Cycling Commands</a>
+</b>
+<p>
+  Color-cycling mode is entered with the <b>[c], [+],</b> or <b>[-]</b>
+ keys from an image, or with the <b>[c]</b> key from Palette-Editing mode.
+
+<p>
+  The color-cycling commands are available ONLY for VGA adapters and EGA
+  adapters in 640x350x16 mode.  You can also enter color-cycling while
+  using a disk-video mode, to load or save a palette - other functions are
+  not supported in disk-video.
+
+<p>
+  Note that the colors available on an EGA adapter (16 colors at a time
+  out of a palette of 64) are limited compared to those of VGA, super-VGA,
+  and MCGA (16 or 256 colors at a time out of a palette of 262,144). So
+  color-cycling in general looks a LOT better in the latter modes. Also,
+  because of the EGA palette restrictions, some commands are not available
+  with EGA adapters.
+
+<p>
+  Color cycling applies to the color numbers selected by the 'cyclerange='
+  command line parameter (also changeable via the <b>[Y]</b> options 
+screen and via the palette editor).  By default, color numbers 1 to 255
+inclusive are cycled.  On some images you might want to set 'inside=0'
+(<b>[X]</b> options or command line parameter) to exclude the 'lake' 
+from color cycling.
+
+<p>
+  When you are in color-cycling mode, you will either see the screen
+  colors cycling, or will see a white 'overscan' border when paused, as a
+  reminder that you are still in this mode.  The keyboard commands
+  available once you've entered color-cycling. are described below.
+
+<ul>
+<li>
+<b>
+  [F1]
+</b>
+<p>
+  Bring up a HELP screen with commands specific to color cycling mode.
+
+<p>
+<li>
+<b>
+  [Esc]
+</b>
+  Leave color-cycling mode.
+
+<p>
+<li>
+<b>
+  [Home]
+</b>
+  Restore original palette.
+
+<p>
+<li>
+<b>
+  [+] or [-]
+</b>
+  Begin cycling the palette by shifting each color to the next 'contour.'
+  <b>[+]</b> cycles the colors in one direction, <b>[-]</b> in the
+ other.
+
+<p>
+<li>
+<b>
+  <b>&lt</b> or <b>&gt</b>
+</b>
+  Force a color-cycling pause, disable random colorizing, and single-step
+  through a one color-cycle.  For 'fine-tuning' your image colors.
+
+<p>
+<li>
+<b>
+  Cursor up/down
+</b>
+  Increase/decrease the cycling speed. High speeds may cause a harmless
+  flicker at the top of the screen.
+
+<p>
+<li>
+<b>
+  [F2] through [F10]
+</b>
+  Switches from simple rotation to color selection using randomly
+  generated color bands of short (F2) to long (F10) duration.
+
+<p>
+<li>
+<b>
+  [1] through [9]
+</b>
+  Causes the screen to be updated every <b>[n]</b> color cycles (the default is
+  1).  Handy for slower computers.
+
+<p>
+<li>
+<b>
+  [Enter]
+</b>
+  Randomly selects a function key (F2 through F10) and then updates ALL
+  the screen colors prior to displaying them for instant, random colors.
+  Hit this over and over again (we do).
+
+<p>
+<li>
+<b>
+  [Spacebar]
+</b>
+  Pause cycling with white overscan area. Cycling restarts with any
+  command key (including another spacebar).
+
+<p>
+<li>
+<b>
+  [Shift] [F1] - [F10]
+</b>
+  Pause cycling and reset the palette to a preset two color 'straight'
+  assignment, such as a spread from black to white. (Not for EGA)
+
+<p>
+<li>
+<b>
+  [Ctrl] [F1]-[F10]
+</b>
+  Pause &amp set a 2-color cyclical assignment, e.g. red-&gt yellow-&gt red (not
+  EGA).
+
+<p>
+<li>
+<b>
+  [Alt] [F1]-[F10]
+</b>
+  Pause &amp set a 3-color cyclical assignment, e.g. green-&gt white-&gt blue 
+(not EGA).
+
+<p>
+<li>
+<b>
+  [R], [G], [B]
+</b>
+  Pause and increase the red, green, or blue component of all colors by a
+  small amount (not for EGA). Note the case distinction of this vs:
+
+<p>
+<li>
+<b>
+  [r], [g], [b]
+</b>
+  Pause and decrease the red, green, or blue component of all colors by a
+  small amount (not for EGA).
+
+<p>
+<li>
+<b>
+  [D] or [A]
+</b>
+  Pause and load an external color map from the files DEFAULT.MAP or
+  ALTERN.MAP, supplied with the program.
+
+<p>
+<li>
+<b>
+  [L]
+</b>
+  Pause and load an external color map (.MAP file).  Several .MAP files
+  are supplied with Fractint.  See 
+<a href="../../../tppmsgs/msgs24.htm#2412" tppabs="http://spanky.triumf.ca/www/fractint/palette_maps.html">
+Palette Maps </a>.
+
+<p>
+<li>
+<b>
+  [S]
+</b>
+  Pause, prompt for a filename, and save the current palette to the named
+  file (.MAP assumed).  See 
+<a href="../../../tppmsgs/msgs24.htm#2412" tppabs="http://spanky.triumf.ca/www/fractint/palette_maps.html">
+Palette Maps </a>.
+</ul>
+
+<p>
+<li>
+<b>
+<a name="palette_anchor">
+Palette Editing Commands</a>
+</b>
+<p>
+  Palette-editing mode provides a number of tools for modifying the colors
+  in an image.  It can be used only with MCGA or higher adapters, and only
+  with 16 or 256 color video modes.  Many thanks to Ethan Nagel for
+  creating the palette editor.
+
+<p>
+  Use the <b>[E]</b> key to enter palette-editing mode from a displayed
+ image or from the main menu.
+
+<p>
+  When this mode is entered, an empty palette frame is displayed. You can
+  use the cursor keys to position the frame outline, and <b>[Pageup]</b>
+ and <b>[Pagedn]</b> to change its size.  (The upper and lower limits on
+the  size depend on the current video mode.)  When the frame is positioned
+where you want it, hit Enter to display the current palette in the frame.
+
+<p>
+  Note that the palette frame shows R(ed) G(reen) and B(lue) values for
+  two color registers at the top.  The active color register has a solid
+  frame, the inactive register's frame is dotted.  Within the active
+  register, the active color component is framed.
+
+<p>
+
+With a video mode of 640x400 or higher, a status area appears between
+the two color registers.  This status area shows:
+<p>
+<pre>
+
+      nnn  = color numbeber at the cursor location
+      A    = Auto mode
+      X, Y = exclusion modes
+      F    = freesyle mode
+      T    = stripe mode is waiting for #
+</pre>
+<p>
+  Using the commands described below, you can assign particular colors to
+  the registers and manipulate them.  Note that at any given time there
+  are two colors 'X'd - these are pre-empted by the editor to display the
+  palette frame. They can be edited but the results won't be visible. You
+  can change which two colors are borrowed ('X'd out) by using the 
+<b>[v]</b> command.
+
+<p>
+  Once the palette frame is displayed and filled in, the following
+  commands are available:
+
+<ul>
+<li>
+<b>
+  [F1]
+</b>
+<p>
+  Bring up a HELP screen with commands specific to palette-editing mode.
+
+<p>
+<li>
+<b>
+  [Esc]
+</b>
+  Leave palette-editing mode
+
+<p>
+<li>
+<b>
+  [H]
+</b>
+  Hide the palette frame to see full image; the cross-hair remains visible
+  and all functions remain enabled; hit <b>[H]</b> again to restore the 
+palette display.
+
+<p>
+<li>
+<b>
+  Cursor keys
+</b>
+  Move the cross-hair cursor around. In 'auto' mode (the default) the
+  color under the center of the cross-hair is automatically assigned to
+  the active color register. Control-Cursor keys move the cross-hair
+  faster. A mouse can also be used to move around.
+
+<p>
+<li>
+<b>
+  [R] [G] [B]
+</b>
+  Select the Red, Green, or Blue component of the active color register
+  for subsequent commands
+
+<p>
+<li>
+<b>
+  [Insert] [Delete]
+</b>
+  Select previous or next color component in active register
+
+<p>
+<li>
+<b>
+  [+] [-]
+</b>
+  Increase or decrease the active color component value by 1  Numeric
+  keypad (gray) + and - keys do the same.
+
+<p>
+<li>
+<b>
+  [Pageup] [Pagedn]
+</b>
+  Increase or decrease the active color component value by 5; Moving the
+  mouse up/down with left button held is the same
+
+<p>
+<li>
+<b>
+  [0] [1] [2] [3] [4] [5]
+</b>
+  Set the active color component's value to 0 10 20 ... 60
+
+<p>
+<li>
+<b>
+  [Space]
+</b>
+  Select the other color register as the active one.  In the default
+  'auto' mode this results in the now-inactive register being set to
+  remember the color under the cursor, and the now-active register
+  changing from whatever it had previously remembered to now follow the
+  color.
+
+<p>
+<li>
+<b>
+  [,] [.]
+</b>
+  Rotate the palette one step.  By default colors 1 through 255 inclusive
+  are rotated.  This range can be over-ridden with the 'cyclerange'
+  parameter, the <b>[Y]</b> options screen, or the <b>[O]</b>
+ command described below.
+
+<p>
+<li>
+<b>
+  '&lt' or '&gt'
+</b>
+  Rotate the palette continuously (until next keystroke)
+
+<p>
+<li>
+<b>
+  [O]
+</b>
+  Set the color cycling range to the range of colors currently defined by
+  the color registers.
+
+<p>
+<li>
+<b>
+  [C]
+</b>
+  Enter Color-Cycling Mode.  When you invoke color-cycling from here, it
+  will subsequently return to palette-editing when you <b>[Esc]</b> from 
+it.  See
+<a href="#cycling_anchor"> 
+Color Cycling Commands 
+</a>
+
+<p>
+<li>
+<b>
+  [=]
+</b>
+  Create a smoothly shaded range of colors between the colors selected by
+  the two color registers.
+
+<p>
+<li>
+<b>
+  [M]
+</b>
+  Specify a gamma value for the shading created by <b>[=]</b>.
+
+<p>
+<li>
+<b>
+  [D]
+</b>
+  Duplicate the inactive color register's values to the active color
+  register.
+
+<p>
+<li>
+<b>
+  [T]
+</b>
+  Stripe-shade - create a smoothly shaded range of colors between the two
+  color registers, setting only every Nth register.  After hitting 
+<b>[T]</b>, hit a numeric key from 2 to 9 to specify N.  For example, 
+if you press <b>[T] [3]</b>, smooth shading is done between the 
+two color registers, affecting only every 3rd color between them.  The other 
+colors between them remain unchanged.
+
+<p>
+<li>
+<b>
+  [W]
+</b>
+  Convert current palette to gray-scale.  (If the <b>[X]</b> or 
+<b>[Y] </b>exclude
+  ranges described later are in force, only the active range of colors is
+  converted to gray-scale.)
+
+<p>
+<li>
+<b>
+  [Shift-F2] ... [Shift-F9]
+</b>
+  Store the current palette in a temporary save area associated with the
+  function key.  The temporary save palettes are useful for quickly
+  comparing different palettes or the effect of some changes - see next
+  command.  The temporary palettes are only remembered until you exit from
+  palette-editing mode.
+
+<p>
+<li>
+<b>
+  [F2] ... [F9]
+</b>
+  Restore the palette from a temporary save area.  If you haven't
+  previously saved a palette for the function key, you'll get a simple
+  grey scale.
+
+<p>
+<li>
+<b>
+  [L]
+</b>
+  Pause and load an external color map (.MAP file).  See 
+<a href="../../../tppmsgs/msgs24.htm#2412" tppabs="http://spanky.triumf.ca/www/fractint/palette_maps.html">
+Palette Maps </a>.
+
+<p>
+<li>
+<b>
+  [S]
+</b>
+  Pause, prompt for a filename, and save the current palette to the named
+  file (.MAP assumed).  See 
+<a href="../../../tppmsgs/msgs24.htm#2412" tppabs="http://spanky.triumf.ca/www/fractint/palette_maps.html">
+Palette Maps </a>.
+
+<p>
+<li>
+<b>
+  [I]
+</b>
+  Invert frame colors.  With some colors the palette is easier to see when
+  the frame colors are interchanged.
+
+<p>
+<li>
+<b>
+  [\]
+</b>
+  Move or resize the palette frame.  The frame outline is drawn - it can
+  then be repositioned and sized with the cursor keys, <b>[Pageup]</b> and
+  <b>[Pagedn]</b>, just as was done when first entering palette-editing 
+mode.  Hit Enter when done moving/sizing.
+
+<p>
+<li>
+<b>
+  [V]
+</b>
+  Use the colors currently selected by the two color registers for the
+  palette editor's frame.  When palette editing mode is entered, the last
+  two colors are 'X'd out for use by the palette editor; this command can
+  be used to replace the default with two other color numbers.
+
+<p>
+<li>
+<b>
+  [A]
+</b>
+  Toggle 'auto' mode on or off.  When on (the default), the active color
+  register follows the cursor; when off, <b>[Enter]</b> must be pressed 
+to set the active register to the color under the cursor.
+
+<p>
+<li>
+<b>
+  [Enter]
+</b>
+  Only useful when 'auto' is off, as described above; double clicking the
+  left mouse button is the same as Enter.
+
+<p>
+<li>
+<b>
+  [X]
+</b>
+  Toggle 'exclude' mode on or off - when toggled on, only those image
+  pixels which match the active color are displayed.
+
+<p>
+<li>
+<b>
+  [Y]
+</b>
+  Toggle 'exclude' range on or off - similar to <b>[X]</b>, but all pixels
+  matching colors in the range of the two color registers are displayed.
+
+<p>
+<li>
+<b>
+  [N]
+</b>
+  Make a negative color palette - will convert only current color if in
+  <b>[x]</b> mode or range between editors in <b>[y]</b> mode or entire 
+palette if in 'normal' mode.
+<li>
+<pre>
+  [!]
+  [@]
+  [#]
+</pre>
+  Swap R [-] G, G [-] B, and R [-] B columns. 
+These keys are shifted 1, 2, and
+  3, which you may find easier to remember.
+
+<p>
+<li>
+<b>
+  [U]
+</b>
+  Undoes the last palette editor command.  Will undo all the way to the
+  beginning of the current session.
+  <b>[E]</b> Redoes the undone palette editor commands.
+
+<p>
+<li>
+<b>
+  [F]
+</b>
+  Toggles 'Freestyle mode' on and off (Freestyle mode changes a range of
+  palette values smoothly from a center value outward).  With your cursor
+  inside the palette box, press the <b>[F]</b> key to enter Freestyle 
+mode. A default range of colors will be selected for you centered at the cursor
+  (the ends of the color range are noted by putting dashed lines around
+  the corresponding palette values). While in Freestyle mode:
+
+<p>
+   Moving the mouse changes the location of the range of colors that are
+   affected.
+
+<p>
+<li>
+<b>
+   Control-Insert/Delete </b>
+or the shifted-right-mouse-button changes the
+   size of the affected palette range.
+
+<p>
+   The normal color editing keys (R,G,B,1-6, etc) set the central color of
+   the affected palette range.
+   Pressing ENTER or double-clicking the left mouse button makes the
+   palette changes permanent (if you don't perform this step, any palette
+   changes disappear when you press the <b>[F]</b> key again to exit 
+freestyle mode).
+<p>
+  For more details see 
+<a href="../../../tppmsgs/msgs24.htm#2455" tppabs="http://spanky.triumf.ca/www/fractint/freestyle_mode.html">Freestyle mode tutorial. </a>
+
+</ul>
+
+<p>
+<li>
+<b>
+<a name="image_save_anchor">
+Image Save/Restore Commands
+</a>
+</b>
+
+<ul>
+<li>
+<b>
+  [S] </b>
+<p>
+saves the current image to disk. All parameters required to recreate
+  the image are saved with it. Progress is marked by colored lines moving
+  down the screen's edges.
+
+<p>
+  The default filename for the first image saved after starting Fractint
+  is FRACT001.GIF;  subsequent saves in the same session are automatically
+  incremented 002, 003... Use the 'savename=' parameter or <b>[X]</b>
+ options  screen to change the name. By default, files left over from previous
+  sessions are not overwritten - the first unused FRACTnnn name is used.
+  Use the 'overwrite=yes' parameter or <b>[X]</b> options screen) to 
+overwrite existing files.
+
+<p>
+  A save operation can be interrupted by pressing any key. If you
+  interrupt, you'll be asked whether to keep or discard the partial file.
+
+<p>
+<li>
+<b>
+  [R] </b>
+restores an image previously saved with <b>[S]</b>, or an ordinary GIF
+  file.  After pressing <b>[R]</b> you are shown the file names in the 
+current directory which match the current file mask. To select a file to
+  restore, move the cursor to it (or type the first few letters of its
+  name) and press <b>[Enter]</b>.
+
+<p>
+  Directories are shown in the file list with a '\' at the end of the
+  name.  When you select a directory, the contents of that directory are
+  shown. Or, you can type the name of a different directory (and
+  optionally a different drive) and press <b>[Enter]</b> for a new 
+display. You can also type a mask such as '*.XYZ' and press 
+<b>[Enter]</b> to display files whose name ends with the matching suffix 
+(XYZ).
+
+<p>
+  You can use <b>[F6]</b> to switch directories to the default fractint 
+directoryor to your own directory which is specified through the DOS
+environment variable 'FRACTDIR'.
+
+<p>
+  Once you have selected a file to restore, a summary description of the
+  file is shown, with a video mode selection list. Usually you can just
+  press <b>[Enter]</b>to go past this screen and load the image. Other
+choices available at this point are:
+<dl>
+<dt>
+    <b>Cursor keys:</b>
+<dd> select a different video mode
+<dt>
+    <b>[Tab] :</b>
+<dd>
+ display more information about the fractal
+<dt>
+    <b>[F1] :</b> 
+<dd>for help about the 'err' column in displayed video modes
+  If you restore a file into a video mode which does not have the same
+  pixel dimensions as the file, Fractint will make some adjustments:  The
+  view window parameters (see <b>[V]</b>command) will automatically be set
+to an appropriate size, and if the image is larger than the screen dimensions,
+it will be reduced by using only every Nth pixel during the restore.
+</dl>
+</ul>
+
+<p>
+<li>
+<b>
+<a name="print_anchor">
+Print Command
+</a>
+</b>
+<p>
+<ul>
+<li>
+<b>
+  [P]
+</b>
+
+<p>
+  Print the current fractal image on your (Laserjet, Paintjet, Epson-
+  compatible, PostScript, or HP-GL) printer.
+
+<p>
+  See 
+<a href="../../../tppmsgs/msgs24.htm#2429" tppabs="http://spanky.triumf.ca/www/fractint/command_line.html">
+'Setting Defaults (SSTOOLS.INI File)' </a> and 
+<a href="../../../tppmsgs/msgs24.htm#2438" tppabs="http://spanky.triumf.ca/www/fractint/printer_params.html">
+'Printer Parameters' </a> for how to let Fractint know about your printer
+  setup.
+
+<p>
+<a href=
+"../../../tppmsgs/msgs24.htm#2444" tppabs="http://spanky.triumf.ca/www/fractint/hardware_modes.html#disk_video_anchor">
+  'Disk-Video' Modes </a> can be used to generate images for printing
+  at higher resolutions than your screen supports.
+</ul>
+
+
+<p>
+<li>
+<b>
+<a name="param_save_anchor">
+Parameter Save/Restore Commands
+</a>
+</b>
+<p>
+  Parameter files can be used to save/restore all options and settings
+  required to recreate particular images.  The parameters required to
+  describe an image require very little disk space, especially compared
+  with saving the image itself.
+
+<p>
+<ul>
+<li>
+<b>
+  [@] or [2]
+</b>
+
+<p>
+  The <b>[@]</b> or <b>[2]</b> command loads a set of parameters 
+describing an image.
+  (Actually, it can also be used to set non-image parameters such as
+  SOUND, but at this point we're interested in images. Other uses of
+  parameter files are discussed in 
+<a href="../../../tppmsgs/msgs24.htm#2430" tppabs="http://spanky.triumf.ca/www/fractint/param_files.html">
+'Parameter Files and the <b>[@]</b> Command'</a>
+
+<p>
+  When you hit <b>[@]</b> or <b>[2]</b>, Fractint displays the
+ names of the entries in the currently selected parameter file.  The default
+parameter file, FRACTINT.PAR, is included with the Fractint release and
+contains parameters for some sample images.
+
+<p>
+  After pressing <b>[@]</b> or <b>[2]</b>, highlight an entry and
+press <b>[Enter]</b> to load it, or press <b>[F6]</b> to change 
+to another parameter file.
+
+<p>
+  Note that parameter file entries specify all calculation related
+  parameters, but do not specify things like the video mode - the image
+  will be plotted in your currently selected mode.
+
+<p>
+<li>
+<b>
+  [B]
+</b>
+
+<p>
+  The <b>[B]</b>command saves the parameters required to describe the
+currently displayed image, which can subsequently be used with the 
+<b>[@]</b> or <b>[2]</b> command to recreate it.
+
+<p>
+  After you press <b>[B]</b>, Fractint prompts for:
+
+<p>
+    Parameter file:  The name of the file to store the parameters in.  You
+    should use some name like 'myimages' instead of fractint.par, so that
+    your images are kept separate from the ones released with new versions
+    of Fractint. You can use the PARMFILE= command in SSTOOLS.INI to set
+    the default parameter file name to 'myimages' or whatever.  (See
+<a href="../../../tppmsgs/msgs24.htm#2429" tppabs="http://spanky.triumf.ca/www/fractint/command_line.html">
+    'Setting Defaults (SSTOOLS.INI File)' </a> and 
+<a href="../../../tppmsgs/msgs24.htm#2430" tppabs="http://spanky.triumf.ca/www/fractint/param_files.html">
+'parmfile=' in 'File Parameters' </a>.)
+
+<p>
+    Name:  The name you want to assign to the entry, to be displayed when
+    the <b>[@]</b> or <b>[2]</b> command is used.
+
+<p>
+    Main comment:  A comment to be shown beside the entry in the 
+<b>[@]</b> command display.
+
+<p>
+    Second, Third, and Fourth comment:  Additional comments to store in
+    the file with the entry. These comments go in the file only, and are
+    not displayed by the <b>[@]</b> command. You can set these comments
+	from the command line - 
+<a href=
+"../../../tppmsgs/msgs22.htm#2290" tppabs="http://spanky.triumf.ca/www/fractint/startup_params.html#comment_anchor">
+see Comment= Command.
+</a>
+
+<p>
+    Record colors?:  Whether color information should be included in the
+    entry. Usually the default value displayed by Fractint is what you
+    want.  Allowed values are:
+<pre>
+&quot;no&quot; - Don't record colors.  &quot;@mapfilename&quot; 
+	When these parameters are used, load colors from the
+	named color map file. This is the default if you are currently
+	using colors from a color map file.
+&quot;yes&quot; - Record the colors in detail. This is the default when you've
+	changed the display colors by using the palette editor or by color
+	cycling. The only reason that this isn't what Fractint always does
+	for the [B] command is that color information can be bulky - up to
+	nearly 1K of disk space. That may not sound like much, but can add
+	up when you consider the thousands of wonderful images you may find
+	you just *have* to record...  Smooth-shaded ranges of colors are
+	compressed so if that's used a lot in an image the color
+	information won't be as bulky.
+</pre>
+<p>
+    # of colors:  This only matters if 'Record colors?' is set to 'yes'.
+    It specifies the number of colors to record. Recording less colors
+    will take less space. Usually the default value displayed by Fractint
+    is what you want. You might want to increase it in some cases, e.g. if
+    you are using a 256 color mode with maxiter 150, and have used the
+    palette editor to set all 256 possible colors for use with color
+    cycling, then you'll want to set the '# of colors' to 256.
+
+<p>
+    See the 
+<a href=
+"../../../tppmsgs/msgs22.htm#2294" tppabs="http://spanky.triumf.ca/www/fractint/color_params.html#record_colors_anchor">
+Recordcolors </a> command, which controls when mapfiles
+    are used and when compressed colors are written to PAR files.
+
+<p>
+    At the bottom of the input screen are inputs for Fractint's 'pieces'
+    divide-and-conquer feature. You can create multiple PAR entries that
+    break an image up into pieces so that you can generate the image
+    pieces one by one. There are two reasons for doing this. The first is
+    in case the fractal is very slow, and you want to generate parts of
+    the image at the same time on several computers. The second is that
+    you might want to make an image greater than 2048 x 2048. The
+    parameters for this feature are:
+<pre>
+       X Multiples - How many divisions of final image in the x direction
+       Y Multiples - How many divisions of final image in the y direction
+       Video mode  - Fractint video mode for each piece (e.g. 'F3')
+</pre>
+<p>
+    The last item defaults to the current video mode. If either X
+    Multiples or Y Multiples are greater than 1, then multiple numbered
+    PAR entries for the pieces are added to the PAR file, and a
+    MAKEMIG.BAT file is created that builds all of the component pieces
+    and then stitches them together into a 'multi-image' GIF.  The current
+    limitations of the 'divide and conquer' algorithm are 36 or fewer X
+    and Y multiples (so you are limited to 'only' 36x36=1296 component
+    images), and a final resolution limit in both the X and Y directions
+    of 65,535 (a limitation of 'only' four billion pixels or so).
+
+<p>
+    The final image generated by MAKEMIG is a 'multi-image' GIF file
+    called FRACTMIG.GIF.  In case you have other software that can't
+    handle multi-image GIF files, MAKEMIG includes a final (but commented
+    out) call to SIMPLGIF, a companion program that reads a GIF file that
+    may contain little tricks like multiple images and creates a simple
+    GIF from it.  Fair warning: SIMPLGIF needs room to build a composite
+    image while it works, and it does that using a temporary disk file
+    equal to the size of the final image - and a 64Kx64K GIF image
+    requires a 4GB temporary disk file!
+
+<p>
+<li>
+<b>
+  [G]
+</b>
+
+<p>
+  The <b>[G]</b> command lets you give a startup parameter interactively.
+</ul>
+
+<p>
+<li>
+<b>
+<a name="3d_anchor">
+'3D' Commands
+</a>
+</b>
+<p>
+  See 
+<a href="../../../tppmsgs/msgs24.htm#2421" tppabs="http://spanky.triumf.ca/www/fractint/3dimages.html">
+'3D' Images </a> for details of these commands.
+
+<ul>
+<li>
+<b>
+  [3]
+</b>
+<p>
+  Restore a saved image as a 3D 'landscape', translating its color
+  information into 'height'. You will be prompted for all KINDS of
+  options.
+
+<p>
+<li>
+<b>
+  [#]
+</b>
+  Restore in 3D and overlay the result on the current screen.
+</ul>
+
+<p>
+<li>
+<b>
+<a name="resuming_anchor">
+Interrupting and Resuming
+</a>
+</b>
+<p>
+  Fractint command keys can be loosely grouped as:
+
+<p>
+<ul>
+<li>
+   Keys which suspend calculation of the current image (if one is being
+     calculated) and automatically resume after the function.  
+<b>[Tab]</b> (display status information) and <b>[F1]</b>
+ (display help), are the only keys in this group.
+
+<p>
+<li>
+     Keys which automatically trigger calculation of a new image.
+     Examples:  selecting a video mode (e.g. <b>[F3]</b>);  selecting 
+a fractaltype using <b>[T]</b>;  using the <b>[X]</b> screen to 
+change an option such as maximum iterations.
+
+<p>
+<li>
+   Keys which do something, then wait for you to indicate what to do
+     next.  Examples:  <b>[M]</b> to go to main menu;  <b> [C]</b>
+ to enter color cycling
+     mode;  <b>[PageUp]</b> to bring up a zoom box.  After using a 
+command in this group, calculation automatically resumes when you return from
+     the function (e.g. <b>[Esc]</b> from color cycling, 
+<b>[PageDn]</b> to clear zoom box).  There are a few fractal types 
+which cannot resume calculation, they are noted below.  Note that after 
+saving an image with <b>[S]</b>, you must press <b>[Enter]</b>
+ to clear the 'saved' message from the screen and resume.
+
+</ul>
+<p>
+  An image which is <b>[S]</b>aved before it completes can later be 
+<b>[R]</b>estored and continued. The calculation is automatically 
+resumed when you restore such an image.
+
+<p>
+  When a slow fractal type resumes after an interruption in the third
+  category above, there may be a lag while nothing visible happens.  This
+  is because most cases of resume restart at the beginning of a screen
+  line.  If unsure, you can check whether calculation has resumed with the
+  <b>[Tab]</b> key.
+
+<p>
+  The following fractal types cannot (currently) be resumed: plasma, 3d
+  transformations, julibrot, and 3d orbital types like lorenz3d.  To check
+  whether resuming an image is possible, use the <b>[Tab]</b> key 
+while it is calculating.  It is resumable unless there is a note under the
+fractal type saying it is not.
+
+<p>
+  The 
+<a href="../../../tppmsgs/msgs24.htm#2443" tppabs="http://spanky.triumf.ca/www/fractint/batch_mode.html">
+Batch Mode </a> section discusses how to resume in batch mode.
+
+<p>
+  To <b>[R]</b>estore and resume a 'formula', 'lsystem', or 'ifs' type 
+fractal your 'formulafile', 'lfile', or 'ifsfile' must contain the required
+  name.
+
+
+<p>
+<li>
+<b>
+<a name="orbits_anchor">
+Orbits Window
+</a>
+</b>
+<p>
+  The <b>[O]</b> key turns on the Orbit mode.  In this mode a cursor 
+appears overthe fractal. A window appears showing the orbit used in the
+calculation of the color at the point where the cursor is. Move the cursor
+around the fractal using the arrow keys or the mouse and watch the orbits
+  change. Try entering the Orbits mode with View Windows (<b>[V]</b>) 
+turned on.  The following keys take effect in Orbits mode.
+<pre>
+  [c]     Circle toggle - makes little circles with radii inversely
+                proportional to the iteration. Press <b>[c]</b> again 
+                to toggle back to point-by-point display of orbits.
+
+  [l]     Line toggle - connects orbits with lines (can use 
+                with <b>[c]</b>)
+
+  [n]     Numbers toggle - shows complex coordinates and color number of
+                the cursor on the screen. Press <b>[n] </b>again to 
+                turn off numbers.
+
+  [p]     Enter pixel coordinates directly
+
+  [h]     Hide fractal toggle. Works only if View Windows is turned on
+                and set for a small window (such as the default size.) Hides the
+                fractal, allowing the orbit to take up the whole screen. Press
+                <b>[h]</b> again to uncover the fractal.
+
+  [s]     Saves the fractal, cursor, orbits, and numbers as they  appear
+                on the screen.
+  [&lt] or [,]  Zoom orbits image smaller
+
+  [&gt] or [.]  Zoom orbits image larger
+
+  [z]     Restore default zoom.
+</pre>
+
+<p>
+<li>
+<b>
+<a name="view_wind_anchor">
+View Window
+</a>
+</b>
+<p>
+  The <b>[V]</b> command is used to set the view window parameters
+described below.  These parameters can be used to:
+<p>
+<ul>
+<li>
+   Define a small window on the screen which is to contain the generated
+     images. Using a small window speeds up calculation time (there are
+     fewer pixels to generate). You can use a small window to explore
+     quickly, then turn the view window off to recalculate the image at
+     full screen size.
+
+<p>
+<li>
+    Generate an image with a different 'aspect ratio'; e.g. in a square
+     window or in a tall skinny rectangle.
+<p>
+<li>
+    View saved GIF images which have pixel dimensions different from any
+     mode supported by your hardware. This use of view windows occurs
+     automatically when you restore such an image.
+
+</ul>
+<dl>
+<dt>
+<b>
+  'Preview display'
+</b>
+<dd>
+<p>
+  Set this to 'yes' to turn on view window, 'no' for full screen display.
+  While this is 'no', the only view parameter which has any affect is
+  'final media aspect ratio'. When a view window is being used, all other
+  Fractint functions continue to operate normally - you can zoom, color-
+  cycle, and all the rest.
+<p>
+<dt>
+<b>
+  'Reduction factor'
+</b>
+<dd>
+<p>
+  When an explicit size is not given, this determines the view window
+  size, as a factor of the screen size.  E.g. a reduction factor of 2
+  makes the window 1/2 as big as the screen in both dimensions.
+<p>
+<dt>
+<b>
+  'Final media aspect ratio'
+</b>
+<dd>
+<p>
+  This is the height of the final image you want, divided by the width.
+  The default is 0.75 because standard PC monitors have a height:width
+  ratio of 3:4. E.g. set this to 2.0 for an image twice as high as it is
+  wide. The effect of this parameter is visible only when 'preview
+  display' is enabled.
+<p>
+<dt>
+<b>
+  'Crop starting coordinates'
+</b>
+<dd>
+<p>
+  This parameter affects what happens when you change the aspect ratio. If
+  set to 'no', then when you change aspect ratio, the prior image will be
+  squeezed or stretched to fit into the new shape. If set to 'yes', the
+  prior image is 'cropped' to avoid squeezing or stretching.
+<p>
+<dt>
+<b>
+  'Explicit size'
+</b>
+<dd>
+<p>
+  Setting these to non-zero values over-rides the 'reduction factor' with
+  explicit sizes in pixels. If only the 'x pixels' size is specified, the
+  'y pixels' size is calculated automatically based on x and the aspect
+  ratio.
+<p>
+</dl>
+<p>
+  More about final aspect ratio:  If you want to produce a high quality
+  hard-copy image which is say 8&quot; high by 5&quot; down, based on a vertical
+  'slice' of an existing image, you could use a procedure like the
+  following. You'll need some method of converting a GIF image to your
+  final media (slide or whatever) - Fractint can only do the whole job
+  with a PostScript printer, it does not preserve aspect ratio with other
+  printers.
+<p>
+<ul>
+<li>
+<p>
+    restore the existing image
+<p>
+<li>
+    set view parameters: preview to yes, reduction to anything (say 2),
+    aspect ratio to 1.6, and crop to yes
+<p>
+<li>
+    zoom, rotate, whatever, till you get the desired final image
+<p>
+<li>
+    set preview display back to no
+<p>
+<li>
+    trigger final calculation in some high res disk video mode, using the
+    appropriate video mode function key
+<p>
+<li>
+    print directly to a PostScript printer, or save the result as a GIF
+    file and use external utilities to convert to hard copy.
+</ul>
+<p>
+<li>
+<b>
+<a name="video_key_anchor">
+Video Mode Function Keys
+</a>
+</b>
+<p>
+  Fractint supports *so* many video modes that we've given up trying to
+  reserve a keyboard combination for each of them.
+
+<p>
+  Any supported video mode can be selected by going to the 'Select Video
+  Mode' screen (from main menu or by using <b>[Delete]</b>), then using 
+the cursor up and down arrow keys and/or <b>[PageUp]</b> and 
+<b>[PageDown]</b> keys to highlight the desired mode, then pressing 
+<b>[Enter]</b>.
+
+<p>
+  Up to 39 modes can be assigned to the keys <b> F2-F10, SF1-SF10
+  [Shift] + [Fn]), CF1-CF10 ([Ctrl] + [Fn]), 
+and AF1-AF10 ([Alt] + [Fn])</b>.  The
+  modes assigned to function keys can be invoked directly by pressing the
+  assigned key, without going to the video mode selection screen.
+
+<p>
+  30 key combinations can be reassigned:  <b>[F1]</b> to <b>[F10]
+ </b> combined with any  of <b>[Shift], [Ctrl], or [Alt].</b>
+  The video modes assigned to <b>[F2] </b> through
+  <b>[F10]</b> can not be changed - these are assigned to the most 
+common video modes, which might be used in demonstration files or batches.
+
+<p>
+  To reassign a function key to a mode you often use, go to the 'select
+  video mode' screen, highlight the video mode, press the keypad (gray)
+  <b>[+]</b> key, then press the desired function key or key 
+combination.  The new key assignment will be remembered for future runs.
+
+<p>
+  To unassign a key (so that it doesn't invoke any video mode), highlight
+  the mode currently selected by the key and press the keypad (gray) 
+<b>[-]</b>
+  key.
+
+<p>
+  A note about the 'select video modes' screen: the video modes which are
+  displayed with a <b>[B]</b> suffix in the number of colors are modes which have
+  no custom programming - they use the BIOS and are S-L-O-W ones.
+
+<p>
+  See 
+<a href=
+"../../../tppmsgs/msgs24.htm#2444" tppabs="http://spanky.triumf.ca/www/fractint/hardware_modes.html#video_notes_anchor">
+'Video Adapter Notes' </a> for comments about particular
+  adapters.
+
+<p>
+  See 
+<a href=
+"../../../tppmsgs/msgs24.htm#2444" tppabs="http://spanky.triumf.ca/www/fractint/hardware_modes.html#disk_video_anchor">
+'Disk-Video' Modes </a> for a description of these non-display
+  modes.
+
+<p>
+  See 
+<a href=
+"../../../tppmsgs/msgs24.htm#2444" tppabs="http://spanky.triumf.ca/www/fractint/hardware_modes.html#custom_video_anchor">
+'Customized Video Modes, FRACTINT.CFG' </a> for information
+  about adding your own video modes.
+
+<p>
+<li>
+<b>
+<a name="browse_anchor"> 
+Browse Commands
+</a>
+</b>
+<p>
+  The following keystrokes function while browsing an image:
+
+<ul>
+<li><b>[ARROW KEYS]</b>  Step through the outlines on the screen.
+<li><b>  [ENTER]</b>   Selects the image to display.
+<li><b>  [\],[h]</b>  Recalls the last image selected.
+<li><b>  [D]</b>  Deletes the selected file.
+<li><b>  [R]</b>  Renames the selected file.
+<li><b>  [s]</b>  Saves the current image with the browser boxes displayed.
+<li><b>  [ESC] , [l] </b>  Toggles the browse mode off.
+<li><b>  [Ctrl-b]</b>  Brings up the 
+<a href="../../../tppmsgs/msgs23.htm#2315" tppabs="http://spanky.triumf.ca/www/fractint/browser_mode.html"> 
+Browser Parameters </a> screen.
+<li><b>  [Ctrl-Ins/Del] </b>   Change the browser boxes color.
+</ul>
+
+<p>
+  This is a 'visual directory', here is how it works...
+  When <b>[L]</b> or <b>[l]</b> is pressed from a fractal display the current 
+directory is searched for any saved files that are deeper zooms of the current
+  image and their position shown on screen by a box (or crosshairs if the
+  box would be too small). See also 
+<a href="../../../tppmsgs/msgs23.htm#2315" tppabs="http://spanky.triumf.ca/www/fractint/browser_mode.html">
+Browser Parameters </a> for more
+  on how this is done.
+
+<p>
+  One outline flashes, the selected outline can be changed by using the
+  cursor keys.  At the moment the outlines are selected in the order that
+  they appear in your directory, so don't worry if the flashing window
+  jumps all over the place!
+  When enter is pressed, the selected image is loaded. In this mode a
+  stack of the last sixteen selected filenames is maintained and the <b>[\]</b>
+  or <b>[h]</b> key pops and loads the last image you were looking at.  Using
+  this it is possible to set up sequences of images that allow easy
+  exploration of your favorite fractal without having to wait for recalc
+  once the level of zoom gets too high, great for demos! (also useful for
+  keeping track of just exactly where fract532.gif came from :-) )
+
+<p>
+  You can also use this facility to tidy up your disk: by typing UPPER
+  CASE <b>[D]</b> when a file is selected the browser will delete the file for
+  you, after making sure that you really mean it, you must reply to the
+  'are you sure' prompts with an UPPER CASE <b>[Y</b> and nothing else,
+  otherwise the command is ignored. Just to make absolutely sure you don't
+  accidentally wipe out the fruits of many hours of cpu time the default
+  setting is to have the browser prompt you twice, you can disable the
+  second prompt within the parameters screen, however, if you're feeling
+  overconfident :-).
+
+<p>
+  To complement the Delete function there is a rename function, use the
+  UPPER CASE <b>[R]</b> key for this. You need to enter the FULL new file name,
+  no .GIF is implied.
+
+<p>
+  It is possible to save the current image along with all of the displayed
+  boxes indicating subimages by pressing the <b>[s]</b> key.  This exits the
+  browse mode to save the image and the boxes become a permanent part of
+  the image.  Currently, the screen image ends up with stray dots colored
+  after it is saved.
+
+<p>
+  Esc backs out of image selecting mode.
+
+<p>
+  The browser can now use expanded memory or extended memory.  If you have
+  more than 4 MB of expanded/extended memory available, you can use
+  either.  If you don't have 4 MB of expanded/extended memory available,
+  use expanded memory as it will allocate as much as possible.  The
+  extended memory support will silently fail and default to the use of far
+  memory if 4 MB of extended memory is not available.
+
+<p>
+  Here's a tip on how to zoom out beyond your starting point when
+  browsing: Suppose you restore a fractal deeply-zoomed down in a
+  directory of related zoomed images, and then bring up the browser.  How
+  do you zoom out? You can't use &quot;\&quot; because you started with 
+the zoomed image, and there is no browser command to detect the next outer 
+image.
+  What you can do is exit the browser, press PgUp until the zoom box won't
+  get any smaller, zoom out with Ctrl-Enter, and before any image starts
+  to develop, call up the browser again, locate your zoomed image that you
+  started with, and see if there is another image that contains it - if
+  so, restore it with the browser.You can also use a view window <b>[v]</b>
+  to load the first image, and then use the browser.
+
+                                       
+<p>
+  POSSIBLE ERRORS:
+
+<p>
+  'Sorry..I can't find anything'
+  The browser can't locate any files which match the file name mask.  See
+<a href="../../../tppmsgs/msgs23.htm#2315" tppabs="http://spanky.triumf.ca/www/fractint/browser_mode.html">
+  Browser Parameters </a> This is also displayed if you have less
+  than 10K of far memory free when you run Fractint.
+
+<p>
+  'Sorry....  no more space'
+  At the moment the browser can only cope with 450 sub images at one time.
+  Any subsequent images are ignored, make sure that the minimum image size
+  isn't set too small on the parameters screen.
+
+<p>
+  'Sorry .... out of memory'
+  The browser has run out of far, expanded, or extended memory in which to
+  store the pixels covered by the sub image boxes.  Try again with the
+  main image at lower resolution, and/or reduce the number of TSRs
+  resident in memory when you start Fractint.  Make sure you have expanded
+  or extended memory available.
+
+<p>
+  'Sorry...it's a read only file, can't del <b>[filename]</b>'<br>
+  'Sorry....can't rename'<br>
+  The file which you were trying to delete or rename has the read only
+  attribute set, you'll need to reset this with your operating system
+  before you can get rid of it.
+
+
+<p>
+<li>
+<b>
+<a name="rds_anchor">
+RDS Commands
+</a>
+</b>
+<p>
+  The following keystrokes function while viewing an RDS image:
+
+<p>
+<pre>
+  [Enter] or [Space]   -- Toggle calibration bars on and off.
+  [Ctrl-s] or [k]      -- Return to RDS Parameters Screen.
+  [s]                        -- Save RDS image, then restore original.
+  [c], [+], [-]  -- Color cycle RDS image.
+  Other keys           -- Exit RDS mode, restore original image, and pass
+                          keystroke on to main menu.
+</pre>                          
+<p>
+  For more about RDS, see 
+<a href="../../../tppmsgs/msgs23.htm#2304" tppabs="http://spanky.triumf.ca/www/fractint/rds.html">
+Random Dot Stereograms (RDS)</a>
+</ol>
+
+<p>
+<HR>
+<b>
+Back to
+<a href="FRACTI~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/fractint.html">
+The Fractint Home Page.</a>
+or back to
+<a href="FINDEX~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/findex.html">
+The Fractint Index Page.</a>
+</b>
+<HR>
+<b>This page maintained by</b>
+<address>
+Noel Giffin, <a href="../../../tppmsgs/msgs17.htm#1707" tppabs="http://www.triumf.ca/">TRIUMF</a><br>
+noel@triumf.ca
+</address>
+</body>
+</html>
+

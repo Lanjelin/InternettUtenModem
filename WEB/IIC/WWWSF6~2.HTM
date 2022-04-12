@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>WWW Security FAQ: Server Logs and Privacy</title>
+</head>
+
+<body>
+<H1>The World Wide Web Security FAQ</H1>
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF5~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html">Backward to <cite>Safe Scripting in Perl</cite></a>
+  <li><A HREF="WWWSF7~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html">Forward to <cite>Client-Side Security</cite></a>
+</ul>
+<HR>
+
+<H1><A NAME="privacy">8. Server Logs and Privacy</A></H1>
+
+(Thanks to <A HREF="mailto:bagwill@kangaroo.ncsl.nist.gov">Bob
+Bagwill</A> who contributed many of the Q&A's in this section)
+
+<H2><A NAME="Q49">Q49: What information do readers reveal that they might want to keep
+private?</A></H2>
+
+<p> Most servers log every access.  The log usually includes the IP
+address and/or host name, the time of the download, the user's name
+(if known by user authentication or obtained by the identd protocol),
+the URL requested (including the values of any variables from a form
+submitted using the GET method), the status of the request, and the
+size of the data transmitted.  Some browsers also provide
+the client the reader is using, the URL that the client came from,
+and the user's e-mail address.  Servers can log this information as
+well, or make it available to CGI scripts.  Most WWW
+clients are probably run from single-user machines, thus a download
+can be attributed to an individual.  Revealing any of those datums
+could be potentially damaging to a reader.
+
+<p>
+For example, XYZ.com downloading financial reports on ABC.com could
+signal a corporate takeover.  The accesses to a internal job posting
+reveals who might be interested in changing jobs.  The time a cartoon
+was downloaded reveals that the reader is misusing company resources.  A
+referral log entry might contain something like:
+
+<pre>
+ file://prez.xyz.com/hotlists/stocks2sellshort.html -&gt; http://www.xyz.com/
+</pre>
+
+<p>
+The pattern of accesses made by an individual can reveal how they intend
+to use the information.  And the input to searches can be particularly
+revealing.
+
+<p>
+Another way Web usage can be revealed locally is via browser history,
+hotlists, and cache.  If someone has access to the reader's machine,
+they can check the contents of those databases.  An obvious example
+is shared machines in an open lab or public library.
+
+<p> Proxy servers used for access to Web services outside an
+organization's firewall are in a particularly sensitive position.  A
+proxy server will log every access to the outside Web made by every
+member of the organization and track both the IP number of the host
+making the request and the requested URL.  A carelessly managed proxy
+server can therefore represent a significant invasion of privacy.
+
+<HR>
+
+<H2><A NAME="Q50">Q50: Do I need to respect my readers' privacy?</A></H2>
+
+Yes.  One of the requirements of responsible net citizenship is
+respecting the privacy of others.  Just as you don't forward or post
+private email without the author's consent,  in general you shouldn't
+use or post Web usage statistics that be attributed to an individual.
+
+<p>
+If you are a government site, you may be required by law to protect the
+privacy of your readers.  For example, U.S. Federal agencies are not
+allowed to collect or publish many types of data about their clients.
+
+<p> In most U.S. states, it is illegal for libraries and video stores
+to sell or otherwise distribute records of the materials that patrons
+have checked out.  While the courts have yet to apply the same legal
+standard to be applied to electronic information services, it is not
+unreasonable for users to have the same expectation of privacy on the
+Web.  In other countries, for example Germany, the law explicitly
+forbids the disclosure of online access lists.  If your site chooses
+to use the Web logs to populate your mailing lists or to resell to
+other businesses, make sure you clearly advertise that fact.
+
+<HR>
+
+<H2><A NAME="Q51">Q51: How do I avoid collecting too much information?</A></H2>
+
+One of the requirements of your Web site may be to collect statistics on
+usage to provide data to the organization and to justify Web site
+resources.  In general, collecting information about accesses by
+individuals is probably not warranted or even useful.
+
+<p>
+The easiest way to avoid collecting too much information is to use a
+server that allows you to tailor the output logs, so that you can throw
+away everything but the essentials.  Another way is to regularly
+summarize and discard the raw logs.  Since the logs of popular sites
+tend to grow quickly, you probably will need to do that anyway.
+
+<HR>
+
+<H2><A NAME="Q52">Q52: How do I protect my readers' privacy?</A></H2>
+
+There are two classes of readers: outsiders reading your
+documents, and insiders reading your documents and outside documents.
+
+<p>
+You can protect outsiders by summarizing your logs.  You can
+help protect insiders by:
+
+<OL>
+  <LI> having a clear site policy on Web usage.
+  <LI> educating them about the site policy and risks of Web usage.
+  <LI> using a site-wide proxy cache to hide the identity of individual
+   hosts from outside servers.
+</OL>
+<p>
+If your site does not want to reveal certain Web accesses from your
+site's domain, you may need to get Web client accounts from another
+Internet provider that can provide anonymous access.
+
+<HR>
+
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF5~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf5.html">Backward to <cite>Safe Scripting in Perl</cite></a>
+  <li><A HREF="WWWSF7~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf7.html">Forward to <cite>Client-Side Security</cite></a>
+</ul>
+<HR>
+<address>Lincoln D. Stein, lstein@genome.wi.mit.edu<br>
+<a href="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">Whitehead Institute/MIT Center for Genome Research</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 19 23:12:13 MET 1996
+<!-- hhmts end -->
+</body> </html>

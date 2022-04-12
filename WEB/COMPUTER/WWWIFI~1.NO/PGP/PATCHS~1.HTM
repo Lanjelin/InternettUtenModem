@@ -1,0 +1,608 @@
+<html>
+<head>
+<title>PGP 2.6.3ia patches</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h1>PGP 2.6.3ia patches</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif">
+<p>
+The following patches correct a few minor problems in the PGP 2.6.3(i)
+release. The most important changes are:
+
+<ol>
+  <li>Better recognition of text/binary files; no line length limits. You can
+      now clearsign text messages that lack hard returns at the end of each line
+      (common with Mac and Windows).
+      Note, however, that you should not send such messages through email, as you
+      cannot be sure that they will be intact.<p>
+  <li>Smoother compilation on some platforms:
+      <ul>
+        <li>Eliminated all references to strdup() and strncasecmp()
+        <li>Included a couple of missing prototype headers
+        <li>Added a few type casts for incompatible data types
+      </ul><p>
+  <li>Changed default charset on OS/2 to cp850, as it should be.
+</ol>
+
+<b><i>Note:</i></b> If you <a href="DOWNLO~1.HTM" tppabs="http://www.ifi.uio.no/pgp/download.shtml">download PGP 2.6.3i from this
+site</a>, then you don't need these patches, as they are already included. The
+patches are produced using the Unix 'diff' utility. In order to apply the changes,
+you must get the PGP 2.6.3i source code, modify it (either manually or using the
+Unix 'patch' utility), and then recompile.
+<p>
+<hr>
+<p>
+<pre>
+*** $(SRC)/pgp263i.orig/src/charset.c	Wed Jan 10 15:18:41 1996
+--- charset.c	Sun Feb  4 16:32:01 1996
+***************
+*** 259,265 ****
+  /* End of Russian section */
+  
+  #ifndef	DEFAULT_CSET
+! #if defined(MSDOS)
+  #define DEFAULT_CSET    "cp850"
+  #elif defined(NEXT)
+  #define	DEFAULT_CSET	"next"
+--- 259,265 ----
+  /* End of Russian section */
+  
+  #ifndef	DEFAULT_CSET
+! #if defined(MSDOS) || defined(OS2)
+  #define DEFAULT_CSET    "cp850"
+  #elif defined(NEXT)
+  #define	DEFAULT_CSET	"next"
+
+
+*** $(SRC)/pgp263i.orig/src/fileio.c	Sat Jan  6 20:45:50 1996
+--- fileio.c	Mon Mar  4 11:14:45 1996
+***************
+*** 590,605 ****
+  
+  char *buildsysfilename(char *result, char *fname)
+  {
+-     buildfilename(result, fname);
+  #ifdef PGP_SYSTEM_DIR
+-     if (file_exists(result))
+- 	return result;
+      strcpy(result, PGP_SYSTEM_DIR);
+      strcat(result, fname);
+      if (file_exists(result))
+  	return result;
+-     buildfilename(result, fname);	/* Put name back for error */
+  #endif
+      return result;
+  }
+  
+--- 590,602 ----
+  
+  char *buildsysfilename(char *result, char *fname)
+  {
+  #ifdef PGP_SYSTEM_DIR
+      strcpy(result, PGP_SYSTEM_DIR);
+      strcat(result, fname);
+      if (file_exists(result))
+  	return result;
+  #endif
++     buildfilename(result, fname);	/* Put name back for error */
+      return result;
+  }
+  
+***************
+*** 1044,1059 ****
+          c = *bufptr++;
+          if (c == '\n' || c == '\r')
+              lfctr=0;
+!         else /* allow BEL BS HT LF VT FF CR EOF control characters */
+          {
+  #ifdef EBCDIC
+! 	    if (iscntrl(c) && c!=BEL && c!=BS && c!=HT && c!=LF && c!=VT && c!=FF && c!=CR && c!=EOF)
+  #else
+!             if (c < '\007' || (c > '\r' && c < ' ' && c != '\032'))
+  #endif
+                  return FALSE;  /* not a text file */
+              lfctr++;
+!             if (lfctr>132) return FALSE; /* line too long. Not a text file*/
+          }
+      }
+      return TRUE;
+--- 1041,1056 ----
+          c = *bufptr++;
+          if (c == '\n' || c == '\r')
+              lfctr=0;
+!         else /* allow BEL BS HT LF VT FF CR EOF ESC control characters */
+          {
+  #ifdef EBCDIC
+! 	    if (iscntrl(c) && c!=BEL && c!=BS && c!=HT && c!=LF && c!=VT && c!=FF && c!=CR && c!=EOF && c!=ESC)
+  #else
+!             if (c < '\007' || (c > '\r' && c < ' ' && c != '\032' && c != '\033'))
+  #endif
+                  return FALSE;  /* not a text file */
+              lfctr++;
+! /*          if (lfctr>132) return FALSE; /* line too long. Not a text file */
+          }
+      }
+      return TRUE;
+
+
+*** $(SRC)/pgp263i.orig/src/keymaint.c	Tue Jan  2 15:12:59 1996
+--- keymaint.c	Sat Feb 17 15:04:52 1996
+***************
+*** 118,124 ****
+  static void maint_init_mem(void);
+  static void maint_release_mem(void);
+  static VOID *allocn(int size);
+- static char *store_str(char *str);
+  static VOID *allocbuf(int size);
+  static void freebufpool(void);
+  static void compute_legit(struct userid *id);
+--- 118,123 ----
+***************
+*** 1400,1406 ****
+  
+  #define	HASH_ALLOC	(ALLOC_UNIT / sizeof(struct hashent))
+  
+- static char *store_str(char *str);
+  static VOID *allocbuf(int size);
+  static void freebufpool();
+  
+--- 1399,1404 ----
+***************
+*** 1574,1580 ****
+  /*
+   * store_str does the same as strdup(), but allocates memory with allocbuf()
+   */
+! static char *
+   store_str(char *str)
+  {
+      int size = strlen(str) + 1;
+--- 1572,1578 ----
+  /*
+   * store_str does the same as strdup(), but allocates memory with allocbuf()
+   */
+! char *
+   store_str(char *str)
+  {
+      int size = strlen(str) + 1;
+
+
+*** $(SRC)/pgp263i.orig/src/keymaint.h	Sun Oct 22 15:55:01 1995
+--- keymaint.h	Sat Feb 17 14:34:02 1996
+***************
+*** 46,51 ****
+--- 46,52 ----
+  void endkrent(void);
+  int init_userhash(void);
+  
++ char *store_str(char *str);
+  
+  extern char trust_lst[8][16];
+
+
+*** $(SRC)/pgp263i.orig/src/keymgmt.c	Mon Jan  8 13:05:09 1996
+--- keymgmt.c	Sat Feb 17 15:40:33 1996
+***************
+*** 1096,1102 ****
+  	if (++guesses > 3)
+  	    hidekey = 0;
+  	else
+! 	    hidekey = (GetHashedPassPhrase(ideakey, 1) > 0);
+  	/*
+  	 * We've already tried the null password - interpret
+  	 * a null string as "I dunno".
+--- 1096,1102 ----
+  	if (++guesses > 3)
+  	    hidekey = 0;
+  	else
+! 	    hidekey = (GetHashedPassPhrase((char *)ideakey, 1) > 0);
+  	/*
+  	 * We've already tried the null password - interpret
+  	 * a null string as "I dunno".
+***************
+*** 2538,2544 ****
+  
+      fprintf(pgpout, LANG("\nDo you want to change your pass phrase (y/N)? "));
+      if (getyesno('n')) {	/* user said yes */
+! 	hidekey = (GetHashedPassPhrase((byte *) ideakey, 2) > 0);
+  	changed = TRUE;
+      }
+      if (!changed) {
+--- 2538,2544 ----
+  
+      fprintf(pgpout, LANG("\nDo you want to change your pass phrase (y/N)? "));
+      if (getyesno('n')) {	/* user said yes */
+! 	hidekey = (GetHashedPassPhrase((char *)ideakey, 2) > 0);
+  	changed = TRUE;
+      }
+      if (!changed) {
+***************
+*** 2805,2811 ****
+      fputs(LANG("\nYou need a pass phrase to protect your RSA secret key.\n\
+  Your pass phrase can be any sentence or phrase and may have many\n\
+  words, spaces, punctuation, or any other printable characters.\n"), pgpout);
+!     hidekey = (GetHashedPassPhrase(ideakey, 2) > 0);
+      /* init CFB IDEA key */
+  #ifdef MACTC5
+      if (Abort)
+--- 2805,2811 ----
+      fputs(LANG("\nYou need a pass phrase to protect your RSA secret key.\n\
+  Your pass phrase can be any sentence or phrase and may have many\n\
+  words, spaces, punctuation, or any other printable characters.\n"), pgpout);
+!     hidekey = (GetHashedPassPhrase((char *)ideakey, 2) > 0);
+      /* init CFB IDEA key */
+  #ifdef MACTC5
+      if (Abort)
+
+
+*** $(SRC)/pgp263i.orig/src/passwd.c	Tue Jan  2 15:14:34 1996
+--- passwd.c	Sun Feb  4 15:04:01 1996
+***************
+*** 76,81 ****
+--- 76,82 ----
+  		noecho = 0;
+  	for (;;) {
+  		fprintf(pgpout,LANG("\nEnter pass phrase: "));
++                 fflush(pgpout);
+  #ifdef AMIGA
+                  requesterdesc=LANG("\nEnter pass phrase: ");
+  #endif
+
+
+*** $(SRC)/pgp263i.orig/src/pgp.c	Thu Jan 18 18:06:45 1996
+--- pgp.c	Mon Mar  4 11:25:03 1996
+***************
+*** 100,105 ****
+--- 100,106 ----
+     Version 2.6.2 - 11 Oct 94
+     Version 2.6.2i - 7 May 95
+     Version 2.6.3(i) - 18 Jan 96
++    Version 2.6.3(i)a - 4 Mar 96
+  
+   */
+  
+***************
+*** 112,131 ****
+  #include <stdlib.h>
+  #include <string.h>
+  
+- /* Hack to get strncasecmp to work */
+- #if defined(WIN32)
+- #define strncasecmp _strnicmp
+- #elif defined(AMIGA) || defined(OS2) || defined(__PUREC__)
+- #define strncasecmp strnicmp
+- #elif defined(MSDOS)
+- #  if defined(__TURBOC__)
+- #  define strncasecmp strncmpi
+- #  else /* MSC */
+- #  define strncasecmp strnicmp
+- #  endif
+- #endif
+- 
+  #ifdef UNIX
+  #include <sys/stat.h>
+  #endif
+  
+--- 113,120 ----
+  #include <stdlib.h>
+  #include <string.h>
+  
+  #ifdef UNIX
++ #include <sys/types.h>
+  #include <sys/stat.h>
+  #endif
+  
+***************
+*** 168,174 ****
+  char *Outputfile = NULL;
+  void check_expiration_date(void);
+  #define BEST -1
+- #define strncasecmp strncmpi
+  #define exit Exit
+  void Exit(int x);
+  #endif
+--- 157,162 ----
+***************
+*** 198,204 ****
+    * compiler flags.
+    */
+  #ifdef USA
+! static const char __DOSVer[] = "$VER: PGP 2.6.3 (18.01.96)"
+  #  ifdef _M68020
+          " Amiga 68020 version by Rob Knop <rknop@mop.caltech.edu>";
+  #  else
+--- 186,192 ----
+    * compiler flags.
+    */
+  #ifdef USA
+! static const char __DOSVer[] = "$VER: PGP 2.6.3a (04.03.96)"
+  #  ifdef _M68020
+          " Amiga 68020 version by Rob Knop <rknop@mop.caltech.edu>";
+  #  else
+***************
+*** 205,211 ****
+          " Amiga 68000 version by Rob Knop <rknop@mop.caltech.edu>";
+  #  endif
+  #else
+! static const char __DOSVer[] = "$VER: PGP 2.6.3i (18.01.96)"
+  #  ifdef _M68020
+          " Amiga 68020 version by Peter Simons <simons@peti.rhein.de>";
+  #  else
+--- 193,199 ----
+          " Amiga 68000 version by Rob Knop <rknop@mop.caltech.edu>";
+  #  endif
+  #else
+! static const char __DOSVer[] = "$VER: PGP 2.6.3ia (04.03.96)"
+  #  ifdef _M68020
+          " Amiga 68020 version by Peter Simons <simons@peti.rhein.de>";
+  #  else
+***************
+*** 216,226 ****
+  
+  /* Global filenames and system-wide file extensions... */
+  #ifdef USA
+! char rel_version[] = _LANG("2.6.3");	/* release version */
+  #else
+! char rel_version[] = _LANG("2.6.3i");	/* release version */
+  #endif
+! char rel_date[] = "1996-01-18";		/* release date */
+  char PGP_EXTENSION[] = ".pgp";
+  char ASC_EXTENSION[] = ".asc";
+  char SIG_EXTENSION[] = ".sig";
+--- 204,214 ----
+  
+  /* Global filenames and system-wide file extensions... */
+  #ifdef USA
+! char rel_version[] = _LANG("2.6.3a");	/* release version */
+  #else
+! char rel_version[] = _LANG("2.6.3ia");	/* release version */
+  #endif
+! char rel_date[] = "1996-03-04";		/* release date */
+  char PGP_EXTENSION[] = ".pgp";
+  char ASC_EXTENSION[] = ".asc";
+  char SIG_EXTENSION[] = ".sig";
+***************
+*** 260,279 ****
+  
+     27-Jun-95 simons@peti.rhein.de (Peter Simons)
+     Added support for lh5 archive as generated by Lha. Unfortunately,
+!    Lha requires special treatment also. I inserted the check right
+     _before_ lharc, because lh5/lha is a special type of an lharc
+     archive.
+   */
+  static char *compressSig[] =
+! {"PK\03\04", "ZOO ", "GIF8", "\352\140",
+   "HPAK", "\037\213", "\037\235", "\032\013", "\032HP%"
+  	/* lharc is special, must be last */ };
+  static char *compressName[] =
+! {"PKZIP", "Zoo", "GIF", "Arj",
+   "Hpack", "gzip", "compressed", "PAK", "Hyper",
+   "Lha", "Lharc"};
+  static char *compressExt[] =
+! {".zip", ".zoo", ".gif", ".arj",
+   ".hpk", ".gz", ".Z", ".pak", ".hyp",
+   ".lha", ".lzh"};
+  
+--- 248,267 ----
+  
+     27-Jun-95 simons@peti.rhein.de (Peter Simons)
+     Added support for lh5 archive as generated by Lha. Unfortunately,
+!    lh5 requires special treatment also. I inserted the check right
+     _before_ lharc, because lh5/lha is a special type of an lharc
+     archive.
+   */
+  static char *compressSig[] =
+! {"PK\03\04", "ZOO ", "GIF8", "\352\140", "Rar!",
+   "HPAK", "\037\213", "\037\235", "\032\013", "\032HP%"
+  	/* lharc is special, must be last */ };
+  static char *compressName[] =
+! {"PKZIP", "Zoo", "GIF", "Arj", "RAR",
+   "Hpack", "gzip", "compressed", "PAK", "Hyper",
+   "Lha", "Lharc"};
+  static char *compressExt[] =
+! {".zip", ".zoo", ".gif", ".arj", ".rar",
+   ".hpk", ".gz", ".Z", ".pak", ".hyp",
+   ".lha", ".lzh"};
+  
+***************
+*** 723,730 ****
+       */
+      opt = 0;			/* Number of config files read */
+  #ifdef PGP_SYSTEM_DIR
+!     strcpy(mcguffin, PGP_SYSTEM_DIR);
+!     strcat(mcguffin, "config.txt");
+      if (access(mcguffin, 0) == 0) {
+  	opt++;
+  	/*
+--- 711,721 ----
+       */
+      opt = 0;			/* Number of config files read */
+  #ifdef PGP_SYSTEM_DIR
+! #ifdef UNIX
+!     buildsysfilename(mcguffin, ".pgprc");
+!     if (access(mcguffin, 0) != 0)
+! #endif
+!     buildsysfilename(mcguffin, "config.txt");
+      if (access(mcguffin, 0) == 0) {
+  	opt++;
+  	/*
+***************
+*** 800,806 ****
+  	 * NOTE: this does not work with GNU getopt, use getopt.c from
+  	 * the PGP distribution.
+  	 */
+! 	if ((!strncasecmp(argv[optind], INCLUDE_MARK, INCLUDE_MARK_LEN)) ||
+             ((opt = pgp_getopt(argc, argv, OPTIONS)) == EOF)) {
+  	    if (optind == argc)	/* -- at end */
+  		break;
+--- 791,797 ----
+  	 * NOTE: this does not work with GNU getopt, use getopt.c from
+  	 * the PGP distribution.
+  	 */
+! 	if ((!strncmp(argv[optind], INCLUDE_MARK, INCLUDE_MARK_LEN)) ||
+             ((opt = pgp_getopt(argc, argv, OPTIONS)) == EOF)) {
+  	    if (optind == argc)	/* -- at end */
+  		break;
+***************
+*** 908,914 ****
+  	    /* '+' special option: does not require - */
+  	case '+':
+  	    if (processConfigLine(optarg) == 0) {
+!                 if (!strncasecmp(optarg,"charset",7))
+                      init_charset();
+  		break;
+  	    }
+--- 899,905 ----
+  	    /* '+' special option: does not require - */
+  	case '+':
+  	    if (processConfigLine(optarg) == 0) {
+!                 if (!strncmp(optarg,"CH",2)) /* CHARSET */
+                      init_charset();
+  		break;
+  	    }
+***************
+*** 2866,2872 ****
+  
+   	/* Check whether we need to do something or not. */
+   	while(*recipients) {
+!  		if (!strncasecmp(*recipients, INCLUDE_MARK, INCLUDE_MARK_LEN))
+   		    break;
+   		recipients++;
+   	}
+--- 2857,2863 ----
+  
+   	/* Check whether we need to do something or not. */
+   	while(*recipients) {
+!  		if (!strncmp(*recipients, INCLUDE_MARK, INCLUDE_MARK_LEN))
+   		    break;
+   		recipients++;
+   	}
+***************
+*** 2879,2885 ****
+   	entrynum = 0;
+  
+   	while(*recipients) {
+!  		if (strncasecmp(*recipients, INCLUDE_MARK, INCLUDE_MARK_LEN))
+                  {
+   			new[entrynum++] = *recipients++;
+   			if (entrynum == MAX_RECIPIENTS) {
+--- 2870,2876 ----
+   	entrynum = 0;
+  
+   	while(*recipients) {
+!  		if (strncmp(*recipients, INCLUDE_MARK, INCLUDE_MARK_LEN))
+                  {
+   			new[entrynum++] = *recipients++;
+   			if (entrynum == MAX_RECIPIENTS) {
+***************
+*** 2919,2925 ****
+   				tempbuf[i] = '\0';
+  
+   				/* Copy new entry to new */
+!  				if (!(new[entrynum++] = strdup(tempbuf)))
+   				  exitPGP(OUT_OF_MEM);
+   				if (entrynum == MAX_RECIPIENTS) {
+   					/* Current buffer is too small.
+--- 2910,2916 ----
+   				tempbuf[i] = '\0';
+  
+   				/* Copy new entry to new */
+!  				if (!(new[entrynum++] = store_str(tempbuf)))
+   				  exitPGP(OUT_OF_MEM);
+   				if (entrynum == MAX_RECIPIENTS) {
+   					/* Current buffer is too small.
+
+
+*** $(SRC)/pgp263i.orig/src/zdeflate.c	Wed Sep 27 20:17:40 1995
+--- zdeflate.c	Sat Feb 17 14:48:47 1996
+***************
+*** 467,473 ****
+              start, match, length);
+          error("invalid match");
+      }
+!     if (verbose > 1) {
+          fprintf(stderr,"\\[%d,%d]", start-match, length);
+          /* putc a macro, not safe to modify args!! */
+          do { putc(slide[start], stderr); start++; } while (--length!=0);
+--- 467,473 ----
+              start, match, length);
+          error("invalid match");
+      }
+!     if (verbose) {
+          fprintf(stderr,"\\[%d,%d]", start-match, length);
+          /* putc a macro, not safe to modify args!! */
+          do { putc(slide[start], stderr); start++; } while (--length!=0);
+
+
+*** $(SRC)/pgp263i.orig/src/zip.h	Wed Sep 27 20:18:52 1995
+--- zip.h	Sat Feb 17 15:05:31 1996
+***************
+*** 83,89 ****
+  
+  /* Diagnostic functions */
+  #ifdef DEBUG
+!   extern char verbose;	/* PGP -l flag */
+  # ifdef MSDOS
+  #  undef  stderr
+  #  define stderr stdout
+--- 83,89 ----
+  
+  /* Diagnostic functions */
+  #ifdef DEBUG
+!   extern unsigned char verbose;	/* PGP -l flag */
+  # ifdef MSDOS
+  #  undef  stderr
+  #  define stderr stdout
+***************
+*** 92,100 ****
+  #  define Assert(cond,msg) {if(!(cond)) error(msg);}
+  #  define Trace(x) fprintf x
+  #  define Tracev(x) {if (verbose) fprintf x ;}
+! #  define Tracevv(x) {if (verbose>1) fprintf x ;}
+  #  define Tracec(c,x) {if (verbose && (c)) fprintf x ;}
+! #  define Tracecv(c,x) {if (verbose>1 && (c)) fprintf x ;}
+  #else
+  #  define diag(where)
+  #  define Assert(cond,msg)
+--- 92,100 ----
+  #  define Assert(cond,msg) {if(!(cond)) error(msg);}
+  #  define Trace(x) fprintf x
+  #  define Tracev(x) {if (verbose) fprintf x ;}
+! #  define Tracevv(x) {if (verbose) fprintf x ;}
+  #  define Tracec(c,x) {if (verbose && (c)) fprintf x ;}
+! #  define Tracecv(c,x) {if (verbose && (c)) fprintf x ;}
+  #else
+  #  define diag(where)
+  #  define Assert(cond,msg)
+
+
+*** $(SRC)/pgp263i.orig/src/ztrees.c	Mon Jun 26 20:43:46 1995
+--- ztrees.c	Sat Feb 17 14:49:00 1996
+***************
+*** 312,318 ****
+  
+  #else /* DEBUG */
+  #  define send_code(c, tree) \
+!      { if (verbose>1) fprintf(stderr,"\ncd %3d ",(c)); \
+         send_bits(tree[c].Code, tree[c].Len); }
+  #endif
+  
+--- 312,318 ----
+  
+  #else /* DEBUG */
+  #  define send_code(c, tree) \
+!      { if (verbose) fprintf(stderr,"\ncd %3d ",(c)); \
+         send_bits(tree[c].Code, tree[c].Len); }
+  #endif
+</pre>
+<p>
+
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" width=31 height=31 border=0></a>
+<font size=-1>Last updated
+
+February  5, 1997
+by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt;
+</font></address>
+</body>
+</html>

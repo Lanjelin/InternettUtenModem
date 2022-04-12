@@ -1,0 +1,161 @@
+
+From bobrankin@mhv.net Sat Jun 22 11:48:58 1996
+Date: Sat, 22 Jun 1996 08:01:59 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 20 June 1996 - Virtual Reality
+
+Hi All, Patrick asked me to forward this...   -Bob
+
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /  Looking for some good, clean chat on the internet?  |//////|    |
+ |  WorldVillage Chat always has friendly folks, great  |//////|    |
+ |  conversation, and special games six nights a week!  |//////|    |
+ |  http://www.worldvillage.com/wv/chat/html/chat.htm   |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : Virtual Reality Stuff
+TODAY'S TOURBUS ADDRESS : Lots!
+
+
+If you are subscribed to either the advanced HTML list (ADV-HTML)
+or the Roadmap96 beta test list (MAPBETA), you will have already
+heard about the absolute nightmare experience I have had this week
+upgrading my Apple Macintosh Powerbook from System 7.5.2 to System
+7.5.3.  Just when I thought that I had fixed my problems, my
+computer once again crashed. :(
+
+So, I decided to head home to my parent's house in Decatur, Alabama
+("soon to be the world's cleanest city"), so that I could use their
+computer to send out today's TOURBUS ... better late than never.
+Actually, I am proud to announce that besides commandeering my
+parent's computer, I have also convinced my dad to guest write
+today's TOURBUS post.  So, without further ado, here is my daddy:
+
+-----
+
+"Hey, that's almost real!"
+
+Virtual reality (VR).  Long the expensive toy of rich corporate
+R&D departments and aspiring artists who forked over the rent money
+for technology that didn't quite work, VR has managed to sneak up on
+us.  It's here.  Well, almost.
+
+No, we're not talking about inserting a network connection directly
+into your brain, or even buying the latest VR body suit at the price
+of a small car.  If you're willing to look through a window into the
+virtual world, you can do it today.  The window is the monitor on your
+computer, and the virtual world is any of literally hundreds of
+virtual worlds that have sprung up thanks to Virtual Reality Modeling
+Language (VRML).
+
+These are 3-dimensional (3D) worlds that you can move through.  Where
+you can bump into walls and not fall through floors.  Where objects move
+and you can click on an object to visit another world.  And where you
+can have an avatar (a 3D character that others can see that represents
+you, but thinner and better looking) that interacts with other avatars
+and with objects in the world.  You can push buttons and open doors
+and hear music (that gets louder as you "walk" toward the instrument
+that's playing).
+
+You can get part of this capability on your desk today, and before the
+year is out, you'll get the rest.  Here's the scorecard.  Walking through
+worlds: here today.  Walls that you can't walk through: today.  Moving
+objects: here today, but going to move far more interestingly tomorrow.
+Avatars: here today (on a couple of experimental sites).  Objects that
+react when you approach or touch them: today in a couple of applications.
+Sound: probably next month.
+
+OK, where do you get it?  Well, virtually (yuk, yuk) all the VRML
+browsers use Netscape or Internet Explorer to display the world and to
+handle the messy details like networking.  Some of them are plug-ins
+and some are helpers, but you don't care about that.
+
+So the first place to look is on the sites for Netscape Navigator and
+Internet Explorer:
+
+   http://home.netscape.com/comprod/products/navigator/live3d/index.html and
+   http://www.microsoft.com/ie/addons/vrml.htm
+
+That probably takes care of the majority of the Tourbus riders who
+have graphical web browsers.  If you prefer another browser, don't
+panic.  We'll have a place for you to look in a minute.
+
+The two plug-ins (Live3D and VRML Add-In for Internet Explorer) will
+get you up and running.  Even though they're free, we Tourbus tourguides
+make a practice of *never* recommending specific products, except of
+course...
+
+*----------------*  Unlock the Secret of Your Dreams *-----------------*
+ This deluxe 5 lesson course delivered via the Web will empower you to
+ interpret your dreams on your own and in electronic discussion groups.
+ Dr.  Jayne Gackenbach, a leader and highly sought speaker in the field
+ of dream research is your instructor in the next course, starting July
+ 8th!  This $129 course is being offered at a low introductory price of
+ $39 (US) or $49 (Canadian).  Register today - space is limited.
+*------------------( http://www.outreach.org/dreams )------------------*
+
+Where were we?  Oh, yeah.  We aren't endorsing either product; we just
+know that they'll basically work.  You may decide to stay with them, or
+you may want to go to:
+
+   http://www.sdsc.edu/SDSC/Partners/vrml/software/browsers.html
+
+the immense list of VRML browsers kept at the VRML repository at the
+San Diego Supercomputer Center (SDSC).
+
+OK, we've found the browser, waited for hours while it downloads,
+puzzled our way through the installation instructions, and finally
+we're ready to use it.  Let's find some virtual worlds.  I have
+a little list of my own at:
+
+   http://hiwaay.net/~crispen/vrml/worlds.html
+
+SDSC has an even larger list at:
+
+   http://www.sdsc.edu/SDSC/Partners/vrml/examples.html
+
+and while hiwaay, my Internet Service Provider, has some pretty good
+hardware, they don't have a building full of supercomputers.  So try
+SDSC first.
+
+If that isn't enough URLs for you, try my three favorite worlds on the
+web:
+
+http://pentium.intel.com/procs/ppro/intro/vrml/nav.wrz -- the Intel
+Pentium Pro site in VRML.  I don't care if your heart beats to the
+Motorola company theme song, this is a great looking site.
+
+http://hiwaay.net/~cbullard/ -- you need Live3D for this one, but Len
+Bullard's tribute to Kate Bush in VRML is one of the most innovative
+uses of VRML I've seen.
+
+http://www.eye.com/event/hammer.wrl.gz -- what can I say?  It's a hammer.
+Just a hammer.  But it's gorgeous.
+
+*--------------------------*  ONLINE COURSES  *-----------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*---------------------------------------------------------------------*
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

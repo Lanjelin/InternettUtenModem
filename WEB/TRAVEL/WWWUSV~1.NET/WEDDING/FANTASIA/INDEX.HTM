@@ -1,0 +1,126 @@
+<html><head><title>Weddings in the U.S.V.I. by Fantasia</title>
+<SCRIPT LANGUAGE = "JavaScript">
+<!---
+bData = null
+
+function browserData(browser,version,platform) {
+   this.browser = browser;
+   this.version = version;
+   this.platform = platform;
+}
+
+
+
+function browserInfo() {
+        if (bData == null) {
+         bData = new browserData(0,null,0);
+         }
+        if ((navigator.appName.indexOf("Netscape") >= 0) ||
+            (navigator.appName.indexOf("Navigator") >= 0)) {
+/* -- replace Navigator with a piece of the Gold appName) */
+ bData.browser=1;
+
+            }
+    else {
+           if (navigator.appName.indexOf("Explorer") >= 0) {
+             bData.browser=2;
+              }
+    else
+             bData.browser=0;
+         }
+        var tail = navigator.appVersion.indexOf(' ');
+        bData.version = parseFloat(navigator.appVersion.substring(0,tail));
+        var head =  navigator.appVersion.indexOf('(');
+        var tail =  navigator.appVersion.indexOf(')');
+        brPlatformData =navigator.appVersion.substring(head,tail);
+        if (brPlatformData.indexOf("Macintosh") >= 0) {
+                 if ( brPlatformData.indexOf("PPC") >= 0) {
+                    bData.platform=2;
+               }
+                  else
+                    bData.platform=1;
+
+                   }
+    else {
+         if ( brPlatformData.indexOf("Win") >= 0) {
+         bData.platform=3;
+         }
+        }
+}
+
+
+function rollIn(imgName) {
+        if ((bData.browser = 1) && (bData.version >=3)) {
+        imgFile = imgName + "on.gif";
+        document [imgName].src = imgFile;
+        }
+}
+
+
+function rollOut(imgName) {
+        if ((bData.browser = 1) && (bData.version >=3)) {
+        imgFile = imgName + "off.gif";
+        document [imgName].src = imgFile;
+        }
+}
+
+
+function loadAlternates(suffix,lookFor) {
+  if ((bData.browser = 1) && (bData.version >=3)) {
+    altImages = new Array(document.images.length);
+       for (var k in altImages) {
+         if (document.images[k].src.indexOf(lookFor) >= 0) {
+           altImages[k] = new Image();
+           altImages[k].src = (document.images[k].name + suffix);
+                        }
+                }
+        }
+}
+
+browserInfo()
+// --->
+
+
+
+</SCRIPT>
+</head>
+
+<body bgcolor=571C5E link=ffffff>
+<center>
+<table width=610 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td width=600 align=left><center><table width=600 border=0 cellspacing=0 cellpadding=0>
+		<tr>
+		<td width=120 align=left></td>
+		<td width=360 align=left bgcolor=A670A8><br><br><br></td>
+		<td width=120 align=left></td>
+		</tr>
+		<tr>
+		<td width=600 colspan=3 align=center><table width=470 border=0 cellspacing=0 cellpadding=0>
+				<tr>
+				<td width=470 align=center bgcolor=A670A8><img src="LOGO3.GIF" tppabs="http://www.usvi.net/wedding/fantasia/logo3.gif"></td>
+				</tr></table></td>
+		</tr>
+		<tr>
+		<td width=120 align=left></td>
+		<td width=360 align=center bgcolor=A670A8><br><table width=340 border=0>
+				<tr>
+				<td width=340 align=left><br>
+				<center><font size=4 face=arial color=AFF8DF><b><i>Your Wedding Day ...</i><br><br><font size=3>
+				One of the most important days of your life. And what more beautiful and romantic a location to
+				celebrate this very special day than <i>America's Paradise</i> - the exotic and historic United
+				States Virgin Islands.</b><br><br><center>
+				</td>
+				</tr>
+				</table>
+				<table width=323 border=0>
+				<tr>
+				<td width=110 align=center><a href="MARRIED.HTM" tppabs="http://www.usvi.net/wedding/fantasia/married.htm" onMouseover="rollIn('word1')" onMouseout="rollOut('word1')"><img name=word1 src="WORD1OFF.GIF" tppabs="http://www.usvi.net/wedding/fantasia/word1off.gif" border=0></a></td>
+				<td width=5 align=center><img src="DOT.GIF" tppabs="http://www.usvi.net/wedding/fantasia/dot.gif" width=1 height=20></td>
+				<td width=85 align=center><a href="PACKAGE.HTM" tppabs="http://www.usvi.net/wedding/fantasia/package.htm" onMouseover="rollIn('word2')" onMouseout="rollOut('word2')"><img name=word2 src="WORD2OFF.GIF" tppabs="http://www.usvi.net/wedding/fantasia/word2off.gif" border=0></a></td>
+				<td width=5 align=center><img src="DOT.GIF" tppabs="http://www.usvi.net/wedding/fantasia/dot.gif" width=1 height=20></td>
+				<td width=118 align=center><a href="COOR.HTM" tppabs="http://www.usvi.net/wedding/fantasia/coor.htm" onMouseover="rollIn('word3')" onMouseout="rollOut('word3')"><img name=word3 src="WORD3OFF.GIF" tppabs="http://www.usvi.net/wedding/fantasia/word3off.gif" border=0></a></td>
+				<br></td></tr></table><br><br></td>
+		<td width=120 align=left></td>
+		</tr>
+		</table></td></tr></table>

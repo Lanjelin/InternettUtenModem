@@ -1,0 +1,344 @@
+<html><title>GM = General Midi Standard</title>
+<body background="../HURBAK.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/hurbak.gif" text="#430033" link="#0000FF" vlink="#A300A5">
+<h1 align=CENTER>GM-standard</h1>
+<strong>GM = General Midi Standard</strong>
+<br>GM-standard är ett sätt att få olika modeller på synthar eller ljudkort att spela upp musik så att det låter ungefär 
+likadant oberoende av vilket märke man har. Med GM-standard menas framför allt två saker. 
+<br>Det ena är att MIDI-signalen delas upp i 16 kanaler som kallas midikanaler. 
+Det gör att synthar/ljudkort som kan spela upp flera ljud samtidigt vet vilka toner som hör till vilket ljud.
+<br>Den andra idén är att alla synthar eller ljudkort som har GM-standard har samma sorts ljud på samma ljudnummer.
+<br>Det finns 128 ljud + ett trumset som är ordnade i 16 "ljudfamiljer". Ljud med samma GM-nummer klingar ungefär lika 
+på vilken ljudkälla som helst. GM-ljud nr 1 är t ex alltid ett pianoljud, GM-ljud nr 12 är alltid ett vibrafonljud och det spelar ingen roll 
+vilket slags synth eller ljudkort som låter. Med trummorna är det lite annorlunda. Det finns bara ett trumset (nr 129) men 
+varje tangent på klaviaturet får sitt eget trumljud.
+<p>Det finns alltså 16 midikanaler och på varje midikanal kan man välja ett ljud ur GM-ljudbanken. 
+<br>EX: På midikanal 1 väljer man Gm-ljud nr 12, på midikanal 2 kan väljer man GM-ljud nr 34, osv. . . men GM-trumsetet ligger
+förutbestämt på midikanal 10. 
+
+<center><h2>GM-ljudtabell</h2></center>
+<center><table border=0 cellpadding=2 cellspacing=2>
+<tr><td>
+<li><a href=#1 Target=>Piano</a>(1-8)
+
+<li><a href=#9 Target=>Chromatic Percussion</a>(9-16)
+
+<li><a href=#17 Target=>Organ</a>(17-24) 
+
+<li><a href=#25 Target=>Guitar</a>(25-32)
+</td>
+<td>
+
+<li><a href=#33 Target=>Bass</a>(33-40)
+
+<li><a href=#41 Target=>Strings</a>(41-48)
+
+<li><a href=#49 Target=>Ensemble</a>(49-56)
+
+<li><a href=#57 Target=>Brass</a>(57-64)
+</td>
+<td>
+
+<li><a href=#65 Target=>Reed</a>(65-72)
+
+<li><a href=#73 Target=>Pipe</a>(73-80)
+<li><a href=#81 Target=>Synth Lead</a>(81-88)
+<li><a href=#89 Target=>Synth Pad</a>(89-96)
+</td>
+<td>
+<li><a href=#97 Target=>Synth Effects</a>(97-104)
+<li><a href=#105 Target=>Ethnic</a>(105-112)
+<li><a href=#113 Target=>Percussive</a>(113-120)
+<li><a href=#121 Target=>Sound Effects</a>(121-128)
+<li><a href=#GM-trumset Target=>GM-trumset</a>(129)
+</td></tr>
+</table></center>
+
+<center><table border=5 cellpadding=5 cellspacing=5>
+
+<tr>
+<th>INSTRUMENTGRUPP</th>
+<th>GM-NUMMER , NAMN</th>
+</tr>
+<tr>
+<td><strong>Piano</strong></td>
+<td><a name="1">1 -  Acoustic Grand
+<br>2 -  Bright Acoustic
+<br>3 -  Electric Grand
+<br>4 -  Honky Tonk
+<br>5 -  Electric Piano 1
+<br>6 -  Electric Piano 2
+<br>7 -  Harpsichord
+<br>8 -  Clavinet
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Chromatic Percussion</strong></td>
+<td><a name="9">9 - Celesta
+<br>10 - Glockenspiel
+<br>11 - Music Box
+<br>12 - Vibraphone
+<br>13 - Marimba
+<br>14 - Xylophone
+<br>15 - Tubular Bells
+<br>16 - Dulcimer
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Organ</strong></td>
+<td><a name="17">17 - Drawbar Organ
+<br>18 - Percussive Organ
+<br>19 - Rock Organ
+<br>20 - Church Organ
+<br>21 -  Reed Organ
+<br>22 - Accordion
+<br>23 - Harmonica
+<br>24 - Tango Accordion
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+
+</td>
+</tr>
+<tr>
+<td><strong>Guitar</strong></td>
+<td><a name="25">25 - Acoustic Guitar (nylon)
+<br>26 - Acoustic Guitar (steel)
+<br>27 - Electric Guitar (jazz)
+<br>28 - Electric Guitar (clean)
+<br>29 - Electric Guitar (muted)
+<br>30 - Overdrive Guitar
+<br>31 - Distortion Guitar
+<br>32 - Guitar Harmonics
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Bass</strong></td>
+<td><a name="33">33 - Acoustic Bass
+<br>34 - Electric Bass (finger)
+<br>35 - Electric Bass (pick)
+<br>36 - Fretless Bass
+<br>37 - Slap Bass 1
+<br>38 - Slap Bass 2
+<br>39 - Synth Bass 1
+<br>40 - Synth Bass 2
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Strings</strong></td>
+<td><a name="41">41 - Violin
+<br>42 - Viola
+<br>43 - Cello
+<br>44 - Contrabass
+<br>45 - Tremolo Strings
+<br>46 - Pizzicato Strings
+<br>47 - Harp
+<br>48 - Timpani
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Ensemble</strong></td>
+<td><a name="49">49 - String Ensemble 1 
+<br>50 - String Ensemble 2
+<br>51 - Synth Strings 1
+<br>52 - Synth Strimgs 2
+<br>53 - Choir Aahs
+<br>54 - Voice Oohs
+<br>55 - Synth Voice
+<br>56 - Orchestra Hit
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Brass</strong></td>
+<td><a name="57">57 - Trumpet
+<br>58 - Trombone
+<br>59 - Tuba
+<br>60 - Muted Trumpet
+<br>61 - French Horn
+<br>62 - Brass Section
+<br>63 - Synthbrass 1
+<br>64 - Synthbrass 2
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Reed</strong></td>
+<td><a name="65">65 - Soprano Sax
+<br>66 - Alto Sax
+<br>67 - Tenor Sax
+<br>68 - Baritone Sax
+<br>69 - Oboe
+<br>70 - English Horn
+<br>71 - Bassoon
+<br>72 - Clarinet
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Pipe</strong></td>
+<td><a name="73">73 - Piccolo
+<br>74 - Flute
+<br>75 - Recorder
+<br>76 - Pan Flute
+<br>77 - Blown Bottle
+<br>78 - Shakuhachi
+<br>79 - Whistle
+<br>80 - Ocarina
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Synth Lead</strong></td>
+<td><a name="81">81 - Synth Square
+<br>82 - Synth Saw 
+<br>83 - Synth Calliope 
+<br>84 - Synth Chiff 
+<br>85 - Synth Charang 
+<br>86 - Synth Voice
+<br>87 - Synth Fifths
+<br>88 - Synth Bass&Lead
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Synth Pad</strong></td>
+<td><a name="89">89 - New Age
+<br>90 - Warm
+<br>91 - Polysynth
+<br>92 - Choir
+<br>93 - Bowed
+<br>94 - Metallic
+<br>95 - Halo
+<br>96 - Sweep
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Synth Effects</strong></td>
+<td><a name="97">97 - Rain
+<br>98 - Soundtrack
+<br>99 - Crystal
+<br>100 - Atmosphere
+<br>101- Brightness
+<br>102 - Goblins
+<br>103 - Echoes
+<br>104 - Science Fiction
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Ethnic</strong></td>
+<td><a name="105">105 - Sitar
+<br>106 - Banjo
+<br>107 - Shamisen
+<br>108 - Koto
+<br>109 - Kalimba
+<br>110 - Bagpipe
+<br>111 - Fiddle
+<br>112 - Shanai
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Percussive</strong></td>
+<td><a name="113">113 - Metal Bell
+<br>114 - Agogo
+<br>115 - Steel Drums
+<br>116 - Woodblock
+<br>117 - Taiko Drum
+<br>118 - Melodic Tom
+<br>119 - Synth Drum
+<br>120 - Reverse Cymbal
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+<tr>
+<td><strong>Sound Effects</strong></td>
+<td><a name="121">121 - Guitar Fret Noise
+<br>122 - Breath Noise
+<br>123 - Seashore
+<br>124 - Bird Tweet
+<br>125 - Telephone Ring
+<br>126 - Helicopter
+<br>127 - Applause
+<br>128 - Gunshot
+<br><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif">
+</td>
+</tr>
+
+</table></center>
+<H3>TABELL 2 <a name="GM-trumset"> GM-trumset</H3>
+
+
+Varje tangent har ett trumljud kopplat till sig.
+<br>Tangent nr 36 är stora C, nr 60 är ettstrukna C.
+
+
+
+<PRE>
+
+MIDI   Trumljud                  MIDI    Trumljud
+
+Tangent                          Tangent
+nr	                         nr	
+
+
+35     Acoustic Bass Drum        59      Ride Cymbal 2
+
+36     Bass Drum 1               60      Hi Bongo
+
+37     Side Stick                61      Low Bongo
+
+38     Acoustic Snare            62      Mute Hi Conga
+
+39     Hand Clap                 63      Open Hi Conga
+
+40     Electric Snare            64      Low Conga
+
+41     Low Floor Tom             65      High Timbale
+
+42     Closed Hi-Hat             66      Low Timbale
+
+43     High Floor Tom            67      High Agogo
+
+44     Pedal Hi-Hat              68      Low Agogo
+
+45     Low Tom                   69      Cabasa
+
+46     Open Hi-Hat               70      Maracas
+
+47     Low-Mid Tom               71      Short Whistle
+
+48     Hi-Mid Tom                72      Long Whistle
+
+49     Crash Cymbal 1            73      Short Guiro
+
+50     High Tom                  74      Long Guiro
+
+51     Ride Cymbal 1             75      Claves
+
+52     Chinese Cymbal            76      Hi Wood Block
+
+53     Ride Bell                 77      Low Wood Block
+
+54     Tambourine                78      Mute Cuica
+
+55     Splash Cymbal             79      Open Cuica
+
+56     Cowbell                   80      Mute Triangle
+
+57     Crash Cymbal 2            81      Open Triangle
+
+58     Vibraslap
+
+</PRE>
+
+<center><table border=5 valign=bottom cellpadding=0>
+<tr><td><a href="../../INDEX~1.HTM" tppabs="http://skol1.telia.se/midimusikskolan.html/index.html"><img src="HEM.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/hem.gif"></a></td>
+<td><a href="#GM-ljudtabell"><img src="UPP.GIF" tppabs="http://skol1.telia.se/midimusikskolan.html/vadhur/miditekn/upp.gif"></a></td>
+
+</table></center>
+</body></html>

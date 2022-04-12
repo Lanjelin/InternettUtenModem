@@ -1,0 +1,113 @@
+From bobrankin@mhv.netWed Jan 31 20:34:59 1996
+Date: Wed, 31 Jan 1996 01:46:27 -0500
+From: Bob Rankin <bobrankin@mhv.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 23 Jan 1996 - Shareware.Com
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+   |__________|__________/__________|__________|________/     |   \
+  /                                                    /______|----\
+ /    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+ |   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+ |                                                     |//////|    |
+ ~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS SITE   : Shareware.Com
+TODAY'S TOURBUS ADDRESS: http://www.shareware.com
+
+So you finally figured out what MPEG stands for... And you succeeded
+in downloading a 1.2MB MPEG movie file.  Now what the heck do you DO
+with it?  "Simple, you need an MPEG player."  Oh, never mind.
+
+You've probably been in a situation where you needed a particular piece
+of software, but had no idea how to find it in the dark recesses of
+cyberspace.  And actually *buying* a piece of software these days just
+seems so utterly barbaric with all the freeware and shareware online.
+
+I can just see George Foreman shouting "I'm not gonna pay a lot for this
+MPEG player!".  Easy champ... we'll find it for ya.
+
+
+Taking Your Hits
+----------------
+
+Archie may turn up hundreds of "hits" that lead nowhere, and a search
+at Webcrawler et al is likely to net you more or less the same result -
+endless pointing and clicking in an ever-widening spiral of links.
+
+Enter Shareware.Com - a software search engine that specializes in helping
+you find the object of your desiring.  This site doesn't actually store any
+software, but they do have a database of 160,000 shareware/freeware packages,
+demos, fixes, patches, and upgrades from dozens of software archives and
+computer vendor sites on the Internet.
+
+Hey, let's pop in and see if we can dredge up something that'll help us
+roll that film.  Fire up the old web browser and head for
+
+   http://www.shareware.com
+
+If you can make your way past all the c|net ads and logos, you'll see the
+SEARCH function.  Let's select MS-Windows3.x as the category and enter
+"MPEG" and "player" in the search fields.  Hey, it worked!
+
+There's vmpeg12a.zip / VMPEG V1.2a Windows MPEG player / Dec 1994 / 151 K
+just begging you to download him.  (Well maybe it's more of a plaintive
+look than actual downright begging, but just click on it anyway pal.)
+
+The download pages at Shareware.Com are pretty nifty because they not only
+tell you the best FTP site to use, they also give you estimated download
+times for various modem speeds.
+
+
+Can You Turn That Down?
+-----------------------
+
+Hmmm, the pulsating yellow background on the search screen is enough to
+melt your eyeballs, but there are some other goodies here.
+
+The BROWSE feature lets you see what files are the most popular in terms
+of how many people have download them, and which are new arrivals.  So if
+you've got FTP anxiety - that nagging feeling that some really cool program
+just got uploaded somewhere -  this is just the ticket.
+
+If you've really got it bad, try subscribing to Shareware Dispatch, the
+weekly email newsletter offered at the Shareware.Com site.
+
+Here's your homework: Find the source code for a program that generates
+random letter stereograms.  See you next time!
+
++--------->  LEARN ABOUT...  --------------------------------------------+
+|  "Social/Psychological Aspects of Clothing" & earn 3 college credits.  |
+|  If you have a computer and a modem, or one connected to the Net, you  |
+|  can take courses from Univ. of Wisconsin-Stout on America Online.     |
++------------->  E-mail: conted@uwstout.edu or Call: 715-232-2693  ------+
+
+Oh, and don't forget you can do all this web and FTP stuff by e-mail!
+Find out how by getting my free guide "Accessing The Internet By E-Mail".
+Version 5.21 is hot off the press with lots of new info.  Just send
+e-mail ...
+
+  To: mail-server@rtfm.mit.edu (for US, Canada & South America)
+  Enter only this line in the BODY of the note:
+  send usenet/news.answers/internet-services/access-via-email
+
+  To: mailbase@mailbase.ac.uk (for Europe, Asia, etc.)
+  Enter only this line in the BODY of the note:
+  send lis-iis e-access-inet.txt
+
+ ======================================================================
+   SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+                to LISTSERV@LISTSERV.AOL.COM
+   unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+   Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+                (stop in for back issues and the logo contest)
+   Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1995, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!

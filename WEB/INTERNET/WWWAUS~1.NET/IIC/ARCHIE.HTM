@@ -1,0 +1,382 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN//3.2">
+<HTML>
+<HEAD>
+	<TITLE>IIC: How to use Archie</TITLE>
+	<LINK REV=made href="mailto:cf@magnet.at">
+	<META HTTP-EQUIV="Reply-to" CONTENT="cf@magnet.at">
+	<META HTTP-EQUIV="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cf@magnet.at" for "http://www.iic.priv.at/iic" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'> 
+	<META NAME="Resource-type" CONTENT="Document">
+	<META NAME="Keywords" CONTENT="Internet, Information, newbie, free, guide, guides, howto, how to, how-to, history, cookie, ftp, www, gopher, usenet, news, irc, mail, indices, parents, protection, software, links, glossary, archie, new, DNS, adressing, construction, tcp/ip, structure">
+	<META NAME="Description" CONTENT="The IIC offers everything for the 'Net user in one place. Starting from History to user guides, lots of links and a hyper-glossary. A must for newbies">
+	<META NAME="Revisit-after" CONTENT="14 days">
+	<META NAME="ObjectType" CONTENT="Information">
+	<META NAME="AUTHOR" CONTENT="Christian Feichtner - cf@magnet.at">
+	<META NAME="Distribution" CONTENT="Global">
+	<META NAME="Copyright" CONTENT="1996 Christian Feichtner">
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=10>
+
+	<IMG SRC="IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=10><BR>
+	<A NAME="Top"><FONT FACE="Arial" SIZE=5><B>Archie</B></FONT></A>
+	<BR>
+	<FONT SIZE=2 FACE="Arial">
+	<I>December, 23. 1996</I></FONT><BR>
+	<IMG SRC="IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=20><P>
+	</FONT>
+	<FONT SIZE=2>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>1.  W</FONT>HAT <FONT SIZE=3>C</FONT>AN <FONT SIZE=3>I</FONT> <FONT SIZE=3>D</FONT>O ?</FONT></B><P>
+	If you are looking for files on 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/FTP.HTM" tppabs="http://www.austria.eu.net/iic/glossary/ftp.htm">ftp</A>
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/SERVER.HTM" tppabs="http://www.austria.eu.net/iic/glossary/server.htm">servers</A>,
+	then archie is the right service to use. Archie originally has a command line based
+	user interface. You can connect to an archie, using a 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/TELNET.HTM" tppabs="http://www.austria.eu.net/iic/glossary/telnet.htm">telnet</A>
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/CLIENT.HTM" tppabs="http://www.austria.eu.net/iic/glossary/client.htm">client</A>.
+	There are also other clients (window based) available. 
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>2.  W</FONT>HAT <FONT SIZE=3>D</FONT>O <FONT SIZE=3>I</FONT> <FONT SIZE=3>N</FONT>EED ?</FONT></B><P>
+	You can connect to Archie in various ways. You can use a telnet client, a special Archie Client or a World Wide Web Interface.
+	If you do not want to use a telnet client to connect to an archie server (which I would recommend as it is
+	the most easy and fastest way), you can have a look at the following locations to find a suitable archie
+	client:
+	<P>
+	<IMG SRC="IMAGES/MISC/WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="Win"> <A HREF="../../tppmsgs/msgs9.htm#975" tppabs="http://www.cwsapps.com/ftp.html">CWSApps Archie section</A><BR>
+	<IMG SRC="IMAGES/MISC/WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="Win"> <A HREF="../../tppmsgs/msgs9.htm#976" tppabs="http://www.euronet.nl/users/petert/public_html/fpware/">fp Archie</A><BR>
+	<IMG SRC="IMAGES/MISC/WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="Win"> <A HREF="../../tppmsgs/msgs9.htm#977" tppabs="http://dspace.dial.pipex.com/town/square/cc83/">WS Archie</A><BR>
+	<IMG SRC="IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../tppmsgs/msgs5.htm#563" tppabs="http://www.cyberatl.net/~mphillip/index.html">Internet Mac Software</A><BR>
+	<IMG SRC="IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../tppmsgs/msgs5.htm#564" tppabs="http://www.tiac.net/users/mdw/imap/xintro.html">Mac Helpers</A><BR>
+	<IMG SRC="IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../tppmsgs/msgs5.htm#565" tppabs="http://community.net/~csamir/macapp.html">Mac Internet Apps</A><BR>              
+	<P>
+	If can't find a suitable client for your archie tasks, then you might want to use one of the following World Wide Web to Archie
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/GATEWAY.HTM" tppabs="http://www.austria.eu.net/iic/glossary/gateway.htm">gateways</A>:
+	<P>
+	<IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*">  <A HREF="../../tppmsgs/msgs9.htm#978" tppabs="http://www-ns.rutgers.edu/htbin/archie">Archie Request Form</A><BR>
+	<IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*">  <A HREF="../../tppmsgs/msgs9.htm#979" tppabs="http://www.th-darmstadt.de/archie/archieplex.html">Archiplex</A>.
+	<P>
+	However, if you want to get the most out of these interfaces, I strongly recommend to continue reading so that you can take
+	advantage of the various search settings.
+	<P>
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>3.  W</FONT>HERE <FONT SIZE=3>C</FONT>AN <FONT SIZE=3>I</FONT> <FONT SIZE=3>C</FONT>ONNECT ?</FONT></B><P>
+	To connect to an archie <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/SERVER.HTM" tppabs="http://www.austria.eu.net/iic/glossary/server.htm">server</A>,
+	start your telnet client	and log on to archie. Here are some addresses, that you could use (sorted by country):
+	<P>
+	
+	<!--------- List of Archie servers --------->
+	<TABLE>
+	<TR><TD>
+		<FONT SIZE=2>
+		<DL>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.au">Australia</A> 	
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.univie.ac.at">Austria</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.uni-linz.ac.at">Austria</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.belnet.be">Belgium</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.uqam.ca">Canada</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.cs.mcgill.ca">Canada</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.bunyip.com">Canada</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.funet.fi">Finland</A> 
+		</DL>
+		</FONT>
+	</TD><TD>
+		<FONT SIZE=2>
+		<DL>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.univ-rennes1.fr">France</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.th-darmstadt.de">Germany</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.ac.il">Israel</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.unipi.it">Italy</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.wide.ad.jp">Japan</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.sogang.ac.kr">Korea</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.hana.nm.kr">Korea</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.kornet.nm.kr">Korea</A> 
+		</DL>
+		</FONT>
+	</TD><TD>
+		<FONT SIZE=2>
+		<DL>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.nz">New Zealand</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.uninett.no">Norway</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.icm.edu.pl">Poland</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.rediris.es">Spain</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.luth.se">Sweden</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.switch.ch">Switzerland</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.ncu.edu.tw">Taiwan</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.do.ic.ac.uk">UK</A> 
+		</DL>
+		</FONT>
+	</TD><TD VALIGN=TOP>
+		<FONT SIZE=2>
+		<DL>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.hensa.ac.uk">UK</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.sura.net">USA (MD)</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.unl.edu">USA (NE)</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.internic.net">USA (NJ)</A>
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.rutgers.edu">USA (NJ)</A> 
+		<DT><IMG SRC="IMAGES/MISC/SQUARE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/square.gif" ALT="*"> <A HREF="telnet://archie.ans.net">USA (NJ)</A> 
+		</DL>
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>N</FONT>OTE:</B></FONT>
+		All the links above require a telnet client and that your browser is properly configured for telnet. If you are using a special archie client, then you might
+		have to choose the archie server you want to connect to from a special menu. There you will probably find additional archie servers not listed here.
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>4.  H</FONT>OW <FONT SIZE=3>D</FONT>O <FONT SIZE=3>I</FONT> <FONT SIZE=3>W</FONT>ORK <FONT SIZE=3>W</FONT>ITH <FONT SIZE=3>A</FONT>RCHIE ?</FONT></B><P>
+	You can reflect to Archie as a large database. If you want to search for a file, then you have to send a query to Archie, which
+	it will process. After processing your query, Archie will display a list with found items. This list displays the name of the <IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/HOST.HTM" tppabs="http://www.austria.eu.net/iic/glossary/host.htm">host</A>
+	, the filename and directory where the file is stored and, of course, the size of the file.
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>L</FONT>OGGING <FONT SIZE=3>O</FONT>N </FONT><BR>
+	The following sections will show you how to use a command line based archie interface. If you prefer to use a window based client,
+	you should read this section anyway, as it contains important information on how to set search parameters and other things.
+	In order to log on to an archie server start your telnet client and select open host or type <I>telnet &lt;hostname&gt;</I> if you are using a 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/UNIX.HTM" tppabs="http://www.austria.eu.net/iic/glossary/unix.htm">unix</A>
+	client.
+	If you don't know an archie server, you can use one of the above. <FONT COLOR="#FF0000">Note: </FONT>clicking on a server's 
+	name will start your telnet client and automatically connect to the server. The following listing is an example of a connection procedure 
+	to an Archie server from a unix session.
+	<P>
+	</FONT>
+	<SAMP>
+	telnet archie.univie.ac.at<BR>
+	Trying 131.130.1.23...<BR>
+	Connected to archie.univie.ac.at.<BR>
+	Escape character is '^]'.<BR>
+	SunOS UNIX (archie.univie.ac.at)<BR>
+	login: archie<BR>
+	</SAMP>
+	<FONT SIZE=2>
+	<P>
+	If the connection has successfully established you will be prompted for a login name (<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="GLOSSARY/USERNAME.HTM" tppabs="http://www.austria.eu.net/iic/glossary/username.htm">username</A>
+	Don't worry. You don't need to have a special login name. Simply type <I>archie</I> at the <I>login: prompt</I>. If you are prompted for a password
+	after hitting the return key, then you most likely misspelled <I>archie</I> at the login prompt. So when you see the <I>password:</I> 
+	prompt,
+	type in an imaginary password, hit return, and you will receive something like <I>unknown user - login failed</I>. Again, no reason to 
+	panic. You should now see the <I>login:</I> prompt again. Start all over and type in <I>archie</I>. Type slowly, use no capitals. 
+	After you have successfully logged on, Archie will proceed you in order to perform your search. Here is an example of what could be displayed 
+	after you have logged on.
+	<P>
+	</FONT><SAMP>
+	If you have any problems with archie, send mail to <BR>
+	archie-admin@univie.ac.at. <BR>
+	# Bunyip Information Systems, Inc., 1993, 1994, 1995 <BR>
+	# Terminal type `dec-vt220' is unknown to this system. <BR>
+	# `erase' character is `^?'. <BR>
+	# `search' (type string) has the value `sub'. <BR>
+	archie.aco.net&gt; <BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>S</FONT>EARCHING </FONT><BR>
+	To perform a search, type the little word <I>prog</I> followed by a filename and hit the return key. This will send your query to
+	Archie and perform the search. Please be patient. Archie searches can last from a few seconds to a few minutes depending on what
+	you have entered, which search options are set and how many queries will be processed before yours. Here is how this might look like:
+	<P>
+	</FONT><SAMP>
+	archie.aco.net&gt; prog winzip.exe
+	</SAMP><FONT SIZE=2>
+	<P>
+	When archie processes your search, then you should see something like this:
+	<P>
+	</FONT><SAMP>
+	# Your queue position: 3<BR>
+	# Estimated time for completion: 5 seconds.
+	</SAMP><FONT SIZE=2>
+	<P>
+	This means, that there are two other queries to be processed, before your query will be. The second line show the estimated
+	time for completion. My experiences are, that this is a very vague estimation, so don't rely on it. You might also see a changing character
+	being displayed, indicating that the search is still in progress.
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>S</FONT>EARCH <FONT SIZE=3>R</FONT>ESULTS </FONT><BR>
+	If the search was successful, then a list will be displayed. This list will be displayed without any warning and will scroll by
+	very fast. The list containing the found files shows the hostname and the path, where the file is located. This is an example how this list might look:
+	<P>
+	</FONT><SAMP>
+	Host ftp.virginia.edu (128.143.2.7)<BR>
+	Last updated 05:05 19 Dec 1995<BR>
+	Location: /public_access/eg_slides/utilities<BR>
+	FILE -rw-rw-rw- 320779 bytes 15:44 9 Nov 1995 winzip.exe <BR>
+	<P>
+	Host indri.inria.fr (138.96.24.41)<BR>
+	Last updated 06:39 22 Dec 1995<BR>
+	Location: /pub/win95<BR>
+	FILE -rw-rw-r-- 345015 bytes 13:12 5 Sep 1995 winzip.exe <BR>
+	<P>
+	Host ftp.univie.ac.at (193.170.56.40)<BR>
+	Last updated 11:43 21 Dec 1995<BR>
+	Location: /archive/magazines/pcmag/shareware<BR>
+	FILE -r--r--r-- 294736 bytes 13:49 30 Jun 1995 winzip.exe <BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	If the list is too long to read it entirely online or has scrolled by too fast, and you would like to review it with something to
+	drink and popcorn handy, then it would be a good idea, to save the list. Archie won't leave you alone here. It offers the <SAMP>mailto:</SAMP> 
+	command. This command will send the whole list to a specified e-mail address (preferably yours). To get
+	the whole list via e-mail type mailto: at the prompt, followed by your 
+	<IMG SRC="IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="Pending_relink" tppabs="http://www.austria.eu.net/iic/glossary/emailaddress.htm">e-mail address</A>.
+	<P>
+	</FONT><SAMP>
+	archie.aco.net&gt; mailto: &lt;email&gt;
+	</SAMP><FONT SIZE=2>
+	<P>
+	Note that this will only work for the current list of found files. You can't perform 3 or 4 searches and then let Archie mail the
+	lists to you. You have to issue the mailto: command right after Archie has finished displaying the list.
+	<P>
+	If Archie couldn't find any files that match your specification, then you will see a simple message:
+	<P>
+	</FONT><SAMP>
+	No Matches
+	</SAMP><FONT SIZE=2>
+	<P>
+	This is no reason to give up. Try to search again, using other search settings or another (shorter) filename. Example: If you
+	searched for <I>winzip67.lzh</I> and you became the <I>No Matches</I> message, then try searching for <I>winzip</I> only. This will 
+	produce a much longer list of found files, but you have a greater chance, that the file you wanted is on the list. Note that winzip67.lzh is an imaginary
+	name. It doesn't exist.
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>E</FONT>NHANCING <FONT SIZE=3>Y</FONT>OUR <FONT SIZE=3>S</FONT>EARCH </FONT><BR>
+	If you got a <I>No Matches</I> message or for any other reason you might want to define how archie searches its database. For this purpose,
+	Archie offers a lot of options you can set. In order to do this, type the following at the prompt:
+	<P>
+	</FONT><SAMP>
+	archie.aco.net&gt; set search &lt;option&gt;
+	</SAMP><FONT SIZE=2>
+	<P>
+	where <I>&lt;option&gt;</I> can be one of the following settings: <I>sub, subcase, exact, regex, regexp</I>. Note that some Archie servers will
+	only accept regex and some only regexp. But the meaning of these options are the same.<BR>
+	<P>
+	<TABLE BORDER=0 BORDERCOLORLIGHT=#FFFFFF BORDERCOLORDARK=#FFFFFF WIDTH=80%>
+		<TR>
+		<TH BGCOLOR=#3AAFF5><FONT FACE="Arial" SIZE=2><B>Setting</B></FONT></TH>
+		<TH BGCOLOR=#3AAFF5><FONT FACE="Arial" SIZE=2><B>Explanation</B></FONT></TH>
+		</TR><TR>
+		<TD WIDTH=228 BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>Sub</B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			short for: <B>sub</B>string. Setting is case insensitive. prog is will find &quot;Island&quot;, &quot;this&quot; and &quot;poison&quot;. 
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>Subcase</B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			short for: <B>sub</B>string <B>case</B>sensitive. This setting works like the above, only that the search is case sensitive. This means prog
+			 TeX will find &quot;LaTeX&quot;, but not &quot;Latex&quot;.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>Exact</B></FONT>
+		</TD><TD WIDTH=276 BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			The search string must exactly match the entries in the database including case (!). prog 
+			winzip60.exe will find &quot;winzip60.exe&quot; but not &quot;winzip60a.exe&quot; or &quot;Winzip60.exe&quot;.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>regex(p) (default)</B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			short for: <B>reg</B>ular <B>exp</B>ression: You can use expressions to enhance your 
+			search. If you type a normal search string, then the search is handled like in &quot;sub&quot;. See below for a detailed description of available 
+			expressions.
+			</FONT>
+		</TD></TR>
+	</TABLE>
+	<P>
+	If you choose regex as your search setting (which also is the default setting), then you can specify your search string using
+	an expression (that's why it's called <B>re</B>gular <B>ex</B>pression !).<BR>
+	<P>
+	<TABLE BORDER=0 BORDERCOLORDARK=#FFFFFF BORDERCOLORLIGHT=#FFFFFF WIDTH=80%>
+	<TR>
+		<TH BGCOLOR=#3AAFF5><FONT FACE="Arial" SIZE=2><B>This setting</B></FONT></TH>
+		<TH BGCOLOR=#3AAFF5><FONT FACE="Arial" SIZE=2><B>will do this:</B></FONT></TH>
+		</TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+		       <FONT SIZE=2><B>W*point</B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			Will find all entries, containing zero or more &quot;W&quot; followed by the string &quot;point&quot;. &quot;*&quot; means zero ore more 
+			occurrences of the preceding expression. 
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>#.*# </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			Would match anything beginning with a &quot;#&quot;, followed by zero or more occurrences of any character 
+			(&quot;.&quot; Stands for any character) and ending with a &quot;#&quot;.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>[abcd] </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			Will match one of the four letters contained in &quot;[ ]&quot;.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>[^abcd] </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			If &quot;^&quot; is at the first position, this means, that any character not in the list will be matched.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>[a-z] </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			Another way to specify a range. This search string will match any character ranging from &quot;a&quot; to &quot;z&quot;.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>[^a-z] </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			Will match any not lower character.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+				<FONT SIZE=2><B>[a-z0-9] </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			You can also combine more ranges. This search string will find any lower character or digit from &quot;0&quot; to &quot;9&quot;.
+			</FONT>
+		</TD></TR>
+		<TR><TD WIDTH=228  BGCOLOR=#ECECEC>
+			<FONT SIZE=2><B>[Ww]inzip/.exe </B></FONT>
+		</TD><TD WIDTH=276  BGCOLOR=#ECECEC>
+			<FONT SIZE=2>
+			If you want to match a character that has a special meaning (like the &quot;.&quot;), you should precede it with a &quot;/&quot;. 
+			This setting will find all entries beginning with either a &quot;W&quot; or a &quot;w&quot;, followed by the string &quot;inzip.exe&quot;.
+			</FONT>
+		</TD></TR>
+	</TABLE>
+	</FONT>
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<DIV ALIGN=RIGHT>
+		<HR ALIGN=RIGHT WIDTH=200 SIZE=1 COLOR=#000000>
+		<FONT FACE="Arial" SIZE=1>
+		&copy 1996 Christian Feichtner<BR>
+		Redistribution without prior permission prohibited.<BR>
+		Internet Services sponsored and provided by <A HREF="../../tppmsgs/msgs0.htm#94" tppabs="http://www.austria.eu.net/">EUnet International</A>
+	</DIV>
+
+</BODY>
+</HTML>

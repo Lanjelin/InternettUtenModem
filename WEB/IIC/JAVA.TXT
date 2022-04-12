@@ -1,0 +1,62 @@
+Too much coffee on the Internet gives software makers the jitters
+----------------------------------------------------------------------------
+
+Copyright© 1996 Nando.net
+Copyright© 1996 The Wall Street Journal
+
+(Jun 7, 1996 00:05 a.m. EDT) -- The software industry might have had one too
+many cups of coffee.
+
+It all started last year when Sun Microsystems released Java, a software
+language designed to spice up pages on the Internet's World Wide Web. With
+the boom in the global-computer network, interest in Java has exploded. That
+prompted other companies to release a raft of products designed to add
+features to Java -- many of which carry variations on the coffee theme.
+
+Borland International launched a product called Latte. Symantec announced
+Cafe. Applix makes Espresso. Natural Intelligence has Roaster. Sun also came
+out with HotJava. Last week brought two more entries: Java Beans from Sun,
+and Arabica from International Business Machines. Argus Systems Group makes
+Decaf.
+
+Headline writers at technology trade journals have been having a field day.
+"Sun brews up Java blend," said InfoWorld. "Java technology perks up WWW,"
+said PC Week.
+
+Enough already, says Eric Lundquist, PC Week's editor in chief. "It's
+clearly out of control," he complains, speaking of both the industry's
+coffee-based names and the headline puns, including those in his own
+magazine.
+
+Java itself is a clever name, he says, since "it conveyed the idea of a hot
+product." But all the permutations are starting to wear thin, he believes.
+
+Sun came up with the Java trademark "when a bunch of people got in a room,
+including (Java chief inventor) James Gosling, and started kicking some
+names around," says a Sun spokesman. "What they came to recognize was that
+the one thing that kept them going over the last three or four years was
+coffee."
+
+The staff of developers, many of whom consider themselves coffee
+connoisseurs, often frequented Caffe Verona, a Palo Alto, Calif.,
+coffeehouse.
+
+Java has received so much press that Nestle recently asked Mr. Gosling to
+appear in a Nescafe instant-coffee ad. He turned it down.
+
+Even Sun is getting a bit too much of a caffeine buzz. When it recently
+released its new Java operating system it called it, simply, Java OS,
+passing up the product's code name -- Kona.
+
+"The world didn't need another coffee-related software product," the Sun
+spokesman says.
+
+
+
+----------------------------------------------------------------------------
+  [ GLOBAL | STATESIDE | SPORTS | POLITICS | VOICES | BUSINESS | INFOTECH |
+                  HEALTH & SCIENCE | ENTERTAINMENT | MAIN ]
+----------------------------------------------------------------------------
+
+Copyright© 1996 Nando.net
+Do you have some feedback for the Nando Times staff?

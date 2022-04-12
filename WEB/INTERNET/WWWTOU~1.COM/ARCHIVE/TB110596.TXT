@@ -1,0 +1,150 @@
+<html><head><title>TOURBUS Info Page</title></head>
+<body bgcolor="#ffffff">
+<img align="left" src="tbsmall.gif" alt="The Internet TourBus!">
+<i>"Why surf when you can ride the bus?"</i><br clear=all>
+<hr>
+<center>
+<h2>
+TOURBUS: Tuesday, November 5, 1996<br>
+DRIVER: Bob Rankin<br>
+TODAY'S TOURBUS STOP:<br>Computer Viruses</h2>
+</center>
+<p>
+Boo!  Did I scare you?  Probably not... but today's TOURBUS posting
+might, because we're going to talk about Computer Viruses.  Ooooooh!
+<p>
+Let me start by saying that MOST of what you've heard about computer
+viruses is probably wrong.  Your computer can't get one from a toilet
+seat, or by getting sneezed on by another computer that has a virus.
+You DON'T have to be scared of computer viruses, but you DO need to
+take certain precautions to protect your computer and its data.
+<p>
+This issue of TOURBUS will point you to some excellent resources to
+help you to learn more about computer viruses (and related nasties),
+ease your poor troubled mind, and protect yourself from the threat.
+<p>
+Let's start with a few (somewhat geeky) definitions:
+<p>
+  A COMPUTER VIRUS is a program that can infect (invade) other
+  computer programs.
+<p>
+  A COMPUTER WORM is a self-contained program that is able to
+  spread copies of itself, usually over a network.
+<p>
+  A TROJAN HORSE is a program that purports to be fun or useful but
+  actually does something nasty.  It cannot spread like a virus or worm.
+<p>
+  A MAIL BOMB is an e-mail message that can allegedly cause harm to your
+  computer simply by opening and reading the message.
+<p>
+If you're not a geek, the difference between these five things is pretty
+subtle.  One way or another, you're dealing with a malicious entity that
+can cause damage to your system.  If you like, go ahead and call them
+all viruses, but beware that you're likely to be "corrected" by someone
+with one to many pencils in his pocket protector.
+<p>
+<h3>Are These Things For Real?</h3>
+Viruses, worms and trojan horses do exist.  Maybe you've heard of "Stoned",
+"Michelangelo" or others - these are real and can cause serious damage to
+a single computer or an entire network.  Anything from spurious messages
+appearing on your screen to unexplained slowdowns to mangled files to a
+complete hard disk wipeout is possible.
+<p>
+But let me digress for just a moment to discuss some viruses that aren't...
+<ul>
+<li>The "Good Times Virus" - is a HOAX that has circulated for several 
+years.
+    It's supposed to be a mail bomb, but such things simply do not exist.
+    YOU CAN NOT GET A VIRUS SIMPLY BY OPENING YOUR E-MAIL.  A virus can only
+    affect your system if you install and run a piece of software.
+
+  <li>The "Netscape Mail Bomb" is not a real threat.  A now-fixed bug in
+    Navigator V3 could result in your system locking up when a certain bit
+    of HTML code was encountered.  Requests for more information about this
+    will be cheerfully ignored.  :-)
+
+ <li>PKZIP300 - is not a hoax, but it has become bigger than life. PKZIP300
+    is supposedly a rogue "Version 3" of the popular PKZIP software that
+    is "circulating widely" on the Internet.  Claims that this trojan horse
+    program can cause damage SIMPLY BY DOWNLOADING IT are ridiculous, and
+    to my knowledge it is not publicly available ANYWHERE on the Internet or
+    elsewhere.  See the PKWARE site at http://www.pkware.com for more info.
+</ul>
+<h3>How Can I Avoid Computer Viruses?</h3>
+First, you can't avoid viruses by shunning shareware, freeware or games.
+There are cases where even commercial "shrink wrapped" software was
+accidentally packaged with a virus.
+<p>
+The best course of action is to be cautious of ANY newly acquired software
+and to use "anti-virus" software that will automatically alert you to any
+potential dangers.
+<p>
+I also highly recommend that you read the "VIRUS-L FAQ" to get expert
+answers to questions like these and others:
+<ul>
+   <li>What are the known viruses, major symptoms and possible cures?
+   <li>Where can I get free or shareware antivirus programs?
+   <li>Where can I get more information on viruses, etc?
+   <li>What steps should be taken in diagnosing and identifying viruses?
+   <li>What is the best way to remove a virus?
+</ul>
+This FAQ is online at <a href="http://www.bocklabs.wisc.edu/~janda/virl_faq.html">http://www.bocklabs.wisc.edu/~janda/virl_faq.html</a>
+and can also be obtained by sending e-mail to LISTSERV@LEHIGH.EDU with
+the command "INFO VIRUS-L" in the message body.
+<p>
+The VIRUS-L mailing list (also available on Usenet as comp.virus) is a
+forum for sharing information and ideas about computer viruses.
+Discussions include virus sightings, virus prevention and Q & A.  To
+subscribe, send e-mail to LISTSERV@LEHIGH.EDU with the command
+"SUBSCRIBE VIRUS-L Your Name" in the message body.
+<p>
+<h3>Who Writes Malicious Computer Viruses?</h3>
+Remember that kid in high school - the one you picked on because his
+pant cuffs didn't come down quite far enough to meet his cheap sneakers?
+Your merciless taunting drove him into the computer lab, where he sought
+revenge on the entire human race.  This is all YOUR fault.  :-)
+<p>
+<h3>Some Other Cool Virus-Related Stuff</h3>
+I hope you'll read the VIRUS-L FAQ and get yourself educated on how to
+avoid computer viruses.  When you're done there, here's further reading:
+<ul>
+<li><a href="http://www.hotfiles.com/hlpframe.html">ZDNet Download Help</a>
+<li><a href="http://www.kumite.com/myths/">Computer Virus Myths Page</a>
+<li><a href="http://www.nha.com">NH&A Anti-Virus Page</a>
+<li><a href="http://www.netwrx.net/raport2/cmptrs.htm">Virus Humor</a>
+</ul>
+And when you're done there, pop over to visit AARDWULF, the sponsor who
+made today's issue possible (and find out if aardwolves really exist).
+<pre>
++--------------------------------------------------------------------+
+     AARDWULF Apparel offers quality brands like Timberland and
+        Calvin Klein at prices you can only get on the Web!
++--------------------( http://www.aardwulf.com )---------------------+
+</pre>
+See you next time!  --Bob
+<p>
+<pre>
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+</pre><p><hr>
+<center>
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin<br>
+All rights reserved.  Redistribution is allowed only with permission.<br>
+Send this copy to 3 friends and tell them to get on the Bus!<br>
+<p>
+<h3>
+<a href="/wv/hotel/tourbus/tour.htm">Back to the TOURBUS Main Page</a><br>
+<a href="/wv/hotel/tourbus/archives.htm">Browse the TOURBUS Archives</a>
+</h3>
+<hr>
+<a href="/wv/navbar.map"><img border=0 src="/wv/images/elements/navbar.gif" ismap></a>
+<hr>
+<h5>(c) Copyright 1996, Elephant Consulting</h5>
+</center>
+</address>
+</BODY></HTML>

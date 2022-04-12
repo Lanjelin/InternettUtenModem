@@ -1,0 +1,407 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Compilation Techniques</title>
+</head>
+
+<body background="_BACK-~1.GIF" tppabs="http://www.worldcharts.com/_back-right.gif" bgcolor="#000000"
+text="#C0C0C0" link="#FFFFFF" vlink="#808080" alink="#FFFFFF">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td><font size="1" face="Arial">Page created by Jurgen<br>
+        Updated on <!--webbot bot="Timestamp" startspan
+        s-type="EDITED" s-format="%B %d, %Y" -->February 09, 1997<!--webbot
+        bot="Timestamp" i-checksum="43123" endspan --></font></td>
+        <td align="center"><a href="_MAIN~1.HTM" tppabs="http://www.worldcharts.com/_main.html"><font size="2"
+        face="Arial"><img src="_GO-FI~1.GIF" tppabs="http://www.worldcharts.com/_go-first.gif" alt="First"
+        align="middle" border="0" width="67" height="24"></font></a><a
+        href="_DOCUM~1.HTM" tppabs="http://www.worldcharts.com/_document.html"><font size="2" face="Arial"><img
+        src="_GO-PR~1.GIF" tppabs="http://www.worldcharts.com/_go-previous.gif" alt="Previous" align="middle"
+        border="0" width="67" height="24"></font></a><a
+        href="_TEAM~1.HTM" tppabs="http://www.worldcharts.com/_team.html"><font size="2" face="Arial"><img
+        src="_GO-NEXT.GIF" tppabs="http://www.worldcharts.com/_go-next.gif" alt="Next" align="middle" border="0"
+        width="67" height="24"></font></a><a href="_LEGAL~1.HTM" tppabs="http://www.worldcharts.com/_legal.html"><font
+        size="2" face="Arial"><img src="_GO-LAST.GIF" tppabs="http://www.worldcharts.com/_go-last.gif" alt="Last"
+        align="middle" border="0" width="67" height="24"></font></a></td>
+        <td align="center"><font size="1" face="Arial">page </font><font
+        color="#FFFFFF" size="1" face="Arial">i-4/15</font></td>
+    </tr>
+</table>
+
+<hr>
+
+<p align="center"><img src="_MAIN~14.GIF" tppabs="http://www.worldcharts.com/_main-compilation.gif"
+alt="Compilation Techniques" width="178" height="36"></p>
+<div align="center"><center>
+
+<table border="0" cellpadding="3" cellspacing="8">
+    <tr>
+        <td colspan="2" width="66%"><font size="2" face="Arial">For
+        the compilation of the Internet Entertainment Charts a
+        set of rules and algorithms is used. Each one has its own
+        purpose, and they are all described here.</font>&nbsp;</td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Step 1</font></td>
+        <td colspan="2" width="33%" bgcolor="#333333"><font
+        color="#FFFFFF" size="2" face="Arial">Exponential points
+        for the previous week</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">The
+        chart from the previous week is always used as a starting
+        point from which the next chart is being compiled. Titles
+        get points corresponding to their position in this
+        previous chart. These points are exponential. The lowest
+        entry in the chart gets 1 point. Every other title gets
+        1.05 times the number of points of the one below. So in a
+        Top 100 list we get these figures:</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">number 1: 125.2393 points<br>
+        number 2: 119.2755 points<br>
+        number 3: 113.5957 points<br>
+        ...<br>
+        number 97: 1.1576 points<br>
+        number 98: 1.1025 points<br>
+        number 99: 1.0500 points<br>
+        number 100: 1.0000 points</font></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="33%"><font size="2" face="Arial">You
+        can see that the difference between the points of high
+        positioned titles is much bigger than the difference
+        between those in the lower regions of the chart. This
+        makes sure that titles can climb and drop rapidly in the
+        lower regions, but have to fight a much tougher battle at
+        the top of the list. The intervals are bigger at the top,
+        and therefore harder to overtake.</font></td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">The higher the position of a title
+        on the list, the harder it is to suddenly drop from the
+        chart. Even if a title suddenly gets very few points from
+        voters in one week, which happens every so often which
+        such small numbers of voters, it will still have its
+        'bonus' for being high on last weeks' list. This means
+        that sudden weird behaviour of titles in the charts, due
+        to big but illogical fluctuations in the email votes, is
+        minimized. </font></td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Step 2</font></td>
+        <td colspan="2" width="33%" bgcolor="#333333"><font
+        color="#FFFFFF" size="2" face="Arial">Counting the votes</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">The
+        points sent by email in the last 5 weeks are summed up
+        for each title. The weight of these votes decreases over
+        time. Votes that came in for the current week are used at
+        100%; votes that are one week old are used for 80%, then
+        60%, 40% and votes from 4 weeks ago are used with a
+        weight of 20%. Only the most recent votes from each
+        person are being used. So, only if someone hasn't voted
+        for three weeks, then his votes from three weeks ago are
+        being used at 40%.</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial"><i>In
+        the first three years of the Games Charts we used the
+        votes from four weeks (not five), all at 100%. A bonus
+        was given to new games to achieve a same kind of effect,
+        in a much less elegant way.</i></font></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">You can see that the emphasis is on
+        the newest votes, which helps the charts to react to new
+        hits as quickly as possible. Giving exponentional points
+        to the titles in last weeks' chart, and using votes from
+        the last five weeks, would make a chart slow and not
+        responsive enough to hot new titles. By giving the most
+        weight to the newest votes, we are able to counterweight
+        this effect.</font></td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Step 3</font></td>
+        <td colspan="2" width="33%" bgcolor="#333333"><font
+        color="#FFFFFF" size="2" face="Arial">Limiting the oldest
+        titles</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">History
+        has proven that people like to vote for their most
+        favourite titles ever. The Internet Entertainment Charts
+        are not supposed to be all-time favourites lists, but
+        weekly updates of the current most popular titles in the
+        world. Of course, a title can still be popular long after
+        it has been commercially available. The charts should
+        reflect that, and they do. But on the other hand, as long
+        as old titles keep occupying high positions, new titles
+        will suffer from it. Therefore, once a title has proven
+        its massive popularity over time, it will be forced to
+        retreat, very gently. </font></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="33%"><font size="2" face="Arial">When
+        a title has been in the list for a certain number of
+        weeks (different for each chart), a mechanism will start
+        that reduces the points from voters little by little.
+        Over a period of many weeks (or even years) the points
+        from voters for this title will be reduced to zero.</font></td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">This helps to make a little bit
+        more room near the top for newer titles that the readers
+        are most interested in, while no title is expected to
+        last many years anyway, so we do not really force a title
+        out of the list. The parameters may be adjusted whenever
+        we feel it becomes necessary.</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial"><i>For
+        the Games Charts another more drastic method was used,
+        where people could vote for the same title for only 26
+        weeks. This method was abolished when it got too
+        time-consuming for our software.</i></font></td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Step 4</font></td>
+        <td colspan="2" width="33%" bgcolor="#333333"><font
+        color="#FFFFFF" size="2" face="Arial">Normalizing all the
+        points and adding them up</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">We
+        now have two sets of points: one set of exponential
+        points from Step 1, and one set of votes points from
+        Steps 2+3. Since you can't add 'apples' to 'pears'
+        without normalizing them to 'fruit' first, we have to do
+        some normalization first. This means that all points are
+        multiplied equally, in such a way that the total of all
+        these points is a constant number, used every week.</font></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="33%"><font size="2" face="Arial">The
+        exponential points are normalized to a certain total, and
+        the votes points are also normalized to a certain total.
+        Only then they are added up. This ensures that the number
+        of votes received in a week has no influence on how much
+        changes there are in the chart. More votes results in a
+        more accurate chart, but not in a chart with more
+        movement. The exponential points and votes points are
+        therefore always used in the same ratio, every week.</font></td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">You can now clearly see the effect
+        of votes on the titles in the charts: When a title gets
+        few or no points from voters, it will automatically drop
+        in the new chart. When it gets many points by voters
+        (compared to the titles around it) it will climb. Votes
+        determine how titles will move in the list, not what
+        their absolute positions will be.</font></td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Step 5</font></td>
+        <td colspan="2" width="33%" bgcolor="#333333"><font
+        color="#FFFFFF" size="2" face="Arial">Limiting the number
+        of re-entries</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">With
+        the set of methods explained above, we have accounted for
+        all the effects of having only a small numbers of voters
+        for big weekly lists. One effect remains however, which
+        is the ease with which titles are able to re-enter the
+        charts again and again. The titles at the bottom of the
+        list, or just below it, have such small numbers of
+        voters, that sudden jumps are very common. We feel that
+        once a title has dropped out of the list, it should only
+        return when necessary.</font></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="33%"><font size="2" face="Arial">However,
+        instead of checking each re-entry with logical factors,
+        we decided to just limit the number of re-entries. Only
+        one or two titles can re-appear. The least powerful
+        re-entries will be removed and will have to try again in
+        the next week. (History proves that this rule has no
+        effect most of the time. It only needs to do its work in
+        an occasional quiet week, when there are suddenly several
+        re-entries, for a lack of real new titles.)</font></td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Conclusion</font></td>
+        <td colspan="2" width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">As you should have noticed, it is
+        not the case that the title that gets the most points
+        from our voters, will automatically be number one. Only
+        when it already has a very high position it could be
+        number one in the new chart. Otherwise it will have prove
+        itself, and do serious climbing first, which will
+        automatically be the case when it gets many points. This
+        compilation system introduces a chart that is robust.
+        Titles can only reach the top when they get many points
+        for several weeks in a row. The more usual 'most points
+        is highest position' system would cause very strange
+        things to happen, when the number of voters is limited,
+        like in this case. Another advantage of the adopted
+        system is that it is more interesting. Voters can
+        carefully watch the movements of their favourite titles,
+        and influence the movements by balancing their votes. Of
+        course, the influence of a single person on the chart
+        decreases, when the number of voters increases. </font></td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">Several comments</font></td>
+        <td colspan="2" width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">Each
+        chart needs a previous list to start with and to give
+        exponential points to. But with the first edition of a
+        new chart, we don't have a previous week. For that reason
+        we compile a list that is used as the 'initial list' in
+        week 0. For the Games Charts we compiled a list from many
+        magazine review percentages, and retail charts. For the
+        Albums Charts we used a mixture of the most important
+        albums retail charts in the world. For the Movies Charts
+        we made an initial list from Box Office lists and movie
+        ratings from Internet people. Such initial lists are
+        needed to get the algorithms and the chart rolling. They
+        are also needed because the number of voters needs to
+        grow to a reasonable amount, and it takes time to achieve
+        that. Normally, after one or two months, the effects of
+        having one initial (non-voters) list in week 0 will have
+        died out, and the chart will live on its own, fed by
+        voters only.</font></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="33%"><font size="2" face="Arial">The
+        points as showed in the last column of the published
+        charts are a simple total of all the votes that have been
+        received over the last five weeks. These points have not
+        been subject to reduction or normalization. This means
+        that you can see some strange things happening every now
+        and then. For example, a title can enter the chart at a
+        position above a second title that seems to have more
+        points. This happens when the new title received all or
+        most of its points in the last weeks, while many of the
+        second title's points have been received in previous
+        weeks, and have therefore been reduced (which is not
+        visible in the published chart). For people who
+        understand the way the lists are made, these unmodified
+        points can be an interesting indication of what will
+        happen in the next few weeks. A title that shows many
+        more points in the last column of the list than many
+        other titles above it, is expected to climb drastically
+        in the next week.</font></td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font color="#FFFFFF"
+        size="2" face="Arial">Only votes for the current week are
+        stored in our database. When we make a chart, the program
+        scans for votes in the previous weeks for people that
+        have not yet voted again. These votes are used at a
+        lesser weight. For year-end lists and other periodical
+        totals, only the votes that are actually stored in the
+        database are being added up. This means that someone who
+        votes every week, will have four times as much influence
+        on the year-end lists than someone who only votes every
+        month.</font></td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial"><i>This
+        was not the case for the Games Charts in the first two
+        years, when votes from people were actually stored four
+        times in the database, for four consecutive weeks. We had
+        to abolish this way of storing votes, to reduce the size
+        of the database and to be more flexible.</i></font></td>
+    </tr>
+    <tr>
+        <td width="33%" bgcolor="#FFFFFF"><font color="#000000"
+        size="5" face="Arial">And that's it</font></td>
+        <td width="33%">&nbsp;</td>
+        <td width="33%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="33%">&nbsp;</td>
+        <td colspan="2" width="33%"><font size="2" face="Arial">We
+        hope you understand the methods we use for the
+        compilation and why we use them. We feel that, if we
+        would just add up votes and present them as they came in,
+        the chart would suggest false information, indicate
+        trends where there aren't any, and would just confuse
+        people and be uninteresting to follow weekly. We hope
+        that the algorithms make the charts look like how they
+        would actually be if we had 1,000,000 voters. :)</font></td>
+    </tr>
+</table>
+</center></div>
+
+<hr>
+
+<p align="center"><a
+href="../tppmsgs/msgs4.htm#473" tppabs="http://www.cdmag.com/cgi-bin/subscription3.cgi?source=52350"><img
+src="_ADVERT.GIF" tppabs="http://www.worldcharts.com/_advert.gif"
+alt="Get Computer Games Strategy Plus for $1 an issue" border="0"
+width="392" height="46"></a></p>
+
+<hr>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td><a
+        href="../WWWXS4~1.NL/~JOJO/_COMPI~1.HTM" tppabs="http://www.xs4all.nl/~jojo/_compilation.html"><font
+        size="1" face="Arial">http://www.xs4all.nl/~jojo/_compilation.html</font></a></td>
+        <td align="center"><a href="_LEGAL~1.HTM" tppabs="http://www.worldcharts.com/_legal.html"><font size="1"
+        face="Arial">© 1997 World Charts</font></a></td>
+        <td align="right"><font size="1" face="Arial">Jurgen
+        'jojo' Appelo: </font><a href="mailto:jojo@xs4all.nl"><font
+        size="1" face="Arial">jojo@xs4all.nl</font></a></td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<html>
+<TITLE>
+The BAO Telescope control system.
+</TITLE>
+<body bgcolor="#00005F" text="#FFFFFF" vlink="#9F9F9F" link="#8F8FFF">
+<h1>The BAO Telescope control system.</h1>
+<img src="RAINBO~2.GIF" tppabs="http://www.astro.ku.dk/Icons/rainbowline.gif">
+<hr>
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/bao4.gif">
+<hr>
+<dl>
+  <dt><h3><img src="BLUEBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/blueball.gif">Introduction.</h3>
+  <dd> The BAO Telescope Control System is designed to integrate the
+  control of all the main observing instruments at BAO. This includes
+  the main telescope's stepper drive system and the operation of the
+  <a href="INSTR~1.HTM" tppabs="http://www.astro.ku.dk/~jacob/bao/instr.html">science CCD camera</a>
+  and the
+  <a href="INSTR~1.HTM" tppabs="http://www.astro.ku.dk/~jacob/bao/instr.html">guide camera</a>.<p>
+  The TCS was planned already in 1989, when Bjarne Lassen joined BAO.
+  With his great interest in electronics in general and stepper
+  motors in particular, he was the master mind behind the project. But the
+  project was delayed again and again due to lack of time.
+
+  The TCS was installed and ready for operation in the spring of 1993.
+
+  <dt><h3><img src="BLUEBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/blueball.gif">Function.</h3>
+  <dd> The two stepper motors (4 phased) are attached directly to the
+  worms of the drive. They are driven by two custommade controller cards,
+  placed in a 19" card cage. On the picture below, you can see the card cage
+  on the floor, surrounded by the rest of the equipment. This picture was taken
+  in connection with the final tests in 
+  <a href="DIVS~1.HTM" tppabs="http://www.astro.ku.dk/~jacob/bao/divs.html">BAO Hardware Divisions</a>
+  test lab.
+  A 80286 PC is driving the steppercontrollers by sending pulsetrains to 
+  them via two 8255 I/O cards.
+  This job is highly time critical, so the software on this PC has to be
+  designed carefully with respect to execution time.<p>
+
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/bjcellar.gif"><p>
+  
+  The 80286 PC is talking to the PC in master control of the whole TCS via
+  an RS-232 line operating at 115200 baud. At given intervals, the TCS PC
+  is receiving information about the step counters values and sending
+  commands to move the telescope to a new position.
+
+  <dt><h3><img src="BLUEBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/blueball.gif">The TCS PC.</h3>
+  <dd> This is the observatory main computer. From this you can control the TCS
+  , science CCD camera and the CCD autoguider. The software is designed in a 
+  sort of "multitasking" way, that is, slewing with the telescope and making
+  image reductions can be done at the same time. You can also start a longtime
+  exposure with the science camera, and meanwhile flatfied a previously taken
+  image. The TCS software also has features like automatically calculating the
+  polar misalignment, removing backlash in the gears and user-defined setting
+  of both slewing, setting and guidespeed.
+</dl>
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/bao6.gif">
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/bao5.gif">
+
+This is what observing was like before we got the new TCS and electricity.
+<hr>
+This page is maintained by Jacob Clasen <address>jacob@astro.ku.dk</address>
+and S&oslash;ren Larsen<address>soeren@astro.ku.dk</address>
+Last updated: May 15th, 1995.
+<p>
+<a href="Pending_relink" tppabs="http://www.astro.ku.dk/~jacob/bao">To the BAO Homepage</a>
+</html>

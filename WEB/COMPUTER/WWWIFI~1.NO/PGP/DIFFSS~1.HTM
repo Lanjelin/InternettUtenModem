@@ -1,0 +1,122 @@
+<html>
+<head>
+<title>What's new in PGP 2.6.3i?</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h1>What's new in PGP 2.6.3i?</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif">
+<p>
+<h3>Changes from PGP 2.6.2 to 2.6.2i</h3>
+<p>
+<ol>
+<li> New file diffs.doc added (this file).
+<li> New file readme.1st replaced readme.doc.
+<li> New file przon26i.asc by Philip Zimmermann added.
+<li> New file appeal.asc by Hugh Miller added.
+<li> Files setup.doc, changes.doc and pgformat.doc updated for version 2.6.2i.
+<li> Files blurb.txt and config.txt updated for version 2.6.2i.
+<li> Added note at beginning of files pgpdoc1.txt, pgpdoc2.txt and mitlicen.txt.
+<li> File keys.asc updated with a number of new public keys.
+<li> File keyserv.doc brought up to date. Thanks to Jeff Licquia.
+<li> Language file language.txt thoroughly updated. Norwegian translation added.
+<li> Help files fr.hlp and es.hlp updated for version 2.6.2i.
+<li> New help file pgp.hlp by John DeHaven added (old file renamed to en.hlp).
+<li> New help file no.hlp added.
+<li> Unix man file pgp.1 updated for version 2.6.2i.
+<li> Files in contrib/ and md5/ subdirectories updated for version 2.6.2i.
+<li> Files rsaref.zip, rsaref.asc and rsalicen.txt removed.
+<li> Makefiles updated to use MPILIB (rsaglue1) instead of RSAREF (rsaglue2).
+<li> Makefile dependencies for mpilib.h fixed.
+<li> Makefile option for sun4sunos5acc corrected.
+<li> Makefile option for Novell UnixWare 2.0 (gcc) added.
+<li> Makefile option for Mips R3230 running RISC/os 5.01 added.
+<li> Makefile option for ConvexCS added.
+<li> Makefile option for SCO-386 (cc) added.
+<li> Makefile options for SYSV (gcc) added.
+<li> New makefile makefile.tc for Borland/Turbo C added.
+<li> New project file pgp.prj for Borland/Turbo C added.
+<li> Source code file pgp.c updated for version 2.6.2i.
+<li> Source code file pgp.c modified to fix -o filename bugs.
+<li> Source code file config.c modified to add "legal kludge" option.
+<li> Source code file keymgmt.c updated to skip Christmas Day test.
+<li> Source code file charset.c updated to support NeXTSTEP character set.
+<li> Source code file zipup.c updated to support FreeBSD. Makefile option added.
+<li> Source code file armor.c modified to prevent PGP from hanging in MS-DOS.
+<li> Source code file crypto.c modified to fix signature bug for >2034 bit keys.
+<li> Source code files updated to support Borland/Turbo C.
+<li> Source code files updated to support Atari (gcc). Makefile option added.
+<li> Source code files updated to support Amiga (SAS/C 6.51).
+<li> New files amiga__main.c, amiga_asm.a and smakefile added.
+<li> New file strtol.c added for platforms that do not have strtol().
+<li> New file gettime.c added for platforms that do not have gettimeofday().
+<li> Header file mpilib.h modified to fix 2047 bit keygen bug.
+<li> Header file ztailor.h modified for VAXC preprocessor bug.
+<li> Header files platform.h and crypto.h updated for VMS (VAX/ALPHA).
+<li> All files in subdirectory vmsbuild/ removed.
+<li> Files descrip.mms, pgp.opt and vaxcrtl.opt removed.
+<li> New VMS command procedure pgpinstal.com added.
+</ol>
+<p>
+<h3>Changes from PGP 2.6.2i to 2.6.3i</h3>
+<p>
+<ol>
+<li>The compiler option -DMIT in 2.6.2i has been replaced with -DUSA. If
+    you compile with -DUSA you will get a version called 2.6.3, _not_
+    2.6.2. It is identical to 2.6.3i, except that the legal_kludge
+    cannot be disabled.<p>
+<li>Fixed a large number of bugs:
+<ul>
+     <li>Fixed PGPTEMP.$00 tempfile bug for PGP -k with xxKEY.HLP
+     <li>Fixed -f passphrase lockup bug for MS-DOS
+     <li>Fixed bug when input and output filenames refer to the same file
+     <li>Text files in 8-bit character sets may now be clearsigned
+     <li>PGP will not overwrite existing .asc files without your confirmation
+     <li>If key generation fails due to write-protected keyrings, PGP will
+         now abort with a proper error message
+     <li>Added error messages for 'pgp -w' (wipe only) option
+     <li>Fixed a large number of other minor bugs, too many to mention here
+</ul><p>
+<li>Added new functionality:
+<ul>
+     <li>Added -kv labelling to 'pgp -kxa' output
+     <li>Added capability to automatically sign userids upon creation
+     <li>Added "Charset:" header to clearsigned messages
+     <li>Added capability to read a list of recipients from a file rather
+         than having to type them in on the command line (the @ option)
+     <li>Added support for more character sets (cp852, cp860 etc.)
+     <li>Added support for system-wide language.txt file
+     <li>Added a number of new LANG() conversions, enabling translators
+         to translate more messages
+     <li>Added -lh5- archive recognition
+     <li>Added VMS help file pgp_vms.hlp
+</ul><p>
+<li>Modified source code and added a number of new files in order to let
+    PGP compile "out of the box" on many new platforms, most notably:
+<ul>
+    <li>DJGPP 2.0 (32-bit MS-DOS)
+    <li>Win32 (Windows NT, Windows 95)
+    <li>Macintosh (requires additional Mac-specific files)
+    <li>IBM mainframe running MVS (using the C/370 compiler)
+</ul><p>
+<li>Updated all source code and documentation files for version 2.6.3i.
+</ol>
+<p>
+Special thanks go to Vesselin Bontchev, David Boreham, Andrey Chernov, Yanik
+Crepeau, Harald Denker, John DeHaven, Guy Geens, Graham Jenkins, Stephan
+Kockmann, Alexander Kolbasov, Robert Knop, Mark Lewis, Jeff Licquia, mathew,
+Hugh Miller, Hendrik Mylius, Frank Pruefer, Armando Ramos, Peter Simons,
+Naoki Sugiyama, Edgar Swank, ViaCrypt, Philip Zimmermann and many more for
+comments, suggestions, submission of patches and other contributions.
+<p>
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" width=31 height=31 border=0></a>
+<font size=-1>Last updated
+
+February  5, 1997
+by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt;
+</font></address>
+</body>
+</html>
+
+

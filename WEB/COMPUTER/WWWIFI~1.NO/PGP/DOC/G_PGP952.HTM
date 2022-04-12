@@ -1,0 +1,998 @@
+<HTML>
+<HEAD>
+<TITLE>Guida Pratica a PGP</TITLE>
+</HEAD>
+<CENTER>
+<BODY background="S1B.GIF" tppabs="http://www.ifi.uio.no/pgp/doc/s1b.gif">
+<a name="ref100"></a>
+<HR>
+<H1>Guida Pratica a PGP<tt>(tm)</tt></H1>
+<h2>Pretty Good<KBD>(tm)</KBD> Privacy</h2>
+<h3>Programma di Crittografia a Chiave Pubblica</h3>
+<h4>ed. 95/2 - <a href="mailto:pastore@iol.it">pastore@iol.it</a> <img src="MAIL.GIF" tppabs="http://www.ifi.uio.no/pgp/doc/mail.gif"></h4>
+<HR>
+</CENTER>
+<a name="ref0"><h4><blink><i><a href="LEGGIMI.TXT" tppabs="http://www.ifi.uio.no/pgp/doc/leggimi.txt">premessa</a></i></blink></h4></a>
+<P>
+<h2>INDICE</h2>
+<P>
+<UL>
+<LI><B><A HREF="#ref10">INTRODUZIONE</A></B>
+<P>
+<UL>
+<LI> - 1.1&nbsp;&nbsp;<A HREF="#ref11">A cosa serve la crittografia</A>
+<LI> - 1.2&nbsp;&nbsp;<A HREF="#ref12">Cosa &egrave; PGP</A>
+<LI> - 1.3&nbsp;&nbsp;<A HREF="#ref13">Cosa prelevare e dove</A>
+</UL>
+<P>
+<LI><B><A HREF="#ref20">INSTALLAZIONE ED USO DI PGP</A>&nbsp;&nbsp; <i>(versione Dos)</i></B>
+<P>
+<UL>
+<LI> - 2.1&nbsp;&nbsp;<A HREF="#ref21">Configurazione ed installazione</A>
+<LI> - 2.2&nbsp;&nbsp;<A HREF="#ref22">Generazione della coppia di chiavi</A>
+<LI> - 2.3&nbsp;&nbsp;<A HREF="#ref23">Keyservers</A>
+</UL>
+<P>
+<LI>     <B><a href="#ref30">COMANDI PER GESTIRE IL FILE &quot;PUBRING.PGP&quot;</a></B>
+<P>
+<UL>
+<LI> - 3.1&nbsp;&nbsp;<A HREF="#ref31">Estrarre la propria chiave pubblica</A>
+<LI> - 3.2&nbsp;&nbsp;<A HREF="#ref32">Fingerprint</A>
+<LI> - 3.3&nbsp;&nbsp;<A HREF="#ref33">Esaminare il contenuto del file pubring.pgp</A>
+<LI> - 3.4&nbsp;&nbsp;<A HREF="#ref34">Aggiungere, certificare, rimuovere le chiavi pubbliche</A>
+<LI> - 3.5&nbsp;&nbsp;<A HREF="#ref35">Altri comandi per la gestione delle chiavi</A>
+</UL>
+<P>
+<LI>     <B><A HREF="#ref40">CODIFICA E DECODIFICA</A></B>
+<P>
+<UL>
+<LI> - 4.1&nbsp;&nbsp;<A HREF="#ref41">Codificare un messaggio</A>
+<LI> - 4.2&nbsp;&nbsp;<A HREF="#ref42">Firmare in chiaro</A>
+<LI> - 4.3&nbsp;&nbsp;<A HREF="#ref43">Codifica + firma</A>
+<LI> - 4.4&nbsp;&nbsp;<A HREF="#ref44">Distruzione del file sorgente</A>
+<LI> - 4.5&nbsp;&nbsp;<A HREF="#ref45">Decodificare e verificare un messaggio</A>
+<LI> - 4.6&nbsp;&nbsp;<A HREF="#ref46">Bad signature</A>
+</UL>
+<P>
+<LI>     <B><A HREF="#ref50">APPENDICI</A></B>
+<UL>
+<P>
+<LI> - A.1&nbsp;&nbsp;<A HREF="#ref51">Brevissimo sommario dei comandi</A>&nbsp;&nbsp;<img src="HELP.GIF" tppabs="http://www.ifi.uio.no/pgp/doc/help.gif">
+<LI> - A.2&nbsp;&nbsp;<A HREF="#ref52">Un regalino: PGP in italiano!</A>
+<LI> - A.3&nbsp;&nbsp;<A HREF="#ref53">PGP Win Front</A>
+<LI> - A.4&nbsp;&nbsp;<A HREF="#ref54">Avvertenze, siti ed url</A>
+<LI> - A.5&nbsp;&nbsp;<A HREF="#ref55">La mia chiave pubblica</A>
+</UL>
+<P>
+<LI>     <B><A HREF="#ref60">CONCLUSIONI</A></B> 
+</UL>
+<HR>
+
+<h2><A NAME="ref10">-  INTRODUZIONE  -</A></h2>
+
+<I>Ritorno all'<A HREF="#ref0">indice</A></I>
+<HR>
+
+<h3><A NAME="ref11">1.1&nbsp;&nbsp;&nbsp;A cosa serve la crittografia</A></h3>
+La crittografia deve consentire di:
+<UL>
+<P>
+<LI>codificare un messaggio affinch&egrave; solo il destinatario sia 
+	in grado di leggerlo 
+<P>
+<LI>autenticare il messaggio inviato affinch&egrave; il destinatario sia 
+	inequivocabilmente sicuro dell'identit&agrave; del mittente
+<P>
+<LI>autenticare sia il mittente che il messaggio affinch&egrave; il 
+        destinatario sia certo che il messaggio non &egrave; stato alterato
+</UL>
+<P>
+Poich&egrave; la corrispondenza per posta elettronica (e-mail) presenta notevoli 
+problemi di sicurezza e riservatezza, la crittografia risponde a queste
+esigenze che, in alcuni casi, risultano  senz'altro indispensabili come ad 
+esempio per l'invio di numeri telefonici, numeri di carte di credito,
+ordini di acquisto (essere certi che l'ordine arriva da una certa persona e 
+che la quantit&agrave; di beni acquistati sia veramente quella indicata), 
+organizzare appuntamenti, ecc....
+<P>
+<I>Ritorno all'<A HREF="#ref0">indice</A></I>
+<HR>
+
+<h3><A NAME="ref12">1.2&nbsp;&nbsp;&nbsp;Cosa &egrave; PGP</A></h3>
+Il problema insito nella crittografia in genere, o meglio il suo "tallone 
+d'Achille", consiste nel fatto che per cifrare e decodificare un messaggio 
+occorre una chiave segreta in possesso sia del mittente che del 
+destinatario.
+<P>
+Ma queste due persone potrebbero trovarsi a notevole distanza tra di loro o 
+addirittura non conoscersi affatto e pertanto, se non esiste un canale 
+sicuro per scambiarsi i codici di cifratura, occorre avvalersi di canali 
+(e-mail, chat, posta convenzionale) attraverso i quali la chiave potrebbe 
+essere intercettata.
+<P>
+PGP risolve il problema essendo un programma di "crittografia a chiave 
+pubblica " che si basa sulla generazione di una coppia di chiavi: una 
+"segreta" e l'altra "pubblica" .
+<P>
+Eliminando la necessit&agrave; di trasmettere una chiave segreta si riducono 
+praticamente a zero i rischi di frode.
+<P>
+L'utente tiene al sicuro la propria chiave segreta mentre diffonde e rende 
+disponibile la chiave pubblica.
+<P>
+&Egrave; stato stimato che (nel caso di chiavi a 1024 bit) una rete di un milione 
+di computers impiegherebbe qualcosa come 10^<sup>10</sup> anni (un tempo pari all'et&agrave; 
+dell'Universo) per poter ricavare una chiave privata da una chiave pubblica 
+... e a quel punto ci sarebbe ancora il problema di ricavare la Pass Phrase 
+segreta.
+<P>
+Una chiave pubblica, quindi, potrebbe non essere sicura solo se non si &egrave; 
+certi della sua reale autenticit&agrave; o appartenenza.
+<P>
+Vedremo in seguito come affrontare il problema della "certificazione" delle 
+chiavi pubbliche.
+<P> 
+Riassumendo:
+<P>
+<OL>
+<LI><i>la chiave segreta consente di decodificare il messaggio che &egrave;   
+	stato cifrato con la corrispondente chiave pubblica;</i><BR>
+<P>
+Per esempio:
+<UL>
+<LI>io sono in possesso della chiave pubblica di Stallonit e pertanto,
+    volendo inviargli una mail riservata (non d'amore credetemi!), effettuo 
+    la cifratura del messaggio usando la SUA chiave pubblica. Solo  
+    Stallonit, che ha la chiave privata, potr&agrave; decodificare la mail
+<BR>
+<LI>in modo analogo, quindi, con la mia chiave segreta posso decodificare 
+    tutte le mail che mi pervengo cifrate con la mia chiave pubblica
+</UL>
+<P>
+<LI>	<i>la chiave privata consente di apporre al messaggio una "firma" che 
+	identifica univocamente il mittente lasciandone per&ograve; inalterato 	(non cifrato) il suo contenuto;</i>
+<BR>
+<P>
+Per esempio:
+<UL>
+<LI>anche Stallonit, come molti altri, &egrave; in possesso della MIA chiave 
+    pubblica. Se volessi inviargli una mail non riservata dandogli per&ograve;  
+    nel contempo la certezza che sono proprio io ad averla spedita, posso 
+    effettuare la "firma in chiaro" del messaggio usando la mia 
+    chiave privata. Stallonit, usando la mia chiave pubblica, potr&agrave;    
+    verificare che il messaggio &egrave; stato inviato proprio dal sottoscritto  
+    ed inoltre che non &egrave; stato in alcun modo alterato da estranei. 
+
+<LI>Anche io, usando la chiave pubblica di un utente, posso verificare la    
+    "firma" che lui ha effettuato con la sua chiave privata.
+
+<LI>Questo sistema pu&ograve; anche essere usato nelle mail pubbliche in quanto, 
+    non essendo cifrato il corpo del messaggio, chiunque pu&ograve; leggerne il   
+    contenuto mentre coloro che sono in possesso della mia chiave pubblica,  
+    possono anche verificare che sono stato proprio io a scrivere tutte  
+    quelle stupidate ;-) 
+</UL>
+<P>
+<LI>	<i>la chiave pubblica di un utente codifica il messaggio e la propria 
+	chiave privata lo firma;</i>
+<BR>
+<P>
+Per esempio:
+<UL>
+<LI>quello che io ho scritto a Stallonit usando la sua chiave pubblica lo   
+    pu&ograve; decifrare solo Stallonit (con la sua chiave privata) ma chiunque    
+    potrebbe aver scritto quella mail. 
+    Pertanto, oltre a codificare il messaggio per Stallonit, lo firmo con    
+    la mia chiave privata
+
+<LI>mi &egrave; pervenuta una mail che Stallonit (ma quanto scrive !!) ha 
+    codificato con la mia chiave pubblica e firmato con la sua chiave 
+    privata. Oltre ad essere l'unico a poter leggere quella mail sono anche 
+    assolutamente certo che l'ha scritta Stallonit e non qualcun altro 
+    (di solito ne sono sicuro quando gli errori di "stompa" superano il 20%  
+    ... sigh!)
+</UL>
+</OL>
+<I>Ritorno all'<A HREF="#ref0">indice</A></I>
+<HR>
+
+<h3><A NAME="ref13">1.3&nbsp;&nbsp;&nbsp;Cosa prelevare e dove</A></h3>
+Il PGP &egrave; freeware, realizzato da Philip Zimmermann negli Stati Uniti con 
+altri contributi nelle versioni successive, &egrave; disponibile per DOS, OS/2, 
+Mac, Amiga, Atari, Unix, VMS (per questi ultimi due occorre compilare il 
+relativo sorgente) tutte compatibili tra di loro.
+
+Attualmente la versione internazionale &egrave; il PGP 2.6.2i, ed i files per dos 
+si chiamano: 
+<PRE>
+<UL>
+<LI><I> pgp262i.zip</I>   e   <I>pgp262ix.zip</I>   (eseguibili)
+<LI><I> pgp262is.zip</I>   (sorgente)
+</UL>                 
+</PRE>
+PGP si pu&ograve; trovare su moltissime bbs oppure prelevare da siti Internet.
+<P>
+Potete fare una ricerca "exact" utilizzando archie, oppure accedere
+direttamente ad un sito ftp come, ad esempio, quello del DSI - Universit&agrave; 
+Statale di Milano:
+<P>
+<a href="../../../tppmsgs/msgs29.htm#2903" tppabs="ftp://ftp.dsi.unimi.it/pub/security/crypt/PGP"><CENTER><I>ftp://ftp.dsi.unimi.it/pub/security/crypt/PGP/</I></CENTER></a>
+<P>
+Leggete con attenzione le avvertenze nll'appendice <a href="#ref54">A4</a> prima di prelevare il 
+file.
+<P>
+Un ottima shell per windows, che consente di utilizzare pgp (dopo averlo 
+installato!) senza digitare alcun comando, &egrave; PGP Win Front il cui nome per 
+la ricerca &egrave;:<I>&nbsp;&nbsp;&nbsp;pwf31.zip</I>
+<P>
+<I>Ritorno all'<A HREF="#ref0">indice</A></I>
+<HR>
+<h2><A NAME="ref20">-  INSTALLAZIONE ED USO DI PGP&nbsp;&nbsp;<i>(versione Dos)</i>  -</A></h2>
+<I>Ritorno all'<A HREF="#ref0">indice</A></I>
+<HR>
+
+<h3><A NAME="ref21">2.1&nbsp;&nbsp;&nbsp;Configurazioni e installazione</A></h3>
+<UL>
+<LI>	create una directory   <I>\pgp</I>
+<LI>	copiatevi il file <I>pgp262i.zip</I>
+<LI>	scompattatelo con il comando:  <I>pkunzip -d</I> pgp262i
+<LI>	troverete un altro file compresso (<I>pgp262ii.zip</I>) 
+<LI>	scompattate anch'esso con il comando:  <I>pkunzip -d</I>
+<LI>	editate il vostro file <I>autoexec.bat</I> 
+<LI>	aggiungete la directory <I>\pgp</I> al path 
+<LI>	inserite le seguenti righe:
+<UL>
+<LI><i>SET PGPPATH=C:\PGP</i>
+<LI><i>SET TZ=MET-1DST</i>
+</UL>
+
+<LI>riavviate il computer per rendere attive le modifiche 
+</UL>
+A questo punto &egrave; possibile usare PGP.
+<P>
+Sappiate che alla parola &quot;pgp&quot; (come vedremo in seguito) possono seguire:
+<UL>
+<LI>	opzioni, precedute dal segno  &quot; <B>-</B> &quot;
+<LI>	identificativo dell'utente (user ID)
+<LI>	identificativo della chiave pubblica (key ID)
+<LI>	identificativo del nostro user ID qualora ve ne siano pi&ugrave; di uno 
+        ( con il comando <B>-u</B> )
+<LI>	nomi di files
+</UL>
+Il primo comando da conoscere &egrave; <I><B>pgp -h</B></I> che richiama l'elenco dei comandi 
+di pgp (che potete leggere anche nell'appendice).
+<P>
+In questo testo, nel descrivere i comandi, useremo le seguenti convenzioni:
+<P>
+<PRE>
+&lt;id&gt;		= <I>identificativo del nome utente</I>
+
+&lt;K_id&gt; = <I>identifica la chiave utente</I> ed &egrave; preceduto da 0x (es. 0xM5529F43)
+        (potete sempre utilizzarlo al posto dell'identificativo utente &lt;id&gt;)
+	
+&lt;infile&gt;	= <I>nome del file da cifrare o decifrare</I>
+
+&lt;outfile&gt;	= <I>nome del file di destinazione</I> 
+
+&lt;mio_ID&gt;	<I>= identificativo del nostro user ID da utilizzare</I>
+
+[ ]		= <I>tra parentesi quadre i comandi opzionali</I>
+
+</PRE>
+
+<I>Ritono all'<A HREF="#ref0">indice</A></I>
+<HR>
+
+<h3><A NAME="ref22">2.2&nbsp;&nbsp;&nbsp;Generazione della coppia di chiavi</A></h3>
+&Egrave; decisamente la cosa fondamentale, o no? ... quindi digitate:
+<P>
+<CENTER><b><i>pgp -kg</i></b></CENTER>
+<P>
+Ed ecco cosa chiede PGP e cosa dovete fare:
+<P>
+<OL>
+<LI>	<i>decidere la lunghezza delle chiavi;</i>
+<BR>
+	per maggior sicurezza scegliete di generare chiavi di 1024 bit
+<P>
+<LI>	<i>scegliere il vostro &quot;user name&quot;</i> 
+<BR>
+	potete mettere il vostro nome e l'indirizzo e-mail tra 
+	parentesi angolari ( es. Pinco Poldo &lt;pinpoldo@provider.it&gt; )
+<P>
+<LI>	<i>scegliere la &quot;Pass Phrase&quot;</i>
+<BR>
+Per esempio:
+<UL>
+<LI>	-  &quot;tanto va la gatta al lardo che ci lascia lo zampino&quot;
+<LI>	- consiglio una frase molto lunga ma facilmente memorizzabile
+<LI>    - sconsiglio qualunque frase intuibile (dati personali ecc..)
+<LI>	- meglio intercalare lettere maiuscole/minuscole/numeri
+</UL>
+<P>
+<b>Attenzione:</b> la frase scelta vi verr&agrave; richiesta ogni qualvolta dovrete
+usare la chiave segreta per decodificare un messaggio o per firmare una 
+mail
+<P>
+<LI> 	<i>vi verr&agrave; chiesto di premere dei tasti a caso;</i>
+</OL>
+<P>
+Ci siamo!  
+<P>
+PGP ha generato la coppia di chiavi:
+<P>
+<UL>
+<LI>	quella segreta nel file <i>secring.pgp</i> (da custodire gelosamente)
+
+<LI>	quella pubblica nel file <i>pubring.pgp</i> 
+</UL>
+<P>
+Quest' ultimo &egrave; il database di default delle chiavi pubbliche che userete 
+e quindi per il momento, contiene solo la vostra ma con il tempo conterr&agrave; 
+anche le chiavi pubbliche di altri utenti e da voi aggiunte.
+<P>	
+Ora vi consiglio, al fine di evitare manipolazioni, di &quot;<i>firmare</i>&quot;
+immediatamente la vostra chiave pubblica con il comando: 
+<P>
+<CENTER><i><b>pgp -ks &lt;&quot;id&quot;&gt;</b></i></CENTER> 
+<P>
+&lt;&quot;id&quot;&gt; &egrave; l'identificativo d'utente, va posto tra virgolette e pu&ograve; essere 
+ad esempio lo username che avete indicato prima o una parte di esso (es. 
+Poldo senza l'indirizzo e-mail, oppure solo il cognome che avete usato 
+senza il nome) in quanto PGP riconosce anche solo una parte dello username.
+<P>
+Per consentirvi di firmare la chiave pubblica PGP vi chieder&agrave; di digitare 
+..... la pass phrase !
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref23">2.3&nbsp;&nbsp;&nbsp;Keyservers</a></h3>
+I keyservers sono dei database di chiavi pubbliche PGP accessibili a tutti 
+al fine di aggiungere la propria chiave o di estrarre quella di un utente.
+<P>
+I keyservers si aggiornano tra di loro quindi basta usarne uno qualsiasi 
+per inserirvi la propria chiave.
+<P>
+Potete usare, ad esempio, quello del Dipartimento di Scienze 
+dell'Informazione dell'Universit&agrave; Statale di Milano.
+<P>
+Le operazioni avvengono automaticamente per e-mail quindi:
+<P>
+<UL>
+<LI>scrivete a:&nbsp;&nbsp;&nbsp;<a href="mailto:pgp-public-keys@dsi.unimi.it"><i>pgp-public-keys@dsi.unimi.it</i></a>
+<P>
+<LI>nel campo subject mettete il comando: 	<i>ADD</i>
+<P>
+<LI>nel corpo del messaggio inserite la vostra chiave pubblica (quale? come? .... lo vedremo nel paragrafo <a href="#ref31">3.1</a>)
+</UL>
+<P>
+Per la cronaca ecco altri comandi accettati dai keyservers:
+<P>
+HELP ..............            indovinate voi ;-)
+<P>
+INDEX ............           lista tutte le chiave contenute nel keyserver
+<P>
+GET ................             ricevete tutte le chiavi pubbliche (sigh !!!)
+<P>
+GET [id] ..........        ricevete la chiave pubblica di determinato utente
+<P>
+MGET xxxx .....       es. &quot;mget @iol.it&gt;&quot; per ricevere le chiavi pubbliche
+                                         di utenti Italia Online
+<P>
+Su World Wibe Web potete anche raggiungere il keyserver  all'indirizzo:
+<P>
+<CENTER><i><a href="../../../tppmsgs/msgs29.htm#2904" tppabs="http://www-swiss.ai.mit.edu/~bal/pks-commands.html">http://www-swiss.ai.mit.edu/~bal/pks-commands.html</a></i></CENTER>
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h2><a name="ref30">-  COMANDI PER GESTIRE IL FILE &quot;PUBRING.PGP&quot;  -</a></h2>
+
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref31">3.1&nbsp;&nbsp;&nbsp;Estrarre la propria chiave pubblica</a></h3>
+Con questo comando estraete la vostra chiave pubblica:  
+<P>
+<CENTER><b><i>pgp -kxa &lt;id&gt; &lt;outfile&gt;</i></b></CENTER>		
+es. pgp -kxa Pinco miakey
+<P>
+Nell'esempio la chiave sar&agrave; contenuta nel file ascii &quot;miakey.asc&quot; 
+<P>
+Questo file lo potete distribuire e la chiave (con un semplice 
+taglia&incolla) potr&agrave; essere inserita nel corpo della mail da inviare al 
+keyserver.
+<P>
+Una breve considerazione sull'opzione &quot;<i>a</i>&quot; che troverete spesso abbinata ad 
+altri comandi: 
+<P>
+significa &quot;Ascii Armored&quot;, indica a PGP di produrre solo files che 
+contengono caratteri il cui codice decimale &egrave; compreso tra 0 e 127 (ascii 
+basso) al fine di renderli riconoscibili e trattabili da qualunque sistema.
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref32">3.2&nbsp;&nbsp;&nbsp;Fingerprint</a></h3>
+Il fingerprint &egrave; un hash (valore di lunghezza fissa) di 128 bit (32 cifre 
+esadecimali) della chiave pubblica e la identifica in modo univoco.
+<P>
+Potete ottenerlo con il comando:	
+<P>
+<CENTER><b><i>pgp -kvc &lt;id&gt;</i></b></CENTER>
+<P>
+es. pgp -kvc pastor   oppure   pgp -kvc @iol.it
+<P>
+Ricordate che PGP riconosce anche solo una parte dello user ID e che &egrave; 
+indifferente usare lettere minuscole o maiuscole !
+<P>
+Se per&ograve; vi sono degli spazi, l'ID deve essere sempre digitato tra 
+virgolette (es. pgp -kvc &quot;Pinco Poldo&quot;)
+<P>
+Omettendo di indicare lo user ID vi verrano elencati a video i fingerprint 
+di tutte le chiavi contenute nel pubring.
+<P>
+Il fingerprint ha il vantaggio che, essendo facilmente leggibile, pu&ograve; 
+essere diffuso nei messaggi pubblici, sui biglietti da visita, comunicato a 
+mezzo telefono ecc...
+<P>
+Quando vi arriva la chiave pubblica di una persona potete confrontare il 
+fingerprint, da voi gi&agrave; conosciuto, con il fingerprint ottenuto dalla sua 
+chiave: se coincidono &egrave; una garanzia di autenticit&agrave;.
+<P>
+In modo analogo, coloro che hanno ottenuto il vostro fingerprint da varie 
+fonti, potranno verificare l'autenticit&agrave; della chiave pubblica che gli 
+avete mandato via e-mail o che hanno prelevato da un keyserver.
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref33">3.3&nbsp;&nbsp;&nbsp;Esaminare il contenuto del file pubring.pgp</a></h3>
+Digitando il comando:<P>
+<CENTER><b><i>pgp -kv</i></b></CENTER>	
+<P>
+apparir&agrave; a video una schermata simile a questa (per il momento vi sar&agrave; solo la vostra key ID ed il vostro user ID) :
+<PRE>
+                Key ring: 'c:\pgp\pubring.pgp'
+
+		Type bits/<b>keyID</b>    Date       <i>User ID</i>
+
+		pub  1024/<b>FBC321M7</b> 1995/11/11 <b>Pinco Poldo &lt;pinpoldo@iol.it&gt;</b>
+
+		1 matching keys found.
+</PRE>
+Invece con il comando <b><i>pgp -kv &lt;id&gt;</i></b> (es. pgp -kv Pinco) potete listare un
+singolo User ID .
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref34">3.4&nbsp;&nbsp;&nbsp;Aggiungere, certificare, rimuovere le chiavi pubbliche</a></h3> 
+Per aggiungere chiavi pubbliche al vostro database pubring.pgp 
+fortunatamente non dovete digitare i caratteri della chiave.
+<P>
+Se ad esempio vi perviene una mail (o un file qualsiasi come questo) 
+contenente una o pi&ugrave; chiavi pubbliche che desiderate aggiungere al vostro 
+pubring, basta digitare:
+<P>
+<CENTER><b><i>pgp -ka &lt;infile&gt;</i></b></CENTER>
+<P>
+PGP, infatti, considera solo le chiavi contenute nel file ed ignora il 
+resto.
+<P>
+In fondo alla presente guida vi &egrave; la mia chiave pubblica, provate ad 
+aggiungerla al vostro pubring:&nbsp;&nbsp;&nbsp;<i>pgp -ka g_pgp951.doc</i> 
+<P>
+Quando aggiungete una chiave vi verr&agrave; chiesto se volete certificarla: 
+rispondete NO (n) se non siete sicuri al 100% che la chiave non sia stata 
+manipolata da terze persone.
+<P>
+Se &quot;firmate&quot; una chiave fasulla la dichiarate sicura dando false 
+informazioni a chi ne verr&agrave; in possesso dopo di voi.
+<P>
+Ipotizziamo che, dopo alcuni giorni, avete la certezza dell'autenticit&agrave; di 
+una chiave (magari confrontando il fingerprint che vi &egrave; stato dettato per 
+telefono) e volete certificarla:	 
+<P>
+<CENTER><b><i>pgp -ks  &lt;id&gt;</i></b></CENTER>		
+<P>
+consente di &quot;firmare&quot; la chiave.
+<P>
+Probabilmente chi vi ha inviato la sua chiave potrebbe avere piacere che 
+gliela restituite dopo averla certificata, quindi estraetela con il 
+comando:&nbsp;&nbsp;&nbsp;<i>pgp -kax &lt;id&gt; &lt;outfile&gt;</i>
+<P>
+In modo analogo, per aggiungere al pubring la vostra stessa chiave pubblica 
+certificata da un amico, baster&agrave; far leggere a PGP il file che la 
+contiene:&nbsp;&nbsp;&nbsp;<i>pgp -ka &lt;infile&gt;</i>&nbsp;&nbsp;&nbsp;aggiorner&agrave; il pubring.
+<P>
+Per rimuovere chiavi pubbliche dal pubring:&nbsp;&nbsp;&nbsp;<b><i>pgp -kr &lt;id&gt;</i></b>
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref35">3.5&nbsp;&nbsp;&nbsp;Altri comandi per la gestione delle chiavi</a></h3>
+Per verificare le certificazioni contenute in una chiave pubblica del 
+vostro pubring:&nbsp;&nbsp;&nbsp;<b><i>pgp -kc &lt;id&gt;</i></b>
+<P>
+Con il comando&nbsp;&nbsp;<b><i>pgp -ke &lt;id&gt;</i></b>&nbsp;&nbsp;potete anche editare alcuni parametri
+della vostra chiave privata (aggiungere altri userID se ad esempio avete 
+altri indirizzi e-mail oppure cambiare la frase segreta).
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref40"><h2>-  CODIFICA e DECODIFICA  -</h2></a>
+
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref41"><h3>4.1&nbsp;&nbsp;&nbsp;Codificare un messaggio</h3></a>
+Finalmente ci siamo ! <BR>
+Avete scritto un messaggio e volete spedirlo ad un amico.
+<P>
+Siete in possesso della sua chiave pubblica? <BR>
+L'avete aggiunta al vostro pubring? <BR>
+Perch&egrave; (spero l'abbiate ormai capito) lo dovrete cifrare usando la sua 
+chiave pubblica:
+<P>
+<CENTER><i><i><b>pgp -eta &lt;infile&gt; &lt;id&gt; -o &lt;outfile&gt;</b></i></i></CENTER>
+<P>
+che opzioni abbiamo usato?
+<P>
+<UL>
+<LI><b>-e</b>&nbsp;&nbsp;&nbsp;<i>serve per codificare il messaggio</i>
+<P>
+<LI><b>-a</b>&nbsp;&nbsp;&nbsp;<i>trasforma il file da codificare in modo ASCII armored</i>
+<P>
+<LI><b>-t</b>&nbsp;&nbsp;&nbsp;<i>se</i> &lt;infile&gt; <i>&egrave; composto da solo testo (non binario)</i>
+<P>
+<LI><b>&lt;infile&gt;</b>&nbsp;&nbsp;&nbsp;<i>&egrave; il nome del file da codificare</i>
+<P>
+<LI><b>-o &lt;outfile&gt</b>;&nbsp;&nbsp;&nbsp;<i>consente di indicare il nome del file risultante</i> dal comando
+                eseguito e, qualora venga omesso, il file avr&agrave; lo stesso nome
+                del file elaborato ma con estensione <b><i>.asc</i></b> o <b><i>.pgp</i></b>
+</UL>
+<P>
+Se &egrave; la prima volta che codificate un messaggio per quella persona e la 
+sua chiave pubblica non &egrave; stata ancora certificata, PGP vi chieder&agrave;' se 
+volete davvero usare quella chiave pubblica. 
+<P>
+Rispondete SI (Y) altrimenti la codifica non potr&agrave; avvenire se prima non 
+certificate quella chiave pubblica utilizzando il comando:&nbsp;&nbsp;&nbsp;<i>pgp -ks &lt;id&gt;</i>
+<P>
+&Egrave; anche possibile codificare files con la crittografia convenzionale, ad 
+esempio per rendere non leggibili documenti riservati sul proprio computer: 
+<P>
+<CENTER><b><i>pgp -c &lt;infile&gt;</i></b></CENTER>
+<i>
+<P>
+Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref42"><h3>4.2&nbsp;&nbsp;&nbsp;Firmare in chiaro</h3></a>
+Se al vostro amico volete inviare un messaggio non cifrato ma firmato con 
+la vostra chiave privata per garantirgli l'autenticit&agrave; del contenuto e del 
+mittente:
+<p>
+<CENTER><b><i>pgp -sta &lt;infile&gt; -o &lt;outfile&gt;</i></b></CENTER>
+<P>
+<b>-s</b> senza l'opzione &quot;<i>e</i>&quot; che abbiamo appena visto, forma il comando per 
+firmare in chiaro.
+<P>
+PGP vi avr&agrave; chiesto di digitare la pass phrase per poter utilizzare la 
+vostra chiave segreta.
+<P>
+Come avrete notato non abbiamo indicato nessun user ID: infatti la firma in 
+chiaro si ottiene con la propria chiave privata contenuta nel file 
+secring.pgp
+<P>
+Il destinatario, usando la vostra chiave pubblica in suo possesso, potr&agrave; 
+verificare l'identit&agrave; del mittente e l'integrit&agrave; della mail.
+<P>
+Dalla versione 2.5 di PGP in avanti, il file <i>config.txt</i> contiene l'opzione 
+&quot;CLEARSIG=on&quot; come default, al fine di abilitare la &quot;firma in chiaro&quot;.
+<P>
+Poich&egrave; PGP effettua anche una compressione del file codificato, ne 
+consegue che quest'ultimo risulta ugualmente illeggibile.
+<P>
+Per rendere pienamente leggibile il file &quot;firmato in chiaro&quot; &egrave; pertanto 
+necessario utilizzare le opzioni &quot;<i>a</i>&quot; (armor) e &quot;<i>t</i>&quot; (text) che ho indicato 
+oppure modificare opportunamento il file config.txt .
+<P>
+Per disabilitare la &quot;firma in chiaro&quot;: 	
+<P>
+<CENTER><i>pgp -s +cl=off &lt;infile&gt; -o &lt;outfile&gt;</i></CENTER>
+<P>
+&Egrave; inoltre possibile creare un certificato di firma separato dal messaggio 
+usando il comando
+<P>
+<CENTER><b><i>pgp -sb &lt;infile&gt;</i></b></CENTER>
+<P>
+con il quale verr&agrave; creato un file con estensione <b><i>.sig</i> </b>per la verifica del 
+file sorgente.
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref43"><h3>4.3&nbsp;&nbsp;&nbsp;Codifica + firma</h3></a>
+A questo punto siete gi&agrave; in grado di codificare un messaggio e di apporvi 
+la vostra firma: 
+<P>
+<CENTER><b><i>pgp -esta &lt;infile&gt; &lt;id&gt; -o &lt;outfile&gt;</i></b></CENTER>
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref44"><h3>4.4&nbsp;&nbsp;&nbsp;Distruzione del file sorgente</h3></a>
+Se il messaggio che avete preparato per la codifica &egrave; segreto e altre 
+persone possono accedere al computer, ricordate che non basta cancellarlo 
+con il comando &quot;delete&quot; in quanto potrebbe essere facilmente recuperato.
+<P>
+se volete eliminarlo definitivamente occorre fare il &quot;wipe&quot; del file, 
+operazione che anche PGP consente aggiungendo l'opzione   &quot;<b> w </b>&quot;  
+(es. <i>pgp -estaw &lt;infile&gt; &lt;id&gt; -o &lt;outfile&gt;</i> ).
+<P>
+Meglio precisare che la distruzione del &quot;file in chiaro&quot; vi mette al sicuro 
+dai tentativi di recupero convenzionali  ma non da eventuali procedure 
+sofisticate.
+<P>
+Attenzione inoltre ad eventuali files di backup o temporanei creati dal 
+word processor.
+<i>
+<BR>
+<P>
+Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref45"><h3>4.5&nbsp;&nbsp;&nbsp;Decodificare e verificare un messaggio</h3></a>
+
+Un messaggio potrebbe arrivare:
+<P>
+<UL>
+<LI>	<i>codificato con la vostra chiave pubblica</i> 
+<P>
+<LI>	<i>firmato da un mittente di cui avete la chiave pubblica</i>
+<P>
+<LI>	<i>sia codificato che firmato</i>
+</UL>
+<P>
+il solo comando:
+<P>
+<CENTER><b><i>pgp &lt;infile&gt; -o &lt;outfile&gt;</i></b></CENTER>
+<P>
+assolve a quanto sopra perch&egrave; agisce sia sulla codifica che sulla firma.
+<P>
+Se occorre la verifica della &quot;firma&quot;, non &egrave; necessario specificare lo user 
+ID poich&egrave; viene cercato automaticamente nel pubring.
+<P>
+Quando occorre effettuare la decodifica vi verr&agrave; chiesta la frase segreta.
+<P>
+Dopo aver aggiunto la <a href="#ref55">mia chiave pubblica</a> al vostro pubring.pgp (v.par. <a href="#ref34">3.4</a>)
+potete verificare anche l'autenticit&agrave; di quanto contenuto nel file zippato 
+<a href="#refdoc">gpgp952.zip</a> (che contiene questa &quot;guida&quot; in formato word per windows 2.0c)
+utilizzando il file di firma gpgp952.sig in esso contenuto.
+<P>
+Se digitate&nbsp;&nbsp;&nbsp;<i>pgp gpgp952.sig</i>&nbsp;&nbsp;&nbsp;vi verr&agrave; chiesto semplicemente il nome del
+file a cui si riferisce la firma (che &egrave; appunto gpgp952.zip).
+<P>
+<b>Attenzione:</b> potrete essere certi che il file .zip (e tutti i files in esso 
+contenuti) non sono stati in alcun modo alterati solo se siete sicuri 
+dell'autenticit&agrave; della mia chiave pubblica (controllate eventuali 
+certificazioni di altri utenti oppure il mio fingerprint sui keyservers o 
+nelle numerose mail pubbliche che scrivo nei forum di Italia Online e 
+newsgroup IOL) .
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref46"><h3>4.6&nbsp;&nbsp;&nbsp;Bad signature</h3></a>
+
+Pu&ograve; capitare che la verifica di una firma apposta su un testo non abbia 
+risultato positivo e che PGP vi allerti con il messaggio &quot;<i>Bad Signature!</i>&quot;.
+<P>
+Potrebbe essere successo che:
+<P>
+<UL>
+<LI>	il messaggio &egrave; stato alterato
+<P>
+<LI>	dopo la codifica sono stati inseriti altri caratteri tra l'inizio 
+	( BEGIN PGP MESSAGE ) e la fine ( END PGP MESSAGE ) del messaggio.
+
+</UL>
+<P>
+Quest'ultima ipotesi potrebbe verificarsi anche quando avete preparato il 
+testo con un editor e, dopo averlo firmato in chiaro, avete effettuato il 
+taglia&incolla per importarlo nel corpo del messaggio da spedire con Eudora 
+o altro offline mailer. 
+Poich&egrave; Eudora va &quot;a capo&quot; automaticamente e quindi introduce in modo 
+esplicito il carattere di &quot;a capo&quot; alla fine di ogni riga .... ecco che 
+altera il corpo del messaggio il quale non potr&agrave; pi&ugrave; corrispondere alla 
+&quot;firma&quot; !!!
+<P>
+Il problema, che io sappia, non &egrave; risolvibile con Eudora.
+<P>
+Potete provare a creare il messaggio andando manualmente a capo dopo un 
+numero di colonne inferiore a quelle accettate da Eudora nel corpo della 
+mail.
+<P>
+Se preparate il messaggio con un pacchetto formato QWK o simile, oltre ad 
+utilizzare il &quot;trucco&quot; dell' andare a capo manualmente ad ogni riga 
+dell'editor, potete usare un tool come AutoPGP (nome del file: <i>apgp212.zip</i>) 
+che agisce direttamente sul pacchetto QWK e pertanto firma il messaggio 
+dopo che sono stati introdotti i caratteri di &quot;a capo&quot; (word wrap).
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<a name="ref50"><h2>- APPENDICI -</h2></a>
+
+Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref51">A.1&nbsp;&nbsp;&nbsp;Brevissimo sommario dei comandi</a>&nbsp;&nbsp;<img src="HELP.GIF" tppabs="http://www.ifi.uio.no/pgp/doc/help.gif"></h3>  
+<PRE>
+<i>Generare le chiavi</i>       	pgp <b>-kg</b>
+<p>
+<i>Aggiungere una chiave</i>    	pgp <b>-ka <infile></b> [pubring]
+<p>
+<i>Estrarre una chiave</i>      	pgp <b>-k</b>x[a] <b><id> <infile></b> [pubring]
+<p>
+<i>Listare il pubring</i>		pgp <b>-kv</b>[v] [id] [pubring]
+<p>
+<i>Vedere il fingerprint</i>		pgp <b>-kvc</b> [id] [pubring]
+<p>
+<i>Dettagli del pubring</i> 		pgp <b>-kc</b> [id] [pubring]
+<p>
+<i>Cancellare una chiave</i>   	pgp <b>-kr <id></b> [pubring]
+<p>
+<i>Aggiungere un altro userID</i>	pgp <b>-ke <id></b> [pubring]
+<p>
+<i>Editare la pass phrase</i> 		pgp <b>-ke <id></b> [pubring]
+<p>
+<i>Firmare una chiave</i>  		pgp <b>-ks <id></b> [-u <mio_ID>] [pubring]
+<p>
+<i>Cancellare una "firma</i>"  	pgp <b>-krs <id></b> [pubring]
+<p>
+<i>Cifrare</i>		                pgp <b>-e</b>[t][a][w] <b><infile> <id></b> [id2 ..] [-o <outfile>]
+<p>
+<i>Firmare</i>		                pgp <b>-s</b>[t][a] <b><infile></b> [-u <mio_id>] [-o <outfile>]
+<P>
+<i>Cifrare e Firmare</i>		pgp <b>-es</b>[t][a][w] <b><infile> <id></b> [id2 ..][-u <mio_id>] [-o <outfile>]
+<P>
+<i>Cifratura convenzionale</i>		pgp <b>-c</b> <infile>
+<P>
+<i>Decifrare/verificare firme</i> 	pgp <b><infile></b> [-o <outfile>]
+<P>
+<P>
+[ <i>a</i> ] = ASCII Armored
+<P>
+[ <i>o</i> ] = per indicare il nome del file risultante
+<P>
+[ <i>w</i> ] = per distruggere il testo da cifrare (dopo la codifica)
+<P>
+[ <i>m</i> ] = per vedere i risultati a video e non in un file
+</PRE>
+<P>
+<p>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref52">A.2&nbsp;&nbsp;&nbsp;Un regalino: PGP in italiano !</a></h3>
+Marco Giaiotto ha tradotto in italiano l'intero manuale di PGP rendendolo 
+disponibile sul WWW all'indirizzo:
+<P>
+<CENTER><i><a href="ITALIA~1.HTM" tppabs="http://www.ifi.uio.no/pgp/doc/italian.html">http://www.ifi.uio.no/pgp/doc/italian.html</a></i></CENTER>
+<P>
+Poich&egrave; questa sintetica guida non pu&ograve; avere la pretesa di sostuire il 
+manuale, ne raccomando vivamente la lettura non solo per una maggior 
+completezza della trattazione ma anche per le argomentazioni dei principi 
+di libert&agrave; e riservatezza ai quali si &egrave; ispirato Philip Zimmermann.
+<P>
+Sempre grazie a <i><a href="mailto:marco.giaiotto@rivoli.alpcom.it">marco.giaiotto@rivoli.alpcom.it</a></i> sono inoltre disponibili i 
+due files <b>language.it</b> e <b>it.hlp</b> (<a href="IT_PGP.ZIP" tppabs="http://www.ifi.uio.no/pgp/doc/it_pgp.zip">it_pgp.zip</a>) che consentono di avere PGP in
+lingua italiana.
+<P>
+Ecco come usarli:
+<UL>
+<P>
+<LI> nella directory  \pgp  editate il file <i>config.txt</i>;
+<P>
+<LI> alla 29^ riga (pi&ugrave; o meno) troverete:&nbsp;&nbsp;
+        <i>language</i> = <i>en</i>&nbsp;&nbsp;sostituitelo con&nbsp;&nbsp;      <b>language = it</b>
+<P>
+<LI> rinominate il file <i>language.txt</i> (es. language.eng)
+<P>
+<LI> copiate i files <i>language.it</i> e <i>it.hlp</i> nella directory   \pgp 
+<P>
+<LI> rinominate <i>language.it</i> con il nome <b>language.txt</b>
+<P>
+<LI> dalla directory /pgp eseguite il comando: <b><i>pgp</i></b>
+</UL>
+A questo punto la maggior parte dei messaggi e l'help saranno in lingua 
+italiana.
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i><BR>
+<hr>
+
+<h3><a name="ref53">A.3&nbsp;&nbsp;&nbsp;PGP Win Front</a></h3>
+PGP Win Front (<i>pwf31.zip</i>) &egrave; un'ottima shell per windows che consente di 
+utilizzare PGP in modo semplice ed automatico (per usarlo &egrave; necessario 
+avere PGP 2.6.2 installato e funzionante).
+<P>
+Dopo aver scompattato il file pwf31.zip l'installazione avviene da windows 
+(file manager) eseguendo il setup .
+<P>
+Poich&egrave; conoscete ormai molti dei comandi essenziali di PGP, vi risulter&agrave; 
+facile imparare l'utilizzo di questa shell semplicemente guardando i 
+comandi pgp che compaiono in una apposita finestra.
+<P>
+<i>Ritorno all'<a href="#0">indice</a></i><BR>
+<hr>
+
+<h3><a name="ref54">A.4&nbsp;&nbsp;&nbsp;Avvertenze, siti ed url</a></h3>
+Innanzitutto un ringraziamento al gi&agrave; citato Stallonit per la stesura di
+questo paragrafo (<a href="mailto:aglietti@mbox.vol.it"><i>aglietti@mbox.vol.it</i></a>)
+<P>
+Iniziamo con un avvertimento: non &egrave; consentito prelevare la versione USA 
+di PGP ma solo la versione internazionale denominata pgp262i o pgp 262ix.
+<P>
+Consiglio quindi di prelevare PGP escusivamente da siti europei in quanto
+il download di una versione da un sito americano &egrave; un reato federale e 
+pertanto, se non effettuato in totale anonimato (cosa impossibile), ritengo 
+possiate essere perseguiti penalmente anche in Italia.  
+<P>
+Vi rammento che la perdita della "pass phrase" comporta l'impossibilit&agrave; di 
+qualsiasi operazione futura con conseguente necessit&agrave; di generare una 
+nuova chiave ed avvertire (sigh!) tutti coloro che ne hanno una copia.
+<P>
+Qualora non riteniate pi&ugrave; affidabile (riservato e segreto) il vostro 
+secring.pgp e/o la pass phrase, dovrete immediatamente revocare la chiave 
+pubblica con il comando <b><i>pgp -kd <id></i></b>, rendere pubblica (anche ai 
+keyservers) la revoca della chiave compromessa nonch&egrave; l'esistenza di 
+quella nuova. 
+<P>
+PGP 2.6.2i &egrave; disponibile  per i sistemi :
+<UL>
+
+<LI>Ms-DOS 
+<LI>Ms-Dos 32 bit (per sistemi 386 o sup.) 
+<LI>OS/2 
+<LI>Atari 
+<LI>Amiga 
+<LI>Macintosh (versione non internazionale sigh!!) 
+</UL>
+e pu&ograve essere prelevato su WWW all'url:
+<P>
+<a href="../DOWNLO~1.HTM" tppabs="http://www.ifi.uio.no/pgp/download.shtml">http://www.ifi.uio.no/pgp/download.shtml</a>
+<P>
+oppure via FTP al sito: 	
+<P>
+<a href="../../../tppmsgs/msgs29.htm#2905" tppabs="ftp://ftp.ifi.uio.no/pub/pgp">ftp.ifi.uio.no</a>		
+<P>
+sotto la cui directory pub/pgp si trovano sorgenti e compilati per tutte le 
+piattaforme, la documentazione originale, moduli per altre lingue, FAQ,  
+etc... 
+<P>
+Tutte le nuove eventuali versioni di PGP vengono inizialmente caricate nel 
+sito sopra citato.
+<P>
+Ecco invece alcuni keyservers:
+<P>
+<a href="../../../tppmsgs/msgs29.htm#2906" tppabs="http://pgp.ai.mit.edu/~bal/pks-toplev.html">http://pgp.ai.mit.edu/~bal/pks-toplev.html</a>&nbsp;&nbsp; 
+					(interfaccia al KEYSERVER del MIT)
+<p>
+cloni di questo keyserver sono:
+<PRE>
+<UL>
+<LI>http://goliat.upc.es/~alvar/pks/pks-toplev.html 	(Spagna)
+<LI>http://www.cl.cam.ac.uk/PGP/#pks 			(Inghilterra)
+<LI>http://www.uit.no/cc/tjenester/PGP/servruit.eng.html 	(Norvegia)
+<LI>http://www.nic.surfnet.nl/pgp/pks-toplev.html 		(Olanda)
+<LI>http://math-www.uni-paderborn.de/pgp/ 			(Germania)
+</UL>
+</PRE>
+Il front end PWF 3.1 &egrave; disponibile in numerosi siti, tra i quali:
+<PRE>
+<UL>
+<LI><a href="../../../tppmsgs/msgs27.htm#2770" tppabs="ftp://ftp.ifi.uio.no/pub/pgp/pc/windows/">ftp.ifi.uio.no</a>          ( /pub/pgp/pc/windows/pwf31.zip )
+<LI>nic.funet.fi 		( /pub/msdos/Mirrors/CICA/util/pwf31.zip )
+<LI>ftp.uni-stuttgart.de	( /pub/systems/pc/win3.cica/util/pwf31.zip )
+<LI>ftp.uni-paderborn.de 	( /Cica/util/pwf31.zip )
+<LI>ftp.ust.hk 		( /pub/cica/win3/util/pwf31.zip )
+<LI><a href="../../../tppmsgs/msgs29.htm#2907" tppabs="ftp://ftp.cnr.it/pub/PC-IBM/win3.cica/util/">ftp.cnr.it</a>              ( /pub/PC-IBM/win3.cica/util/pwf31.zip )
+<LI>ntu.ac.sg 		( /archive4/win3/util/pwf31.zip )
+<LI>ftp.sunet.se 		( /pub/pc/windows/mirror-cica/util/pwf31.zip )
+<LI>ftp.cica.indiana.edu 	( /pub/pc/win3/util/pwf31.zip )
+</UL>
+</PRE>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+<h3><a name="ref55">A.5&nbsp;&nbsp;&nbsp;La mia chiave pubblica</a></h3>
+<PRE>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 2.6.2i
+
+mQCNAzClMukAAAEEANmPwgaLicq8NSTYC6ltwhJNOwY1EgAwctyQeUtuvgmOVUev
+CjgpRDXJV2/cCnysO9D12Kf7vYU10rjvuROdUoGy8++yUa4DDahjpoklZOWHgV/2
+MtZmtshO1ehGrOo4pHaSbIkQuWn0zu2tZ44ox5nXE/S4rQGJRwlgXyf6wlP1AAUR
+tBhQYXN0b3JlIDxwYXN0b3JlQGlvbC5pdD6JAJUCBRAwqHlt4y1pNWVSn0EBATCe
+A/sGk3IarEz6QjfjTPEYoKwh9rN7YZWpV/rhKjlT4nzjN7bEkSrCxJWOqyyEbgGP
+yFNrtbi3309r7//0+tB7EwUEAk1A3g8ocHE/sY6X5H9s/4wGJJK6vbnywpW9KSXN
+6czcl3QvwnQKfh8oyzhuVeo7hZW7LqThW8riqifYuMtu6okAlQMFEDClMw0JYF8n
++sJT9QEBKHoD/ixuwFbd9Tt/zqf9o7701InIZDA2NOrGS35KwAUPDnnbCY4zSvrA
+xvCVaTmBsNRnv5Vg0HHbLLQbAl8a24M088nu8to6oHbOFj/bhQO6I3FKSsY9ee1l
+z9UWoZmhc8C5mdRxBS9CgJYOmpKR5WdblzCHr17TE4978P3YnT++UwHa
+=VuO1
+-----END PGP PUBLIC KEY BLOCK-----
+</PRE>
+per prelevarla:&nbsp;&nbsp;<a href="IDPAST.ZIP" tppabs="http://www.ifi.uio.no/pgp/doc/idpast.zip">idpast.zip</a>
+<br>
+<p>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+
+
+<h2><a name="ref60">-  CONCLUSIONI  -</a></h2>
+<P>
+    <i>Ora che sono giunto alla conclusione di questa "guida" introduttiva 
+all'uso di PGP mi chiedo: perch&egrave; l'ho scritta ?
+<P>
+       Probabilmente, non essendo un esperto di crittografia e PGP ma bens&igrave; 
+un neofita, l'ho scritta nella speranza che chiunque abbia la necessit&agrave; (o 
+bont&agrave;) di leggerla e la pazienza di scrivermi (suggerimenti, critiche, 
+informazioni utili) possa anche in qualche modo aiutarmi ad imparare 
+qualcosa in pi&ugrave; o a correggere eventuali errori che ho commesso.
+<P>
+       La pretesa non era di scrivere qualcosa di esauriente (molto meglio 
+leggersi le numerose FAQ in merito) ma bens&igrave; una guida pratica (e 
+sintetica) comprensibile anche a mio padre, per me grande esempio in 
+moltissime cose della vita ma, haim&egrave;, con una idiosincrasia innata anche 
+nei confronti del mouse e della tastiera.
+<P>
+       Mi auguro quindi venga letto non solo da chi si avvicina a PGP per la 
+prima volta ma anche (con la dovuta magnanimit&agrave;) da persone esperte e 
+smaliziate.
+<P>
+       Vi invito, ancora una volta, ad inviarmi le vostre considerazioni, 
+informazioni utili, segnalazioni di inesattezze o dimenticanze e 
+quant'altro possa servire a me e agli altri amici che avranno modo di 
+leggere eventuali versioni successive o che mi scriveranno per maggiori 
+chiarimenti.</i>
+<P>
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+<PRE>
+    / \__
+   (    @\___
+  /         O     bye by byte da Pastore  
+ /   (_____/      .... e un "bau" dai suoi aiutanti
+/_____/         
+
+fingerprint: 45 8E 8D 34 3C EE BB 3C  9D 04 E8 92 FB 0A E0 C8
+</pre>
+<hr>
+Potete scrivere commenti e suggerimenti all'indirizzo: 
+<ADDRESS>
+<img src="MAIL.GIF" tppabs="http://www.ifi.uio.no/pgp/doc/mail.gif"> <a href="mailto:pastore@iol.it">pastore@iol.it</a>
+</ADDRESS>
+<HR>
+<pre>
+<a href="G_PGP952.ZIP" tppabs="http://www.ifi.uio.no/pgp/doc/g_pgp952.zip">g_pgp952.zip</a> <a name="refdoc">per prelevare questa guida in formato word per windows 2.0c 
+             copresi i files per PGP in italiano</a>
+<a href="G_PGP952.TXT" tppabs="http://www.ifi.uio.no/pgp/doc/g_pgp952.txt">g_pgp952.txt</a> per ottenere solo il testo ascii
+
+<i>Ritorno all'<a href="#ref0">indice</a></i>
+<hr>
+Ringraziamenti:
+
+<a href="mailto:rcastel@micronet.it">Tito</a>, che ha curato l'impaginazione del testo html
+<a href="mailto:marco.giaiotto@rivoli.alpcom.it">Marco Giaiotto</a>, per la disponibilit&agrave; e l'incoraggiamento
+<a href="mailto:aglietti@mbox.vol.it">Stall</a>, sollecito nei preziosi suggerimenti 
+<a href="mailto:rgalanti@iol.it">Roby</a>, per il supporto linguistico ;-)
+</PRE>
+<hr>
+</BODY>
+</HTML>

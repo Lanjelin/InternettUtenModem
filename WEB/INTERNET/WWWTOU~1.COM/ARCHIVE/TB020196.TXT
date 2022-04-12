@@ -1,0 +1,165 @@
+Date: Sat, 3 Feb 1996 20:02:14 -0600
+From: Patrick Douglas Crispen <pcrispe1@ua1vm.ua.edu>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - FEBRUARY 1, 1996 - ANTHROPOLOGY/ARCHAEOLOGY
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TOURBUS - THURSDAY, FEBRUARY 1, 1996
+TODAY'S STOP: ANTHROPOLOGY/ARCHAEOLOGY ON THE WEB
+
+Greetings from the frozen South!  Since the recent winter storm that hit
+Dixie has left Alabama covered with a thick sheet of ice, and since almost
+every road in the entire state of Alabama is closed (which means that your
+fearless bus driver can not drive to the computer center to play on the
+Net), I have asked Anita Cohen-Williams in sunny Arizona (where is NEVER
+snows) to guest write today's TOURBUS for me.
+
+I have been a big archaeology fan since I was a kid -- when I read every
+book in my elementary school library (Roy Clark elementary, Tulsa, OK)
+about ancient Egypt -- so today's TOURBUS post has a special meaning for
+me.
+
+I'll be back behind the wheel next week ... as soon as I thaw out :)
+
+-----------------------------------------------------------------------------
+
+From: Anita Cohen-Williams <IACAGC@asuvm.inre.asu.edu>
+
+ANTHROPOLOGY/ARCHAEOLOGY ON THE WEB & DISCUSSION LISTS
+======================================================
+
+In this edition, I am presenting sites that link to lots of anthropology and
+archaeology web pages. There seem to be more archaeology pages out there than
+anything else. I have included two sites for museums as well.
+
+ANTHROPOLOGY ON THE INTERNET
+http://dizzy.library.arizona.edu/users/jlcox/first.html
+
+This is a web site that I have set up (with the help of Jennifer Cox at the
+University of Arizona). The pages are in the following sections: cultural
+anthropology; archaeology; linguistics; physical & biological anthropology;
+electronic journals; institutes, labs, associations, societies, directories,
+etc.; and museums.
+
+ALLEN H. LUTINS' ANTHROPOLOGY RESOURCES ON THE INTERNET
+http://www.nitehawk.com/alleycat/anth-faq.html
+
+This is an extensive site which includes web pages, discussion lists,
+newsgroups, gophers, and FTP sites.
+
+UVa ANTHRONET http://darwin.clas.virginia.EDU/~dew7e/anthronet
+
+David Wheeler's site has a section that allows one to directly subscribe to
+discussion lists.
+
+SOUTHWESTERN ARCHAEOLOGY http://seamonkey.ed.asu.edu/swa/
+
+The "type site" for information and links to archaeology sites in the
+Southwestern U.S. and Northern Mexico. It also has an Anti-archaeology
+section. Take a look at the Pelli People.
+
+ARCHAEOLOGY MAGAZINE http://www.he.net/~archaeol/index.html
+
+This is the web page for the popular magazine, published by the Archaeological
+Institute of America. Nice graphics.
+
+GUIDE TO MUSEUMS AND CULTURAL RESOURCES ON THE WEB
+http://www.lam.mus.ca.us/webmuseums
+
+IMHO, the best place to start when looking at museum web pages. The links are
+to both national and international museums. Jim Angus keeps this page as
+current as possible.
+
+THE LOST MUSEUM OF SCIENCES http://www.netaxas.com/people/aca3/ATRIUM.HTM
+
+A really neat site for people who enjoy getting lost in museums. You can
+wander its halls and links for hours. There is also an ongoing hunt for
+special museum exhibits (a contest).
+
+ACADEMIC DISCUSSION LISTS (please note the the term LISTSERV refers to a
+software program, not the list)
+
+ANTHRO-L@UBVM.CC.BUFFALO.EDU
+
+General anthropology list with discussions ranging from hominid brain sizes to
+ethnographic fieldwork. To subscribe, send the command SUBSCRIBE ANTHRO-L
+yourfirstname yourlastname to listserv@ubvm.cc.buffalo.edu.
+
+ARCH-L@TAMVM1.TAMU.EDU
+
+General archaeology list. It is international in scope and covers all aspects
+of archaeology. To subscribe send the command SUBSCRIBE ARCH-L yourfirstname
+yourlastname to listserv@tamvm1.tamu.edu.
+
+ARCH-THEORY MAILBASE@MAILBASE.AC.UK
+
+A group from England that covers archaeological theory, material culture,
+cultural identity, and perspectives from anthropology & history. Send message
+"Join arch-theory yourname" to mailbase@mailbase.ac.uk.
+
+HISTARCH@ASUVM.INRE.ASU.EDU
+
+A list devoted to historical archaeology (European expansion and after). To
+subscribe send the command SUBSCRIBE HISTARCH yourfirstname yourlastname to
+listserv@asuvm.inre.asu.edu.
+
+SPANBORD@ASUVM.INRE.ASU.EDU
+
+Covers the history and archaeology of the Spanish Borderlands of North America
+(including Northern Mexico), 1521-1900. To subscribe send the command
+SUBSCRIBE SPANBORD yourfirstname yourlastname to listserv@asuvm.inre.asu.edu.
+
+SUB-ARCH@ASUVM.INRE.ASU.EDU
+
+This list covers underwater archaeology from an academic/professional
+viewpoint. The members are from all over the world, including Australia,
+England, and Canada. To subscribe send the command SUBSCRIBE SUB-ARCH
+yourfirstname yourlastname to listserv@asuvm.inre.asu.edu.
+
+
+YIDDISH WORD OF THE DAY
+
+Since I am not from the South, I figured that I would pick a word from a
+language that is dying out (unfortunately).
+
+Chutzpah: the classic definition of this word is the man who murders both his
+parents and then throws himself on the mercy of the court because he is an
+orphan. To pronounce it, you need to do a hard ch (like clearing your throat),
+and the z is a ts sound.
+
+
+Anita Cohen-Williams; Reference Services; Hayden Library
+Arizona State University, Tempe, AZ  85287-1006
+PHONE: (602) 965-4579              FAX: (602) 965-9169
+IACAGC@ASUVM.INRE.ASU.EDU  Owner: HISTARCH, SPANBORD, SUB-ARCH
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.

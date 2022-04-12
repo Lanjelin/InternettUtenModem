@@ -1,0 +1,518 @@
+                        An Argosy of PBEM Advice
+ 
+                                -or-
+ 
+                        Everything You Ever Wanted
+                        to Know About Running or 
+                        Playing in Play-by-Electronic-
+                        Mail Role-Playing Games
+ 
+                                -or-
+ 
+                        Zen & the Art of PBEMs, 
+                        The Hitch-Hiker's Guide to
+                        PBEMs, PBEMs on $1.50 a Day,
+                        etc.
+ 
+                                ~~~~
+ 
+                        Compiled by Andrew Fabbro
+                           (afabbro@umich.edu)
+ 
+                                ~~~~
+ 
+                             Version 1.0
+                           5 February 1994
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Section 0: Introduction & Table of Contents
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ 
+This document is a modest collection of advice on the fine and noble art
+of running and playing in play-by-electronic-mail (PBEM) role-playing
+games.  It does not cover role-playing games that were specifically
+designed to be played as PBMs/PBEMs (such as Atlantis, Arena, etc.). 
+Instead, it offers advice on how to adapt paper-and-pencil RPGs to PBEM play.
+ 
+To my knowledge, the only net.doc ever previously written on the subject was
+Chua Hak Lien's excellent _Totally Harmless !Complete Guide to PBEMs_.  After
+mentioning it rather casually on rec.games.pbm, I was flooded with requests
+for copies.  After seeing Bruce Saul and Rob McNeur post other useful
+advice, I decided to compile all this sage wisdom into a formal (ha!)
+document.  Everyone concerned was kind enough to grant me permission, and
+thus, the Argosy of PBEM Advice.
+ 
+However, this document is far from finished.  If you have anything you'd
+like to add, or if you are aware of other net.docs on the subject, please
+send them to me (afabbro@umich.edu) so I can include them in the next version.
+Here is your chance to be a big net.star...see your name in little pixeled
+lights...and gain big heaping bucketfuls of good karma.  Heck, you might
+even inspire someone to start a PBEM you'd like to play in.  The only rule
+regarding material for the Argosy is that the original author must grant
+me permission to include it.
+ 
+Your feedback and opinions would be happily received at afabbro@umich.edu.
+ 
+This document has been posted at greyhawk.stanford.edu and
+soda.berkeley.edu.  
+ 
+Contents:
+=========
+ 
+Section 1: The Totally Harmless !Complete Guide to PBeMs by Chua Hak Lien
+Section 2: Article by Bruce Saul
+Section 3: Article by Rob McNeur
+ 
+Needless to say, all copyrights held by the articles' respective authors.
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Section 1: The Totally Harmless !Complete Guide to PBeMs
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ 
+by Chua Hak Lien
+ 
+    Once in a while, one will see a post in the rec.games.frp.** 
+nesgroups about a PBeM game being started by so-and-so. So you might be
+asking? What is a PBeM? How does one take part? How does one start one?
+    Well, this article attempts to answer some of your questions. So
+read on, pilgrim...
+ 
+I. What is a PBeM?
++=-=-=-=-=-=-=-=-=+
+ 
+    PBeM stands for Play By Electronic Mail. Basically, in the context
+of RPGs, this means that the game is played with players and Gamesmaster
+communicating and sending moves to each other via email. ( Now, wasn't that
+enlightening? ) It is a good compromise for those GMs and players who cannot
+afford the time to play face-to-face or can't find a game in their area,
+and who don't want to resort to a PBM, or a play by mail, game. 
+    The advantages of a PBeM include:
+[a] The players  won't call out for pizza and make you pay the delivery
+    boy for it.
+[b] Your mom won't come in and ask about the female wearing the chain mail
+    bikini on the cover of the module you're running.
+[c] No little kid sister breaking into giggles just as Zorkath, Lord of
+    Darkness, prepares to scarifice the party to the pit of Infernal
+    Dimensions.
+[d] You won't have to clean up your house afterwards.
+[e] No more Born Agains protesting outside your home.
+[f] No more struggling with names like 'Rl'yeh', 'Drizz't', 
+    or 'Nyarletheop'.
+ 
+II. How do I get to play in one?
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+    Hang out night and day in the rec.games.frp.* newsgroups, watch
+out for a PBeM post to appear, and send out a reply immediately. It would
+be good if you had a character prepared, but the most important thing to
+do is to reply AS SOON AS POSSIBLE, because spots for PBeM games are likely
+to fill within 24 hours of the posting, if not much shorter.
+    Sending out a post requesting that someone take you in for their PBeM
+is not likely to work. The likelihood of getting a reply is probably about 
+the same as that of getting viciously maimed by a group of
+grenade-launching hamsters while jogging.
+ 
+III. How do I run one?
++=-=-=-=-=-=-=-=-=-=-=+
+    Ahh.. now we're talking.
+    Firstly, you have to be willing to put time into your PbeM campaign.
+How often do you want your moves to be? Once a week? Once every two days?
+The length of your moves should be proportional to the time you want the
+players to reply back by.
+    Next, ask yourself, do you REALLY want to run a PBeM? Spend long
+thankless nights sifting through moves and answering questions, and roll
+dice all alone in your cold dark room. A lot of PBeMs go belly-up even
+before the first move is sent, mainly because someone just like you thought
+that they did want to play, but lost interest after a week. Make sure
+you'll willing to commit the time involved. It will be just as much as
+that for a face-to-face RPG, I assure you.
+    So you decided to run your own PBeM. Well, good. Here are some 
+guidelines so that you can preserve your sanity. 
+ 
+[a] Decide on the game system and milleu.
+    Sounds easy enough. Keep in mind that for the most part, you'll
+want the game to flow pretty quickly. Avoid rules-intensive games, and
+consider using a system with little combat. Combats are difficult to run
+in PBeMs, and the faster they can be resolved, the better. Also
+decide what supplements or rules-additions will be used.
+    Of course, the player should have the basic set of rules that 
+you are using, as well as know the background to the milleu,
+if you're using a commercially availabe product. If not, you'll have to
+spent a few hours every night sending out dossiers on why the Quorantigas
+of the Land of bani-Wani stuff crickets up their nose, and other background
+info.
+ 
+[b] Decide on the number of players.
+    How many players do you want? The best number all depends on the time
+you have available and the kind of game you like. Some PBeMs work well
+with just one or two, while others may have up to 10, but this makes
+for an administrative headache as players dissapear, are busy because
+of homework or run off to have babies.
+    But you might ask, should there only be one group?
+    The answer to that is an emphatic YES. With multiple groups running
+around, you'll be facing the possibility of a brain haemorrage trying to
+remember who did what to whom, when and how. Stick to ONE group at a time,
+and if you're thinking of running a tourament like game, in while several
+solo players run around in a dungeon or similar setting, TRASH IT! You'll
+never be able to find the time to write out all the moves!
+ 
+[c] Decide on how the players will generate their characters.
+    For games with point allocation systems, this is fairly straightforward.
+ 
+    For games which depend on random generation for ability scores or
+stats, come up with a fair system. For AD&D, I use a 80 point system to be
+divided between the six ability scores. For scores below 16, the point 
+conversion is on a one-to-one basis. ( A score of 14 requires 14 points. ) 
+For a score of 16, 16.5 points are required, a score of 17 requires 18.5 
+points, and a score of 18 requires 21.5 points. In the case of Charisma, 
+the point cost is only 75% of normal, as most players will try to shave 
+off points from this score. Any additional points left is converted to 
+XP ( 100 xp per .1 ) or gold ( 100 gp per .1 ). Example: Krag the
+Dwarf has these abilty scores: Str: 16 Int: 10 Wis: 11 Dex: 14 Con: 17
+Cha: 10, which makes 16.5+10+11+14+18.5+(10*.75), or 77.5 points. He spends
+2 points on XP, and the rest on gold, giving him 2000 xp to start with,
+and 500 extra pieces of gold to spend.
+ 
+[d] Post to the appropiate rec.games.frp.* group.
+    So now you're almost ready! The big moment! Now you can actually
+POST and declare to the world that you are starting your very own PBeM!
+Give yourself a congratulatory shake, a pat on a head but not at the same
+time, of course...
+    The content of the post should say:-
+    i. The rules you are using.
+    ii. The movement rate.
+    iii. The power level of the characters.
+    iv. And some brief background of the game world, if you're feeling
+egoistic and want to show your works to the whole of USENET.
+    So post, and prepare to be deluged with mail. You will probably
+find your game oversubscribed and you should savor the moment, because you'll
+probably never ever receive as much email in such a short span of time ever
+again.
+    But of course, you might want to stop the flood. So 
+do the following.
+    i. Send out another post saying you have enough players.
+    ii. CANCEL the article with your PBeM announcement.
+    The latter should do the trick, but folks from Northern Europe
+will probably still be mailing you for the rest of the week. Anyway...
+ 
+[e] Decide who to take in
+    Yes, this is the hard part. Send your intro to those who have replied 
+to your email, and ask them to start sending their characters. You'd probably
+want to include additional material on the tone of the game and the background
+of your world, so that players don't wind up sending Stimpy the clown 
+characters for your Neuromancer-inspired universe.
+    Not everyone will reply to you. A 50% attrition rate at this stage
+is common, as repliees decide they have better things to do like decorating
+the lawn and watching the goldfish. But don't be disheartened, you've gone
+too far to back up now! Pump out your chest and thumb your nose at those
+who have deserted you, pitying them for missing out the game of a lifetime..
+    And now sift through the characters of those who have remained loyal
+and are actually interested. Decide who to take in. Look for good background
+and effort in characters, and who will make DMing interesting for you as 
+well. You'd probably want a good spread of characters; not just in terms
+of profession, but in personality as well. Else you may wind up with a
+whole bunch of 'dark, dour men' who clamber with each other to grab that 
+unlit spot at the corner of the tavern.
+    Avoid characters that hint of munchkinism. Out. No. Ah-ah. Sorry.
+Twelve year old child geniuses with PhD's in Molecular Cell Physics and
+Biology, as well as a black belt in karate, as an example.
+ 
+[f] Send out acceptance and rejection mail
+    So make your choice, and mail to those lucky individuals who have
+been selected to participate. Keep a waiting list as these few may 
+decide they want to mow the lawn or watch the goldfish instead and 
+drop out.
+    Then, prepare the rejection slip. For your convenience, I have
+included this form letter which you may freely use:-
+ 
+Dear [insert name here],
+    I am sorry to inform you that despite the wonderful character you
+have sent me, I am unable to find space to fit him into my game.
+    I hope you will be able to find another PBeM campaign as good as 
+mine will be to play in. Thank you for your interest.
+                       Yours Sincerely,
+                       [ Insert your name here ]
+ 
+    Avoid the temptation to gloat. It makes for bad public relations
+on the net and high medical insurance.
+ 
+[g] Finalise the characters.
+    Ask your players to finalise the characters, and make them fit into
+the background of your campaign world. 
+    Then, you are ready to begin!!!!
+ 
+[h] Format for Moves and Mails
+    It is advisable to you a standard format for replies to posts.
+First or Third Person, and it's also best that the other players be able
+to read each other's move, so you don't have to spend your time relaying
+mail between players. Third person is best, as it makes it easier to
+read.
+    In the subject line of the post, ask the players to tell you
+the name of the character as well as the subject. You may want to number
+moves as well. 
+Eg:
+Subject [ Krag: #4 ] At the F.O.U.L Scharwz 
+ 
+    You may also want to have players send their moves in a special
+format, so you can easily read what they want to do. An example would be the
+use of '<...>'s to denote actions, '"..."'s for speech, and '[...]'s for
+questions to the GM. You may want to use '{...}'s for 'if this happens, then
+the character does that moves.' For example:-
+ 
+< Krag the Bloody draws out his Battle Axe +2, +3 against plush beings and
+chops at the giant animated Undead Gund Squirrel >
+ 
+"Take THAT, you ball of fluscious, fragrant fur!"
+ 
+{ If Krag kills it, he will draw out his crossbow and start shooting at
+  those monkeys with the unicycles zipping above him. }
+ 
+{ If Krag is just about to get killed, he will fall down onto the floor,
+twitch his feet and play dead. }
+ 
+[ Are the Barbie Dolls attacking Mikhol the Magnificent? What weapons
+are the Ken dolls holding? ]
+ 
+[i] Format for GM's posts
+    Of course, you can do whatever you want with your posts.
+    But do not abuse your powers. Do not make the players address
+you as 'God'; 'Your Highness' should suffice.
+    To make life for your underlings better, however, it is suggested
+that you also use a nice format for your subject line, as in:-
+Subject: [ Nordok, Move # 5: At the F.O.U.L. Schwarz ]
+    ( Where Nordok is the name of the game world in this case. Oh? It's
+not as good as Oerth or Greyhawk or Glorantha. Well, sue me! )
+    For your post, you might want to write up in the third person 
+a story detailing the results of all the PC's actions, like so:-
+ 
+Krag's axe bites deep into the fur of the Gund Squirrel. Coughing up
+a hairball, it falls to the floor and dissolves into a pile of nylon.
+Then the dwarf draws out his crossbow and begins to shoot at the unicycle
+riding monkeys.
+ 
+Mikhol the Magnificent casts a spell on the Barbie dolls, changing them
+to Cabbage Patch Kids. They all head off in search of a good plastic
+surgeon.
+ 
+Toghar bonks the head of the Furry surf Troll with his baseball cap of
+homerun hitting. He then takes out his lasso to foil the escape of the
+windup elephant.
+ 
+< ZAT! > Krag's first bolt just nicks the head of the monkey. The hairy ape
+hurls a coconut at Krag in return, hitting the dwarf squarely on his
+helmet and stunning him. Krag falls to the ground, unconscious!
+ 
+Then from the gateway appears the two enemies your party has hunted for
+all this while! You see a man in brown robes holding a packet of french
+fries, next to a huge cat in metal sheet armor spewing dirt from it's mouth.
+ 
+"Oh no!" Cries Princess Elyria, the maiden you have just saved from 
+suffocation from the giant Goofy doll. "It .. it is... the fiendish
+Chip Monk and the Muck-Filled Plated Puss! Oh.. what will we do????"
+ 
+The Chip Monk raises the bag of fries and casts a spell on Tohgar, changing
+him into a pig even before any of you can act. His lasso drops down and
+the porkine entangles itself in the coils of the rope with it's futile 
+struggles.
+ 
+"Hah! He isn't nothing but a bound hog now!", laughs the Chip Monk.
+ 
+{ Will our heroes survive? Tune in next time and send in your moves by
+Tuesday, or else they won't. }
+ 
+Postscript: Note the nice use of threats. Use sparingly, but with style.
+ 
+Postscript II: Also note that in PbeM's, one cannot hear the players groan.
+No more will you hear the comments of philistines who are unable to appreciate
+the greatness of your creations.
+ 
+Postscript III: All this is a suggested format. Some games have worked
+totally well without with, but it depends on the perspective of the gamers.
+Do you want more functionality in your posts, or storytelling? Find a
+balance that works. A storytelling style basically discards all rules in
+favor of a writeup of events. 
+ 
+IV: Troubleshooting
++=-=-=-=-=-=-=-=-=+
+[a] Combat
+    In two words, FORGET IT. Detailed combat is going to take too long,
+and you'll probably be asked to draw ASCII maps to show the layout of the
+scene as well. Try to avoid combat as much as possible. PERIOD. PBeMs are 
+better suited for role-players and problem-solvers than
+hack and slashers.
+    If you do need to resolve combat, try to do at least 3 or 4 combat
+rounds per post, or even more. Your characters may quibble, but try to
+come to a compromise which everyone can agree upon, and stick with it.
+ 
+[b] Rewards / Power gain
+    You may want characters to ascend in power faster than in a face-to-
+face game. Give more experience points if or more character points. In 
+addition, give points for role-playing and smart moves. 
+ 
+ 
+Chua
+----
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Section 2: Article by Bruce Saul
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ 
+From: kitten@scoraz.resp-sci.arizona.edu (Bruce Saul)
+Newsgroups: rec.games.pbm
+Subject: Running an AD+D pbem
+Date: 18 Jan 1994 17:16:25 GMT
+ 
+        A few thoughts on running an AD+D pbem gleaned from my own
+experiences at dmming since September of 1990.
+ 
+        1. Once a week is just not enough.   You have to send out
+two updates a week minimum or your players will lose the thread of
+what is happening.
+ 
+        2.  Whether the player rolls the dice or whether you do is
+less important than what you do with the roll.     By this I mean
+draw the game with large brush strokes and with vivid colors in your
+descriptions.   Use solid action nouns and verbs in descriptions.
+Exploit fumbles to put the characters in danger, and let their superior
+rolls mean something.
+ 
+        3.  Mystify, mislead, and confuse your players. :-)   Well,
+not really.   What I mean is deliberately take the game out of the
+ordinary, expected, and documented in order to develop in the mind of
+the player the same uncertainty and apprehension which would be in the
+mind of the character in the game.   Don't use easily recognizable
+monsters, or pat spell descriptions, or cliche plot twists.   Or if
+you do take a few seconds to make them somehow different.   Anyone in
+a pbem will most likely be a veteran of many role playing sessions.
+The standard bar brawl, or stand up fight against orcs is just not
+going to interest them.
+ 
+        4.  Reward the efforts made by players to individualize their
+characters by support in your own postings.   If you have an elderly
+Dwarf priestess who is a master chef let her find cook books in a
+library, and have npcs ask for their favorite regional meal.   If
+a player creates a style of movement and of speech for their character
+in their postings try to maintain this when you send out an update.
+ 
+        5. Always let your players be the most important people
+on the scene.   If your game starts the characters at first level
+then find a way to isolate them so the only npcs with the party
+are level 0 or advisors.    Give them challenges suited to their
+abilities.   Never place a higher level Npc with the party as
+'insurance'.   Nothing kills out the fun of a game session like
+a dm run npc who totally outclasses the characters.   
+ 
+        6.  Try to maintain a balance in the game in terms of things
+for folks to do.    Find challenges for every class of character, and
+make it equally important for each character to succeed.    Each of
+your players is taking important time from their schedules to be
+in your game.  Give them a reason to eagerly scan their mail list
+for your postings.
+ 
+        7.  Encourage your players to think about the previous
+history of their characters and use the character's past as an
+anchor in developing sub-plots for them.   I have a gnome mage
+who has seen his sons die, victims of a plot of chaos.  Driven
+to understand why the world is as it is the character seeks to
+become a sage.   He actively collects bits of esoteric knowledge and
+speaks of 'when all this is over'.   This depth of play is a
+priceless gem, especially when the player has the skill to 
+maintain it over several years, as this player has.
+ 
+        8.  Do not needlessly overcomplicate your plots, or
+weave multiple levels of puzzle into a campaign.   Remember that
+more communication will take place in a six hour face to face
+gameing session than in a year of pbem gaming.    Overcomplicated
+plots drag, and cause players to lose interest.  Puzzles are too
+often answerable in a single manner.    Creativity and enthusiasm
+are the chief ingredients of a successful pbem.  Encourage these 
+by having several possible 'logical' solutions to riddles, puzzles,
+or traps.    And if your players come up with something which might
+work which you have not previously considered give it a fair
+chance to succeed.
+ 
+        9.  Be understanding in the treatment of error.  As a
+dm you are going to forget things about the characters, and the
+players are going to attempt things beyond the scope of their
+abilites.   If you make an error, and have it discovered by the
+player be gracious enough to make correction as soon as possible.
+If a player directs their character do something which is
+not possible by the game rules send them individual e-mail explaining
+the relevant rule and ask for a revision of the proposed action.
+ 
+        10. Be patient with those who cannot temporarily contribute.
+Vacations, mailer problems, and work schedules wreak havoc with a
+player's ability to contribute at times.  Learn the ways of each
+character so that you can write for them if the player cannot
+post an update.   On the flip side encourage the players to
+contribute by involving their characters in the action through
+careful construction of plot and use of npcs. 
+ 
+        11.  Never, never trick your players into doing harm
+when they intended good, or evil when they wished to be the heroes.
+It is the world's easiest thing to create a situation where the
+well meant actions of a character can result in harm to an innocent
+npc.   Resist the impulse to do this at all costs.    Conversely
+do not confuse your players as to the moral implications of a
+possible action.  Most pbem players really want to wear the
+white hat.   If there is to be mud on the brim let it be by the
+conscious, and fully informed action of the players.   Don't
+screw them over.
+ 
+        12.   Resolve to put the energy into the game which it and
+the players deserve.   This is the toughest thing to do.  There will
+come days, or even weeks, when you just seem flat in terms of the
+idea of sending out an update.    Well, buck it up, and send out
+that update!   You have others who are waiting on your posting in
+order to continue the game.  In starting the game you have pledged
+to maintain a level of response to player postings.  If you find you
+can't keep the game up admit it, and as soon as possible.   My own
+game was originally started by another dm.   He had to drop out.
+Using the high level of player enthusiasm I was able to put together
+my own campaign.
+ 
+ 
+        Whew, that is enough for now.
+ 
+                Bruce Saul
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Section 3: Article by Rob McNeur
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ 
+[Compiler's note: This article was posted in response to Bruce Saul's
+article]
+ 
+ 
+As well as that
+        (6) If you want to focus on ROLE-playing, check all initial 
+            characters carefully to ensure that no-one is trying to start
+            with unfair characters (in stats or equipment)
+        (7) Try and be available to players every day to answer questions 
+            and do short updates for situations that only affect individuals 
+            rather than the whole group
+        (8) Inform all players of any house-rules in advance, but be willing 
+            to discuss them
+        (9) Before any combats, get a general idea of what each individaul 
+            intends to try and do and then try and do as many rounds of 
+            combat as you can or the whole combat if you can do so without 
+            needing to get back to the players. The smoother it flows, the 
+            more the players (and the DM) enjoy it.
+        (10) Remember rule 1 ! Always do everyone's dice rolls yourself.
+            It really does save arguments, and any players that don't want 
+            to play that way are probably going to argue about anything
+            anyway.
+ 
+        (11) Try and ensure that the DM's email account is going to outlast
+             the duration of the game. There is nothing more frustrating to 
+             both players and DM than the game getting halfway through and 
+             having to be dropped due to an email account closing down.
+ 
+     (
+    / \
+   /   )
+  >>---|->                 get my point ?
+   \   )
+    \ /                    Rob McNeur
+     (                     Rob@ccc.govt.nz
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

@@ -1,0 +1,152 @@
+<html><head><title>Weddings in the U.S.V.I. by Fantasia - Get Married!</title>
+<SCRIPT LANGUAGE = "JavaScript">
+<!--
+bData = null
+
+function browserData(browser,version,platform) {
+   this.browser = browser;
+   this.version = version;
+   this.platform = platform;
+}
+
+
+
+function browserInfo() {
+        if (bData == null) {
+         bData = new browserData(0,null,0);
+         }
+        if ((navigator.appName.indexOf("Netscape") >= 0) ||
+            (navigator.appName.indexOf("Navigator") >= 0)) {
+/* -- replace Navigator with a piece of the Gold appName) */
+ bData.browser=1;
+
+            }
+    else {
+           if (navigator.appName.indexOf("Explorer") >= 0) {
+             bData.browser=2;
+              }
+    else
+             bData.browser=0;
+         }
+        var tail = navigator.appVersion.indexOf(' ');
+        bData.version = parseFloat(navigator.appVersion.substring(0,tail));
+        var head =  navigator.appVersion.indexOf('(');
+        var tail =  navigator.appVersion.indexOf(')');
+        brPlatformData =navigator.appVersion.substring(head,tail);
+        if (brPlatformData.indexOf("Macintosh") >= 0) {
+                 if ( brPlatformData.indexOf("PPC") >= 0) {
+                    bData.platform=2;
+               }
+                  else
+                    bData.platform=1;
+
+                   }
+    else {
+         if ( brPlatformData.indexOf("Win") >= 0) {
+         bData.platform=3;
+         }
+        }
+}
+
+
+function rollIn(imgName) {
+        if ((bData.browser = 1) && (bData.version >=3)) {
+        imgFile = imgName + "on.gif";
+        document [imgName].src = imgFile;
+        }
+}
+
+
+function rollOut(imgName) {
+        if ((bData.browser = 1) && (bData.version >=3)) {
+        imgFile = imgName + "off.gif";
+        document [imgName].src = imgFile;
+        }
+}
+
+
+function loadAlternates(suffix,lookFor) {
+  if ((bData.browser = 1) && (bData.version >=3)) {
+    altImages = new Array(document.images.length);
+       for (var k in altImages) {
+         if (document.images[k].src.indexOf(lookFor) >= 0) {
+           altImages[k] = new Image();
+           altImages[k].src = (document.images[k].name + suffix);
+                        }
+                }
+        }
+}
+
+browserInfo()
+// -->
+
+
+
+</SCRIPT>
+</head>
+
+<body bgcolor=571C5E link=ffffff vlink=000000>
+
+<center>
+<table width=605 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=605 valign=top align=center><table width=600 border=0 cellpadding=0 cellspacing=0>
+		<tr>
+		<td width=190 valign=top align=center><table width=190 border=0 cellspacing=0 cellpadding=0>
+					<tr>
+					<td width=190 align=center valign=top bgcolor=A670A8><a href="DEB.JPG" tppabs="http://www.usvi.net/wedding/fantasia/deb.jpg"><img vspace=24 src="DEB1.JPG" tppabs="http://www.usvi.net/wedding/fantasia/deb1.jpg" width=170 height=222 border=1></a><br>
+					<br><font size=4 face=arial color=AFF8DF><b>Debra N. Williams<br>President<br><br></td>
+					</tr>
+					</table></td>
+		<td width=2></td>
+		<td width=400 align=center bgcolor=A670A8><table width=323 border=0>
+				<tr>
+				<td width=110 align=center><a href="MARRIED.HTM" tppabs="http://www.usvi.net/wedding/fantasia/married.htm" onMouseover="rollIn('word1')" onMouseout="rollOut('word1')"><img name=word1 src="WORD1OFF.GIF" tppabs="http://www.usvi.net/wedding/fantasia/word1off.gif" border=0></a></td>
+				<td width=5 align=center><img src="DOT.GIF" tppabs="http://www.usvi.net/wedding/fantasia/dot.gif" width=1 height=20></td>
+				<td width=85 align=center><a href="PACKAGE.HTM" tppabs="http://www.usvi.net/wedding/fantasia/package.htm" onMouseover="rollIn('word2')" onMouseout="rollOut('word2')"><img name=word2 src="WORD2OFF.GIF" tppabs="http://www.usvi.net/wedding/fantasia/word2off.gif" border=0></a></td>
+				<td width=5 align=center><img src="DOT.GIF" tppabs="http://www.usvi.net/wedding/fantasia/dot.gif" width=1 height=20></td>
+				<td width=118 align=center><img src="WORD3C.GIF" tppabs="http://www.usvi.net/wedding/fantasia/word3c.gif" border=0></a></td>
+				<br></td></tr></table><img src="LOGO3.GIF" tppabs="http://www.usvi.net/wedding/fantasia/logo3.gif" width=390 height=304 border=0></td>
+		</tr>
+</table>
+</td></tr>																																						   
+<tr>
+<td width=605 align=center>
+	<table width=603 border=0>
+	<tr>
+	<td width=603 align=left bgcolor=A670A8><br><blockquote>
+<font size=3 color=AFF8DF face=arial><b>Debra N. Williams, wedding coordinator, designer, founder and president of Fantasia Weddings &amp; Honeymoons in St. Thomas, U.S.V.I.,
+will guide you through all the details to make your wedding day special and unique. Our service is professional and caring, and has all
+the "island know-how" needed to make your time on the islands fun, easy and hassle free! All you need to do is arrive!<br><br>
+Contact us with one of the following methods for more information on how we can help you plan your Wedding in Paradise:<br><br>
+<blockquote>
+<i>E-Mail</i><br>
+<a href=mailto:fantasia@islands.vi>fantasia@islands.vi</a><br><br>
+<i>Postal</i><br>
+168 Crown Bay, Suite 310<br>
+St. Thomas, V.I. 00802<br><br>
+<i>Telephone</i><br>
+1-800-326-8272<br>
+1-809-777-6588<br><br>
+<i>Fax</i><br>
+1-809-776-0020<br><br>
+</td></tr></table>
+</td></tr>
+</table>
+
+<br><br>
+<table width=605 border=0>
+<tr>
+<td width=605 align=center>
+<table width=200 border=0>
+<tr>
+<td width=200 align=center bgcolor=A670A8><font size=3 face=arial><b><br><a href="../../USVI/INDEX.HTM" tppabs="http://www.usvi.net/usvi/">U.S.V.I.</a> - <a href="../INDEX.HTM" tppabs="http://www.usvi.net/wedding/">WEDDINGS</a></font><br><br></td>
+</tr></table>
+<br><br>
+<table width=100 border=0>
+<tr>
+<td width=100 align=center bgcolor=A670A8><br><font size=2 color=><code>DESIGN BY</code></font><br><a href="../../COBEX/INDEX.HTM" tppabs="http://www.usvi.net/cobex/"><font face=arial size=2><b>COBEX</b><br><br></a></td>
+</tr></table>
+<br><br>
+</td></tr>
+</table>

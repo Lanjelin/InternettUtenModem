@@ -1,0 +1,85 @@
+<HTML>
+<!-- Author:	Richard Weber-Laux (KKBN)
+     Date:		January 24th, 1996
+     URL:		http://www.kkbn.com
+     Content:	Mantra-->
+<HEAD>
+  <TITLE>KKBN: Mantra</TITLE>
+  <META HTTP-EQUIV="REFRESH" CONTENT="300;URL=../kkbn-med.htm">
+  <META NAME="DESCRIPTION" CONTENT="KKBN: Mantra">
+  <META NAME="KEYWORDS" CONTENT="Buddhism, Karma Kagyu, Mantra, Karmapa Chenno">
+<SCRIPT LANGUAGE="JavaScript">
+<!-- begin
+// global variables
+     var id,pause=0,position=0;
+     function banner() {
+// variables declaration
+     var i,k,msg=document.form1.message.value;
+// increase msg
+     k=(26/msg.length)+1;
+     for(i=0;i<=k;i++) msg+=" "+msg;
+// show it to the window
+     document.form2.banner.value=msg.substring(position,position+50);
+// show it to the status bar
+   window.status=msg.substring(position,position+66);
+// set new position
+     if(position++==document.form1.message.value.length) position=0;
+// repeat at entered speed 
+     id=setTimeout("banner()",1000/document.form1.speed.value); }
+     function action() {
+// stop rolling
+     if(!pause) {
+       clearTimeout(id);
+          pause=1; }
+// continue rolling
+     else {
+       banner();
+       pause=0; } }
+// end -->
+</SCRIPT>
+</HEAD>
+<BODY   BGCOLOR="#B6DFF0" TEXT="#000000" LINK="#333333" VLINK="#EE0011"
+        ONLOAD="banner()" ONUNLOAD="window.status=''">
+  <H1 ALIGN=CENTER>
+  <A HREF="../KKBN-POL.HTM" tppabs="http://www.kkbn.com/kkbn-pol.htm"><IMG BORDER="0" ALT="Karma Kagyu Buddhist Network"       SRC="../PICT/KKBN.GIF" tppabs="http://www.kkbn.com/pict/kkbn.gif"></A><BR>
+  <IMG ALT="---" SRC="../PICT/LINEBAR.GIF" tppabs="http://www.kkbn.com/pict/linebar.gif">
+  </H1>
+
+<!--	Start of Text  -->
+<FORM NAME="form1">
+<INPUT TYPE="HIDDEN" NAME="message" VALUE="Karmapa chenno ........" SIZE="20">
+<INPUT TYPE="HIDDEN" NAME="speed" VALUE="10">
+</FORM>
+<FORM NAME="form2">
+<INPUT TYPE="text" NAME="banner" SIZE="50"><BR>
+</FORM>
+<H1 ALIGN=CENTER><IMG ALIGN=LEFT SRC="PICT/MANTRA.JPG" tppabs="http://www.kkbn.com/terms/pict/mantra.jpg" ALT="Karmapa chenno" HSPACE="15"></H1>
+
+Each repetition of the mantra <BR><BR>
+<FONT SIZE="+2"><STRONG>Karmapa Chenno</STRONG></FONT><BR>
+
+<FONT SIZE="+1"><EM>(power of all the Buddhas, work through us, become one with us)</EM></FONT><BR><BR>
+ puts us in the stream of enlightened activity. We repeat it loudly or inwardly for as long as we 
+like.
+<IMG SRC="PICT/MANTRA.JPG" tppabs="http://www.kkbn.com/terms/pict/mantra.jpg" ALT="Karmapa chenno" VSPACE="15" WIDTH="140">
+<IMG SRC="PICT/MANTRA.JPG" tppabs="http://www.kkbn.com/terms/pict/mantra.jpg" ALT="Karmapa chenno" VSPACE="15" HSPACE="10" WIDTH="140">
+<BR CLEAR>
+<H5 ALIGN=LEFT> &copy; 1995 Tina Johlige</H5>
+
+<!--	Navigation and Copyright -->
+<CENTER>
+  <IMG ALT="---" SRC="../PICT/LINEBAR.GIF" tppabs="http://www.kkbn.com/pict/linebar.gif"><P>
+  <A HREF="mailto:Info&#64;kkbn.com"><IMG BORDER="0" ALT="Mail to:" SRC="../PICT/NEWS-T.GIF" tppabs="http://www.kkbn.com/pict/news-t.gif" HSPACE="10"></A>
+  <A HREF="../KKBN-TEL.HTM" tppabs="http://www.kkbn.com/kkbn-tel.htm"><IMG BORDER="0" ALT="Infoline" SRC="../PICT/PHONE-T.GIF" tppabs="http://www.kkbn.com/pict/phone-t.gif" HSPACE="10"></A>
+  <A HREF="../KKBN-HEL.HTM" tppabs="http://www.kkbn.com/kkbn-hel.htm"><IMG BORDER="0" ALT="Help" SRC="../PICT/QUEST-T.GIF" tppabs="http://www.kkbn.com/pict/quest-t.gif" HSPACE="10"></A>
+  <A HREF="../KKBN-SE2.HTM" tppabs="http://www.kkbn.com/kkbn-se2.htm"><IMG BORDER="0" ALT="Search" SRC="../PICT/SEARCH-T.GIF" tppabs="http://www.kkbn.com/pict/search-t.gif" HSPACE="10"></A>
+<P>
+  <ADDRESS>
+  Copyright &#169; 1995 Karma Kagyu Buddhist Network<BR>
+  Most recent update: March 14th, 1997<BR>
+  For further information or feedback contact the
+  <A HREF="mailto:WebMaster&#64;kkbn.com">WebMaster</A><BR>
+  </ADDRESS>
+</CENTER>
+</BODY>
+</HTML>

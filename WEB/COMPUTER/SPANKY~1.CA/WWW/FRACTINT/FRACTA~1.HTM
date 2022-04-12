@@ -1,0 +1,1549 @@
+<html>
+<head>
+<title>FRACTINT fractal types</title>
+<link rev=made href="mailto:noel@triumf.ca">
+</head>
+<body>
+<h1>  SUMMARY OF FRACTAL TYPES</h1>
+<HR>
+<dl>
+<dt> 
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2378" tppabs="http://spanky.triumf.ca/www/fractint/ant_type.html">
+ant</a>
+</b>
+<dd>
+      Generalized Ant Automaton as described in the July 1994 Scientific
+      American. Some ants wander around the screen. A rule string (the first
+      parameter) determines the ant's direction. When the type 1 ant leaves a
+      cell of color k, it turns right if the kth symbol in the first parameter
+      is a 1, or left otherwise. Then the color in the old cell is incremented.
+      The 2nd parameter is a maximum iteration to guarantee that the fractal
+      will terminate. The 3rd parameter is the number of ants. The 4th is the
+      ant type 1 or 2. The 5th parameter determines if the ants wrap the screen
+      or stop at the edge.  The 6th parameter is a random seed. You can slow
+      down the ants to see them better using the [x] screen Orbit Delay.
+<p>
+<dt>
+<a href="../../../tppmsgs/msgs23.htm#2373" tppabs="http://spanky.triumf.ca/www/fractint/barnsley_type.html">
+<b>
+  barnsleyj1
+</b>
+</a>
+<dd>
+<pre>
+	z(0) = pixel;
+	if real(z) >= 0
+	   z(n+1) = (z-1)*c
+	else
+	   z(n+1) = (z+1)*c
+</pre>
+      Two parameters: real and imaginary parts of c
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2373" tppabs="http://spanky.triumf.ca/www/fractint/barnsley_type.html">
+  barnsleyj2
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        if real(z(n)) * imag(c) + real(c) * imag(z((n)) >= 0
+           z(n+1) = (z(n)-1)*c
+        else
+           z(n+1) = (z(n)+1)*c
+</pre>
+      Two parameters: real and imaginary parts of c
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2373" tppabs="http://spanky.triumf.ca/www/fractint/barnsley_type.html">
+  barnsleyj3
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        if real(z(n) > 0 then z(n+1) = (real(z(n))^2 - imag(z(n))^2 - 1)
+           + i * (2*real(z((n)) * imag(z((n))) else
+        z(n+1) = (real(z(n))^2 - imag(z(n))^2 - 1 + real(c) * real(z(n))
+               + i * (2*real(z((n)) * imag(z((n)) + imag(c) * real(z(n))
+</pre>
+      Two parameters: real and imaginary parts of c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2373" tppabs="http://spanky.triumf.ca/www/fractint/barnsley_type.html">
+  barnsleym1
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = c = pixel;
+        if real(z) >= 0 then
+          z(n+1) = (z-1)*c
+        else
+          z(n+1) = (z+1)*c.
+</pre>
+      Parameters are perturbations of z(0)
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2373" tppabs="http://spanky.triumf.ca/www/fractint/barnsley_type.html">
+  barnsleym2
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = c = pixel;
+        if real(z)*imag(c) + real(c)*imag(z) >= 0
+          z(n+1) = (z-1)*c
+        else
+          z(n+1) = (z+1)*c
+</pre>
+      Parameters are perturbations of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2373" tppabs="http://spanky.triumf.ca/www/fractint/barnsley_type.html">
+  barnsleym3
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = c = pixel;
+        if real(z(n) > 0 then z(n+1) = (real(z(n))^2 - imag(z(n))^2 - 1)
+           + i * (2*real(z((n)) * imag(z((n))) else
+        z(n+1) = (real(z(n))^2 - imag(z(n))^2 - 1 + real(c) * real(z(n))
+           + i * (2*real(z((n)) * imag(z((n)) + imag(c) * real(z(n))
+</pre>
+      Parameters are perturbations of z(0)
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2383" tppabs="http://spanky.triumf.ca/www/fractint/bif_type.html">
+  bifurcation
+</a>
+</b>
+<dd>
+      Pictorial representation of a population growth model.
+        Let P = new population, p = oldpopulation, r = growth rate
+        The model is: P = p + r*fn(p)*(1-fn(p)).
+      Three parameters: Filter Cycles, Seed Population, and Function.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2383" tppabs="http://spanky.triumf.ca/www/fractint/bif_type.html">
+  bif+sinpi
+</a>
+</b>
+<dd>
+      Bifurcation variation: model is: P = p + r*fn(PI*p).
+      Three parameters: Filter Cycles, Seed Population, and Function.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2383" tppabs="http://spanky.triumf.ca/www/fractint/bif_type.html">
+  bif=sinpi 
+</a>
+</b>
+<dd>
+      Bifurcation variation: model is: P = r*fn(PI*p).
+      Three parameters: Filter Cycles, Seed Population, and Function.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2383" tppabs="http://spanky.triumf.ca/www/fractint/bif_type.html">
+  biflambda 
+</a>
+</b>
+<dd>
+      Bifurcation variation: model is: P = r*fn(p)*(1-fn(p)).
+      Three parameters: Filter Cycles, Seed Population, and Function.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2383" tppabs="http://spanky.triumf.ca/www/fractint/bif_type.html">
+  bifstewart 
+</a>
+</b>
+<dd>
+      Bifurcation variation: model is: P = (r*fn(p)*fn(p)) - 1.
+      Three parameters: Filter Cycles, Seed Population, and Function.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2383" tppabs="http://spanky.triumf.ca/www/fractint/bif_type.html">
+  bifmay 
+</a>
+</b>
+<dd>
+      Bifurcation variation: model is: P = r*p / ((1+p)^beta).
+      Three parameters: Filter Cycles, Seed Population, and Beta.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2389" tppabs="http://spanky.triumf.ca/www/fractint/cellular_type.html">
+  cellular 
+</a>
+</b>
+<dd>
+      One-dimensional cellular automata or line automata.  The type of CA
+      is given by kr, where k is the number of different states of the
+      automata and r is the radius of the neighborhood.  The next generation
+      is determined by the sum of the neighborhood and the specified rule.
+      Four parameters: Initial String, Rule, Type, and Starting Row Number.
+      For Type = 21, 31, 41, 51, 61, 22, 32, 42, 23, 33, 24, 25, 26, 27
+          Rule =  4,  7, 10, 13, 16,  6, 11, 16,  8, 15, 10, 12, 14, 16 digits
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2391" tppabs="http://spanky.triumf.ca/www/fractint/martin_hop_type.html">
+  chip 
+</a>
+</b>
+<dd>
+      Chip attractor from Michael Peters - orbit in two dimensions.
+<pre>
+        z(0) = y(0) = 0;
+        x(n+1) = y(n) - sign(x(n)) * cos(sqr(ln(abs(b*x(n)-c))))
+                                   * arctan(sqr(ln(abs(c*x(n)-b))))
+        y(n+1) = a - x(n)
+</pre>
+      Parameters are a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2369" tppabs="http://spanky.triumf.ca/www/fractint/circle_type.html">
+  circle
+</a>
+</b>
+<dd>
+<pre>
+      Circle pattern by John Connett
+        x + iy = pixel
+        z = a*(x^2 + y^2)
+        c = integer part of z
+        color = c modulo(number of colors)
+</pre>
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2381" tppabs="http://spanky.triumf.ca/www/fractint/mpeterson_type.html">
+  cmplxmarksjul
+</a>
+</b>
+<dd>
+<pre>
+      A generalization of the marksjulia fractal.
+        z(0) = pixel;
+        z(n+1) = (c^exp-1)*z(n)^2 + c.
+</pre>
+      Four parameters: real and imaginary parts of c,
+      and real and imaginary parts of exponent.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2381" tppabs="http://spanky.triumf.ca/www/fractint/mpeterson_type.html">
+  cmplxmarksmand 
+</a>
+</b>
+<dd>
+<pre>
+      A generalization of the marksmandel fractal.
+        z(0) = c = pixel;
+        z(n+1) = (c^exp-1)*z(n)^2 + c.
+</pre>
+      Four parameters: real and imaginary parts of perturbation
+      of z(0), and real and imaginary parts of exponent.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2366" tppabs="http://spanky.triumf.ca/www/fractint/complex_newton.html">
+  complexnewton, complexbasin 
+</a>
+</b>
+<dd>
+      Newton fractal types extended to complex degrees. Complexnewton
+      colors pixels according to the number of iterations required to
+      escape to a root. Complexbasin colors pixels according to which
+      root captures the orbit. The equation is based on the newton
+      formula for solving the equation z^p = r
+<pre>
+        z(0) = pixel;
+        z(n+1) = ((p - 1) * z(n)^p + r)/(p * z(n)^(p - 1)).
+</pre>
+      Four parameters: real &amp imaginary parts of degree p and root r.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2396" tppabs="http://spanky.triumf.ca/www/fractint/diffusion.html">
+  diffusion 
+</a>
+</b>
+<dd>
+      Diffusion Limited Aggregation.  Randomly moving points
+      accumulate.  Two parameters: border width (default 10), type.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2398" tppabs="http://spanky.triumf.ca/www/fractint/dynamic_type.html">
+  dynamic
+</a>
+</b>
+<dd>
+      Time-discrete dynamic system.
+<pre>
+        x(0) = y(0) = start position.
+        y(n+1) = y(n) + f( x(n) )
+        x(n+1) = x(n) - f( y(n) )
+        f(k) = sin(k + a*fn1(b*k))
+</pre>
+      For implicit Euler approximation: x(n+1) = x(n) - f( y(n+1) )
+      Five parameters: start position step, dt, a, b, and the function fn1.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  fn(z)+fn(pix)
+</a>
+</b>
+<dd>
+<pre>
+        c = z(0) = pixel;
+        z(n+1) = fn1(z) + p*fn2(c)
+</pre>
+      Six parameters: real and imaginary parts of the perturbation
+      of z(0) and factor p, and the functions fn1, and fn2.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  fn(z*z)
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = fn(z(n)*z(n))
+</pre>
+      One parameter: the function fn.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  fn*fn 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel; z(n+1) = fn1(n)*fn2(n)
+</pre>
+      Two parameters: the functions fn1 and fn2.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  fn*z+z 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel; z(n+1) = p1*fn(z(n))*z(n) + p2*z(n)
+</pre>
+      Five parameters: the real and imaginary components of
+      p1 and p2, and the function fn.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  fn+fn 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = p1*fn1(z(n))+p2*fn2(z(n))
+</pre>
+      Six parameters: The real and imaginary components of
+      p1 and p2, and the functions fn1 and fn2.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2397" tppabs="http://spanky.triumf.ca/www/fractint/formula_type.html">
+  formula 
+</a>
+</b>
+<dd>
+      Formula interpreter - write your own formulas as text files!
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2406" tppabs="http://spanky.triumf.ca/www/fractint/frothy_basin.html">
+  frothybasin 
+</a>
+</b>
+<dd>
+      Pixel color is determined by which attractor captures the orbit.  The
+      shade of color is determined by the number of iterations required to
+      capture the orbit.
+<pre>
+        Z(0) = pixel;  Z(n+1) = Z(n)^2 - C*conj(Z(n))
+        where C = 1 + A*i, critical value of A = 1.028713768218725...
+</pre>
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2393" tppabs="http://spanky.triumf.ca/www/fractint/gingerbread_type.html">
+  gingerbread 
+</a>
+</b>
+<dd>
+      Orbit in two dimensions defined by:
+<pre>
+        x(n+1) = 1 - y(n) + |x(n)|
+        y(n+1) = x(n)
+</pre>
+      Two parameters: initial values of x(0) and y(0).
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2404" tppabs="http://spanky.triumf.ca/www/fractint/halley_type.html">
+  halley 
+</a>
+</b>
+<dd>
+<pre>
+        Halley map for the function: F = z(z^a - 1) = 0
+        z(0) = pixel;
+        z(n+1) = z(n) - R * F / [F' - (F&quot; * F / 2 * F')]
+        bailout when: abs(mod(z(n+1)) - mod(z(n)) < epsilon
+</pre>
+      Four parameters: order a, real part of R, epsilon,
+         and imaginary part of R.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2390" tppabs="http://spanky.triumf.ca/www/fractint/henon_type.html">
+  henon 
+</a>
+</b>
+<dd>
+      Orbit in two dimensions defined by:
+<pre>
+        x(n+1) = 1 + y(n) - a*x(n)*x(n)
+        y(n+1) = b*x(n)
+</pre>
+      Two parameters: a and b
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2391" tppabs="http://spanky.triumf.ca/www/fractint/martin_hop_type.html">
+  hopalong 
+</a>
+</b>
+<dd>
+      Hopalong attractor by Barry Martin - orbit in two dimensions.
+<pre>
+        z(0) = y(0) = 0;
+        x(n+1) = y(n) - sign(x(n))*sqrt(abs(b*x(n)-c))
+        y(n+1) = a - x(n)
+</pre>
+      Parameters are a, b, and c.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2408" tppabs="http://spanky.triumf.ca/www/fractint/hypercomplex_type.html">
+  hypercomplex 
+</a>
+</b>
+<dd>
+      HyperComplex Mandelbrot set.
+<pre>
+        h(0)   = (0,0,0,0)
+        h(n+1) = fn(h(n)) + C.
+        where &quot;fn&quot; is sin, cos, log, sqr etc.
+      Two parameters: cj, ck
+      C = (xpixel,ypixel,cj,ck)
+</pre>
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2408" tppabs="http://spanky.triumf.ca/www/fractint/hypercomplex_type.html">
+  hypercomplexj
+</a>
+</b>
+<dd>
+      HyperComplex Julia set.
+<pre>
+        h(0)   = (xpixel,ypixel,zj,zk)
+        h(n+1) = fn(h(n)) + C.
+        where &quot;fn&quot; is sin, cos, log, sqr etc.
+</pre>
+      Six parameters: c1, ci, cj, ck
+      C = (c1,ci,cj,ck)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2394" tppabs="http://spanky.triumf.ca/www/fractint/icon_type.html">
+  icon, icon3d 
+</a>
+</b>
+<dd>
+      Orbit in three dimensions defined by:
+<pre>
+        p = lambda + alpha * magnitude + beta * (x(n)*zreal - y(n)*zimag)
+        x(n+1) = p * x(n) + gamma * zreal - omega * y(n)
+        y(n+1) = p * y(n) - gamma * zimag + omega * x(n)
+        (3D version uses magnitude for z)
+</pre>
+        Parameters:  Lambda, Alpha, Beta, Gamma, Omega, and Degree
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2374" tppabs="http://spanky.triumf.ca/www/fractint/ifs_type.html">
+  IFS 
+</a>
+</b>
+<dd>
+      Barnsley IFS (Iterated Function System) fractals. Apply
+      contractive affine mappings.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  julfn+exp 
+</a>
+</b>
+<dd>
+      A generalized Clifford Pickover fractal.
+<pre>
+        z(0) = pixel;
+        z(n+1) = fn(z(n)) + e^z(n) + c.
+</pre>
+      Three parameters: real &amp imaginary parts of c, and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  julfn+zsqrd 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = fn(z(n)) + z(n)^2 + c
+</pre>
+      Three parameters: real &amp imaginary parts of c, and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2360" tppabs="http://spanky.triumf.ca/www/fractint/julia_type.html">
+  julia 
+</a>
+</b>
+<dd>
+      Classic Julia set fractal.
+<pre>
+        z(0) = pixel; z(n+1) = z(n)^2 + c.
+</pre>
+      Two parameters: real and imaginary parts of c.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2416" tppabs="http://spanky.triumf.ca/www/fractint/Inv_julia_type.html">
+  julia_inverse 
+</a>
+</b>
+<dd>
+      Inverse Julia function - &quot;orbit&quot; traces Julia set in two dimensions.
+        z(0) = a point on the Julia Set boundary; z(n+1) = +- sqrt(z(n) - c)
+      Parameters: Real and Imaginary parts of c
+             Maximum Hits per Pixel (similar to max iters)
+             Breadth First, Depth First or Random Walk Tree Traversal
+             Left or Right First Branching (in Depth First mode only)
+          Try each traversal method, keeping everything else the same.
+          Notice the differences in the way the image evolves.  Start with
+          a fairly low Maximum Hit limit, then increase it.  The hit limit
+          cannot be higher than the maximum colors in your video mode.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2403" tppabs="http://spanky.triumf.ca/www/fractint/fn_fn_type.html">
+  julia(fn||fn)
+</a>
+</b>
+<dd>
+        z(0) = pixel;
+<pre>
+        if modulus(z(n)) < shift value, then
+           z(n+1) = fn1(z(n)) + c,
+        else
+           z(n+1) = fn2(z(n)) + c.
+</pre>
+      Five parameters: real, imag portions of c, shift value, fn1 and fn2.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2376" tppabs="http://spanky.triumf.ca/www/fractint/quartic_type.html">
+  julia4 
+</a>
+</b>
+<dd>
+      Fourth-power Julia set fractals, a special case
+      of julzpower kept for speed.
+<pre>
+        z(0) = pixel;
+        z(n+1) = z(n)^4 + c.
+</pre>
+      Two parameters: real and imaginary parts of c.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2399" tppabs="http://spanky.triumf.ca/www/fractint/juliabrot_type.html">
+  julibrot 
+</a>
+</b>
+<dd>
+      'Julibrot' 4-dimensional fractals.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  julzpower 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = z(n)^m + c.
+</pre>
+      Three parameters: real &amp imaginary parts of c, exponent m
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  julzzpwr 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = z(n)^z(n) + z(n)^m + c.
+</pre>
+      Three parameters: real &amp imaginary parts of c, exponent m
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2385" tppabs="http://spanky.triumf.ca/www/fractint/kamtorus_type.html">
+  kamtorus, kamtorus3d 
+</a>
+</b>
+<dd>
+      Series of orbits superimposed.
+      3d version has 'orbit' the z dimension.
+<pre>
+        x(0) = y(0) = orbit/3;
+        x(n+1) = x(n)*cos(a) + (x(n)*x(n)-y(n))*sin(a)
+        y(n+1) = x(n)*sin(a) - (x(n)*x(n)-y(n))*cos(a)
+</pre>
+      After each orbit, 'orbit' is incremented by a step size.
+      Parameters: a, step size, stop value for 'orbit', and
+      points per orbit.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2367" tppabs="http://spanky.triumf.ca/www/fractint/lambda_type.html">
+  lambda 
+</a>
+</b>
+<dd>
+      Classic Lambda fractal. 'Julia' variant of Mandellambda.
+<pre>
+        z(0) = pixel;
+        z(n+1) = lambda*z(n)*(1 - z(n)).
+</pre>
+      Two parameters: real and imaginary parts of lambda.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2371" tppabs="http://spanky.triumf.ca/www/fractint/lambdafn_type.html">
+  lambdafn 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = lambda * fn(z(n)).
+</pre>
+      Three parameters: real, imag portions of lambda, and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2403" tppabs="http://spanky.triumf.ca/www/fractint/fn_fn_type.html">
+  lambda(fn||fn)
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        if modulus(z(n)) < shift value, then
+           z(n+1) = lambda * fn1(z(n)),
+        else
+           z(n+1) = lambda * fn2(z(n)).
+</pre>
+      Five parameters: real, imaginary portions of lambda, shift value,
+                       fn1 and fn2.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2387" tppabs="http://spanky.triumf.ca/www/fractint/lorenz_type.html">
+  lorenz, lorenz3d 
+</a>
+</b>
+<dd>
+      Lorenz two lobe attractor - orbit in three dimensions.
+      In 2d the x and y components are projected to form the image.
+<pre>
+        z(0) = y(0) = z(0) = 1;
+        x(n+1) = x(n) + (-a*x(n)*dt) + (   a*y(n)*dt)
+        y(n+1) = y(n) + ( b*x(n)*dt) - (     y(n)*dt) - (z(n)*x(n)*dt)
+        z(n+1) = z(n) + (-c*z(n)*dt) + (x(n)*y(n)*dt)
+</pre>
+      Parameters are dt, a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2387" tppabs="http://spanky.triumf.ca/www/fractint/lorenz_type.html">
+  lorenz3d1 
+</a>
+</b>
+<dd>
+      Lorenz one lobe attractor, 3D orbit (Rick Miranda and Emily Stone)
+<pre>
+        z(0) = y(0) = z(0) = 1; norm = sqrt(x(n)^2 + y(n)^2)
+        x(n+1) = x(n) + (-a*dt-dt)*x(n) + (a*dt-b*dt)*y(n)
+           + (dt-a*dt)*norm + y(n)*dt*z(n)
+        y(n+1) = y(n) + (b*dt-a*dt)*x(n) - (a*dt+dt)*y(n)
+           + (b*dt+a*dt)*norm - x(n)*dt*z(n) - norm*z(n)*dt
+        z(n+1) = z(n) +(y(n)*dt/2) - c*dt*z(n)
+</pre>
+      Parameters are dt, a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2387" tppabs="http://spanky.triumf.ca/www/fractint/lorenz_type.html">
+  lorenz3d3 
+</a>
+</b>
+<dd>
+      Lorenz three lobe attractor, 3D orbit (Rick Miranda and Emily Stone)
+<pre>
+        z(0) = y(0) = z(0) = 1; norm = sqrt(x(n)^2 + y(n)^2)
+        x(n+1) = x(n) +(-(a*dt+dt)*x(n) + (a*dt-b*dt+z(n)*dt)*y(n))/3
+            + ((dt-a*dt)*(x(n)^2-y(n)^2)
+            + 2*(b*dt+a*dt-z(n)*dt)*x(n)*y(n))/(3*norm)
+        y(n+1) = y(n) +((b*dt-a*dt-z(n)*dt)*x(n) - (a*dt+dt)*y(n))/3
+            + (2*(a*dt-dt)*x(n)*y(n)
+            + (b*dt+a*dt-z(n)*dt)*(x(n)^2-y(n)^2))/(3*norm)
+        z(n+1) = z(n) +(3*x(n)*dt*x(n)*y(n)-y(n)*dt*y(n)^2)/2 - c*dt*z(n)
+</pre>
+      Parameters are dt, a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2387" tppabs="http://spanky.triumf.ca/www/fractint/lorenz_type.html">
+  lorenz3d4 
+</a>
+</b>
+<dd>
+      Lorenz four lobe attractor, 3D orbit (Rick Miranda and Emily Stone)
+<pre>
+        z(0) = y(0) = z(0) = 1;
+        x(n+1) = x(n) +(-a*dt*x(n)^3
+           + (2*a*dt+b*dt-z(n)*dt)*x(n)^2*y(n) + (a*dt-2*dt)*x(n)*y(n)^2
+           + (z(n)*dt-b*dt)*y(n)^3) / (2 * (x(n)^2+y(n)^2))
+        y(n+1) = y(n) +((b*dt-z(n)*dt)*x(n)^3 + (a*dt-2*dt)*x(n)^2*y(n)
+           + (-2*a*dt-b*dt+z(n)*dt)*x(n)*y(n)^2
+           - a*dt*y(n)^3) / (2 * (x(n)^2+y(n)^2))
+        z(n+1) = z(n) +(2*x(n)*dt*x(n)^2*y(n) - 2*x(n)*dt*y(n)^3 - c*dt*z(n))
+</pre>
+      Parameters are dt, a, b, and c.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2401" tppabs="http://spanky.triumf.ca/www/fractint/lsystem_type.html">
+  lsystem 
+</a>
+</b>
+<dd>
+      Using a turtle-graphics control language and starting with
+      an initial axiom string, carries out string substitutions the
+      specified number of times (the order), and plots the resulting.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2402" tppabs="http://spanky.triumf.ca/www/fractint/lyapunov_type.html">
+  lyapunov 
+</a>
+</b>
+<dd>
+      Derived from the Bifurcation fractal, the Lyapunov plots the Lyapunov
+      Exponent for a population model where the Growth parameter varies between
+      two values in a periodic manner.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2400" tppabs="http://spanky.triumf.ca/www/fractint/magnet_type.html">
+  magnet1j 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+                  [  z(n)^2 + (c-1)  ] 2
+        z(n+1) =  | ---------------- |
+                  [  2*z(n) + (c-2)  ]
+</pre>
+      Parameters: the real and imaginary parts of c
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2400" tppabs="http://spanky.triumf.ca/www/fractint/magnet_type.html">
+  magnet1m 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = 0; c = pixel;
+                  [  z(n)^2 + (c-1)  ] 2
+        z(n+1) =  | ---------------- |
+                  [  2*z(n) + (c-2)  ]
+</pre>
+      Parameters: the real &amp imaginary parts of perturbation of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2400" tppabs="http://spanky.triumf.ca/www/fractint/magnet_type.html">
+  magnet2j 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+                  [  z(n)^3 + 3*(C-1)*z(n) + (C-1)*(C-2)         ] 2
+        z(n+1) =  |  -------------------------------------------- |
+                  [  3*(z(n)^2) + 3*(C-2)*z(n) + (C-1)*(C-2) + 1 ]
+</pre>
+      Parameters: the real and imaginary parts of c
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2400" tppabs="http://spanky.triumf.ca/www/fractint/magnet_type.html">
+  magnet2m 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = 0; c = pixel;
+                  [  z(n)^3 + 3*(C-1)*z(n) + (C-1)*(C-2)         ] 2
+        z(n+1) =  |  -------------------------------------------- |
+                  [  3*(z(n)^2) + 3*(C-2)*z(n) + (C-1)*(C-2) + 1 ]
+</pre>
+      Parameters: the real and imaginary parts of perturbation of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2362" tppabs="http://spanky.triumf.ca/www/fractint/mandelbrot_type.html">
+  mandel 
+</a>
+</b>
+<dd>
+      Classic Mandelbrot set fractal.
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = z(n)^2 + c.
+</pre>
+      Two parameters: real &amp imaginary perturbations of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2403" tppabs="http://spanky.triumf.ca/www/fractint/fn_fn_type.html">
+  mandel(fn||fn) 
+</a>
+</b>
+<dd>
+<pre>
+        c = pixel;
+        z(0) = p1
+        if modulus(z(n)) < shift value, then
+           z(n+1) = fn1(z(n)) + c,
+        else
+           z(n+1) = fn2(z(n)) + c.
+</pre>
+      Five parameters: real, imaginary portions of p1, shift value,
+                       fn1 and fn2.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2405" tppabs="http://spanky.triumf.ca/www/fractint/mcloud_type.html">
+  mandelcloud 
+</a>
+</b>
+<dd>
+      Displays orbits of Mandelbrot set:
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = z(n)^2 + c.
+</pre>
+      One parameter: number of intervals
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2376" tppabs="http://spanky.triumf.ca/www/fractint/quartic_type.html">
+  mandel4
+</a>
+</b>
+<dd>
+      Special case of mandelzpower kept for speed.
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = z(n)^4 + c.
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2372" tppabs="http://spanky.triumf.ca/www/fractint/mandel_fn_type.html">
+  mandelfn 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = c*fn(z(n)).
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0), and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2403" tppabs="http://spanky.triumf.ca/www/fractint/fn_fn_type.html">
+  manlam(fn||fn) 
+</a>
+</b>
+<dd>
+<pre>
+        c = pixel;
+        z(0) = p1
+        if modulus(z(n)) < shift value, then
+           z(n+1) = fn1(z(n)) * c, else
+           z(n+1) = fn2(z(n)) * c.
+</pre>
+      Five parameters: real, imaginary parts of p1, shift value, fn1, fn2.
+
+<p>
+<dt>
+<a href="../../../tppmsgs/msgs23.htm#2391" tppabs="http://spanky.triumf.ca/www/fractint/martin_hop_type.html">
+<b>
+  Martin 
+</b>
+</a>
+<dd>
+      Attractor fractal by Barry Martin - orbit in two dimensions.
+<pre>
+        z(0) = y(0) = 0;
+        x(n+1) = y(n) - sin(x(n))
+        y(n+1) = a - x(n)
+</pre>
+      Parameter is a (try a value near pi)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2368" tppabs="http://spanky.triumf.ca/www/fractint/mand_lambda_type.html">
+  mandellambda 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = .5; lambda = pixel;
+        z(n+1) = lambda*z(n)*(1 - z(n)).
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0)
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2409" tppabs="http://spanky.triumf.ca/www/fractint/phoenix_type.html">
+  mandphoenix 
+</a>
+</b>
+<dd>
+
+<pre>
+      z(0) = c = pixel, y(0) = 0;
+      For degree = 0:
+        z(n+1) = z(n)^2 + c.x + c.y*y(n), y(n+1) = z(n)
+      For degree >= 2:
+        z(n+1) = z(n)^degree + c.x*z(n)^(degree-1) + c.y*y(n)
+        y(n+1) = z(n)
+      For degree <= -3:
+        z(n+1) = z(n)^|degree| + c.x*z(n)^(|degree|-2) + c.y*y(n)
+        y(n+1) = z(n)
+</pre>
+      Three parameters: real &amp imaginary perturbations of z(0), and degree.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2409" tppabs="http://spanky.triumf.ca/www/fractint/phoenix_type.html">
+  mandphoenixclx 
+</a>
+</b>
+<dd>
+<pre>
+      z(0) = c = pixel, y(0) = 0;
+      For degree = 0:
+        z(n+1) = z(n)^2 + c + p2*y(n), y(n+1) = z(n)
+      For degree >= 2:
+        z(n+1) = z(n)^degree + c*z(n)^(degree-1) + p2*y(n), y(n+1) = z(n)
+      For degree <= -3:
+        z(n+1) = z(n)^|degree| + c*z(n)^(|degree|-2) + p2*y(n), y(n+1) = z(n)
+</pre>
+      Five parameters: real &amp imaginary perturbations of z(0), real &amp
+        imaginary parts of p2, and degree.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  manfn+exp 
+</a>
+</b>
+<dd>
+      'Mandelbrot-Equivalent' for the julfn+exp fractal.
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = fn(z(n)) + e^z(n) + C.
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0), and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  manfn+zsqrd 
+</a>
+</b>
+<dd>
+      'Mandelbrot-Equivalent' for the Julfn+zsqrd fractal.
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = fn(z(n)) + z(n)^2 + c.
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0), and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  manowar 
+</a>
+</b>
+<dd>
+<pre>
+        c = z1(0) = z(0) = pixel;
+        z(n+1) = z(n)^2 + z1(n) + c;
+        z1(n+1) = z(n);
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0)
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  manowarj 
+</a>
+</b>
+<dd>
+<pre>
+        z1(0) = z(0) = pixel;
+        z(n+1) = z(n)^2 + z1(n) + c;
+        z1(n+1) = z(n);
+</pre>
+      Parameters: real &amp imaginary parts of c
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  manzpower 
+</a>
+</b>
+<dd>
+      'Mandelbrot-Equivalent' for julzpower.
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = z(n)^exp + c; try exp = e = 2.71828...
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0), real &amp
+      imaginary parts of exponent exp.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  manzzpwr 
+</a>
+</b>
+<dd>
+      'Mandelbrot-Equivalent' for the julzzpwr fractal.
+<pre>
+        z(0) = c = pixel
+        z(n+1) = z(n)^z(n) + z(n)^exp + C.
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0), and exponent
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2381" tppabs="http://spanky.triumf.ca/www/fractint/mpeterson_type.html">
+  marksjulia 
+</a>
+</b>
+<dd>
+      A variant of the julia-lambda fractal.
+<pre>
+        z(0) = pixel;
+        z(n+1) = (c^exp-1)*z(n)^2 + c.
+</pre>
+      Parameters: real &amp imaginary parts of c, and exponent
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2381" tppabs="http://spanky.triumf.ca/www/fractint/mpeterson_type.html">
+  marksmandel </a>
+</b>
+<dd>
+      A variant of the mandel-lambda fractal.
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = (c^exp-1)*z(n)^2 + c.
+</pre>
+      Parameters: real &amp imaginary parts of perturbations of z(0),
+      and exponent
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2381" tppabs="http://spanky.triumf.ca/www/fractint/mpeterson_type.html">
+  marksmandelpwr 
+</a>
+</b>
+<dd>
+      The marksmandelpwr formula type generalized (it previously
+      had fn=sqr hard coded).
+<pre>
+        z(0) = pixel, c = z(0) ^ (z(0) - 1):
+        z(n+1) = c * fn(z(n)) + pixel,
+</pre>
+      Parameters: real and imaginary perturbations of z(0), and fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2364" tppabs="http://spanky.triumf.ca/www/fractint/newt_basin_type.html">
+  newtbasin 
+</a>
+</b>
+<dd>
+      Based on the Newton formula for finding the roots of z^p - 1.
+      Pixels are colored according to which root captures the orbit.
+<pre>
+        z(0) = pixel;
+        z(n+1) = ((p-1)*z(n)^p + 1)/(p*z(n)^(p - 1)).
+</pre>
+      Two parameters: the polynomial degree p, and a flag to turn
+      on color stripes to show alternate iterations.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2365" tppabs="http://spanky.triumf.ca/www/fractint/newton_type.html">
+  newton 
+</a>
+</b>
+<dd>
+      Based on the Newton formula for finding the roots of z^p - 1.
+      Pixels are colored according to the iteration when the orbit
+      is captured by a root.
+<pre>
+        z(0) = pixel;
+        z(n+1) = ((p-1)*z(n)^p + 1)/(p*z(n)^(p - 1)).
+</pre>
+      One parameter: the polynomial degree p.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2409" tppabs="http://spanky.triumf.ca/www/fractint/phoenix_type.html">
+  phoenix 
+</a>
+</b>
+<dd>
+<pre>
+      z(0) = pixel, y(0) = 0;
+      For degree = 0: z(n+1) = z(n)^2 + p1.x + p2.x*y(n), y(n+1) = z(n)
+      For degree >= 2:
+       z(n+1) = z(n)^degree + p1.x*z(n)^(degree-1) + p2.x*y(n), y(n+1) = z(n)
+      For degree <= -3:
+       z(n+1) = z(n)^|degree| + p1.x*z(n)^(|degree|-2) 
+	    + p2.x*y(n), y(n+1) = z(n)
+</pre>
+      Three parameters: real parts of p1 &amp p2, and degree.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2409" tppabs="http://spanky.triumf.ca/www/fractint/phoenix_type.html">
+  phoenixcplx 
+</a>
+</b>
+<dd>
+<pre>
+      z(0) = pixel, y(0) = 0;
+      For degree = 0: z(n+1) = z(n)^2 + p1 + p2*y(n), y(n+1) = z(n)
+      For degree >= 2:
+        z(n+1) = z(n)^degree + p1*z(n)^(degree-1) + p2*y(n), y(n+1) = z(n)
+      For degree <= -3:
+        z(n+1) = z(n)^|degree| + p1*z(n)^(|degree|-2) + p2*y(n), y(n+1) = z(n)
+</pre>
+      Five parameters: real &amp imaginary parts of p1 &amp p2, and degree.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2379" tppabs="http://spanky.triumf.ca/www/fractint/pickover_type.html">
+  pickover 
+</a>
+</b>
+<dd>
+      Orbit in three dimensions defined by:
+<pre>
+        x(n+1) = sin(a*y(n)) - z(n)*cos(b*x(n))
+
+        y(n+1) = z(n)*sin(c*x(n)) - cos(d*y(n))
+        z(n+1) = sin(x(n))
+</pre>
+      Parameters: a, b, c, and d.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2370" tppabs="http://spanky.triumf.ca/www/fractint/plasma_type.html">
+  plasma </a>
+</b>
+<dd>
+      Random, cloud-like formations.  Requires 4 or more colors.
+      A recursive algorithm repeatedly subdivides the screen and
+      colors pixels according to an average of surrounding pixels
+      and a random color, less random as the grid size decreases.
+      Four parameters: 'graininess' (.5 to 50, default = 2), old/new
+      algorithm, seed value used, 16-bit out output selection.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2380" tppabs="http://spanky.triumf.ca/www/fractint/popcorn_type.html">
+  popcorn 
+</a>
+</b>
+<dd>
+      The orbits in 2D are plotted superimposed:
+<pre>
+        x(0) = xpixel, y(0) = ypixel;
+        x(n+1) = x(n) - h*sin(y(n) + tan(3*y(n))
+        y(n+1) = y(n) - h*sin(x(n) + tan(3*x(n))
+</pre>
+      One parameter: step size h.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2380" tppabs="http://spanky.triumf.ca/www/fractint/popcorn_type.html">
+  popcornjul
+</a>
+</b>
+<dd>
+      Conventional Julia using the popcorn formula:
+<pre>
+        x(0) = xpixel, y(0) = ypixel;
+        x(n+1) = x(n) - h*sin(y(n) + tan(3*y(n))
+        y(n+1) = y(n) - h*sin(x(n) + tan(3*x(n))
+</pre>
+      One parameter: step size h.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2391" tppabs="http://spanky.triumf.ca/www/fractint/martin_hop_type.html">
+  quadruptwo 
+</a>
+</b>
+<dd>
+      Quadruptwo attractor from Michael Peters - orbit in two dimensions.
+<pre>
+        z(0) = y(0) = 0;
+        x(n+1) = y(n) - sign(x(n)) * sin(ln(abs(b*x(n)-c)))
+                                   * arctan(sqr(ln(abs(c*x(n)-b))))
+        y(n+1) = a - x(n)
+</pre>
+      Parameters are a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2407" tppabs="http://spanky.triumf.ca/www/fractint/quaternion_type.html">
+  quatjul 
+</a>
+</b>
+<dd>
+      Quaternion Julia set.
+<pre>
+        q(0)   = (xpixel,ypixel,zj,zk)
+        q(n+1) = q(n)*q(n) + c.
+</pre>
+      Four parameters: c, ci, cj, ck
+      c = (c1,ci,cj,ck)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs24.htm#2407" tppabs="http://spanky.triumf.ca/www/fractint/quaternion_type.html">
+  quat
+</a>
+</b>
+<dd>
+      Quaternion Mandelbrot set.
+<pre>
+        q(0)   = (0,0,0,0)
+        q(n+1) = q(n)*q(n) + c.
+</pre>
+      Two parameters: cj,ck
+      c = (xpixel,ypixel,cj,ck)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2388" tppabs="http://spanky.triumf.ca/www/fractint/rossler_type.html">
+  rossler3D 
+</a>
+</b>
+<dd>
+      Orbit in three dimensions defined by:
+<pre>
+        x(0) = y(0) = z(0) = 1;
+        x(n+1) = x(n) - y(n)*dt -   z(n)*dt
+        y(n+1) = y(n) + x(n)*dt + a*y(n)*dt
+        z(n+1) = z(n) + b*dt + x(n)*z(n)*dt - c*z(n)*dt
+</pre>
+      Parameters are dt, a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2375" tppabs="http://spanky.triumf.ca/www/fractint/sierpinski_type.html">
+  sierpinski 
+</a>
+</b>
+<dd>
+      Sierpinski gasket - Julia set producing a 'Swiss cheese triangle'
+<pre>
+
+        z(n+1) = (2*x,2*y-1) if y > .5;
+            else (2*x-1,2*y) if x > .5;
+            else (2*x,2*y)
+</pre>
+      No parameters.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  spider 
+</a>
+</b>
+<dd>
+<pre>
+        c(0) = z(0) = pixel;
+        z(n+1) = z(n)^2 + c(n);
+        c(n+1) = c(n)/2 + z(n+1)
+</pre>
+      Parameters: real &amp imaginary perturbation of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  sqr(1/fn)
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = (1/fn(z(n))^2
+</pre>
+      One parameter: the function fn.
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  sqr(fn)
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        z(n+1) = fn(z(n))^2
+</pre>
+      One parameter: the function fn.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2395" tppabs="http://spanky.triumf.ca/www/fractint/test_type.html">
+  test 
+</a>
+</b>
+<dd>
+      'test' point letting us (and you!) easily add fractal types via
+      the c module testpt.c.  Default set up is a mandelbrot fractal.
+      Four parameters: user hooks (not used by default testpt.c).
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2384" tppabs="http://spanky.triumf.ca/www/fractint/taylor_skinner_type.html">
+  tetrate 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = c = pixel;
+        z(n+1) = c^z(n)
+</pre>
+      Parameters: real &amp imaginary perturbation of z(0)
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2391" tppabs="http://spanky.triumf.ca/www/fractint/martin_hop_type.html">
+  threeply 
+</a>
+</b>
+<dd>
+      Threeply attractor by Michael Peters - orbit in two dimensions.
+<pre>
+        z(0) = y(0) = 0;
+        x(n+1) = y(n) - sign(x(n)) * (abs(sin(x(n))*cos(b)
+                                      +c-x(n)*sin(a+b+c)))
+        y(n+1) = a - x(n)
+</pre>
+      Parameters are a, b, and c.
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2381" tppabs="http://spanky.triumf.ca/www/fractint/mpeterson_type.html">
+  tim's_error 
+</a>
+</b>
+<dd>
+      A serendipitous coding error in marksmandelpwr brings to life
+      an ancient pterodactyl!  (Try setting fn to sqr.)
+<pre>
+        z(0) = pixel, c = z(0) ^ (z(0) - 1):
+        tmp = fn(z(n))
+        real(tmp) = real(tmp) * real(c) - imag(tmp) * imag(c);
+        imag(tmp) = real(tmp) * imag(c) - imag(tmp) * real(c);
+        z(n+1) = tmp + pixel;
+</pre>
+      Parameters: real &amp imaginary perturbations of z(0) and function fn
+
+<p>
+<dt>
+<b>
+<a href="../../../tppmsgs/msgs23.htm#2382" tppabs="http://spanky.triumf.ca/www/fractint/unity_type.html">
+  unity 
+</a>
+</b>
+<dd>
+<pre>
+        z(0) = pixel;
+        x = real(z(n)), y = imag(z(n))
+        One = x^2 + y^2;
+        y = (2 - One) * x;
+        x = (2 - One) * y;
+        z(n+1) = x + i*y
+</pre>
+      No parameters.
+
+</dl>
+<p>
+<HR>
+<b>
+Back to
+<a href="FRACTI~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/fractint.html">
+The Fractint Home Page.</a>
+or back to
+<a href="FINDEX~1.HTM" tppabs="http://spanky.triumf.ca/www/fractint/findex.html">
+The Fractint Index Page.</a>
+</b>
+<HR>
+<h2>This page maintained by</h2>
+<address>
+Noel Giffin, <a href="../../../tppmsgs/msgs17.htm#1707" tppabs="http://www.triumf.ca/">TRIUMF</a><br>
+noel@triumf.ca
+</address>
+</body>
+</html>
+

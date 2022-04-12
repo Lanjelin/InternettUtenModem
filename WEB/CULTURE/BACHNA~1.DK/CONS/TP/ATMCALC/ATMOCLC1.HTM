@@ -1,0 +1,310 @@
+<html>
+<head>
+   <title>Moisture in air</title>
+   <meta name="GENERATOR" content="Mozilla/2.01Gold (Win32)">
+   <meta name="Author" content="Tim Padfield">
+</head>
+<body>
+<b><font SIZE=+1>Equations describing the physical properties
+of moist air 
+<br>
+<hr width="100%" >
+<br></font></b>This is a formal presentation of the formulæ that describe
+those properties of water vapour in air that concern conservators. The
+derivation of these equations is explained concisely and the useful equations
+are emphasised by <b>bold</b> type. This datasheet is intended for reference,
+not as a friendly introduction to the topic! Refer to the <a href="../../../../tppmsgs/msgs31.htm#3190" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/index.htm">index</a>
+for more discursive excursions into the subject of atmospheric moisture.
+
+<br>
+<hr width="100%" >
+<p>Use the shortcuts below to get to the relevant section, bearing in mind
+that some sections rely on concepts explained earlier! If you just want
+to use the equations, try the <b><a href="ATMOCALC.HTM" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmocalc.htm">Calculator for
+the properties of moist air&nbsp;</a>&nbsp;&nbsp;</b>(which requires a
+browser that can interpret JavaScript) 
+<br>
+<br><a href="ATMOCLC1.HTM#svp" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#svp">Saturation vapour pressure 
+<br></a><a href="ATMOCLC1.HTM#pascal" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#pascal">Definition of the Pascal 
+<br></a><a href="ATMOCLC1.HTM#svc" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#svc">Concentration of water vapour in space
+
+<br></a><a href="ATMOCLC1.HTM#rh" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#rh">Relative humidity 
+<br></a><a href="ATMOCLC1.HTM#dp" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#dp">Dew point 
+<br></a><a href="ATMOCLC1.HTM#vca" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#vca">Concentration of water vapour in air
+
+<br></a><a href="ATMOCLC1.HTM#enthalpy" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#enthalpy">Enthalpy 
+<br></a><a href="ATMOCLC1.HTM#psychro" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm#psychro">The psychrometer</a> 
+<br>
+<hr width="100%" ></p>
+
+<p><a name="svp"></a><font SIZE=+1>Water vapour pressure</font></p>
+
+<p>In a closed container partly filled with water there will be some water
+vapour in the space above the water. The concentration of water vapour
+depends only on the temperature. It is not dependent on the amount of water
+and is only very slightly influenced by the presence of air in the container.
+
+<br>
+<br>The water vapour exerts a pressure on the walls of the container. The
+empirical equations given below give a good approximation to the saturation
+water vapour pressure at temperatures within the limits of the earth's
+climate. 
+<br>
+<br>Saturation vapour pressure, p<sub>s</sub>, in pascals: 
+<br><b>p</b><sub>s</sub><b> = 610.78 *exp( t / ( t + 238.3 ) *17.2694 )
+
+<br></b><font SIZE=+0>where <b>t </b>is the temperature in degrees Celsius
+
+<br>
+<br></font>The svp below freezing can be corrected after using the equation
+above, thus: 
+<br><b>p<sub>s </sub></b><sub>ice</sub><b> = -0.00486 + 0.85471 *p<sub>s</sub>
++ 0.2441 *p<sub>s</sub><sup>2</sup> 
+<br>
+<br></b>The next formula gives a direct result for the saturation vapour
+pressure over ice: 
+<br><b>p<sub>s </sub></b><sub>ice</sub><b> = exp( -6140.4 / ( 273 + t )
++ 28.916 ) 
+<br><a name="pascal"></a>
+<br></b>The <b>pascal</b> is the SI unit of pressure = newtons / m<sup>2</sup>.
+Atmospheric pressure is about 100,000 Pa (standard atmospheric pressure
+is defined as 101,300 Pa). 
+<br>
+<hr width="100%" ></p>
+
+<p><a name="svc"></a><font SIZE=+1>Water vapour concentration</font></p>
+
+<p>The relationship between vapour pressure and concentration is defined
+for any gas by the equation: 
+<br>p = nRT/V 
+<br><i><font SIZE=+0>p is the pressure in Pa,</font> <font SIZE=+0>V is
+the volume in cubic metres,</font> <font SIZE=+0>T is the temperature in
+degrees Kelvin (degrees Celsius + 273.16),</font> <font SIZE=+0>n is the
+quantity of gas expressed in molar mass ( 0.018 kg in the case of water
+),</font> <font SIZE=+0>R is the gas constant: 8.31 Joules/mol/m</font><sup>3</sup><font SIZE=+0>
+
+<br>
+<br></font></i>To convert the water vapour pressure to concentration in
+kg/m<sup>3</sup>: ( Kg / 0.018 ) / V = p / RT</p>
+
+<p><b>kg/m<sup>3</sup> = 0.002166 *p / ( t + 273.16 ) &nbsp;&nbsp;</b><i>where<b>
+</b>p is the actual vapour pressure<b> </b></i></p>
+
+<p>
+<hr width="100%" >
+<br><a name="rh"></a><font SIZE=+1>Relative Humidity</font></p>
+
+<p>The Relative Humidity (RH) is the ratio of the actual water vapour pressure
+to the saturation water vapour pressure at the prevailing temperature.
+</p>
+
+<p><b>RH = p/p</b><sub>s</sub></p>
+
+<p>RH is usually expressed as a percentage rather than as a fraction. 
+<br>
+<br>The RH is a ratio. It does not define the water content of the air
+unless the temperature is given. The reason RH is so much used in conservation
+is that most organic materials have an equilibrium water content that is
+mainly determined by the RH and is only slightly influenced by temperature.
+
+<br>
+<br>Notice that air is not involved in the definition of RH. Airless space
+can have a RH. Air is the transporter of water vapour in the atmosphere
+and in air conditioning systems, so the phrase <i>&quot;RH of the air&quot;</i>
+is commonly used, and only occasionally misleading. The independence of
+RH from atmospheric pressure is not important on the ground, but it does
+have some relevance to calculations concerning air transport of works of
+art and conservation by freeze drying. </p>
+
+<p>
+<hr width="100%" ></p>
+
+<p><a name="dp"></a><font SIZE=+1>The Dew Point</font></p>
+
+<p>The water vapour content of air is often quoted as dew point. This is
+the temperature to which the air must be cooled before dew condenses from
+it. At this temperature the actual water vapour content of the air is equal
+to the saturation water vapour pressure. The dew point is usually calculated
+from the RH. First one calculates<b> p</b><sub>s</sub>, the saturation
+vapour pressure at the ambient temperature. The actual water vapour pressure,
+<b>p</b><sub>a</sub>, is:</p>
+
+<p><b>p</b><sub>a</sub><b>= p</b><sub>s</sub><b> * RH% / 100</b> </p>
+
+<p>The next step is to calculate the temperature at which <b>p</b><sub>a</sub>
+would be the saturation vapour pressure. This means running backwards the
+equation given above for deriving saturation vapour pressure from temperature:
+
+<br>
+<br>Let <b>w = ln ( p</b><sub>a</sub><b>/ 610.78 ) 
+<br>Dew point = w *238.3 / ( 17.294 - w ) 
+<br>
+<br></b>This calculation is often used to judge the probability of condensation
+on windows and within walls and roofs of humidified buildings.</p>
+
+<p>The dew point can also be measured directly by cooling a mirror until
+it fogs. The RH is then given by the ratio</p>
+
+<p><b>RH = 100 * p<sub>s </sub></b><sub>dewpoint</sub><b>/p<sub>s</sub></b><sub>ambient</sub></p>
+
+<p>
+<hr width="100%" ></p>
+
+<p><a name="vca"></a><font SIZE=+1>Concentration of water vapour in air
+
+<br>
+<br></font>It is sometimes convenient to quote water vapour concentration
+as kg/kg of dry air. This is used in air conditioning calculations and
+is quoted on psychrometric charts. The following calculations for water
+vapour concentration in air apply at ground level. </p>
+
+<p>Dry air has a molar mass of 0.029 kg. It is denser than water vapour,
+which has a molar mass of 0.018 kg. Therefore, <i>humid air is lighter
+than dry air</i>. If the total atmospheric pressure is P and the water
+vapour pressure is p, the partial pressure of the dry air component is
+P - p<b> </b>. The weight ratio of the two components, water vapour and
+dry air is: </p>
+
+<p>kg water vapour / kg dry air = 0.018 *p / ( 0.029 *(P - p ) ) 
+<br>&nbsp;&nbsp;= 0.62 *p / (P - p ) </p>
+
+<p>At room temperature P - p<b> </b>is nearly equal to P, which at ground
+level is close to 100,000 Pa, so, approximately: </p>
+
+<p><b>kg water vapour / kg dry air = 0.62 *10<sup>-5</sup> *p </b>
+<br>
+<hr width="100%" ></p>
+
+<p><a name="enthalpy"></a><b>Thermal properties of damp air 
+<br>
+<br></b>The heat content, usually called the <i>enthalpy</i>, of air rises
+with increasing water content. This hidden heat, called latent heat by
+air conditioning engineers, has to be supplied or removed in order to change
+the relative humidity of air, <i>even at a constant temperature.</i> This
+is relevant to conservators. The transfer of heat from an air stream to
+a wet surface, which releases water vapour to the air stream at the same
+time as it cools it, is the basis for psychrometry and many other microclimatic
+phenomena. Control of heat transfer can be used to control the drying and
+wetting of materials during conservation treatment. </p>
+
+<p>The enthalpy of dry air is not known. Air at zero degrees celsius is
+<i>defined</i> to have zero enthalpy. The enthalpy, in kJ/kg, at any temperature,
+t, between 0 and 60C is approximately: 
+<br>
+<br>h = 1.007t - 0.026 &nbsp;&nbsp;<i>below zero: h = 1.005t </i></p>
+
+<p>The enthalpy of liquid water is also defined to be zero at zero degrees
+celsius. To turn liquid water to vapour at the same temperature requires
+a very considerable amount of heat energy: 2501 kJ/kg at 0C 
+<br>
+<br>At temperature t the heat content of water vapour is: 
+<br>
+<br>h<sub>w</sub> = 2501 + 1.84t 
+<br>
+<br><i>Notice that water vapour, once generated, also requires more heat
+than dry air to raise its temperature further: 1.84 kJ/kg.C against about
+1 kJ/kg.C for dry air. 
+<br>
+<br></i>The enthalpy of moist air, in kJ/kg, is therefore: 
+<br>
+<br><b>h = (1.007*t - 0.026) + g*(2501 + 1.84*t) 
+<br></b><i>g is the water content in kg/kg of dry air 
+<br>
+<hr width="100%" >
+<br><a name="psychro"></a></i><font SIZE=+1>The Psychrometer</font></p>
+
+<p>The final formula in this collection is the <b>psychrometric equation</b>.
+The psychrometer is the nearest to an absolute method of measuring RH that
+the conservator ever needs. It is more reliable than electronic devices,
+because it depends on the calibration of thermometers or temperature sensors,
+which are much more reliable than electrical RH sensors. The only limitation
+to the psychrometer is that it is difficult to use in confined spaces (not
+because it needs to be whirled around but because it releases water vapour).
+
+<br>
+<br>The psychrometer, or wet and dry bulb thermometer, responds to the
+RH of the air in this way:</p>
+
+<p>Unsaturated air evaporates water from the wet wick. The heat required
+to evaporate the water into the air stream is taken from the air stream,
+which cools in contact with the wet surface, thus cooling the thermometer
+beneath it. An equilibrium wet surface temperature is reached which is
+very roughly half way between ambient temperature and dew point temperature.
+</p>
+
+<p>The air's potential to absorb water is proportional to the difference
+between the mole fraction, m<sub>a</sub>, of water vapour in the ambient
+air and the mole fraction, m<sub>w</sub>, of water vapour in the saturated
+air at the wet surface. It is this capacity to carry away water vapour
+which drives the temperature down to t<sub>w</sub>, the wet thermometer
+temperature, from the ambient temperature t<sub>a</sub> : 
+<br>( m<sub>w</sub>&nbsp;- m<sub>a</sub>) = B( t<sub>a</sub>- t<sub>w</sub>)
+
+<br>B is a constant, whose numerical value can be derived theoretically
+by some rather complicated physics (see the reference below). 
+<br>
+<br>The water vapour concentration is expressed here as mole fraction in
+air, rather than as vapour pressure. Air is involved in the psychrometric
+equation, because it brings the heat required to evaporate water from the
+wet surface. The constant B is therefore dependent on total air pressure,
+P. However the mole fraction, m, is simply the ratio of vapour pressure
+p to total pressure P: &nbsp;p/P. The air pressure is the same for both
+ambient air and air in contact with the wet surface, so the constant B
+can be modified to a new value, A, which incorporates the pressure, allowing
+the molar fractions to be replaced by the corresponding vapour pressures:
+
+<br>
+<br>p<sub>w</sub> - p<sub>a</sub>= A* ( t<sub>a</sub>- t<sub>w</sub>) 
+<br>
+<br>The relative humidity (as already defined) is the ratio of p<sub>a</sub>,
+the actual water vapour pressure of the air, to p<sub>s</sub>, the saturation
+water vapour pressure at ambient temperature. 
+<br>
+<br><b>RH% </b>= 100 *p<sub>a</sub>/ p<sub>s&nbsp;</sub><b>= 100 *( p<sub>w</sub>
+- ( t<sub>a</sub>- t<sub>w</sub>)</b> * <b>63) / p<sub>s</sub> 
+<br></b><i>When the wet thermometer is frozen the constant changes to <b>56
+
+<br>
+<br></b></i>The psychrometric constant is taken from: R.G.Wylie &amp; T.Lalas,
+&quot;Accurate psychrometer coefficients for wet and ice covered cylinders
+in laminar transverse air streams&quot;, in <b>Moisture and Humidity 1985</b>,
+published by the Instrument Society of America, pp 37 - 56. These values
+are slightly lower than those in general use. There are tables and slide
+rules for calculating RH from the psychrometer but a programmable calculator
+is very handy for this job. Alternatively, download the <a href="../../../../tppmsgs/msgs31.htm#3191" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/tmocalc.htm">calculator</a>
+that accompanies this article and use it as a file that can be read into
+your browser. <a href="../../../../tppmsgs/msgs31.htm#3192" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/mollier/moll1.htm">Psychrometric charts</a>
+have graphical versions of all these formulæ and don't need electricity.
+
+<br>
+<hr width="100%" ></p>
+
+<p><i>To check your program, take air at 20C and 15.7C wet bulb temperature.
+The RH is 65%. The water vapour pressure is 1500 Pa. The water vapour concentration
+in kg/m3 is 0.011, in kg/kg it is 0.009. The dew point is 13C.</i> 
+<br>
+<hr width="100%" ><a href="../../../../tppmsgs/msgs31.htm#3190" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/index.htm">Index 
+<br>
+<br></a>Copyright Tim Padfield, 1996 
+<br><!--
+
+
+
+
+
+
+
+
+This file created using AmiWeb and AmiPro
+
+
+
+
+
+
+
+
+--></p>
+
+</body>
+</html>

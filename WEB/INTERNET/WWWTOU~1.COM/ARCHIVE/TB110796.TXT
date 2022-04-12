@@ -1,0 +1,163 @@
+<html><head><title>TOURBUS Info Page</title></head>
+<body bgcolor="#ffffff">
+<img align="left" src="tbsmall.gif" alt="The Internet TourBus!">
+<i>"Why surf when you can ride the bus?"</i><br clear=all>
+<hr>
+<center>
+<h2>
+TOURBUS: Thursday, November 7, 1996<br>
+DRIVER: Patrick Crispin<br>
+TODAY'S TOURBUS STOP:<br>The Centre for the Easily Amused</h2>
+</center>
+<p>
+Hi, kids!
+<p>
+I think winter is finally descending upon Alabama.  I can tell because one
+day it is 75 degrees (F), the next day it is 30, the next day it is 75, the
+next day it is 30, etc.  I have, however, found a really ingenious way to
+beat this viscous Alabama weather cycle:  every day I wear both a
+sweatshirt and a pair of khaki shorts.  That way, only half of me is hot
+and the other half of me is cold.  :)
+<p>
+Actually, now that the University of Alabama has decided to offer me a
+temporary job until I graduate -- or, as my mother so kindly pointed out,
+the temporary job is pretty much the same thing as a permanent job since I
+am *NEVER* going to graduate (I am the only student at the University
+paying into the University's retirement system) -- I think I might actually
+celebrate my new employment by putting all of my sweatshirts away and
+buying myself a REAL Timberland jacket.
+<p>
+By the way, if you have never seen a Timberland jacket, you *MUST* pay a
+visit to Aardwulf to see what all the fuss is about!  If you think
+Timberland makes great leather boots, just wait until you see their
+jackets!  :)
+<pre>
++--------------------------------------------------------------------+
+      Feeling the chill? Try Timberland's guaranteed waterproof
+        leather bomber jacket from Aardwulf Apparel Company.
++--------------------( http://www.aardwulf.com )---------------------+
+</pre>
+Since Bob and I have focused our last couple of TOURBUS posts on some of
+the darkest subjects on the Internet -- spamming and viruses -- I think we
+should pull our little bus of Internet happiness into a FUN site this week.
+Before we do that, though, I have four quick things that I need to tell
+you (these four things are not Earth-shattering, but they may help you win
+a game of Trivial Pursuit):
+<p>
+<ol>
+<li>In my October 10th post (SQUIRRELS and INFOSEEK) I told you
+        how I had a "squirrel tart" in Canada that tasted an awful lot
+        like peanut butter.  An alert Canadian reader recently
+        informed me that "Squirrel" is a brand of peanut butter.
+        ("Honey, can you get me another squirrel and jelly sandwich?")
+
+    <li>In my October 24th post (THE AFTERMATH OF THE CHILD PORN SPAM)
+        I told you that Mark Trevino had found a 92 Kb file at NCSA
+        that has nothing but e-mail addresses.  "NCSA" stands for the
+        National Center for Supercomputer Applications, and they were
+        the folks who created the first graphical Web browser
+        ("Mosaic").
+
+     <li>Since so many of you are interested in learning more about
+        Netscape "cookies" (which we also talked about on October
+        24th), I plan to write a TOURBUS post on the subject in the
+        weeks to come.  In the interim, if you want a really cool
+        chocolate chip cookie recipe -- which has absolutely NOTHING
+        to do with Netscape cookies, but I thought you'd like the
+        recipe anyway -- check out my own chocolate chip cookie recipe
+        at <a href="http://ua1vm.ua.edu/~crispen/cookie.html">http://ua1vm.ua.edu/~crispen/cookie.html</a>
+
+<li>Finally, I just want to give everyone a little advanced
+        warning that my post on Thanksgiving day (Thursday, November
+        28) will be a repeat of last Thanksgiving's "spam" post.
+        Since the holiday season is a BIG time for unsolicited e-mail,
+        I am reposting last year's post to make sure that everyone on
+        the Bus knows the truth behind some of the Net's biggest spams
+        and urban legends.
+</ol>
+Now for the fun stuff.
+<p>
+<h3>THE CENTRE FOR THE EASILY AMUSED</h3>
+Most of the sites that we have visited in the past year have been either
+extremely useful or very informative.  I am happy to report that today's
+TOURBUS stop -- The Centre for the Easily Amused (C*E*A) -- is neither.
+<p>
+The C*E*A is pretty much a Yahoo-sized directory for all of the most
+absolutely useless, and incredibly silly, Web pages in the world.  The
+folks at the C*E*A say that they "been exploring the Internet since long
+before it was trendy in their search for the Ultimate Guide to Wasting
+Time" and that the C*E*A's motto is that "life's too short to take
+seriously."
+<p>
+So, if you are looking for a good way to kill a lot of time, you can find
+the Centre for the Easily Amused on the Web at <a href="http://www.amused.com/">http://www.amused.com/</a>
+<p>
+     You'll have to scroll down the C*E*A homepage a bit to find this -- the top
+of the C*E*A's homepage is full of awards and other stuff -- but the C*E*A
+has 9 major directories.  After exploring the site thoroughly, I can safely
+say that you'll only want to visit the following 3 directories:
+<p>
+<ul>
+<li>RANDOM SILLINESS.  You'll probably want to start here.  This
+       page has links to such wonderful sites as <a href="http://www.bway.net/~you/qtip.html">"The One and Only Q-
+       Tips Homepage"</a>, <a href=http://intranet.ca/~mdeabreu/ducttape.html">"1001 Uses
+       for Duct Tape"</a>, and, my personal favorite, <a href="http://www.cyberperk.com/angst/angst.htm">."Bad Teen Angst Poetry"</a>
+      
+    <li>SITES THAT DO STUFF.  This page has links to Web pages that
+       allow you to see stuff using Web cameras in some very weird
+       locations, to use your Web browser to play a whole bunch of
+       silly games, and to participate in a myriad of other time-
+       wasting activities.  My absolute favorite link here is the
+       <a href="http://www.mackerel.com/bubble.html">Virtual Bubble Wrap</a> which lets you pop wrapping bubbles with your mouse!
+
+    <li>SHORT ATTENTION SPAN SITE.  As best I can guess, this is sort
+       of a collection of "useless sites of the week" for people who
+       don't have the time to look through the "Random Silliness" and
+       "Sites That Do Stuff" pages. An example of one of the previous
+       sites of the week is the <a href="http://www.dtd.com/excuse/">"Evil Little Brother Excuse Generator"</a> which is a Mad-Libs-type program that generates excuses for everything from late
+       homework to torched houses.
+</ul>
+<p>
+That's it for this week.  Today's TOURBUS may seem to be a tad bit short,
+but once you actually visit the Centre for the Easily Amused, I think you
+will discover that today's TOURBUS stop has the distinct possibly of eating
+up a vast amount of your otherwise productive time.  :)
+<p>
+<pre>
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+UART (phrase) - To be bound or obliged.
+Usage: "UART to listen to yore momma."
+
+(Special thanks goes to Steve Creasy for today's wurd.)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+</pre>
+<pre>
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+</pre><p><hr>
+<center>
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin<br>
+All rights reserved.  Redistribution is allowed only with permission.<br>
+Send this copy to 3 friends and tell them to get on the Bus!<br>
+<p>
+<h3>
+<a href="/wv/hotel/tourbus/tour.htm">Back to the TOURBUS Main Page</a><br>
+<a href="/wv/hotel/tourbus/archives.htm">Browse the TOURBUS Archives</a>
+</h3>
+<hr>
+<a href="/wv/navbar.map"><img border=0 src="/wv/images/elements/navbar.gif" ismap></a>
+<hr>
+<h5>(c) Copyright 1996, Elephant Consulting</h5>
+</center>
+</address>
+</BODY></HTML>

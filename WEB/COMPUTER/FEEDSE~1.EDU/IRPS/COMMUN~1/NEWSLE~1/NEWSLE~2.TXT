@@ -1,0 +1,1619 @@
+The RPG Times
+Nov. 1, 1996.
+Vol 1 Issue #11
+
+Table of Contents:
+--------------------------------------------------------------------------------
+IRPS President's Note      - Michael Popovich <cad@digital.net>
+Editor's Note              - Karen Mizeri  <kmizeri@pris.bc.ca>
+IRPS Monthly Status Report - David Knisley <bean6@ix.netcom.com>
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+Rambling Thoughts          -  Kosala Ubayasekara <d96-kub@nada.kth.se
+Frolicking With Faeries    - Jenn Millington <jimjen@interlog.com>
+Top Ten List               - John "BJ" Tomkins <gr8dm@acronet.net>
+
+--------------------------------------------------------------------------------
+Role Playing Aides
+--------------------------------------------------------------------------------
+Demons - Type Y - Yuppies  - Meera Barry <mabarry@stout.entertain.com>
+Insanity Tables            - Karen Mizeri <kmizeri@pris.bc.ca>
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+The Assassins              - Tim Elford <shade@tusc.com.au> AND
+                             Goran Zidar <goran@elf.aust.com>
+Fireside Chat              - John "BJ" Tomkins <gr8dm@acronet.net>
+Freedom: Part 1            - Kosala Ubayasekara <d96-kub@nada.kth.se>
+
+--------------------------------------------------------------------------------
+Monthly Classified Ads:
+--------------------------------------------------------------------------------
+Subject: IRPS Link Button
+Subject: Convention: Knight March '97
+Subject: Final Fantasy
+Subject: Calling All Authors!
+
+--------------------------------------------------------------------------------
+President's Note 
+Michael Popovich <mlp26745@pegasus.cc.ucf.edu>
+--------------------------------------------------------------------------------
+Well met everyone!  As usual, I must commend the IRPS newsletter staff,
+they have been holding regular meetings at 9:30 PM EST on Mondays.  You're all
+welcome to join them on undernet IRC to offer suggestions or help out. :)
+        Also, membership seems to be stabilizing out right now.  Our membership
+looks as if it will hold at around 2000 members by the end of the year. I'm
+thinking about redoing the entire web page, and if anyone would like to help
+out in the design, feel free to email me (mlp26745@pegasus.cc.ucf.edu) for more
+information.
+
+--------------------------------------------------------------------------------
+Editor's Note
+Karen Mizeri <kmizeri@pris.bc.ca>
+--------------------------------------------------------------------------------
+Greetings all!
+The hard working staff of The RPG Times is proud to present to you the first
+issue of the E-Zine. This can be accessed by a link from the IRPS homepage,
+or at <http://www.commerce.adelaide.edu.au/calvert/irps/index.html>.
+It is our sincere hope it is enjoyed by all.  
+If you have any suggestions or would like to assist please feel free to email me
+or the appropriate department head.  As always I thank all who have submitted
+and helped to make this endeavor a success.  Please also note that we will be
+accepting submissions of original  work of graphics, the guidelines are listed 
+below.
+
+Karen Mizeri
+--------------------------------------------------------------------------------
+        -Guidelines for submission of original artwork-
+
+Hi all!
+
+My name is Kosala and I am in charge of the graphics department for The RPG
+Times. When submitting original artwork for the mag I would like you all to
+keep the following guidelines in mind.
+
+1)  Maximum file size for each artwork submitted is 50K
+2)  The artwork should be preferable already in .gif or .jpeg format. You
+    can send them to me in other formats also, if you have trouble converting
+    them. However all artwork included in the mag will be   converted to .gif or
+    .jpeg format, if not already in that state. 
+3)  Send copies of your work, not originals.
+4)  Include a name for the artwork. Include also the artists name, and email
+	address if applicable.
+
+Looking forward to seeing all your work! 
+
+Regards,
+
+Kosala
+
+--------------------------------------------------------------------------------
+IRPS Monthly Status Report 
+David Knisley  <bean6@ix.netcom.com>
+--------------------------------------------------------------------------------
+I have finished the rough draft of the Ability table and what the
+numbers mean.  Now I am using the information provided by everyone so some fine
+tuning may be needed.  I want to preface the table with this statement, I have
+set this up so that the computer can do all the rolling and work when it has
+been given the numbers.  This will allow the PC's and GM's to concentrate on
+role-playing while still being able to hack and slash.
+
+To start off with all PC's should decide on a race.  This will allow people to
+play whatever type of character they want, knowing the adjustment before going
+in.  I have used three default races and I added one of my own.  I would like
+each of the Star Council of Jehlan to send me a race complete with a description
+and possible +'s and -'s to be added to the list.  Of note this list is by no
+means complete and new races will be added as the game progresses.  Please look
+at the to added races and their more complete descriptions in the attachments.
+Here is the Abilities +'s and -'s chart:
+
+	ABILITY ADJUSTMENTS FOR RACE:
+
+
+HUMANS:  
+Strength: 	 0
+Fitness:	 0
+Knowledge:	 0
+Wit:		 0
+Coordination:	 0
+Influence:	 0
+Appeal:		 0
+Speed:		+1
+
+ELF:
+Strength:	-1
+Fitness:	 0
+Knowledge:	 0
+Wit:		-1
+Coordination:	+1
+Influence:	 0
+Appeal:		+2
+Speed:		 0
+
+DWARF:
+Strength:	+2
+Fitness:	+3
+Knowledge:	 -1
+Wit:		 -1
+Coordination:	 -1
+Influence:	 -1
+Appeal:		 0
+Speed:		 -1
+
+GELVIN:
+Strength:	-4
+Fitness:	-3
+Knowledge:	+4
+Wit:		+1
+Coordination:	+3
+Influence:	 0
+Appeal:		-3
+Speed:		-1
+
+NAR:
+Strength:	+3
+Fitness:	+2
+Knowledge:	 0
+Wit:		-2
+Coordination:	+1
+Influence:	-2
+Appeal:		-1
+Speed:		-1
+
+WYRAIN:
+Strength:	 0
+Fitness:	+1
+Knowledge:	+1
+Wit:		-2
+Coordination:	+1
+Influence:	-3
+Appeal:		-3
+Speed:		+1
+	
+
+Now for what the numbers mean.  Remember we are using a scale from -10 to
++10 as range and using the Percent die to hit. (1-100%)  I am assuming we will
+start with the base of 50% as was mentioned  previously   I propose
+that every PC start with zero's across the board, except for the racial
+adjustments, and instead of rolling a number to assign to each Ability allow
+the PC's to place 8 points in whichever Abilities they choose.  Then for every
+level they go up they gain 3 points to place in whichever Ability/Abilities they
+see fit.  They may place all of the points in one or split them up.  The only
+exception to this rule is the Ability of Appeal, as I feel you get what you are
+born with and making yourself more attractive is very difficult.  As such in
+order to raise Appeal after the first 8 points are used, 2 points must be
+expended for every 1 point of Appeal gained.  Here are the descriptions for
+the abilities:
+
+STRENGTH:  Every  number above zero gives you +2% to hit and every 2 numbers
+above zero add +1 to damage, using hand held weapons.  Thus a Strength of +6
+would yield +12% bonus to hit and +3 to damage.  On the other hand a Strength of
+-4 would give a -8% to hit and a -2 to damage.
+
+FITNESS:  Every 3 numbers above zero adds 1 HP (Health point) per level.  Thus
+a Fitness of +3 at 5th level would add 5 HP's. Or a Fitness of +6 at 7th level
+would add 14 HP's.  Conversely a Fitness of -3 at 7th level would SUBTRACT 7
+HP's.
+
+KNOWLEDGE:  Every number above zero adds 5% to damage (cumulative) to spell
+effects.  Thus a Wizard with a Knowledge of +7 would do 135% normal damage.  As
+such a spell with the HP's damage of 1d10 could do as much as 10 X 1.35 = 13.5
+or 14 HP's when rounded up.  (Obviously having a negative Knowledge for a spell
+caster is not recommended.)
+
+WIT:  Decreases all spell damage by 4% per number above zero.  Thus a Fighter
+with a Wit of +4 would take only 84% damage from a spell.  As such the above
+mentioned spell that would do 1d10 damage could only do a maximum of:  10 X
+.84 = 8.4 or 8 HP's when rounded down.  (I don't think I have to explain
+rounding do I?)  The opposite would also be true as in the case of the Wizard
+with a -2 Wit.  All damage would be increased by 8%, so that the same 1d10
+damage could be at a maximum:  10 X 1.08 = 10.8 or 11 HP's when rounded up.
+
+COORDINATION:  Reduces damage from PHYSICAL ATTACKS by 2% per number above zero.
+Thus a Thief with a Coordination value of +8 would receive only 84% of the damage
+from a sword blow.  Whereas a Priest with a Coordination of -5 would receive 110%
+damage from a dagger.
+
+INFLUENCE:  Each number above zero represents the ability to maintain 2
+followers.  (We can expand this as we go.)
+
+APPEAL:  For each number above zero the individual receives a +10% bonus on
+likability and reaction rolls.  But, as mentioned before, the only way to raise
+Appeal after using the first 8 discretionary points is by "paying"  2 for 1.
+Obviously Appeal can have the negative affects for numbers less than zero, down
+to zero for Elephant Man.
+
+SPEED:  For every 5 numbers above zero an extra attack per attack sequence is
+gained.  Maximum of 3 attacks per sequence, no matter how many wishes are used
+to get above +10.  And if the Speed is -5 the individual gets only one attack
+every 2 attack sequences, and for a -10 (God help this poor slep!) the
+individual only gets on attack for every 3 attack periods.
+
+
+Now I do have one idea that I would like some input on.  I think we should allow
+players to trade 2 points for raising another ability 1 point.  An example of
+this would be a Fighter that wants to be the race Gelvin.  (Taking advantage of
+that races special abilities while loosing much Strength.)  In order to even
+meet the basic requirements of being a Fighter (which you can see latter in this
+message) the player would have to take points from elsewhere to make the
+necessary +1 for Strength and +2 for Fitness.  This would let us have a much
+wider range of characters and classes.
+
+
+				RACE DESCRIPTIONS
+
+
+HUMANS:  Humans are the most versatile of the races.  They are allowed to be of
+any class and may advance to the limit of each class.  Although they do not
+receive some of the special abilities, Humans are the most abundant and flourish
+in every corner of the globe.
+
+ELVES:  A generally kind and attractive folk, Elves tend to live a more carefree
+lifestyle and prefer to live for the pleasure of life.  They are generally
+shorter and lighter than most Humans, but have developed along the same
+evolutionary pattern.  Elves are a long lived race, and their lifespans are only
+matched by that of the Gelvin.  Elves and Gelvin do not general get along and
+they tend to mistrust one another.  Besides the added Abilities scores Elves are
+very adept at hearing noises, 1-3 on 1d8 die.  They are also able to see into
+part of the infrared spectrum allowing them to see in complete darkness.
+Lastly Elves are able to communicate with most woodland animals that occur
+naturally.
+
+DWARVES:  Dwarves tend to be short and robust.  They have a love of drink and
+good times.  They are also lovers of fine gems and jewelry.  They usually live
+in caverns or mines they have dug in search of such high quality stones.
+Dwarves are distrustful of all magic, except that which is preformed by the
+Shamans (Priests) of their clans.  Dwarves tend to live about twice as long as
+Humans.  They are also able to see into the infrared area of the light spectrum
+as Elves do, allowing them to see in total darkness.  Dwarves can detect traps
+in caverns, shifting walls, and new construction when concentrating on a roll
+of 1-4 on 1d10 die.
+
+GELVIN:  Gelvin are a troll-like race that is naturally very intelligent and
+reclusive.  (They look similar to Yoda from Star Wars.)  Gelvin are also very
+agile having extraordinary coordination.  Gelvin do not normally marry and only
+meet to mate and then separate.  Gelvin feel misunderstood most of the time,
+hence their wish to be alone.  Gelvin have several very interesting advantages.
+The first of which is their ability to see into the ultra-violet end of the light
+spectrum.  The depth of this ability is not fully understood but it allows them to
+see in virtually every situation.  Gelvin possess, to a limited degree, the
+ability to read other creatures thoughts and emotions.  They are able to discern
+between truth and lies most of the time.  Gelvin are also able breath under water
+as well as on land, this is the least understood aspect of the race and they can
+be found at times living with schools of fish underwater.  Gelvin like Elves are
+able to communicate with most naturally occurring life, including aquatic species.
+
+NAR
+ 
+The Nar are a hardy race of peoples who have spent their years in the mountains,
+but not in caves like the dwarves.  They tend to be a little shorter than humans,
+but are built larger.  They are sometimes confused with humans at a distance, and
+the smallest of the Nar have been mistaken for elves.  The Nar generally live
+from 150 to 200 years.
+Nar are a hard working bunch, and look it.  They are strongly built and have a
+deeply ingrained work ethic from surviving many centuries in the rough land of
+mountains.  They work hard, but play hard as well.  When the work is done, they
+are the first ones to the inn.
+Nar have infravision to 30', and have a superior ability to recognize and work
+with rock.  They cannot determine slope underground as dwarves, but surface
+rock work is their forte.  They are also superior farmers.  They can assist in
+growing crops or other plant material in poor or rocky soil.
+
+WYRIAN
+
+The Wyrians are scaly desert-dwellers that have harnessed the natural
+powers and mystical influences of the deserts.  Their scaly skin suggests a
+draconian influence, although it is a brown color with varying patterns
+symmetrically organized down their backs.  The more distinctive the
+patterns, the more opportunities for positions in the higher echelons in
+society.  That is also a gauge of attractiveness to that people.  The faces
+of the people are relatively humanoid in appearance, but with wider and
+slightly extended jaws, and most distinct, the vertical cat-eyes with
+varying iris colors.  
+
+The color of the iris never varies from generation to generation, and does
+not fade by cross-breeding.  Whichever partner is dominant, his/her eye
+color will show in all children.  There is no dominant color, per se, but
+each couple has a child to find out.  The dominant individual determines
+the color of the children's eyes.  This encourages joining within the
+"family" so to speak, as extreme political and social problems erupt when a
+blue joins a female brown, and the children turn out brown.  Not only is
+the male subject to humiliation, but he is cast from the blue family, and,
+while the child is joyously accepted by the brown family, the blue eye is
+relegated to second society.  Presently, the royal family is the
+yellow-eye, the rarest of eye colors.
+
+The center of the mystical and religious training is based in the
+white-eyes clan.  This clan is unique due to the master mystic, who as a
+part of the induction as the master, always turns albino.  The master
+mystic appears on an annual basis and selects inductees into the clan.  All
+inductees are from any of the clans, but upon selection, their eyes turn
+white permanently.  Those that are banished or cast out, have eyes that
+turn black permanently.
+
+This led to the creation of the Pretans.  This is a renegade group of
+cast-off mystics and thieves that do not exclude based on eye color, but
+are a secret society similar to a thieves' guild and magic society
+combined.  Chaos is their guiding nature, but they are not necessarily
+always of evil intent, jut intent on turning a profit.  The only hierarchy
+here is money, prowess, and magical might.
+
+All of the clans gather for a yearly council (along with the master mystic
+selection) called the Council of the Eyes.  There, representatives of all
+of the eyeclans meet to discuss treaties, water-rights, common enemies,
+etc.  Although the Pretans never participate, they are always present in
+the town at that time, and fully aware of the proceedings somehow.
+
+The Wyrians are a wind-people.  Their religion's principal deity is the
+WindRider, who they credit with powering the strong waves of wind and
+tempest that blow across the desert.  The WindRider is often seen in the
+shape of a dust pillar that weaves and winds its way through the desert,
+wreaking judgment on the unfaithful.  This is also the foundation of
+mystical activities, so the Wyrians have mastered wind spells, and have
+created magical methods of harnessing the wind's power in sand-ships, even
+great galleons of desert travel.  Even the peasantry has received the
+blessing of WindRider to power small skiffs and other general means of
+travel.
+
+The Wyrians are the primary harvesters of the volcanic FireStone.  This
+spurs a massive trade between oases, the sand caves, and the volcanic
+sinkholes and fissures.  Water is in short supply and is treated as
+currency along with the firestone.  Barter is common (even preferred) here.
+
+The Wyrians are rarely tolerant of other races (due to their lack of
+acceptance among other races) but may allow trade along the borders only. 
+There has never been an occurrence of any non-Wyrian in the Capital of
+Wyria.  Due to this, there are all sorts of tales of the "magical" desert
+city where gold dust storms ride the winds and mosques of solid silverstone
+dot the city.  While the truth is a little more garish, the Capital city is
+still a marvel.  The border towns are no-less awe-inspiring.  Huge plazas
+where all races gather to trade, barter, steal, and otherwise entertain
+themselves are the lifeblood of the Wyrian economy.  Mundane items like
+fruits and wood are extremely precious in the interior, so high profits
+(and extreme risk) are available to the savvy tradesman.  These are the
+strongholds of the Pretans.
+
+There are oases scattered throughout the Wyrian desert, each cluster of
+water is claimed by a particular eyeclan and is virulently protected.  Most
+trade is done at bordertowns, while the central cities are exclusive to
+eyeclans and invited guests.
+
+
+				CHARACTER CLASSES
+
+FIGHTER:  Any Race
+Armor:  Any
+Weapon:  Any
+Starting Health Points:  8 + 1d8+4 per level
+Restrictions:  Strength: +1, Fitness: +2 or greater
+Spells:  None
+
+
+PRIEST/PRIESTESS:  Human, Elf, Dwarf, Nar, Wyrian
+Armor:  up to chainmail
+Weapons:  No edged weapons or missile fire weapons.
+Starting Health Points:  6 + 1d6+2 per level
+Restrictions:  Knowledge: +1, Wit: +3, Influence: +2 or greater
+Spells:  1 Priest spells per level per day
+
+
+THIEF:  Human, Elf, Dwarf, Wyrian
+Armor:  leather and boelite only
+Weapons:  Any
+Starting Health Points:  6 + 1d6+3 per level
+Restrictions:  +2 Coordination, +1 Wit, Speed -1 or greater
+Spells:  See subclasses to come
+
+
+WIZARD:  Human, Elf, Gelvin, Nar, Wyrian
+Armor:  none
+Weapons:  Only small hand help weapons
+Starting Health Points:  5 + 1d6 per level
+Restrictions:  Knowledge +5, Coordination +1, Speed -2 or greater
+Spells:  2 Wizards spells per level per day
+
+
+ARCHER:  Subclass of Fighter.  Only Humans.  (Gelvin may if they adjust
+accordingly.)
+Armor:  up to layered
+Weapons:  All missile type weapons, only small hand held weapons.
+Starting Health Points:  6 + 1d6+1 per level
+Restrictions:  Strength +1, Fitness +2, Coordination +3, Speed 0 or
+greater
+Spells:  None
+Special Abilities:  The archer starts with a +5% bonus to hit and +2 to
+damage with any bow or bow-type weapon.  (Excluding crossbows)  For
+every three levels he advances he gains an additional +3% to hit and +1
+to damage up to a maximum of +20% to hit and +7 to damage.  He also
+gains an extra attack per attack sequence for every 5 levels gained up
+to level 16.  Archers are dedicated woodsman and have tracking and
+hunting skills.  As well as a special animal kinship with the forest and
+its "normal" inhabitants.
+
+I expect to add classes, but this should give us some starting points.  We also
+need to decide on the spells and types.  I have an idea that we should have
+spells up to about 20th level, so that as Wizards and Priests advance they can
+get new spells for a long period of time.  This will also let us avoid
+describing # of spells for each level, we can just allow them to cast the limit
+of each level each day.  Hence a second level Wizard could cast two 1st level
+spells per day, and two 2nd level spells per day.
+
+
+				ARMOR TYPES AND RATINGS
+
+
+ARMOR				Protection/Damage Absorption
+Boelite					1 Health Point
+Leather					2 Health Points
+Layered					4 Health Points
+Chainmail				6 Health Points
+Molded Metal				8 Health Points
+Platemail			       10 Health Points
+
+SHIELDS
+Small					1 Health Points
+Medium					2 Health Points
+Large					3 Health Points
+Two-handed				4 Health Points
+
+
+Alright guys that is what I have so far.  It should give us some stuff to talk
+about for a while.  Get back to me and tell me what you think.  And send me you
+race ideas.  bean6@ix.netcom.com
+
+
+    The game grows
+
+
+          David Knisley
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Rambling Thoughts
+Kosala Ubayasekara  <d96-kub@nada.kth.se>
+--------------------------------------------------------------------------------
+-Low-Level Magedom and its Many Perils-
+
+The mage has traditionally been one of the most popular of AD&D character
+classes. The mysticism and thrills surrounding the mage's powers of magic and
+incantation have enticed many players to adopt them as personas. I am no
+exception to this rule and I have throughout the years played a number of magic-
+using characters. In this article I'll share some of my experiences playing a
+low-level mage.
+
+A classic error in building mage characters is to try and give the character
+abilities that favor a mage, and no others. The greatest asset of the novice
+mage is not his spells -- for a novice mage has next to no spells at first. On
+the contrary, a beginning mage must rely on other talents, as the famed magi
+Earl Munster tells us:
+
+  "'Tis a mage's cunning and abundance of secondary talents 
+  that keep him alive throughout his years of striving towards 
+  higher ability and greater magical strength. Doomed to a short 
+  life is the mage who can do nothing but cast a spell. "
+
+
+In addition to the usual spells, a mage should be cunning and a quick thinker.
+Consider, what other talents might mages have picked up during childhood or
+adolescence?  Did the mage grow up on a farm or in a city, perhaps?  Either way,
+he or she surely learned a thing or two in the years of their former life. Non-
+weapon proficiencies such as cooking, fire-building, singing and dancing skills,
+and language proficiencies are sorely neglected in the creation of the typical
+mage. And don't overlook other skills that fit well with a mage's craft.
+Sleight-of-hand and skill at a game or two never goes remiss, and the mage that
+can cast a simple illusion and sing a tale to accompany it, need never fear that
+he will go hungry.
+
+Novice mages can rely on their cunning and knowledge to stay alive, for example
+when encountering a clearly superior foe. Sometimes the obvious combat spells
+aren't the most useful, particularly to a novice mage. A young mage being attacked
+by a snarling ogre does not stand his ground casting the only magic missile he has
+memorized, in the faint hope that it might suddenly do awesome amounts of damage.
+Once again, choice words by the famed magi Earl Munster serve to clarify the
+situation:
+
+ "When I was but a wee mage (burp). Eh...sorry. As I was saying, when I was 
+  but a wee mage, it came to pass that I was waylaid by a pack of Orcs. Having
+  already eaten their fill at a nearby village, they were in the mood for sport
+  and toyed with me by jabbing at various parts of my anatomy with their vile
+  weapons.  Finding myself in a bit of a dilemma, and knowing that my spell
+  repertoire for the day consisted of a useless acid arrow by some fool named
+  Melf, I resorted to a childhood trick of mine:  namely,  ventriloquism. By
+  throwing my voice to various parts of the woods and making like a posse of
+  fearless orc-hunters, saying  things like 'There they are!', 'Orc meat!',
+  'Catch them! Kill them! EAT THEM!'.  Being Orcs they fell for my clever ploy,
+  as it were book, rhyme, and tinker... or was that soup, brine, and whimper.
+  Ahem, anyway I sent my sole magical arrow speeding into the posterior of one
+  of the retreating Orcs and made haste to get  myself as far away from the
+  spot as possible. Thus did I survive to tell this tale today."
+
+But aside from depth of talents, and the importance of cunning and quick
+thinking, there is another arcane blunder many would-be mage builders tend to
+make:  predictability. Many a mage goes through their entire career without once
+digressing from traditional uses for spells. A mage is more than artillery --
+spells like magic missile and fireball are fine and good, but they are not
+always more effective.  Consider, while a magic missile might wound a single
+foe, a clever application of the grease spell could have an entire platoon of
+Orcs slipping and falling about themselves.  If every time you cross paths with
+a foe he buries himself in the dust screaming FIREBALL! You know you need to do
+something about your modus operandi
+
+ages tend to overlook the incredibly useful spell 'mending'. Contrary to
+popular belief, this spell does not only mend cloth:  it mends just about
+every naturally occurring material in need of repair. Yes, this includes the
+usual leather pouches and water casks, but it also works in other ways:  imagine
+how useful mending would be to a mage in a leaking boat in the middle of a lake.
+
+Another underestimated spell is unseen servant. Apart from carrying things and
+opening doors, it can also serve as a guard. An unseen servant will never be any
+help in a fight, but it can warn a sleeping mage if a threat enters the
+vicinity.  The reader will no doubt by now be able to think of a multitude of
+things that can be done with various spells, which may not have occurred to him
+before. Earl Munster shares some of his inestimable wisdom on the subject:
+
+  "Once in the adventuring days of my youth -- through no fault of my own, I
+  assure you -- I chanced to greatly angered a dwarf. I will refrain from
+  telling you how that happened, suffice it to say that it had to with his
+  beard, an overzealous flaming sphere, and certain inescapable laws of
+  thermodynamics. But I digress. The dwarf, being of no small strength,
+  picked up a large rock and threatened to crush the life out of me with it.
+  Once again resorting to my wits and cunning, I speedily cast an enlarge spell
+  on the rock. The dwarf, suddenly finding himself with a weight problem and
+  perhaps grasping the gravity of the situation, was forced to drop the rock on
+  his toe. Needless to say, his pain allowed me to make good my escape."
+
+The young novice should take note that spells such as enlarge and especially
+its reverse, reduce, are spells of incredible value even when the novice has
+risen to great power. These spells in particular have been proven to wonderfully
+applicable in the opening of regular locked doors. The number of practical
+applications for those novice spells are innumerable and not to be under-
+estimated. The simple cantrip has such a miscellany of practical and even
+potentially life-saving uses that it would take a whole volume to cover them
+all. Disturbing a mage's concentration during casting being merely one of them.
+Another great spell that is sorely underused is 'grease'. Have you ever witness
+the surprise of a fighter, whom during his attack finds his weapon slipping out
+of his suddenly greased grasp?
+
+Lastly, the novice mage as well as the more experienced magi should take time to
+develop a personal style and trademark to their spell casting. Be unique: do
+different things with known spells. Keep your foes guessing:  it is not so much
+what spells you cast, but how you cast them that decides whether or not you are
+a skilled magus.
+
+
+I was intending to have Earl Munster say something in closing, but upon my request
+he got so engaged in the correct phrasing of a quote by some famous Bard , he began
+to tear out what was left of his hair in frustration. The resulting string of words
+was sadly, unprintable.
+
+--------------------------------------------------------------------------------
+Jenn Millington <jimjen@interlog.com>
+Underhill the Hidden World 
+--------------------------------------------------------------------------------
+
+Underhill is the land of the Faeries hidden from mortal man's eyes.  On
+Halloween the veil between mortal and Faerie world grows thin and it is rumored
+that sometimes a mortal can pass through to the world of Faerie.
+
+The world of Faerie is a wondrous place.  You will find trees ripe with fruit
+even in autumn or winter as there is no change of season there.  The
+temperature is always warm.  Also, things do not age in the world of Faerie.
+Unfortunately the world of Faerie has its flaws.  The rate of time in Faerie
+differs from the mortal world.  If you were to stay in Faerie for one day you
+might find 14 days or more to have passed.  Also, if you eat the food of the
+faeries you will be trapped in the  Faerie world.  Another favorite of the
+Faeries is the faerie ring.  If a mortal joins a dance in the faerie ring he
+will be trapped in the dance for at least seven mortal years.  The only way
+to rescue a captive is to stand on the outside of the ring and pull them out
+as they dance by.  However, make sure you have protection from the faeries as
+you are sure to feel their wrath for this action.
+
+How does one protect themselves from the faeries.  The following are rumored
+to be effective remedies:  turning one's clothes inside out, bells, cold iron,
+running water, holy prayers, holy symbols, salt, rowan and red thread, daisy
+chains, horseshoes, St. John's wort and a staff made of ash.
+
+If you wish to find the Faeries and suspect a hill of containing faeries you
+can reveal it by walking nine times counterclockwise on the night of a full
+moon.  However, caution must be used here as the faeries dislike being idly
+disturbed by mortals.
+
+Changelings are often put in the place of your newborn baby by faeries.  There
+are a few ways to protect against changelings.  You can place cold iron above
+the cradle.  However, the best remedy is to have your baby blessed by a priest.
+In the case of abusive parents faeries will always try to steal away a child
+and leave behind a changeling as faeries are very protective of children.
+Changelings will normally sicken and die within two weeks.
+
+There are many different types of faeries but here are a few to be cautious of:
+
+Will o' the wisp looks like a flame or a lantern and will normally lead
+travelers to their doom.
+
+Bogies are shape changing faeries that can prove quite dangerous as they will
+lead men to their doom or can just play mischievous pranks on people.
+
+Phooka is a shape changing faerie which will normally take the form of a
+friendly pony.  However, beware climbing on his back as he will take you for a
+wild ride before dumping you in a ditch.
+
+Redcaps are very dangerous.  These evil faeries dye their caps red with the
+blood of their human victims.
+
+Leanan-Sidhe are very dangerous faeries.  They seem to be beautiful women who
+will approach handsome young men.  They will feed on his life-force and in
+return give him the most wondrous artistic ability.  The young men fed upon by
+these creatures are the most renowned poets, artists and musicians but live very
+short lives.
+
+The Kelpie is a water faerie which will pull its victims into the water and
+drown them.
+
+There are many water faeries some of which will drown their victims like the
+kelpie and others which will steal a man away to live with them underwater and
+can bestow the gift of breathing water on their victims.
+
+The brownie is a very helpful faerie.  He will keep your house clean and tidy
+and repair it for you.  In exchange all he expects is a bowl of milk each night.
+
+Remember, there are a few faeries that will help you out, but generally it is
+best to avoid the faerie realms as there can be real dangers in associating with
+the faeries.
+ 
+--------------------------------------------------------------------------------
+Top Ten List
+John A. Tomkins  (gr8dm@acronet.net)
+--------------------------------------------------------------------------------
+Cyrus Lenn's Top Ten Famous Mage's Not So Famous Spells
+
+10. Tenser's Floating Cup and Saucer.
+9. Leomund's Comfy Outhouse.
+8. Mordenkainen's Playful Puppy.
+7. Otiluke's Round and Shiny Sphere.
+6. Melf's Ass Arrow.
+5. Evard's Black Testicles.
+4. Rary's Cheat Sheet.
+3. Drawmij's Somewhat Less than Instant Summons.
+2. Tasha's Uncontrollable Hideous Accent.
+
+And the number one Not So Famous Spell,
+
+1. Bigby's Insulting Gesture.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Role Playing Aides
+--------------------------------------------------------------------------------
+Demons - Type Y - Yuppies
+Meera Barry (mabarry@abwam.com)
+--------------------------------------------------------------------------------
+
+             YUPPIE MANAGEMENT CHART I
+                          TYPES OF YUPPIES
+
+                       00    Demonic Yuppie
+                     01--04  Spawn of Yuppie
+                     05--09  True Yuppie
+                     10--14  WereYuppie
+                     15--29  Slumming Yuppie
+                     30--44  Jogging Yuppie
+                     45--61 Dieting Yuppie
+                     62--70  Faux Yuppie
+                     71--76  Ex-Hippie
+                     77--83  RebelYuppie without a Cause
+                     84--90  Yuppie in Denial
+                     91--98  New YorkYuppie
+                       99   Yup-Yup-Yuppie
+
+DEMONIC YUPPIES:  You say, "What a redundancy!"  No, no, no...these are
+true demons.  They manipulate stock markets, cast sulfuric curses, and
+bargain BMW's for souls.  Their blood is thick and blue, and they're
+always wearing suits and ties.
+
+SPAWN OF YUPPIE:  Small child-yuppies, literally spawned from their
+larger counterparts.  Native to malls, especially stores that sell faux
+gold, white imitation leather purses, and the most sticky and stainable
+flavours of ice-cream.  Can steal money if they get too close.
+
+TRUE YUPPIE:  This is the yuppie who knows he/she is a yuppie.  They
+live in the suburbs, with a house painted in pastels...and, well, they
+kind of like it.  This type is dangerous because they make yuppiedom
+sound so...reasonable.
+
+WEREYUPPIE:  A WereYuppie is not a true Yuppie...except that their
+tastes are expensive, their sense of style lacking, and they tend to
+change into Yuppies near malls and sports car accessory shops.
+
+SLUMMING YUPPIES:  This is an encounter of from 2 to 6 yuppies, male if
+it's outdoors, female if indoors.  They're on their way to a cocktail
+party, and think they can rough it up and pretend to be an adventurer.
+The males will insist on a ritual bout of wrestling, but they are poor
+losers.  The females will insist on a ritual bout of nose-powdering, but
+they are poor losers.
+
+JOGGING YUPPIES:  The true warriors of the Yuppie race, they can bowl
+over most anything in their path.  A jogging yuppie encounter goes two
+ways; either they bowl the group over, or they challenge the group to a
+run with them.  Think of the second like being made to be a hound in the
+Wild Hunt.  Players who survive will be disoriented, lost, and
+exhausted, unlike the jogging yuppies who will continue.
+
+DIETING YUPPIES:  Perhaps not the strongest Yuppies, these are the
+meanest.  These believe they must lose weight (current weight not
+withstanding) and their personalities have suffered for it.  Obsessed
+about food; sometimes they will lash out at plump PC's.
+
+FAUX YUPPIE:  The poseurs of Yuppiedom, these are yuppies who are trying
+too hard to be something else, from psuedopunks, psuedogeeks, and
+psuedogoths...but their true Yuppie nature eventually leaks
+out...usually near alcohol.
+
+EX-HIPPIE:  The saddest of the Yuppie types, these were once believers
+in free love, peace, drugs, and now...they vote Republican.  Should be
+shot on sight to put them out of their misery.
+
+REBEL YUPPIE WITHOUT A CAUSE: These psuedo-do-gooders embrace popular 'save the
+world' fads, with a vengeance.  They're environmentalists,
+new agers, and their cars are painted that 'environmental evergreen' color.
+They chastise you for eating meat, cut down redwoods for magic
+chopsticks, cut open 10,000 year old geodes for crystals, and don't
+think anything of their excess.
+
+YUPPIE IN DENIAL:  These are the Yuppies you feel most for, as much
+as they deny their yuppie nature, the cravings continue. They have a
+higher style/taste rating than their peers.
+
+NEW YORK YUPPIE:  What the jogging yuppies are for strength, these
+yuppies are for speed...of words.  New York Yuppies are naturally rude,
+naturally fast, and naturally...they expect to get their way.
+
+YUP-YUP-YUPPIE: These are simply the scariest of the Yuppies; they
+really go along with what you say, are what you say they are...and nod a
+lot.  They can doppleganger real people, except that they're so cheery
+and positive you begin to wonder.  And then...they offer you Prozac.
+
+--------------------------------------------------------------------------------
+Insanity Tables
+Karen Mizeri  <kmizeri@pris.bc.ca>
+--------------------------------------------------------------------------------
+Roll percentile to determine what type of insanity the character has developed.
+
+01-10 DRUG ADDICTION 
+11-16 SCHIZOPHRENIA Roll Percentile
+ Disorganized 01-30
+ Paranoid 31-70
+ Undifferentiated 71-85
+ Residual 86-99
+ Catatonic 00
+17-20 DELIRIUM
+21-23 DEMENTIA
+24-26 DEPRESSION
+27-30 MANIC
+31-35 MANIC DEPRESSION
+36-40 DELUSIONAL DISORDERS Roll Percentile
+ Paranoid 01-40
+ Grandiose 41-50
+ Jealous 51-55
+ Persecutory 56-75
+ Somatic 76-90
+ Unspecified 91-00
+41-43 PANIC DISORDER
+44-60 PHOBIA Roll Percentile
+ Animals - Zoophobia 01-03
+ Beards - Pogonphobia 04-05
+ Bees - Apiphobia 05-06
+ Being alone - Autophobia 06-08
+ Birds - Ornithiphobia 09-10
+ Blood - Hematophobia 11-13
+ Books - Bibliophobia 14-15
+ Cats - Ailurophobia 16
+ Children - Pediophobia 17
+ Corpses - Necrophobia 18-19
+ Darkness - Nyctophobia 20-21
+ Dawn - Eosophobia 22
+ Daylight - Phengophobia 23
+ Death - Thanatophobia 24-27
+ Demons - Demonophobia 28-30
+ Depth - Bathophobia 31
+ Dirt - Mysophobia 32-33
+ Dogs - Cynophobia 34
+ Dust - Amathophobia 35-36
+ Enclosed space - claustrophobia 37-40
+ Feathers - Pteronophobia 41
+ Fire - Pyrophobia 42-43
+ Fish - Ichthyophobia 44 
+ Flowers - Anthophobia 45
+ Fog - Homichlophobia 46
+ Ghosts - Phasmophobia 47-50
+ Glass - Crystallphobia 51
+ Hair - Chaetophobia 52
+ Heights - Acrophobia 53-55
+ Horses - Hippophobia 56
+ Ice - Cryophobia 57
+ Insects - Entomophobia 58-59
+ Lakes - Limnophobia 60
+ Light - Photophobia 61
+ Lightning - Astrapophobia 62-63
+ Men - Androphobia 64
+ Mirrors - Eisoptrophobia 65
+ Open spaces - Agoraphobia 66-68
+ Poison - Toxiphobia 69
+ Rain - Ombrophobia 70
+ Reptiles - Batrachophobia 71-73
+ Rivers - Potamophobia 74
+ Rust - Iophobia 75
+ Sea - Thalassophobia 76-78
+ Sex - Coitophobia 79
+ Shadows - Sciophobia 80
+ Sleep - Hypnophobia 81
+ Snakes - Ophidiophobia 82
+ Snow - Chionophobia 83
+ Spiders - Arachnophobia 84-86
+ Stars - Siderophobia 87
+ Sun - Heliophobia 88
+ Thunder - Keraunophobia 89-91
+ Trees - Dendrophobia 92
+ Wasps - Spheksophobia 93
+ Water - Hydrophobia 94-96
+ Wind - Anemophobia  97
+ Women - Gynophobia 98
+ Worms - Helminthophobia 99
+ Wounds - Traumatophobia 00
+61-63 POST TRAUMATIC STRESS DISORDER
+64-65 MULTIPLE PERSONALITY - Roll D4 to determine how many personalities.
+66-70 EXHIBITIONISM
+71-73 FETISHISM
+74-76 SEXUAL MASOCHISM
+77-80 KLEPTOMANIA
+81-84 PYROMANIA
+85-86 TRICHOTILLOMANIA (character repeatedly tries to pull out their own hair.)
+87-93 PERSONALITY DISORDERS Roll Percentile
+ Paranoid 01-10
+ Schizoid 11-20
+ Antisocial 21-30 (psychotic - no conscience)
+ Borderline 31-40
+ Histrionic 41-50 (character tends to be histerical for no reason)
+ Narcissistic 51-60
+ Avoidant 61-70
+ Dependant 71-80
+ Obsessive Compulsive 81-90
+ Passive Aggressive 91-00
+94-95 NECROPHILIA
+95-100 SLEEPING DISORDER Roll Percentile
+ Insomnia 01-40
+ Sleepwalking 41-60
+ Nightmares 61-95
+ Narcolepsy 96-00 (character randomly falls asleep for no apparent reason)
+
+
+I have not included full details of these disorders because the text would be too lengthy.  
+Please feel free to email me for a full list of any of the symptoms of any of
+these disorders, and I can provide them.  
+
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+The Assassins - Episode Three
+The Authors:   Tim Elford  <shade@tusc.com.au> AND
+               Goran Zidar <goran@elf.aust.com>
+Homepage:      http://www.ozemail.com.au/~goran/Roleplay.htm
+--------------------------------------------------------------------------------
+The Assassins: Azareth - Mage 1st level LE (PC)
+               Creighton - Fighter 1st Level LE (PC)
+
+Locale:        An antechamber somewhere in the Olman Islands, the secret home
+               of The Family; a worldwide network of assassins.
+
+Date:          19th Sunsebb 581 CY (Common Year)
+
+Time:          Mid-Afternoon
+
+                      ---------------------------------                       
+
+The air was hot and humid as it often was in the Olman Islands, and the
+massive warrior wiped his sweaty brow with his tunic sleeve.  He was
+unaccustomed to the restrictive, formal clothes that he had been forced to
+wear, preferring a functional jerkin or suit of mail.
+
+Creighton looked at the robed man, Azareth, who sat silently across the table
+reading from a large tome.
+
+Creighton:     Hey buddy, you hot in that robe?
+
+Azareth:       (shakes his head almost imperceptibly, licks his finger and
+               flips another page)
+
+Creighton initially never liked mages, they weren't to be trusted.  As part
+of his training he had been taught how to foil a mage's spell weaving; get in
+close and hit them hard.  But he had also been taught how dangerous they could
+be if allowed time and space to work their magic.  Swordmaster Heal had spent
+several weeks instructing Creighton's class on methods to disrupt a mage or a
+priest when casting their spells.  The Swordmaster then spent the next weeks
+teaching Creighton how to complement a mage in combat.
+
+Not for the first time this morning Creighton wondered why the mage was here
+with him.  Creighton's swordmaster had told him that the Marque de'Ahb
+required an audience and the warrior had assumed he'd be alone.
+
+In time the two graduates were presented to the Marque de'Ahb by Montelbahn
+Criss.
+
+Marque de'Ahb: (coughs weakly and speaks, his voice but a whisper) You have
+               caught me on a bad day, My children.  The gods have been fickle
+               of late and are calling in some of my debts.
+               
+               (looks to Azareth) You come before me with an exceptional
+               academic record.  Ghaas counts you as his finest student and is
+               sorry to see you go.  But you are being called to fulfill a
+               greater purpose.  I will speak with you later on this matter.
+               
+               (looks to Creighton and coughs) Know that you have been chosen
+               above your peers by me.  I have seen your skills in the
+               fighting halls and your brutality and raw physical power is
+               unparalleled for a man of your age.  But know that have not
+               selected you on these facts alone; you have shown remarkable
+               progress in both stealth and concealment.  You are ready for
+               the world.
+
+Creighton:     {But is the world ready for me?}(smiles)
+
+Marque de'Ahb: I hope the world is not ready for you; I want you to make an
+               impression.  I'm sure you will.
+
+Creighton:     (freaks out)
+
+Marque de'Ahb: (addressing both graduates) You are being sent to Northern
+               Almor to join two other recent graduates.  There is much work
+               to be done and your skills in both sword and sorcery will be
+               invaluable.
+               
+               (looks to Creighton) You may leave, my son.  You have my
+               blessing.  Welcome to My Family.
+
+Creighton:     (bows then leaves)
+
+Marque de'Ahb: (beckons Azareth closer) My voice is failing, approach me.
+
+Azareth:       (approaches the dais, unsure as to whether he should climb the
+               stairs)
+
+Marque de'Ahb: What I tell you now has been told only to one person outside
+               the Inner Circle.  That person leads a group of brothers in the
+               City of Greyhawk.  This man, Xavier, shows the potential for
+               greatness that usually comes but once in a lifetime.  We have
+               been blessed with two such individuals.  You, Azareth, are the
+               second!
+               
+               You see, My child, you will lead one group and Xavier another.
+               Your groups compete for the honor to serve The Family in a
+               role beyond even your wildest imaginings.  So important is this
+               role that I have to ensure it is performed by only the most
+               competent and cohesive group.
+               
+               Creighton and the two you will join in Del Mord are amongst
+               our elite Graduates in recent years.  I would hope that you
+               assume control of this group and lead them to realize their
+               full potential.
+               
+               Disorder is your greatest enemy and comes in many guises.  You
+               must be ever vigilant if you are to defeat this enemy.  As I
+               see it your greatest test will be to maintain group harmony and
+               understand that other members of your group each have their own
+               egos and personal quirks.  Do not let these distract you from
+               your goal.
+               
+               The others in your group have not been told of this
+               arrangement, as I do not want to distract them from their duty.
+               As I have told Xavier, I grant you permission to disclose what
+               I have told you if you deem it necessary.
+               
+               Your Vesper will be instructed to report to the Inner Circle
+               on your group's progress.  When the time is right one group
+               will be chosen above the other and will be summoned before me.
+               
+               To fail in this is not to fail me - for already you are
+               beloved.  To not live up to your potential will be the real
+               tragedy for both yourselves and My Family.
+               
+               You have my blessing and my love.  Go now and make me proud.
+
+Azareth left the audience chamber with his heart in his mouth.  He had always
+expected such an honor would be bestowed upon him, but never had he thought
+it would be by the Marque de'Ahb himself.  He met with Montelbahn Criss who
+led him to his office where Creighton sat awkwardly on a small chair, sipping
+wine from a delicate crystal glass.
+
+Montelbahn:    Help yourself to some wine.  It is a lovely Tokay from the
+               vinyards of Celene, matured in oak and fortified by the finest
+               dwarven spirits - very expensive.  I trust you find it to your
+               liking, Creighton.
+
+Creighton:     It's a little sweet for me - got any ale?
+
+Azareth:       (looks to Montelbahn, smiling)
+
+Montelbahn:    Unfortunately my tastes have evolved... Barley and hops may be
+               sufficient to whet your appetite, but my palette craves more
+               complex flavours.
+
+Creighton:     Yeah, whatever...
+
+Azareth:       (pours himself a glass and savours the flavour)
+
+Montelbahn:    (sighs) You will be leaving for the Prelacy of Almor tomorrow
+               morning.  The boat has already docked and is taking on
+               supplies.  After the voyage you will land outside Chathold and
+               will make your way to a man called Don Lombard.  He will give
+               you further instructions.  The address is on this parchment
+               (hands parchment to Azareth) and some starting money is in this
+               pouch (passes a black velvet bag to Creighton).  You should be
+               ready before first light, until then you may do as you please.
+               
+               Any questions?
+
+Azareth:       I am satisfied that everything has been taken care of.  (looks
+               to Creighton)
+
+Creighton:     I'm fine...
+
+Creighton and Azareth leave the office of the Chamberlain and exit the main
+council chambers.  They begin the short walk to the village.
+
+Creighton:     I'm going for a beer to whet my simple palette - wanna come?
+
+Azareth:       Sure.  We will be spending the next several months together,
+               why not get to know each other?
+
+They entered the village and made their way to Mother's Kitchen, the only
+tavern on the island.  The place was run by an extraordinarily tall male dwarf
+known to everyone as Mother.  Nobody knows exactly where Mother came from but
+the popular myth was that his mother had a dalliance with a hill giant.  Mother
+was ostracized from birth, but the real reason he left his clan was because he
+kept knocking himself out on the low tunnel ceilings. For this reason Mother's
+Kitchen has sixteen foot ceilings in case, as the story goes, his father ever
+shows up.
+
+Creighton:     (takes a chair next to Azareth) Two ales, Mother!
+
+Azareth:       (looking around) Is it always this full?
+
+Creighton:     Yeah, pretty much.  Haven't you been here before?
+
+Azareth:       My studies have kept me fairly isolated... I didn't get much
+               exposure to everyday life.  What is that smell?
+
+Creighton:     (points at Azareth) Pull my finger.
+
+Azareth:       (looks bemused and pulls his finger)
+
+Creighton:     (lifts one leg and farts - loudly) Just me.  That complex
+               elven swill has gone straight through me.  (laughs)
+
+Azareth:       {what have I got myself into?}
+
+Time passed and the two new companions drank heartily until well past
+sundown.  Food arrived and Creighton demolished his meal so quickly that it
+would have appeared to an observer that he had inhaled it.  Azareth, looking
+decidedly ill, offered his food to Creighton who happily wolfed it down with
+similar gusto.
+
+Creighton:     (burps - loudly)
+
+Azareth:       I think I've drunk too much... I'm not feeling well.
+
+Man:           (stands and approaches their table, placing a hand on
+               Creighton's shoulder) I've been watching you eat like a pig,
+               burp and fart like a mule and I have had to put up with your
+               stench and ugly face all night - and frankly I'm sick to death
+               of it. You either get the hell outside on your own or I'll kick
+               yours, and your stupid lookin' mate's arse out there me'self!
+
+Azareth:       (stares blankly at the man's face) {how does he manage to get
+               his face that red?}
+
+Creighton:     (points at Man) Pull my finger.
+
+Man:           (draws back his fist and launches into attack striking
+               Creighton a vicious blow to the cheek)
+
+Creighton:     (falls from his chair but rolls easily to his feet shaking his
+               head) You're gonna have to do better than that, pretty boy.
+               (dives at the man knocking him to the ground)
+
+The two grappled for several minutes before Creighton managed to get his knee
+onto the man's chest pinning him to the floor.  After slapping him tauntingly
+across the face he drew back his fist and splayed the man's nose all over his
+face.  Blood flowed instantly, rivers of crimson cascading from the man's
+ruined face as Creighton dragged him by the hair out the door.
+
+Creighton:     (looks to Mother who is bringing out a mop) Some people should
+               really learn to hold their liquor.
+
+Azareth:       (collapses head first onto the table and vomits)
+
+The next morning Creighton and a haggard Azareth were rowed to the boat which
+would take them to Chathold.  Azareth felt like the gentle waves were rolling
+thunder and the squeaking of the oars were legions of Dwarves hammering in his
+skull.
+
+Azareth:       errrrrgggghhhhh!
+
+Creighton:     (looks confused) You don't look so good.  What's the matter -
+               sea sick?
+
+Azareth:       (too hung-over to reply) errrrrgggghhhh!
+
+They boarded the boat and were introduced to the Captain, a man with a
+decidedly evil grin.
+
+Captain:       Welcome aboard gentlemen, I am Captain Morely.  (steps aside
+               to reveal a man with a bandage wrapped over his nose) I believe
+               you have already met my first mate.
+
+Creighton:     This is going to be a long trip...
+
+Azareth:       errrrrgggghhhhh!
+
+--------------------------------------------------------------------------------
+Fireside Chat
+John "BJ" Tomkins - <gr8dm@acronet.net>
+--------------------------------------------------------------------------------
+Gather round oxygen air-breathers...
+I, Isgrimnur Nascadau - Eradani Swordsaint, have a tale to tell that you would
+only enjoy if you had been there.
+
+My group and I were on a mission to get into the enemies camp and find out their
+tactics.
+
+We had come up over the ridge and spotted the enemy encampment not far off. Smoke
+was rising from fires built in the old used-up fuel drums. Guards were on duty
+watching for anything that moved.  My group and I were skilled enough to stay
+hidden.
+
+I signalled my group to split up and take the camp from three different
+directions. John, the gen-human and Bert the Orion rogue take off to the right
+while the kitty heads take off to the left. Skull-face stands back with the
+gurney carrying our other Orion-rogue and waits.
+I start moving down the slope, headed for the camp when a jeep roars from behind
+cover and pops off a couple of shots.
+Bert drops to one knee and fires a volley down the hill, hopefully trying to take
+out one of the people in the jeep.
+The person in the jeep, sitting behind the hard-point laser gun, opens up at
+Bert.  He takes it hard and there is no way that I can cover him.
+The kitty takes off straight down the slope. I mumbled to myself that he was a
+goner and sure enough, the gun opened fire again and the cat was gone before I
+could crouch.
+I couldn't see John. I could only hope that he heard the shots and would come
+running. Seeing the jeep move up the slope, I ran out to meet it. I figured
+the others were just stupid and that I would take this one out and show the
+them that messing with a sword saint was not a wise decision. Besides, my
+methane was not regulated correctly.
+I dashed out and open fired with my assault rifle and managed to make the driver
+steer around me. He's eyes were about as wide as the end of my old Omega cannon,
+back home.
+Running around the jeep, I was able to fire a couple of rounds and hit a few
+people -- but nothing more than that.
+The jeep open fire and I took some nasty hits. I decided I should get some
+cover,  and quick.
+I jumped over a log and ducked down.  Momentarily safe, I punched a BRI into my
+arm and grabbed my rifle. I heard the sound of the jump as it roared over the
+hill and tried to take aim at my position. I rushed the jeep and fired my rifle
+ -- the hard point was my target. I knew if I could take that out, the rest of
+ the battle would be on my terms. I dropped the gunner with the first burst.
+ The driver watched as I methodically approached, rifle lowered.  Then, he
+ looked back. It was the last move he would make. His chest erupted as the
+ bullets tore into his body, and he slumped over.
+The passenger was in shock and watched as I climbed over the hood and pulled my
+sword. He stumbled out of the jeep and slipped and fell on his back. I jumped
+down and plunged my sword through his chest.
+
+Tossing the bodies out of the jeep, I checked the power packs and the hard point
+to make sure they were intact. They were.
+I was in the driver's seat ready to go when John -- skull-face with gurney ran
+up with weapon drawn -- ready to fight. He asked and I smiled. No one messes
+with a sword saint.
+I adjusted my methane tubes and drove down the hill, looking for more....
+
+                      ---------------------------------
+
+
+As always, submissions for the 'Fireside Chat' column can be directed to John
+"BJ" Tomkins at <grdm@acronet.net>
+
+--------------------------------------------------------------------------------
+Freedom - Part One 
+Kosala Ubayasekara <d96-kub@nada.kth.se> 
+--------------------------------------------------------------------------------
+Author: Kosala Ubayasekara
+Freedom - Part One   - Fighting for Freedom
+
+-A tale from the land of the Dark Sun-*
+-Part 1-
+Freedom
+
+The four prisoners sat together by the fire and ate the scraps of food they were
+given without comment.  The keepers called them gladiators, but they chose to see
+themselves as prisoners.  The low sounds of talk came drifting on the wind down
+from similar campfires scattered about within their stony prison.
+
+They were new these four - new and until a couple of ten-days ago, total
+strangers.  Each with a different tale that none were willing to share.  They had
+fought a few times together now, and each was secretly relieved to find that the
+others could hold their own in a fight.  They had even managed to save each other
+a few times, and mutual respect, if not friendship, had begun to form.
+
+Tiara looked up from the snippets of food and looked long at the others.
+
+"I will stay here no longer.  No longer will I serve that loathsome templar who
+calls himself my master, or obey the commands of that half-ogre fool of an arena
+master.  If ye are with me, I say we break at our next battle.  If not I go alone."
+Tiara flipped her dagger in the air and caught it in her sheath.  Her red eyes
+flashed fiercely in the firelight and the shadows played crazily across her
+beautiful face.
+
+Cordaza, the rogue member of the group, lounging lazily on the other side of the
+fire, noticed these things.  He ran his eyes up Tiara's well muscled, beautiful
+frame and a slow grin formed across his face.  She was beautiful.  Some among the
+gladiators had tried to grab some of that beauty - they had been taught the
+error of their ways.  His eyes met hers as she finished her statement.  His long
+hair flopped down over his thin face as he nodded his reply.
+
+"I was getting tired of the service anyway," he replied sarcastically.
+
+"Fool rogue!" hissed the stocky figure next to him.  "Always taking everything so
+lightly! Did you imagine they would simply fling the gates open and ask us to
+leave? Pah!"
+
+"And you take life too seriously Dugeur.  Where is your taste for adventure?"
+Again the lopsided grin formed along his jaw.  "You take the burdens of priest-
+hood too seriously.  Especially considering the fact that with your exaggerated
+muscle build you would have been rich, had you but chosen the right profession."
+That remark brought a little smile to Tiara's lips too, but Dugeur who took his
+priesthood seriously sunk back into a frown.
+
+"Not during the next battle." The rest turned to face their most reclusive
+companion.  The robed figure of Tiveran Morgenscar never said much.  He spent most
+of his time buried in his books and meditations.  The rest didn't complain though.
+His talents had come in more than useful a few times.  "It is better to attract as
+less attention as possible.  That way it will take longer for them to realize
+that we are gone.  We will go between the change of the watch tomorrow, at high
+night."
+
+"The change of the watch? You have been thinking about this before?" Tiara's
+question brought a nod from the robed elf.  "And you were going to let us in on
+this when?" asked the rogue with his casual sarcasm.  Tiveran only smiled.  "Get
+some rest.  We have a fight tomorrow." They doused the fire and with more
+enthusiasm than they had felt in days, lay down to sleep.
+
+They were awakened by the sound of the bell summoning them to collect their
+morning meal and then their ritual of training and preparation began.  Just
+before sundown they were called into the arena.  The four walked in amongst the
+shouts and cheers of the crowd.  The foursome had become popular after their
+exploits since their arrival, and the crowd cheered wildly now as they stepped
+into the dusty floor of the arena.  The night was still warm, it would not get
+really cold till after dusk.
+
+"Curse the Athasian weather," mumbled Tiara to herself as she walked onto the
+combat circle, "we will be leaving just when it gets cold." Cordaza burst into
+laughter behind her and even the elf grinned beneath his hood.
+
+They formed themselves into a circle standing back to back as they had grown
+accustomed to fighting.  Tiara twirled two bone knives in her hand and behind her
+Cordaza stood calmly with his metal sabre in his hand, reflecting the last rays
+of the sinking red sun upwards to the crowds.  The elf with his staff in both
+hands and the heavily muscled priest armed with his huge club, occupied the
+remaining two flanks.
+
+The crowds were cheering wildly now and the four gladiators waited expectantly
+for the arena gates to open.  They rose slowly and agonizingly, giving time for
+the crowd to hush in expectation of what was to come.  Tiara felt Cordaza tense
+behind her and the priest gripped his wooden club more tightly.  The first words
+of a spell came whispered out of the robed elf's mouth as the first monster
+rushed onto the scene.  A huge giant came crashing into the arena its beast head
+bellowing in anger.  Seeing the group in the middle, it screamed in rage and
+charged.  The crowd leapt to their feet screaming encouragement to the beast and
+yelling as if a madness had taken them.  Two more giants came through the
+remaining doors, and also charged.
+
+The elf's hands rose and a great bolt of lightning rushed at the first giant
+taking it clean off its feet and throwing it back a few yards.  A barrage of
+mental assaults hit the next giant's mind, as both Tiara and Cordaza followed
+the mage's lead.  The third beast was coming straight at Dugeur, who held his
+ground until the last minute and then dropping to his knees levelled his club
+across the shins of the charging adversary, with as much power as his
+considerable biceps could deliver.  There was a loud crack and the foursome
+scattered to give the giant room to fall.  Not giving the dumb beasts time to
+recover they leapt back into the attack.
+
+Tiara went for the first one, diving as she approached and coming up with both
+daggers leading.  The giant surprised at her speed was caught completely off
+guard and found himself bleeding from several deep cuts across his chest.  A
+second bolt of lightning from the mage finished it.  Cordaza was performing his
+own magic with his adversary, much to the delight of the crowd.  His sabre
+swinging speedily in and out he danced around the giant, narrowly escaping
+attacks and always inflicting a quick cut when he saw an opening.
+
+The great strength of the short priest soon laid waste to the skull of third
+beast and he ran to help Cordaza.  Suddenly the elf lurched forward as if some-
+thing hit him from behind and lay sprawled on the ground.  A shimmer in the air
+warned of an unseen fourth attacker and Dugeur leapt to the mage's defence.
+Cordaza made short work of his adversary and they quickly formed themselves
+again into a circle.  Tiveran managed to stand slowly in the middle of the group
+but was in no shape to continue this fight.  The three stood and waited.
+
+The crowd hushed expectantly, and waited.  This was new.  The gladiators had never
+been tested with an unseen opponent.  The sand in the great hourglass on the side
+of the arena fell on, and still nothing.  Suddenly Cordaza caught sight of a
+shimmer right in front of him.  Dropping to his knees he yelled at Tiara, who
+swung both her daggers at a spot in front of where the rogue had stood and dived
+for the ground herself.  An invisible blade swished over her and her daggers
+buried themselves in the air in front of Cordaza.  An ear piercing scream
+shattered the silence and the invisible form of their assailant hit the ground
+forming a deep depression in the mud.  Tiara's daggers still sticking vertically,
+seemingly, in thin air.  Tiveran collapsed in pain and blacked out.
+
+When the mage awoke it was dark and a little breeze had begun to blow.  He
+touched his back and was surprised to find his wound mostly healed.  He nodded
+his thanks to the stocky priest.  Outside their confinement, the change of guard
+began.  The four leapt to their feet.  Tiveran still a little groggy outlined the
+lock to their gate with a quick spell, and Cordaza went to work.  Pulling out a
+couple of iron hooks from his boots he knelt down by the lock and inserted them
+with an expert twist.
+
+"Those weren't confiscated?" asked Tiara surprised.
+
+"Give me some credit, won't you my lady," came the rogue's caustic reply, "they
+never knew they were there." Tiara adopted a slight frown at being referred to
+as 'my lady' but said nothing.  Cordaza had the gate unlocked in no time and the
+mage quickly extinguished the spell.  They waited for the patrolling guard to
+pass by before letting themselves out.  "Now," said the rogue, "I hope you have
+a plan from here my thin elven friend, because the only exits that I know off
+are teeming with guards."
+
+"Now it is you who underestimate me, friend rogue.  There are a couple of things
+that our captors have not discovered about me," came the reply.
+
+Beckoning, Tiveran led the others towards the south gate of the stone building.
+The corridors were empty of gladiators and the guards that patrolled were easily
+avoided.  Suddenly the mage crouched down by the end of a corridor.  Pointing
+towards the gateway, he signalled the others to look.  The front gate was closed
+and bolted shut from the outside.  No visible bolt could be seen from this end by
+the dull illumination of the torch lights, and in front were gathered almost a
+dozen half-giant guards.  "Too many of them," whispered Cordaza, "even with your
+spells mage, they are too many." Tiveran nodded in agreement.   "We need a diversion.
+
+The mage gestured to a walkway some 40 yards away, and a figure of a human in
+gladiatorial attire formed there.
+
+Tiara sucked in her breath.  "You can cast illusions? " she asked incredulous.
+"They should have found that out in the psychic probe."
+
+"Not if it is an item that is used to cast it." The mage pointed at his finger
+and whispered a word.  A pale gold ring now adorned his finger.  Another word,
+and it vanished again.
+
+Dugeur let out a low whistle.  "A valuable item mage.  Heirloom?" Tiveran heard
+the suspicion in the voice.
+
+"Just so," he replied with equal venom.
+
+Cordaza interrupted, "we can fight among ourselves later.  First let's get out
+of here." The mage nodded and continued his illusion.  The foursome saw the
+phantom gladiator charge out of the walkway and into the main corridor.  Catching
+sight of the guards he seemed to turn and dash off.  Tiveran made sure the display
+did not go unnoticed.  The alarm was sounded and the gate guards dashed off into
+the walkway, leaving two as sentries.
+
+"Now!" whispered Tiveran and the foursome dashed down the corridor towards the
+gate, at the backs of the sentries.  Tiveran and priest stopped a few yards away
+from them, and let the other two who were ahead, take care of the guards.  Tiara
+was already in a low somersault and landed with both her heels planting
+themselves viciously in the neck of one of the half-giants.  Cordaza came in low
+with his sabre taking away some of the tendons in the lower part of the other
+guard's legs.  Shifting his sabre quickly and twisting on his heel, he was in
+front of the half-giant and a quick pass across its neck with the thin sabre
+ended that threat.
+
+Tiara's initial attack had been ferocious enough to render the giant senseless,
+but she could do nothing against the loud thud it gave out hitting the ground.
+The mage had already gone to work on the door and between his and the priest's
+psionic talents a small hole had formed in the metal door.  Cordaza managed to
+slide his hand into the opening and with some trouble managed to slide the
+bolt aside.
+
+The door creaked open and after making sure there were no guards on the other
+side they foursome stepped outside, into the dusty pathways of the city of Tyr.
+
+"Quickly before they discover we are gone," said the stocky priest and led the
+way towards the city gates.  "We must leave this city before sunrise."
+
+The small group of escaped gladiators sprinted through the streets of Tyr,
+ducking into alleyways and avoiding patrols of templars and guards.  A turn of
+the hourglass later, they found themselves within sight of the city gates.
+Running westwards until they were out of sight of the gate guards, the
+foursome quickly scaled the walls with the help of some rope and a nearby
+building.  Tiara dropped onto the sand on the other side and the cold night air
+hit her lungs bringing in dust and the pleasant smell of the desert cactus.  The
+smell of freedom.
+
+Meanwhile back in the center of the city high up in the castle towers, a lone
+templar panted his way up a long, stone stairway.  Nodding to the huge guards
+who stood standing at the door to his destination, he slowly entered.  The room
+was furnished expensively and even plants adorned the mantelpiece.  Catching
+sight of the one occupant in the room, he bowed low.  "Master, they are gone as
+you foretold."
+
+The other man nodded in satisfaction.  "Excellent."
+
+A dark, human figure swathed in cloth from head to toe, scaled the west wall
+of Tyr silently.  Checking to confirm that none had seen him, he dropped lithely
+to the ground and quickly followed the path that the four before him had taken.
+
+* Dark Sun is a trademark owned by TSR Inc.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Classified Ads
+--------------------------------------------------------------------------------
+Subject: Final Fantasy Tips
+Author: Benjamin D. Kohler-Crowe <benkc@juno.com>
+--------------------------------------------------------------------------------
+Final Fantasy 3 Tips:
+
+        1) Keep your four favorite characters reasonably low-level.
+        2) Get cure ring from Imperial base after talking to Gestahl.
+        3) Get Zoneseek from Auction House when the Floating Continent
+           Rises. (Can be done, I discovered by accident)
+        4) Put only one person with cure ring and Zoneseek on, and raft the
+            Lete river, doing the endless "up" loop with a turbo controller...
+        5) In the morning, they'll have mag power of 99!!!
+        6) Repeat with each other character for AWESOME party.
+
+Benjamin D. Kohler-Crowe <benkc@juno.com>
+
+----------------------------------------------------------------------------------
+Subject: Knight March '97
+Author: Jason Lennan <knight@phc.igs.net>
+--------------------------------------------------------------------------------
+Knight March '97
+c/o Jason Lennan
+544 Ewing St.
+Cobourg, ON
+K9A 4Y6
+phone:  (905) 372-1428
+fax:  (905) 372-1428 please call before faxing
+
+Convention Name:  		Knight March '97
+Place of Convention:		Northumberland Mall, Lower Level, Cobourg, Ontario
+Date of Convention:		March 14, 15, & 16 of 1997
+Times of Convention:		Friday March 14, 5:30 PM to 11:00 PM				Saturday March 15, 8:00 am to 11:00 PM                                Sunday March 16,  8:00 am to 5:00 
+Subject of Convention:          Role-playing, Fantasy Card Games, Board Games
+Guest of Honor:                 Ed Greenwood, creator and author of Forgotten Realms.
+
+Special Events:			Saturday Night Banquet
+				Miniatures Contest
+				Art Contest
+				Battletech Tournament
+				Magic the Gathering Tournament
+Coordinators:  			Jason Lennan
+				544 Ewing St. 
+				Cobourg, ON
+				K9A 4Y6
+				phone:  (905) 372-8174
+				fax:  (905)  372-1428  please phone before faxing
+
+				Dave Stokes
+				199-A Sutherland Cres.
+				Unit 27
+				Cobourg, ON
+				K9A 5L9
+				(905) 373-4871
+
+Any help getting the word out would be greatly appreciated.  Thank you.
+
+Yours in gaming,
+
+Jason Lennan
+Convention Co-Coordinator
+---------------------------------------------------------------------------
+Subject: Planescape Page
+Author:vacca@velizy.inst.slb.com
+--------------------------------------------------------------------------------
+Hello
+I have a PlaneScape page, called "Scripta Planorum".  Please feel free to
+browse it.
+
+The page may be found at
+www.geocities;com/paris/5539/ps.html
+
+It features loads of PS material, both original from myself, and from the
+members of the PlaneScape mailing list.
+
+The most useful material may be:
+*languages of the planes
+*all about Modrons
+*scores of NPC's
+but there's plenty of other material too.
+
+Bye
+MC Gianni
+vacca@velizy.inst.slb.com
+or
+giannieanna@infonie.fr
+
+----------------------------------------------------------------
+Subject: Calling all Authors!
+Author kmizeri@pris.bc.ca
+--------------------------------------------------------------------------------
+Now that we have expanded to an E-Zine, we are looking for several new
+writers.  Anyone who would be interested please email me.  Particularly we
+are looking for someone to write a monthly column on issues effecting the
+Role-playing world.  As well we would like to have someone who could provide a
+monthly column on new systems, gaming accessories, or novels. You do not need
+to have any special qualifications, just a genuine desire to write and an
+ability to meet the deadlines.
+
+Thank-you,
+
+Karen Mizeri
+
+--------------------------------------------------------------------------------
+Subject: IRPS LINK Button
+--------------------------------------------------------------------------------
+IRPS would like to invite members to submit their ideas for a link button
+which will be made available to anyone who would like to have a link to IRPS
+on their homepage.  These suggestions can be submitted to Kosala Ubayasekara at
+<d96-kub@nada.kth.se> and should adhere to the following guidelines:
+
+1) All graphics have to be in by the 25th of November.
+2) The graphics should be small - 100x70 pixels at most, and in maximum 256 colors.
+3) They should have a transparent background. If anyone cannot do transparent
+backgrounds they can send me the icon with a black  background and I will handle
+the transparency.
+
+--------------------------------------------------------------------------------
+
+General Inquiries and all submissions can be sent to Karen Mizeri at
+<kmizeri@pris.bc.ca>
+Editing:
+        Karen Mizeri  <kmizeri@pris.bc.ca>
+             - John  "BJ"  Tomkins
+             - Anthony  Scalzitti 
+             - Jason Stover 
+             - David M Girardot 
+Layout/Design:
+        Jenn Millington <jimjen@interlog.com>
+             - Thomas Forlenza 
+             - Lawrence Marz  
+             - Steve Edwards 
+             - Meera Barry  
+HTML:
+        Pete Calvert <pcalvert@economics.adelaide.edu.au>
+             - Matthew White 
+             - Mikko Eley 
+             - Brian Carey
+Graphics:
+        Kosala Ubayasekara <d96-kub@nada.kth.se>
+             - Woodelf 
+             - Aries J. Galindo
+
+Research: Andrew Henry <AHenry7261@aol.com>
+Writer's Assistant : Eugene Tillery <ewulf@dbtech.net>
+
+--------------------------------------------------------------------------------
+Extra special thanks to Jeremy Sadler for all the valuable insights.  :)
+--------------------------------------------------------------------------------
+
+

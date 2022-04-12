@@ -1,0 +1,210 @@
+<html><head><title>TOURBUS Info Page</title></head>
+<body bgcolor="#ffffff">
+<center>
+<a href="http://www.worldvillage.com/cgi-bin/redirect.cgi?AD=goahead"><img src="http://www.worldvillage.com/adds/banners/goahead.gif" border=0 alt="Go Ahead Got It! Internet Accelerator - Your Answer to a Faster Web" width=468 height=60 ></a>
+</center>
+<hr>
+<img align="left" src="tbsmall.gif" alt="The Internet TourBus!">
+<i>"Why surf when you can ride the bus?"</i><br clear=all>
+<hr>
+<center>
+<h2>
+TOURBUS: Thursday, January 23, 1997<br>
+DRIVER: Patrick Crispin<br>
+TODAY'S TOURBUS STOP: Some Really Cool Audio Sites</h2>
+</center>
+<p>
+Remember back on January 9th when I said that "TOURBUS is, for the most
+part, distributed every Tuesday-ish and Thursday-ish?"  Well, today's
+TOURBUS post is quite "ish."  :)
+<p>
+Actually, one of the reasons why today's TOURBUS post is so "ish" is that
+your fearless bus driver had to go out of town the other day to do an
+in-service at Houston Academy in Dothan, Alabama (which is, by the way, a
+*really* cool place).  I thoroughly enjoyed the trip, but I am just now
+getting caught up with all the stuff that I should have done before I left
+(I still have 380 e-mail messages waiting for me in my in-box!).
+<p>
+Your fearless bus driver is going to be on the road again soon, and if you
+want to see if I am as goofy-looking in person as I seem on the Net, feel
+free to visit me during my presentations at any of the following
+conferences:
+<pre>
+     Tuesday, January 28th       Mississippi Educational Technology
+                                 Conference -- Biloxi, MS
+
+     Saturday, February 8th      Southeastern Business Education
+                                 Conference -- Athens, GA
+
+     Wednesday, April 16th to    Georgia Educational Technology
+     Friday, April 18th          Conference -- Macon, GA
+</pre>
+Since I am driving to each of these conferences (it's a long story), you
+can bet that I am going to stock up on some "road music" before I go.
+Fortunately, I have a pretty good idea where I can find *EVERY* CD that I
+am looking for:
+<pre>
+*--------------------------- MASS MUSIC -----------------------------*
+  More Music For Your Money!  Over 185,000 Titles Just A Click Away.
+ FREE Weekly Music Zine - Buy 7 Get 1 FREE Everyday - Treasure Hunt!
+      TOURBUS Rider Discount code: SAVENOW! use it and save 5%
+*------------------(  http://www.Mass-Music.com  )-------------------*
+</pre>
+Occasionally, we pull our little bus of Internet happiness into sites that
+are guaranteed to be "time sponges," soaking up hours of what would
+otherwise be productive time (remember our two visits to cnet back in
+September?).  I'm not saying that these sites are not worthwhile (cnet, in
+fact, is *still* one of my favorite resources on the Net).  What I am
+saying is that, from time to time, we visit sites or tools on the Net that
+are so absolutely wonderful that they are guaranteed to keep everyone happy
+-- and busy -- for DAYS!
+<p>
+Today's TOURBUS stop is dedicated to just such a tool: Real Audio.
+<p>
+You may have heard Bob and me talk about Real Audio from time to time, but
+I'm not sure we ever explained what it is.  Real Audio is a program (and
+Web browser plug-in) that allows you to listen to live and on-demand audio
+on the Internet over standard modems.  What makes Real Audio so
+mind-numbingly cool is that, thanks to something called "streaming," you
+can actually listen to the sound files AS YOU DOWNLOAD THEM!
+<p>
+Wait, it gets better.  The software that you need to be able to do this is
+... brace yourself ... FREE!  (Actually, if you really like to spend money,
+you can purchase an enhanced version of the Real Audio software in your
+local computer store or on the Net for about $20 to $30 (US), but the
+basic, free version of the software is just fine for those of us who are
+just starting out).
+<p>
+Okay, now for the technical stuff.  The Real Audio software is currently
+available for Microsoft Windows 95, Windows NT, Windows 3.1, Macintosh
+PowerPC and Macintosh 68040 (the software is also available for Linux,
+Solaris 2.5, Irix 5.3, FreeBSD, SunOS 4.1.4, Solaris 2.4, and DEC Alpha
+NT).  To use the Real Audio software, you'll need either
+<ol>
+<li>A 14.4 Kbps modem or greater (I'd strongly recommend using at
+        least a 28.8 Kbps modem for the best sound quality) and a SLIP
+        or PPP connection through your local Internet Service
+        Provider, or
+
+    <li>An Ethernet or LAN connection through your work or school.
+</ol>
+<p>
+If you don't have either of these types of connections, or if you aren't
+sure exactly *how* you are connected to the Internet, contact your local
+Internet Service Provider or network manager and ask them "how can I use
+Real Audio on my computer?"  (Real Audio is so universally popular that
+almost every Internet Service Provider or network administrator should be
+able to help you.)
+<p>
+Okay, with that out of the way, let's go get the software.  You can
+download the free Real Audio software at <a href="http://www.realaudio.com/products/player/download.html">http://www.realaudio.com/products/player/download.html</a>
+<p>
+Downloading and installing the software is actually pretty easy.  In fact,
+the folks at Real Audio really have done a great job of making this whole
+process as simple as possible.  :)
+<p>
+<h3>NOW WHAT?</h3>
+Okay, you've downloaded and installed the Real Audio software.  Now what?
+Well, now that you can listen to Real Audio sound files, I have a couple of
+Real Audio-enhanced Web pages that you have *GOT* to visit.  Our first stop
+is "cnet Radio."
+<p>
+Back in my September 10th TOURBUS post (which you can find on the Web at
+<a href="http://www.worldvillage.com/wv/hotel/tourbus/091096.htm">http://www.worldvillage.com/wv/hotel/tourbus/091096.htm</a>), I mentioned that
+cnet Radio "offers three new technology-based ... "radio" [broadcasts] each
+day that you can play on your browser."  Let's go take a look at today's
+broadcast!
+<p>
+You can find the cnet Radio page on the Web at <a href="http://news.com/Radio/">http://news.com/Radio/</a>
+<p>
+cnet Radio produces three news broadcasts a day: one at 10:00 A.M. (PST),
+one at 1:00 P.M. (PST), and the final one at 4:00 P.M. (PST).  By the way,
+"PST" stands for "Pacific Standard Time" -- cnet is based in San Francisco.
+:)
+<p>
+To listen to the latest cnet Radio broadcast, click on the words "click to
+listen" to the right of Brian Cooley's picture.  Unless something goes
+wrong, within a few seconds your computer should say something like "live
+from San Francisco" and start playing the latest cnet Radio broadcast.
+<p>
+If you are looking for a good way to keep abreast of the latest technology
+news, cnet Radio is probably *THE* best place to find it!  I personally
+visit this page at least once a day (Monday through Friday), usually in the
+mid-morning (that way I get to hear the previous day's final update).
+<p>
+<h3>25,500 FEET PER SECOND?</h3>
+Back on April 26th, we'll pulled the bus into the "Car Talk" Web page at <a href="http://www.cartalk.com/">http://www.cartalk.com/</a>
+<p>
+(You can find the April 26th TOURBUS post on the Web at
+<a href="http://www.worldvillage.com/wv/hotel/tourbus/042596.htm">http://www.worldvillage.com/wv/hotel/tourbus/042596.htm</a>).
+<p>
+Car Talk is both a public radio show hosted by, and a newspaper column
+written by, Click and Clack, two Boston-area auto mechanics (who both also
+happen to have engineering degrees from MIT). The premise of both their
+show and their column is that Click and Clack answer car-related questions
+sent in or called in by their audience.
+<p>
+Well, now that you have Real Audio running on your computer, you can hear
+snippets from the Car Talk radio show on the Web at <a href="http://www.cartalk.com/Radio/replay.html">http://www.cartalk.com/Radio/replay.html</a>
+<p>
+Even if you are not a Car Talk fan, I *strongly* recommend that you
+download and listen to <a href="http://www.cartalk.com/Radio/RAfiles/shuttle1.ram">http://www.cartalk.com/Radio/RAfiles/shuttle1.ram</a>
+<p>
+This file is HILARIOUS ... and it will take you a few minutes to actually
+figure out what is going on!
+<p>
+<h3>NEW STUFF</h3>
+I have one last place that you have *GOT* to check out: <a href="http://www.thedj.com/Main/thedjfull.com">http://www.thedj.com/Main/thedjfull.com</A>
+<p>
+This site is dedicated to the purpose of letting you sample music from
+different genres that you might not otherwise experience.  Just click on a
+music category from "punk" to "Chicago blues," and your Real Audio player
+will start playing music from that category!  Neat, huh?
+<p>
+By the way, if you find an artist or song on this site that is so cool that
+you *must* find a copy, make sure that you keep today's TOURBUS sponsor in
+mind (<a href="http://www.Mass-Music.com">http://www.Mass-Music.com</a>).  :)
+<p>
+That's about it for this week.  There are HUNDREDS of Real Audio sites out
+there, and in the weeks to come we may drop in on a few of the best.  In
+the interim, take a look at what today's TOURBUS sites have to offer ...
+and have a safe and happy weekend!
+<p>
+<pre>
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+GUZINTA (verb). Mathematical term for division.
+"Fav guzinta fifteen three times. Two guzinta eight fer times."
+
+(Special thanks goes to Tommy Baca for today's wurd.)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+</pre>
+<pre>
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+</pre><p><hr>
+<center>
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin<br>
+All rights reserved.  Redistribution is allowed only with permission.<br>
+Send this copy to 3 friends and tell them to get on the Bus!<br>
+<p>
+<h3>
+<a href="/wv/hotel/tourbus/tour.htm">Back to the TOURBUS Main Page</a><br>
+<a href="/wv/hotel/tourbus/archives.htm">Browse the TOURBUS Archives</a>
+</h3>
+<hr>
+<a href="/wv/navbar.map"><img border=0 src="/wv/images/elements/navbar.gif" ismap></a>
+<hr>
+<h5>(c) Copyright 1996, Elephant Consulting</h5>
+</center>
+</address>
+</BODY></HTML>

@@ -1,0 +1,388 @@
+Date: Thu, 22 Feb 1996 15:54:53 -0600
+From: Patrick Douglas Crispen <pcrispe1@ua1vm.ua.edu>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 22 FEBRUARY 1996 - FOOTHILLS
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TOURBUS - TUESDAY, 20 FEBRUARY 1996
+TODAY'S STOP: FOOTHILLS
+TODAY'S ADDRESS: telnet://toybox.infomagic.com:2010/
+
+
+Today, we are going to talk about one of my favorite places on the Net:
+Foothills.  Foothills is a MUD (a multiple user device) where you can
+participate in real-time, text-based conversations with people from all
+over the world.  Best of all, Foothills is FREE.
+
+Before we get too far into today's TOURBUS post though, I want to say three
+things about Multiple User Devices:
+
+1. There are hundreds of MUDS on the net, and everyone has a different view
+on which MUD is the best.  Foothills is just one of DOZENS of extremely
+well-run and interesting MUDs on the Net (you can find the addresses of
+other MUDs in Yanoff's list).
+
+2. Most of the best MUDs (like Foothills) have "super-users,"
+administrators chosen by the site that is hosting the MUD who stay online
+to police the MUD (usually by "booting" people who cuss or offend the other
+users).  Because of this, most of the well-managed MUDs are much more
+friendly and much less offensive than the non-monitored talker services
+like Internet Relay Chat -- although there is no such thing as a completely
+"sanitized" talker.
+
+3. MUDS are seriously addictive, and are very large "time sponges."  Please
+try to remember that there are some things in life that are more important
+than the MUDs ... although at this time I can't seem to rember what these
+things are :)
+
+
+LOGGING IN
+----------
+
+You can access Foothills for FREE through telnet by telnetting to
+
+     toybox.infomagic.com 2010
+
+For those of you who are used to URL format, Foothills' URL is
+
+     telnet://toybox.infomagic.com:2010/
+
+and for the gear-heads out there who like IP addresses, Foothills' IP address is
+
+     165.113.211.4 port 2010
+
+Foothills is only accessible through telnet, though, so you will need to
+use a telnet client to access any of these addresses.  One word of warning:
+from time to time, Foothills gets full; if this happens and Foothills will
+not allow you to connect, just try to connect a little later.
+
+Once you have connected, Foothills will ask you to
+
+     Please enter your name:
+
+Don't enter your name! Instead, you need to enter a one-word, character
+name (e.g.,. BusRider, BillyBob, Paramour, etc.). Think hard ... this one
+word character name will be your identity while you are on Foothills.
+
+The hard part is picking a name that isn't already being used by a
+"resident" (a person who uses Foothills so much that they have their own
+permanent character name). If you choose a character name that is already
+being used, you will be prompted to
+
+     Please enter your password:
+
+If that happens, just type a bunch of gibberish as the password.  Foothills
+will respond by saying
+
+     Hey !! that ain't right !
+     Wrong password .... closing connection.
+
+Then, just reconnect and try again. It may take you a little while to find
+a unique character name (there are 9,759 residents on Foothills), but keep
+trying.
+
+Once you find an unique character name, Foothills will show you a whole
+bunch of welcome screens.  READ THESE CAREFULLY.  Thrown in amongst the
+welcome screens are some questions that you must answer, like
+
+     You entered the name 'XXXXXX' when you first logged in.
+     Is this the name that you wish to be known as on the program ?
+     Answer Y or N:
+
+and
+
+     The program requires that you enter your gender.
+     This is used solely for the purposes of correct english and grammar.
+     If you object to this, then simply type 'n' for not applicable.
+     Enter (M)ale, (F)emale or (N)ot applicable:
+
+Foothills will also ask you to read and accept a disclaimer saying that you
+won't hunt down and wound the administrators if you don't like Foothills.
+You can either accept this disclaimer (by typing "continue" when prompted)
+or exit Foothills (by typing "end").
+
+As I said earlier, Foothills is an extremely well managed talker.  As their
+welcome messages says, "[w]hat you do on your own is private, but, should
+anything you do be abusive, offensive, or annoying to other characters,
+then be prepared to bear the full brunt of the consequences. This may
+involve anything deemed suitable by the administrators or superusers
+including complete banishment from the program and/or 'real life' actions."
+You should also note that Foothills has a very strong position on sexual
+harassment: "Please note that sexual harassment is *not* tolerated here,
+even fairly mild forms (such as shouting things like 'any single girls
+on'). Offenders will be removed."
+
+... I told you that Foothills was cool :)
+
+
+IN THE ROOMS
+------------
+
+Once you enter Foothills, you will be dropped into a room with a couple of
+other people in it.  This is really what Foothills is all about.  Foothills
+has a whole bunch of "rooms," and the people in each of the rooms are able
+to "talk" to the other people in that room by typing what they want to say.
+
+
+Depending on the time of day and what room you are dropped into, your
+screen may start filling up with the conversations of the other people in
+that room.  Don't panic.
+
+First off, let's get you into a "quiet" room (mine) and show you how to use
+this thing.  Type
+
+     VISIT SIMGOD
+
+and press enter.  SimGod is my Foothills character name (I used to be a
+Simulations Director at Space Camp, and the kids nicknamed me SimGod), and
+by typing VISIT SIMGOD you will be taken to my personal room on Foothills
+(all residents can have their own personal rooms that they "decorate"
+according to their own tastes). The only people who will ever be in my room
+are other TOURBUS riders and myself, so it should be pretty quiet in there.
+
+Once you get into my room, you should also type
+
+     EARMUFFS
+
+This will block system-wide shouts, which can be quite annoying.
+
+
+SAYING STUFF
+------------
+
+To "say" something to everyone in the room that you are in, just type a "
+or ' before what you want to say.  For example, if I wanted to say
+
+     Anyone want to buy a really fast graphing calculator
+
+I would type
+
+     "Anyone want to buy a really fast graphing calculator
+
+or
+
+     'Anyone want to buy a really fast graphing calculator
+
+and then press enter.  Once I press enter, the following will appear on the
+screens of everyone who is in the same room as me
+
+     SimGod says 'Anyone want to buy a really fast graphing calculator'
+
+This is the way that conversations take place on Foothills.  One person
+types something, another person replies ... and so on :)
+
+So, if you want to say something to everyone in the same room as you, you
+just need to put a " or ' before what you what to say.  Want to see
+something cool, though?  If I type
+
+     "Anyone want to buy a really fast graphing calculator?
+
+the following will appear on everyone's screen
+
+     SimGod asks 'Anyone want to buy a really fast graphing calculator?'
+
+What's the difference?  Well, Foothills noticed the question mark and
+changed the statement that appears on everyone's screen from "SimGod says"
+to "SimGod asks."  Is this cool or what?
+
+Here are a couple of other commands that will help you on Foothills:
+
+
+THINK
+-----
+
+You can "think" something instead of saying it by using the THINK command
+(you can type THINK in either upper or lower case).  For example, if I type
+
+     THINK I like coffee
+
+the following will appear on the screens of everyone in the same room as me
+
+     SimGod thinks . o O ( I like coffee )
+
+So, if I typed the following three lines (hitting enter at the end of the lines)
+
+     THINK I like coffee
+     THINK I like tea
+     THINK I like the java jive and it likes me
+
+the following will appear on the screens of everyone in the same room as me
+
+     SimGod thinks . o O ( I like coffee )
+     SimGod thinks . o O ( I like tea )
+     SimGod thinks . o O ( I like the java jive and it likes me )
+
+
+EMOTE
+-----
+
+You can not only say and think things on Foothills, you can also DO things
+using the emote command (:).  Just put a colon before what you want to do.
+One word of warning: to be grammatically correct, think of the colon as
+representing the words "my character."  For example, to hit myself over the
+head for my obscure reference to the java jive, I would type
+
+     : hits himself over the head for his obscure reference to the java jive
+
+and the following will appear on the screens of everyone in the same room as me
+
+     Simgod hits himself over the head for his obscure reference to the
+java
+     jive
+
+
+X <CHARACTER>
+-------------
+
+To find out a little more about someone who is currently logged into
+Foothills, type
+
+     X <CHARACTER>
+
+replacing <CHARACTER> with the name of the character that you want to find
+out more about.  For example, if I were logged onto Foothills and you
+wanted to find out a little more about my character, you would type
+
+     X SIMGOD
+
+
+FINGER <CHARACTER>
+------------------
+
+This command is like X <CHARACTER>, but it allows you to find out
+information about characters who may not be logged into Foothills at the
+time.
+
+
+HELP #
+------
+
+There are a WHOLE BUNCH more Foothills commands. To find out more about ALL
+of the Foothills commands, type
+
+     HELP #
+
+where # is a number from 1 to 15.  For example, to see help screen 1, you
+would type
+
+     HELP 1
+
+and to see help screen 2, you would type
+
+     HELP 2
+
+Your best bet is to do this in a quiet room (like mine (type VISIT SIMGOD))
+so that you aren't interrupted by the conversation in the room.
+
+
+OTHER STUFF
+-----------
+
+When a newbie (someone who is not a Foothills resident or who does not know
+much about Foothills) enters a room that you are in, the following will
+appear on your screen
+
+     <CHARACTER> appears flying through the air and lands in a heap on the
+     ground.
+
+Residents enter with a little more class.  For example, when I enter a
+room, the following message appears
+
+     SimGod emerges from a mysterious fog bank and shouts "ROLL TIDE"
+
+Also, when a newbie exits Foothills, the following message will appear
+
+     <CHARACTER> jumps up into the air and disappears with a loud *POP* !
+
+Ready to start talking with the rest of the world?  To leave my room and go
+to a public room, type any of the following words and press enter
+
+     HILLTOP
+     VALLEY
+     SHADOW
+     SOUND
+     SIDE
+     BRIDGE
+
+These are all public rooms where there are bound to be LOTS of people
+chatting their little hearts out (the largest room is usually the HILLTOP).
+
+Oh, and when you get tired of talking and you want to quit Foothills, just type
+
+     QUIT
+
+
+SOME FINAL WORDS
+----------------
+
+Foothills is an amazing and fun place to meet new people.  Unfortunately,
+Foothills (and for that matter, other talkers) is a magnet for liars.  It
+is very easy for someone to exaggerate about themselves online, so it
+happens quite often.  I deliberately used the words "character name"
+instead of "userid" in writing today's TOURBUS.  Think of ALL of the people
+that you meet online as characters -- people pretending to be something
+that they aren't -- and you'll have a much more enjoyable time online :)
+
+
++----------------->  BIG-TIME MAGAZINES FOR $10 A YEAR?  <--------------+
+|                      ONLY TOURBUS RIDERS KNOW HOW!                    |
+|                                                                       |
+|   Magazine Express has exclusive TOURBUS discounts others can only    |
+|  dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This   |
+|   is a limited time offer, so get details now by sending email to:    |
++------------------------>  tourbus@magazines.com  <--------------------+
+
+
+---------------------------------
+TODAY'S SOUTHERN WORDS OF THE DAY
+---------------------------------
+
+ROOL - Adjective. Not urban.
+FORD - Preposition. To advance.
+Usage: "The rool markins wanna see this country move ford."
+(Special thanks goes to Pat Vedomske and Dennis DeVendra for today's wurds)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE
+SOUTHERN WORD HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+... and since I am equal opportunity satirist, here is a NORTHERN word of
+the day for you as well:
+
+BEG - Noun. A paper, cloth, or plastic container.
+Usage: "You wanna beg for your groceries?
+(Special thanks goes to Talbert Malone for today's wurd)
+
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+
+
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.

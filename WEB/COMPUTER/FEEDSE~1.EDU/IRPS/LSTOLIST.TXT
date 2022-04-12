@@ -1,0 +1,310 @@
+Below is the new edition of the RPG List of Lists. Sorry if you get this
+more than once, it is being cross-posted to the AD&D lists. Please
+distribute fully to any other lists or persons who would like it.
+-------------------------------------------------------------------------
+
+                 T h e   L i s t   o f   L i s t s :
+
+         Roleplaying Related Lists, version 4.07, 9th-March-1995    
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Background
+==========
+
+In addition to rec.games.frp.*, there are a number of mailing lists and
+digests (or newsletters) on the net which may be of interest to
+role-playing enthusiasts.
+
+The difference between a mailing list and a digest is that a digest is
+collected, edited, and distributed by an editor, while a mailing list
+simply forwards all incoming mail to a list of subscribers. Mailing
+lists tend toward high volume with many digressions; digests tend
+toward low volume with high signal-to-noise ratios. The way of
+subscribing is the same for both, so I won't differentiate between them
+in the remainder of this message.
+
+As usual, an explanation about listservers in general before I list
+the lists. Read this before trying anything.
+
+How to use this list
+====================
+
+There are basically three ways in which you could subscribe using email to a
+mailing list or digest: through a "listserv/listserver/listproc" address, 
+through a "majordomo" address, or through a manual address. With each 
+mailing list, however, only ONE of these will work correctly. Each list given
+below has a code next to it which tells you which one will work.
+
+Listservers & Majordomo
+-----------------------
+
+To subscribe to a list, DON'T send mail to the listname@yyy address that you 
+wish to subscribe to. Instead, send mail to xxx@yyy, where you have 
+substituted the name for the type of listserver according to the code next to
+the list. For example, if we use the AD&D list below:
+
+  adnd-l@utarlvm1.uta.edu (li)       Advanced Dungeons & Dragons RPG
+
+the (li) code indicates a 'listserv' server, so you would send email to
+listserv@utarlvm1.uta.edu, essentially substituting 'listserv' for xxx.
+
+You need to use the listname@yyy address only later, once you have 
+subscribed. If you have never used a listserver before, send a message
+with a blank subject line and with the message body saying just "HELP" 
+(without the quotes) to the listserver. It will send you back a HELP message.
+
+Subscribing
+===========
+
+Listservers
+-----------
+If you were interested in joining the spelljammer list, you would send mail 
+to listserv@le.ac.uk, with a blank subject line and the main message body
+saying, for example, 
+
+  "SUBSCRIBE spelljammer Mr. Bill Clinton" 
+
+(without the quotes). You would then wait for confirmation from the 
+listserver and then you would be subscribed to the SpellJammer discussion 
+list. 
+
+Majordomo
+---------
+As for listservers, but you put your email address in the SUBSCRIBE message 
+and not a personal name, for example:
+
+  "SUBSCRIBE chaos-info bill@whitehouse.gov"
+
+(without the quotes). You would then wait for confirmation as above.
+
+Manual addresses
+----------------
+Manual lists come in four types below:
+  1) Send email to "listname-request@yyy" with a message as for listservers
+  2) Send email to "listname-request@yyy" with a personal message to a user
+  3) Send email to a user's account - the list is run from the user's account
+  4) Send email to the user's account, but the list is at another address.
+
+More Info from automatic lists
+==============================
+
+There are two ways for finding more information on an automatic list 
+depending on the type of mailing-list software running. For 'listserv' lists 
+try sending a "REVIEW listname" message (without the quotes) replacing 
+listname with the list you are requesting info on. For 'majordomo', 
+'listproc' or 'listserver' type lists, try sending an "INFO listname" 
+command in the same way as the REVIEW command.
+
+Lists
+=====
+
+Each type of list is indicated by a one to three letter code in brackets 
+after the list name. These correspond to:
+
+li  = listserv
+ls  = listserver/listserv
+lp  = listproc/listprocessor
+m   = majordomo
+rq  = NOT necessarily an automatic list. These may be answered personally, 
+      use xxx-request@yyy (subscription address) & xxx@yyy (list address).
+rqs = Simple Perl Mailer - uses "SUBSCRIBE", "UNSUBSCRIBE" in the SUBJECT
+      field of the message and so is different to all the others. Send 
+      "HELP" as the mail Subject field for more info. Use xxx-request@yyy 
+      (subscription address) & xxx@yyy (list address).
+ps  = NOT an automatic list. These ARE answered personally. There are two 
+      forms, either the list is run from the person's account (one address
+      listed below) OR the mailing list has one address and you must use the 
+      second address given for a personal subscription message.
+
+adnd-l@utarlvm1.uta.edu (li)       Advanced Dungeons & Dragons RPG
+amber@hagar.ph.utexas.edu (rq)     Amber RPG (managed manually)
+amtgard-list@scf.nmsu.edu (ps)     Amtgard, a live-action RPG
+   vghilcri@nmsu.edu                 -- for subscriptions or help 
+appel@erzo.berkeley.edu (ps)       Chaosium Games digest
+arduin-l@wizards.com (ls)          Arduin RPG products
+ars-magica@majordomo.berkeley.edu (rq)
+                                   Ars Magica RPG
+babylon5-creative@netcom.com (m)   Babylon 5 net stories list
+bag@gomez.intel.com (rq)           San Francisco Bay Area Gamer's list
+brs-members@monosys.com (rqs)      List for British RPG Conventions
+cafe-l@wizards.com (ls)            PBEM game list
+camarilla-l@wizards.com (ls)       Vampire RPG fan club
+capra@gojira.monsta.com (rq)       Capra, a Masterbook-based fantasy world
+champ-l@omg.org (rq)               Champions and Hero RPGs
+chess-l@grearn.bitnet (li)         Chess game
+chaos-info@erzo.berkeley.edu (m)   Chaosium Press Releases list
+chill@callamer.com (rq)            Chill Horror RPG
+churches-l@wizards.com (ls)        Bishops: The Eternal Crusade
+cryptych-l@wizards.com (ls)        Cryptych mailing list
+comics-l@unlvm.unl.edu (li)        Comics
+consim-l@vm.ucs.ualberta.ca (li)   Conflict Simulation Games
+cthulhu@rfhsm.ac.uk (rq)           Call of Cthulhu RPG (managed manually)
+dark-sun@leicester.ac.uk (ls)      Dark Sun world (AD&D)
+dipl-l@mitvma.mit.edu (li)         Diplomacy
+dnadler@wtcpost.daytonoh.ncr.com (ps)
+                                     DragonQuest newsletter (monthly digest)
+dragon@monosys.com (rqs)           The Dragons of the East (oriental RPGs)
+duelist-l@wizards.com (ls)         The Duelist, quarterly magazine on 
+                                     Deckmaster games
+earthdawn@magellan.iquest.com (m)  Earthdawn RPG
+edge@gojira.monsta.com (rq)        Over the Edge RPG
+equest-l@psuvm.psu.edu (li)        Elfquest comics
+experts-l@wizards.com (ls)         Experts game system development group
+falken-l@duke.poly.edu (lp)        Castle Falkenstein (R. Talsorian) mailing 
+                                   list. 
+fantasy@unicorn.acs.ttu.edu (lp)   Fantasy fiction readers list
+fiction@psuvm.psu.edu (li)         Fiction writers workshop
+figures@mmu.ac.uk (ps)             Figures and Painting
+   s.hamby **                      -- for subscriptions or help
+flashlife@netcom.com (m)           Flashlife Cyberpunk RPGs digest
+fnn@le.ac.uk (ls)                  The Fantasy News Network, RPG News Stories
+forkni-l@psuvm.psu.edu (li)        Forever Knight TV show
+fkfic-l@psuvm.psu.edu (li)         Forever Knight TV show stories
+galahad@leland.stanford.edu (ps)   SORD RPG system discussions
+games-l@brownvm.brown.edu (li)     Computer Games
+gg-auction-l@wizards.com (ls)      List for auctions for MTG cards
+gg-trading-l@wizards.com (ls)      Trading cards from Deckmaster
+gmast-l@utcvm.utc.edu (li)         Game Masters interest group
+grass@wharton.upenn.edu (rq)       GRASS (Generic Religions and
+                                     Secret Societies)
+   grass-server **                 -- for back issues and help
+highla-l@psuvm.psu.edu (li)        Highlander Movies & TV Series
+history@psuvm.psu.edu (li)         General History
+horror@pacevm.dac.pace.edu (li)    Horror Films and Fiction
+ilf-info@han.paramax.com (rq)      Interactive Literature Foundation
+isaga-l@uhccvm.uhcc.hawaii.edu (li)
+                                   Int'l Simulation & Gaming Assoc. Forum
+jbacon@ftp.com                     NERO National Rules (put "request-nero
+                                     rules" in the subject line)
+jorune-l@io.com (rq)               Skyrealms of Jorune
+jwisdom@gnu.ai.mit.edu             Multi User Dungeon (MUD) digest
+jyhad-l@wizards.com (ls)           List for Jyhad Deckmaster game
+jyhad-strategy-l@wizards.com (ls)  List for inner strategies of Jyhad
+kult-l@wizards.com (ls)            Kult RPG discussions
+libran18@kepler.poly.edu           MechWar/BattleTech
+loc-l@wizards.com (ls)             Lords of Conquest development group
+mage-l@wizards.com (ls)            "Mage: The Ascension" discussion list
+masterbook@gojira.monsta.com (rq)  FRPs including Torg, Shatterzone,
+                                     Bloodshadows, and World of Indiana Jones
+mastvf-l@psuvm.psu.edu (li)        Martial Arts & Swords on TV & Film
+mediev-l@ukanvm.cc.ukans.edu (li)  Medieval History (AD285 - AD1500)
+merpl@plearn.edu.pl (li)           MERP and Rolemaster RPGs
+mtg-l@wizards.com (ls)             General public discussion of Deckmaster 
+                                     Games
+mtg-strategy-l@wizards.com (ls)    Advanced MTG strategy discussion list
+mud-l@vm3090.ege.edu.tr (li)       Multi User Dungeons (AD&D)
+mythus-l@brownvm.brown.edu (li)    Mythus Fantasy RPG
+nero@xyplex.com (rq)               NERO National, NERO Mass, and Wildlands  
+nero-ashbury@world.std.com (m)     NERO NY/Ashbury Live Roleplaying talks
+nero-ashbury-announce@world.std.com (m)
+                                     NERO NY/Ashbury announcements
+nerps@hearn.nic.surfnet.nl (li)    Net enhancements for RPG Shadowrun
+networld-l@wizards.com (ls)        Internet Roleplaying Environments
+                                     development group
+ods-l@wizards.com (ls)             Optimal Design Systems discussions
+                                     (Battlelords o/t 23rd Century)
+palladium@soda.berkeley.edu (rq)   Palladium Games
+parson@crha.rpslmc.edu (ps)        HarnMaster (list managed manually)
+persona@gitvm1.bitnet (li)         "On-line" role-playing as personas
+pierre@prpa.philips.com (ps)       Stafnord Roleplayers digest - local to
+                                     California, USA.
+planescape@le.ac.uk (ls)           The Planes - not only PlaneScape (AD&D)
+plot-d@hearn.nic.surfnet.nl (li)   SHADOWTK (see below) plot & admin. forum
+psi-l@vm.its.rpi.edu (li)          Parapsychology forum
+rag-l@wizards.com (ls)             Ragnarok Games list
+ragboard-l@wizards.com (ls)        Ragnarok boardgames list
+ravenloft@le.ac.uk (ls)            Ravenloft world (AD&D)
+realms@ossi.com (m)                Forgotten Realms world (AD&D)
+realms-digest@ossi.com (m)         Forgotten Realms daily digest (AD&D)
+rivals-l@wizards.com (ls)          Rivals of Estedhil development group
+robotech@list.gatech.edu (rq)      Robotech Mecha listserv group
+rolemaster@tower.clark.net (lp)    Rolemaster RPG
+runequest@glorantha.holland.sun.com (rq)
+                                   RuneQuest RPG digest
+sca@mc.lcs.mit.edu (rq)            SCA
+scahrlds@pucc.princeton.edu (li)   SCA Heraldry
+scrye-l@wizards.com (ls)           The Scrye card game
+sflovers@uga.cc.uga.edu (li)       Science Fiction Lovers
+shadowrn@hearn.nic.surfnet.nl (li) Shadowrun RPG
+shadowtk@hearn.nic.surfnet.nl (li) Shadowrun Interactive Fiction
+sla-l@wizards.com (ls)             Discussion of SLA Industries game
+spelljammer@le.ac.uk (ls)          SpellJammer world (AD&D)
+startrek@leicester.ac.uk (ls)      Engage: Star Trek (European list)
+jae+sw-rpg@drycas.club.cc.cmu.edu (ps)
+  jae+sw-rpg-request **              Star Wars Role Playing Game
+strange_aeons-l@wizards.com (ls)   Cthulhu, Lovecraft and aspects of gaming 
+                                     as an art form
+street-l@wizards.com (ls)          White Wolf's Street Fighter game list
+stripe-l@netcom.com (m)            X-men's Rogue discussions
+stripe-digest@netcom.com (m)       X-men's Rogue discussions digest format
+talislanta-l@wizards.com (ls)      Talislanta RPG discussions
+taogm-l@wizards.com (ls)           The Art of Game Mastering development 
+                                     group
+tekumel@boombox.micro.umn.edu (rq) Tekumel/Empire of the Petal Throne
+tmo-l@wizards.com (ls)             The Military Order development group
+tolkien@jhuvm.hcf.jhu.edu (li)     Works of J.R.R. Tolkien
+tolklang@dcs.ed.ac.uk              Linguistic aspects of Tolkien's works
+   tolklang-request=server **      -- for subscriptions and help
+tpo-l@wizards.com (ls)             The Primal Order discussion group
+traveller@mpgn.com (lp)            Traveller Mailing List
+travellern@tower.clark.net (lp)    Traveller: The New Era RPG
+trumwulf@cm.cf.ac.uk (rq)          Trumwulf's Rest interactive fantasy 
+                                     fiction
+ufo-l@brufpb.bitnet (li)           UFO sightings / Forum for UFOlogy
+ufo-l@psuvm.psu.edu (li)           UFO related phenomenon
+us-l@wizards.com (ls)              Discussions on Ryk Spoor's TPO supplement
+                                     "Unorthodox Strategies"
+vampire-l@wizards.com (ls)         White Wolf's Vampire RPG discussions
+vampyres@guvm.ccf.georgetown.edu (li)
+                                   Vampire lore, history and facts
+virtrpg@monosys.com (rqs)          Internet RPGs via IRC or MUDS
+vulcan-l@netcom.com (m)            Star Trek Vulcan discussions
+us-l@wizards.com (ls)              The Primal Order's Unorthodox Strategies
+werewolf-l@wizards.com (ls)        White Wolf's Werewolf RPG discussions
+wizinfo-l@wizards.com (ls)         Wizards of the Coast announcements
+wfrp@gojira.monsta.com (rq)        Warhammer Fantasy RPG
+wraith-l@wizards.com (ls)          White Wolf's Wraith discussions
+woofer-l@wizards.com (ls)          Various products by Lisa Stevens
+xboat@mpgn.com (lp)                Xboat Classic Traveller Mailing List
+
+** This address is located at the same site as the list proper, so use the
+   same "@yyy" address as the list.
+
+Expired Lists
+=============
+
+Below I am including a new section on lists which appear to have expired.
+Each list will remain for a brief period for me to verify this before being 
+removed completely from the list.
+
+pern-l@spec0.ee.man.ac.uk (rq)     The Pern digest
+strek-d@le.ac.uk (ls)              Star Trek Stories, Interviews, etc. List
+strek-l@le.ac.uk (ls)              Star Trek Continual discussion List
+stargame@pccvm.bitnet (li)         Star Trek RPG
+strfleet@pccvm.bitnet (li)         Star Trek Star Fleet Forum
+trekwrtr@pccvm.bitnet (li)         Star Trek Script Writers Forum
+war40k@bismarck.gatech.edu (rq)    Warhammer 40K list
+
+Changes since the last List of Lists
+====================================
+
+Below I am including a new section on all the changes to the list of lists
+since the last version.
+
+falken-l@duke.poly.edu (lp)        Castle Falkenstein (R. Talsorian) mailing 
+                                   list. 
+galahad@leland.stanford.edu (ps)   SORD RPG system discussions
+jae+sw-rpg@drycas.club.cc.cmu.edu (ps)
+  jae+sw-rpg-request **              Star Wars Role Playing Game
+
+Finally...
+==========
+
+If you know of any more lists, or you know of one above which has expired, 
+tell me and I will modify the list. If you need any help with a particular 
+list, give me a shout.
+
+Thanks go to Boudewijn Wayers, the originator of this list for his hard 
+work and diligence in maintaining this list of rpg-related lists.
+
+Alistair G. Lowe-Norris, agl1@le.ac.uk
+

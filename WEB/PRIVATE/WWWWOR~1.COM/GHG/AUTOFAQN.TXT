@@ -1,0 +1,319 @@
+
+
+GHG-X4/AutoFrost(tm)/Chill-it(tm)  R-12 Replacement Q & A's
+
+Q.  What is GHG-X4 refrigerant?  AutoFrost(tm)? Chill-it(tm)?
+A.  GHG-X4 is a blend of refrigerants R-22, R-142b, R-124, and a small 
+amount (4%) of R-600a (isobutane), that is a drop-in substitute for R-12 in 
+most stationary and automotive A/C systems.  The 4% isobutane aids in 
+returning the mineral oil to the compressor and is such a small amount, that 
+GHG-X4 refrigerant stays nonflammable, even after worst case leaking and 
+recharging.  No oil change is needed.  AutoFrost(tm) and Chill-it(tm) are two 
+tradenames for GHG-X4 refrigerant.  They are all the same refrigerant.  
+GHG-X4 and AutoFrost(tm) are marketed by Monroe Air Tech (1-800-424-
+3836).  Chill-it(tm) is marketed by  McMullen Oil Products (1-888-7-MCCOOL).
+
+Q.  Why does this refrigerant have to be charged as a liquid?
+A.  This refrigerant and all other zeotropic blends (R-400 series) must be 
+charged as a liquid to prevent change in composition.  GHG-
+X4/AutoFrost(tm)/Chill-it(tm) and R-406A are supplied in 25 lb cylinders which 
+contain a "dip tube" to withdraw the product as liquid without inverting the 
+cylinder.
+
+A good charging procedure,  starting with the system in a vacuum, and the 
+engine off, is to admit about 1/2 to 2/3 of the required charge into the system 
+high side in liquid state.  Start the system up, and VERY SLOWLY   put in 
+the rest of the charge into the low side as liquid, with the system running.  A 
+good starting point, is to see what the initial suction (lowside) pressure is 
+upon starting up the system (it will be lower than normal), and VERY 
+SLOWLY "crack open" the low side charging manifold valve so that the low 
+side pressure rises by about 10 PSI to bring in the rest of the liquid charge.  
+The "barely open" manifold low side charging valve allows the refrigerant to 
+boil off in the hoses and prevent compressor damage.  The idea behind the 
+initial charge into the high side, is to provide good oil return to the 
+compressor during startup.
+
+If you still feel you must charge as vapor, you can first charge the required 
+amount, as liquid, from the refrigerant supply cylinder into a metered 
+charging cylinder such as a DIAL-A-CHARGE(tm).  You may then vapor 
+charge THE ENTIRE CHARGE from the charging cylinder into the car.
+
+Q.  How much GHG-X4 or R-406A do I need to charge in?
+A.  If you are using scales to weigh it, then use 80% of the R-12 weight 
+amount.  If you are using a liquid charging cylinder, such as a DIAL-A-
+CHARGE(tm), use the same liquid amount as you would R-12.
+
+
+Q.  Can I use automatic charging equipment with GHG-X4 or R-406A?
+A.  It depends.  Older type automatic charging equipment, which uses a 
+FLOWMETER to meter in R-12 at a fixed rate should be avoided.  Newer 
+type equipment, which contains a set of scales to weigh in a measured 
+charge (remember to only use 80% as much GHG-X4 as you would R-12) to 
+a holding tank before charging should work ok.  Automatic charging stations 
+which bring in a measured AMOUNT of liquid into a holding cylinder and you 
+set the amount by watching the liquid level (like a large coffee urn), should 
+also work ok.  Remember to use the same liquid (level or volume) here as 
+you would do for R-12.
+
+Also, most R-12 automatic charging equipment withdraws the product 
+(R-12) from a 30 pound cylinder as a liquid, and the R-12 cylinder must be 
+mounted upside down when attached to charging equipment.  GHG-X4 and 
+R-406A 25 pound refrigerant cylinders contain a "dip tube", much like a can 
+of spray paint, such that you get liquid out when the can is upright.  GHG-X4 
+and R-406A cylinders MUST BE INSTALLED UPRIGHT when used in 
+charging equipment that is designed to have R-12 cylinders installed upside 
+down.  You may have to lengthen or splice in a small piece of hose if 
+needed.
+
+Also, use only automatic charging equipment, that withdraws the product 
+from the refrigerant supply cylinder as a liquid (R-12 cylinders will need to 
+be upside down, but R-406A and GHG-X4 cylinders need to be installed 
+upright to insure removal of product as a liquid)
+
+Q.  What about using the ole "feel the evaporator outlet line" and 
+charge "until it gets cold" method of charging?
+A.  Blends such as GHG-X4 and R-406A sometimes need two or three 
+minutes (at idle speed) to become thoroughly mixed throughout the system.  
+Often,  when the evaporator outlet line begins to get cold, the system will be 
+overcharged.  Solution:  as you near the end of charging, stop charging for 2 
+or 3 minutes and let the system continue to run at idle before performing 
+further charging or diagnosis.  If a large part of the initial charge is dumped 
+into a suction (low side) accumulator, such as on a typical GM CCOT 
+system, the higher boiling components of the blend will hang around in the 
+accumulator longer than R-12 would.  Please take an extra two or 3 minutes 
+to let the blends mix completely before proceeding.
+
+Q.  Does this refrigerant need to be recovered (captured)?
+A.  Yes.  Under US EPA rules and regulations, all CFC, HCFC, HFC 
+refrigerants and just about anything else needs to be recovered and not be 
+vented to the atmosphere.  Refrigerants which require recovery are R-12, R-
+22, R-134a, R-406A, GHG-X4 and all the other current "legal" R-12 
+replacements at the current time.  Only refrigerants which may be vented 
+are air (nitrogen), water, CO2, ammonia and pure hydrocarbons (such as 
+propane/butane blends) according to US EPA rules.  You are not likely to 
+encounter any of these, as they (except for hydrocarbons) will not work or 
+will damage the system.  If you encounter a refrigerant composed of 100% 
+hydrocarbons, vent it outside, carefully, they are extremely flammable.
+
+Q.  What are EPA retrofit fittings?
+A.  The US EPA is requiring special "uniquely threaded" fittings to be 
+attached to all R-12 service ports, in a "permanent - non removable" fashion.  
+These fittings provide threads which are unique to each type of alternative 
+refrigerant.  These fittings are required by law (only for the automotive 
+sector, does not apply to stationary equipment) for refrigerants which have 
+completed the entire EPA approval process and are listed as "acceptable" 
+for mobile A/C.  For refrigerants, which have reached the "Legal-to-sell" 
+date, but are still in the EPA approval process, the fittings are not required 
+by law, but the EPA, Monroe Air Tech, and McMullen Oil Products 
+STRONGLY ENCOURAGE their use, to prevent accidental mixing with 
+recovered R-12.  Systems charged with alternative refrigerants MUST be 
+properly labeled on the firewall, and preferably also tagged on the charging 
+port.
+
+
+
+Retrofit fittings for GHG-X4 (same as AutoFrost and Chill-it) are 
+manufactured by the Schrader Corporation and cost less than $2 each to 
+make.  Fittings and adapters to standard R-12 threads may be obtained 
+from your refrigerant supplier.
+
+Q.  What about "topping off" systems low on  charge?
+A.  Current EPA rules only permit "topping off" with the same type of 
+refrigerant which already installed in an automotive system.  For systems 
+charged with zeotropic refrigerants, such as GHG-X4, R-406A, or almost all 
+other "blends", the recommended procedure is to first remove (recover) the 
+charge and recharge with fresh virgin material.  As zeotropic blends vapor 
+leak, they change composition (pressures get lower), and a recharge will 
+result in lower pressures, and some reduced capacity.  However, many 
+technicians have topped off both R-406A and GHG-X4 systems and report 
+no problems.  The property which makes GHG-X4 or R-406A change 
+composition (called fractionation) as it vapor leaks, is also responsible for a 
+big performance gain over single component refrigerants such as R-12 or R-
+134a.  Zeotropic refrigerants exhibit a temperature "glide" (about 16 degrees 
+F for GHG-X4 and R-406A), which causes the refrigerant to boil (evaporate) 
+or condense over a range of temperatures instead of a single temperature, 
+thus increasing the heat rejecting capacity of the condenser and increasing 
+cooling performance over R-12 and R-134a.
+
+Q.  What about topping off cars with R-12 in them with GHG-X4?
+A.  This is illegal in the US under current EPA rules.  One can garner a 
+$25,000 fine for charging illegal refrigerants or mixing refrigerants in a car.
+
+Q.  What is R-406A and how is it different than GHG-X4?
+A.  R-406A is very similar to GHG-X4.  It consists of R-22, R-142b, and a 
+small amount of isobutane (to provide good mineral oil return).  R-406A is 
+nonflammable as shipped.  If large amounts of refrigerant are lost from 
+vapor leaking, R-406A may become weakly flammable.  In this state (called 
+worst case fractionation), R-406A has no "flash point" and jets of it escaping 
+from a system or cylinder cannot be ignited with a propane torch.  If one 
+manages to obtain several ounces of liquid refrigerant in the worst case 
+state, and put it in a jar or pour it onto the ground, then a propane torch can 
+ignite it.  It typically burns with a 2 or 3 inch high flame and typically self 
+extinguishes in a second or two.  Due to the "no flash point", the entire spill 
+usually will not ignite, but remain localized until it goes out by itself.  
+ASHRAE has given R-406A a safety classification of "A1/A2", which means 
+"lower toxicity group / nonflammable" as formulated and "lower toxicity / 
+lower flammability group" after worst case fractionation.  A video tape may 
+be obtained at no charge from Monroe Air Tech, 1-800-424-3836 showing 
+safety testing of R-406A.  Safety testing excepts and other information on 
+GHG-X4 and R-406A is available on the internet World Wide Web at  
+HTTP://worldserver.com/R-406A.
+
+GHG-X4 is basically R-406A with a small amount of R-124 added to 
+suppress the weak flammability at the end of an R-406A vapor leakout. 
+GHG-X4 (without the oil) never goes flammable, even after leaking and 
+recharging.  Suction pressures are the same as R-406A, and the head 
+pressure will be slightly higher, about 5 PSIG higher at 130 degrees F 
+condensing temperature.
+
+Q.  Do the  hoses, driers or the oil need changing?
+A.  In general, no.  Most American built cars have used the nylon lined 
+"barrier" hoses for years.  These are fine for GHG-X4, and R-406A.  Some 
+real old cars and foreign cars and cars with "port of entry" add-on A/C 
+systems may have "nitrile" rubber hoses, which can leak R-134a and all 
+currently legal alternative refrigerants at a higher rate.  It is therefore 
+recommended that nitrile rubber hoses be replaced.  All current replacement 
+hoses are now of the barrier type.  
+
+Current R-12 cars use a drier desiccant called "XH-5".  This has shown no 
+problems with R-406A or GHG-X4.  R-134a (newly built or retrofitted) cars 
+may contain a desiccant called "XH-7".  XH-7 should not be used with 
+R-406A, GHG-X4 or other alternatives containing HCFCs.  The best 
+desiccant to use, if you have a choice when replacing the drier during 
+servicing is to use "XH-9" as that will have better moisture capacity and will 
+work with all the alternatives and R-134a as well.
+
+Unless the oil is contaminated by a system failure, it does not need to be 
+changed.  GHG-X4 and R-406A work fine with the standard mineral oils 
+(usually 525 viscosity) used in R-12 systems.  If you change the oil, replace 
+it with the same mineral oil as was in the R-12 system.  Alkylbenzene based 
+(AB) oils also work fine.
+
+Do not use GHG-X4 or R-406A with PolyalkyleneGlycol (PAG) or 
+PolyolEster (POE) oils which are found in new and retrofitted R-134a 
+systems.  the HCFCs in GHG-X4 and R-406A will destroy the PAG oil and 
+sometimes break down the POE oil.  The POE oil may also absorb 
+excessive refrigerant and become "too thin" to lubricate properly, causing 
+compressor failures.
+
+Q.  Compressor suppliers (automakers) are sometimes shipping 
+compressors precharged with PAG oil, what do I do?
+A.  Don't put R-406A or GHG-X4 into one of those or it will probably fail.  
+Local technicians have had good luck by ordering compressors "dry" (no 
+oil), and then charging mineral oil (on the bench, while turning by hand).  
+Another alternative which local technicians have tried is to take the PAG 
+oiled compressor and purge it with mineral oil on the bench while turning it 
+over 30 or 40 times by hand to work out almost all of the PAG oil.  Both dry 
+and formerly-PAG charged compressors are now running in the local area 
+for over 2 years in service with R-12 and mineral oil.  Local experience has 
+shown that the Ford FX-15 compressor will fail in short order if charged with 
+the standard weight (525) mineral oil (R-12 refrigerant).  However, a thinner 
+mineral oil, such as Ford part number YN9 has proven to be successful with 
+the FX-15 and R-12.
+
+Q.  What do I do with used refrigerant?
+A.  The best approach is to "recover"  (capture it) into a standard gray and 
+yellow refrigerant recovery cylinder and send it to a reclaimer to be 
+reclaimed to new refrigerant purity and composition.  Some technicians may 
+wish to "recycle" (clean it locally).  If this is done, one must make a 
+"pressure-temperature" check to insure the composition hasn't changed too 
+much from leaking.  Let a cylinder stabilize overnight, to some known 
+temperature, say, 70 degrees F.  Connect up a gauge and measure the 
+pressure.  Look up the correct pressure on a pressure-temperature chart (on 
+the bottom of the 25lb cylinder).  If the pressure is within 2 or 3 PSI of the 
+listed pressure, you should be OK.  If the pressure is low, then the 
+composition has changed from vapor leaking.  The easiest thing to do with 
+changed-composition refrigerant is to return it for reclaiming.
+
+By far the SAFEST and least likely to cause problems method for dealing 
+with USED refrigerant (from cars which come to your shop), is to RECOVER 
+it into a cylinder and ship it to a reclaimer.  You have no idea what is in the 
+system without using expensive and not always accurate refrigerant 
+identification equipment.  The owner or other shops may have charged in a 
+pound or two of R-134a, R-22, propane, illegal blends (often 
+propane/isobutane/butane blends), smuggled-in refrigerant of questionable 
+purity, or other legal blends and not properly labeled it.  All this stuff, when 
+mixed with R-12 will usually work most of the time, provided it is not full of 
+water and air.
+
+After doing an evacuation of the system, charge with only virgin (new) 
+refrigerant or good refrigerant of known quality.  If you have to then remove 
+the charge to do more work on the system, you may then want to "recycle" 
+and reuse this charge you just put in, provided there was no excessive loss 
+of it due to vapor leaking.
+
+Check with your supplier, call Monroe Air Tech (1-800-424-3836) or 
+McMullen Oil Products (1-888-7-MCCOOL) to find out names of reclaimers 
+who will take back used R-406A and GHG-X4.
+
+One such reclaimer is:
+
+Refrigerant Reclaim, Inc.
+122 Old Stagecoach Rd
+Dumfries, VA 22026-2202
+(703) 441-0029
+
+Another, legal lower cost alternative to the high price of refrigerant recovery 
+cylinders, is to use NEW BBQ grill propane tanks.  These are DOT rated at 
+240 PSI and are legal for shipping R-12 and similar pressure alternatives.  A 
+20lb BBQ grill propane tank typically may be purchased for about $15 at 
+places such as Sam's Club or other wholesale buyers clubs.  Be sure you 
+only use NEW tanks.  If propane was ever in the tank, it will "stink" for 
+eternity from the mercaptain odorant.  The reclaimer will get extremely mad 
+at you and you will have to pay upwards of $10/lb to have the refrigerant 
+burned if you do not use a new tank.  Go to a local welding supply and buy a 
+CGA-510 "POL" adapter which connects to the propane tank and gives you 
+1/4" MPT (male pipe threads).  Go to a refrigeration supply and buy a 1/4" 
+FPT (female pipe threads) to 1/4 SAE flare adapter.  Screw the flare adapter 
+on the pipe threads, using Teflon tape on the pipe threads.  The 20lb 
+propane tank will hold 37 lbs of GHG-X4 or R-406A (the 80% fill level).  
+Larger, 100lb propane tanks may be purchased new for around $80, and 
+they hold 185 lbs of refrigerant.  If you do use propane tanks, be sure to 
+contact your reclaimer first to make sure it is ok with him.  Contact your 
+reclaimer or refrigerant supplier for proper shipping instructions on used 
+refrigerant.  A $10 or so "hazmat" fee (all compressed gasses are shipped 
+as hazardous) will usually be charged in addition to the normal shipping 
+charges.  The tank will have to be properly marked for shipment and need 
+"diamond" stickers, and other labels.  For a $15 tank, you can tell the 
+reclaimer to just "keep it" or sell it or throw it away, since it is cheaper to buy 
+a new tank than to ship the old one back.
+
+Q.  Can I use R-406A or GHG-X4 in a R-134a system?
+A.  NO! NO! NO! The PAG or POE oils in the R-134a sysem will be 
+destroyed by R-406A or GHG-X4.  If POE oils are used, they also may fail 
+or be thinned too much to properly lubricate.
+
+
+Q.  What kind of pressures do I see with GHG-X4 or R-406A?
+A.  Pressures are very close on the suction side (low side).  Head pressures 
+will usually be within plus or minus 15% of the R-12 pressures depending on 
+condenser design and airflow and ambient temperature.  A properly charged 
+system with R-406A or GHG-X4 will usually have lower head pressures on 
+the highway than R-12.
+
+Q.  Why are the head pressures very high on a few systems when I 
+charge until the sight glass goes clear?
+
+A. Sometimes systems may  be encountered, that may have small 
+condensers or condensers with poor air flow, such as on farm 
+equipment, and adding enough charge to "clear the bubbles" will 
+cause very high head pressures of 400 PSIG or higher.  On these 
+types of systems, it is normal to have some bubbles in the liquid 
+line sight glass.  Remove some charge slowly from the high side 
+while running (to remove liquid) into recovery equipment.  The 
+head pressure should come down.  When initially charging, watch 
+the head pressure, and stop charging when it looks correct.  The 
+"correct" value may be as low as 120 PSIG on a cool (65F) day or 
+as high as 300 PSIG on a very hot day.  Dirt plugging and the 
+condenser fan arrangement/air flow also affect the head pressure.
+
+The high side pressure is determined by the temperature of the 
+condenser, not the total amount of charge.  A system correctly 
+charged may have a 120 PSIG head on a cool day, but be around 300 
+PSIG on a very hot day, with no change in the charge amount.  
+Overcharging a system, will cause the condenser to partially fill 
+with liquid, impairing it from removing heat, and the condenser 
+temperature and (head pressure) will drastically rise.  This is 
+true for any refrigerant.
+
+

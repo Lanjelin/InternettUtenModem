@@ -1,0 +1,218 @@
+Date: Tue, 20 Feb 1996 17:58:52 CST
+From: Patrick Douglas Crispen <PCRISPE1@UA1VM.UA.EDU>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 20 FEBRUARY 1996 - THE CDA
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TOURBUS - TUESDAY, 20 FEBRUARY 1996
+TODAY'S STOP: THE CDA
+TODAY'S ADDRESSES:
+     http://www.eff.org/pub/Alerts/s652_hr1555_96_draft_bill.excerpt
+     http://www.eff.org/pub/Alerts/index.html#cda
+     http://www.yahoo.com/Society_and_Culture/Civil_Rights/Censorship/
+          Censorship_and_the_Net/Communications_Decency_Act/
+     cda96-l@willamette.edu
+     http://www.eff.org/pub/Alerts/eff-aclu_cda_lawsuit_021596.update
+
+
+Due to some minor technical difficulties here in Alabama,
+I wasn't able to send a TOURBUS post last Thursday.  To
+make up for this, your fearless Bus driver is going to
+write both of this week's TOURBUS posts.  After all, Dr. Bob
+deserves a break :)
+
+I am, however, proud to announce that I recently upgraded my
+Macintosh Powerbook 520C by installing a new PowerPC chip.
+For those of you who may not know the difference between a
+megahertz (definition: "it REALLY hurts") and a teraflop
+(definition: "what happens when Tera falls down"), let me
+just say that the PowerPC chip that I installed makes
+my Mac three times faster than it was before (I just went
+from 33 megahertz to 100 megahertz (think of megahertz as
+either miles-per-hour or kilometers-per-hour and you'll
+start to understand what everyone is saying when they
+talk about different computer clock speeds)).
+
+Unfortunately, the only thing that works on my Macintosh
+right now is the graphing calculator (which, might I add, is
+three times faster than it used to be).  Don't get me wrong,
+I *like* the graphing calculator -- I just miss being able
+to use my modem and my ethernet connection and my copy of
+Microsoft Office (this is the reason I was unable to send
+last Thursday's TOURBUS).
+
+So, for those of you who have had to go through nightmare
+situations upgrading your computer, take heart: it happens
+to the best of us.  Oh, and if you have a really good graphing
+calculator (like, for example, a graphing calculator on a
+Macintosh Powerbook 520C running the PowerPC chip) that
+can graph inequalities, have I got an inequality for you!
+(ASCII does not have a character for theta, so I am just
+going to use $ to represent theta -- make sure you replace
+$ with theta when you plug this in)
+
+     cos 10$ < tan sin 2r
+
+
+ROADMAP??
+---------
+
+For those of you who were confused by last week's announcement
+that two of the Roadmap workshop's lessons have been rewritten,
+let's see if we can clear things up a little.
+
+Roadmap is a free, text-based, 27 lesson Internet training workshop
+that I wrote a little while back.  You can find out how to
+retrieve the Roadmap workshop lessons and also how to
+get a FREE copy of Dr. Bob's guide "Accessing the Internet
+by E-mail" by sending an e-mail letter to
+
+     LISTSERV@UA1VM.UA.EDU
+
+(that's "you-ay-won-vee-em") with the command
+
+     GET NEWUSER PACKAGE F=MAIL
+
+in the body of your e-mail letter.  The LISTSERV will respond
+within 24 hours with 2 e-mail letters: one telling you about
+Roadmap, and another telling you about Dr. Bob's guide.
+
+
+THE CDA
+-------
+
+(*In light of all of the recent comments that have been made
+either for or against the CDA, I have decided to keep my comments
+to myself and instead present this issue as impartially and
+factually as possible.  If you feel the following is not
+impartial or factual, please accept my deepest apologies in
+advance*)
+
+The Communications Decency Act (CDA) was recently signed into
+law by President Clinton as part of the Telecommunications Act
+of 1996.  For those of you who may not be in the US or who may
+not have followed the debate about the CDA, the CDA outlaws the
+use of the Internet to distribute indecent material to minors,
+and it also outlaws the use of the Internet to discuss abortion.
+
+It looks like the Library of Congress link to the text of the
+Communications Decency Act of 1996 expired shortly after I posted
+it on February 8.  Not to worry ... here is another link to the
+text of the CDA:
+
+     http://www.eff.org/pub/Alerts/s652_hr1555_96_draft_bill.excerpt
+
+If you want to find out the latest news about the CDA, you probably
+should check out the Electronic Frontier Foundation's (EFF) CDA page at
+
+     http://www.eff.org/pub/Alerts/index.html#cda
+
+One word of warning: the EFF opposes the CDA, so their Web page is
+rather slanted against the CDA (their link to the text of the CDA
+uses the words "unconstitutional 'Communications Decency' amendment").
+
+Yahoo also has a pretty comprehensive section dedicated to the CDA.
+Unfortunately, the URL is longer than a presidential debate:
+
+     http://www.yahoo.com/Society_and_Culture/Civil_Rights/Censorship/
+     Censorship_and_the_Net/Communications_Decency_Act/
+
+Your best bet would be either to pop on over to Yahoo
+(http://www.yahoo.com/) and do a keyword search for "CDA",
+or make the section jumps by hand (go from the main menu to
+"Society and Culture", then to "Civil Rights" ...).
+
+For those of you who would like to join the online discussion
+about the CDA, there is a new CDA discussion list that you can
+subscribe to.  To subscribe, send an e-mail letter to
+
+     listproc@willamette.edu
+
+with the command
+
+     SUB CDA96-L YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and
+YOURLASTNAME with your first and last names.  I have not subscribed
+to CDA96-L, but since it is an unmoderated list I am willing to bet
+that the mail volume on CDA96-L is on the far side of overwhelming :)
+
+Here is the latest information about the legal challenge to
+overturn the CDA, courtesy of
+
+     http://www.eff.org/pub/Alerts/eff-aclu_cda_lawsuit_021596.update
+
+"A federal judge in Philadelphia has issued a partial temporary
+restraining order prohibiting enforcement of the 'indecency'
+provision of the Communications Decency Act (CDA)." ...
+
+"The court agreed with the plaintiffs' claim that the CDA will have
+a chilling effect on free speech on the Internet and found that
+the CDA raises 'serious, substantial, difficult and doubtful
+questions.'  The court further agreed that the CDA is
+'unconstitutionally vague' as to the prosecution for indecency.
+But the court left open the possibility that the government could
+prosecute under the 'patently offensive' or 'obscene' provisions -
+provisions that are actually redundant, as obscenity is already illegal
+online or offline. The obscenity laws are not medium-dependent the way
+indecency laws are, and have already been enforced against online
+services (c.f. the U.S. v. Thomas case.)"
+
+I'll try to keep everyone up to date on what happens with the CDA.
+Without a doubt, a lot of information is going to be written about
+the CDA in most of the major news magazines.  I can't think of
+a better reason for you to visit today's TOURBUS sponsor:
+
+
++----------------->  BIG-TIME MAGAZINES FOR $10 A YEAR?  <--------------+
+|                      ONLY TOURBUS RIDERS KNOW HOW!                    |
+|                                                                       |
+|   Magazine Express has exclusive TOURBUS discounts others can only    |
+|  dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This   |
+|   is a limited time offer, so get details now by sending email to:    |
++------------------------>  tourbus@magazines.com  <--------------------+
+
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+RICE - Noun. A contest of speed.
+Usage: "Y'all going out to Talladega to see the rice?"
+(Special thanks goes to John Munroe for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE
+SOUTHERN WORD HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.

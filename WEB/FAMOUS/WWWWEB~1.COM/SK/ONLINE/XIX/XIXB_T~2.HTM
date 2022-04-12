@@ -1,0 +1,268 @@
+<HTML><HEAD><TITLE>&Oslash;ieblikket 1-10</TITLE>
+
+<SCRIPT LANGUAGE=JavaScript> 
+var s=100;
+msg="";
+function status_msg(s)
+{
+var out = " ";
+var counter   = 1;
+if (s > 100) {
+	s--;
+	var c="status_msg(" + s + ")";
+	t=window.setTimeout(cmd,100);}
+else if (s <= 100 && s > 0) {
+	for (counter=0 ; counter < s ; counter++) {out+=" ";}
+	out+=msg;
+	s--;
+	var c="status_msg("+s+")";
+	window.status=out;
+	t=window.setTimeout(c,100);}
+}
+
+
+function pagetest(myform,sp) {
+sp=Math.round(sp);
+if ((sp<89) || (sp>330))
+	 {alert('\nDu har angivet et ugyldigt sidetal!!!\n\nSe øverst i indeksrammen hvilke sider teksten dækker.')} 
+else
+	myform.submit();}
+
+function test(myform,sp,lp) {
+sp=Math.round(sp);
+lp=Math.round(lp);
+if ((sp<89) || (lp>330) || (sp>lp) || ((lp-sp)>100))
+	 {alert('\nDu har angivet et ugyldigt sideinterval!!!\n\nSe øverst i indeksrammen hvilke sider teksten dækker.')} 
+else
+	{msg="Henter i alt "+(lp-sp+1)+" sider fra 'Øieblikket 1-10'.    Ekspeditionstid ca. "+(Math.round((lp-sp)*0.7)+10)+" sekunder.  VENT ... ";
+	timerONE=window.setTimeout('status_msg(100)',500);
+            if ((lp-sp)>40) {myform.form_name.value="100n2";}
+	myform.startpage.value=sp;
+	myform.lastpage.value=lp;
+	if (myform.mybreak.checked) 
+	{myform.mycontrol.value=1;} else
+	{myform.mycontrol.value=0;}
+	myform.submit();}}
+
+function gosearch(sf){
+ if (sf.format.checked)
+	{sf.glimpse_rec_delim.value="<P>";} else
+	{sf.glimpse_rec_delim.value="$";}
+if (sf.match.checked)
+	{sf.glimpse_type.value="ww";} else
+	{sf.glimpse_type.value="g";}
+	sf.submit();}
+
+
+</SCRIPT>
+</HEAD>
+<BODY BACKGROUND="../BLACK.GIF" tppabs="http://www.webcom.com/sk/online/black.gif" TEXT="ffffff" LINK="#C0C0C0" VLINK="#C0C0C0" ALINK="#C0C0C0">
+<BASE TARGET="main_page">
+<TABLE  cellpading=0 cellspacing=0 border=0 width=100%>
+<TD COLSPAN=2><CENTER>
+<FONT SIZE=3><B>Øieblikket 1-10</B></FONT><BR>
+<FONT SIZE=1 FACE="Arial">
+<FONT COLOR=antiquewhite>Vol. XIX, pp. 89-330</FONT>
+</CENTER><P><TR>
+<FORM METHOD=POST ACTION="http://www.webcom.com/cgi-bin/form" tppabs="http://www.webcom.com/cgi-bin/form" NAME="go" >
+<INPUT TYPE=hidden NAME=form_name VALUE="40n2">
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME=startpage VALUE=0>
+<INPUT TYPE=hidden NAME=lastpage VALUE=0>
+<INPUT TYPE=hidden NAME=vol VALUE="XIX">
+<INPUT TYPE=hidden NAME=volpart VALUE="B">
+<INPUT TYPE=hidden NAME=secbeg VALUE="">
+<INPUT TYPE=hidden NAME=secend VALUE="">
+<INPUT TYPE=hidden NAME=title VALUE="&Oslash;ieblikket_1-10">
+<INPUT TYPE=hidden NAME=mycontrol VALUE=0>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"89","101")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 1 <FONT COLOR=lightblue> [89-101]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"91","92")> <FONT FACE="ARIAL" SIZE=1>Stemning <FONT COLOR=lightblue> [91-92]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"93","94")> <FONT FACE="ARIAL" SIZE=1>Til "dette skal siges"; eller hvorledes anbringes et Afgjørende?<FONT COLOR=lightblue> [93-94]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"95","98")> <FONT FACE="ARIAL" SIZE=1>Er det forsvarligt af Staten - den christelige Stat! - om muligt, at umuliggjøre Christendom? <FONT COLOR=lightblue> [91-92]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"99","100")> <FONT FACE="ARIAL" SIZE=1>"Tag et Bræk-Middel!" <FONT COLOR=lightblue> [99-100]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"101","101")> <FONT FACE="ARIAL" SIZE=1>Et Følgeblad - Øieblikket <FONT COLOR=lightblue> [101]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"103","126")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 2 <FONT COLOR=lightblue> [89-101]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"105","106")> <FONT FACE="ARIAL" SIZE=1>Til "min Læser!" <FONT COLOR=lightblue> [105-106]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"107","108")> <FONT FACE="ARIAL" SIZE=1>At Opgaven er i en dobbelt Retning.<FONT COLOR=lightblue> [107-108]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"109","111")> <FONT FACE="ARIAL" SIZE=1>Det Comfortable og - Bekymringen for en evig Salighed. <FONT COLOR=lightblue> [109-111]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"112","114")> <FONT FACE="ARIAL" SIZE=1>Det Menneskelige beskytter (protegerer) det Guddommelige! <FONT COLOR=lightblue> [112-114]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"115","116")> <FONT FACE="ARIAL" SIZE=1>Lovtale over Menneske-Slægten eller Beviis for, at det nye Testamente ikke mere er Sandhed. <FONT COLOR=lightblue> [115-116]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"117","118")> <FONT FACE="ARIAL" SIZE=1>Vi ere Alle Christne. <FONT COLOR=lightblue> [117-118]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"119","120")> <FONT FACE="ARIAL" SIZE=1>En Vanskelighed ved det nye Testamente. <FONT COLOR=lightblue> [119-120]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"121","122")> <FONT FACE="ARIAL" SIZE=1>Ere vi virkeligen Christne - hvad er saa Gud? <FONT COLOR=lightblue> [121-122]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"123","124")> <FONT FACE="ARIAL" SIZE=1>Dersom vi virkeligen ere Christne. <FONT COLOR=lightblue> [123-124]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"125","126")> <FONT FACE="ARIAL" SIZE=1>Hvilken Lykke, at vi ikke alle ere Præster. <FONT COLOR=lightblue> [125-126]<TR>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"127","136")><TD><FONT  FACE="ARIAL" SIZE=1>Hvad Christus dømmer om officiel Christendom. <FONT COLOR=lightblue> [127-136]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"137","149")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 3 <FONT COLOR=lightblue> [137-149]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"139","140")> <FONT FACE="ARIAL" SIZE=1>Stat-Christendom <FONT COLOR=lightblue> [139-140]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"141","142")> <FONT FACE="ARIAL" SIZE=1>Er det forsvarligt af Staten, christeligt, at forlokke en Deel af den studerende Ungdom?<FONT COLOR=lightblue> [141-142]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"143","144")> <FONT FACE="ARIAL" SIZE=1>Er det forsvarligt af Staten et modtage en Eed, som ikke blot ikke holdes, men hvis Aflæggelse er en Selvmodsigelse? <FONT COLOR=lightblue> [143-144]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"145","146")> <FONT FACE="ARIAL" SIZE=1>Et det forsvarligt af Staten, christeligt at vildlede Folket, eller at vildlede Folkets Dom om hvad Christendom er? <FONT COLOR=lightblue> [145-146]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"147","148")> <FONT FACE="ARIAL" SIZE=1>Lad Staten gjøre Prøve paa Regningen, og det skal snart vise sig, at Regningen er grundforkert. <FONT COLOR=lightblue> [147-148]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"149","149")> <FONT FACE="ARIAL" SIZE=1>Vil Staten i Sandhed tjene Christendommen, saa lad den tage de 1000 Levebrød bort. <FONT COLOR=lightblue> [149]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"151","168")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 4 <FONT COLOR=lightblue> [151-168]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"153","155")> <FONT FACE="ARIAL" SIZE=1>Læge-Skjønnet. <FONT COLOR=lightblue> [153-155]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"156","157")> <FONT FACE="ARIAL" SIZE=1>Det der er det Oprørende. <FONT COLOR=lightblue> [156-157]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"158","160")> <FONT FACE="ARIAL" SIZE=1>Sandhed og Levebrød. <FONT COLOR=lightblue> [158-160]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"161","162")> <FONT FACE="ARIAL" SIZE=1>Sande Christne: Mange Christne. <FONT COLOR=lightblue> [161-162]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"163","163")> <FONT FACE="ARIAL" SIZE=1>I "Christenhed" er alle Christne. <FONT COLOR=lightblue> [163]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"164","166")> <FONT FACE="ARIAL" SIZE=1>Min Opgaves Vanskelighed. <FONT COLOR=lightblue> [164-166]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"167","168")> <FONT FACE="ARIAL" SIZE=1>Det Officielle - det Personlige. <FONT COLOR=lightblue> [167-168]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"169","191")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 5 <FONT COLOR=lightblue> [169-191]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"171","172")> <FONT FACE="ARIAL" SIZE=1>Vi ere alle Christne. <FONT COLOR=lightblue> [171-172]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"173","175")> <FONT FACE="ARIAL" SIZE=1>Et Genie - En Christen. <FONT COLOR=lightblue> [173-175]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"176","177")> <FONT FACE="ARIAL" SIZE=1>Aands-Menneskets Christendom; vi Menneskers christendom. <FONT COLOR=lightblue> [176-177]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"178","179")> <FONT FACE="ARIAL" SIZE=1>Det nye Testamentes Christendom - "Christenheds" Christendom. <FONT COLOR=lightblue> [178-179]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"180","181")> <FONT FACE="ARIAL" SIZE=1>Naar alle er Christne, er <I>eo ipso</I> Christendommen ikke til. <FONT COLOR=lightblue> [180-181]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"182","183")> <FONT FACE="ARIAL" SIZE=1>Et Oprør i Trods - et Oprør i Hyklerie eller om Affaldet fra Christendom. <FONT COLOR=lightblue> [182-183]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"184","185")> <FONT FACE="ARIAL" SIZE=1>En Eeds Aflæggelse eller det Officielle: det Personlige. <FONT COLOR=lightblue> [184-185]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"186","187")> <FONT FACE="ARIAL" SIZE=1>Nymodens religieuse Betryggelser (Garantier). <FONT COLOR=lightblue> [186-187]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"188","191")> <FONT FACE="ARIAL" SIZE=1>"Vogter Eder for dem, som gjerne gaae i lange Klæder." <FONT COLOR=lightblue> [188-191]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"193","212")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 6 <FONT COLOR=lightblue> [193-212]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"195","196")> <FONT FACE="ARIAL" SIZE=1>Kort og Spidst. <FONT COLOR=lightblue> [195-196]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"197","201")> <FONT FACE="ARIAL" SIZE=1>Afstands-Maal; og herved igjen om den egentlige Vanskelighed jeg har at kjæmpe med. <FONT COLOR=lightblue> [197-201]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"202","204")> <FONT FACE="ARIAL" SIZE=1>Frygt meest af Alt at være i en Vildfarelse! <FONT COLOR=lightblue> [202-204]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"205","206")> <FONT FACE="ARIAL" SIZE=1>At vi, at "Christenhed" slet ikke kan tilegne sig Christi Forjættelser. <FONT COLOR=lightblue> [205-206]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"207","210")> <FONT FACE="ARIAL" SIZE=1>Hvad siger Brand-Majoren? <FONT COLOR=lightblue> [207-210]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"211","212")> <FONT FACE="ARIAL" SIZE=1>Smaa-Bemærkninger. <FONT COLOR=lightblue> [211-212]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"213","248")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 7 <FONT COLOR=lightblue> [213-248]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"215","216")> <FONT FACE="ARIAL" SIZE=1>Hvorfor elsker "Mennesket" fremfor Alle "Digteren"? <FONT COLOR=lightblue> [215-216]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"217","218")> <FONT FACE="ARIAL" SIZE=1>Menneske-Fiskeriet. <FONT COLOR=lightblue> [217-218]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"219","222")> <FONT FACE="ARIAL" SIZE=1>Hvad man saadan kalder en Christen. <FONT COLOR=lightblue> [219-222]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"223","226")> <FONT FACE="ARIAL" SIZE=1>"<I>Først</I> Guds Rige" - Et Slags Novelle.<FONT COLOR=lightblue> [223-226]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"227","231")> <FONT FACE="ARIAL" SIZE=1>At "Christenhed" er fra Slægt til Slægt et Samfund af Ikke-Christne. <FONT COLOR=lightblue> [227-231]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"232","238")> <FONT FACE="ARIAL" SIZE=1>Confirmationen og Vielsen; christeligt Comedie-Spil eller Det, som værre er.  <FONT COLOR=lightblue> [232-238]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"239","241")> <FONT FACE="ARIAL" SIZE=1>At den, især i Protestantismen, saa meget priste det christelige Familie-Livs christelige Børne-Opdragelse er, Christeligt, baseret paa en Løgn, idel Løgn. <FONT COLOR=lightblue> [239-241]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"242","246")> <FONT FACE="ARIAL" SIZE=1>Sandheden af "Præstens" Betydning for Samfundet.<FONT COLOR=lightblue> [242-246]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"247","248")> <FONT FACE="ARIAL" SIZE=1>Om den Interesse, der vises min Sag. <FONT COLOR=lightblue> [247-248]<TR>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"249","266")><TD><FONT  FACE="ARIAL" SIZE=1>Guds Uforanderlighed - en Tale. <FONT COLOR=lightblue> [249-266]<TR>
+
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"267","289")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 8 <FONT COLOR=lightblue> [267-289]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"269","274")> <FONT FACE="ARIAL" SIZE=1>Samtidigheden; hvad Du gjør i Samtidighed er det Afgjørende. <FONT COLOR=lightblue> [269-274]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"275","277")> <FONT FACE="ARIAL" SIZE=1>Man lever kun een Gang. <FONT COLOR=lightblue> [275-277]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"278","279")> <FONT FACE="ARIAL" SIZE=1>En Evighed til at fortryde. <FONT COLOR=lightblue> [278-279]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"280","282")> <FONT FACE="ARIAL" SIZE=1>Hvad der evigt lader sig erindre? <FONT COLOR=lightblue> [280-282]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"283","284")> <FONT FACE="ARIAL" SIZE=1>Et Billede paa Livet, og, et Billede af Livet. <FONT COLOR=lightblue> [283-284]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"285","287")> <FONT FACE="ARIAL" SIZE=1>Den guddommelige Retfærdighed.  <FONT COLOR=lightblue> [285-287]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"288","289")> <FONT FACE="ARIAL" SIZE=1>Skjælv - thi Gud er det i een Forstand saa uendelig let at narre! <FONT COLOR=lightblue> [288-289]<TR>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"291","306")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 9 <FONT COLOR=lightblue> [291-306]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"293","295")> <FONT FACE="ARIAL" SIZE=1>Altsaa saaledes staaer Sagen. <FONT COLOR=lightblue> [293-295]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"296","297")> <FONT FACE="ARIAL" SIZE=1>At Idealerne skulle forkyndes - ellers er Christendommen i dybeste Grund forfalsket. <FONT COLOR=lightblue> [296-297]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"298","298")> <FONT FACE="ARIAL" SIZE=1>En dosis Livslede. <FONT COLOR=lightblue> [298]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"299","301")> <FONT FACE="ARIAL" SIZE=1>Vær Piat - og Du skal see, alle Vanskeligheder forsvinde! <FONT COLOR=lightblue> [299-301]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"302","304")> <FONT FACE="ARIAL" SIZE=1>At Præsterne er Menneske-Ædere, og paa den afskyeligste Maade. <FONT COLOR=lightblue> [302-304]<TR>
+<TD VALIGN=top><TD><INPUT TYPE=radio NAME=art onclick=test(go,"305","306")> <FONT FACE="ARIAL" SIZE=1>Præsten ikke blot beviser Christendommens Sandhed, men han modbeviser den med det samme. <FONT COLOR=lightblue> [305-306]<TR>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"309","330")><TD><FONT  FACE="ARIAL" SIZE=1>Øieblikket nr. 10 <FONT COLOR=lightblue> [309-330]<TR>
+<TD><TD><FONT FACE="arial" size=1>Manuskriptet til Øieblikket nr. 10, der ikke udkom, men laa trykfærdigt ved S.K.s Død.  
+
+</TABLE><BR>
+<TABLE BGCOLOR="gray" cellpading=0 cellspacing=0 border=0 width=100%>
+<TD>
+<FONT SIZE=1 FACE="ARIAL">
+<P><INPUT TYPE=checkbox NAME="mybreak" VALUE="YES" onclick="if (mybreak.checked) {self.status='Du har nu valgt at få sidetal vist i den tekst der hentes';return true} else {self.status='Du har valgt at sidetal IKKE vises i teksten';return true}"> Vis sidetal i teksten</TABLE><P> 
+<TABLE BGCOLOR="cadetblue" cellpading=0 cellspacing=0 border=0 width=100%>
+<TD>
+<FONT SIZE=1 FACE="ARIAL">Selvvalgt tekstområde (max. 100 sider):<P>
+<CENTER>Fra: <INPUT TYPE=TEXT NAME="st" SIZE=3 VALUE="" onfocus="self.status='Mindste sidetal: 89';return true">
+Til:  <INPUT TYPE=TEXT NAME="la" SIZE=3 VALUE="" onfocus="self.status='H&oslash;jeste sidetal: 330';return true" ><P>
+
+<INPUT TYPE=button VALUE="Hent" onClick=test(go,st.value,la.value) ></CENTER><P>
+</FORM>
+</TABLE><P>
+<TABLE BGCOLOR="cadetblue" cellpading=0 cellspacing=0 border=0 width=100%><TD>
+<FONT SIZE=1 FACE="ARIAL">
+<FORM METHOD=POST ACTION="http://www.webcom.com/cgi-bin/form" tppabs="http://www.webcom.com/cgi-bin/form" NAME="page_go">
+Vis side for side:<P>
+<CENTER>Fra side: <INPUT TYPE=TEXT NAME="st" SIZE=3 VALUE="" onfocus="self.status='Vælg sidetal mellem 89 og 330';return true">
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME="volpart" VALUE=B>
+<INPUT TYPE=hidden NAME="vol" VALUE=XIX>
+<INPUT TYPE=hidden NAME=form_name VALUE=page>
+<P><INPUT TYPE="button" VALUE="Hent" onClick=pagetest(page_go,st.value)></CENTER>
+</FORM>
+</TABLE><P>
+<TABLE BGCOLOR="cadetblue" cellpading=0 cellspacing=0 border=0 width=100%>
+<TD>
+<FONT SIZE=1 FACE="ARIAL">
+Lokal S&oslash;gning:
+
+<FORM METHOD=POST ACTION="http://www.webcom.com/cgi-bin/glimpse" tppabs="http://www.webcom.com/cgi-bin/glimpse" NAME="mysearch">
+<CENTER><INPUT TYPE=text NAME="glimpse_search" SIZE = 15 MAXLENGTH=40>
+<INPUT TYPE=hidden NAME="glimpse_fileset" VALUE=www/online/XIX/B/# >
+<INPUT TYPE=hidden NAME="glimpse_show_lines" VALUE=on>
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME=glimpse_directory VALUE=www/online>
+<INPUT TYPE=hidden NAME=glimpse_rec_delim VALUE="">
+<INPUT TYPE=hidden NAME=glimpse_type VALUE="">
+<INPUT TYPE=hidden NAME=glimpse_not_matched VALUE="Søgningen gav intet resultat - prøv igen!">
+<INPUT TYPE=hidden NAME=glimpse_header VALUE="www/online/header.html">
+<P>Lang format: <INPUT TYPE=checkbox NAME="format" VALUE="YES" onclick="if (format.checked) {self.status='Søgeresultat vises i lang format (afsnit)';return true} else {self.status='Søgeresultat vises i kort format (linje)';return true}"> 
+<BR>Exact match: <INPUT TYPE=checkbox NAME="match" VALUE="YES" onclick="if (match.checked) {self.status='Vælg exact match, hvis du kender det præcise ord. ';return true} else {self.status='Fravælg exact match, hvis du ønsker at søge på en del af et ord.';return true}"> 
+<P><INPUT TYPE="button" VALUE="Søg" onClick=gosearch(mysearch)> <P>
+</FORM></CENTER>
+</TABLE><HR>
+<CENTER><A HREF="XIXB_M~2.HTM" tppabs="http://www.webcom.com/sk/online/XIX/xixb_main.html" target="main_page"><B>Titelblad</B></A>
+<HR>
+<CENTER><A HREF="../../../../tppmsgs/msgs13.htm#1345" tppabs="http://www.webcom.com/sk" TARGET=_top><IMG SRC="../BANNER.GIF" tppabs="http://www.webcom.com/sk/online/banner.gif"></A></CENTER>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

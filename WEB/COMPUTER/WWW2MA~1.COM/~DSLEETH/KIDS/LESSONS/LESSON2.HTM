@@ -1,0 +1,148 @@
+	<html><head><title>
+Computer Lessons for Kids and Small Adults
+	</title></head>
+	<body background="IMAGES/RIPBL6.JPG" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/ripbl6.jpg">
+	<blockquote>
+	<a href="../../../../tppmsgs/msgs29.htm#2901" tppabs="http://www2.magmacom.com/~dsleeth/sitetoc.htm"><img border=0 src="../../BUTTONS/SITE_O.GIF" tppabs="http://www2.magmacom.com/~dsleeth/buttons/site_o.gif"></a><br>
+	<a href="../../../../tppmsgs/msgs29.htm#2902" tppabs="http://www2.magmacom.com/~dsleeth/kids/logo/logotoc.htm"><img border=0 src="../../BUTTONS/LOGO_O.GIF" tppabs="http://www2.magmacom.com/~dsleeth/buttons/logo_o.gif"></a>
+	<center>
+	<img src="IMAGES/RIBBON.GIF" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/ribbon.gif">
+   <h1>
+Computer Lessons for Kids and Small Adults
+	</h1>
+	<h2>
+Lesson 2
+	</h2></center>
+   <h3>
+The DOS Operating System
+	</h3>
+	<h4>
+I think that people,&nbsp; who were forced to find their way around computers
+running the MS-DOS operating system,&nbsp; are at an advantage because they know
+what files are and where they live.&nbsp;&nbsp;  Operating environments such as Windows
+and the MAC try to cover up these details,&nbsp; making it harder to learn what really
+is going on.
+	<p>
+Picture yourself sitting at a computer with just the DOS prompt on the screen.&nbsp;&nbsp;
+The DOS prompt usually looks like this <tt><font size=5> C:> </font></tt>.&nbsp;&nbsp;  Did you know that
+there is a program running?&nbsp;&nbsp;  Well,&nbsp; yes there is,&nbsp; it's the disk operating system,&nbsp; DOS.&nbsp;&nbsp;
+It's busy doing what it does best,&nbsp; which is waiting for you to tell it what to do.
+	<p>
+So you slide up to your trusty input device,&nbsp; the keyboard,&nbsp; and you type a word,&nbsp;
+say <tt><font size=5> dor </font></tt> and then you press <tt><font size=5>Enter</font></tt>.&nbsp;&nbsp;
+Before talking about what happens next,&nbsp; let's look at what just happened.
+	<p>
+Each time you pressed a letter,&nbsp; it actually did go to the computer,&nbsp; because it appeared
+on the output device,&nbsp; the monitor.&nbsp;&nbsp;  If you follow the wires,&nbsp; you see that the
+only way to get to the monitor from the keyboard is through the computer!&nbsp;&nbsp;
+	<p>
+So,&nbsp; we learned something,&nbsp; DOS really is running because somehow the action of pressing a
+certain key on the keyboard input device,&nbsp; resulted in a letter being printed in
+the proper location on the screen output device!&nbsp;&nbsp;  That is actually
+ quite a feat,&nbsp; and computers
+had been around a long time before a program could do that.&nbsp;&nbsp;  The fact that DOS
+puts the character whose key was just pressed on the screen is called <i>echoing</i>
+and it's done <i>only</i> as a convenience to you,&nbsp; the user.&nbsp;&nbsp;  And they say that DOS is
+not <i>user friendly</i>!
+	<p>
+DOS also knows enough not to try to interpret what you have typed until you press the
+<tt><font size=5>Enter</font></tt> key,&nbsp; indicating you are finished.&nbsp;&nbsp;
+  There is nothing magical
+about the <tt><font size=5>Enter</font></tt> key,&nbsp; it is just another key,&nbsp; but one that the
+DOS program,&nbsp; and many other programs,&nbsp; have been programmed to recognize as
+<i>"OK,&nbsp; I'm finished inputting,&nbsp; you figure out what I input."</i>.
+	<p>
+Okay,&nbsp; so now DOS has three letters in a row,&nbsp; in computer terms called a <i>string</i>.
+The DOS program has a list of steps to follow when it receives a string from the keyboard.
+	<p>
+   <dd>
+   <img src="IMAGES/BLTBLUE.GIF" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/bltblue.gif">
+Check to see if it is a command you recognize.&nbsp;&nbsp; If yes,&nbsp; then do it.&nbsp;&nbsp;
+	<p>
+   <dd><img src="IMAGES/BLTBLUE.GIF" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/bltblue.gif">
+If not,&nbsp; then check to see if there is a file in the current directory that ends
+in <tt><font size=5>.com</font></tt> or <tt><font size=5>.exe</font></tt> or <tt><font size=5>.bat</font></tt>
+but has the same first part,&nbsp; such as <tt><font size=5>dor.com</font></tt>
+or <tt><font size=5>dor.exe</font></tt> or <tt><font size=5>dor.bat</font></tt>.&nbsp;&nbsp;  If there
+is,&nbsp; then get a copy of that file from the long term storage device
+and into the short term storage,&nbsp; the RAM,&nbsp; and run the program.
+	<p><dd>
+   <img src="IMAGES/BLTBLUE.GIF" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/bltblue.gif">
+If there is no such file in the current dir,&nbsp; then look in each directory that DOS
+has in a list of directories called the Path.&nbsp;&nbsp; If you can find such
+ a file,&nbsp; then,&nbsp; again,&nbsp;
+pull it into RAM and run it (called executing the file).
+	<p>
+   <dd>
+   <img src="IMAGES/BLTBLUE.GIF" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/bltblue.gif">
+If DOS has taken all of these steps and still can't interpret what you want,&nbsp;
+then,&nbsp; using the monitor output device,&nbsp; tell the user <tt><font size=5>'Bad command or file name'</font></tt>.
+	<p>
+Just be thankful that the computer wasn't given boots as an output device,&nbsp; because
+a kick in the shins would be more appropriate,&nbsp; after sending the poor thing on such
+a wild goose chase!
+	<p>
+So,&nbsp; one thing we've learned is that <tt><font size=5>dor</font></tt>
+is a pretty meaningless word to both DOS and us!&nbsp;&nbsp;  Now try
+ typing <tt><font size=5>dir</font></tt>
+	<p>
+Hey,&nbsp; that's better.&nbsp;&nbsp;  <tt><font size=5>dir</font></tt> is
+ a command that DOS knows,&nbsp; and it means <i>"list
+all the files and directories that are in the current directory."</i>
+	<p>
+Now,&nbsp; when you see <tt><font size=5>'Bad command or file name'</font></tt>
+ after telling DOS to do something,&nbsp;
+you don't have to just sit there with this confused look on your face.&nbsp;&nbsp;
+On the logical side of your brain you can figure out why you got that
+ouptut instead of the one you were expecting.&nbsp;&nbsp;
+If you had typed the name of a program,&nbsp; say <tt><font size=5>wp</font></tt>
+ and were expecting to start-up Word Perfect,&nbsp; but
+received that friendly <tt><font size=5>'Bad command or file name'</font></tt>
+ instead.&nbsp; then you can go over in your head
+exactly what DOS had tried to do.
+	<p>
+First,&nbsp; it checked to see if <tt><font size=5>wp</font></tt>
+ was a command it recognized - no it wasn't.&nbsp;&nbsp;
+Then it looked for <tt><font size=5>wp.com</font></tt> or
+<tt><font size=5>wp.exe</font></tt> or <tt><font size=5>wp.bat</font></tt> in its
+current directory,&nbsp; the directory
+the operating system was left in.&nbsp;&nbsp;  If it was there,&nbsp; DOS would
+ have grabbed the file off the hard drive
+and put a copy in the RAM.&nbsp;&nbsp;  But it wasn't there.&nbsp;&nbsp;
+ Then DOS looked in all the directories
+that are listed in its path variable.&nbsp;&nbsp;  You can see what directories
+it looks in by giving DOS
+the command <tt><font size=5>path</font></tt>.&nbsp;&nbsp;
+[ <i>Giving DOS the command <tt><font size=5>path</font></tt>
+means typing <tt><font size=5>path</font></tt> at the dos prompt <tt><font size=5> C:> </font></tt>
+and pressing <tt><font size=5>Enter</font></tt></i> ].&nbsp;&nbsp;  DOS spits out the
+ list of directories it has been told to look in.&nbsp;&nbsp;
+It didn't find such a file there,&nbsp; so it told you so.
+	<p>
+DOS can be a lot of fun to program,&nbsp; and is actually an excellent place to start
+<i>real</i> programming.&nbsp;&nbsp;  My daughter started with
+MicroWorlds Project Builder (Logo)
+and then we did some DOS programs and now she's writing small C++ programs.&nbsp;&nbsp;
+	<p>
+If there are enough people interested in these <i>Computer Lessons for Kids and
+Small Adults</i>,&nbsp; then I'll teach how to do a little DOS programming.
+	<p>
+If you have comments,&nbsp; good or bad,&nbsp; please
+email <a href="mailto:dsleeth@magmacom.com">dsleeth@magmacom.com</a>
+	<p>
+
+	<h3>
+   <img align=middle src="IMAGES/LESS_TAG.GIF" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/images/less_tag.gif"><a href="LESSON3.HTM" tppabs="http://www2.magmacom.com/~dsleeth/kids/lessons/lesson3.htm">
+Lesson 3 - Files,&nbsp; the overview
+	</a></h3>
+	<a href="../../../../tppmsgs/msgs29.htm#2901" tppabs="http://www2.magmacom.com/~dsleeth/sitetoc.htm"><img border=0 src="../../BUTTONS/SITE_O.GIF" tppabs="http://www2.magmacom.com/~dsleeth/buttons/site_o.gif"></a><br>
+<a href="../../../../tppmsgs/msgs29.htm#2902" tppabs="http://www2.magmacom.com/~dsleeth/kids/logo/logotoc.htm"><img border=0 src="../../BUTTONS/LOGO_O.GIF" tppabs="http://www2.magmacom.com/~dsleeth/buttons/logo_o.gif"></a>
+	</blockquote>
+	</body>
+	</html>
+
+
+
+
+
+

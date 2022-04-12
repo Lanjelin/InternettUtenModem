@@ -1,0 +1,62 @@
+<HTML>
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+
+var goodBrowser='';
+
+function NavTest() {
+   if(navigator.userAgent.indexOf("Mozilla/3.0") != -1) {
+	goodBrowser='y';
+   }
+}
+
+function resetImg(){
+   changeImg('karta1',0)
+   changeImg('utr1',1)
+   changeImg('vader1',2)
+   changeImg('orter1',3)
+   changeImg('mag1',4)
+   changeImg('lin1',5)
+   changeImg('resor1',6)
+}
+
+function changeImg (section,x) {
+
+  with (top.window.location) {
+	baseURL = href.substring (0,href.lastIndexOf ("/") + 1)
+  }
+
+  imgURL = "icon3/" + section + ".gif";
+  onMouseOver=parent.frameb.document.images [x].src = imgURL
+}
+
+function karta () { return false;}
+function utr ()   { return false;}
+function vader () { return false;}
+
+function orter () { return false;}
+function mag1 ()  { return false;}
+function lin1 ()  { return false;}
+function resor () { return false;}
+
+</SCRIPT>
+
+</HEAD>
+<BODY bgcolor=#000000>
+
+<A Href="SNOWEB~2.HTM" tppabs="http://www.snoweb.se/snowebsn.html" target=framec><IMG SRC="ICONENG/SNOWEB.GIF" tppabs="http://www.snoweb.se/iconeng/snoweb.gif" WIDTH=95 HEIGHT=46  BORDER=0><BR>
+<a href="../tppmsgs/msgs0.htm#1" tppabs="http://www.torget.se/" target=_top>
+<IMG SRC="ICONENG/SPONSOR.GIF" tppabs="http://www.snoweb.se/iconeng/sponsor.gif" WIDTH=95 HEIGHT=58  BORDER=0></a><BR>
+<A Href="../tppmsgs/msgs0.htm#2" tppabs="http://193.14.104.231/resort/countrys.html?name=sweden" target=framec><IMG SRC="ICONENG/KARTA.GIF" tppabs="http://www.snoweb.se/iconeng/karta.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+<A HREF="GUIDE~1.HTM" tppabs="http://www.snoweb.se/guide.html" target=framec><IMG SRC="ICONENG/PGUIDES.GIF" tppabs="http://www.snoweb.se/iconeng/pguides.gif" WIDTH=95 HEIGHT=39 BORDER=0></A><BR>
+<A Href="../tppmsgs/msgs0.htm#3" tppabs="http://193.14.104.231/gear/gear.html"  target=framec><IMG SRC="ICONENG/UTRUST.GIF" tppabs="http://www.snoweb.se/iconeng/utrust.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+
+<A Href="../tppmsgs/msgs0.htm#4" tppabs="http://193.14.104.231/weather/weather.html"  target=framec> <IMG SRC="ICONENG/VADER.GIF" tppabs="http://www.snoweb.se/iconeng/vader.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+<A Href="../tppmsgs/msgs0.htm#2" tppabs="http://193.14.104.231/resort/countrys.html?name=sweden" target=framec><IMG SRC="ICONENG/ORTINDEX.GIF" tppabs="http://www.snoweb.se/iconeng/ortindex.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+<A Href="MAGAZINE/INDEX~1.HTM" tppabs="http://www.snoweb.se/magazine/index.html" target=framec><IMG SRC="ICONENG/MAGAZINE.GIF" tppabs="http://www.snoweb.se/iconeng/magazine.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+<A Href="../tppmsgs/msgs0.htm#5" tppabs="http://193.14.104.231/chat/chat.html" target=framec><IMG SRC="ICONENG/CHAT.GIF" tppabs="http://www.snoweb.se/iconeng/chat.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+<A Href="../tppmsgs/msgs0.htm#6" tppabs="http://193.14.104.231/travel/index.html"  target=framec><IMG SRC="ICONENG/RESOR.GIF" tppabs="http://www.snoweb.se/iconeng/resor.gif" WIDTH=95 HEIGHT=29 BORDER=0></A><BR>
+<A HREF="../tppmsgs/msgs0.htm#7" tppabs="http://193.14.104.231/games/games.html" target=framec><IMG SRC="ICONENG/SPEL.GIF" tppabs="http://www.snoweb.se/iconeng/spel.gif" WIDTH=95 HEIGHT=28 BORDER=0></A><BR>
+<A HREF="../tppmsgs/msgs0.htm#8" tppabs="http://193.14.104.231/" target=_top><IMG SRC="../193141~1.231/TRAVEL/IMAGE/ENGLAND.GIF" tppabs="http://193.14.104.231/travel/image/england.gif" border=0 hspace=18 vspace=7></A>
+</BODY>
+</HTML>

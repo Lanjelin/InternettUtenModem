@@ -1,0 +1,104 @@
+
+From bobrankin@mhv.net Wed Oct 30 02:58:21 1996
+Date: Wed, 30 Oct 1996 02:44:56 -0500
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 29 Oct 1996 - You Are Here!
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |   WOODY's OFFICE WATCH - check out this great FREE    |//////|    |
+ |   weekly guide to the wonders of Microsoft Office.    |//////|    |
+ |    mailto:OHWOW@TMX.NET   http://www.wopr.com         |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+           TODAY'S TOURBUS STOP: Interactive Maps
+
+Recently I saw a classified ad for a used car, which of course listed
+a contact phone number.  Since I'm naturally curious, I wondered if
+there was a way to use the Internet to find out something about the
+owner of that car before dialing the number.
+
+Turns out there was... and the technology is pretty exciting.  More
+and more, cyberspace and the "real world" are becoming one, as folks
+add services that make it possible to query based on phone number
+and physical addresses via the Web.
+
+Before we go further in today's tour, I'd like to encourage a little
+detour to the people that made it possible.  Aardwulf has a really
+cool online store that'll knock your socks off.  But that's not a
+problem, they sell socks and a whole lot more.  :-)
+
++--------------------------------------------------------------------+
+     AARDWULF Apparel offers quality brands like Timberland and
+        Calvin Klein at prices you can only get on the Web!
++--------------------( http://www.aardwulf.com )---------------------+
+
+So there I was, phone number in hand.  I remembered that there was this
+nifty thingamajig (I'll try to avoid any more technical terms, sorry) at
+http://phone.yahoo.com that lets you enter a phone number and see the
+name and address of the person with that number.
+
+Tappity, tappity, click... and bingo!  I had an address for the car
+seller.  Now I could pop over and see the car without even calling the
+owner first, heh heh.  But "Boynton Lane" sounded pretty far out in the
+boonies - it sure would be nice to find that on the map.
+
+Being an Internet kind of guy, I pondered for a nanosecond about
+pulling out my tattered paper map but thought better of it.  Too much
+of an 80's thing, and I was never very good at origami.  A few more
+clicks took me to...
+
+Interactive Maps at http://www.mapblast.com
+-------------------------------------------
+
+...which is a very cool place, because you can get street maps for most
+any U.S. address (European maps are coming soon).  And best of all, you
+don't have to fold the darn thing when you're done.
+
+MapBlast lets you type in a street address and city name, then presents
+you with a detailed interactive map of the area.  It even puts a little
+red "X" right on the spot you're after.
+
+The first time you try this, you will be amazed.  You can even pan or
+zoom in to get a closer look.  I'm fully expecting that any day now,
+they'll hook this thing up to a live satellite video camera so you can
+see the dog barking in the back yard of the house you've located.  :-)
+
+It's really not outside the realm of possibility, and just imagine how
+that could revolutionize the way we shop for houses, plan vacations or
+well, enough pie in the sky for now...
+
+Just for kicks, I tried "8500 63rd Avenue North" in "Brooklyn Park, MN"
+to see if I could find the Aardwulf building, since they listed the
+address on their web site. Hey there it is, right between Xylon and
+Zealand Avenues!
+
+MapBlast is smart enough to find what you're after even if you spell
+the street name wrong, and you can also send a map to a friend by e-mail.
+You can find instructions there to add a map to your web site, which
+could give a new whole meaning to the phrase "home page".
+
+See you next time.  --Bob
+
+========================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=----------------------------------------------------------------------=
+                       For info on my new book
+       -->  "Doctor Bob's Painless Guide To The Internet"  <--
+     send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+      or visit my home page at http://csbh.mhv.net/~bobrankin
+               Pop in and read a few sample chapters!
+========================================================================
+
+      TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

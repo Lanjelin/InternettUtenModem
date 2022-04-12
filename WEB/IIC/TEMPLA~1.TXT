@@ -1,0 +1,582 @@
+=========================== cut here v1.1==================================
+DOMAIN TEMPLATE
+
+domain:         
+descr:          
+descr:          
+descr:          
+descr:          
+admin-c:      
+zone-c:		
+tech-c:
+bill-c:         
+nserver:	
+remarks:	
+nserver:	
+remarks:	
+changed:        
+source:         RIPE
+
+PERSON TEMPLATE (for admin-c)
+
+person:         
+address:        
+address:        
+address:        
+phone:          
+fax-no:         
+e-mail:         
+nic-hdl:        
+changed:	
+source:         RIPE
+
+PERSON TEMPLATE (for zone-c)
+
+person:         
+address:        
+address:        
+address:        
+phone:          
+fax-no:         
+e-mail:         
+nic-hdl:        
+changed:	
+source:         RIPE
+
+PERSON TEMPLATE (for tech-c)
+
+person:         
+address:        
+address:        
+address:        
+phone:          
+fax-no:         
+e-mail:         
+nic-hdl:        
+changed:	
+source:         RIPE
+
+PERSON TEMPLATE (for bill-c)
+
+person:         
+address:        
+address:        
+address:        
+phone:          
+fax-no:         
+e-mail:         
+nic-hdl:        
+changed:	
+source:         RIPE
+
+Ich erklaere hiermit, die Vergabebedingungen vollstaendig gelesen und
+akzeptiert zu haben:
+
+                 [ ]  ja          [ ]  nein      (bitte ankreuzen "X")
+
+
+=========================== cut here ======================================
+2) Vergabebedingungen:
+----------------------
+
+
+Zur Erlangung eines im Internet weltweit eindeutigen Domainnamens ist
+die Registrierung dieses Domainnamens notwendig:
+
+Die EUnet EDV Dienstleistungs GmbH verwaltet die Second-Level 
+Domain "CO.AT". Die hier dokumentierten Regeln gelten ausschliesslich 
+fuer die Vergabe von Domains innerhalb der Domain "CO.AT". 
+
+Dieses Antragsformular und die darin enthaltenen Regeln und Ablaeufe sind
+solange gueltig, bis sie durch eine neuere Version dieses Formulars
+ersetzt werden.
+
+Die aktuelle und gueltige Version ist unter
+           http://www.Austria.EU.net/template-co-at.txt
+abgelegt. Es gilt diese deutsche Originalversion, alle anderen Versionen
+haben lediglich Informationscharakter.
+
+
+Voraussetzungen und Bedingungen:
+--------------------------------
+
+Die Veroeffentlichung der Daten in der RIPE-Datenbank und in im Internet
+gebraeuchlichen Dokumentationsstellen muss vom Antragsteller akzeptiert
+werden.
+
+Alle Eintraege erfolgen in gutem Glauben auf die Rechtmaessigkeit des
+Anspruchs. Bei Unstimmigkeiten zwischen zwei Parteien muss eine Einigung
+eigenstaendig zwischen den beiden Parteien gefunden werden;
+die Vergabestelle der betreffenden Domain dient nicht als Schlichtungsstelle.
+Bei Streitfaellen wird lediglich die Kontaktinformation des Inhabers einer
+bereits bestehenden Domain weitergegeben, da diese Informationen ohnehin
+oeffentlich dokumentiert sind.
+
+Der Antragsteller hat selbst dafuer zu sorgen, dass keine Rechtsverletzung
+in der Verwendung des Namens vorliegt. Insbesonders Marken- und
+Musterschutzrecht sind vom Antragsteller selbst zu beachten.
+Die Vergabestelle kontrolliert nicht, ob es einen Widerspruch zur aktuellen
+Rechtslage gibt.
+Bei augenscheinlichen Konflikten koennen Antraege allerdings von der
+Vergabestelle unmittelbar abgelehnt werden, wobei seitens der Vergabestelle
+keine Verpflichtung zur Bekanntgabe des Ablehnungsgrundes besteht.
+
+Aus der Delegation des Domainnamens sind keine weiteren Rechte ableitbar.
+
+Es besteht kein Anspruch, seitens des Antragstellers, genau einen bestimmten
+Domainnamen zugeteilt zu bekommen. Es besteht lediglich der Anspruch auf
+Zuteilung eines eindeutigen Domainnamens.
+
+Es werden lediglich Domains ("NS Records") delegiert, eine Eintragung von
+speziellen DNS Records (z.B.: "MX", "CNAME") ist nicht moeglich.
+
+Ein Domainname muss RFC konform sein und darf nur Buchstaben ("a ... z"),
+Ziffern ("0 ... 9") und Bindestrich ("-") enthalten. Gross- und
+Kleinschreibung wird nicht unterschieden.
+Der Name muss mindestens einen Buchstaben enthalten und darf nicht mit
+Bindestrich beginnen oder enden. Weiters darf der Name nicht mit einer
+Ziffer beginnen.
+
+Es werden unter "CO.AT" keine Domains mit weniger als drei Zeichen oder
+andere, zum Zeitpunkt der Antragstellung gueltige, Top-Level Namen
+(z.B.: "com", "edu") vergeben.
+
+
+3) Administrative Abwicklung:
+-----------------------------
+
+Kontaktinformationen:
+---------------------
+
+		hostmaster@Austria.EU.net
+
+		EUnet EDV Dienstleistungs GmbH
+		z.Hd. Hostmaster
+		Diefenbachgasse 35
+		A-1150 Wien
+		Fax:	ab 1. 2. 97 +43 1 899 66 566,
+			bis dahin +43 1 310 69 26
+
+
+Bankverbindung:
+---------------
+
+Eine Bezahlung erfolgt ausschliesslich durch Ueberweisung des Betrages auf:
+
+		Konto Nr.: 0427 02662 00
+		bei: Creditanstalt BV
+		BLZ: 11000
+		lautend auf: EUnet / Domainabrechnung
+
+
+Stellen eines Antrages:
+-----------------------
+
+Der ausgefuellte Antwortteil des domain-templates ist an die oben
+angefuehrte Kontaktadresse zu senden. Der Weg mittels Email ist dabei
+bevorzugt, wobei im Subject-Feld "DOMAIN-ANTRAG <domain>" angegeben werden
+sollte.
+Die Antraege werden maschinell bearbeitet und pro Email wird nur EIN
+Domain-Template verarbeitet.
+Sollte allerdings Email nicht verfuegbar sein, werden Antraege auch via
+Fax oder Brief akzeptiert.
+Ein Antrag gilt erst dann gestellt, wenn der Antwortteil an der
+Vergabestelle eingelangt ist UND wenn darin keine syntaktischen oder
+semantischen Fehler enthalten sind. Anderenfalls wird der Antrag (Antwortteil)
+mit entsprechenden Fehlermeldungen zurueckgesendet, der Antrag gilt dann
+als nicht gestellt.
+
+
+Rechnung und Vergabe:
+---------------------
+
+Die Delegation der Domain wird in der Reihenfolge des 
+Antrag-Eingangs durchgeführt und danach wird der Antragsteller benachrichtigt. 
+Nach der Delegation werden von der Vergabestelle die Kosten in 
+Rechnung gestellt.
+Der Rechnungempfaenger ist die als bill-c angegebene Person.
+Die Rechnung muss innerhalb von 14 Tagen ab Rechnungsdatum beglichen 
+werden, andernfalls wird die Delegation deaktiviert.
+Durch die Eintragung in die Nameserver fuer die Domain "CO.AT" ist die
+Delegation aktiv und die Domain gilt als "vergeben".
+
+
+Mitteilungen ueber Aenderungen:
+-------------------------------
+
+Alle Aenderungen im Domain-Template sind der Vergabestelle unverzueglich
+zu melden.
+Administrative Aenderungen sind kostenfrei.
+Aenderungen der Nameserverkonfiguration sind mit der Vergabestelle
+abzusprechen und werden explizit in Rechnung gestellt.
+
+
+Gueltigkeit der Delegation:
+---------------------------
+
+Die Delegation erfolgt prinzipiell auf unbestimmte Zeit. Fuer den
+laufenden betrieblichen Aufwand sind Jahresgebuehren zu entrichten, die
+gesondert in Rechnung gestellt werden.
+
+Rueckgabe einer Domain:
+------------------------
+
+Eine Rueckgabe einer Domain kann jederzeit erfolgen, wobei eine
+Verstaendigung durch die als admin-c angegebene Person erfolgen muss.
+Ein Anspruch auf Rueckverguetung nicht ausgeschoepfter Gebuehren besteht
+nicht.
+
+
+Widerruf einer Delegation:
+--------------------------
+
+Die Delegation kann nach schriftlicher Benachrichtigung der unter admin-c
+angegebenen Kontaktperson unter folgenden Bedingungen von der Vergabestelle
+widerufen werden:
+
+          - Die Jahresgebuehr wurde nicht beglichen
+          - Aufgrund wiederholter technischer Probleme mit dieser Domain
+            (z.B.: Nameserver sind nicht funktionsfaehig)
+          - Auf Gerichtsbeschluss
+          - Auf Anweisung einer Behoerde aufgrund gesetzlicher Grundlagen
+          - Faellige Rechnungen wurden nicht beglichen
+
+
+4) Nameserver:
+--------------
+
+Es muessen zumindest zwei korrekt aufgesetzte Nameserver angegeben werden.
+Die Angabe im Domain-Template muessen mit der technischen Konfiguration
+exakt uebereinstimmen. Der Antragsteller hat die laufende Verfuegbarkeit
+aller angegebenen Nameserver sicherzustellen.
+Auf Anfrage besteht die Moeglichkeit einen secondary Nameserver gegen
+Kostenersatz bei der EUnet einrichten zu lassen.
+
+5) Kosten:
+----------
+
+Folgende Betraege werden fuer jede Domain in Rechnung gestellt:
+
+   - Delegation:                                          ATS 1720.- / Domain
+     Dieser Betrag enthaelt die Jahresgebuehr fuer das erste Jahr
+
+   - Jahresgebuehr:                                       ATS 720.- / Jahr
+     Als Stichtag gilt das Datum der Vergabe der Domain.
+
+   - fuer jede Aenderungen der Nameserverkonfiguration:   ATS 750.-
+
+
+   Zusatzservice der EUnet:
+
+   - secondary Nameserver:
+	Einrichtung:	                                  ATS 2000.- / Domain
+	Jahresgebühr:					  ATS 835.- / Jahr
+
+Die Preise verstehen sich in ATS exklusive Ust.
+
+6) Technische Informationen:
+----------------------------
+
+Erklaerung der Objects:
+-------------------------
+
+
+domain:
+        Beantragter Domainname
+
+        Format: voller Domainname, ohne "." am Ende des Namens.
+        Angabe: notwendig
+
+        Beispiel:
+                  domain: example.co.at
+
+descr:
+        Kurzbeschreibung der Domain, Organisation und Ort.
+        Die volle Postadresse ist nicht notwendig, da die Adresse Bestandteil
+	der Objekte fuer die referenzierten Kontaktpersonen ist.
+
+        Format: freier Text, es sind mehrere Zeilen erlaubt.
+        Angabe: notwendig
+        Beispiel:
+                  descr:   Example GmbH
+                  descr:   Handel mit Waren aller Art, A-1234 Wien
+
+admin-c:
+        Verweis ("Handle") auf die fuer die beantragte Domain administrativ 
+	verantwortliche(n) Kontaktperson(en). 
+	Die administrative Kontaktperson MUSS Angehoeriger der Institution
+	sein, fuer die die Domain beantragt wird.
+
+        Als Verweis wird der NIC-Handle (RIPE-Handle) eines bereits in der
+	RIPE-Datenbank vorhandenen Personen-Objektes oder die spezielle
+	Kennung AUTO-n (siehe Beispiele) verwendet. 
+
+        Format: xxxnnn-RIPE
+	Format: xxxnnn
+        Angabe: notwendig, es sind mehrere Zeilen erlaubt.
+        Beispiel:
+                  admin-c: SPT1-RIPE
+
+zone-c:
+        Verweis ("Handle") auf die Kontaktperson(en) fuer technische
+	Belange der beantragten Domain. Das ist jene Person, die bei
+	Nameserverproblemen (u.ae.) angesprochen werden kann.
+
+        siehe admin-c.
+
+tech-c:
+        Verweis ("Handle") auf die Kontaktperson(en) fuer technische
+	Netzwerkangelegenheiten.  Das ist jene Person, die bei
+	Netzwerkproblemen angesprochen werden kann.
+
+        siehe admin-c.
+
+bill-c:
+        Verweis ("Handle") auf die fuer die Abrechnung zustaendige Person. 
+	Das ist jene Person, an die die Rechnung geschickt wird. Bei fehlendem
+	bill-c wird der admin-c als fuer die Abrechnung zustaendig angenommen.
+
+        siehe admin-c.
+
+nserver:
+remarks:
+        Paarweise, Liste der Nameserver fuer die beantragte Domain. 
+	Das erste Zeilenpaar MUSS den Primary DNS beschreiben.
+        
+        Format: DNS Name und IP-Adresse des Nameservers. 
+	        nserver: DNS-Name
+		remarks: IP-Adresse
+		         sind immer paarweise anzugeben.
+        Angabe: zumindest 2 Paare notwendig, mehrere Zeilenpaare moeglich
+        Beispiel:
+                  nserver:  ns1.example.at
+                  remarks:  10.140.23.2
+		  nserver:  ns2.example.at
+		  remarks:  192.168.14.2
+
+changed:
+	Identifikation der letzten Aenderung des Objekts.
+	Electronic Mail Adresse und Datum der letzten Aenderung,
+	wobei das Datum im Format YYMMDD anzugeben ist.
+	Beispiel:
+		changed: peter.muster@nowhere.com 970104		
+
+	
+-----------------------------------------------------------------------
+person:
+        Vorname Initialen Familienname
+        Vorname und Familienname sind notwendig und duerfen nicht abgekuerzt
+	werden. 
+	Intialen sind optional (ohne "." fuer die Abkuerzung) erlaubt.
+	Anreden und Titel werden in der RIPE-Datenbank nicht gespeichert 
+	und sind daher wegzulassen.
+
+        Format: Vorname Familienname
+	Format: Vorname I Familienname
+        Angabe: notwendig
+        Beispiel:
+                  person: Walter Kunft
+		  person: Spider T Woman
+
+
+address:
+        Volle ortsuebliche Postadresse
+        Es sind alle fuer die Zustellung eines Briefes notwendigen
+	Informationen anzugeben.
+
+        Format: mehrere Textzeilen
+                Postleitzahl und Ort in der vorletzten Zeile
+                Land in der letzten Zeile
+        Angabe: notwendig, mehrere Zeilen
+        Beispiel:
+                  address:   Example GmbH
+                  address:   Kaerntnerstrasse 25
+                  address:   A-1010 Vienna
+                  address:   Austria
+
+phone:
+        Telefonnummer
+	Es sind die Landeskennzahl und die regionale Vorwahl, die volle
+	Teilnehmernummer und etwaige Nebenstellenziffern im internationalen
+	Format (in einer Zeile, die Felder durch 1 Leerzeichen getrennt)
+	anzugeben.
+
+        Format: +Landeskennung Vorwahl Teilnehmer Nebenstelle
+        Angabe: notwendig, mehrere Zeilen moeglich
+        Beispiel:
+                  phone: +43 1 123456 777 
+
+fax-no:
+        Nummer des Telefax-Anschlusses
+
+	Format: +Landeskennung Vorwahl Teilnehmer Nebenstelle
+	Angabe: optional, mehrere Zeilen moeglich
+	Beispiel:
+		  fax-no: +43 1 123456 99
+
+e-mail:
+        Electronic Mail Adresse
+
+        Format: Angabe im "Domain" Format (RFC822 et.al.),
+                soweit moeglich ohne Sonderzeichen wie "!", "%", "::")
+        Angabe: optional, mehrere Zeilen moeglich
+		obwohl die Angabe einer Electronic Mail Adresse nicht formal
+		notwendig ist, wird die (nachtraegliche) Angabe dringendst
+		empfohlen!
+
+	Beispiel:
+                  e-mail:    Peter.Muster@example.at
+
+
+nic-hdl:
+        NIC-Handle oder RIPE-Handle entsprechend einer bestehenden
+	Eintragung in einem Personen-Objekt in der RIPE-Datenbank. 
+	Besteht noch keine Eintragung, so ist eine spezielle Eintragung der
+	Form AUTO-n einzutragen (siehe Beispiele)
+
+        Format: NIC-Handle Format
+                oder AUTO-1, bzw. AUTO-2, AUTO-2, AUTO-n
+        Angabe: notwendig
+        Beispiel:
+                 nic-hdl: SPT1-RIPE
+
+
+remarks:
+        Kommentar
+
+        Format: freier Text
+        Angabe: optional, mehrere Zeilen moeglich
+        Beispiel:
+                  remarks: RIPE coordinator Northern Nowhere
+
+changed:
+	Identifikation der letzten Aenderung des Objekts.
+	Electronic Mail Adresse und Datum der letzten Aenderung,
+	wobei das Datum im Format YYMMDD anzugeben ist.
+	Beispiel:
+		changed: peter.muster@nowhere.com 970104		
+
+
+
+=================================================================
+7) Beispiele:
+-------------
+
+
+
+Beispiel A)
+
+Das folgende Beipiel geht davon aus, dass die genannten Personen (admin-c,
+zone-c, tech-c) bereits in der RIPE-Datenbank registriert sind und die
+Eintragungen dem aktuellen Stand entsprechen. Die bestehenden Eintragungen 
+lassen sich mittels "whois -h whois.ripe.net <expr>" in der RIPE-Datenbank
+abfragen, wobei <expr> fuer einen Namen oder ein Handle steht.
+
+DOMAIN TEMPLATE
+
+domain:         example.co.at
+descr:          Example, Handel mit Waren aller Art
+descr:          A-1010 Wien, Austria
+admin-c:        SPT1-RIPE
+zone-c:         WW144
+tech-c:         GW13-RIPE
+bill-c:		SPT1-RIPE
+nserver:        ns1.example.at
+remarks:        0.0.0.0
+nserver:        ns2.example.at
+remarks:        0.0.0.0
+source:         RIPE
+
+
+Beispiel B)
+
+Sollten Angaben zu bereits in der RIPE-Datenbank registrierten Personen zu
+aktualiseren sein, so sind dafuer die ausgefuellten Personen-Objekte
+anzugeben - diese werden dann im Zuge der Domain-Delegation an die
+RIPE-Database weitergeleitet.  Das folgende Beispiel zeigt die Anforderung
+eines Update fuer den admin-c:
+
+DOMAIN TEMPLATE
+
+domain:         example.co.at
+descr:          Example, Handel mit Waren aller Art
+descr:          A-1010 Wien, Austria
+admin-c:        SPT1-RIPE
+zone-c:         WW144
+tech-c:         GW13-RIPE
+bill-c:		SPT1-RIPE
+nserver:        ns1.example.co.at
+remarks:        0.0.0.0
+nserver:        ns2.example.co.at
+remarks:        0.0.0.0
+source:         RIPE
+
+PERSON TEMPLATE
+
+person:         Spider T Woman
+address:        Vienna University
+address:        Basement, Rack 12, topmost shelf
+address:        Universitaetsstrasse 7
+address:        A-1010 Vienna
+address:        Austria
+phone:          +43 1 4065822
+fax-no:         +43 1 4065822 170
+e-mail:         Domain-Admin@CC.UniVie.ac.at
+nic-hdl:        SPT1-RIPE
+source:         RIPE
+
+
+Beispiel C)
+
+Wenn (eine) Kontaktperson(en) erstmalig zu registrieren ist/sind, so sind
+dafuer die ausgefuellten Personen-Objekte anzugeben. Die Kennzeichnung der
+Zugehoerigkeit der einzelnen Personen-Objekte zu admin-c:, zone-c: oder
+tech-c: erfolgt mit Kuerzeln der Form AUTO-1, AUTO-2, AUTO-3,...
+
+DOMAIN TEMPLATE
+
+domain:         example.co.at
+descr:          Example, Handel mit Waren aller Art
+descr:          A-1010 Wien, Austria
+admin-c:        AUTO-1
+zone-c:         AUTO-2
+tech-c:         AUTO-2
+bill-c:		AUTO-1
+nserver:        ns1.example.co.at
+remarks:        0.0.0.0
+nserver:        ns2.example.co.at
+remarks:        0.0.0.0
+source:         RIPE
+
+
+PERSON TEMPLATE
+
+person:         Franz Meier
+address:        Example GmbH
+address:        Kaerntnerstrasse 25
+address:        A-1010 Wien
+address:        Austria
+phone:          +43 1 123456 789
+fax-no:         +43 1 123456 111
+e-mail:         meier@mail.example.co.at
+nic-hdl:        AUTO-1
+source:         RIPE
+
+PERSON TEMPLATE
+
+person:         Peter Muster
+address:        Example GmbH
+address:        Kaerntnerstrasse 25
+address:        A-1010 Wien
+address:        Austria
+phone:          +43 1 456789 123
+fax-no:         +43 1 456789 111
+e-mail:         muster@mail.example.co.at
+nic-hdl:        AUTO-2
+source:         RIPE
+
+
+
+
+
+

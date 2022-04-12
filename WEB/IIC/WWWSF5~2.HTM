@@ -1,0 +1,326 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>WWW Security FAQ: Safe Scripting in Perl</title>
+</head>
+
+<body>
+<H1>The World Wide Web Security FAQ</H1>
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF4~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html">Backward to <cite>CGI Scripts</cite></a>
+  <li><A HREF="WWWSF6~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html">Forward to <cite>Server Logs and Privacy</cite></a>
+</ul>
+<HR>
+
+<H1><A NAME="perl">7. Safe Scripting in Perl</A></H1>
+
+<H2><A NAME="Q42">Q42: How do I avoid passing user variables through a shell when
+     calling exec() and system()?</A></H2>
+
+In Perl, you can invoke external programs in many different ways.  You
+can capture the output of an external program using backticks:
+
+<pre>
+   $date = `/bin/date`;
+</pre>
+<p>
+You can open up a pipe to a program:
+
+<pre>
+   open (SORT, " | /usr/bin/sort | /usr/bin/uniq");
+</pre>
+You can invoke an external program and wait for it to return with
+system():
+
+<pre>
+   system "/usr/bin/sort &lt; foo.in";
+</pre>
+or you can invoke an external program and <EM>never</EM> return with exec():
+<pre>
+   exec "/usr/bin/sort &lt; foo.in";
+</pre>
+
+All of these constructions can be risky if they involve user input
+that may contain shell metacharacters.  For system() and exec(),
+there's a somewhat obscure syntactical feature that allows you to call
+external programs directly rather than going through a shell.  If you
+pass the arguments to the external program, not in one long string,
+but as separate members in a list, then Perl will not go through the
+shell and shell metacharacters will have no unwanted side effects.
+For example:
+
+<pre>
+   system "/usr/bin/sort","foo.in";
+</pre>
+
+You can take advantage of this feature to open up a pipe without going
+through a shell.  By calling open on the magic character sequence
+<CODE>|-</CODE>, you fork a copy of Perl and open a pipe to the copy.  The child
+copy then immediately exec's another program using the argument list
+variant of exec().
+
+<pre>
+   open (SORT,"|-") || exec "/usr/bin/sort",$uservariable;
+   while $line (@lines) {
+     print SORT $line,"\n";
+   }
+   close SORT;
+</pre>
+
+To read from a pipe without opening up a shell, you can do something
+similar with the sequence <CODE>-|</CODE>:
+<PRE>
+   open(GREP,"-|") || exec "/usr/bin/grep",$userpattern,$filename;
+   while (&lt;GREP&gt;) {
+     print "match: $_";
+   }
+   close GREP;
+</PRE>
+These are the form of open() you should use whenever you would otherwise
+perform a piped open to a command.
+
+<p>
+An even more obscure feature allows you to call an external program
+and lie to it about its name.  This is useful for calling programs
+that behave differently depending on the name by which they were
+invoked.
+
+<p>
+The syntax is
+
+<pre>
+   system $real_name "fake_name","argument1","argument2"
+</pre>
+
+For example:
+
+<pre>
+   $shell = "/bin/sh"<BR>
+   system $shell "-sh","-norc"
+</pre>
+
+This invokes the shell using the name "-sh", forcing it to behave
+interactively.  Note that the real name of the program must be stored
+in a variable, and that there's no comma between the variable holding
+the real name and the start of the argument list.
+<p>
+
+There's also a more compact syntax for this construction:
+<pre>
+   system { "/bin/sh" } "-sh","-norc"
+</pre>
+
+<HR>
+
+<H2><A NAME="Q43">Q43: What are Perl taint checks?  How do I turn them on?</A></H2>
+
+As we've seen, one of the most frequent security problems in CGI
+scripts is inadvertently passing unchecked user variables to the
+shell.  Perl provides a "taint" checking mechanism that prevents you
+from doing this.  Any variable that is set using data from outside the
+program (including data from the environment, from standard input, and
+from the command line) is considered tainted and cannot be used to
+affect anything else outside your program.  The taint can spread.  If
+you use a tainted variable to set the value of another variable, the
+second variable also becomes tainted.  Tainted variables cannot be
+used in eval(), system(), exec() or piped open() calls.  If you try to
+do so, Perl exits with a warning message.  Perl will also exit if you
+attempt to call an external program without explicitly setting the
+PATH environment variable.
+
+<p>
+You turn on taint checks in version 4 of Perl by using a special
+version of the interpreter named "taintperl":
+
+<pre>
+   #!/usr/local/bin/taintperl
+</pre>
+In version 5 of perl, pass the -T flag to the interpreter:
+
+<pre>
+   #!/usr/local/bin/perl -T
+</pre>
+
+See below for how to "untaint" a variable.
+
+<HR>
+
+<H2><A NAME="Q44">Q44: OK, I turned on taint checks like you said.  Now my script
+     dies with the message: "Insecure $ENV{PATH} at line XX" every
+     time I try to run it!</A></H2>
+
+Even if you don't rely on the path when you invoke an external
+program, there's a chance that the invoked program might.  Therefore
+you need to include the following line towards the top of your script
+whenever you use taint checks:
+
+<pre>
+   $ENV{'PATH'} = '/bin:/usr/bin:/usr/local/bin';
+</pre>
+
+Adjust this as necessary for the list of directories you want
+searched.  It's <EM>not</EM> a good idea to include the current directory
+(".") in the path.
+
+<HR>
+
+<H2><A NAME="Q45">Q45: How do I "untaint" a variable?</A></H2>
+
+Once a variable is tainted, Perl won't allow you to use it in a
+system(), exec(), piped open, eval(), backtick command, or any
+function that affects something outside the program (such as unlink).
+You can't use it even if you scan it for shell metacharacters or use
+the tr/// or s/// commands to remove metacharacters.  The only way to
+untaint a tainted variable is by performing a pattern matching
+operation on it and extracting the matched substrings.  For example,
+if you expect a variable to contain an e-mail address, you can extract
+an untainted copy of the address in this way:
+
+<pre>
+   $mail_address=~/([\w-.]+\@[\w-.]+)/;
+   $untainted_address = $1;
+</pre>
+<HR>
+
+<H2><A NAME="Q46">Q46: I'm removing shell metacharacters from the variable, but Perl
+     still things it's tainted!</A></H2>
+
+See the answer to the question <A HREF="#Q45">above</A>.  The only way to
+untaint a variable is to extract substrings using a pattern matching operation.
+
+<HR>
+
+<H2><A NAME="Q47">Q47: Is it true that the pattern matching operation
+     <CODE>$foo=~/$user_variable/</CODE> is unsafe?</A></H2>
+
+A frequent task for Perl CGI scripts is to take a list of keywords
+provided by the remote user and to use them in a patttern matching
+operation to fetch a list of matching file names (or something
+similar).  This, in and of itself, isn't dangerous.  What is dangerous
+is an optimization that many Perl programmers use to speed up the
+pattern matching operation.  When you use a variable inside a pattern
+matching operation, the pattern is recompiled every time the operation
+is invoked.  In order to avoid this expensive recompilation, you can
+provide the "o" flag to the pattern matching operation to tell Perl to
+compile the expression once:
+
+<pre>
+    foreach (@files) {<BR>
+       m/$user_pattern/o;<BR>
+    }
+</pre>
+Now, however, Perl will ignore any changes you make to the user
+variable, making this sort of loop fail:
+
+<pre>
+    foreach $user_pattern (@user_patterns) {
+       foreach (@files) {
+          print if m/$user_pattern/o;
+       }
+    }
+</pre>
+To get around this problem Perl programmers often use this sort of
+trick:
+
+<pre>
+   foreach $user_pattern (@user_patterns) {
+      eval "foreach (\@files) { print if m/$user_pattern/o; }";
+   }
+</pre>
+
+The problem here is that the eval() statement involves a user-supplied
+variable.  Unless this variable is checked carefully, the eval()
+statement can be tricked into executing arbitrary Perl code.  (For
+example of what can happen, consider what the eval statement does if
+the user passes in this pattern: <CODE>"/; system 'rm *'; /"</CODE>
+
+<p>
+The taint checks described above will catch this potential problem.
+Your alternatives include using the unoptimized form of the pattern
+matching operation, or carefully untainting user-supplied patterns.
+In Perl5, a useful trick is to use the escape sequence \Q \E to quote
+metacharacters so that they won't be interpreted:
+
+<pre>
+   print if m/\Q$user_pattern\E/o;
+</pre>
+<HR>
+
+<H2><A NAME="Q48">Q48: My CGI script needs more privileges than it's getting as user
+     "nobody".  How do I run a Perl script as suid?</A></H2>
+
+First of all, do you really need to run your Perl script as suid?
+This represents a major risk insofar as giving your script more
+privileges than the "nobody" user has also increases the potential for
+damage that a subverted script can cause.  If you're thinking of
+giving your script root privileges, think it over extremely carefully.
+
+<p>
+You can make a script run with the privileges of its owner by setting
+its "s" bit:
+
+<pre>
+   chmod u+s foo.pl
+</pre>
+
+You can make it run with the privileges of its owner's group by
+setting the s bit in the group field:
+
+<pre>
+   chmod g+s foo.pl
+</pre>
+
+However, many Unix systems contain a hole that allows suid scripts to
+be subverted.  This hole affects only scripts, not compiled programs.
+On such systems, an attempt to execute a Perl script with the suid
+bits set will result in a nasty error message from Perl itself.
+
+<p>
+You have two options on such systems:
+
+<OL>
+  <LI> You can apply a patch to the kernel that disables the suid bits
+       for scripts.  Perl will detect these bits nevertheless and do the suid
+       function safely.  See the Perl faq for details on obtaining this
+       kernel patch.  This faq can be found at:
+
+       <p>
+       <A HREF="tppmsgs/msgs6.htm#631" tppabs="ftp://rtfm.mit.edu/pub/usenet-by-group/comp.lang.perl/">
+       ftp://rtfm.mit.edu/pub/usenet-by-group/comp.lang.perl/
+       </A>
+
+       <p>
+  <LI> You can put a C wrapper around the program.  A typical wrapper
+       looks like this:
+
+       <pre>
+       #include &lt;unistd.h&gt;
+       void main () {
+       execl("/usr/local/bin/perl","foo.pl","/local/web/cgi-bin/foo.pl",NULL);
+       }
+       </pre>
+
+       After compiling this program, make it suid.  It will run under its
+       owner's permission, launching a Perl interpreter and executing the
+       statements in the file "foo.pl".
+</OL>
+
+<p>
+Another option is to run the server itself as a user that has
+sufficient privileges to do whatever the scripts need to do.  If
+you're using the CERN server, you can even run as a different user for
+each script.  See the CERN documentation for details.
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF4~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html">Backward to <cite>CGI Scripts</cite></a>
+  <li><A HREF="WWWSF6~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf6.html">Forward to <cite>Server Logs and Privacy</cite></a>
+</ul>
+<HR>
+<address>Lincoln D. Stein, lstein@genome.wi.mit.edu<br>
+<a href="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">Whitehead Institute/MIT Center for Genome Research</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 19 23:11:21 MET 1996
+<!-- hhmts end -->
+</body> </html>

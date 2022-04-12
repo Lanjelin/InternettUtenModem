@@ -1,0 +1,2495 @@
+The RPG Times
+Jan. 1, 1997.
+Vol. 2 Issue #1
+
+Table of Contents:
+--------------------------------------------------------------------------------
+IRPS President's Note       Michael Popovich (mlp26745@pegasus.cc.ucf.edu)
+Editor's Note               Karen Mizeri  (kmizeri@pris.bc.ca)
+IRPS Monthly Update         Bryan E. Manahan (sidereal@epix.net) 
+Letters to the Editor
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+Rambling Thoughts           Kosala Ubayasekara (d96-kub@nada.kth.se)
+The Top Ten                 John "BJ" Tomkins  (gr8dm@acronet.net)
+MaBarry's Amusings          Meera Barry (mabarry@abwam.com)
+Shocalogical Observations   Shocalog of Vulcan (rbarret@neo.lrun.com)
+Dragon Tales                H.W. Brennan (bcdefghi@gte.net)
+The Wyrm's Vault            Mark Eismendi (umeismen@cc.umanitoba.ca)
+Real Fantasy                Bill Truglio (Llium02@sprynet.com)
+Incoming Thoughts           Juan Camilo Rozo (jcr@geocities.com)
+Issues in RPG's             Jason J. Neigh (dude@isrv.net)
+
+--------------------------------------------------------------------------------
+Role Playing Aids
+--------------------------------------------------------------------------------
+Necklace of Raindrops       Jon Reed (jonreed@bigfoot.com)
+Black Lizardmen             Irving Galvez (egalvez@coreo.tamnet.com.mx)
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+The Assassins               Tim Elford (shade@tusc.com.au) AND
+                            Goran Zidar (goran@elf.aust.com)
+Fireside Chat               John "BJ" Tomkins  (gr8dm@acronet.net)
+                            Submitted by:  Lisa Mizeri (lmizeri@westlink.net)
+A Long Time Ago, In A       Jim Millington (raider@interlog.com)
+Galaxy Far Away...
+Dragon's Fire               Paul Johnson (Archm10361.aol.com)
+
+--------------------------------------------------------------------------------
+Members Announcements:
+--------------------------------------------------------------------------------
+Subject:PBEM Director
+Subject: Associate Club and RPGA Director
+Subject: Wanted: Authors
+Subject: Paranoia meets Call of Cthulhu
+Subject: Seeking Roleplayers
+--------------------------------------------------------------------------------
+The RPG Times Staff List
+Guidelines for Submissions
+Legal Disclaimer
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+President's Note
+Michael Popovich (mlp26745@pegasus.cc.ucf.edu)
+--------------------------------------------------------------------------------
+Hello Everyone, once again, I'm here to inform you of how the club is
+progressing.  This newsletter marks the one year anniversary of IRPS.  A
+year ago the club started out with approximately 10 or so members, but since
+then, our club has grown to approximately 1500 people.
+
+To mark this date, IRPS has updated it's web page.  We went ahead and killed
+off the frames and updated certain sections which needed to be updated.
+Furthermore, we're going to start updating the page on a monthy basis.  About
+ten new RPG links will be added in each month.  So, whenever you have any free
+time, stop by and take a look at the new IRPS page.
+
+Michael
+
+--------------------------------------------------------------------------------
+Editor's Note
+Karen Mizeri (kmizeri@pris.bc.ca)
+--------------------------------------------------------------------------------
+     Greetings and Holiday Wishes to you all.  We have had a phenomenal response
+to the magazine, and I am pleased to present many new writers this month.  As
+ever, the staff of the RPG Times gets together regularly on the
+nemesis.acronet.net server, on Monday nights at 9:30 EST.  The channel is #IRPS
+and I encourage anyone who would is interested in the magazine, or just wants
+to chat to drop by.  I also want to remind everyone that classifieds in the
+magazine are free, there has been many questions on that lately.  Submissions
+can be mailed to me at (kmizeri@pris.bc.ca)  -they must meet the submission
+guidelines.  I will no longer be accepting articles that do not, they will be
+promptly returned until they do meet the guidelines.  If you need a copy of
+these you can E-mail me or see the section at the end of the newsletter.
+
+Best Wishes for the New Year,
+
+Karen Mizeri
+
+--------------------------------------------------------------------------------
+IRPS Update
+Bryan Manahan (sidereal@epix.net)
+--------------------------------------------------------------------------------
+New service for IRPS members :
+
+        The IRPS is creating an FTP archive for RPG related materials that our
+members can access.  For now, we will archive large RPG related documents,
+binary executables of original RPG related programs, and graphics files which
+are relevant to either of the above ( maps, for example, if you write an
+adventure ). All submissions must meet our guidelines before we consider your
+material for our site.  Materials found to be unsuitable, or that do not meet
+the guidelines will be rejected.
+
+Guidelines governing the FTP Archive site for IRPS members:
+
+1. Acceptable material:
+
+*RPG related documents which are too large to be considered as an article.
+
+*Original RPG related executable programs which are of some use to the role-
+playing community.
+
+*Graphics files only if they are relevant to an associated document or
+executable program.
+
+2. Copyright :
+
+*Items sent to us must not infringe upon any existing copyright.  If you are in
+doubt about what you want to send to us, DON'T send it.
+
+*Items sent to us must have a standard disclaimer stating use of any potentially
+copyrighted material.
+
+*By sending us your documents and programs, you agree to accept full and total
+responsibility for any copyright violations which your document or program may
+incur.  You also agree to release the IRPS and its affiliates from any and all
+responsibility for difficulties and damages caused by your materials.
+
+3. We will not place submissions on our site if they contain the following
+material:
+    pornographic descriptions, references, or pictures
+    vulgar language
+    plagiarized material
+
+4. The way its got to be :
+    Documents must be in one of the following formats; any that are not, will
+be refused.  Document files may be *.zip compressed with pkzip or WinZip before
+sending.
+        == ASCII text (DOS Text or Windows 95 Notepad)
+        == Windows Write or Windows 95 WordPad
+        == Microsoft Word for Windows 2.0, 6.0
+        == WordPerfect 4.2, 5.0, 5.1, 6.0, 6.1
+
+    Tables and charts submitted in Microsoft Excel v. 5.0 or before are acceptable.
+    Programs should include the *.exe and all requisite affiliated files, as well
+as a *txt file that explains what the program does, what it is used for, and how
+to use it, in a single *.zip file.
+    Graphics must be either *.jpg, *.gif, *.pcx, or *.bmp and included with the
+    files which they are associated.
+
+ 5. General :
+   *All submissions are expected to be in English, and have good spelling and
+    grammar.  It doesn't have to be perfect, but at least readable and
+    understandable.
+   *If the submissions editor cannot open your file to read it, it will not be
+    used.
+   *If you do not use PC Eudora as your mailer, attached files should be encoded
+    with MIME or BinHex.  If it is encoded in any other format, it will decode
+    as garbage, and will be relegated as such.
+   *File extensions ; We ask that you try to make our job a little easier by
+    using standard file extensions for your documents.  The standard extensions
+    are as follows :
+       ASCII  -  *.txt
+       Windows Write / WordPad  -  *.wri
+       Microsoft Word  -  *.doc
+       WordPerfect  -  *.wpd
+       Microsoft Excel  -  *.xls
+
+Submissions should be sent to the Archives Submission Editor Bryan Manahan at
+(sidereal@epix.net)
+
+   Please include "Archive Submission" somewhere in the subject of the message,
+as the members of our editorial staff receive many messages a day, and this
+will help ensure that your submission is properly processed.
+
+
+Disclaimer :
+   The material available through this FTP archive is offered as-is, without
+warranty.  The IRPS staff and its affiliates do not guarantee the suitability
+of any materials contained on the site for use with any particular application
+or system configuration.  By downloading information contained at this site, you
+agree to accept the files at your own risk.  You also agree that the IRPS staff
+and its affiliates are not responsible for any damages, corruption of files, or
+other calamity which may occur as a result of your use of  files downloaded from
+this archive site.
+
+--------------------------------------------------------------------------------
+Letters to the Editor
+--------------------------------------------------------------------------------
+     Here's a little-known fact about the recent release of STAR TREK: 
+FIRST CONTACT I just noticed -- to my disgust.
+     Neal McDonaugh, the actor who plays "Lt. Hawk", was also the actor who 
+played the role of "Neal Henderson" in the 4-hour mini-series CRUEL DOUBT 
+aired by the NBC network in May 1992.  This was a dramatization of the 
+real-life murder of Lieth von Stein of Washington, North Carolina by his 
+stepson Chris Pritchard, who had enlisted two friends (Neal Henderson and 
+James "Moog" Upchurch) to do the actual deed (in 1988).  It was based on 
+the book of the same title by Joe McGinniss.
+     This mini-series was peppered with scurrilous insinuations that the
+three young men were inspired to commit the murder by the Dungeons &
+Dragons role-playing game.  In a police squadroom scene, police
+"investigate" the first-edition ADVANCED DUNGEONS & DRAGONS PLAYERS
+HANDBOOK, uttering sinister quotes from it -- which of course do not exist
+in the real book.  There is also a camera close-up of a piece of artwork
+visibly pasted into the pages of the real book, portraying an orc in
+banded mail with dagger and backpack, to try to tie the game to the
+presence of a knife and backpack at the scene of the crime. 
+     There have only been two instances of a television network falsely 
+portraying a best-selling book in a non-fiction program -- and the AD&D PH 
+was the target in both cases.  [The other one was the CBS television 
+movie "Honor Thy Mother" in April of 1992, dramatizing the identical 
+murder.]
+     McDonaugh portrayed Neal Henderson sharing a dingy motel-room with 
+James Upchurch, plastered with (second-edition) AD&D posters and other 
+assorted games such as HEROQUEST.  When the police break in and 
+interrogate the nervous Henderson, he is seen sweating and fiddling with 
+assorted polyhedral dice, until the "heroic cop" John Crone knocks the 
+dice out of his hand.  As the story unfolds, Henderson appears to have 
+been the "wheel man" for the murder, portrayed as being naively 
+controlled by Upchurch the "dungeon master".
+     It's ironic that an actor who helped to smear an imaginative hobby for 
+millions of viewers ended up landing a role in a film for one of the most 
+enduring and imaginative fictions ever presented on large and small 
+screen.  Since there is some overlap between Star Trek fans and fans of 
+role-playing games, no doubt McDonaugh will get a cool reception at Star 
+Trek conventions. 
+
+Pierre Savoie (ab966@torfree.net)
+
+     Typically of the media, they gleefully sensationalize anything that is not understood by
+the general public.  Since role-players are not an organized group, we have a difficult time
+defending ourselves.  It is the hope of this editor that The RPG Times can do it's part in
+debunking the myths that surround role-playing, and educate people to the truth - that it is a
+wonderful hobby for people with active imaginations.  
+                                                   Karen
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Rambling Thoughts
+Kosala Ubayasekara (d96-kub@nada.kth.se)
+--------------------------------------------------------------------------------
+                      - Boo! I said.. -
+
+        The trees thin out as you approach the clearing.  A fire burns merrily
+in the middle and a small bearded man stands with his back to you, warming
+his hands on the heat.  You tap him on the shoulder startling the little man,
+who whirls around,loses his balance and promptly sits on the fire.
+        "Yeoooww!!!!", he jumps up and starts running around the clearing using 
+his hands to extinguish his flaming posterior, and emits a sigh of contentment
+when finally he succeeds.
+
+        Assuming a look of intense indignation he charges at you yelling,
+        "You inconsiderate lummox! I, the great and powerful magi Earl Munster,
+invite you to my campfire and you repay me by scaring me half to death and
+burning my backside."  He suddenly slaps his forehead violently. "Scared me?
+Of course, I was supposed to tell you about fear."  That being decided he
+suddenly forgets his rage and motions you to sit beside him.  Rubbing his aching
+forehead he says,
+        "I have of late seen many a Game Master aspire to instill fear in his
+adventurers, and fail miserably.  So in my great generosity I have invited YOU
+to a lesson on `fear' so that you may learn the true art of ...", the great
+Earl Munster hesitates as if at a loss for a proper phrase, "... scaring
+people."  To teach you this lesson will come none other than the master of fear
+himself, Death.
+
+        No sooner are the words out of his mouth than fog begins to gather. The
+surroundings darken and the trees assume an eerie incandescence.  A low shriek
+begins far away and the fog continues to thicken.  A small line of sweat starts
+to trickle down your back and despite the warm summer air you feel strangely
+cold.  A strange chattering noise begins near you and you turn, hardly daring
+to guess what monstrosity might be standing next to you, but you are relieved
+to see that it is only Earl Munster's teeth.  The fog parts in front of you
+and standing there in seven feet of black cloth and carrying a great scythe is
+Death himself.
+
+        Earl Munster emits a low groan and falls to the ground in a dead faint.
+Death seats himself in front of you and assumes a cross legged position.
+        "You did not turn and flee, mortal.", hisses the cloaked figure.  "That
+is good.  There may be some hope for you Game Masters yet."  Another bead of
+sweat trickles uncomfortably down your back.  The apparition that is Death
+continues to speak.  "Now listen well, mortal, and learn."
+
+        "When attempting to frighten your players you must remember first to set
+the mood.  Turn down the illumination to a minimal, or totally if you dare.
+Describe the setting.  Take your time.  The ghosts will wait.  Take a forest
+scene."  You watch as Death motions with his hand and transports you into a
+clearing.  The prone figure of Earl Munster disappears and the clearing doesn't
+seem familiar.
+
+        The figure of Death slowly melts into the air and soon there is only you.
+You hear his voice,
+"The clearing is dark now, with the twilight setting in.  The moon is in the sky
+letting off a pale white light. Shadows begin to move in the trees around you."
+You look around quickly but can't see anything clearly.  Sweat drops freely down
+your body to your feet now in rivulets.  The voice speaks on, "Once the mood is
+set, introduce something familiar to disarm the victim."
+
+        "You hear a twig snap and you spin around to face the sound.  Heart
+pounding, you move toward the sound."  Grasping unconsciously at your waist you
+are surprised to feel the hilt of a sword.  You quickly draw your weapon, 
+moving towards the sound.
+
+        "You hear the sound of a figure moving in the trees right in front of
+you and you wait in anticipation for the first sign of a creature.  Like a bolt
+of darkness something leaps out of the trees and rushes at you."  You yell and
+stumble backwards, almost falling over your own feet in the process.  A deer
+charges past you, frightened of your sudden sound and runs straight across the
+clearing and into the darkness beyond.  You give a small sigh of relief and
+sheathe your sword gingerly.  Now everything is perfect, and the time is right
+to introduce the unexpected."
+
+        An earth-shattering shriek peels the night air.  You whirl around,
+drenched in a cold sweat.  In front of you, on the other side of the clearing,
+is a humanoid figure in a tattered and decaying cloak.  His back hunched so much
+that his head is almost at the level of his knees.  He points one decaying
+hand and a bony finger at you and shrieks again.  Moving at an astonishing pace
+for someone of his stature he charges across the clearing, wielding a staff.
+You backpedal furiously but the creature increases speed and keeps coming.
+You turn and start running.  Crashing through the undergrowth running as fast
+as you can, you can feel the breath coming out of you quickly and you hear the
+creature behind you, near.
+
+        An ill fate hangs over you today, a stray root catches your foot and
+you stumble to the damp ground.  You reel as your foot catches something and
+you hit the ground heavily.  You have only time to roll and face your hunter
+as it comes up on you.  Staff raised to strike, it stands over you, hunched and
+blocking the light of the moon.
+
+        As the creature brings down the staff its cloak falls from it revealing
+its face.  A wild scream escapes you as you look upon the decaying, half-skeletal
+face that so unmistakably resembles your own.
+
+        Screaming, you roll around the ground, hands thrown in front of your
+face, but the blow never falls.  Daring a peek, you realize that the setting has
+changed.  You are back in the clearing which you met Earl Munster, and sure
+enough, he is just coming to his senses.  Death is gone.  Earl Munster stands
+up groggily and looks at you.
+        "My my," he mumbles, "I wonder what happened to me.  Who are you?"  He
+points an old finger at you.  Then before you can answer he tilts his head at
+an angle and seems to look past you, with his mouth in an 'O' shape.  Giving out
+a weak giggle he once again collapses to the ground.  You turn around wondering
+if Death has made a comeback.
+
+        In front of you, on the other side of the clearing, is a humanoid figure in
+a tattered and decaying cloak.
+
+--------------------------------------------------------------------------------
+The Top Ten
+John "BJ" Tomkins  (gr8dm@acronet.net)
+--------------------------------------------------------------------------------
+Character Classes that didn't make it...
+
+10. Disgruntled Mail Carrier.
+9. Beatnik.
+8. Airline Steward.
+7. The guy who gets up and says, "Time to make the donuts."
+6. Public School Teacher.
+5. Bathroom Attendant.
+4. Paladin Cheerleader.
+3. Lance Test Dummy.
+2. Necromancer Heckler.
+
+And the number one Character Class that didn't make it,
+
+1. The Bobbit!
+
+John "BJ" Tomkins
+gr8dm@acronet.net
+http://www.acronet.net/~gr8dm
+
+--------------------------------------------------------------------------------
+MaBarry's Amusings
+Meera Barry (mabarry@abwam.com)
+--------------------------------------------------------------------------------
+Significantly Other
+
+    The snow is falling lightly against my window as I mention that December is
+often not considered the month for a young woman's fancy to turn to thoughts of
+love.  No matter where in the world you are, it is usually the spring that is
+the time where animals and plants alike are renewed, and their prospects
+reviewed for the coming year.
+
+    Now, I, much like many, don't mind snuggling up for warmth under the covers
+with someone who helps share the onerous responsibilities of keeping their half
+of the blanket heated.  This is what got me to thinking...no, not thinking,
+"Chainmail bikinis...now THAT'S what I want to wear in an expedition to the Icy
+Mountains of Doom!", but thinking of just who that snugglesome 'other' might be.
+
+    I often refer to adventurers as pioneers.  They go places that others won't
+go (usually for good reason).  Things happen to them that would never happen to
+average Joe Off-The-Street (again, usually for good reason).  They play with
+powers (both magical, political, and sometimes even pedestrian) that Mr.
+Off-The-Street doesn't always even know EXIST, let alone consort with on a
+first name basis.
+
+    This is not the kind of occupation in which you want to raise a family.
+Sure, the wives of American pioneers were often forced to carry along, make
+rations for their crazy husbands, and maybe, just maybe, luck out and stop
+sleeping in the mire for an eventual mansion.  After all, there are perks, but
+just how far will you go for love?
+
+    Take your average Solo.  Buff, armed to the teeth for stegosaurus.  You've
+accepted the invitation from this Solo of the attractive gender (let alone, in
+fantasy situations, SPECIES) and are sitting in a hot neon grill, somewhere off
+the main street.  You know, the classy little bar where some of the wiz rockers
+occasionally come in to play a smaller venue, and your credstick has to look
+good or the big guy in the back will escort you to the egress?  Yeah, you've
+been there.  You're sitting down, munching on some exquisite soy (the good
+stuff, where the texture is perfect and you might as well be eating REAL cow,
+no matter how the thought disgusts) when the Solo who offered the invitation
+jumps down, pulls you onto the floor, and draws a gun as the window shatters.
+Not because the glass wasn't bulletproof, but because Little Nanny X, the
+mother of the guy your so-called friend gunned down last week recognized that
+jerk who is now swearing under his/her breath, and loading a new clip next to
+you.  You think about the BFR8999 strapped to your boots, and how satisfying
+it would be to wipe that stupid grin off of the Solo's face with it.  Instead,
+you grab the credstick and run, thinking that Cuba is nice this time of year
+and the currency can be converted just down the block.  Do it; it's the most
+profitable part of the evening.
+
+    Animal husbandry jokes aside, a ranger's got just about as many problems
+finding a date on Saturday night.  Your classic fantasy genre woodsman-type
+can't help but have troubles apologizing for why, well, there's a bear in the
+kitchen helping himself, a colony of squirrels running loose about the bedroom,
+and why you have to excuse yourself every time you squeeze by the monstrous
+rhododendron in the foyer.  On the other hand, any good sylvan area has nymphs
+a-plenty.
+
+    A lonely wizard is a terrible thing, especially an honest one.  After all,
+young teenage apprentices have a lot of time to think about that really GOOD
+nymph conjuration spell, and even some 'Items of Technique'.  The apprentice
+years can be rough; you don't have time to go out on dates, and when you do,
+your master often wants you to "... pick up some rotting inkworm parts ..." on
+the way back, or worse, makes you take his or her familiar along as a chaperone.
+Still, these little outings can make a difference in the wizard's social life;
+Little Nanny X might have too many freckles and a silly smile now, but she'll
+be Sorceress X in a few years, and wear those slinky red gowns you love.
+Besides, most evil wizards could use the therapy of someone warm to snuggle up
+with; those enchanted towers can get COLD at night!
+
+TOP TEN WORST PICK-UP LINES...for WIZARDS
+
+10) "Didn't I just see you checking out those fertility spells?"
+ 9) "Is that a prophylactic or a phylactery?"
+ 8) "Are you sure green M&M's are part of the spell?"
+ 7) "Can I convince you to be the victim of a virginity sacrifice?"
+ 6) "Hey, your cat looks familiar...er.."
+ 5) "Didn't I see you dancing naked under last month's full moon?"
+ 4) "You look lovely in that robe.  Um, no, that's nothing, just an X-ray
+    vision spell."
+ 3) "Say, would you like to come over and have me conjure you a drink?"
+ 2) "Would you like to wave my magic wand?"
+ 1) "...hey baby, wanna see my love potion??"
+
+    Amberites can get dates pretty easily, but let me warn you now: an
+individual Amberite can be nice, considerate, even warm under the covers.  It's
+the FAMILY that's the problem.  Organized crime doesn't even come close.  Kin
+and the kindred share a similar outlook on relationships.  You're either Crowley
+(sharing the secrets) or BPS (Blue Plate Special).  It's always good to know
+where you stand in a relationship with various monsters, before you need to
+put more of a stake into it.
+
+    Let's share a moment of pity for the WWGS style werewolves.  While other
+werewolves are usually the only ones who really understand you, your only hopes
+for a family are cruising the zoos.
+
+TOP TEN WORST PICK-UP LINES...for WEREWOLVES:
+
+10) "If you don't come upstairs, I'll just burst out of my clothes right here."
+ 9) "I'd love to see you in the raw."
+ 8) (wolf whistle)
+ 7) "By day I'm a top CEO.. but by night I'm an animal.."
+ 6) "I get even bigger during the full moon."
+ 5) "Hey.. I've had my shots!"
+ 4) "Want something warm and hairy under your covers?"
+ 3) "You look so good I could just eat you up!"
+ 2) "Wanna play 'Little Red Riding Hood'??"
+ 1) "Hey baby! You make me wanna Howwwwwlll.."
+
+    Superheroes have it bad.  Not as bad as Paladins; there you are, snuggling
+near the campfire, while Nanny X, the thief, is juggling knives and keeping
+watch, her eyes somewhere on the horizon.  You wiggle a bit and get a little
+closer, and all of a sudden, just as you notice the Paladin STILL has armor on,
+he or she jumps up and says, "I DETECT EVIL!" and goes off on a quest to battle
+it.  Superheroes at least often have headquarters with all sorts of nifty
+gadgets to keep you occupied while they're off fighting villainous masterminds.
+
+    Being dead can also be a problem.  The best you can hope for is looking for
+someone who might want to jump your bones. So much for leaving the flesh behind;
+ectoplasm is not an aphrodisiac by any measure.  About the best you get from
+poltergeists is some crank calls peppered with heavy breathing.
+
+    Being a Horrible Thing Man Was Not Meant To Know is also kind of a drawback
+when it comes to the snuggles.  After all, if your horror is oft best named;
+man will not know you.  No, not even if you wear 5 inch red heels and bat your
+eyelashes.  My suggestion on that part is to check with Nyarlathotep; he's got
+connections.
+
+    It's getting cold in here, so I will leave off here for another month.
+Next month's thought: what DOES this button do?
+
+--------------------------------------------------------------------------------
+Shocalogical Observations
+Shocalog of Vulcan (rbarret@neo.lrun.com)
+--------------------------------------------------------------------------------
+For a researcher of human behavior and culture like myself, the Internet is an
+invaluable resource.  It serves as a catalog of the subjects considered
+important by prosperous, educated and technically adept humans, and as such
+confirms the suspicions of my sponsors on Vulcan.  The humans of Earth primarily
+exist in material poverty, while those few with access to advanced technology
+primarily exist in intellectual poverty.
+
+Unlike television and talk radio, the Internet has proven valuable in my search
+for subcultures exhibiting a higher than average level of mental functioning.
+One such subculture which merits closer scrutiny is that of role-players.  As
+a superior being, I have no desire to participate in their emotion-driven
+activities, but as an impartial alien it is logical for me to become involved
+in an advisory role.  Considering the significant difference in our mental
+capacities, I recognize my duty to advise role-players who are searching for
+wisdom and perhaps assist them in the attainment of more logical thinking.  To
+that end, I am contributing this monthly column to the electronic magazine,
+The RPG Times.  I do so in full confidence that my revelation of my identity
+as an extraterrestrial will not be taken seriously.  With the advantage of
+invisibility on the Internet, I need not conceal my pointed ears.
+
+While RPG Times appears perfect for contacting relatively advanced humans,
+logic dictates caution.  It may indeed be an enterprise with a continuing
+mission, involving a hierarchic command structure and ethnically diverse crew
+following a prime directive, boldly going where no one has gone before.
+However, other possibilities must be examined.  The following data may be
+enlightening:
+
+1. Secret agents abound on Earth.
+2. Elves, werewolves, and vampires abound on Earth.
+3. Practitioners of magic have immense powers which are used according to
+illogical personal preferences.
+4. Hoaxes abound on the Internet and in other communications media.  Therefore,
+the above data may be incorrect.
+5. The URL of RPG Times indicates an origin in Adelaide, Australia, an
+economically prosperous continental jurisdiction in the southern hemisphere.
+Citizens of prosperous regions typically have more leisure time than average.
+6. Highly intelligent individuals with excess leisure time occasionally
+perpetrate hoaxes to test the mental acuity of others.  When a hoax is
+discovered, it is classified as a work of fiction, a TV talk show, or a role-
+playing game.  When a hoax is unknowingly propagated by the mass media it is
+classified as news.
+
+For example, a radio news program reported on November 27 that the President
+of the United States had issued an official pardon.  The pardoned being was
+not a citizen, nor a resident alien like myself, subject to U.S. law, but a
+large domestic bird.  The bird was then removed from the White House and
+released at a wildlife sanctuary.
+This news report illustrates the prevalence of hoaxes in human society.  
+Obviously no being with mental abilities superior to a large domestic bird 
+would believe such an event could ever happen.  I found it puzzling that no 
+emotional human listeners demanded a retraction of the story on the grounds 
+that it insulted the reputation of the president.  The president is known for 
+above-average intelligence and his partisan supporters should logically have 
+been offended by this blatant hoax.
+
+By logical reasoning I have processed the above data and formulated the
+following hypotheses.  Humans who wish to become more logical should study and
+imitate my methods.
+
+1. Issue 11 of The RPG Times is indeed what it purports to be and the previous
+ten issues actually exist in some form.
+
+The remaining possibilities involve some form of deception.  Verification will
+be difficult, while refutation will be simple.
+
+2. The RPG Times is the work of an individual and all other purported
+contributors are imaginary.  The primary suspect is Michael Popovich.  Secondary
+suspects include all the other names that appear in issue 11.  It is illogical
+to assume that an irrational and egotistical human would expend so much time
+and effort without putting their name somewhere in the completed work.
+3. The RPG Times is the product of a limited conspiracy.  Using pen names, a
+small group may have simulated a larger group with ethnic, regional, and gender
+diversity.  It is likely that such conspirators would have similar demographic
+characteristics and reside in the same area.  Adelaide, Australia is indicated,
+as is the role-playing subculture.  It is also likely that the conspirators are
+males between the ages of 15 and 25, with advanced computer equipment and meager
+social lives.
+4. A wider conspiracy was involved.  Each of the purported individual
+contributions may in fact be the creation of a committee.  Primary suspects
+would include bored college students waiting for the next party, bored airline
+passengers waiting for the next flight, and bored military personnel waiting 
+for the next war.  Secondary suspects include bored vampires, werewolves, elves,
+or some combination thereof.
+
+The above speculations involve a hoax perpetrated for amusement only.
+Possibilities of a more serious nature include the following:
+
+5. The RPG Times is part of an elaborate plot to sabotage the Internet.  I shall
+discuss this subject further in my fifth column.
+6. The RPG Times was created to communicate data to or from secret agents.  The
+tactic of hiding data in plain sight has a long history on Earth.  A variation
+would include the possibility a secret agent infiltrated an existing group of
+role-players in order to publish coded messages.  Speculation on the identity,
+affiliation, and agenda of such secret agents must be curtailed or my own life
+may be endangered.  I may have been warned not to divulge anything I may know
+in this context.  I can not confirm nor deny any such rumor.
+7. The RPG Times was created with magic, by advanced beings with an agenda.
+Such beings could be benevolent, wishing to encourage the use of magic to
+address the multitudinous social problems experienced by registered voters.
+The sudden decline in reports of social problems after November 5, with the
+concurrent rise in the Dow Jones Industrial Average, may indicate the operation
+of powerful magic.  Therefore, The RPG Times may be a type of training manual
+for elected government officials.  Alternatively, the magic-wielding entities
+may be hostile.  Such malevolent beings would logically wish to hinder the use
+of magic by their enemies.  By promoting the publication of inoperative spells
+they would discourage the serious study of magic by intelligent humans, thus
+preventing the research and development of effective spells.  The RPG Times
+would also serve their purposes by furthering the illusion that magic is bogus,
+and only suitable for children's literature and fantasy role playing games.
+These hostile entities may already have succeeded in diverting the public's
+wrath away from themselves by focusing negative human emotions upon peaceful
+visitors from other planets.  The movie "Independence Day" is a perfect example.
+
+8. The RPG Times originated by random chance, without any conscious design or
+purpose.  The fact that it makes sense when read in English can not be taken
+as proof that an intelligent creator was involved.  Humans often rely upon the
+random chance hypothesis to explain the origin of systems as complex as carbon
+based life and the entire universe.  Therefore, they should logically also deny
+the possibility of intelligent design in all systems of lesser complexity.
+Such lower-order systems include corrective lenses, alphabetic script,
+electronic magazines, and the Internet itself.  In other words, The RPG Times
+was a cosmic accident waiting to happen.
+
+Each individual reader can test these hypotheses as I have done, by submitting
+material for publication to the e-mail address indicated.  If the contribution
+is published in a future issue this may be taken as evidence that The RPG Times
+was created as, or is now in the process of becoming, an actual electronic
+magazine, whatever processes and irrational motives may have contributed to its
+origin.
+
+Live long and prosper.
+
+--------------------------------------------------------------------------------
+Dragon Tales
+H.W. Brennan (bcdefghi@gte.net)
+--------------------------------------------------------------------------------
+Villains and Heroes
+
+     A lot of people choose to be one of these. Some are cold hearted some are
+as golden as honey.  But enough of this sap, lets get to the dirt. I interviewed
+villains and heroes or good guys, whichever you prefer.  I found that both
+fighters possess very strong ideas concerning their opponents. 
+     
+     The villains call the heros "Wimps" and refer to them as "The helpless
+little brats, who couldn't fight without help from their little friends."
+Surprisingly, most villains were heroes before they became villains.  They
+found that people didn't respect them as much as they do when they are a
+villain, but villains are evil, so if anyone dares to disrespect them, they
+just strike them so hard they don't know what hit them!  Villains are all
+different from each other. Many of them hold very high opinions of themselves.
+They believe all of the other villains are nothing.  They stand alone, rarely
+working with another villain.  The worst kind of villains are the ones that
+hate everyone and everything.  They will do anything for money and power.
+Villains are the ones who rule the world or at least try to.
+     
+       On the other side are the heroes and heroines. Some heros think that
+"Villains are misunderstood."  Others have no problems with them.  This 'live
+and let live' attitude does not always work, as most villains will find problems
+with the good guys anyway.  For heroes, there are a few draw backs. There is
+not much respect, for starters.  Plus, people don't want to fight you like they
+would if you were a villain.  You usually don't get what you want.  The good
+thing about being a hero is that when you fight you win.  It may take a couple
+tries and the villains might win some of the time, but good will always conquer
+evil.
+ 
+     When asked, the heroes said "they would never want to be a villain, not if
+their life depended on it!"  They really don't care for these bad guys at all.
+The attitude and personalities of heroes and villains are both very different.
+The fight may take place on a high-tech battlefield, but the struggle between
+good and evil appears timeless.  Will these two sides ever see eye to eye
+completely?
+
+Maybe in time or maybe not.
+
+--------------------------------------------------------------------------------
+The Wyrm's Vault
+Mark Eismendi (umeismen@cc.umanitoba.ca)
+--------------------------------------------------------------------------------
+ Night of The Vampire
+
+	A couple years back TSR released a couple compact discs with some of
+their boxed sets (Red Steel was the first I believe). I finally decided
+to buy an adventure that came with one and it was a great purchase. It
+was worked into the module beautifully. As I'm sure most of you figured
+out, the adventure is called Night of The Vampire.
+
+        The adventure is set in the home of a noble Lord Gustav Vandevic in the
+Grand Duchy of Karameikos. The characters find themselves shipwrecked
+near the manor, and are invited in. There is a celebration being
+prepared for the following day. The Lord invites the characters to stay
+for the celebration as honoured guests. He and his wife, Lady Selena,
+host a tournament and masquerade ball for their neice Laina who is to be
+wed. Difficulties arise, however, when egos and old wounds get in the way
+of the festivities. The CD is filled with colourful dialogues which add
+personality and life to the NPCs, while making the DM's job of
+role-playing them much easier.
+
+NOTE: A warning to Player-characters- the rest of this review is for the
+eyes of Dungeon Masters only. It reveals several secrets about the
+adventure and the NPCs which should not be known to the characters. If
+this interests you, notify your DM of it and have them check it out(or
+send them here if they're connected). BTW: if you happen to feel an urge
+to read ahead anyway- Be strong!! Resist temptation!! Your DM isn't
+stupid! If you recommend the adventure to him/her, and then suddenly
+have all the answers they'll never trust you again.
+
+	If you're afraid the compact disc will be too much of an interruption
+to your game, put your fears to rest. The module signals you what track
+will be needed, and even has a quick description of what it contains.
+The tracks don't drag on (most are under a minute) and despite the
+amount of tracks (72 in all), there is little or no jumping around.
+Continuing with the adventure, the first night is uneventful for the
+characters(they sleep after the shipwreck). This is a perfect oportunity
+for the DM to add in anything of his/her own. You may want to work in an
+encounter with one of the guests, so the PCs have something to build off
+of during the celebration,(seasoned PCs shouldn't have any difficulties
+role-playing the dinner and masquerade, but novice role-players may need
+some guidance when interacting with the other guests). 
+
+        The characters are awakened at midday. They are given the option of
+wandering about the house (if theives take advantage of this oportunity,
+use it against the PC's. They are the only strangers so if things go
+missing the other guests won't trust them. That's the punishment for
+disrespecting Gustav's hospitality!), or of skipping ahead to the
+tournament. This is also a good place for the DM to insert an encounter
+if desired. From personal experience, I believe a run-in with Gustav
+just before dawn would be beneficial,(Gustav is the vampire. He tells
+everyone he spends his days in the woods so no one questions his absence
+during the daylight hours.).  I found that the characters heard little or
+nothing of Andru until his "return" after dinner, and felt they then
+received too strong a dose of him. Perhaps if his introduction into the
+story is spread out through the course of the adventure, the PCs will be
+less suspicious of him making it more difficult to point out the real
+villian. 
+
+        The tournament is a chance for some fun. Encourage the PCs to
+participate. Thus far in the adventure there are no villians or threats,
+so it is a good time for the characters to relax and enjoy Gustav's
+hospitality. I personally found the tournament too short, and added
+second and third rounds for the archery and swordsmanship contests.
+During the course of the tournament some tempers will flare, and a
+formal challenge to a duel may be issued to one of the characters. Be
+fore-warned, low-level characters may be low on hit points (especially
+if the swordsmanship contest was expanded). You may want to have Lord
+Gustav send a healer to the characters after the tournament. If not, you
+could be sending some of the low-level characters to your character
+graveyard.
+
+        After the tournament, Lady Selena Vandevic hosts a Tea in the
+greenhouse. This is another opportunity for the PCs to catch wind of the
+many conflicts stirring amidst the nobles. This is also the PCs final
+opportunity to move about the manor freely without missing any of the
+action.
+
+        If Lord Hugo Strolojca had issued a challenge (upset noble from the
+tournament), it would be resolved now before dinner. Be sure to keep an
+eye on the characters' hit points. If at this point they're near death,
+they may not finish the adventure alive (but perhaps as a vampire...).
+After dinner (which is another chance for the PCs to gather
+information), the fast-paced masquerade begins. If the characters are
+mid-level ( 4th- 6th level; any higher and the DM should beef up the
+adventure), you may want to split them up with their own encounters.
+Although this may make the adventure more difficult (it certainly gives
+Andru more opportunities to charm characters. Be careful who you decide
+to charm. Be sure the PC won't blow his cover- mine shouted "What! Don't
+I get a saving throw?!?". You can imagine my disappointment.), it also
+makes the adventure more exciting and rewarding if the characters
+succeed.
+
+	Special Note: During the masquerade the character(s) will encounter
+Andru (they don't know it's him unless they recognize his voice from
+the track). He presents them with a riddle. If the PCs are correct, he
+gives them another. In the second he all but exposes himself as the
+vampire. You may or may not wish to include this second riddle,
+(personally I regret using it). If fact, I recommend that it only be
+used if the PCs are way off track and have no idea of the plottings that
+surround them. Even then, other methods could be used. 
+	After several dialogues with the other guests, one of the nobles will
+launch an attack on Lord Gustav. Set a time limit for the characters to
+react and make the rescue. If they're quick enough reward them, but if
+not, perhaps Lord Gustav and Lady Selena should not survive. This is
+entirely up to the DM. After all, what challenge is there if the
+characters always arrive 'just in the nick of time'. More often than
+not, Time is our enemy.
+
+	By this time the masquerade is nearly over, and it becomes obvious to
+everyone that there is a vampire present in case the PCs didn't know(a
+girl has fang marks on her neck and has lost a lot of blood. Hmmm...).
+However there are four guests who aren't present when the guests gather
+after the attack. It would be much more interesting if the PCs didn't
+know Andru was the vampire yet. If they do, then there is no point in
+searching for the other three guests which throws some red-herrings. The
+rest of the adventure is a man-hunt for the vampire, and a race till
+dawn. If the PCs play it smart, they shouldn't have many encounters
+through the night(although Andru will lauch a fearsome attack before
+dawn). If they seek him out during the night, they could encounter him
+several times, and they might require some divine intervention to
+prevent from becoming vampires themselves. I personally gave the
+characters a saving throw before draining life-force levels. Andru is
+quite powerful if played to his full ability. 
+
+	If the characters accomplish all of their goals, they should be awarded
+well. Gustav and the other nobles will be most grateful and will likely
+give some small reward of their own. Although there aren't many acts in
+the adventure, it can stretch to eight or nine hours so you may want to
+play it in two sessions. Have fun! 
+
+Upcoming reviews: Still working on Players Option:Combat Tactics
+hardcover and my latest purchase, Players Option:Spells & Magic. After
+that, we'll see what I can afford. Of course, if the IRPS could allocate
+some funds my way I could continue with the most up-to-date releases....
+
+[Editor's note - good luck Mark. We are all volunteers around here.  ;) ]
+
+--------------------------------------------------------------------------------
+Real Fantasy
+Bill Truglio (Llium02@sprynet.com)
+--------------------------------------------------------------------------------
+Eat, Drink and Be Merry!
+Holidays in the Fantasy Setting
+
+     With the coming of the holiday season, I thought it best to give an article
+on Holidays. This seems to be a topic overlooked in many fantasy settings, but
+really adds a great deal of flavor to the whole game when used well.
+
+     Holidays have existed throughout history in one form or another. Even 
+though most have some sort of connection with religion, there were often far
+more mundane motivations behind each of these. Even before Christianity came
+along there was a celebration every winter which included gift giving. Likewise,
+there was a celebration at every height of the seasons. It wasn't until later 
+that the connection with the celebration and the religion was formed.
+
+Winter - Before the advent of roads and trade between great distances,
+neighboring communities would trade with each other. One of the most important
+seasons for this trade was the beginning of winter. Entering into the cold
+months without a sufficient store of food stuffs, furs, fuel and livestock, the
+community could suffer terribly.
+
+     To this end, a celebration was held at the beginning of the winter for the
+people of neighboring communities to trade goods. Soon, the trading inevitably
+brought about ties of marriage, alliances and friendship. Once this was
+achieved, an even exchange was no longer required. Thus the trade became gift
+giving.
+
+     Eventually, trade was made possible over great distances and the necessity 
+of trading common goods was no longer required. By this time, however, the gift
+giving season had already fallen into tradition and rooted itself firmly in
+the culture. This brought about a whole new kind of need for this exchange.
+The need to socialize. This drive for humans (and in fantasy settings, demi-
+humans and humanoids), to socialize is universal. Every culture throughout
+history had social activities to tie communities together. Some as simple
+affairs with the sharing of food and drink. Others are grandiose, lasting days
+and including everything from games and contests to the changing of laws.
+
+     In the fantasy setting, there may be even more reasons for smaller 
+communities to join together. Perhaps goblins raid during the winter, and
+villages are forced to pool their resources for safety. Maybe the ice dragons
+in the land have mating rites at that time of year, and all folk come to watch
+as the magnificent beasts wheel and soar overhead in their dizzying display of
+aerobatics.
+
+Spring - Sewing the fields and sheering the sheep were often cause enough for
+a celebration. These fairs were big happenings in medieval times, causing people
+to travel for miles to attend. Young men and women would hire onto a farmer's
+land to help with the work for a few coins of pay. Craftsmen and artisans of all
+kinds would attend to sell their wares. Performers too would gather where ever a
+crowd could be found to glean a few precious coins from the audience.
+
+     Once again, the fantasy setting could provide many more reasons for spring
+celebration. Maybe the community makes a large portion of their capital trading
+rare beasts to outsiders. The spring would be a likely time of year to increase
+the herds. Think of all the excitement a Griffin round up would generate. Or
+maybe the spring is the time for all to go out in the fields to exterminate the
+dangerous creatures that live in the area before they grow to dangerous
+proportions. Wouldn't it be better to eliminate the threat of giant ants,
+ankhegs and bulletes while they were still in the larval stage of development?
+
+Summer - The coming of fair weather and warmer climates gave the common folk a
+chance to travel with fewer hazards. As a result, the summer was full of fairs,
+traveling minstrels and thespians, bazaars and huge caravans. Trade was possible
+over greater distances, and so rare and exotic products would appear in the
+markets and those from smaller communities would make the great trek to the
+nearest city just to see it all.
+
+     The fantasy world may have plenty of other reasons to bring people far from
+home. How about a mage who holds a contest every year for the local wizards.
+A kind of magical Olympics! The local lord could do the same with martial skills
+to find the best warrior in the land. The winner may even gain the honor of
+becoming the lord's personal champion. There could be brewing contests, hunting,
+fishing, beauty contests and any number of others.
+
+Autumn - Harvest time has held a special place in society for thousands of
+years, and there's no reason to restrict this happy occasion to the real world.
+The whole community might spend days reaping the fields and preserving the food
+for the upcoming winter. (and start the cycle all over again) But it doesn't
+always have to be a happy occasion either. Consider a community that raises a
+rare magical herb and the influx of thieves, and mercenaries that would come
+every year at harvest time. How would that effect the community as a whole?
+
+     So you see, celebrations and holidays can be a tool for adding the element
+of reality into the game. Used well and wisely, it's very effective. So go,
+celebrate however you wish this holiday season, and remember what you do and
+why. It's the best way to weave the holidays into your game.
+
+--------------------------------------------------------------------------------
+Incoming Thoughts
+Juan Camilo Rozo (jcr@geocities.com)
+--------------------------------------------------------------------------------
+What is it like Role Playing on other Countries?
+
+        I am almost completely sure that the greatest part of all Americans do
+not know what is it like role playing on other countries. Well, I obviously
+cannot say about absolutely any country, but I think I am able to talk about
+all LatinAmerica. I am Colombian, that means I live just south from Panama
+(In case you are not very sure where Colombia is located). Besides living in 
+Colombia, I have been to Mexico, and I know people from Argentina and 
+Venezuela. Roleplaying here, is a very different thing from roleplaying in 
+the USA. First of all, almost nobody knows any role playing game at all,
+so it is very difficult to find anyone to play with.
+
+        Maybe you are wondering(Maybe not) how come I learned. Well, my brother
+had an American friend, he tought him and my brother tought me. I only know how 
+to play Advanced Dungeons & Dragons 2nd Edition(TM), and the people which I 
+play with are about five. I tought all of them except one who had learned 
+on the only RPG club in Colombia. That is another thing, it is completely 
+useless to know how to play any RPG if you do not have any person to play 
+with.
+
+        That is what Roleplaying in most countries besides USA is, a struggle
+to find someone who teaches you, and yet more people so you can play. It is 
+not easy, afterall, besides there are not many people who know how to play 
+any RPG, there are even less people who know how to speak enlgish, making 
+it even harder for you to play. That is why I am sort of gracefull that 
+things like the IRPS exist, as it simplifies it alot to find alot of useful
+information that I cannot find on my own nation.
+
+Homepage:
+http://www.geocities.com/Hollywood/Hills/1116
+
+
+--------------------------------------------------------------------------------
+Issues in RPG's
+Jason J. Neigh (dude@isrv.net)
+--------------------------------------------------------------------------------
+     Some of you have already heard about the murder in Eustis, Florida, in
+which five teenagers are suspected in the beating death of the parents of one
+member of the group.  The group of teens are believed to be players of the
+White Wolf game,  Vampire: The Masquerade.  That's right, another supposedly
+role-playing related crime.  Now, before I hear that age old whimper that
+always comes up from the role-players at times like these: "But, all role-
+players aren't that way..." , followed by: "the games are as harmless as
+checkers."  (or insert any appropriately popular game...);  I want to challenge
+all of you to take another look at this topic.  Its high time the role-playing
+community, for such we are, takes responsibility for itself, thereby promoting
+a more positive view of gaming in our communities.  For this reason, I give
+you these five responsibilities all I believe all role-players have.
+
+     The first responsibility, and possibly the most important, is to decide
+if the RPG's you play fit the same moral criteria that you use in real life,
+then take action to make them fit.  That's right, I'm being so bold as to say
+that if you don't see it as moral you should not be involved with it.  It is
+better, when defending RPG'S, to believe in what you are defending.  I realize
+that suggesting someone quit playing is extreme; but that is one of the most
+severe ways to change your gaming experience.  A few alternatives are to look
+at other gaming systems (there are many out there, including FREE ones on the
+Internet) or to alter the system you like most to fit your requirements.  Due
+to the personal and spiritual nature to this step, I can only tell you so much
+about this area of role playing responsibility, but I can refer you to wherever
+you seek spiritual guidance.  I also offer to e-mail a few related Bible verses
+to anyone requesting them, and am willing to discuss alternative gaming that
+takes it into account.
+
+     The second responsibility is simply to be alert to the condition of those
+around you and take action where needed.  The mind is a complex place, and
+occasionally people need help; some people have problems that regardless of the
+games can be harmful to themselves or others.  I don't expect that every player
+get a psychology degree, just that they pay a little more attention to the
+people around them and especially for particularly negative changes in their
+personality.  These you'll want to bring to their attention, not in an
+accusative manner, but rather as a supportive friend. I'll warn you - you may
+end up in a situation where you have to ask a friend to quit playing for a
+time.
+
+     The third responsibility is to remember to put your friendships before
+the game.  This doesn't mean that you can't oppose each other in a game, rather
+that you can remain friends in the face of changes.  This may take the shape
+of someone among your players being unable to continue playing the way you
+have.  I'm calling for the maturity to support such a friend in such a
+courageous decision; it takes as much courage to walk out of a game as an
+adult as it does a teen.  Either way, they are a person of conviction and
+strength, treat them as such.  I know its confusing.  I've had a few friends
+come to me with moral dilemmas over gaming.  I didn't understand either, but I
+supported them and call them friends still.
+
+     The fourth responsibility I'm going to mention is your responsibility to
+your local community and the role-playing community.  That is to use the
+imagination, intelligence, and literacy that playing RPG'S has been argued to
+nurture.  What you do with them is up to you, however I would remind you that
+as a role-player, your actions do reflect back onto role-playing and role-
+players, good or bad.  I for one will thank you for any and all positive
+reflections.
+
+     The fifth and final responsibility is the easiest to follow: Have fun.
+Bear in mind however that this is the last responsibility in my list for a
+reason.  By keeping the others in mind we can all enjoy a better gaming
+environment.
+
+     In closing, I would like to state that although I claim no authority
+other than my own experience, I submit these five responsibilities to all of
+you as my recommendations for prolonged enjoyment of role-playing games.  I
+would also like to state my intention to turn this into a monthly column on
+the issues affecting the role-playing community.  However, I could use a
+little help from that community in determining what issues you want to hear
+about. E-mail those to me with a subject line of: RPG Issues and we'll try to
+address them through research and discussion.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Role Playing Aids
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Necklace of Raindrops
+Jon Reed (jonreed@bigfoot.com)
+--------------------------------------------------------------------------------
+The necklace of raindrops is a necklace made of a magically treated metal 
+substance which is to be worn around the neck. It is also magically sizes to
+fit the wearer's neck.  Often found in coastal kingdoms, most commonly on the
+necks of royalty, this necklace gives great power against storms and water.  
+
+The necklace provides more powers the longer it is worn.  It will produce one
+pearl per year on the necklace, so long as someone continues to wear it.  If it
+is taken off for more than 1 turn, the pearls fall off.  Furthermore, the
+pearls fall off if the necklace is transfered from one person to another. The
+pearls cannot be reattached to the magic in the necklace once they are removed,
+except with the use of a "wish" spell.  The pearls are valuable, each worth
+1000gp each, when removed from the necklace.
+
+The following describes the abilities that are gained with each pearl on the 
+necklace:
+
+1 pearl .................... Create Water/2 gallons a day.
+2 pearls.................... Always stay dry in precipitating weather. 
+3 pearls.................... Wearer is immune to lightning, natural only.
+4 pearls.................... Wearer is immune to wind, natural only.
+5 pearls.................... Wearer is able to swim any river and is not         
+                             affected by the strongest current.
+6 pearls.................... Wearer does not get fatigued while swimming, so     
+                             therefore can swim the widest sea.
+7 pearls.................... Can stop it from raining or snowing/3 times a day.
+8 pearls.................... Can make it start raining or snowing/3 times a day.
+9 pearls.................... Walk on water, 6 turn duration/3 times a day.
+10 pearls................... Breathe Water at will.
+
+All these powers are cumulative.  Like all necklaces, it will not function if 
+there is another necklace around the person's neck.
+
+
+--------------------------------------------------------------------------------
+Black Lizardmen
+Irving Galvez (egalvez@coreo.tamnet.com.mx)
+--------------------------------------------------------------------------------
+APPEARANCE AND DRESS:             
+
+  Black Lizardmen are of  6'5" to 7'5" tall.  They have more walking capacity
+than other lizardmen.  Their skin color varies from dark gray to black so it is
+very easy for them to camouflage in the area.  They also can swim in the tar
+but obviously can't breath in it.  They have forgotten their water breathing
+ability.  Like their cousins, black lizardmen have scaled skin, lizard-like
+heads and a long tail, their feet and hands are clawed and have webs between
+their fingers.  They usually wear cloaks and robes but they also are known to
+wear skinned or scaled clothes.
+
+CUSTOMS:
+  Black lizardmen naturally do not trust anyone that aren't their own kind. The
+black lizardmen are also suspicious, but have accepted other races to live with
+them.  The black lizardmen do not change their way of thinking.  They only
+adapt the ideas of other races they deem to be good, and change them into their
+system, into the black lizardmen culture.  They have high respect for the
+family, and so they honor the old and protect the young ones.  They have
+created a new educational system and teach their young lizardmen separately
+from other races children.
+
+  In everyday life black lizardmen act as normal humans do, they trade, work,
+and have fun, but always the work and the study come first. For this reason,
+black lizardmen may advance higher levels than their cousins (Level limits are :
+cleric: 20, fighter and thief: unlimited, magic user: 14).  In this respect,
+the black lizardmen are generally the equal to any other race.  Black lizardmen
+receive an adjustment of +1 to intelligence and wisdom and a -2 in constitution,
+because they place more emphasis on thought and education rather than physical
+strength.  Also the black lizardmen learn an extra language for their high
+intelligence.
+                 
+
+CALENDAR AND HOLIDAYS
+
+  One day a month, the 16 of each, is a day of worship, and thus all work and
+recreational activities are stopped for half the day, and at night, there is a
+grand celebration in the streets of the community.
+
+Given below is the calendar and some important days.
+
+Month (28 days) Holidays
+1  Tunkamunt       1(New Birth Year), 16 (Worship day),  28 (Farming day)
+2  Darkand        16(Worship day), 27 (Dinosaurs day)
+3  Weshedfy        5 (Spektrok foundation), 16 (Worship day), 21 (New Eve Day)
+4  Kartunka       16(Worship day), 20 (Battle of the Reptiles)
+5  Quentikar      16(Worship day), 17 (Annual Tournament Day)
+6  Zsarkanton     13(Slardok XI Birthday), 16 Worship day)
+7  Lazzkor        16(Worship day)
+8  Yazzkantar      1 (Caravans Race day), 16(Worship day)
+9  Kunegunde      16(Worship day), 25 
+10 Torqueshka     16(Worship Anniversary Day), 21 (Death Night Crisom Day)
+11 Zlorkand       16(Worship Day)
+12 Diztenka       28(Old Birth Year) 
+
+  New Birth Year:  is a celebration that all Black Swampers make to honor the
+beginning of the new year.  They make great campfires and the old ones tell
+historical stories of heroes, and how Black Swamp was born.  At midnight they
+all start singing honoring Algotuku Kasquas.
+
+  Farming Day: Algotuku Kasquas has blessed all farmlands and at this day
+magically, all crops are rise up during the night hours.  The next day, the
+Black Swampers build huge altars of fruit and vegetables to honor him.
+
+  Dinosaur Day: Dinosaurs are the best working companion the Black Swampers
+have.  This day all dinosaurs are given freedom.  Generally the Black Swampers
+feed them very well.  It is not uncommon to see some dinosaus in the streets.
+At noon there is a march with decorated dinosaurs, and the one that Slardok XI
+chooses gets 1000 slaraks.
+
+  Spectrok Fundation: This days conmemorize the first black lizardmen that came
+to the Reptile Lands.
+
+  New Eve Day: Spring festival.
+
+  Battle of the Reptiles: In this day many years ago the first black lizardmen
+settlement began to domesticate reptiles and in so doing, they eliminated thier
+only competetion for food and territory.
+  
+  Annual Tournament Day: Black Swampers from all over the country come to the
+capital to show thier skills.  Great prizes are give to the winners and even a
+chance to be in the Folowers of the Spear Order.
+
+  Caravan Race Day: This day, all merchant caravans participate in a big race
+  held on the principal trade highway.  The winner becomes the oficial caravan
+  of Slardok XI for one year.
+
+  Death Night Crisom Day: Similar to the real world Halloween day. 
+
+  Old Birth Year: The end of the year and preparation for the new one.
+                                                                                            
+                                 
+MONEY:
+   
+     In the Black Swamp, trade is not limited to monetary exchange.  The most
+common are described below:
+
+  * Goods Exchange: A barter system where the merchants exchange goods which 
+they produce or have extra for others which they need.
+
+  * Money:  Royal Slarak = Platinum
+            Slarak = Gold 
+            Medium Slar = Electrum
+            Tiny Slar = Silver
+
+  * Signature Money: This is a very special type of money. It is similar to
+credit of the modern technological world, but this can only be used by wealthy
+citizens that earn more than 10000 Slarak a year.  When a black lizardman,
+or any other creature has earned more than 10000 Slarak they can go to the
+royal palace and open a signature money account.  There the Counters (Lizardmen
+that administrate the account) give a special ring seal that the owner can
+validate as a pay.  Then a merchant who is paid with a signed and sealed letter
+of credit can go to the palace and be given money from the account of the
+citizen whose seal appears on the letter of credit.
+
+            
+LAWS
+                                  
+Minor Crimes:                Prison Term             Fine(in Slaraks)
+Assault (Unarmed)            1-3 Months                5-50
+Flight from Guards           1-7 Days                  1-20
+Petty Theft                  6 Month-1 Years          10-60
+Lying to Guards              1-2 Days                  1-10
+Disturbing Public Peace      1 Day                     1-5
+
+Major Crimes:
+Greater Thief                Death
+Murder                       Death
+Tax Evasion                  Death
+Treason                      Death
+Sexual Assault               Death
+
+                                  
+RACES
+                                  
+  These are the races that can be encountered in the Black Swamp.  All races
+are accepted except gatormen.
+
+            1.-  Black Lizardmen
+            2.-  Lizardmen
+            3.-  Humans
+            4.-  Elves
+            5.-  Dwarves
+            6.-  Gnomes
+            7.-  Orcs
+            8.-  Bugbears
+            9.-  Gnolls
+            10.- Goblins
+            11.- Kobolds
+                                  
+                                  
+SOCIAL CLASSES
+                                  
+  Their are several social classes in Black Swamp.  Racial preference plays a
+part but generally, wealth makes the most difference.
+
+            1.-  King
+            2.-  Nobles
+            3.-  Rich Families
+            4.-  Black Lizardmen
+            5.-  Other Races 
+            6.-  Slaves         
+
+CLOTHES
+
+  The black lizardmen like to wear any dark color cloth.  Generally it means
+that they are sophisticated and aristocrats with a high level of preparation
+in educational and cultural knowledge.  Usually the bright colors indicate
+lower level classes because the dark clothes are more expensive and not all
+Black Swamp races can afford it.  The high society wears boots, shoes or
+anything similar, while low society wears sandals or do not use any kind of
+footwear.
+
+
+MILITARY UNIFORMS
+                                  
+  All military uniforms are of dark colors and each color identifies the type
+of military order:
+
+  Military Orders:                 Armor                Color
+
+  Followers of the Spear   Chain Mail Armor +2          Black
+  Heavy Cavalry            Dinosaur Scale Mail Armor    Dark Blue
+  Air Assault              Dinosaur Scale Mail Armor    Dark Purple
+  100 Feet                 Dinosaur Scale Mail Armor    Dark Green
+
+
+NEW ARMOR AND WEAPONS
+                                  
+  Dinosaur Scale Mail Armor: This is a type of armor made from dinosaur scales.
+This results in the armor having a better armor class and it is lighter than
+the normal scale mail. This armor is also waterproof.
+
+  Weight          25 pounds
+  Cost           100 Slaraks
+  Ac Mod.          6 bonus (AC 4)
+
+  Mirror Shield: This is a special shield that in its the part facing the
+  wielder, it has a silver cover that can be use to reflect light.
+
+  Weight          12 pounds
+  Cost            60 Slaraks
+  Ac Mod.          2 bonus
+
+  Flame Thrower Crossbow: This device is very heavy and only can be used by
+characters that have a 18 or greater strength score.  This weapon is similar
+in appearance to a crossbow combined with an arquebus.  It launches a baseball
+size projectile that its specially fabricated to carry an amount of tar on it.
+In the end of the crossbow is a burning wick, so that when the bullet contacts
+the wick as it is fired, the projectile catches fire.  When using the crossbow
+there is a 10% chance that the projectile does not ignite.
+
+  Weight          10 pounds
+  Cost           100 Slaraks
+  Damadge        1d12+special
+  Special dmg    When the bullet hits the target it sets fire to combustibles
+                 which it contacts, and inflicts 4 additional hit points of
+                 damage per round during the next 4 rounds as the tar burns.
+  Penalties      -3 to hit rolls
+
+
+BLACK LIZARDMEN AS PC's
+
+  As stated in 'A WAY OF LIFE', black lizardmen advance in thief and fighter class is unlimited and the cleric and magic
+user are limited. Here I will give the tables of experience points needed for each level.
+
+                           EXPERIENCE
+LEVEL            CLERIC         FIGHTER    THIEF       MAGICUSER
+  1                1500           2200      1200          2200
+  2                3000           4400      2400          4400
+  3                6000           8800      4800          8800
+  4               12000          18000     10000         18000
+  5               25000          32000     20000         36000
+  6               50000          64000     40000         70000
+  7              100000         120000     80000         140000                             8        200000         240000         160000         280000
+  9              300000         360000    240000         420000
+  10             400000         480000    320000         560000
+NEXT LVLS each   100000         120000    800000         140000
+
+NOTE: Level limits for Magic-Users is 14th and Clerics is 20th.  If any PC
+wants to continue advancing level, they must sacrifice one point from any
+single ability score, or 1-4 hit points to Algotuku Kasquas the night of any
+of the worships days (this apply to Magic Users and Clerics).  The clerics
+and Magic Users can not use any fire base spells, as they are prohibited by the
+culture.
+
+HP ADVANCEMENT
+
+  LEVEL          FIGHTER   CLERIC   THIEF     MAGICUSER
+  1               1d10      1d8      1d6        1d4
+  2               2d10      2d8      2d6        2d4
+  3               3d10      3d8      3d6        3d6
+  4               4d10      4d8      4d6        4d4
+  5               ----      ---      ---        ---
+  6               5d10      5d8      5d6        5d4
+  7               6d10      6d8      6d6        6d4
+  8               7d10      7d8      7d6        7d4
+  9               8d10      8d8      8d6        8d4
+  10              ----      ---      ---        ---
+  11              9d10      9d8      9d6        9d4
+  12             10d10     10d8     10d6       10d4
+HP/LVL (LVL 12+)   3         2        2          1
+
+
+WEAPONS PREFERENCES:
+Fighter-
+  Hand Axe
+  Battle Axe
+  Bastard Sword
+  Flame Thrower Crossbow(described in a way of life)
+  Spear
+  Light Crossbow
+Cleric-
+  Hand Axe
+  Spear
+  War Hammer
+M-User-
+  Dagger
+  Net
+  Spear
+  Whip
+Thief-
+  Dagger
+  Short Sword
+  Spear
+
+Even when unarmed, black lizardmen still have their claws.  When striking
+barehanded with their claws they get two attacks per round, and damage is
+1d4.
+
+SPECIAL ABILITIES:
+Their land movement rate is 120 (40 ).
+Swimming Rate 120 (40 )
+Lizardmen have a natural tough hide; they have a base AC of 5.
+Claw attack.
+Infravision 30 .
+
+SAVING THROW TABLE.
+
+Lizardmen save as cleric of the same level.
+Lvl         1-4  5-8  9-12
+DRorP       11   9    7
+MW          12   10   8
+PorTS       14   12   10
+DB          16   14   12
+R/S/S       15   13   11
+
+ALIGNMENT:
+
+Lizardmen may be of any alignment, but most are neutral.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+The Assassins
+Tim Elford (shade@tusc.com.au) and Goran Zidar (goran@elf.aust.com)
+--------------------------------------------------------------------------------
+Episode 5 
+
+  
+  The 
+  Assassins   Argos - Thief 1st level LE (NPC)
+              Craven - Duellist/Thief 1st/1st LE (PC)
+              Keldirk - Thief 1st level NE (PC) 
+  
+  Locale      The three assassins left Chathold a week ago and
+              have been traveling North en route to Ring Roads
+              where they are supposed to meet their next Family
+              contact - Saradock (a.k.a. Vesper). They are riding
+              with a merchant caravan as guards. 
+   
+  Date        7th Fireseek 582 CY (Common Year) 
+   
+  Time        Mid-morning 
+
+
+The land either side of the road was blanketed with snow, the recent sunny weather had
+done little to melt it save turn the road to slush. The wagon on which they rode was
+pulled by two large horses that sometimes struggled to haul the cart through the large
+mud patches. So far they had not been required to get off the cart and push, but if the
+road got much worse, that may become necessary. 
+
+  
+ Argos   I sure am glad we don't have to sit up there in the wind (motioning
+         towards the wagon driver) 
+  
+Keldirk  Why? Are you afraid of the cold. 
+ 
+Argos    No, its just that I'm not used to it... after spending most of my life living on a
+         tropical island, this weather takes a bit of getting used to. 
+
+Craven   I'll say, my hands are so cold I doubt I could write... let alone do anything
+         else. 
+  
+Keldirk  I know what you mean... This journey seems to be lasting forever. I can't
+         wait to get into some action. The fight on the boat seems like ages ago and
+         that was the last time we got to do anything but wait around. 
+ 
+Craven   (still angry at losing his fathers sword) I will never forget that trip. God I
+         hate boats, they're like floating prisons. 
+ 
+Argos    Poor Craven, scared of a little water. 
+ 
+Craven   It's not that I was scared... it's... it's just I didn't feel in control. 
+ 
+Keldirk  My goodness, have we actually found a blemish in the perfect Craven.
+         Could it be that he is afraid of water. 
+ 
+Argos    (smiles at his friend's expense) 
+ 
+Craven   (looking uneasy) Shut up! Both of you. Can we talk about something else?
+ 
+Argos    Sure. Like what? 
+
+Keldirk  Like what we're going to do when we get to Del Mord.  Craven 
+         What do you mean "going to do"? 
+ 
+Keldirk  We have to do something... I sure as hell know I'M not going to spend any
+         more time sitting around doing nothing. I need... constant stimulation.
+         (smiles) 
+ 
+Craven   Maybe we could get work as bodyguards. 
+
+Argos    The way you can fight, maybe... but they'll take one look at me and that will
+         be the end of that. 
+
+Keldirk  I am planning on joining a thieves guild... I don't really care what you two
+         end up doing. But it seems to make the most sense to me. 
+ 
+Argos   (musing over Keldirk's suggestion) Sounds like a plan, we'll need to
+         establish some contacts but I'M sure that won't be hard. 
+ 
+Craven   Great... not only will we have to do work for the guild, but we risk getting in
+         trouble with the law. 
+
+Keldirk  What?!? Do you think what we do is legal? 
+ 
+Craven   That's not what I meant... If we are known by the authorities then that
+         makes it that much more difficult to become a face in the crowd. And what
+         if guild business gets in the way of Family business? 
+ 
+Keldirk  So do you plan on setting up a florist? (laughs) That sounds more your
+         style... well it ain't for me. As I said, I don't care what you two do. 
+
+Driver   Hey, you three... time to earn your keep. Get out here and help get this
+         wagon through this shit pile! 
+
+
+The three jumped out of the wagon and assisted the horses in pulling the wagon through
+a particularly thick section of mud. After almost a quarter hour the wagon was finally
+clear and they were covered in mud and were even colder when their sweat cooled.
+They climbed back aboard the wagon and continued the week-long trip to Ring Roads.
+
+The remainder of the journey passed without incident, several times they had to get the
+wagon out of a mud patch but on the whole they did little other than stay warm by the
+fire and wait. When they finally came upon Ring Roads, on the eve of the eighth day,
+they were relieved that another portion of their trip was behind them. 
+
+Ring Roads was less than spectacular. Looking around the area, the assassins saw
+more tent poles than tents giving the whole encampment a skeletal look. Keldirk figured
+there would be no more than four caravans here (including their own) and perhaps no
+more than thirty tents. 
+
+ 
+Craven   Where is everybody? This was supposed to be a trading town? 
+ 
+Keldirk  It's winter, only fools and their horses travel the roads in winter. 
+
+Argos    And us. 
+
+
+They asked their caravan master for directions to the tent of the spice merchant
+Saradock and proceeded directly there after collecting their pay. 
+
+As the trio arrived a man was just leaving, he looked up at the three strangers. 
+
+ 
+Man       (tying his tent flap shut) Can I help you? 
+ 
+Craven    We were told that this is the merchant Saradock's tent. 
+ 
+Man       Yes, that is correct. 
+
+Craven    We have come to speak with him, regarding a business matter. 
+ 
+Man       Well, business is normally conducted during daylight hours. (eyes
+          narrowing) Who sent you? 
+ 
+Argos     A man in Chathold called Don Lombard. 
+ 
+Man       I see... I am on my way to the common tent. You are most welcome to
+          join me. I am Saradock, you must be Craven (looking at Craven),
+          you're Argos (looking at Argos) and you are Keldirk (looking at
+          Keldirk), is that right? 
+ 
+Keldirk  (nods) I prefer to be called Val Rorn. 
+ 
+Saradock  Very well, now lets get some warm food and a few ales. 
+ 
+Craven    Excuse me, Saradock. Are there any women here? 
+ 
+Saradock  If you mean whores then the answer is yes. Let's get some food first, I'LL
+          give you directions to the women later. 
+Craven 
+          Sounds good to me. 
+
+
+Saradock finished closing his tent, turned and began to walk down one of the many
+paths between the tents which made up Ring Roads. As he headed off he raised his
+hand and waved back to his tent and two figures stepped out from behind, armed with
+loaded crossbows. 
+
+ 
+Saradock  These two have been hired to protect me should there be any trouble.
+          One can never be too careful, a successful merchant like me has many
+          envious rivals. You never know when an assassin might sneak up on you
+          in the dead of night... 
+
+
+They proceeded on to the common tent where Saradock ordered them a fine meal. It
+was a pleasant change from the trail rations they had been eating almost exclusively
+since leaving the island. They talked over dinner about various topics, relating the story
+of the pirate attack and how they had lost most of their belongings. Argos mentioned
+that he had lost his crossbow and Saradock assured him that he would be given one in
+due course. 
+
+Craven was directed to the local prostitutes and the others went back to Saradock's
+private quarters. Once there Argos went to sleep while Keldirk and Saradock stayed
+up drinking and talking. 
+
+The following morning Craven arrived at Saradock's tent before the others had woken.
+As he approached the tent he was confronted by Saradock's two guards. 
+
+ 
+Man #1    What's your business? 
+ 
+Craven    I am here to see Saradock... I was with him last evening. 
+ 
+Man #2    We weren't told to let anyone in so I guess you are going to have to wait. 
+ 
+Craven    What are your names? 
+ 
+Man #2    What's it to you? 
+
+Craven    I like to know the names of those I... talk to 
+
+Man #2    I'm Gratten and he's Harf (pointing to the other man)
+ 
+Craven    Well met Gratten, Harf. 
+ 
+Saradock  (opening the door to his tent) I thought I heard talking out here. Good
+          Morning Craven. I trust you had a pleasant night? 
+ 
+Craven    Yes, although the women here didn't seem quite as enthusiastic as some of
+          those I met in Chathold. 
+
+Saradock  (chuckles) Fear not... you will be in better hands once we reach Del
+          Mord. Wake your companions, we will be leaving in a short while. 
+
+
+Saradock picked up some of his gear and went outside, calling for Harf and Gratten to
+follow. Craven went first to his provisions pulling out a loaf of stale bread before
+waking Argos and Keldirk. 
+
+
+Keldirk   (yawns - rubbing his head) What day is it? 
+ 
+Craven   Had a little too much to drink last night, eh? 
+
+Keldirk  (scowls) You could say that... 
+ 
+Argos    Are we leaving today? 
+ 
+Craven   Yes, Saradock has gone to organize his crew and he told me to wake you
+         guys. We will be leaving shortly. So I guess we wait here until it's time to
+         leave. 
+ 
+Keldirk  (stretching and collecting his things) Saradock said that we could
+         replace any of our lost equipment from his supply stores. I don't really have
+         anything I need to replace except to maybe pick up a few more throwing
+         knives. 
+ 
+Craven   I can never replace what I lost... but I could do with another rapier. 
+
+Keldirk  They're not likely to have one of your knitting needles among his equipment.
+         Real fighters prefer weapons with a bit of meat behind them. 
+ 
+Craven   (ignoring Keldirk and turning to Argos) Are you getting another
+         crossbow? 
+ 
+Argos    If they have any... I feel naked without one. 
+
+
+After a several minutes they were ready and Saradock returned. 
+
+ 
+Saradock The caravan is almost ready. Follow me to the supply wagon and after
+         my tent is taken down we will leave. 
+
+
+Outside, several men with tools and bags were waiting to dismantle Saradock's tent.
+They walked down three rows of tents before coming to several wagons. Saradock
+pointed one out to them telling them they could take whatever they required. 
+
+Two days from Ring Roads the caravan was stopped as several bolts thudded into the
+ground around the wagons. A lone figure stepped out onto the road and addressed the
+caravan. 
+
+ 
+Bandit   You have been stopped by the Ring Road Raiders. Lay down your arms,
+         leave your wagons and you will be permitted to live. If you choose to resist
+         you will surely - 
+
+
+His words were dramatically stopped as a crossbow bolt entered his mouth and
+emerged out the back of his head. He remained standing for several moments before he
+collapsed to the ground, blood pouring from the horrific wound. 
+
+ 
+Argos    (lowering his crossbow) Just like shooting Wamp-Rats back home... 
+
+Keldirk  (draws his throwing knives and scans the surrounding trees for
+         potential targets) 
+ 
+Craven   (draws his saber and waits by the wagon for return fire) 
+ 
+Gratten  (loads his crossbow and waits for a bandit to come into view) 
+ 
+Harf     (draws his sword and waits) 
+
+
+After several tense minutes of waiting, no retaliation was forthcoming. Harf, Craven and
+two other guards went into the forest to see what was going on. After a brief search
+they discovered five crossbows with string tied to their triggers allowing them to be fired
+simultaneously. There were no other bandits and it seemed as though the Ring Road
+Raiders consisted of just one man. 
+
+
+Keldirk  That was one hell of a shot. 
+ 
+Argos    (smiles) I hate losing my weapons... 
+
+Keldirk  (obviously impressed) I hope I never end up in your sights. 
+
+Argos    I don't think there's much chance of that. 
+ 
+Craven   (to himself) Unfortunately. 
+
+
+It was at that time that Saradock approached them his face was red and his mood was
+not good. 
+
+ 
+Saradock Who the hell gave you permission to decide the fate of MY
+         caravan! 
+ 
+Argos    I evaluated the situation and made a decision; it was a judgment call. 
+
+Keldirk  It worked out fine in the end.. so what's the big deal? 
+ 
+Saradock (glaring at Keldirk before returning his gaze to Argos) In many things
+         you will be left alone to decide your actions. But when it comes to my
+         caravan the only person with authority in that area is me. Is that clear!? 
+ 
+Argos    Perfectly. 
+ 
+Saradock Good. I hope you show as much initiative when you are working. 
+
+
+The remainder of the journey to Del Mord was uneventful. Gratten and Harf spent
+some time playing dice with Keldirk and talking with the others. When the caravan
+arrived at Del Mord the two mercenaries announced that they were continuing on to
+Tusk. 
+
+On the morning of the twenty first Day of Fireseek, almost three months since they had
+left the Olman Islands, the trio arrived in the city which they would call home for the
+next several months. Here they would be required to forge lives for themselves and here
+they would begin doing the work for which they had been trained . At last the traveling
+was over and their lives begin... 
+
+
+--------------------------------------------------------------------------------
+Fireside Chat
+John "BJ" Tomkins   Submitted by: Lisa Mizeri (lmizeri@westlink.net)
+--------------------------------------------------------------------------------
+Welverin Rilyn'tar
+Lisa Mizeri  
+
+     "Welverin Rilyn'tar?  Yes, I know of him, though we've never held
+conversation.  I wouldn't advise crossing swords with him either, youngling.
+What?  Why not?  Oh, the cockiness of youth!  Stand me another pitcher, friend,
+and I'll tell you a tale.
+
+      "I was with a company of foot at the time, and we'd just finished a hire
+- successfully - south of where Val Wanthar used to stand.  Ever seen those
+ruins, youngling? - Well, no mind, I daresay you've time yet, if your courage
+holds fast.  Well, as I've said, we'd finished our hire and decided to winter
+in Val Pathan, instead of pushing a late-fall march on the men.  We were all
+feeling rich, and, I suppose, full of ourselves.  About five of us officers
+decided to treat ourselves to a bit of something over at Kethalandril's Bane.
+
+     "We were well into our third or fourth 'something' when the Lieutenant
+started to recount the tale of why the Bane was named as it is,  - a story no
+doubt even you know.  Anyway, talk naturally turned (as it does between men of
+our calling) to the subsequent exploits of the inns' owners.  There was one
+among us, a coarse, broad-faced beefy fellow newly promoted to command, who
+loudly expressed his belief that he was able to 'thrash the piss outa any one
+o' 'em.'  Those are his vulgar words, not mine.  Well, as I mentioned, we'd all
+had a bit much to drink, and though he was a steady enough fighter in a
+lumbering sort of way, I'm sorry to say we laughed at him.
+
+     "Hot headed he was, and young; he was unsure of his new status, and hadn't
+enough brains to shame a cricket.  Oh and he was drunk, all right, but only
+enough to swell his bravado (for he had no real courage, and later deserted his
+command under fire), enough to convince him of his soberness, yet not enough to
+fox his skill or reactions.  He swore loudly he could prove his skill, and
+would, before sunlight again warmed the soil.
+
+     "No sooner had the words left his lips than a throaty chuckle sounded from
+a dimly lit corner nearby.  I glanced over, curious, and there leaned the lithe
+figure in an attitude of complete nonchalance, hardly larger than a child.  It
+seemed to draw the shadows to itself and gather them close like a cloak of
+unobtrusiveness; indeed I'd not noticed it at all until it's amusement drew my
+attention.
+
+     "As this - admittedly provoking - sound fell upon the ears of my foolish
+table-mate, he leapt from his chair with a great oath, and shouting abuse
+advanced threateningly towards the child-figure.  It ignored him.  Finally, in
+his rage, the soldier hurled his heavy ceramic ale mug (which he'd all the
+while retained in one massive fist) at the others' head, ...and missed.
+
+     "Even had he not thrown wide of his mark, I'd not have vouched for the
+outcome of the ensuing fight to be in his favor.  As the mug shattered in a
+spray of ale and stoneware against the plaster wall, the child-figure, in one
+fluid movement, appeared in the lamplight, unwilling to let this last act of
+idiocy pass.  I don't think anyone saw him move.
+
+     "It was immediately evident to everyone present that, although young, this
+was no untutored child.  It was also evident, from his grace and appearance,
+just who our foolish companion had provoked.
+
+     "His long, thick silver hair was held of his high ebony brow by a tarnished
+silver circlet; his finely arched eyebrows drawn together in a faint annoyance
+over small, titled violet eyes filled with cool amusement at the others
+impending...how shall I say it?  Predicament?  His nose had often been broken,
+and was flanked on either side by prominent narrow cheekbones too high for his
+narrow face, which hollowed his cheeks and rendered his whole countenance as
+rather cadaverous.  A mocking smile played about his thin lips as he lifted his
+pointed, stubborn chin, and chuckled once more.  He stood easy, ready, and
+perfectly balanced, as one long-fingered hand rested comfortably on the finely
+worked hilt of the rapier sheathed at his side.  I couldn't help noticing an
+odd ornament on his scarred wrist; a slender wire, ivory handled, thrice
+wrapped and looking uncomfortably like a garrote.
+
+     "You should have seen us scramble to clear a space for combat, scuttling
+backwards in as undignified manner as possible!  Us, hardened warriors,
+officers for blood's sake, afraid of that ... sable wraith!  Oh, how you'd
+have laughed!
+
+     "Rilyn'tar drew his shining, unmarked weapon with a smooth flourish, as
+our cocky acquaintance stood before him, fumbling to draw his weapon, pale to
+his thick lips.  It occurred to me, in the oddness of the moment, that it was
+if the blood raised by his rage had deserted his face and rushed to his heart
+to await the first opportunity to escape his body.
+
+     "I was sure that opportunity would come in the next few seconds, and I've
+no doubt the fool also believed he was a dead man, but the young dark elf
+evidently preferred to add injury to insult (instead of the other way around)
+for his first strike was a reprimanding tap on the others wrist, as if to say,
+'Hurry up, I'm waiting....'
+
+     "The soldier ripped his sword free of the scabbard with an almost
+convulsive movement as the flush of rage (and effort) returned to his features.
+He managed to block the elf's first real attack, but could not hope to match
+him in either strength or agility, and with the second thrust Rilyn'tar
+sheathed his rapier in the others thigh. 
+
+     "I think all of us watching expected a fatal end, then, but it seemed as
+if, first blood being drawn and thus having observed at least one rule of
+conventional combat, Rilyn'tar felt no further need for his weapon.  Or so it
+seemed to me, for as he withdrew it from the others body, it flew violently
+from his hand, and over our heads.  'Gods!', I remember thinking, 'Surely he
+can't be so...!'  My illusion of his cockiness was shattered in the next
+instant as he called out 'Duck!' in such a rueful tone that to this day I can't
+help but wonder if it was a regular occurrence with him.
+
+     "It was obvious that the other believed he had the upper hand, for he
+threw back his broad shoulders and opened his mouth as if to laugh - and
+stumbled back in shock as the elf's well-placed kick sent his sword spinning
+from his grip.
+
+     "I couldn't make out much of the rest of that battle, although I watched
+attentively for the remaining few minutes, utterly fascinated by the display
+of skill I was witness to.  The dark elf moved far too quickly for me to
+discern his individual kicks, but I could clearly hear the dull thud of flesh
+on flesh and had no doubt as to the final outcome.
+
+     "I was right, with a last heavy thud - a grand finale, as it were - the
+fool hit the rough floor-boards face down, unmoving, unconscious.  The dark elf
+stood perfectly still and apparently relaxed in the silent room.  Then, with
+a movement so swift and birdlike that I believe he startled us all, he bobbed
+down and grabbed the unsuccessful combatant by his dirty tunic collar; and
+whistling a merry tune that fell as sharp on our silence as would have breaking
+glass, dragged our companion from the room.
+
+     "Still we sat unspeaking.  I could hear the heavy thump - thump the
+soldiers' feet made as he was dragged down the few outside steps, the same
+cheerful whistling, a great splash, and a weak groan (we later discovered the
+victor had tumbled our unlucky companion head first into the horse trough to
+revive him).  Mumbled conversation returned immediately to the room, as if by
+our common agreement.
+
+     "The dark elf re-entered (still whistling) some few moments later, rubbing
+his hand on his soft black leather breeches as if it had been sullied by the
+others' tunic collar.  He sauntered over to retrieve his discarded rapier, and
+in a light tenor apologized to our table - apologized! - for unintentionally
+attempting to 'separate our brains from our briskets'.  Then, with a wink for
+the barmaid, he faded back into his corner, drawing his cloak of shadows about
+him.  Thus was my first and only experience of Welverin Rilyn'tar."
+
+--------------------------------------------------------------------------------
+A Long Time Ago, In a Galazy Far Away...
+James Colin Millington (raider@interlog.com)
+--------------------------------------------------------------------------------
+A Long Time Ago, in a Galaxy Far Away...
+
+"A long time ago, in a galaxy far, far away..."
+
+        Many of us remember seeing these words appear in a movie theatre, or at
+least heard them. They began a science fiction phenomenon known as Star Wars.
+The saga that George Lucas started has a strong following to this day. Not
+only in the original movies, but the toys and merchandising, the follow-on
+books, starting with "Splinter of the Minds Eye" by Alan Dean Foster, among
+others that followed the previous lives of some of the other characters in the
+main story. In the current day the Star Wars craze has swept the world, and
+apparently died out. Or has it? The toys have come back, redesigned.  New books
+have been released telling the continuing tales of our heroes. The original
+movies are to be re-released with some footage cut from the original added in,
+and Lucasfilm is planning a new trilogy to prequel the original not long after
+that. As a matter of fact, so much source material about Star Wars, coupled with
+the popularity of the saga itself, made it a natural next step for a role
+playing game. This RPG was released by West End Games not long after "Return of
+the Jedi", and has become an integral part of the universe.  Source material
+from the game is used by many of the current authors to write the new novels
+that have been showing up on shelves so frequently in the last couple of years.
+
+        It is the RPG these articles center around, and in particular a game
+that I am currently GMing from a module in a play by email format. I have taken
+all of the responses from players and all scene set-up and edited them into a
+short story, at the time of writing, this story has not yet concluded, and as
+long as there is interest, it probably will not.  Since all of the dice rolls
+and such are not seen in a short story, I will add "margin notes" to illustrate
+where and when, as well as the outcome of, all dice rolls. I am still not sure
+if this will be more of an annoyance, an aid to those who wish to turn their
+game into a story, or an aid for those who wish to take a story from a novel
+or such and incorporate them into a game. There is only one die roll in this
+first installment, most of this portion was taken up with the introduction to
+the adventure.
+
+        Another point of note, since much of the readership of the IRPS is TSR
+oriented, I will take a minute to explain some of the differences in dice
+rolling and general game play. In short, Star Wars has a simpler, more basic
+dice system than TSR, the only dice you need are 6 sided, however you need a
+lot of them.  When a character uses any skill (blaster, first-aid, computer
+programming), the GM must figure a difficulty, if there is a module that gives
+this to you great, if not, just think how difficult you think it should be,
+after all it is your world.  You can either select a set number reflecting a
+difficulty ranging from very easy to heroic, or you can use the random
+difficulty method, very easy is 1d6, roll it and you have the difficulty,
+heroic is 9d6 or more. This allows a very difficult task that could easily be
+considered at 54, to become a 9. On the down side the task may be too easy now
+(increase the number to a realistic one anyway), or can reflect that even
+though the task should be exceedingly difficult for the character, they did
+not find it so difficult this time. This difficulty is modified in some cases,
+such as partial cover for ranged weapons, or distance and familiarity for some
+force talents. This will either increase or decrease the difficulty. 
+
+        Now that you have the difficulty of the task, how does the character
+roll? Well, if the character has the skill being used, blaster for instance,
+that they have increased their proficiency in. This increase allows the character to use
+more d6 to roll. If the player did not take this particular skill the attribute,
+in the case of blaster is dexterity, would be used.  Hence any player can do
+anything, just some do it better than others. Since in Star Wars there is no
+differentiation between weapon and non-weapon skills, they are resolved the
+same way.
+
+        If you are the kind of GM who can not make up your mind whether your
+characters will run into something and think, "Gosh, it's not likely, but they
+could run into a squad of stormtroopers here, it seems like a 10% chance, but
+still...", by all means, though the book does not say you should, use a
+percentile roll.  If the unlikely happens, well gosh your characters just ran
+into a squad of stormtroopers.
+
+        That should cover the basics of the rules to understand what is going on
+with all the dice rolls. Now for the first instalment of the story as it stands.
+This group has existed in a face to face campaign for about a year prior to
+moving to play by email and the characters already have a fairly rich history.
+So this is not the beginning of their adventure, just the beginning of a new
+misadventure. The module is called "Tatooine Manhunt" and was reprinted in
+"Classic Adventures Volume Three".
+
+If anybody has any questions concerning the game, its play, or even if there
+are any areas you would like explored in future articles, please feel free to
+get in contact with me at "raider@interlog.com". "May the Force be with you...
+always".
+
+Episode 1 - Part 1
+
+        Kwenn space station, inarguably the last stop-over before the Outer Rim
+Territories. As such it is always a bustling hub of activity in space, with
+many concourse levels, administration levels, small craft hangers, and an
+enormous space dock facility for repair and refit of Capital Class ships the
+size of an Imperial Star Destroyer. 
+
+        The station services all forms of customers from the far flung corners
+of this arm of the galaxy. Though it is under Imperial control, the presence
+felt at Kwenn is only noticeable when ships, such as the STD Relentless
+currently at the station, are in system for repairs and/or shore leave. As
+with any far flung trading post there are always small freighters coming and
+going, transporting goods that are bought, sold, or transferred at the station.
+Such outposts usually attract the attention of those rogues who move cargo and
+passengers illegally, as well as those who steal cargo from other vessels. It
+has been said that if there is a star port you will invariably find smugglers,
+pirates, and mercenaries of all types nearby, Kwenn is no exception to the law.
+
+        Whether be it legitimate or illegal, moving from system to system with
+an empty hold is expensive, with no cargo the bills quickly add up for those who
+are not independently wealthy. A good captain will always have a full hold,
+even if purveying the goods will only cover the cost of fuel. With this in
+mind any ship that has an empty hold, does not look like a pleasure yacht, and
+lifts from any star port appears very suspicious. The Imperial fleet usually
+goes to great lengths to scan these vessels, cross reference their information
+with the database, and invariably board them anyway to inspect the ship for
+signs of smuggler or pirate activity. Things such as hidden and shielded
+compartments and dampening fields are frowned upon and usually result in the
+confiscation of the ship and imprisonment up until recent times on Kessel. So
+no matter how useless the cargo, unless other business is stated, all captains
+make sure there is a cargo in the hold of their ship, even if they plan on
+dumping it at their next port of call.
+
+        This brings us to the plight of three members of the fledgling New
+Republic, if somewhat freelance: Tividor, Samantha, and Bracha. Their plight:
+they have an empty hold and wish to leave Kwenn. As Sam and Tiv have tried
+acquiring cargo at many locations, unsuccessfully, they agreed to take turns as
+to who gets to speak to each prospective customer. The Wookie, Bracha, follows
+Tiv around like a lost pet, though to the infinite disappointment to some who
+found out the hard way that the Wookie owes the tall, slender near-human a life-
+debt, which he intends to pay in full, as is dictated by Wookie honor. Anyone
+aquatinted with Wookies knows that the shortest stand at two meters tall, with
+fearsome strength and long, shaggy hair, in Bracha's case brown with creme from
+throat to abdomen and at the end of his arms and legs.  
+
+        After lengthy discussion Tiv and Sam decided that today's choice for
+customer hunting would be the star port cantina, upon hearing a tip from another
+freighhauler suggesting that since spacers hang out at the bar, people looking
+for spacers also tend to hang out at the bar. It was Sam's turn to try and
+contact a customer besides she figured that buying a prospective customer a few
+drinks would help them clinch a deal.
+
+        "I guess going to the bar is the best plan right now, unless you want to
+ship something for the imperials," Tiv said with a shudder, "in which case,
+knowing us, it won't find it's way to its destination...which might not be
+entirely prudent...."
+
+        Sam looks at Tividor with a murderous gleam in her eyes.  "We don't deal
+with Imps!  We kill Imps!  Got it?", she bites in a whispered scream as if she
+were speaking to a young child.
+
+        Tiv glares down at Sam, a steely look in his eyes, and replies, "Of
+course we deal with imps!  Our blasters deal with stormtroopers, my bank account
+deals with their riches, and I have been known to occasionally deal with their
+problems of having too many ships in their fleet one way or another. What I am
+saying is that despite the temptation to do half of a delivery for the imperials
+(do the pick up and never mind delivery), getting our faces too well known might
+not be entirely healthy, so we shouldn't go to the imperials for cargo.
+
+I never had, ANY, intention of actually delivering anything for them unless it
+was with an additional explosive 'surprise package'..."
+
+        After they walked into the dark smoky atmosphere of the cantina, they
+noticed that, after the harsh artificial lighting outside, they could just make
+out the form droid detector beside the door and very little else. As their eyes
+adjusted to the dark, they could see the bar.  An anywhere star port bar with
+it's usual pilots, usual drunk denizens, and a few business types. In a couple
+of booths there appear to be games of sabbac, going on. As they proceeded
+inward, they could not help noticing that, in addition to the usual riffraff,
+there were a large number of para-military types, mercenaries or bounty-hunters
+by appearances. The big Wookie easily clears a way to the bar for the entire
+party. As they followed the sudden path Sam realized that everyone in the room
+could see them clearly as they entered the room, almost as if it was the reason
+it was darker in here, to let the occupants see the new arrivals.
+
+        The smell of spice, and tabac saturated the air as they made their way
+to the bar, overpowering in itself and more so with the smell of other, more
+illicit substances. After finally reaching the bar, Bracha cleared three seats
+for himself and the others. It was not difficult - Wookies are feared throughout
+the galaxy for their fearsome strength. All the other patrons seemed to be
+quite happy to leaving them alone, giving them plenty of room at the bar. The
+bounty-hunters seem to have the usual freighter clientele a little nervous, and
+all strangers are being viewed warily, especially when they are or in the
+company of a Wookie. Even the barkeep respects their space.  He appears willing
+to serve but, does not appear inclined to approach unless summoned. He is a
+Sullustan, not unlike one of Tiv's old traveling companions until he became the
+plant manager on Kessel. His large black eyes and a mouse like face, perched
+directly on a rotund little torso, standing at 3' tall making him appear as if
+he was two thirds wide as he was tall, not atypical for this tunnel dwelling
+race.
+
+        Sam beckons the bar keep over and grins at him as she lays twenty
+credits on the bar.
+        "So my fine friend you must know a lot about this place.",  she says
+as she puts her slender hand on top of the credits,  "I'm looking for a little
+business.  You know, we can handle real delicate cargo if you know what I
+mean?".  She watches carefully  for his reaction, and wonders to herself,
+"I really have to learn more about this line of work.  Bribing an informant and
+bribing a barkeep are a little different.  If I offered this to an informant I
+would be laughed at, but with a barkeep it makes his eyes light up. So did I
+offer too much, or not quite enough, and is he going to drive the cost up now?" 
+
+        The diminutive barkeep turns to Sam and says,
+"Sorry, the regular shippers won't come in here with all of them around.",
+indicating the bounty-hunter presence.  "I don't know if the boss has any thing
+he wants moved, but he usually has channels, mostly for imports. Have you tried
+asking them,", again indicating the hunters in the room, "not all of them have
+ships, and it looks like there is some big bounty being offered by the Imps,
+they all showed up lately to be involved with it. Maybe you could take
+passengers instead of cargo?  Now what would you fine gentle beings like to
+drink, as the boss says, 'This is a drinking establishment, not a social club
+-- No loitering, those without drinks have no business here.'"  To prove it
+is not his personal view he indicates a sign above the bar that reads in big
+bold letters, "NO blasters, NO droids, NO credit, and ALL customers MUST have
+a drink in their hand". The Sullustan after reading this says to you, "Normally
+we would have your weapons checked at the door, but because they", again
+indicating the bounty hunters, "refused and shot the weapons check clerk, we
+have relaxed the rule for the time being.  We just ask that you refrain from
+using them in here. By the way, you don't seem much like the freighter captains
+I've met, not quite as business oriented, more like crew, or a captain of a
+shipping fleet ship, who doesn'tworry about getting consignments.  I have
+not seen you around before, are you new to the free trader business?".
+Bracha just snarls at the barkeep,
+        "Arrrg Arrroooow arggra hmph!", bearing his teeth in the process.
+
+        The barkeep just shrugs and asks,
+        "OK, so how about your order?".
+Releasing her hand over the credits Sam just shrugs.
+"Oh well.  They are bad for business eh?  How about a Corellian Ale?", then Sam
+raises an eyebrow at Bracha.  "Is there a problem Bracha?"
+
+        Bracha replies, "Arg arrrogh arragh".  Since it appears obvious none of
+his companions understand what he is saying he shakes his head.  The barkeep
+pours Sam a tall glass of Corellion Ale.  He puts the glass of deep amber
+fluid bubbling and foaming in front of Sam that she gingerly nurses, taking
+small sips from time to time, asking for ice to be added.  Bracha says,
+"Arrawoo?", and is severed a tall glass of some foul green liquid, that has
+steam flowing lazily down the sides of the tankard.  As Sam and Tiv take seats
+and enjoy drinks as they watch the crowd they end up observing a lively game
+of sabacc between a Rodian and a Devaronian. As they watch the Rodian says
+excitedly, "Thabacc". As he is putting the cards into the stabilizer field they
+see the cards, the Idiot, a 2 of staves, and a 3 of flasks - the Idiots Array,
+but before the card chips are in the field they start to shimmer, and before
+their eyes they turn to the commander of staves, commander of flasks, and the
+10 of sabres. A garbage hand, and the Rodian says, "NO! that can't be wight,
+how could they wandomwy chwange then?  You are chweating! You have a card
+fwixwer!". All the Devaronian had to say to this was, "Sorry pal, not your
+night.". The Rodian then exploded into flames. When the smoke cleared all could
+see the Devaronian putting a nasty looking blaster away and a really large
+smoking hole through the table. What none could see was the upper half of the
+Rodian. The rest of the Hunters all turned their attention to the fight, with
+their blasters drawn. After surveying the results the hunters put their
+blasters away and started clapping and cheering.
+
+        This display of violence and mayhem completely disgusts Sam.  Sam sees
+why they stopped collecting weapons at the door. The message notification on
+Tiv's computer starts bleeping. This usually means the New Republic is trying
+to contact you.  Sam stands up with a sigh.
+"Well what a lovely sign of random violence.  I think we should head back to
+the ship eh Tiv?"
+
+        "I agree wholeheartedly.", Tividor says as they leave the bar.  Once
+they have travelled one block away from the bar curiosity gets the better of
+Tiv. He starts powering up his computer to receive the mail as he walks.
+After downloading the file, he takes a quick look at the header and decides this
+is not the right time or place to start reading it.  Not to mention, he would
+have to concentrate to decrypt the file anyway, which was more concentration
+than he could spend while walking down the road.
+
+        As they make their way to their ship through the bustling hallways and
+concourses of the station, the ever present gleaming white armour of
+stormtroopers can be seen. They pass unmolested through the crowd of a
+million sentient beings from half as many races.  Some they could recognise and
+others passed by completely alien to them. It all served to remind them of the
+cruelty and racism of the Empire. Many of these races are kept as slaves on
+Imperial worlds, such as the large Wookie travelling with them.  Others have
+their systems exploited for any and all natural resources that can be stripped
+from the system. Others find themselves on the brink of extinction by some
+genocidal moff, and some are simply hunted on their home worlds for sport to
+amuse the Empires most elite and powerful.
+
+        After an hour of wandering the station, they reach the Platinum Mist. It
+is a well-maintained Ghtroc stock light freighter, the stock part being
+stretched, The hyperdrive is almost a match for the infamous freighter of
+General Solo, her subspace engines and maneuverability are that of a fighter.
+Her sensors, thanks to heavy tweaking from Tividor can pick out a mynock on a
+super star destroyer at half a light year. Her offensive armament is powerful
+enough to take on the smaller capital ships, and her shielding and hull
+integrity are enough to survive the encounter. Her completely unorthodox ECM
+suite can avoid detection and block virtually all comm signals, and her security
+measures are unparalleled in this galaxy. The Platinum Mist has many names,
+this just being the latest, but by no means does the term "stock" accurately
+apply to this light freighter.
+
+        As they step up to the door and enter the entry code, they are aware of
+weapons trained on them, if the code were to be entered wrong, they simply
+would not exist any more.
+
+        As the door opens they were greeted by a gold and silver protocol droid,
+"Welcome back Master Tividor, the Nova is fully operational and ready to lift
+when you are. @#$! YOU YOU %$#@^%&&. No thanks to that useless astromech of
+yours, it still can't add even it had a calculator! Really Master I think you
+should, #@%#$ ^%#%^#!@%, really get a new astromech droid." The protocol droid,
+which Tiv hasn't bothered naming yet, still has a glitch in its language
+processor, causing him to use profane language at the most inadvisable time,
+a problem that the droid is not even aware he possesses.  Tiv has considered
+shutting them down for good, but he knows that with a few parts available on
+the station both protocol droid and the astromech droid can be fixed, they
+might even learn to be counterparts in a couple of months, increasing their
+effectiveness as a team exponentially. The problem was that they suffered
+irreparable ion damage just before Tiv found the parts that he managed to
+cobble together into droids. Tiv hasn't told anyone that he actually bought the
+parts on the station.  He just hasn't had the time to fix the droids.
+
+        "By your leave master, I will go back to keep an eye on that misbegotten
+scrap heap working on the hyperdrive motivators.  ^%$##%$$&%$$", the shiny
+protocol droid says before clanking off to supervise the astromech. Without
+constant supervision the astromech would realign the hyperdrive motivators,
+incorrectly, typically a fatal error. The astromech's particular problem is a
+scrambling of the numerical processor, such that when a number is calculated,
+the correct digits are placed in the buffer, only in a random order, so that
+"123456" turns into "452631".  Tiv found  this out after having the droid
+perform an emergency hyperspace jump calculation and discovered before the jump
+that it would have killed them. Sam, Bracha, and Tiv go into the lounge/galley/
+auxillary cargo hold and Tiv prepares his computer to receive the encrypted
+e-mail with Sam and Bracha looking over his shoulder.
+
+
+PRIORITY DISPATCH
+FROM: NRI  
+TO: Crew of the Nova
+RE: Kestrels hatchling has left the nest
+
+The encrypted attachment, was encrypted using a code that only Tiv and an old
+friend of his know, one that could only be broken by Tiv. After spending a
+minute entering the code and decrypting the message, all looking at the screen
+could read it.
+
+Well, Tiv, I hope this finds you in good spirits. Are you keeping out of
+trouble?
+
+One of our operatives aboard the STD Relentless has stumbled upon some very
+important piece of information and has requested immediate extraction.  Her
+spy mission was to end in one more year. Convenient that you are on Kwenn,
+because that is where the Relentless is at the moment for repairs, it's the
+big monstrosity below in the dock. You are to meet agent Dana at the end of
+passage 5-23 on docking level 5. Keep in touch and let the force be with you.
+
+
+        Sam recalls that docking level five is seven levels below them, in
+the area of access routes for the large craft space dock down there.  Thus,
+it must be one of the access tunnels to the STD Relentless itself. Sam looks
+at Bracha and Tiv for a moment and says,
+
+        "Perhaps we should head down there carefully and browse a little eh
+Tiv?"
+
+        "I think it is a grand idea.  I haven't stolen a star destroyer in far
+too long...", Tividor grins mischievously.  "Don't go getting any ideas!  This
+is just a simple extraction!  Let's go get the person and get out of here!",
+retorts Sam.  "OK. If you insist, I'll be nice, this time, but whenever you DO
+want to relieve the imps of a ship or few, remember who to call.", Tiv replies
+in a hurt tone.
+
+        Along with the encrypted message was a holoprojection file, when played
+it displayed the image of an Imperial officer.  Also attached was a data file,
+which would help them contact her and pass codes and countersigns.  The file
+ended with something about having information on an Adar Tallon, a brilliant
+strategist and a hero of the Old Republic. Everyone knows of him.  He was killed
+in a pirate attack shortly after the Emperor introduced his plans for The New
+Order.
+
+        The last entry in the agent's file stated that she was considered
+code-green, agent in trouble - immediate pickup.
+
+        As the three of them made their way to the designated meeting spot, the
+crowds grew steadily thinner as they drew nearer the large ship docks. By time
+they reached level five, the corridors were completely deserted, they could
+hear their footsteps echoing around them.
+
+        As they rounded a final bend they saw their agent, lying on the floor
+with an Imperial Officer standing over her. With him were two dangerous looking
+individuals, a wiry female in padded armour, and a tall scaly humanoid with a
+blaster rifle.  Behind them in an airlock whose doors were closing rapidly
+they saw a sight that made their blood run cold, somebody in a suit of deadly
+Mandalorian battle armour, like that of the famed Boba Fett. The blank face
+plate turns and stares in their direction and stays affixed on them until it
+is obscured by the door.
+
+NOTES
+
+1 The skill being used is code breaking. The roll for this was moderate.  Tiv
+already had the decryption code but had to enter it correctly.  The rolled
+difficulty was 3d, giving a result of 12. Breaking the encryption without the
+code would require a heroic roll, there would only be one roll, if it was
+missed the attempt will delete the message. Tiv's skill rating is 7d+1, because
+he prepared he added 1d to the total to give 8d+1 resulting in a roll of 27.
+
+--------------------------------------------------------------------------------
+Dragon's Fire
+Paul Johnson (Archm10361.aol.com)
+--------------------------------------------------------------------------------
+     It was a cold bleak day.  Sir Thorin was slowly pacing along the castle
+walls, thinking of his father who had died all those years ago . He was also
+thinking of the Warrior Princess Alana, who he had met and fallen in love on
+his travels.  It was getting late and he felt as if he was needed in the secret
+gathering room beneath the castle.  When he entered the room he found his loyal
+mages Dahmenayrbjah, who everyone called Dahmen and Talonshon, commonly called
+Talon consulting each other in front of the pool of power.  They motioned for
+Sir Thorin to gaze into the pool of power.  When he looked in the pool he saw
+images of destruction.  At that moment Sir Thorin said,
+
+     "Lets start contacting our companions."   He knew that what he said was
+spoken of in the legends ... he remembered the legends saying something about
+him and his companions being in a great battle but he didn't believe it.
+Suddenly now, he had reason to, and Dahmen and Talon began summoning Sir
+Thorin's old companions.
+
+     First was his old friend he had met in the battle between Dwarves and Orcs,
+Almond the Dwarf.  Then was Alana, who knew more about Sir Thorin than any of
+his oldest friends.  Alana was summoned for her capabilities with a sword and
+also because Sir Thorin wished it.  There was one more companion that was going
+on the journey to fight in the legendary battle.  Sir Thorin had to traverse a
+small way in order to talk to the last companion.  He entered a secret passage
+only he knew about that was located in his room, and slowly descended down
+steps.  As he neared the end of the dark passage he could him breathing and
+smell a scent of dragon.
+     
+     When he entered the cave at the end of the passage he saw his most beloved
+friend who he had raised from a baby.  It was Ralco, his dragon.  Ralco was
+unlike any other dragon, he could talk.   Not everyone heard him speak, just
+those who listened.  Ralco knew what was happening and said,
+
+     "You raised me from a baby, and I will help you on your journey my friend".
+
+
+
+--------------------------------------------------------------------------------
+Members Announcements
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Subject:PBEM Director
+Author: (mlp26745@pegasus.cc.ucf.edu)
+--------------------------------------------------------------------------------
+   One thing which you may not be aware of is that IRPS is an RPGA sponsored
+club.  We can participate in any of their events in any district of the world.
+Membership is RPGA is not a requirement for this officership.  Also, this 
+director will handle communications between our associate gaming clubs.  If
+you're interested contact Michael Popovich (mlp26745@pegasus.cc.ucf.edu) for
+further information.
+
+--------------------------------------------------------------------------------
+Subject: Associate Club and RPGA Director
+Author: (mlp26745@pegasus.cc.ucf.edu)
+--------------------------------------------------------------------------------
+   One thing which you may not be aware of is that IRPS is an RPGA sponsored
+club.  We can participate in any of their events in any district of the world.
+Membership is RPGA is not a requirement for this officership.  Also, this 
+director will handle communications between our associate gaming clubs.  If
+you're interested contact Michael Popovich (mlp26745@pegasus.cc.ucf.edu) for
+further information.
+
+--------------------------------------------------------------------------------
+Subject: Wanted: Authors
+Author: (kmizeri@pris.bc.ca)
+--------------------------------------------------------------------------------
+
+     IRPS is still looking for new authors.  We have limited space in the
+Monthly columns left, but we still have lots of room for Role-playing Aids
+and Fiction.  Note that these can be monthly as well if you desire to do an
+ongoing story or a section on magical items etc.
+     If you would like to write for us please mail me, and I can send you the
+guidelines.  Note that they must be followed and submissions that do not make
+them will be returned.  Particularly we are looking for people who would like
+to submit magical items, new monsters, or new spells in order to fill out our
+RPG Aids column.
+
+--------------------------------------------------------------------------------
+Subject: Paranoia meets Call of Cthulhu
+Author: http://www.muohio.edu/~marquajd/paracoc.html
+--------------------------------------------------------------------------------
+If you've ever played both, either, or neither of these games, it won't matter,
+the greatest adventure for Friend Computer's Troubleshooters awaits! It's
+"Call of Computer", a Paranoia / Call of Cthulhu crossover!
+
+Picture this:  There is an evil force emenating from the Pacific Ocean, and
+it's taking over those whose minds are easy to manipulate... and who fits in
+that category?
+
+Alpha Complex's Troubleshooters of course!
+
+Your Troubleshooting team is sent out by Briefing Officer Hast-U-RRR to battle
+a new and evil secret society brewing in the underbelly of Alpha Complex.  Join
+or be Troubleshooters Henry-R-MTG, Pow-R-NGR, Pete-R-VKM, Eld-R-SGN,
+Lovec-R-AFT, and Gibb-R-ING (and alternate players Muld-R-FOX and Goze-R-IAN)
+in their finest hour, saving Alpha Complex from the evil, Commie machinations
+of this sinister new cult.
+
+Visit HPL Production Logistics and Comissary for equipment distribution.
+
+See the incredible new R&D Devices like the Ultra-Cool Transdimensional Rift
+Assensing Polarizer, the B.A.Chi Clone Insertion System, and The ultimate
+surprise...  Mark IX (Yes, Mark 9...  it took 5 more tries to get it right).
+Battle evil commies, defeat the mutant monsters, and save Alpha Complex and
+the world!
+
+Ia, Ia Shub Nigg-U-RTH, Infrared high Programmer of Alpha
+Complex with a Thousand Clones!
+
+NOTE:
+*THIS IS NOT A PBEM, IT IS AN ACTUAL, DOWNLOADABLE ADVENTURE FOR PARANOIA!!!!*
+
+You can download an adventure for Paranoia, 5th Edition at
+
+http://www.muohio.edu/~marquajd/paracoc.html
+
+***FOR FREE***
+And sign the guest book while you're there.
+
+"Call of Computer" is copyright 1996, Joshua Marquart,
+Paranoia is a Copyright and product of West End Games and has been used without
+permission.  Call of Cthulhu is a Copyright and product of Chaosium Games and
+has been used without permission.
+
+--------------------------------------------------------------------------------
+Subject: Seeking Roleplayers
+Author: (Zeitegeist@aol.com) or (X Aria X@aol.com)
+--------------------------------------------------------------------------------
+Seeking Role Players; Fantasy
+Imagination
+Looking for people for discussion and input.
+
+If Interested Contact:
+
+Zeitegeist@aol.com
+     or
+X Aria X@aol.com
+
+My friend and I are trying to start a new role playing company.  It is going
+to feature a number of services, including game coverage, fiction, reviews and
+information of subjects relating to gaming as well as non-gaming areas.  We
+are also currently working on a line of role playing games which I am not sure
+when they will be done.  We are looking for people to discuss things with,
+looking for ideas and information from the gaming community at large.  We just
+want to know what it is people are looking for in games and services these
+days.  If interested in talking to us, please contact us at the e-mail 
+addresses above.
+
+Have fun and dream on:
+Zeitgeist and Aria
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+General Inquiries and all submissions can be sent to Karen Mizeri at
+(kmizeri@pris.bc.ca)
+Editing:
+        Karen Mizeri  (kmizeri@pris.bc.ca)
+             - Bryan E. Manahan
+             - Anthony Scalzitti
+             - Jason Englisch
+Layout/Design:
+        Jenn Millington (jimjen@interlog.com) 
+             - Lawrence Marz  
+             - Steve Edwards 
+             - Meera Barry  
+HTML:
+        Pete Calvert (pcalvert@economics.adelaide.edu.au) 
+             - Mikko Eley 
+Graphics:
+        Kosala Ubayasekara (d96-kub@nada.kth.se)
+             - Aries J. Galindo
+
+Research: Andrew Henry (AHenry7261@aol.com)
+Writer's Assistant : Eugene Tillery (ewulf@dbtech.net)
+
+--------------------------------------------------------------------------------
+Publication Guidelines
+
+Articles:
+ - All articles must be submitted in ASCII.  Lines are 80 characters.
+ - Absolutely no foul language.
+ - Articles must be spell checked, and have an understandable format.
+ - Articles must meet basic grammar requirements.
+ - We accept articles in English only.
+ - ARTICLES MUST MEET ALL COPYRIGHT/TRADEMARK LAWS.  This is very, very
+   important.  The larger companies are starting to crack down.  IRPS cannot
+   afford to be held responsible for copyright/trademark breach.  Questionable
+   articles will be refused unless the author can prove they meet these laws.
+ - Original submissions only please.  We do not reprint.
+ - We reserve the right to not to publish everything we receive.
+ - We accept role playing aids, fiction, poetry, articles on issues effecting
+   the gaming world, reviews, and classified advertisements.
+ - Submission deadline is the 15th of the month.
+ - IRPS does not accept any material that could be deemed as pornographic.
+ - Please do not use < and > in characters in your writing.
+ - Do not use trademarked names in your writing.  If you must - credit them
+   appropriately.
+ - There is a size limit of 5000 words.  That is approximately ten pages.
+ - Clearly state which section of the magazine you are submitting to.  The
+   sections are: Role playing aids, Monthly Columns, Classifieds, and
+   Fiction.  If you want a monthly column you must request it.
+ - These guidelines may change from time to time, we reserve the right to add
+   and revise as we see fit.
+ 
+
+ Articles are submitted to (kmizeri@pris.bc.ca).  Any articles not 
+meeting these guidelines will be returned for revision.
+
+----------------------
+Graphics:
+ All submissions of graphics can be directed to Kosala Ubayasekara  at
+ (d96-kub@nada.kth.se).  
+
+ - Maximum filesize for each artwork submitted is 50K
+ - The artwork should be preferable already in .gif or .jpeg format. You
+   can send them in other formats also, if you have trouble converting
+   them. However all artwork included in the mag will be converted to .gif or
+  .jpeg format, if not already in that state. 
+ - Send copies of your work, not originals.
+ - Include a name for the artwork. Include also the artists name, and email
+   address if applicable.
+ - IRPS does not accept any material that is overly graphic or pornographic in
+   nature.
+ - We reserve the right not to publish all submissions.
+-------------------------------------------------------------------------------
+
+THE RPG TIMES is published as an information and entertainment service to
+members of the Internet Role Playing Society. Descriptions of, or references to,
+products or publications within this publication do not imply endorsement of
+that product or publication by IRPS.
+
+IRPS makes no warranty of any kind with respect to the subject matter included
+herein, the game systems listed herein, or the completeness or accuracy of this
+publication.  IRPS specifically disclaims all warranties, express, implied or
+otherwise, including without limitation, all warranties of merchantability and
+fitness for a particular system.
+
+IRPS acknowledges that all copyrights remain the sole property of the author.
+-------------------------------------------------------------------------------
+
+
+

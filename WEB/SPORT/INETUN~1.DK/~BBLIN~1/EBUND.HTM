@@ -1,0 +1,69 @@
+<HTML>
+<HEAD>
+<TITLE>Bund Eng </TITLE>
+</HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Beginning of JavaScript Applet -------------------
+function scrollit_r2l(seed)
+{
+        var m1  = "AGF HOMEPAGE ";
+        var m2  = "is now translated ";
+        var m3  = "to english";
+
+        var msg=m1+m2+m3
+        var out = " ";
+        var c   = 1;
+        if (seed > 100) {
+
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,50);
+        }
+        else if (seed <= 100 && seed > 0) {
+                for (c=0 ; c < seed ; c++) {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                    window.status=out;
+                timerTwo=window.setTimeout(cmd,50);
+        }
+        else if (seed <= 0) {
+                if (-seed < msg.length) {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scrollit_r2l(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,50);
+                }
+                else {
+                        window.status=" ";
+                        timerTwo=window.setTimeout("scrollit_r2l(100)",45);
+                }
+        }
+}
+// -- End of JavaScript code "Pending_relink" tppabs="http://inet.uni-c.dk/~bblindbk/--------------.class" -->
+</SCRIPT>
+
+
+<BODY BACKGROUND="LOGO1.GIF" tppabs="http://inet.uni-c.dk/~bblindbk/logo1.gif"  TEXT="#000085" LINK="#ff00ff" VLINK="#ff0000" ALINK="#00ff00" onLoad="timerONE=window.setTimeout('scrollit_r2l(100)',500);">
+<center>
+<a href="ETOP.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/etop.htm" target="Main"><img border=0 src="GRAFIK/MAIN.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/main.jpg"></a> |
+<a href="TEAM.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/team.htm" target="Main"><img border=0 src="GRAFIK/SQUAD.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/squad.jpg"></a> |
+<a href="TABLE.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/table.htm" target="Main"><img border=0 src="GRAFIK/TABLE.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/table.jpg"></a> |
+<a href="RESULT-E.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/result-e.htm" target="Main"><img border=0 src="GRAFIK/RESULTS.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/results.jpg"></a> |
+<a href="ANDET-E.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/andet-e.htm" target="Main"><img border=0 src="GRAFIK/STUFF.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/stuff.jpg"></a> |
+<a href="TOPSCO-E.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/topsco-e.htm" target="Main"><img border=0 src="GRAFIK/ETOPSCOR.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/etopscor.jpg"></a> |
+<a href="STEM.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/stem.htm" target="Main"><img border=0 src="GRAFIK/VOTE.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/vote.jpg"></a> |
+<a href="GALLERI.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/galleri.htm" target="Main"><img border=0 src="GRAFIK/GALLERI.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/galleri.jpg"></a> |
+<a href="INDEX-1.HTM" tppabs="http://inet.uni-c.dk/~bblindbk/index.htm" target="_top"><img border=0 src="GRAFIK/DANISH.JPG" tppabs="http://inet.uni-c.dk/~bblindbk/grafik/danish.jpg"></a>
+</center>
+</BODY>
+</HTML>
+
+
+
+
+

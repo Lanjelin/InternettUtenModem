@@ -1,0 +1,56 @@
+Last year a friend of mine upgraded GirlFriend 1.0 to Wife 1.0 and found that 
+it's a memory hog leaving very little system resources for other applications.
+He is only now noticing that Wife 1.0 also is spawning Child-Processes which 
+are further consuming valuable resources. No mention of this particular 
+phenomena was included in the product brochure or the documentation, though 
+other users have informed him that this is to be expected due to the nature 
+of the application. Not only that, Wife 1.0 installs itself such that it is 
+always launched at system initialization where it can monitor all other 
+system activity. He's finding that some applications such as PokerNight 
+10.3, BeerBash 2.5,  and PubNight 7.0 are no longer able to run in the 
+system at all, crashing the system when selected (even though they always 
+worked fine before).
+   
+At installation, Wife 1.0 provides no option as to the installation of 
+undesired Plug-Ins such as MotherInLaw 55.8 and BrotherInLaw Beta release. 
+Also, system performance seems to diminish with each passing day.
+   
+The features he'd like to see in the upcoming Wife 2.0 include:
+   
+-    A "Don't remind me again" button 
+-    Minimize button
+-    An install shield feature that allows Wife 2.0 to be installed with 
+     the option to uninstall at any time without the loss of cache and
+     other systemresources.
+-    An option to run the network driver in promiscuous mode which would 
+     allow the systems hardware probe feature to be much more useful.
+   
+I myself decided to avoid all of the headaches associated with Wife 1.0 by 
+sticking with Girlfriend 2.0. Even here, however, I found many problems. 
+Apparently you cannot install Girlfriend 2.0 on top of  Girlfriend 1.0.
+You must uninstall Girlfriend 1.0 first. Other users say this is a long 
+standing bug which I should have been aware of. Apparently the versions of 
+Girlfriend have conflicts over shared use of  the  I/O port. You think they
+would have fixed such a stupid bug by now. To make matters worse, the uninstall
+program for Girlfriend 1.0 doesn't work very well leaving undesirable traces
+of the application in the system.
+Another thing that sucks -- all versions of Girlfriend continually pop-up 
+little annoying messages about the advantages of upgrading to Wife 1.0
+   
+BUG WARNING
+   
+Wife 1.0 has an undocumented bug. If you try to install Mistress 1.1 before 
+uninstalling Wife 1.0, Wife 1.0 will delete MSMoney files before doing the 
+uninstall itself. Then Mistress 1.1 will refuse to install, claiming 
+insufficient resources.
+   
+BUG WORK-AROUNDS
+To avoid the above bug, try installing Mistress 1.1 on a different system 
+and never run any file transfer applications such as LapLink 6.0. Also, 
+beware of similar shareware applications that have been known to carry 
+viruses that may affect Wife 1.0.
+   
+Another solution would be to run Mistress 1.0 via a UseNet provider under 
+an anonymous name. Here again, beware of the viruses which can accidentally
+be downloaded from the UseNet.
+

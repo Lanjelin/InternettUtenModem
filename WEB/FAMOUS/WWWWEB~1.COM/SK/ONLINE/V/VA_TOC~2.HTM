@@ -1,0 +1,178 @@
+<HTML><HEAD><TITLE>Frygt og Bæven - Index</TITLE>
+
+<SCRIPT LANGUAGE=JavaScript> 
+var s=100;
+msg="";
+function status_msg(s)
+{
+var out = " ";
+var counter   = 1;
+if (s > 100) {
+	s--;
+	var c="status_msg(" + s + ")";
+	t=window.setTimeout(cmd,100);}
+else if (s <= 100 && s > 0) {
+	for (counter=0 ; counter < s ; counter++) {out+=" ";}
+	out+=msg;
+	s--;
+	var c="status_msg("+s+")";
+	window.status=out;
+	t=window.setTimeout(c,100);}
+}
+
+
+function pagetest(myform,sp) {
+sp=Math.round(sp);
+if ((sp<7) || (sp>111))
+	 {alert('\nDu har angivet et ugyldigt sidetal!!!\n\nSe øverst i indeksrammen hvilke sider teksten dækker.')} 
+else
+	myform.submit();}
+
+function test(myform,sp,lp) {
+sp=Math.round(sp);
+lp=Math.round(lp);
+if ((sp<7) || (lp>111) || (sp>=lp))
+	 {alert('\nDu har angivet et ugyldigt sideinterval!!!\n\nSe øverst i indeksrammen hvilke sider teksten dækker.')} 
+else
+	{msg="Henter i alt "+(lp-sp+1)+" sider fra 'Frygt og Bæven'.    Ekspeditionstid ca. "+(Math.round((lp-sp)*0.7)+10)+" sekunder.  VENT ... ";
+	timerONE=window.setTimeout('status_msg(100)',500);
+            if ((lp-sp)>40) {myform.form_name.value="100n2";}
+	myform.startpage.value=sp;
+	myform.lastpage.value=lp;
+	if (myform.mybreak.checked) 
+	{myform.mycontrol.value=1;} else
+	{myform.mycontrol.value=0;}
+	myform.submit();}}
+
+function gosearch(sf){
+ if (sf.format.checked)
+	{sf.glimpse_rec_delim.value="<P>";} else
+	{sf.glimpse_rec_delim.value="$";}
+if (sf.match.checked)
+	{sf.glimpse_type.value="ww";} else
+	{sf.glimpse_type.value="g";}
+	sf.submit();}
+
+
+</SCRIPT>
+</HEAD>
+<BODY BACKGROUND="../BLACK.GIF" tppabs="http://www.webcom.com/sk/online/black.gif" TEXT="ffffff" LINK="#C0C0C0" VLINK="#C0C0C0" ALINK="#C0C0C0">
+<BASE TARGET="main_page">
+<TABLE  cellpading=0 cellspacing=0 border=0 width=100%>
+<TD COLSPAN=2><CENTER>
+<FONT SIZE=3><B>Frygt og  Bæven</B></FONT><BR>
+<FONT SIZE=1 FACE="Arial">
+<FONT COLOR=antiquewhite>Vol. V, pp. 7-111</FONT>
+</CENTER><P><TR>
+<FORM METHOD=POST ACTION="http://www.webcom.com/cgi-bin/form" tppabs="http://www.webcom.com/cgi-bin/form" NAME="go" >
+<INPUT TYPE=hidden NAME=form_name VALUE="40n2">
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME=startpage VALUE=0>
+<INPUT TYPE=hidden NAME=lastpage VALUE=0>
+<INPUT TYPE=hidden NAME=vol VALUE="V">
+<INPUT TYPE=hidden NAME=volpart VALUE="A">
+<INPUT TYPE=hidden NAME=secbeg VALUE="">
+<INPUT TYPE=hidden NAME=secend VALUE="">
+<INPUT TYPE=hidden NAME=title VALUE="Frygt_og_B&aelig;ven">
+<INPUT TYPE=hidden NAME=mycontrol VALUE=0>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"9","11")><TD><FONT  FACE="ARIAL" SIZE=1>Forord <FONT COLOR=lightblue>[9-11]<TR>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"13","16")><TD><FONT FACE="ARIAL" SIZE=1>Stemning <FONT COLOR=lightblue>[13-16]<TR>
+<TD VALIGN=top>
+<INPUT TYPE=radio NAME=art onclick=test(go,"17","24")><TD><FONT FACE="ARIAL" SIZE=1>Lovtale over Abraham<FONT COLOR=lightblue> [17-24]</FONT><BR><TR>
+
+<TD  COLSPAN=2><FONT FACE="ARIAL" COLOR=antiquewhite SIZE=1><B>Problemata:</B><BR><TR>
+<TD VALIGN=top><INPUT TYPE=radio NAME=art onclick=test(go,"27","50")><TD><FONT FACE="ARIAL" SIZE=1>Foreløbig Expectoration<FONT COLOR=lightblue> [27-50]<TR>
+<TD VALIGN=top ><INPUT TYPE=radio NAME=art onclick=test(go,"51","62")><TD><FONT FACE="ARIAL" SIZE=1>Problemata I <FONT COLOR=lightblue>[51-62]<TR>
+<TD VALIGN=top><INPUT TYPE=radio NAME=art onclick=test(go,"63","74")><TD><FONT FACE="ARIAL" SIZE=1>Problemata II <FONT COLOR=lightblue>[63-74]<TR>
+<TD VALIGN=top><INPUT TYPE=radio NAME=art onclick=test(go,"75","108")><TD><FONT FACE="ARIAL" SIZE=1>Problemata III <FONT COLOR=lightblue>[75-108]<TR>
+<TD VALIGN=top><INPUT TYPE=radio NAME=art onclick=test(go,"109","111")><TD><FONT FACE="ARIAL" SIZE=1>Epilog <FONT COLOR=lightblue>[109-111]<TR>
+</TABLE><BR>
+<TABLE BGCOLOR="gray" cellpading=0 cellspacing=0 border=0 width=100%>
+<TD>
+<FONT SIZE=1 FACE="ARIAL">
+<P><INPUT TYPE=checkbox NAME="mybreak" VALUE="YES" onclick="if (mybreak.checked) {self.status='Du har nu valgt at få sidetal vist i den tekst der hentes';return true} else {self.status='Du har valgt at sidetal IKKE vises i teksten';return true}"> Vis sidetal i teksten</TABLE><P> 
+<TABLE BGCOLOR="cadetblue" cellpading=0 cellspacing=0 border=0 width=100%>
+<TD>
+<FONT SIZE=1 FACE="ARIAL">Selvvalgt tekstområde:<P>
+<CENTER>Fra: <INPUT TYPE=TEXT NAME="st" SIZE=3 VALUE="" onfocus="self.status='Mindste sidetal: 7';return true">
+Til:  <INPUT TYPE=TEXT NAME="la" SIZE=3 VALUE="" onfocus="self.status='H&oslash;jeste sidetal: 111';return true" ><P>
+<INPUT TYPE=button VALUE="Hent" onClick=test(go,st.value,la.value) ></CENTER><P>
+</FORM>
+</TABLE><P>
+<TABLE BGCOLOR="cadetblue" cellpading=0 cellspacing=0 border=0 width=100%><TD>
+<FONT SIZE=1 FACE="ARIAL">
+<FORM METHOD=POST ACTION="http://www.webcom.com/cgi-bin/form" tppabs="http://www.webcom.com/cgi-bin/form" NAME="page_go">
+Vis side for side:<P>
+<CENTER>Fra side: <INPUT TYPE=TEXT NAME="st" SIZE=3 VALUE="" onfocus="self.status='Vælg sidetal mellem 7 og 111';return true">
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME="volpart" VALUE=A>
+<INPUT TYPE=hidden NAME="vol" VALUE=V>
+<INPUT TYPE=hidden NAME=form_name VALUE=page>
+<P><INPUT TYPE="button" VALUE="Hent" onClick=pagetest(page_go,st.value)></CENTER>
+</FORM>
+</TABLE><P>
+<TABLE BGCOLOR="cadetblue" cellpading=0 cellspacing=0 border=0 width=100%>
+<TD>
+<FONT SIZE=1 FACE="ARIAL">
+Lokal S&oslash;gning:
+
+<FORM METHOD=POST ACTION="http://www.webcom.com/cgi-bin/glimpse" tppabs="http://www.webcom.com/cgi-bin/glimpse" NAME="mysearch">
+<CENTER><INPUT TYPE=text NAME="glimpse_search" SIZE = 15 MAXLENGTH=40>
+<INPUT TYPE=hidden NAME="glimpse_fileset" VALUE=www/online/V/A/# >
+<INPUT TYPE=hidden NAME="glimpse_show_lines" VALUE=on>
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME=glimpse_directory VALUE=www/online>
+<INPUT TYPE=hidden NAME=glimpse_rec_delim VALUE="">
+<INPUT TYPE=hidden NAME=glimpse_type VALUE="">
+<INPUT TYPE=hidden NAME=glimpse_not_matched VALUE="Søgningen gav intet resultat - prøv igen!">
+<INPUT TYPE=hidden NAME=glimpse_header VALUE="www/online/header.html">
+<P>Lang format: <INPUT TYPE=checkbox NAME="format" VALUE="YES" onclick="if (format.checked) {self.status='Søgeresultat vises i lang format (afsnit)';return true} else {self.status='Søgeresultat vises i kort format (linje)';return true}"> 
+<BR>Exact match: <INPUT TYPE=checkbox NAME="match" VALUE="YES" onclick="if (match.checked) {self.status='Vælg exact match, hvis du kender det præcise ord. ';return true} else {self.status='Fravælg exact match, hvis du ønsker at søge på en del af et ord.';return true}"> 
+<P><INPUT TYPE="button" VALUE="Søg" onClick=gosearch(mysearch)> <P>
+</FORM></CENTER>
+</TABLE><HR>
+<CENTER><A HREF="VA_MAI~2.HTM" tppabs="http://www.webcom.com/sk/online/V/va_main.html" target="main_page"><B>Titelblad</B></A>
+<HR>
+<CENTER><A HREF="../../../../tppmsgs/msgs13.htm#1345" tppabs="http://www.webcom.com/sk" TARGET=_top><IMG SRC="../BANNER.GIF" tppabs="http://www.webcom.com/sk/online/banner.gif"></A></CENTER>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

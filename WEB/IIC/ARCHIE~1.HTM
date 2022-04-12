@@ -1,0 +1,59 @@
+<HEAD>
+<TITLE>Ask Archie</TITLE>
+</HEAD>
+<BODY>
+<H2>Tony's Archie Interface</H2>
+
+<FORM ACTION="http://www.austria.eu.net/cgi-bin/archie.cgi" tppabs="http://www.austria.eu.net/cgi-bin/archie.cgi" METHOD="POST">
+<STRONG>Text to look for: </STRONG>
+<INPUT NAME="search" TYPE=text>
+<P>
+<INPUT TYPE="submit" VALUE="start search">
+<INPUT TYPE="reset"  VALUE="reset form">
+<HR>
+<STRONG>How should archie search?</STRONG>
+<BR>
+<SELECT NAME="searchtype">
+<OPTION VALUE="-e">
+Exact string match
+<OPTION VALUE="-c">
+Case sensitive substring search
+<OPTION VALUE="-r">
+Regular expression search
+<OPTION VALUE="-s">
+Case insensitive substring search
+</SELECT>
+<P>
+<STRONG>Which archie server should be used?</STRONG>
+<BR>
+<SELECT NAME="server">
+<OPTION VALUE="archie.hensa.ac.uk">
+HENSA Archive (UK)
+<OPTION VALUE="archie.rutgers.edu">
+USA (NJ)
+<OPTION VALUE="archie.doc.ic.ac.uk">
+Imperial College (UK)
+<OPTION VALUE="archie.internic.net">
+Internic
+<OPTION VALUE="archie.wide.ad.jp">
+WIDE Japan
+<OPTION VALUE="archie.th-darmstadt.de">
+Darmstadt (DE)
+<OPTION VALUE="archie.univie.ac.at">
+University of Vienna (AT)
+</SELECT>
+<STRONG>or I'd prefer</STRONG> <INPUT TYPE="text" NAME="ownserver" SIZE="32" VALUE="archie.">
+<P>
+<STRONG>How should archie sort its results?</STRONG>
+<BR>
+<SELECT NAME="sorttype">
+<OPTION VALUE="-t">
+Newer archives first
+<OPTION VALUE="IGNORE">
+As received
+</SELECT>
+<P>
+<STRONG>Give up after</STRONG> <INPUT TYPE="text" NAME="timeout" VALUE="30" SIZE="4">
+<STRONG>seconds if no reply</STRONG>
+</FORM>
+</BODY>

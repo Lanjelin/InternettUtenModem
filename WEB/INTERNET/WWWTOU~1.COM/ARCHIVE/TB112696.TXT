@@ -1,0 +1,169 @@
+
+From bobrankin@mhv.net Tue Nov 26 02:02:12 1996
+Date: Tue, 26 Nov 1996 01:09:11 -0500
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 26 NOV 1996 - More Power Tools
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |     MOMS WANTED for Internet panel to advise major    |//////|    |
+ |  company. For info, e-mail to: moms@CyberSurveys.com  |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+           Today's Stop: More Internet Power Tools
+
+
+Back in September 1995, I did a posting on power tools for the Internet.
+Since things change so quickly in the cyberspace arena, I figured it
+would be a good idea to dust that one off and bring it up to date.
+
+Today's posting will give you valuable tips for finding people, places
+and things in the online world.  I've found that a good working knowledge
+of the major Internet search tools helps me in many areas of life and
+business, so let's plug in and power up those power tools!
+
++----------------------------------------------------------------------+
+  What does Doctor Bob wear to fend off the cold in New York State?
+ Nothing less than a Timberland Waterproof Leather Bomber Jacket. Where
+  did he get it? From Aardwulf - source of authentic outdoor clothing.
++---------------------( http://www.aardwulf.com )----------------------+
+
+The FOUR11 Online User Directory
+--------------------------------
+
+...is an Internet white pages service which can be used to look for
+someone's e-mail address or personal Web page.  All Internet users are
+provided a free listing and access to the Four11 directory, which purports
+to hold data several million users.  Recently, FOUR11 has added a new
+service which lets you search for people's phone number or address.  Check
+it out at http://www.FOUR11.com or send e-mail to info@FOUR11.com
+
+(There are similar services at WhoWhere - http://www.WhoWhere.com - and
+SwitchBoard - http://www.SwitchBoard.com - so try 'em all!)
+
+The USENET-ADDRESSES Database
+-----------------------------
+
+And let's not overlook this handy database at MIT which keeps tabs on
+everyone who has posted a message on Usenet.  Send e-mail to
+"mail-server@rtfm.mit.edu" and include a command like this in the
+BODY (not the Subject line) of your message:
+
+   send usenet-addresses/Jane Doe Harvard
+
+Web Searchers
+-------------
+
+There's a lot of great stuff out on the Web, but how do you find it?
+There are several search engines that have been developed to search for
+information on the Web.  Here is the Doctor's prescription for the best
+of the bunch.
+
+ALTA VISTA - is Doctor Bob's top pick for web searching because it has
+the largest database of web pages, is super fast, and it indexes every
+word on every document in the database.  Oh, and it can also search
+Usenet newsgroups.  Check it out at:
+
+   http://www.altavista.digital.com
+
+INFOSEEK - is another notable search engine, offering "natural language"
+query capability.  Just ask it a question, and you'll be impressed with
+the results.  Try INFOSEEK at:
+
+  http://www.infoseek.com
+
+METACRAWLER - another nifty tool from the University of Washington.  This
+one bounces your search words against all the major search engines and
+combines the results in a unified display.  Tres cool!
+
+   http://www.metacrawler.com
+
+Just Point Me In The Right Direction
+------------------------------------
+
+Not sure what you want?  Here are some topical catalogs of "good stuff"
+that you can search.  Wax up the board and hit the surf at:
+
+  http://www.yahoo.com/                   - Yahoo
+  http://www.einet.net/galaxy.html        - EInet Galaxy
+  http://csbh.mhv.net/~rpproctor/IRP.html - Internet Research Pointer
+
+Finding Mailing Lists
+---------------------
+
+To find out about mailing lists that are relevant to your interests,
+visit http://www.liszt.com or send e-mail "liszter@bluemarble.net" with
+
+   search "whatever"
+
+in the BODY if the message.  (The quotes force an exact match.)
+(Of course you must replace "whatever" with your own search word
+such as "dogs", "cycling", etc.)
+
+Usenet Necessities
+------------------
+
+A service on the Web makes it possible to search Usenet newsgroups
+for postings that contain keywords of interest to you.  To search the
+last few months of Usenet drivel, zip on over to:
+
+  http://www.dejanews.com
+
+Another one called REFERENCE.COM makes it possible to search USENET
+and "subscribe" to receive a daily list of newsgroup postings that
+match your search criteria.  Visit http://www.reference.com or send
+mail to "email-queries@reference.com" with HELP in the body of note.
+
+Weep No More...
+---------------
+
+Now you're prepared to find almost anything in cyberspace - that is if
+you've got a decent Internet connection offering WWW access.  But even
+if you're stuck with a simple e-mail account, there's good news.
+
+You can access almost all of the resources and search tools mentioned
+here by e-mail!  "Accessing The Internet By E-Mail", my guide to
+offline Internet access, is a free document that reveals all.
+
+To get the new V6.1 edition, send e-mail to: mail-server@rtfm.mit.edu
+And enter this long, ugly string in the BODY of the note:
+  send usenet/news.answers/internet-services/access-via-email
+
+Or if you like, visit my home page at http://biz.mhv.net/drbob and
+follow the link to the MIT site where the latest version lives.
+
++---------------  The Best of the Web in one Place!  ------------------+
+ Looking for a place to shop for the Holidays?  Web Warehouse offers a
+ high-end selection of quality products for the cybershopper. It is your
+ main Web resource for music CDs, software, books, gifts,travel, & more.
+  Visit today - enter PrizeLINK's Sweepstakes to Win a COOL $1 Million!
++--------------------( http://webwarehouse.com )-----------------------+
+
++----------------------------------------------------------------------+
+      Win a Color TV by playing Where in the World? at WorldVillage
+         http://www.worldvillage.com/wv/gamezone/html/where.htm
++----------------------------------------------------------------------+
+
+See you Thursday.  Rumor has it Patrick will be serving up some SPAM
+for Thanksgiving!  --Bob
+
+========================================================================
+     MAKE YOUR GIFT GIVING PAINLESS - SPECIAL HOLIDAY DISCOUNTS!
+       -->  "Doctor Bob's Painless Guide To The Internet"  <--
+     Send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+   or browse reviews & sample chapters at http://biz.mhv.net/drbob
+========================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.worldvillage.com/tourbus.htm
+========================================================================
+
+      TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

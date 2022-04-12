@@ -1,0 +1,314 @@
+Subject: EPA Q & As on DIYers  Fixed and Mobile A/C service (venting)
+Newsgroups: rec.autos.tech,sci.engr.heat-vent-ac
+Keywords: freon venting Clean-air-act $25,000-fine do-it-yourself
+
+
+[Email exchange between Geo. Goble and Christine Dibble @ USEPA
+regarding questions on DIYers (Do-it-Yourselfers), on venting
+and other rules for Clean Air Act (CAA) part 608 (mostly stationary
+refrigeration A/C) and part 609 Mobile MVAC A/C (cars, busses, tractors,
+etc)  EPA's replies are in UPPER CASE..  Also attached is an EPA 
+supplied Q & A factsheet (not in upper case) on DIYers, venting, etc..
+Hopefully this should clear up many misconceptions.. --ghg]
+
+From DIBBLE.CHRISTINE@EPAMAIL.EPA.GOV Sat Jul 15 09:59:30 1995
+From: CHRISTINE DIBBLE <DIBBLE.CHRISTINE@EPAMAIL.EPA.GOV>
+To: ghg@ecn.purdue.edu, LEVY.JEFFREY@EPAMAIL.EPA.GOV
+Subject:  CAA section 609 & DIYers.. -Reply
+Status: R
+
+SEE ANSWERS IN ALL CAPS WITHIN THE TEXT.  ALSO SEE THE ATTACHMENT, A Q&A
+FACTSHEET WHICH I JUST PREPARED FOR FARMERS AND OTHER DIY-ERS.  THIS
+FACTSHEET  WAS SENT FOR DISTRIBUTION AND REPUBLICATION TO AUTO. PARTS
+AND ACCESSORIES ASSN. AND TO MANY FARM TRADE ASSNS. SUCH AS NORTH
+AMERICAN EQUIPMENT DEALERS AND FARM EQUIPMENT RETAILERS ASSN.  ISN'T
+THERE A COMEDIAN NAMED GEORGE GOBLE?
+
+>>> George Goble <ghg@ecn.purdue.edu> 07/14/95 10:24am >>>
+Jeff,
+
+I get hounded a lot (on the net & email) from DIYers wanting to work on 
+cars (with R12)...
+
+CAA section 609 "for consideration" which lets DIYers get away with not 
+having to have certified recovery equipment, etc...and reading recent 
+FAQs (made by others whom have talked to you
+and the ozone hotline)..and my reading of section 
+609 + Fedr Reg. updates, etc.. It is still not
+completely clear on 609 DIYers and the "venting" situation..
+
+Section 608 is very clear on not venting Class I or II and cert 
+needed to do everything.. (service, repair, disposal, etc)
+
+on 609.. some say DIY venting is OK??  and others say something to 
+the effect, that no "certified" recovery equipment is needed, but it 
+is not legal for DIYers to vent classI or II and they must come up 
+with some means to achieve 4" vac in a system and capture 
+the charge...(for class I and II)
+
+Wondered if you could clarify this when you have time (no hurry)?
+
+NO VENTING ALLOWED BY
+ANYONE AT ANYTIME!  DIY-ERS DO NOT NEED TO USE CERTIFIED EQUIPMENT
+HOWEVER.  DIY-ERS CAN USE ANY PIECE OF HOMEMADE EQUIPMENT, JUST SO LONG
+AS THEY DON'T VENT.  THE EQUIPMENT DOES NOT HAVE TO ACHIEVE A 4-INCH
+VACUUM.  WHO HAS TO USE EQUIPMENT THAT ACHIEVES A 4-INCH  (102 MM) VACUUM?
+1.  TECHNICIANS WHO PURCHASED 608 EQUIPMENT PRIOR TO 11/15/93, AND
+2.  ANYONE WHO RECOVERS REFRIGERANT FROM AN MVAC OR MVAC-LIKE APPLIANCE
+(SUCH AS HEAVY CONSTRUCTION EQUIPMENT, FARM EQUIPMENT ETC.) THAT IS
+DESTINED FOR DISPOSAL.
+---
+
+Also after Nov 15, 1995 it becomes illegal to vent "substitutes" 
+for class I & II (mostly HFCs) unless the EPA determines that each 
+substance poses no threat and can be vented...
+
+So this means R-134a must be recovered at that point. This is clear.
+If one runs into system charged with propane (R22 replacement)or
+OZ-12, total hydrocarbon refrigerants 0.0 ODP, can these be vented 
+after Nov 15?
+
+NO, UNDER 609, NO SUBSTITUTES FOR R-12 IN AN MVAC CAN BE VENTED, SO OZ-12
+CANNOT BE VENTED.  UNDER 608, NO SUBSTITUTES FOR ANY CLASS I OR II
+SUBSTANCE CAN BE VENTED.
+thanks..
+
+Have a good day :)
+
+--ghg
+
+-----------------------------------------------------
+FARMER.FCT file (wordperfect) converted to plain txt
+From Christine Dibble @ the USEPA.
+----
+
+United States   Office of Air and Radiation  July 1995
+
+Environmental Protection  Stratospheric Protection Division
+
+Agency  	 6205J
+
+__________________________________________________________________________
+
+
+
+Qs & As FOR FARMERS AND DO-IT-YOURSELF-ERS ON MOTOR VEHICLE 
+AIRCONDITIONING AND THE CFC-12 PRODUCTION BAN
+
+
+
+OZONE PROTECTION HOTLINE TOLL-FREE (800) 296-1996 
+10 A.M.--4 P.M., MON.-FRI.  EST       
+
+
+Q:Is it true that I have to become a certified technician and purchase
+approved recycling equipment in order to work on my own motor vehicle's air
+conditioning system?
+
+
+A:	No.  Under Section 609 of the Clean Air Act, only people who repair or
+service air conditioning systems for consideration -- that is, for payment,
+whether it is monetary or some other form -- are required to be properly
+certified and to use equipment approved by the Environmental Protection
+Agency.  That means that a do-it-yourselfer (DIYer) can work on his own car
+without being certified or having to buy recovery or recycling equipment.
+
+	Like service technicians, DIYers are not permitted to vent freon (R-12
+refrigerant) from an a/c system.  Beginning on November 15, 1995, it will also
+be illegal for anyone to vent R-134a, or any other R-12 substitute.
+
+   In addition, only certified technicians may purchase R-12. The EPA has not
+yet decided whether sales of R-134a will be restricted to certified
+technicians only.  This decision should be made by November, 1995.
+
+
+Q: 	How do I comply with the law and service a/c systems on a tractor, or a
+car that is up on blocks, or any other vehicle that is difficult to move to a
+service facility?
+
+A:   Topping Off. A farmer or other DIYer must become a certified technician in
+order to purchase freon to "top off" his own tractor, truck or other vehicle. 
+If he becomes certified, he can purchase any size container of refrigerant and
+perform the topping off himself.  Of course, farmers and DIYers should take
+all reasonable steps to avoid the release of refrigerant when topping off a
+system.  Intentional venting is illegal, but should not normally occur during
+the topping off procedure if it is done properly.
+
+   Other Servicing.  Should a farmer or other DIYer wish to do more than merely
+top off, such as replace leaky or worn out components of an a/c system, then
+in order to avoid venting refrigerant when opening up the a/c system, the
+farmer or DIYer must make sure that the refrigerant gets recovered first.  The
+refrigerant does not need to be extracted into EPA-approved recover/ recycling
+equipment -- it can be extracted into homemade equipment, for example -- but
+it must not be vented!  Venting refrigerant can lead to fines of $25,000 per
+violation.
+
+	If the farmer or DIYer does not own recovery equipment, he can drive the
+vehicle to a service facility, or hire a certified technician who has
+recover/recycle equipment to come to the vehicle and service it.
+
+
+Q:  Apart from R-134a, what are some other refrigerants approved by EPA?  Do I
+need to be certified to purchase them or install them in my vehicle's a/c
+system?  Are there refrigerants that EPA considers unacceptable?
+
+
+A:   EPA has approved R-134a and FRIGC*, a blend manufactured by Intermagnetics
+General Corporation of Latham, New York.  FRIGC's manufacturer has informed
+EPA that FRIGC will initially be marketed for use in vehicle fleets only. 
+Only certified technicians may purchase FRIGC, since it contains a chemical
+that depletes the ozone layer (although it does far less damage than R-12). 
+You can call the Ozone Hotline in order to determine if other substitutes are
+approved by EPA in the future.
+
+  Two refrigerants, OZ-12 and HC-12a, have been declared unacceptable by EPA,
+because of unanswered flammability concerns.  It is illegal to use these
+refrigerants.  They are both manufactured by OZ Technology, Inc. of Post
+Falls, Idaho.  EPA has also stated that all flammable substitutes are
+unacceptable for use in vehicle a/c conversions.
+
+
+Q:   I'm not a certified technician and so I cannot purchase R-12.  I've been
+thinking about converting my motor vehicle air-conditioning system to use
+R-134a, since I can purchase that refrigerant.  What facts should I know
+before I convert?
+
+
+A:   First, EPA may restrict the sale of R-134a to certified technicians only. 
+The proposed rule which would contain this provision (should EPA decide to
+propose a sales restriction) should be published in August, and, after thirty
+days of taking comment from the public, the final rule should be published in
+November.  Check with the Ozone Hotline after the publication of the proposal
+to see if the sales restriction provision is contained in the proposed rule. 
+If the provision becomes part of the final rule, then sales of R-134a will be
+limited to certified technicians shortly after publication of the rule.
+
+	EPA recommends that you consult your vehicle manufacturer, an authorized
+dealer or a reputable service facility about conversion procedures.  Many
+manufacturers have made retrofit guidelines available.
+
+   To convert to R-134a, you will need at a minimum to change all the lubricant
+to a PAG or POE (ester) oil, since R-134a is not compatible with mineral oil,
+and you will have to put new fittings and a new label on the system.  You may
+also need to replace the accumulator or receiver/drier, and other components
+of the system. 
+
+    EPA rules require that any substitute only be used with fittings unique to
+that refrigerant; that the person performing the conversion apply a specific
+label to the system; and that the substitute not be used to "top-off" a system
+that uses another refrigerant, without first extracting the old refrigerant.
+
+Q:  I have heard that R-134a does not cool nearly as well as CFC-12.  Is this
+true?
+
+A:	Vehicle manufacturers have designed air-conditioning systems for new
+vehicles that use R-134a while maintaining reliability and cooling
+performance.  Conversion specifications for a/c units using R-134a are also
+being designed to maintain performance, but this may vary depending on the
+condition of the unit prior to the conversion, and on other factors.  Should
+you feel that your a/c system does not perform as well after converting to
+R-134a, you should contact the vehicle manufacture and/or a reputable service
+technician.  They may be able to recommend further changes to the system so
+that it performs to your satisfaction.
+
+Q: 	Why can't I use R-22 in my system?
+
+A:	There are three good reasons not to use R-22 in your system. 
+
+    First, R-22 is not compatible with the polymer and rubber products used in
+vehicle a/c systems such as O-rings and hoses, and can cause these products to
+det- eriorate.  In addition, the small size of the molecules in R-22 often
+causes the chemical to leak through hoses.
+
+    Second, R-22 has significantly higher operating pressures than R-12 -- at
+normal atmospheric temper- atures, R-22 pressures can be double those of R-12.
+ Although R-134a also operates at higher pressures than R-12, the difference
+in the pressures is much smaller than the difference between R-22 and R-12
+operating pressures.  The control circuits, evaporative assemblies, and other
+components in a/c systems designed for use with R-12 may not be able to
+withstand these higher pressures, and system failure may result.
+
+   Third, it's illegal.  Any chemical proposed for use as a substitute to R-12
+must first be submitted to EPA for review of its health and environmental
+effects.  If EPA determines that the chemical is safe for use in a particular
+application, the chemical may then be used as a substitute for R-12.  Until
+that happens, it is illegal to use the substitute in that application.  To
+date, no one has submitted R-22 to EPA for review for automotive use (most
+likely because of the other two reasons set forth above).
+
+Q: 	Why does freon cost so much now?  I used to purchase a can of freon for
+$1.00.
+
+A:	The price of refrigerant has increased over the last few years largely
+because of the tax on the production of ozone-depleting chemicals enacted by
+Congress as part of the Omnibus Trade and Recon- ciliation Act of 1989.  The
+tax rates were increased by Congress in the Energy Policy Act of 1992.  The
+tax rate per pound of freon for 1995 is $5.35.  This summer, freon is
+retailing at auto parts stores and warehouse stores at about $7.00 per pound
+(which includes the tax).
+
+Q: 	I'm not convinced that R-12 and other chlorofluorocarbons (CFCs) are
+responsible for the thinning of the ozone layer.  I'm not even sure that the
+ozone layer is really thinning.  How can I find out more about these issues?
+
+	EPA has a great deal of information you can receive on these subjects by
+calling the toll-free Ozone Protection Hotline number listed at the top of
+this factsheet.  This information includes a factsheet entitled "Ozone
+Depletion:  The Facts Behind the Phaseout" and a brochure entitled "Reports to
+the Nation: Our Ozone Shield."
+
+--------------------------------------------------------------------------
+END of EPA FARMERS.FCT file
+
+
+--------
+Comments from ghg on DIY recovery equipment.
+
+Some easy ways to recover refrigerant are to take a recovery
+cylinder (or even a propane BBQ grill tank - it is DOT legal)
+and pull a vacuum on it just before the first use..
+
+A "50lb" recovery cyl is the same size as the 20lb propane
+BBQ grill tank.  For these purposes, a 30lb recovery cylinder
+would work better (dont use a DOT39 "throw away" refrigerant
+cylinder).  Get a Rubbermaid 5 gallon water cooler, and stick
+the 30lb cylinder in it, and add dry ice around the edges..
+This cools the cylinder so both R-12 and R-22 can be
+removed, and it will draw a vacuum on the system if left
+on long enough. If you can get it, liquid nitrogen works
+nicely also (-312F).  Both dry ice and liquid nitrogen
+are very cold and can cause frostbite burns.. be careful.
+
+Precooling a cylinder in a freezer is usually not sufficient,
+it has to be colder than -21F to extract a charge
+from an R-12 system down to 0 PSIG.  THe cylinder will
+warm up as the charge is removed...
+
+Wrapping a recovery cylinder with slightly flattened 3/8"
+copper tubing (on the outside), slowly venting liquid CO2
+through the tubing would also be cold enough.
+
+Although an extreme fire danger would result, venting 
+liquid propane in the same setup to cool a recovery
+cylinder would cool it enough for R-12 recovery
+but not R-22 recovery (about -40F).  Care must be
+taken to remove the vented propane from the area with
+a very long hose and/or burn it off (flare it) safely
+at the release point to prevent a buildup of a "cloud"
+of gas which would cause an explosion if ignited.
+Don't try this one, unless you are already setup for
+handling explosive gasses.
+There are probably a zillion regulations with this option.
+
+Be very careful not of "overfill" the cylinder, use scales
+and dont exceed 70% of the "water capacity" (marked as WC),
+typically a BBQ grill tank will be WC 47.7, subtract out
+the tare weight (listed as TW), typically 12-13 lbs on
+a BBQ grill tank.  JC Whitney sells propane level gauges
+which are temp strips which stick on the side of the tank,
+pour hot water on it, and the liquid level becomes visible.
+
+If the cylinder is overfilled, thermal expansion may result
+in 100% liquid full, when the cylinder warms up, causing 
+the safety (popoff) to vent or the cylinder to explode.
+--ghg

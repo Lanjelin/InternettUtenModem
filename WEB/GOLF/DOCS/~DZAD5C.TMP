@@ -1,0 +1,17 @@
+<HTML>
+<BODY BGCOLOR=BLACK TEXT=WHITE LINK=WHITE VLINK=#ADADAD ALINK="#1EFF1E">
+<MAP NAME="LINKMAP">
+<AREA SHAPE="rect" COORDS="0,0,70,47" HREF="~DZAD83.TMP" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,48,70,81" HREF="intweb.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,82,70,105" HREF="magasin.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,106,70,129" HREF="trnrng.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,130,70,153" HREF="udstyr.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,154,70,177" HREF="intklub.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,178,70,220" HREF="rgnstn.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,221,70,244" HREF="humor.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,245,70,269" HREF="linklink.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,270,70,295" HREF="linkland.htm" TARGET="main">
+</MAP>
+<CENTER><IMG SRC="linksdk.jpg" WIDTH=100% HEIGHT=295 BORDER=0 USEMAP="#LINKMAP"></CENTER>
+</BODY>
+</HTML>

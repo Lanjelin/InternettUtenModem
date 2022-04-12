@@ -1,0 +1,41 @@
+*****************  T O   L I V E   I S   T O   D I E  ! !  *******************
+                     Doom2 WAD file, made from scratch                
+                    * by the HeadAche, Ole Hartvigsen *
+
+* WAD info *
+Map#                    : MAP01
+Single player           : Yup. That's what it's made for.
+Cooperative(1-4 players): Yes. 
+Deathmatch(1-4 players) : No. It wouldn't be any fun.
+New graphics            : Nope
+New monsters            : No
+New sounds              : Not any
+Skill levels            : Only Ultra-Violence
+
+* Build info *
+File name               : livedie.wad
+Txt file name           : livedie.txt
+Build time              : 10-15 hours
+Bugs                    : If you could possibly find any, then mail me!!
+Editor used             : EdMap v.1.31
+
+* Comments *
+This is a pretty tough WAD file, but there are also many secrets to look out
+for. They are pretty good hidden. You have to find all the key/scull-cards
+to make it to the exit. There are no places that you are locked in and can't 
+get away. Feel free to mail me about this or other WADs that I have made.
+
+Other WADs from the HeadAche:
+KICK-BUTT       : kickbutt.wad (Deathmatch)
+THE BLACK END   : blackend.wad 
+CHAOS           : chaos.wad
+CRUNCH          : crunch.wad
+
+E-mail:         sg-3data@online.no
+Homepage:       http://www.vestdata.no/~olag/ole/
+Doompage:       http://www.vestdata.no/~olag/ole/doom2.htm
+
+
+
+
+

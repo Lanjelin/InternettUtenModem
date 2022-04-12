@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>ArchiePlex Form</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<IMG SRC="PICS/LILLEILO.GIF" tppabs="http://inet.uni-c.dk/pics/lilleilo.gif" ALT="UNI-C Internet Service">
+<hr>
+
+<H1>ArchiePlex Form</H1>
+
+This <A href="../tppmsgs/msgs31.htm#3170" tppabs="http://web.nexor.co.uk/public/archie/archieplex/archieplex.html">
+ArchiePlex</a> form can locate files on Anonymous FTP sites
+in the Internet. Other servers can be found on the <a
+href="../tppmsgs/msgs31.htm#3171" tppabs="http://web.nexor.co.uk/archie.html">List of WWW Archie Services</a>.
+
+<HR>
+<FORM ACTION="http://inet.uni-c.dk/cgi-bin/archieplexform" tppabs="http://inet.uni-c.dk/cgi-bin/archieplexform">
+
+What would you like to search for? <INPUT NAME="query"> 
+
+<p>
+There are several types of search: 
+<SELECT NAME="type">
+<OPTION>Case Insensitive Substring Match
+<OPTION>Exact Match
+<OPTION>Case Sensitive Substring Match
+<OPTION>Regular Expression Match
+</SELECT>
+
+<P>
+The results can be sorted
+<INPUT TYPE="radio" NAME="order" VALUE="host" CHECKED >By Host or
+<INPUT TYPE="radio" NAME="order" VALUE="date">By Date 
+
+<P>
+The impact on other users can be:
+<SELECT NAME="nice">
+<OPTION>Not Nice At All
+<OPTION SELECTED>Nice
+<OPTION>Nicer
+<OPTION>Very Nice
+<OPTION>Extremely Nice
+<OPTION>Nicest
+</SELECT>
+
+<P>
+Several Archie Servers can be used:
+<SELECT NAME="server">           
+<OPTION VALUE="archie.ans.net">ANS archie server
+<OPTION VALUE="archie.au">Australia
+<OPTION VALUE="archie.uqam.ca">Canada
+<OPTION VALUE="archie.funet.fi">Finland
+<OPTION VALUE="archie.th-darmstadt.de">Germany
+<OPTION VALUE="ds.internic.net">Internic
+<OPTION VALUE="archie.ac.il">Israel
+<OPTION VALUE="archie.wide.ad.jp">Japan
+<OPTION VALUE="archie.kr">Korea
+<OPTION VALUE="archie.nz">New Zealand
+<OPTION VALUE="archie.unit.no">Norway
+<OPTION VALUE="archie.rutgers.edu">Rutgers University
+<OPTION VALUE="archie.luth.se">Sweden
+<OPTION VALUE="archie.switch.ch">Switzerland
+<OPTION VALUE="archie.ncu.edu.tw">Taiwan
+<OPTION VALUE="archie.doc.ic.ac.uk">United Kingdom (London)
+<OPTION VALUE="archie.hensa.ac.uk" SELECTED>United Kingdom (HENSA)
+<OPTION VALUE="archie.unl.edu">University of Nebraska
+</SELECT>
+
+<P>
+You can restrict the results to a domain (e.g. "uk"):
+<INPUT NAME="domain" SIZE=15> 
+
+<p>
+You can restrict the number of results to a number &lt; 100 (default 95):
+<INPUT NAME="hits" SIZE=5> 
+
+<P>
+Press this button to submit the query: 
+<INPUT TYPE="submit" VALUE="Submit">.
+
+<p>
+To reset the form, press this button: 
+<INPUT TYPE="reset" VALUE="Reset">.
+
+</form>
+
+<HR>
+<ADDRESS>04.10.96 <A HREF="mailto:Webmaster@inet.uni-c.dk">Webmaster@inet.uni-c.dk</A></ADDRESS>
+</body>
+</html>

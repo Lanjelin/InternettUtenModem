@@ -1,0 +1,145 @@
+TOURBUS: Tuesday, 16 April 1996
+DRIVER: Bob Rankin
+TODAY'S TOURBUS STOP: Speaking Geek
+
+   
+   Hooray! I've just finished six months of work on my upcoming book,
+   "Doctor Bob's Painless Guide To The Internet and Amazing Things You
+   Can Do With E-Mail". My publisher and I keenly sensed a lack of
+   Internet books with really long titles, so that explains the name.
+   
+   Stay tuned over the next few weeks for details on availability. In the
+   mean time, you can get my "Goodies" guide by checking out the deals at
+   one of our kind sponsors...
+
+*--------------*  BIG-TIME MAGAZINES FOR $10 A YEAR?  *--------------*
+                     ONLY TOURBUS RIDERS KNOW HOW!
+   Magazine Express has Exclusive TourBus Discounts others can only
+  dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This
+   is a limited time offer, so get details now by sending email to:
+*--------------------(  tourbus@magazines.com  )---------------------*
+
+   Today I've got a glossary of terms that will help as you explore the
+   Internet on your own. You'll no doubt encounter many of these words in
+   your travels, so bone up now on your Geek and you'll be prepared when
+   the acronyms, buzzwords, and euphemisms start flying!
+   
+   I threw a few zingers in just to lighten things up a little. And I
+   sincerely hope I haven't accidentally used any Yiddish profanities in
+   the process. :-)
+   
+   Glossing Over The Internet
+   --------------------------
+   
+   
+   ASCII - A plain text format that can be displayed on any computer;
+   acronym for American Standard Code for Information Interchange.
+   
+   Baud - A measure of modem speed. One baud can be thought of as one bit
+   per second. (True geeks will foam at the mouth when you say that,
+   though.) A single character is composed of eight bits of data.
+   
+   Browser - A piece of software that displays World-Wide Web documents,
+   such as Netscape, Mosaic or Lynx. When the saleslady at the cybermall
+   asks "Can I help you?", just say "No thanks, I'm only browsing."
+   
+   Cyber-Splat - The tendency to prefix words with "cyber" just because
+   they are remotely related to the Internet. Evokes a collective gag
+   reflex at parties.
+   
+   FAQ - A document that provides answers to frequently asked questions
+   on a specific topic. Common usage: "Read the FAQ, Bozo."
+   
+   FTP - File Transfer Protocol, or File Transfer Program. An exercise
+   which creates input for PKUNZIP such that it will invariably reply
+   "ZIP file corrupt".
+   
+   Flame - Expression of a strong opinion or criticism, often directed at
+   the clueless, tactless or FAQ-less.
+   
+   HTML - Hypertext markup language, the language used to create and
+   format documents for by display by a World-Wide Web browser.
+   
+   Hypertext - A system of linking documents together such that a simple
+   text file takes on the proportions of a Michener novel.
+   
+   IMHO - Acronym for "In My Humble Opinion". Commonly used in electronic
+   discussions by pompous jerks who think they're never wrong.
+   
+   Internet - A computer network that connects 400 billion people in 17
+   galaxies, or something like that.
+   
+   IRC - Internet Relay Chat, a multi-user chat system that enables
+   people to create silly nicknames and pretend they are good-looking.
+   
+   Lurking - To hang out in a mailing list or Usenet group in mortal fear
+   that your first posting will result in "Read the FAQ, Bozo."
+   
+   Newsreader - A software program used to read and post Usenet messages.
+   Examples are FreeAgent (for Windows) and NewsWatcher (for Macintosh).
+   
+   PPP - Point to Point Protocol. A communication method that allows a
+   personal computer to be directly connected to the Internet using a
+   standard voice telephone line.
+   
+   Packet - A blob of data sent over a network. Each packet includes a
+   message, the identity of the sender and receiver, and instructions for
+   making a bomb out of cow manure.
+   
+   RTFM - Read The Fine Manual, a retort to another user who has asked a
+   common question that can be answered by reading the available
+   documentation. (The word "fine" is commonly replaced by a more vulgar
+   substitute.)
+   
+   TCP/IP - Transmission Control Protocol/Internet Protocol, a set of
+   rules that enables different types of computers to insult each other
+   in their native language and still understand what is being said.
+   
+   UNIX - A computer operating system designed by geeks on drugs.
+   Unfortunately it was the foundation for the development of the
+   Internet and is the platform on which many Internet computers operate.
+   
+   
+   Do we need a break? OK, take five and do the Million Dollar thing...
+
+*-----------------*  Win the $1 Million Dollar Giveaway!  *----------------*
+   Enter in the PrizeLINK Progressive Jackpot Sweepstakes At Web Warehouse
+   mall!  Play the Browse & Win game, with a chance to Win up to a COOL $1
+      Million!!  Web Warehouse Shopping Mall offers a wide assortment of
+    quality consumer items and services ranging from jewelry to music CDs.
+       Stop by today and take advantage of the Special Monthly Savings!
+*------------------------( http://webwarehouse.com )-----------------------*
+
+   URL - Universal Resource Locator, a curious assortment of colons,
+   slashes and other funny characters that make up the address of a Web
+   document. (ie: http://www.snarch.com/~magilla/gorilla.html)
+   
+   Usenet - A electronic conferencing system that enables millions of
+   Internet users to wallow in dung.
+   
+   UUencoding - A means of converting a binary file into ASCII form so
+   that it can be sent by e-mail to another Internet user. The sender
+   uses the UUENCODE program, and the receiver must use UUDECODE to
+   convert the file to it's original form.
+
+*---------------------------*  GET SMART  *------------------------------*
+  Online instruction can be invigorating, personally motivating & highly
+  rewarding.  For more info about university courses online, point your
+  browser to http://major.UWSTOUT.edu or e-mail to "conted@UWSTOUT.edu".
+*------------------------------------------------------------------------*
+
+   Do you feel smarter now? Hope you enjoyed my little detour today! -Bob
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     _________________________________________________________________
+   
+   TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+   All rights reserved. Redistribution is allowed only with permission.
+   Send this copy to 3 friends and tell them to get on the Bus!

@@ -1,0 +1,118 @@
+From bobrankin@mhv.netTue Apr 30 08:14:59 1996
+Date: Tue, 30 Apr 1996 01:49:30 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 30 April 1996 - The Internet Oracle
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /     Be the first web-surfer on your block to own an  |//////|    |
+ | ultra-cool WorldVillage T-shirt. For more info visit |//////|    |
+ |        http://www.worldvillage.com/tshirt.htm        |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : The Internet Oracle
+TODAY'S TOURBUS ADDRESS : http://www.pcnet.com/~stenor/oracle
+
+
+Do dogs have lips?  I'll be darned if I know, but the Internet Oracle
+could no doubt give you an answer to that or any of life's other little
+mysteries.
+
+But you don't need to ask the Oracle how to get a good deal on magazine
+subscriptions.  Our sponsor Magazine Express has the answer...
+
+*----------------*  BIG-TIME MAGAZINES FOR $10 A YEAR?  *----------------*
+                       ONLY TOURBUS RIDERS KNOW HOW!
+    Magazine Express has exclusive TOURBUS discounts others can only
+   dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This
+    is a limited time offer, so get details now by sending email to:
+*-----------------------( tourbus@magazines.com )------------------------*
+
+Oh, before we begin...  That noise you heard last Thursday afternoon was
+the sound of my e-mail inbox exploding.  Over 140 messages that I was
+planning to answer perished in the blast, so if you sent me something
+and never got a reply, that's why.  (Moral of the story: Never write a
+UNIX shell script to directly manipulate your mail queue - ouch!)
+
+No Monocle On This Oracle
+-------------------------
+
+The Internet Oracle (formerly known as the Usenet Oracle) has nothing to
+do with those one-eyed dispensers of wisdom from Greek mythology.  It's
+an exercise in collaborative humor that involves asking silly questions
+and receiving creative and humorous replies.
+
+In order to ask the Oracle that burning question on your mind, you must
+send e-mail to "oracle@cs.indiana.edu".  In the subject of your message,
+put something like "Oracle Most Wise, please tell me ...".  (Any subject
+will work as long as it contains "tell me".)
+
+The Oracle will farm your question out to another participant, but you'll
+have to answer a question from another "supplicant" before you get your
+own reply!
+
+The Jocular Oracle
+------------------
+
+When you get your question, put a little effort into making it fun for the
+asker.  Be witty, be funny, be creative - it's all anonymous.  And if your
+answer is particularly clever, it will be published in the Internet
+Oracularities - a periodic posting of the best of the Oracle.
+
+You can read the Internet Oracularities in the Usenet newsgroup called
+"rec.humor.oracle".  If you don't have Usenet access, you can receive
+the Oracularities by e-mail.  Send e-mail to oracle-request@cs.indiana.edu
+with "subscribe" in the Subject line.
+
+Even though the Internet Oracle operates in the e-mail realm, you can
+submit a question or find out more about the Oracle on the Web at this
+address:  http://www.pcnet.com/~stenor/oracle
+
+Read The Help File First
+------------------------
+
+You can also get a copy of the Oracular Help File there (which you should
+definitely read before trying the Oracle), or request it via e-mail by
+sending a message to "oracle@cs.indiana.edu" with HELP in the Subject line.
+
+The Internet Oracle has been in operation since 1989 at Indiana University.
+You can view archived Oracularities on the Web at the address given above,
+or send the word "help" in the body of a message to mailserv@cs.indiana.edu
+for details on getting them by e-mail.
+
+
+*-----------------*  Win the $1 Million Dollar Giveaway!  *----------------*
+   Enter in the PrizeLINK Progressive Jackpot Sweepstakes At Web Warehouse
+   mall!  Play the Browse & Win game, with a chance to Win up to a COOL $1
+      Million!!  Web Warehouse Shopping Mall offers a wide assortment of
+    quality consumer items and services ranging from jewelry to music CDs.
+       Stop by today and take advantage of the Special Monthly Savings!
+*------------------------( http://webwarehouse.com )-----------------------*
+
+*----------------------------*  GET SMART  *-------------------------------*
+  Online instruction can be invigorating, personally motivating and highly
+  rewarding.  For more info about university courses online, point your
+  browser to http://major.UWSTOUT.edu or e-mail to "conted@UWSTOUT.edu".
+*--------------------------------------------------------------------------*
+
+Enjoy the Oracle, see you Thursday!  -Bob
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

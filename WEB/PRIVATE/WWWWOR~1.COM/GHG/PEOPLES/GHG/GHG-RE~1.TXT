@@ -1,0 +1,227 @@
+	A DROP-IN CFC-12 REPLACEMENT FOR AUTOMOTIVE AIRCONDITIONING
+
+			          by 
+
+			   George H. Goble
+			   286 W. Navajo
+			   W. Lafayette, IN 47906
+
+
+
+
+				ABSTRACT
+
+	There currently exists a large number (millions) of automobiles 
+with air conditioning systems designed to use CFC-12 as the refrigerant
+along with plans to produce such systems into the 1992-1995 time frame.
+During the 1992-1995 period, new production will transition to HFC-134a
+refrigerant based systems or other technologies which offer zero or little
+ozone depletion.  CFC-12 based systems will finally cease production
+around 1995, but they will have a lifetime of about 10 years, extending
+the need for CFC-12, or a substitute until the year 2005 or so.
+This paper will present a ternary blend of refrigerants which may be
+able to be used as a transition refrigerant in CFC-12 designed automotive
+air conditioners until HFC-134a and other technologies are able to take over.
+Performance, oil miscibility, flammability, toxicity, and testing with a 
+commercial dehydrant/leak sealant will be discussed.
+
+
+                             INTRODUCTION
+
+	A ternary blend of HCFC-22, HCFC-142b (chlorodifluoroethane), and 
+small amount of R-600a (isobutane) has been found to provide acceptable 
+operation on several automobile airconditioning systems designed for use
+with CFC-12. Some capacity increase has been noted in most systems, probably
+from the blend being non-azeotropic, leading to better utilization of the
+condenser and evaporator [1].  This blend features 95% less ozone depletion 
+potential (ODP) than does CFC-12 (ODP of 0.05 vs CFC-12 with ODP 1.0).
+This blend is 55% HCFC-22, 37% HCFC-142b, and 8% isobutane by weight and is
+compatible with mineral oils currently used in CFC-12 systems.
+
+	Testing began in August 1990 in two vehicles, a 1990 Pontiac
+Transsport, and a 1978 Datsun 810.  A 1979 Grand Prix was added in
+October 1990.  By July 1992, some 500 vehicles were running this blend.
+Only one failure has occurred. A 1984 Buick Century had a DA-6 compressor
+fail. The tear down of the compressor revealed the thin Teflon piston
+rings had broken, and fragments had lodged in the valves, holding
+them open.  Local mechanics state this is an extremely common failure
+mode for this compressor (with R-12), and one mechanic reported he
+changed 38 DA-6 compressors in a two month period during the summer
+of 1991 which had failed for the same reasons.  The remaining intact
+Teflon piston rings, did not appear to be swollen or affected by
+this blend. Currently, there is no reason to suspect this blend
+as being the cause of this failure.
+
+	The first two vehicles were instrumented with gauge manifolds (all
+copper lines) in the passenger compartment along with thermocouple probes,
+so temperatures and pressures could be monitored in real life driving 
+situations.  The 1990 Transsport, ran the standard CFC-12 charge for the 
+first year of its life, it then was charged with the ternary blend.  After 
+8 months no loss of charge was noted from performance and pressures.  
+Refrigerant has remained clear and dry as observed in an installed liquid 
+line sight glass.
+
+
+
+
+			PERFORMANCE
+
+	Testing of this blend has shown significant (around 4F-13F) 
+decrease in discharge air temperatures at ambient temperatures over 80F
+over that of what CFC-12 did.  Condensation and evaporation of the refrigerant 
+appear to occur over a larger band or "glide", thus achieving better 
+utilization of the evaporator and condenser.  At lower ambients, the 
+capacity (cooling) of this blend drops off to approximately that of CFC-12,
+mostly from the reduction in head pressure.  Different systems perform 
+differently. CCOT (orifice) systems generally show more increase in
+capacity than do expansion valve systems. Compressor discharge temperatures
+did run slightly higher than with R-12.  Hot ambients (90-100F) days
+produced discharge temperatures in the 180F range.  The same systems
+had R-12 discharge temperatures in the 160F range (average city driving).
+Even though slightly higher, the compressor discharge line temperatures are
+still low enough to prevent refrigerant/oil breakdown.
+
+			OIL MISCIBILITY
+
+	In addition to refrigeration effect, the isobutane makes this
+blend miscible in standard mineral oils used in CFC-12 systems.  Neither
+HCFC-22 nor HCFC-142b by itself are very miscible with mineral oils used in 
+CFC-12 systems at evaporator temperatures (32F). The "Upflow" evaporators and 
+large diameter suction lines commonly found in R-12 systems may cause problems 
+with oil return to the compressor, resulting in compressor failure, when the 
+refrigerant is not miscible in the oil being used [2].
+
+This blend stayed dissolved in oil (20% oil) by volume, at 32F (approximate 
+evaporation temperature in auto A/C systems) with Suniso 5GS (525 SUS viscosity)
+mineral oil of the type used in auto A/C systems. Suniso 3GS (150 SUS viscosity)
+mineral oil (naphthanic) and Virginia KMP 150 viscosity mineral oil (paraffinic)
+also stayed dissolved in refrigerant at 32F.  Both 150 viscosity oils were 
+completely dissolved at 0F.  Around 10% (by volume) of Suniso 525 SUS viscosity
+oil dissolved in the refrigerant at 0F.  This 525 viscosity oil is normally used
+in auto A/C systems which only operate at 32F or higher.  Typically, around 10%
+by volume, oil is circulated with the refrigerant in auto A/C systems.
+
+
+			FLAMMABILITY
+
+	The current blend could not be ignited, even after a 4 month leak 
+down test (over 1/2 the charge had been lost).  It should be noted that even 
+CFC-12 can be "flammable", when it contains dissolved oil, and a rapid 
+release occurs.  The oil atomizes into a fine mist and can be ignited.
+It has been reported that HCFC-22/HCFC-142b mixtures are nonflammable
+up to concentrations of 68% weight of HCFC-142b [3].
+
+	Many "nonflammable" refrigerants, which contain hydrogen atoms,
+can become flammable if mixed with large amounts of air under pressure.
+Such examples include HCFC-22 and HFC-134a.  For this reason, this blend
+and other refrigerants and blends containing hydrogen atoms should not
+be diluted with air, and pressurized (such as for leak testing). Diluting
+the refrigerant with dry nitrogen is ok.
+
+	Being a non-azeotrope, this blend will change composition during
+the leaking process.  Recharging (topping off), systems with partial
+charges is prohibited.  The entire charge must first be removed, and a 
+recharge done with new (non recycled) material.  Repeated topping off of 
+leaking systems could lead to this blend becoming flammable, thus the 
+requirement of always doing a full recharge with new material.  This 
+requirement should not impact automotive air conditioning severely. This 
+difficulty rapidly becomes prohibitive in large commercial systems, where 
+topping off leaking systems is the normal mode of operation.  Non-azeotropic 
+blends will be cumbersome in anything except automotive and small systems
+due to the requirement that the whole charge be removed.  Reconstitution
+of leaking non-azeotropic blends to known composition is beyond the scope
+of almost all service technicians.
+
+
+				TOXICITY
+
+	Unlike the new generation of "hyperfluorinated" refrigerants, all 
+of the ingredients of this blend have existed for decades and their properties
+are well known. HCFC-142b is commercially available in large quantities.
+
+
+			LEAKING AND LEAK SEALING IN CARS
+
+	It has been observed, that a large percentage of older (4 years or 
+older) cars, seem to have continual slow refrigerant leaking problems.  Even 
+when the leaks are identified and repaired, many are low on charge by the 
+following summer.  New leaks form, and/or hose diffusion may be occurring and 
+may be undetectable due to the large surface areas or difficult to access areas.
+Airconditioning service shops, often can only repair "obvious" leaks or change 
+"bad" components.  Some leaks have been observed to be temperature sensitive
+(e.g. only leaks in the winter when parts contract) Many cars are continually 
+recharged at 2 month to 1 year intervals, since the leaks are impossible to 
+find/repair.  Many owners of older cars are not willing to pay the cost of an 
+entire new system being installed (often over $1000), just because the leaks 
+cannot be found and repaired. State laws are being enacted (such as Florida,
+7/1/91), which prohibit automobiles from leaving a service shop unless the
+leak is repaired. If the leak is not repaired, then the CFC-12 must be
+removed from the system before releasing the car to the owner.  Mechanics
+have reported to the author that they have encountered certain brands of
+connectors which always leak small amounts of charge, even if they are new
+and this has led to much frustration as they cannot be properly "fixed".
+
+	A commercial dehydrant/sealant, "DRY-PAK" and "CRYO-SILANE" made
+by Cryo-Chem International [4], have been tested with this blend at higher
+dilutions than their normal product.  System drying and sealing of leaks
+has been observed to be satisfactory for the three week to 1 year "leak rates".
+This also stopped diffusion through hoses and helped prevent composition changes
+in the blend due to leaking.  Elimination of constant recharging reduces the 
+"effective" (per car) ODP further.  If a car "saves" five additional recharges 
+in its lifetime, then the effective ODP becomes 0.01 for a 99% reduction in 
+ozone depletion from CFC-12.  The sealant cost per car works out to be less than
+$20.  Shaft seal leaks are not repaired, but they are reduced.  Use of this 
+sealant requires the system be "dry", with no significant moisture trapped in 
+the drier.  The sealant manufacturer requires that the drier be changed
+prior to use.  Experience has found this to be true.  Using this blend
+[with sealant] on "wet" systems (without changing the drier), resulted in 
+the sealant being neutralized and no sealing action.  No harm was caused 
+be this action other than sealant being wasted.  The systems continued 
+to perform (and leak) normally.  Changing the drier and orifice are always
+good refrigeration practices. Old driers can have their desiccant bags
+break, clogging the system with clay from the desiccant binder.
+
+				PROCEDURES
+
+	Being a non-azeotropic blend, certain procedures must be followed
+to prevent composition changes.  The most obvious is that the system must
+be "liquid charged", carefully to avoid slugging the compressor.  Systems
+with partially leaked charges, should be discharged before recharging, to
+achieve a known composition.  This problem is greatly reduced by the addition
+of the above sealant. Under the "1990 Clean Air Act", this blend cannot
+be vented to the environment after certain dates (mostly in 1992), depending
+on the type of service (mobile airconditioning, fixed, size of service shop,
+etc).  It can be "recovered" (pumped into a tank) with CFC-12 recovery
+equipment and returned to the manufacturer to be reclaimed to new standards
+or be destroyed, it cannot be reused on site. 
+
+
+				CONCLUSIONS
+
+	The author believes this blend can be used to keep existing and 
+future CFC-12 automotive airconditioning systems running until they reach 
+their normal end of life.  This blend may take some pressure off the race to 
+get HFC-134a, its complex lubricants and field procedures operational, for 
+retrofitting existing CFC-12 systems which fail in the field.  Being a blend,
+"custom" refrigerants can be made for extra performance in hot humid climates
+with minor system modifications (a high pressure cutout switch). Testing
+is currently ongoing in this area.  It is possible to deliver subfreezing
+air continuously at ambients of 100F (highway driving).
+
+Patent pending.
+
+
+				REFERENCES
+
+[1]	Kruse, H. "The advantages of non-azeotropic refrigerant mixtures
+	for heat pump applications" Int. J. Refrig. 1981 vol 4 May pp 119-125
+
+[2]	ASHRAE, 1984 Systems Handbook, pp 29.11
+
+[3]	Kuijpers, L., Miner, S., "The CFC issue and the CFC forum at the
+	1988 Purdue IIR conference", Int. J. Refrig. 1989 vol 12 May pp. 123
+
+[4]	Private communication with Packo, J., Cryo-Chem Intl. Inc.
+
+
+

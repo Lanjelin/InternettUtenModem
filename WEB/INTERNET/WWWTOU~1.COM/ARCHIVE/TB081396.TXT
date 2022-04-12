@@ -1,0 +1,227 @@
+
+From bobrankin@mhv.net Wed Aug 14 19:30:52 1996
+Date: Wed, 14 Aug 1996 00:38:30 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 13 Aug 1996 - IRC
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /   Take the MYST Trivia Challenge at WorldVillage and |//////|    |
+ |   win one of 50 great prizes from Broderbund!  For   |//////|    |
+ |   details, see http://www.worldvillage.com/myst.htm  |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : Internet Relay Chat
+
+Remember the first time you sent e-mail to someone halfway around
+the world, and got a reply in less than a minute?  If you thought
+that was cool, then Internet Relay Chat (IRC) will knock your
+socks off!
+
+Today's Bus will be a quick tour through the world of IRC, and is
+condensed from Chapter 12 of my new book "Dr. Bob's Painless Guide To
+The Internet".  (See the end of this posting for more info on the book.)
+
+
+*-------------------------- BUY IT ONLINE --------------------------*
+         Your Guide to Locating Products & Services Online
+   Enter our "Can you FIND Goober" contest!  Put "Tour Bus" on the
+      contest entry and we'll enter you twice - Great prizes!!
+*------------------(  http://www.BuyItOnline.com  )-----------------*
+
+If you've ever ventured into a chat room on commercial services
+such as America Online or CompuServe, you have an idea what IRC
+is like.  IRC can be compared to using a CB radio - you tune in to
+a specific chat channel, give yourself a handle (nickname), and
+participate in a live conversation with one or more people by
+typing messages back and forth. Anyone connected to the same
+channel can read your messages.
+
+Firing Up IRC
+-------------
+
+To use IRC you need an IRC client (software) that connects  you
+to an IRC server (a remote computer that plays host to the chat).
+If you have a Unix shell account, you can start IRC and assign
+yourself a handle by typing a command like this at your Shell
+prompt.
+
+    irc ChatterBox
+
+If the default IRC server is busy, you can specify an alternate
+one by typing
+
+    irc ChatterBox <server>
+
+where <server> is one of these server names:
+
+    irc-2.texas.net   organ.ctr.columbia.edu
+    irc.dal.net       irc.cerf.net
+
+If you have a graphical (SLIP/PPP) account, look for an icon
+labeled mIRC, wsIRC, Homer, ircle, or simply IRC, and click on it
+to start IRC.  If you can't find an IRC client on your computer,
+you can download one via anonymous FTP from cs-ftp.bu.edu.  Look
+in the  /irc/clients directory for both Windows and Macintosh
+software for IRC.  (From your browser, that address would be
+ftp://cs-ftp.bu.edu/irc/clients)
+
+Commercial online services may allow you to access IRC, in
+addition to their own private chat services. Check your serviceOs
+Internet area to find out if you can participate in IRC.  You may
+have a little difficulty connecting to IRC - it sometimes takes a
+minute or so, and occasionally you won't be able to connect at
+all because the server is too busy. Try another server if you
+have problems connecting.
+
+Basic IRC Commands
+------------------
+
+IRC commands are the same whether you have a Shell or a SLIP/PPP
+account. Graphical IRC software is much easier to use than a
+Shell account, though, because it uses multiple windows to
+display channel listings, command output, and dialog.  Let's look
+at some of the basics of Internet chatting.
+
+What Channels Are Available?
+----------------------------
+
+If you're new to IRC, the first thing you'll need is a list of
+available IRC channels on your server. To find out what's
+available, send one of these commands (after entering IRC):
+
+  /LIST MIN=10        List channels with at least 10 participants
+  /LIST #XYZ          List channels with "xyz" in the name
+
+Avoid using the /LIST command with no keywords because you may
+get a huge list - sometimes there are thousands of active channels!
+(Note: The "#" is always the first character of an IRC channel
+name.)
+
+Joining or Leaving a Channel
+----------------------------
+
+Send the /JOIN #FLYINGCOWS command to connect to a channel (use an
+actual channel name from your /LIST output in place of FLYINGCOWS).
+Don't be surprised if someone greets you right away - it's a pretty
+common occurrence.  To leave a channel that you've joined, type
+/PART #FLYINGCOWS or exit IRC completely with the /QUIT command.
+
+Sending and Receiving Messages
+------------------------------
+
+To participate in an IRC chat, type your message on the command
+line and press Enter (don't use a slash).  Your message will
+appear on the screen, along with a stream of messages from others
+in the channel.   You'll also see informational messages when
+people join or leave a channel.
+
+Who Else Is on the Channel?
+---------------------------
+
+To get a list of users on a channel, use the /WHO command as in
+/WHO #FLYINGCOWS. In response you'll get the handle, e-mail
+address, and IRC name of the other users. If you want to get more
+information on a user with a particular handle, use the /WHOIS
+command as in /WHOIS DOPEY.
+
+Be aware that the IRC name is not always the real name of the
+person. Most IRC clients allow you to use whatever you want for
+the IRC name and some even let you enter a bogus e-mail address!
+In IRC, you can never be certain that anyone is really who they
+claim to be.
+
+Operators and Bots
+------------------
+
+An OPerator (or OP for short) is a person who owns or moderates
+an IRC channel. OPerators can expel or ban trouble-makers, set
+the topic for a channel, and grant OPerator status to other
+users. Most channels have an OPerator, identified by an @ symbol
+next to their handle.
+
+Unlike OPerators, bots (software robots) look like normal users
+but they're not. They are programs that can both keep order and
+raise havoc on IRC channels. Some bots look for offensive
+language and expel users who don't play by the rules. Others are
+just annoying, and some malicious bots even flood channels with
+streams of meaningless nonsense.  Most IRC servers (especially in
+the U.S.) do not allow bots.
+
+More IRC Commands
+-----------------
+
+Here are some additional IRC commands you may find useful:
+
+  /HELP                    Get help with IRC commands
+  /NICK                    Change your handle
+  /AWAY                    Tell others you're away
+
+For a closer look at IRC commands and how to use them, read the
+IRC Primer at http://www.kei.com/irc/IRCprimer1.1.txt on the Web.
+
+
+Some warnings about chat services
+---------------------------------
+
+  - Chat systems are real time sponges-they'll suck up all
+    your time if you aren't careful!
+
+  - Don't answer any questions that make you uncomfortable, and
+    think hard before giving out personal information to strangers.
+    Just sign off if you feel threatened or intimidated.
+
+  - Don't hesitate to summon an operator if you are harrassed.
+    Operators can expel or permanently ban chat users who don't play
+    by the rules.
+
+Start Here
+----------
+
+Here are some addresses for several Web pages which list IRC
+channels and  MUDs that you can use to start your journey into
+the realm of online chat.
+
+  - Jeff's Awesome Chat Index
+    http://www.greenapple.com/~jbigham/chat.html
+
+  - Yahoo! IRC Links
+    http://www.yahoo.com/Computers_and_Internet/Internet/Chatting/IRC
+
+
+*---------* Online Backup for Business, Writers and Individuals *------*
+  CYBeRGEM Remote Backup System provides an easy to use, cost effective
+  off site storage system for your critical data.  Save & retrieve your
+  zipped and encrypted files (only you have the key) via the Internet.
+*----* e-mail: backup@cybrgem.com - http://www.cybrgem.com/backup *----*
+
+*---------------------------*  ONLINE COURSES  *-----------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*----------------------------------------------------------------------*
+
+Sorry this TOURBUS is a little longer than most... I guess I was feeling
+well, sort of chatty.  ;-)  See you next time!  -Bob
+
+=========================================================================
+  Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+  Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=-----------------------------------------------------------------------=
+  For info on my new book "Doctor Bob's Painless Guide To The Internet"
+   send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO or visit
+  my Web site at http://csbh.mhv.net/~bobrankin for reviews & ordering.
+=========================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!

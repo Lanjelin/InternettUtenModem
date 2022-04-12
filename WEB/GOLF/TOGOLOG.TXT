@@ -1,0 +1,2334 @@
+------------------------------
+  Web Buddy: to go trace log
+------------------------------
+
+Page Title   : Golf
+Page URL     : http://www.golfonline.dk/
+Start time   : Wednesday, March 26, 1997 13:47:01
+Finish time  : Wednesday, March 26, 1997 14:24:53
+Elapsed time : 37 minutes 52 seconds
+Disk space   : 5021 KB 
+Persistence  : 3
+Levels       : Entire site
+
+Summary:
+ - Links resolved : 909 of 942 (33 links were bad) 
+ - Graphics resolved : 194 of 198
+
+----------------------------------------
+2339423 - 0 - Begin Session Update: time = 859380421 - 
+2339423 - 0 - Begin Main Loop - 
+2339445 - 4529466 -  - Resolve File , http://www.golfonline.dk/
+2353796 - 4529466 -  - Resolve Complete
+2353906 - 4529474 -  - Resolve File , http://www.golfonline.dk/dansk/dkframe.html
+2354085 - 4529482 -  - Resolve File , http://www.golfonline.dk/english/ukframe.html
+2354339 - 4529490 -  - Resolve File , http://www.golfonline.dk/deutsch/ddframe.html
+2354593 - 4529498 -  - Resolve File , http://www.golfonline.dk/dansk/sommer.html
+2362636 - 4529474 -  - Resolve Complete
+2362641 - 4560918 -  - Resolve File , http://www.golfonline.dk/dansk/debat.html
+2363327 - 4529482 -  - Resolve Complete
+2363327 - 4529490 -  - Resolve Complete
+2363327 - 4529498 -  - Resolve Complete
+2368182 - 4560918 -  - Resolve Complete
+2368204 - 4560878 -  - Resolve File , http://www.golfonline.dk/dansk/top.html
+2368217 - 4560870 -  - Resolve File , http://www.golfonline.dk/dansk/bund.html
+2368232 - 4560862 -  - Resolve File , http://www.golfonline.dk/english/top.html
+2368247 - 4560886 -  - Resolve File , http://www.golfonline.dk/english/bund.html
+2373459 - 4560878 -  - Resolve Complete
+2373467 - 4560894 -  - Resolve File , http://www.golfonline.dk/deutsch/top.html
+2374023 - 4560870 -  - Resolve Complete
+2374031 - 4560902 -  - Resolve File , http://www.golfonline.dk/deutsch/bund.html
+2374296 - 4560862 -  - Resolve Complete
+2374300 - 4560910 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sommergreen.html
+2374513 - 4560886 -  - Resolve Complete
+2374521 - 4559886 -  - Resolve File , http://www.golfonline.dk/dansk/debat/toframe.html
+2382388 - 4560894 -  - Resolve Complete
+2382960 - 4560902 -  - Resolve Complete
+2402620 - 4559886 -  - Resolve Complete
+2402800 - 4560910 -  - Resolve Complete
+2403566 - 4559830 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/toframe.html
+2403791 - 4559838 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/toframe.html
+2404075 - 4559846 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toframe.html
+2404143 - 4559854 -  - Resolve File , http://www.golfonline.dk/dansk/links/toframe.html
+2405654 - 4559830 -  - Resolve Complete
+2405989 - 4559862 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/toframe.html
+2407247 - 4559838 -  - Resolve Complete
+2407261 - 4559870 -  - Resolve File , http://www.golfonline.dk/dansk/pro/toframe.html
+2407261 - 4559846 -  - Resolve Complete
+2407522 - 4559878 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/toframe.html
+2407522 - 4559854 -  - Resolve Complete
+2407994 - 4561154 -  - Resolve File , http://www.golfonline.dk/dansk/shops/toframe.html
+2413002 - 4559862 -  - Resolve Complete
+2413551 - 4561098 -  - Resolve File , http://www.golfonline.dk/english/hul19/toframe.html
+2414934 - 4559878 -  - Resolve Complete
+2414952 - 4561106 -  - Resolve File , http://www.golfonline.dk/english/debat/toframe.html
+2415330 - 4561154 -  - Resolve Complete
+2415342 - 4561114 -  - Resolve File , http://www.golfonline.dk/english/dgu/toframe.html
+2421952 - 4561098 -  - Resolve Error , -6404
+2421960 - 4561098 -  - Resolve File , http://www.golfonline.dk/english/klubber/toframe.html
+2423117 - 4561106 -  - Resolve Error , -6404
+2423125 - 4561106 -  - Resolve File , http://www.golfonline.dk/english/links/toframe.html
+2423395 - 4561114 -  - Resolve Error , -6404
+2423402 - 4561114 -  - Resolve File , http://www.golfonline.dk/english/matcher/toframe.html
+2425618 - 4559870 -  - Resolve Complete
+2425628 - 4561122 -  - Resolve File , http://www.golfonline.dk/english/pro/toframe.html
+2425628 - 4561098 -  - Resolve Error , -6404
+2425691 - 4561098 -  - Resolve File , http://www.golfonline.dk/english/rejser/toframe.html
+2425691 - 4561106 -  - Resolve Error , -6404
+2426258 - 4561106 -  - Resolve File , http://www.golfonline.dk/english/shops/toframe.html
+2426258 - 4561114 -  - Resolve Error , -6404
+2426696 - 4561114 -  - Resolve File , http://www.golfonline.dk/deutsch/hul19/toframe.html
+2428484 - 4561122 -  - Resolve Error , -6404
+2428566 - 4561122 -  - Resolve File , http://www.golfonline.dk/deutsch/debat/toframe.html
+2429717 - 4561098 -  - Resolve Error , -6404
+2429729 - 4561098 -  - Resolve File , http://www.golfonline.dk/deutsch/dgu/toframe.html
+2430552 - 4561106 -  - Resolve Error , -6404
+2430559 - 4561106 -  - Resolve File , http://www.golfonline.dk/deutsch/klubber/toframe.html
+2432308 - 4561114 -  - Resolve Error , -6404
+2432315 - 4561114 -  - Resolve File , http://www.golfonline.dk/deutsch/links/toframe.html
+2433904 - 4561122 -  - Resolve Error , -6404
+2433912 - 4561122 -  - Resolve File , http://www.golfonline.dk/deutsch/matcher/toframe.html
+2435481 - 4561098 -  - Resolve Error , -6404
+2435489 - 4561098 -  - Resolve File , http://www.golfonline.dk/deutsch/pro/toframe.html
+2436788 - 4561106 -  - Resolve Error , -6404
+2436982 - 4561106 -  - Resolve File , http://www.golfonline.dk/deutsch/rejser/toframe.html
+2437581 - 4561114 -  - Resolve Error , -6404
+2437588 - 4561114 -  - Resolve File , http://www.golfonline.dk/deutsch/shops/toframe.html
+2438649 - 4561122 -  - Resolve Error , -6404
+2438656 - 4561122 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/klubfs.html
+2440088 - 4561098 -  - Resolve Error , -6404
+2440097 - 4561098 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/faaborg/klubfs.html
+2441254 - 4561106 -  - Resolve Error , -6404
+2441265 - 4561106 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/himmerland/klubfs.html
+2441734 - 4561114 -  - Resolve Error , -6404
+2441746 - 4561114 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holmsland/klubfs.html
+2443064 - 4561122 -  - Resolve Complete
+2443072 - 4561146 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvide_klit/klubfs.html
+2445191 - 4561098 -  - Resolve Complete
+2445200 - 4561138 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/maribo/klubfs.html
+2446477 - 4561106 -  - Resolve Complete
+2446485 - 4561130 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/klubfs.html
+2446884 - 4561114 -  - Resolve Complete
+2446912 - 4560526 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/royal_oak/klubfs.html
+2449145 - 4561146 -  - Resolve Complete
+2449154 - 4560470 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/simons/klubfs.html
+2453633 - 4560526 -  - Resolve Complete
+2453694 - 4560478 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/saeby/klubfs.html
+2463651 - 4560478 -  - Resolve Complete
+2463898 - 4560486 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vallensbaek/klubfs.html
+2470293 - 4561138 -  - Resolve Complete
+2470301 - 4560494 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/klubfs.html
+2470301 - 4560470 -  - Resolve Complete
+2470386 - 4560502 -  - Resolve File , http://www.golfonline.dk/dansk/debat/venstre.html
+2470559 - 4560486 -  - Resolve Complete
+2470563 - 4560510 -  - Resolve File , http://www.golfonline.dk/dansk/debat/main.html
+2471601 - 4561130 -  - Resolve Complete
+2478920 - 4560502 -  - Resolve Complete
+2478922 - 4560510 -  - Resolve Complete
+2488123 - 4560494 -  - Resolve Complete
+2489419 - 4559714 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/venstre.html
+2489759 - 4560518 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/main.html
+2490197 - 4559658 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/venstre.html
+2490391 - 4559666 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/main.html
+2495292 - 4559714 -  - Resolve Complete
+2495299 - 4559674 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/venstre.html
+2495684 - 4560518 -  - Resolve Complete
+2495692 - 4559682 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/main.html
+2496212 - 4559658 -  - Resolve Complete
+2496226 - 4559690 -  - Resolve File , http://www.golfonline.dk/dansk/links/venstre.html
+2496226 - 4559666 -  - Resolve Complete
+2496259 - 4559698 -  - Resolve File , http://www.golfonline.dk/dansk/links/main.html
+2500986 - 4559690 -  - Resolve Complete
+2501321 - 4559742 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/venstre.html
+2501372 - 4559698 -  - Resolve Complete
+2501381 - 4559790 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/main.html
+2504120 - 4559682 -  - Resolve Complete
+2504252 - 4559734 -  - Resolve File , http://www.golfonline.dk/dansk/pro/venstre.html
+2508782 - 4559742 -  - Resolve Complete
+2508792 - 4559750 -  - Resolve File , http://www.golfonline.dk/dansk/pro/main.html
+2509323 - 4559790 -  - Resolve Complete
+2509331 - 4559758 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/venstre.html
+2510478 - 4559674 -  - Resolve Complete
+2510486 - 4559706 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/main.html
+2511195 - 4559734 -  - Resolve Complete
+2511282 - 4559766 -  - Resolve File , http://www.golfonline.dk/dansk/shops/venstre.html
+2515956 - 4559758 -  - Resolve Complete
+2515965 - 4573266 -  - Resolve File , http://www.golfonline.dk/dansk/shops/main.html
+2515965 - 4559750 -  - Resolve Complete
+2516186 - 4559782 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/klubhead.html
+2516194 - 4559706 -  - Resolve Complete
+2516374 - 4573210 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/klub.html
+2516374 - 4559766 -  - Resolve Complete
+2516665 - 4559774 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/faaborg/klubhead.html
+2522186 - 4573266 -  - Resolve Complete
+2522196 - 4573218 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/faaborg/klub.html
+2522196 - 4559782 -  - Resolve Complete
+2522320 - 4573226 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/himmerland/klubhead.html
+2523153 - 4559774 -  - Resolve Complete
+2523168 - 4573234 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/himmerland/klub.html
+2526375 - 4573218 -  - Resolve Complete
+2526387 - 4573242 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holmsland/klubhead.html
+2526571 - 4573226 -  - Resolve Complete
+2526582 - 4573250 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holmsland/klub.html
+2530998 - 4573242 -  - Resolve Complete
+2531013 - 4575610 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvide_klit/klubhead.html
+2532059 - 4573210 -  - Resolve Complete
+2532210 - 4573258 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvide_klit/klub.html
+2532553 - 4573234 -  - Resolve Complete
+2532565 - 4575666 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/maribo/klubhead.html
+2537695 - 4573250 -  - Resolve Complete
+2537704 - 4575618 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/maribo/klub.html
+2539246 - 4575610 -  - Resolve Complete
+2539355 - 4575626 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/klubhead.html
+2540476 - 4573258 -  - Resolve Complete
+2540489 - 4575634 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/klub.html
+2540489 - 4575666 -  - Resolve Complete
+2540796 - 4575642 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/royal_oak/klubhead.html
+2546809 - 4575618 -  - Resolve Complete
+2546820 - 4575650 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/royal_oak/klub.html
+2547674 - 4575626 -  - Resolve Complete
+2547687 - 4575658 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/simons/klubhead.html
+2549718 - 4575642 -  - Resolve Complete
+2549732 - 4576066 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/simons/klub.html
+2556230 - 4575658 -  - Resolve Complete
+2556243 - 4576018 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/saeby/klubhead.html
+2558131 - 4575650 -  - Resolve Complete
+2558284 - 4576010 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/saeby/klub.html
+2560459 - 4576066 -  - Resolve Complete
+2560760 - 4576034 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vallensbaek/klubhead.html
+2561329 - 4576018 -  - Resolve Complete
+2561350 - 4576042 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vallensbaek/klub.html
+2561364 - 4575634 -  - Resolve Complete
+2561377 - 4576026 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/klubhead.html
+2566239 - 4576034 -  - Resolve Complete
+2566254 - 4576050 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/klub.html
+2566912 - 4576042 -  - Resolve Complete
+2566915 - 4576058 -  - Resolve File , http://www.golfonline.dk/dansk/debat/artikler.html
+2573474 - 4576058 -  - Resolve Complete
+2573479 - 4582418 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag.html
+2573715 - 4576026 -  - Resolve Complete
+2573724 - 4582426 -  - Resolve File , http://www.golfonline.dk/dansk/debat/nyt.htm
+2574435 - 4576010 -  - Resolve Complete
+2577653 - 4576050 -  - Resolve Complete
+2578511 - 4582426 -  - Resolve Complete
+2588522 - 4582418 -  - Resolve Complete
+2593157 - 4582466 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/nyt.html
+2593214 - 4582410 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/duffy.html
+2593280 - 4582434 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/vits.html
+2593448 - 4582442 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/holein1.html
+2601044 - 4582434 -  - Resolve Complete
+2601055 - 4582450 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/input.html
+2607528 - 4582410 -  - Resolve Complete
+2607618 - 4581766 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/annoncer.html
+2608827 - 4582450 -  - Resolve Complete
+2608882 - 4581710 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/dgu.html
+2611233 - 4582442 -  - Resolve Complete
+2611244 - 4581718 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/dpga.html
+2613006 - 4582466 -  - Resolve Complete
+2613015 - 4582458 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/museum.html
+2613352 - 4581766 -  - Resolve Complete
+2613455 - 4581726 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/roga.html
+2614551 - 4581710 -  - Resolve Complete
+2614570 - 4581734 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/usga.html
+2617783 - 4581718 -  - Resolve Complete
+2618404 - 4581742 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/regler.html
+2620875 - 4581726 -  - Resolve Complete
+2620886 - 4581750 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/keepers.html
+2620886 - 4581734 -  - Resolve Complete
+2621352 - 4581758 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/albertslund/klubfs.html
+2625146 - 4581742 -  - Resolve Complete
+2625156 - 4584426 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/alssund/klubfs.html
+2627161 - 4581758 -  - Resolve Complete
+2627394 - 4584378 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/asserbo/klubfs.html
+2627541 - 4581750 -  - Resolve Complete
+2627559 - 4584386 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blokhus/klubfs.html
+2628116 - 4582458 -  - Resolve Complete
+2628124 - 4584370 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blommenslyst/klubfs.html
+2630677 - 4584426 -  - Resolve Complete
+2630869 - 4584394 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bornholm/klubfs.html
+2633253 - 4584378 -  - Resolve Complete
+2633560 - 4584418 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/brande/klubfs.html
+2633560 - 4584386 -  - Resolve Complete
+2633770 - 4584410 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/breinholtgaard/klubfs.html
+2633770 - 4584370 -  - Resolve Complete
+2634014 - 4584402 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bronderslev/klubfs.html
+2637340 - 4584394 -  - Resolve Complete
+2637380 - 4602338 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dejbjerg/klubfs.html
+2640102 - 4584418 -  - Resolve Complete
+2640166 - 4602282 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dragoer/klubfs.html
+2640166 - 4584410 -  - Resolve Complete
+2640359 - 4602290 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ebeltoft/klubfs.html
+2641142 - 4584402 -  - Resolve Complete
+2641335 - 4602298 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/esbjerg/klubfs.html
+2644921 - 4602338 -  - Resolve Complete
+2644932 - 4602306 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/falster/klubfs.html
+2646930 - 4602282 -  - Resolve Complete
+2646944 - 4602314 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fanoe/klubfs.html
+2647228 - 4602290 -  - Resolve Complete
+2647241 - 4602322 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredensborg/klubfs.html
+2648425 - 4602298 -  - Resolve Complete
+2648833 - 4602330 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredericia/klubfs.html
+2649698 - 4602306 -  - Resolve Complete
+2649738 - 4602738 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikshavn/klubfs.html
+2650672 - 4602314 -  - Resolve Complete
+2650700 - 4602690 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikssund/klubfs.html
+2650824 - 4602322 -  - Resolve Complete
+2651085 - 4602682 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/furesoe/klubfs.html
+2652623 - 4602330 -  - Resolve Complete
+2652651 - 4602698 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/klubfs.html
+2653715 - 4602738 -  - Resolve Complete
+2653846 - 4602706 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/give/klubfs.html
+2654643 - 4602690 -  - Resolve Complete
+2654655 - 4602714 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grenaa/klubfs.html
+2655882 - 4602682 -  - Resolve Complete
+2656276 - 4602722 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gyttegaard/klubfs.html
+2656737 - 4602698 -  - Resolve Complete
+2656758 - 4602730 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/haderslev/klubfs.html
+2657223 - 4602706 -  - Resolve Complete
+2657239 - 4606138 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hals/klubfs.html
+2657587 - 4602714 -  - Resolve Complete
+2657609 - 4606082 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/han_herred/klubfs.html
+2659297 - 4602722 -  - Resolve Complete
+2659463 - 4606090 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/harekaer/klubfs.html
+2659463 - 4602730 -  - Resolve Complete
+2659860 - 4606098 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hedeland/klubfs.html
+2660763 - 4606138 -  - Resolve Complete
+2660782 - 4606106 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/klubfs.html
+2661789 - 4606082 -  - Resolve Complete
+2661934 - 4606114 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/henne/klubfs.html
+2666137 - 4606090 -  - Resolve Complete
+2666618 - 4606122 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/herning/klubfs.html
+2666618 - 4606098 -  - Resolve Complete
+2666795 - 4588166 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hilleroed/klubfs.html
+2667056 - 4606106 -  - Resolve Complete
+2667400 - 4606130 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hirtshals/klubfs.html
+2668625 - 4606114 -  - Resolve Complete
+2668779 - 4588110 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/klubfs.html
+2671204 - 4606122 -  - Resolve Complete
+2671369 - 4588118 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjorring/klubfs.html
+2671383 - 4588166 -  - Resolve Complete
+2671750 - 4588126 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holbaek/klubfs.html
+2671764 - 4606130 -  - Resolve Complete
+2672276 - 4588134 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holstebro/klubfs.html
+2672322 - 4588110 -  - Resolve Complete
+2672330 - 4588142 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hornbaek/klubfs.html
+2673903 - 4588118 -  - Resolve Complete
+2673910 - 4588150 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/horsens/klubfs.html
+2674676 - 4588126 -  - Resolve Complete
+2674693 - 4588158 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvidovre/klubfs.html
+2675324 - 4588134 -  - Resolve Complete
+2675503 - 4610438 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hoersholm/klubfs.html
+2676019 - 4588142 -  - Resolve Complete
+2676380 - 4610382 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ikast/klubfs.html
+2678578 - 4588150 -  - Resolve Complete
+2678704 - 4610390 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/jelling/klubfs.html
+2679065 - 4588158 -  - Resolve Complete
+2679073 - 4610398 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/juelsminde/klubfs.html
+2679645 - 4610438 -  - Resolve Complete
+2679734 - 4610406 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/klubfs.html
+2680314 - 4610382 -  - Resolve Complete
+2680325 - 4610414 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaloe/klubfs.html
+2681210 - 4610390 -  - Resolve Complete
+2681232 - 4610422 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kalundborg/klubfs.html
+2681288 - 4610398 -  - Resolve Complete
+2681298 - 4610430 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kokkedal/klubfs.html
+2681655 - 4610406 -  - Resolve Complete
+2681670 - 4560602 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kolding/klubfs.html
+2682484 - 4610414 -  - Resolve Complete
+2682493 - 4560546 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/klubfs.html
+2683234 - 4610422 -  - Resolve Complete
+2683248 - 4560554 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koebenhavn/klubfs.html
+2683248 - 4610430 -  - Resolve Complete
+2683285 - 4560562 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koege/klubfs.html
+2683289 - 4560602 -  - Resolve Complete
+2683304 - 4560570 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/klubfs.html
+2683460 - 4560546 -  - Resolve Complete
+2683482 - 4560578 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lillebaelt/klubfs.html
+2683695 - 4560554 -  - Resolve Complete
+2683718 - 4560586 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/laesoe/klubfs.html
+2683776 - 4560562 -  - Resolve Complete
+2683798 - 4560594 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/loekken/klubfs.html
+2683852 - 4560570 -  - Resolve Complete
+2683867 - 4560994 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/mollerup/klubfs.html
+2684773 - 4560578 -  - Resolve Complete
+2684924 - 4560938 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/morsoe/klubfs.html
+2685667 - 4560586 -  - Resolve Complete
+2685679 - 4560946 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moelleaaen/klubfs.html
+2685693 - 4560594 -  - Resolve Complete
+2686160 - 4560954 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moen/klubfs.html
+2686160 - 4560994 -  - Resolve Complete
+2686641 - 4560962 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nexo/klubfs.html
+2687636 - 4560938 -  - Resolve Complete
+2687656 - 4560970 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordborg/klubfs.html
+2687656 - 4560946 -  - Resolve Complete
+2687780 - 4560978 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordbornholm/klubfs.html
+2688605 - 4560954 -  - Resolve Complete
+2688714 - 4560986 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/norddjursland/klubfs.html
+2689665 - 4560962 -  - Resolve Complete
+2689689 - 4561070 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordvestjysk/klubfs.html
+2692006 - 4560970 -  - Resolve Complete
+2692292 - 4561022 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/naestved/klubfs.html
+2692930 - 4560978 -  - Resolve Complete
+2693227 - 4561014 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odder/klubfs.html
+2693838 - 4560986 -  - Resolve Complete
+2694045 - 4561030 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odense/klubfs.html
+2694704 - 4561070 -  - Resolve Complete
+2694716 - 4561038 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/klubfs.html
+2696607 - 4561022 -  - Resolve Complete
+2696749 - 4561046 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/randers/klubfs.html
+2696749 - 4561014 -  - Resolve Complete
+2697256 - 4561062 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ribe/klubfs.html
+2697788 - 4561030 -  - Resolve Complete
+2698003 - 4620738 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roskilde/klubfs.html
+2698292 - 4561038 -  - Resolve Complete
+2698484 - 4561054 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rold_skov/klubfs.html
+2702503 - 4561046 -  - Resolve Complete
+2702626 - 4620682 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rungsted/klubfs.html
+2708453 - 4620682 -  - Resolve Complete
+2708491 - 4620690 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roennede/klubfs.html
+2709007 - 4561062 -  - Resolve Complete
+2709026 - 4620698 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/samsoe/klubfs.html
+2709026 - 4620738 -  - Resolve Complete
+2709287 - 4620706 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/klubfs.html
+2709287 - 4561054 -  - Resolve Complete
+2709605 - 4620714 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sebber_kloster/klubfs.html
+2709770 - 4620690 -  - Resolve Complete
+2709822 - 4620722 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/silkeborg/klubfs.html
+2709974 - 4620698 -  - Resolve Complete
+2709991 - 4620730 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sindal/klubfs.html
+2710303 - 4620706 -  - Resolve Complete
+2710380 - 4622338 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skanderborg/klubfs.html
+2710380 - 4620714 -  - Resolve Complete
+2710441 - 4622282 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skive/klubfs.html
+2710653 - 4620722 -  - Resolve Complete
+2710689 - 4622290 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skjoldnaesholm/klubfs.html
+2710867 - 4620730 -  - Resolve Complete
+2711004 - 4622298 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skovlunde/klubfs.html
+2711235 - 4622338 -  - Resolve Complete
+2711252 - 4622306 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/smoerum/klubfs.html
+2711252 - 4622282 -  - Resolve Complete
+2711432 - 4622322 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soroe/klubfs.html
+2711440 - 4622290 -  - Resolve Complete
+2711457 - 4622314 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/klubfs.html
+2711494 - 4622298 -  - Resolve Complete
+2711556 - 4622330 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/struer/klubfs.html
+2712144 - 4622306 -  - Resolve Complete
+2712157 - 4626938 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/svendborg/klubfs.html
+2712219 - 4622322 -  - Resolve Complete
+2712404 - 4626882 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sydsjaelland/klubfs.html
+2712479 - 4622314 -  - Resolve Complete
+2712538 - 4626890 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soelleroed/klubfs.html
+2712574 - 4622330 -  - Resolve Complete
+2712613 - 4626898 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soenderjylland/klubfs.html
+2714058 - 4626938 -  - Resolve Complete
+2714082 - 4626906 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/tange/klubfs.html
+2714082 - 4626882 -  - Resolve Complete
+2714190 - 4626914 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toftlund/klubfs.html
+2714190 - 4626890 -  - Resolve Complete
+2714258 - 4626930 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/trehoje/klubfs.html
+2714264 - 4626898 -  - Resolve Complete
+2714286 - 4626922 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toender/klubfs.html
+2716014 - 4626906 -  - Resolve Complete
+2716032 - 4629738 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/varde/klubfs.html
+2716032 - 4626914 -  - Resolve Complete
+2716130 - 4629682 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejen/klubfs.html
+2716130 - 4626930 -  - Resolve Complete
+2716181 - 4629690 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejle/klubfs.html
+2716311 - 4626922 -  - Resolve Complete
+2716441 - 4629698 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestlolland/klubfs.html
+2718099 - 4629738 -  - Resolve Complete
+2718117 - 4629706 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/viborg/klubfs.html
+2718170 - 4629682 -  - Resolve Complete
+2718186 - 4629714 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vaerloese/klubfs.html
+2718575 - 4629690 -  - Resolve Complete
+2718606 - 4629722 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oernehoj/klubfs.html
+2720491 - 4629698 -  - Resolve Complete
+2720562 - 4629730 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oestersoeen/klubfs.html
+2722586 - 4629706 -  - Resolve Complete
+2722699 - 4588566 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aabybro/klubfs.html
+2722699 - 4629714 -  - Resolve Complete
+2722842 - 4588510 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aalborg/klubfs.html
+2722842 - 4629722 -  - Resolve Complete
+2722924 - 4588518 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus/klubfs.html
+2723861 - 4629730 -  - Resolve Complete
+2723928 - 4588526 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus_aadal/klubfs.html
+2726499 - 4588566 -  - Resolve Complete
+2726664 - 4588550 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aaskov/klubfs.html
+2726664 - 4588510 -  - Resolve Complete
+2726773 - 4588542 -  - Resolve File , http://www.golfonline.dk/bca/index.html
+2726773 - 4588518 -  - Resolve Complete
+2726962 - 4588534 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/index.html
+2728069 - 4588526 -  - Resolve Complete
+2728094 - 4588558 -  - Resolve File , http://www.golfonline.dk/dansk/links/intweb.html
+2730633 - 4588550 -  - Resolve Complete
+2730656 - 4588642 -  - Resolve File , http://www.golfonline.dk/dansk/links/magasin.html
+2731678 - 4588542 -  - Resolve Complete
+2731715 - 4588586 -  - Resolve File , http://www.golfonline.dk/dansk/links/turnering.html
+2733306 - 4588558 -  - Resolve Complete
+2733404 - 4588594 -  - Resolve File , http://www.golfonline.dk/dansk/links/udstyr.html
+2739724 - 4588642 -  - Resolve Complete
+2739748 - 4588602 -  - Resolve File , http://www.golfonline.dk/dansk/links/intklub.html
+2740832 - 4588534 -  - Resolve Complete
+2740961 - 4588610 -  - Resolve File , http://www.golfonline.dk/dansk/links/organisation.html
+2743228 - 4588586 -  - Resolve Complete
+2743401 - 4588618 -  - Resolve File , http://www.golfonline.dk/dansk/links/humor.html
+2744317 - 4588602 -  - Resolve Complete
+2744364 - 4588626 -  - Resolve File , http://www.golfonline.dk/dansk/links/linklink.html
+2745681 - 4588594 -  - Resolve Complete
+2745955 - 4588634 -  - Resolve File , http://www.golfonline.dk/dansk/links/linkland.html
+2746167 - 4588610 -  - Resolve Complete
+2746291 - 4781614 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/turnplan97.html
+2746823 - 4588618 -  - Resolve Complete
+2746960 - 4781558 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/matchjyl97.html
+2747632 - 4588626 -  - Resolve Complete
+2747755 - 4781566 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/matchfyn97.html
+2753920 - 4588634 -  - Resolve Complete
+2754003 - 4781574 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/matchsjl97.html
+2754405 - 4781566 -  - Resolve Complete
+2754498 - 4781598 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/proam97.html
+2754864 - 4781614 -  - Resolve Complete
+2754980 - 4781582 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/dameherre97.html
+2761793 - 4781558 -  - Resolve Complete
+2761808 - 4781590 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/april97.html
+2762802 - 4781598 -  - Resolve Complete
+2762850 - 4781606 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/maj97.html
+2769950 - 4781590 -  - Resolve Complete
+2769975 - 4781966 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/juni97.html
+2772867 - 4781582 -  - Resolve Complete
+2772945 - 4781958 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/juli97.html
+2773898 - 4781574 -  - Resolve Complete
+2773935 - 4782014 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/august97.html
+2780741 - 4781606 -  - Resolve Complete
+2781140 - 4781982 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/september97.html
+2781140 - 4781966 -  - Resolve Complete
+2781695 - 4781974 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/oktober97.html
+2783628 - 4781958 -  - Resolve Complete
+2783653 - 4781990 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/november97.html
+2784460 - 4782014 -  - Resolve Complete
+2784525 - 4781998 -  - Resolve File , http://www.golfonline.dk/dansk/matcher/december97.html
+2785631 - 4781982 -  - Resolve Complete
+2785686 - 4782006 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga.html
+2786139 - 4781974 -  - Resolve Complete
+2786388 - 4788914 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga.html
+2787334 - 4781990 -  - Resolve Error , -6404
+2787375 - 4781990 -  - Resolve File , http://www.golfonline.dk/dansk/pro/wpge.html
+2787375 - 4781998 -  - Resolve Complete
+2787516 - 4788866 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga.html
+2792047 - 4788914 -  - Resolve Complete
+2792072 - 4788874 -  - Resolve File , http://www.golfonline.dk/dansk/pro/challenge.html
+2792072 - 4782006 -  - Resolve Complete
+2792196 - 4788858 -  - Resolve File , http://www.golfonline.dk/canon/canon.html
+2792506 - 4788866 -  - Resolve Complete
+2792567 - 4788890 -  - Resolve File , http://www.golfonline.dk/danish-open/index.html
+2792594 - 4781990 -  - Resolve Complete
+2792639 - 4788882 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/danmark.html
+2794397 - 4788858 -  - Resolve Complete
+2794517 - 4788898 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/europa.html
+2795588 - 4788882 -  - Resolve Complete
+2795725 - 4791114 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/usa.html
+2796233 - 4788874 -  - Resolve Complete
+2796303 - 4788906 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/osten.html
+2796925 - 4788890 -  - Resolve Complete
+2796961 - 4791058 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/afrika.html
+2797508 - 4788898 -  - Resolve Complete
+2797524 - 4791066 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/rejsebrev.html
+2797940 - 4791114 -  - Resolve Complete
+2797988 - 4791074 -  - Resolve File , http://www.golfonline.dk/dansk/rejser/harley.html
+2799533 - 4788906 -  - Resolve Complete
+2799997 - 4791090 -  - Resolve File , http://www.golfonline.dk/dansk/shops/nyt.html
+2800012 - 4791058 -  - Resolve Complete
+2800223 - 4791082 -  - Resolve File , http://www.golfonline.dk/dansk/shops/bekldning.html
+2800614 - 4791074 -  - Resolve Complete
+2800659 - 4791106 -  - Resolve File , http://www.golfonline.dk/dansk/shops/udstyr.html
+2801509 - 4791090 -  - Resolve Complete
+2801667 - 4794514 -  - Resolve File , http://www.golfonline.dk/dansk/shops/gaver.html
+2802027 - 4791066 -  - Resolve Complete
+2802042 - 4791098 -  - Resolve File , http://www.golfonline.dk/dansk/shops/boger.html
+2802042 - 4791082 -  - Resolve Complete
+2802113 - 4794458 -  - Resolve File , http://www.golfonline.dk/dansk/shops/kobsalg.html
+2802194 - 4791106 -  - Resolve Complete
+2802248 - 4794466 -  - Resolve File , http://www.golfonline.dk/dansk/shops/faq.html
+2802593 - 4794514 -  - Resolve Complete
+2802653 - 4794474 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/banekort.html
+2803272 - 4791098 -  - Resolve Complete
+2803276 - 4794458 -  - Resolve Complete
+2803416 - 4794490 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/faaborg/banekort.html
+2804570 - 4794498 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/himmerland/banekort.html
+2805415 - 4794474 -  - Resolve Complete
+2805472 - 4794506 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holmsland/banekort.html
+2805952 - 4794466 -  - Resolve Complete
+2805970 - 4794482 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvide_klit/banekort.html
+2806247 - 4794490 -  - Resolve Complete
+2806277 - 4797414 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/maribo/banekort.html
+2806623 - 4794498 -  - Resolve Complete
+2806657 - 4797358 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/banekort.html
+2806729 - 4794506 -  - Resolve Complete
+2806798 - 4797366 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/matchplan.html
+2807180 - 4794482 -  - Resolve Complete
+2807274 - 4797374 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/royal_oak/banekort.html
+2807518 - 4797414 -  - Resolve Complete
+2807565 - 4797382 -  - Resolve File , http://www.golfonline.dk/hoteller/kongebro.html
+2808052 - 4797358 -  - Resolve Complete
+2808134 - 4797390 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/simons/banekort.html
+2809277 - 4797374 -  - Resolve Complete
+2809351 - 4797398 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/saeby/banekort.html
+2810078 - 4797366 -  - Resolve Complete
+2810138 - 4797406 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vallensbaek/banekort.html
+2811756 - 4797390 -  - Resolve Complete
+2811812 - 4795158 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/banekort.html
+2811826 - 4797382 -  - Resolve Complete
+2811848 - 4795214 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/totalbank.html
+2812703 - 4797398 -  - Resolve Complete
+2812727 - 4795166 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/flimmer.html
+2812841 - 4797406 -  - Resolve Complete
+2812927 - 4795174 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/kategori97.html
+2813654 - 4795158 -  - Resolve Complete
+2813679 - 4795182 -  - Resolve File , http://www.golfonline.dk/dansk/debat/thryder.html
+2813982 - 4795214 -  - Resolve Complete
+2814061 - 4795190 -  - Resolve File , http://www.golfonline.dk/dansk/debat/andersen.html
+2821667 - 4795182 -  - Resolve Complete
+2821736 - 4800814 -  - Resolve File , http://www.golfonline.dk/dansk/debat/sang.html
+2823758 - 4795166 -  - Resolve Complete
+2823841 - 4795198 -  - Resolve File , http://www.golfonline.dk/dansk/debat/tiger.html
+2830961 - 4800814 -  - Resolve Complete
+2831035 - 4800758 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/142.html
+2835262 - 4795174 -  - Resolve Complete
+2835305 - 4795206 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/139.html
+2838925 - 4795190 -  - Resolve Complete
+2838985 - 4800766 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/136.html
+2842585 - 4800758 -  - Resolve Complete
+2842857 - 4800774 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/131.html
+2845873 - 4795206 -  - Resolve Complete
+2846347 - 4800782 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/143.html
+2848967 - 4800766 -  - Resolve Complete
+2849080 - 4800790 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/144.html
+2849283 - 4800774 -  - Resolve Complete
+2849332 - 4800798 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/128.html
+2851265 - 4800782 -  - Resolve Complete
+2851447 - 4792914 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/138.html
+2852457 - 4795198 -  - Resolve Complete
+2852523 - 4800806 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/129.html
+2852654 - 4800790 -  - Resolve Complete
+2852678 - 4792858 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/125.html
+2852925 - 4800798 -  - Resolve Complete
+2853076 - 4792866 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/124.html
+2853586 - 4792914 -  - Resolve Complete
+2853726 - 4792874 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/133.html
+2854461 - 4800806 -  - Resolve Complete
+2854519 - 4792882 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/140.html
+2854696 - 4792858 -  - Resolve Complete
+2854793 - 4792890 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/122.html
+2855250 - 4792866 -  - Resolve Complete
+2855287 - 4792898 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/132.html
+2855570 - 4792874 -  - Resolve Complete
+2855589 - 4792906 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/115.html
+2856083 - 4792882 -  - Resolve Complete
+2856193 - 4805614 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/119.html
+2857021 - 4792898 -  - Resolve Complete
+2857087 - 4805566 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/116.html
+2857137 - 4792890 -  - Resolve Complete
+2857210 - 4805558 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/137.html
+2857347 - 4792906 -  - Resolve Complete
+2857471 - 4805574 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/112.html
+2857855 - 4805614 -  - Resolve Complete
+2857928 - 4805582 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/113.html
+2858607 - 4805566 -  - Resolve Complete
+2858682 - 4805590 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/109.html
+2859139 - 4805558 -  - Resolve Complete
+2859311 - 4805606 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/110.html
+2859359 - 4805574 -  - Resolve Complete
+2859456 - 4805598 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/117.html
+2860439 - 4805582 -  - Resolve Complete
+2860671 - 4810314 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/114.html
+2861591 - 4805590 -  - Resolve Complete
+2861659 - 4810258 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/101.html
+2863439 - 4805606 -  - Resolve Complete
+2863531 - 4810266 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/108.html
+2863910 - 4805598 -  - Resolve Complete
+2863955 - 4810274 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/103.html
+2866340 - 4810314 -  - Resolve Complete
+2867814 - 4810282 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/107.html
+2869562 - 4810266 -  - Resolve Complete
+2870804 - 4810290 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/134.html
+2871216 - 4810274 -  - Resolve Complete
+2872124 - 4810298 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/99.html
+2874628 - 4810282 -  - Resolve Complete
+2877985 - 4810306 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/130.html
+2877988 - 4810258 -  - Resolve Complete
+2878670 - 4808658 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/102.html
+2880266 - 4810290 -  - Resolve Complete
+2880296 - 4808714 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/100.html
+2880296 - 4810298 -  - Resolve Complete
+2881461 - 4808666 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/105.html
+2881572 - 4810306 -  - Resolve Complete
+2884992 - 4808674 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/98.html
+2885920 - 4808666 -  - Resolve Complete
+2887603 - 4808682 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/97.html
+2888173 - 4808714 -  - Resolve Complete
+2888577 - 4808698 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/86.html
+2888591 - 4808658 -  - Resolve Complete
+2890005 - 4815414 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/87.html
+2890005 - 4808674 -  - Resolve Complete
+2894331 - 4808706 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/85.html
+2894730 - 4808682 -  - Resolve Error , -6010
+2897064 - 4808690 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/123.html
+2897889 - 4815414 -  - Resolve Complete
+2899538 - 4808682 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/104.html
+2899538 - 4808698 -  - Resolve Complete
+2902530 - 4815358 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/89.html
+2902530 - 4808706 -  - Resolve Complete
+2904413 - 4815374 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/83.html
+2904477 - 4808690 -  - Resolve Complete
+2906142 - 4815366 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/77.html
+2906142 - 4808682 -  - Resolve Complete
+2908092 - 4815390 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/111.html
+2908222 - 4815358 -  - Resolve Complete
+2908806 - 4815382 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/92.html
+2908806 - 4815374 -  - Resolve Complete
+2909140 - 4815406 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/91.html
+2909183 - 4815366 -  - Resolve Complete
+2909207 - 4815398 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/80.html
+2909677 - 4815390 -  - Resolve Complete
+2909703 - 4818214 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/81.html
+2911318 - 4815382 -  - Resolve Complete
+2911457 - 4818158 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/79.html
+2911457 - 4815406 -  - Resolve Complete
+2911704 - 4818166 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/73.html
+2911704 - 4815398 -  - Resolve Complete
+2912271 - 4818182 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/121.html
+2912708 - 4818214 -  - Resolve Complete
+2913160 - 4818174 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/90.html
+2913761 - 4818158 -  - Resolve Complete
+2913903 - 4818190 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/82.html
+2914711 - 4818166 -  - Resolve Complete
+2914894 - 4818198 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/74.html
+2915683 - 4818182 -  - Resolve Complete
+2915975 - 4818206 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/75.html
+2917362 - 4818174 -  - Resolve Complete
+2917445 - 4819814 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/68.html
+2918038 - 4818190 -  - Resolve Complete
+2918065 - 4819758 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/88.html
+2919646 - 4818198 -  - Resolve Complete
+2919683 - 4819766 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/69.html
+2919858 - 4818206 -  - Resolve Complete
+2919930 - 4819774 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/67.html
+2921385 - 4819814 -  - Resolve Complete
+2921626 - 4819782 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/106.html
+2922065 - 4819758 -  - Resolve Complete
+2922210 - 4819790 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/71.html
+2924279 - 4819766 -  - Resolve Complete
+2924394 - 4819806 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/96.html
+2924480 - 4819774 -  - Resolve Complete
+2924545 - 4819798 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/70.html
+2925884 - 4819782 -  - Resolve Complete
+2926017 - 4823214 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/64.html
+2926361 - 4819790 -  - Resolve Complete
+2926388 - 4823158 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/62.html
+2927090 - 4819806 -  - Resolve Complete
+2927113 - 4823166 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/127.html
+2927348 - 4819798 -  - Resolve Complete
+2927401 - 4823174 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/126.html
+2927566 - 4823214 -  - Resolve Complete
+2927594 - 4823182 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/59.html
+2928050 - 4823158 -  - Resolve Complete
+2928088 - 4823190 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/84.html
+2928699 - 4823166 -  - Resolve Complete
+2928818 - 4823198 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/65.html
+2928997 - 4823174 -  - Resolve Complete
+2929151 - 4823206 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/66.html
+2929201 - 4823182 -  - Resolve Complete
+2929275 - 4817514 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/56.html
+2929922 - 4823190 -  - Resolve Complete
+2929961 - 4817458 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/57.html
+2930120 - 4823198 -  - Resolve Complete
+2930148 - 4817466 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/60.html
+2930346 - 4823206 -  - Resolve Complete
+2930464 - 4817474 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/54.html
+2931511 - 4817514 -  - Resolve Complete
+2931751 - 4817482 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/61.html
+2932073 - 4817458 -  - Resolve Complete
+2932135 - 4817490 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/52.html
+2933360 - 4817466 -  - Resolve Complete
+2933416 - 4817498 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/53.html
+2933850 - 4817474 -  - Resolve Complete
+2933971 - 4817506 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/48.html
+2936399 - 4817482 -  - Resolve Complete
+2936454 - 4816814 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/55.html
+2938342 - 4817490 -  - Resolve Complete
+2938487 - 4816758 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/46.html
+2940643 - 4817506 -  - Resolve Complete
+2940695 - 4816766 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/42.html
+2943104 - 4816814 -  - Resolve Complete
+2943287 - 4816774 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/43.html
+2946098 - 4817498 -  - Resolve Complete
+2946203 - 4816782 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/39.html
+2951964 - 4816774 -  - Resolve Complete
+2952083 - 4816790 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/40.html
+2952083 - 4816758 -  - Resolve Complete
+2952234 - 4816798 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/38.html
+2954552 - 4816782 -  - Resolve Complete
+2954668 - 4816806 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/37.html
+2955772 - 4816766 -  - Resolve Complete
+2955981 - 4814714 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/36.html
+2956604 - 4816790 -  - Resolve Complete
+2956846 - 4814658 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/76.html
+2957510 - 4816798 -  - Resolve Complete
+2957564 - 4814666 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/34.html
+2957564 - 4816806 -  - Resolve Complete
+2957743 - 4814674 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/35.html
+2958208 - 4814714 -  - Resolve Complete
+2958236 - 4814682 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/32.html
+2958515 - 4814658 -  - Resolve Complete
+2958562 - 4814690 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/141.html
+2958917 - 4814666 -  - Resolve Complete
+2958967 - 4814698 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/93.html
+2959168 - 4814674 -  - Resolve Complete
+2959222 - 4814706 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/72.html
+2959512 - 4814682 -  - Resolve Complete
+2959647 - 4813414 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/63.html
+2959743 - 4814690 -  - Resolve Complete
+2959817 - 4813358 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/58.html
+2960074 - 4814698 -  - Resolve Complete
+2960158 - 4813366 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/44.html
+2960304 - 4814706 -  - Resolve Complete
+2960377 - 4813374 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/33.html
+2960619 - 4813414 -  - Resolve Complete
+2960694 - 4813382 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/31.html
+2960867 - 4813358 -  - Resolve Complete
+2961269 - 4813390 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/27.html
+2961700 - 4813366 -  - Resolve Complete
+2961749 - 4813398 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/28.html
+2961749 - 4813374 -  - Resolve Complete
+2961886 - 4813406 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/18.html
+2962190 - 4813382 -  - Resolve Complete
+2962273 - 4787814 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/22.html
+2962687 - 4813390 -  - Resolve Complete
+2962751 - 4787758 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/20.html
+2963251 - 4813398 -  - Resolve Complete
+2963314 - 4787766 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/17.html
+2963588 - 4813406 -  - Resolve Complete
+2963663 - 4787774 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/21.html
+2963874 - 4787814 -  - Resolve Complete
+2963960 - 4787782 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/24.html
+2965362 - 4787758 -  - Resolve Complete
+2965443 - 4787790 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/25.html
+2966428 - 4787766 -  - Resolve Complete
+2966487 - 4787798 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/15.html
+2967313 - 4787774 -  - Resolve Complete
+2967420 - 4787806 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/135.html
+2967915 - 4787782 -  - Resolve Complete
+2967944 - 4788214 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/16.html
+2969948 - 4787790 -  - Resolve Complete
+2970016 - 4788158 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/23.html
+2972124 - 4787798 -  - Resolve Complete
+2972177 - 4788166 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/26.html
+2972555 - 4787806 -  - Resolve Complete
+2972669 - 4788174 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/29.html
+2972815 - 4788214 -  - Resolve Complete
+2972928 - 4788182 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/13.html
+2975074 - 4788158 -  - Resolve Complete
+2975111 - 4788190 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/14.html
+2978613 - 4788174 -  - Resolve Complete
+2978682 - 4788198 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/9.html
+2978682 - 4788182 -  - Resolve Complete
+2978984 - 4788206 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/10.html
+2982510 - 4788190 -  - Resolve Complete
+2982625 - 4815790 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/7.html
+2984638 - 4788166 -  - Resolve Complete
+2984686 - 4815734 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/78.html
+2984940 - 4788198 -  - Resolve Complete
+2985097 - 4815742 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/120.html
+2985558 - 4788206 -  - Resolve Complete
+2985741 - 4815750 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/47.html
+2987013 - 4815790 -  - Resolve Complete
+2987183 - 4815758 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/45.html
+2990025 - 4815742 -  - Resolve Complete
+2990053 - 4815774 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/11.html
+2990053 - 4815734 -  - Resolve Complete
+2990960 - 4815766 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/12.html
+2990960 - 4815750 -  - Resolve Complete
+2992031 - 4842214 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/5.html
+2992150 - 4815758 -  - Resolve Complete
+2992182 - 4815782 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/6.html
+2992781 - 4815774 -  - Resolve Complete
+2992790 - 4815766 -  - Resolve Complete
+2993298 - 4842214 -  - Resolve Complete
+2993496 - 4815782 -  - Resolve Complete
+3011848 - 4842166 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/rydercup.html
+3011889 - 4842158 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/12pga.html
+3012137 - 4842174 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/07.html
+3012262 - 4842182 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/pengeliste.html
+3025853 - 4842166 -  - Resolve Complete
+3025890 - 4842190 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/09pga.html
+3026599 - 4842158 -  - Resolve Complete
+3026667 - 4842198 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/09optakt.html
+3027807 - 4842174 -  - Resolve Complete
+3027971 - 4842206 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/nyt96.html
+3030420 - 4842182 -  - Resolve Complete
+3030498 - 4842914 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/hionerules.html
+3030779 - 4842198 -  - Resolve Error , -6404
+3030818 - 4842198 -  - Resolve File , http://www.golfonline.dk/dansk/hul19/members.html
+3032466 - 4842190 -  - Resolve Complete
+3032518 - 4842858 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/dgubest.html
+3034618 - 4842914 -  - Resolve Complete
+3034701 - 4842874 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/turnering.html
+3035030 - 4842198 -  - Resolve Complete
+3035209 - 4842882 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/ordliste.html
+3035962 - 4842206 -  - Resolve Complete
+3036097 - 4842866 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/dpgabest.html
+3037774 - 4842858 -  - Resolve Complete
+3037937 - 4842890 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/dpgatur.html
+3040273 - 4842874 -  - Resolve Complete
+3040373 - 4842898 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/close.html
+3041733 - 4842866 -  - Resolve Complete
+3042117 - 4842906 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/albertslund/klubhead.html
+3043672 - 4842890 -  - Resolve Error , -6404
+3043716 - 4842890 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/albertslund/klub.html
+3045715 - 4842898 -  - Resolve Complete
+3045832 - 4632142 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/alssund/klubhead.html
+3055191 - 4632142 -  - Resolve Complete
+3055295 - 4632094 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/alssund/klub.html
+3057723 - 4842906 -  - Resolve Complete
+3057801 - 4632102 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/asserbo/klubhead.html
+3058021 - 4842890 -  - Resolve Complete
+3058199 - 4632110 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/asserbo/klub.html
+3058435 - 4632094 -  - Resolve Complete
+3058496 - 4632118 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blokhus/klubhead.html
+3061123 - 4842882 -  - Resolve Complete
+3061277 - 4632086 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blokhus/klub.html
+3061905 - 4632102 -  - Resolve Complete
+3062032 - 4632126 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blommenslyst/klubhead.html
+3063475 - 4632110 -  - Resolve Complete
+3063774 - 4632134 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blommenslyst/klub.html
+3063833 - 4632118 -  - Resolve Complete
+3063925 - 4599766 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bornholm/klubhead.html
+3067866 - 4632086 -  - Resolve Complete
+3068062 - 4599710 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bornholm/klub.html
+3068472 - 4632126 -  - Resolve Complete
+3068540 - 4599718 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/brande/klubhead.html
+3069751 - 4632134 -  - Resolve Complete
+3069817 - 4599726 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/brande/klub.html
+3074380 - 4599718 -  - Resolve Complete
+3074520 - 4599742 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/breinholtgaard/klubhead.html
+3074679 - 4599766 -  - Resolve Complete
+3074761 - 4599750 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/breinholtgaard/klub.html
+3074853 - 4599726 -  - Resolve Complete
+3074913 - 4599758 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bronderslev/klubhead.html
+3075589 - 4599710 -  - Resolve Complete
+3075742 - 4599734 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bronderslev/klub.html
+3077251 - 4599742 -  - Resolve Complete
+3077329 - 4660706 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dejbjerg/klubhead.html
+3078271 - 4599758 -  - Resolve Complete
+3078308 - 4660658 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dejbjerg/klub.html
+3079318 - 4599734 -  - Resolve Complete
+3079393 - 4660666 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dragoer/klubhead.html
+3080492 - 4599750 -  - Resolve Complete
+3080680 - 4660650 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dragoer/klub.html
+3081944 - 4660706 -  - Resolve Complete
+3082256 - 4660674 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ebeltoft/klubhead.html
+3083649 - 4660658 -  - Resolve Complete
+3083898 - 4660682 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ebeltoft/klub.html
+3084256 - 4660666 -  - Resolve Complete
+3084296 - 4660690 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/esbjerg/klubhead.html
+3084834 - 4660650 -  - Resolve Complete
+3084896 - 4660698 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/esbjerg/klub.html
+3086224 - 4660674 -  - Resolve Complete
+3086338 - 4662306 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/falster/klubhead.html
+3087942 - 4660690 -  - Resolve Complete
+3088167 - 4662258 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/falster/klub.html
+3090652 - 4660682 -  - Resolve Complete
+3090829 - 4662250 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fanoe/klubhead.html
+3096254 - 4662258 -  - Resolve Complete
+3096298 - 4662274 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fanoe/klub.html
+3098352 - 4662250 -  - Resolve Complete
+3098477 - 4662282 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredensborg/klubhead.html
+3103576 - 4662306 -  - Resolve Complete
+3103661 - 4662290 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredensborg/klub.html
+3104312 - 4662282 -  - Resolve Complete
+3104402 - 4664806 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredericia/klubhead.html
+3106780 - 4662274 -  - Resolve Complete
+3106829 - 4662298 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredericia/klub.html
+3107249 - 4660698 -  - Resolve Complete
+3107298 - 4662266 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikshavn/klubhead.html
+3108760 - 4664806 -  - Resolve Complete
+3108834 - 4664758 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikshavn/klub.html
+3109687 - 4662290 -  - Resolve Complete
+3109836 - 4664750 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikssund/klubhead.html
+3111270 - 4662266 -  - Resolve Complete
+3111349 - 4664766 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikssund/klub.html
+3114491 - 4664750 -  - Resolve Complete
+3114657 - 4664790 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/furesoe/klubhead.html
+3114758 - 4662298 -  - Resolve Complete
+3114835 - 4664774 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/furesoe/klub.html
+3116026 - 4664766 -  - Resolve Complete
+3116126 - 4664798 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/klubhead.html
+3116335 - 4664758 -  - Resolve Complete
+3116453 - 4664782 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/klub.html
+3118514 - 4664790 -  - Resolve Complete
+3118736 - 4667506 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/give/klubhead.html
+3119849 - 4664798 -  - Resolve Complete
+3119959 - 4667458 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/give/klub.html
+3125082 - 4664782 -  - Resolve Complete
+3125236 - 4667466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grenaa/klubhead.html
+3126954 - 4667506 -  - Resolve Complete
+3127017 - 4667474 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grenaa/klub.html
+3127879 - 4667458 -  - Resolve Complete
+3128102 - 4667482 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gyttegaard/klubhead.html
+3132560 - 4667466 -  - Resolve Complete
+3132812 - 4667490 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gyttegaard/klub.html
+3134487 - 4667474 -  - Resolve Complete
+3134626 - 4667498 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/haderslev/klubhead.html
+3135297 - 4667482 -  - Resolve Complete
+3135586 - 4665506 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/haderslev/klub.html
+3137536 - 4664774 -  - Resolve Complete
+3137660 - 4667450 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hals/klubhead.html
+3139042 - 4667498 -  - Resolve Complete
+3139120 - 4665450 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hals/klub.html
+3140397 - 4667490 -  - Resolve Complete
+3140600 - 4665458 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/han_herred/klubhead.html
+3140600 - 4665506 -  - Resolve Complete
+3140888 - 4665466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/han_herred/klub.html
+3142997 - 4667450 -  - Resolve Complete
+3143071 - 4665474 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/harekaer/klubhead.html
+3144311 - 4665450 -  - Resolve Complete
+3144376 - 4665482 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/harekaer/klub.html
+3144649 - 4665458 -  - Resolve Complete
+3144769 - 4665490 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hedeland/klubhead.html
+3144786 - 4665466 -  - Resolve Complete
+3144920 - 4665498 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hedeland/klub.html
+3144955 - 4665474 -  - Resolve Complete
+3145145 - 4670006 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/klubhead.html
+3145630 - 4665482 -  - Resolve Complete
+3145752 - 4669950 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/klub.html
+3146134 - 4665490 -  - Resolve Complete
+3146244 - 4669958 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/henne/klubhead.html
+3146430 - 4665498 -  - Resolve Complete
+3146601 - 4669966 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/henne/klub.html
+3147314 - 4670006 -  - Resolve Complete
+3147495 - 4669974 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/herning/klubhead.html
+3148846 - 4669958 -  - Resolve Complete
+3148881 - 4669990 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/herning/klub.html
+3149729 - 4669950 -  - Resolve Complete
+3149785 - 4669982 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hilleroed/klubhead.html
+3151338 - 4669974 -  - Resolve Complete
+3151682 - 4676106 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hilleroed/klub.html
+3153498 - 4669966 -  - Resolve Complete
+3153756 - 4669998 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hirtshals/klubhead.html
+3155499 - 4669990 -  - Resolve Complete
+3155940 - 4676050 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hirtshals/klub.html
+3159654 - 4676106 -  - Resolve Complete
+3159689 - 4676058 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/klubhead.html
+3163342 - 4669998 -  - Resolve Complete
+3163512 - 4676066 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/klub.html
+3164940 - 4676050 -  - Resolve Complete
+3165019 - 4676074 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjorring/klubhead.html
+3169394 - 4676058 -  - Resolve Complete
+3169550 - 4676082 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjorring/klub.html
+3171695 - 4669982 -  - Resolve Error , -6010
+3171953 - 4669982 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holbaek/klubhead.html
+3176803 - 4676074 -  - Resolve Complete
+3177021 - 4676098 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holbaek/klub.html
+3182049 - 4676082 -  - Resolve Complete
+3182143 - 4676806 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holstebro/klubhead.html
+3184547 - 4669982 -  - Resolve Complete
+3184642 - 4676750 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holstebro/klub.html
+3187078 - 4676066 -  - Resolve Complete
+3187156 - 4676090 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hornbaek/klubhead.html
+3188074 - 4676098 -  - Resolve Complete
+3188241 - 4676758 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hornbaek/klub.html
+3190963 - 4676806 -  - Resolve Complete
+3191205 - 4676766 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/horsens/klubhead.html
+3191370 - 4676750 -  - Resolve Complete
+3191525 - 4676774 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/horsens/klub.html
+3192622 - 4676090 -  - Resolve Complete
+3192927 - 4676782 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvidovre/klubhead.html
+3192976 - 4676758 -  - Resolve Complete
+3193202 - 4676790 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvidovre/klub.html
+3195908 - 4676766 -  - Resolve Complete
+3196031 - 4676798 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hoersholm/klubhead.html
+3196031 - 4676774 -  - Resolve Complete
+3196333 - 4679006 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hoersholm/klub.html
+3196563 - 4676782 -  - Resolve Complete
+3196714 - 4678950 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ikast/klubhead.html
+3196949 - 4676790 -  - Resolve Complete
+3197017 - 4678958 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ikast/klub.html
+3197523 - 4676798 -  - Resolve Complete
+3197621 - 4678966 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/jelling/klubhead.html
+3198586 - 4678950 -  - Resolve Complete
+3198665 - 4678974 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/jelling/klub.html
+3199977 - 4679006 -  - Resolve Complete
+3200108 - 4678982 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/juelsminde/klubhead.html
+3200127 - 4678958 -  - Resolve Complete
+3200226 - 4678990 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/juelsminde/klub.html
+3201520 - 4678966 -  - Resolve Complete
+3201615 - 4678998 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/klubhead.html
+3202390 - 4678974 -  - Resolve Complete
+3202496 - 4666806 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/klub.html
+3203260 - 4678982 -  - Resolve Complete
+3203389 - 4666750 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaloe/klubhead.html
+3203523 - 4678990 -  - Resolve Complete
+3203651 - 4666758 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaloe/klub.html
+3204864 - 4678998 -  - Resolve Complete
+3205107 - 4666766 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kalundborg/klubhead.html
+3208065 - 4666750 -  - Resolve Complete
+3208168 - 4666782 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kalundborg/klub.html
+3209594 - 4666758 -  - Resolve Complete
+3209750 - 4666790 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kokkedal/klubhead.html
+3221975 - 4666790 -  - Resolve Complete
+3222066 - 4666798 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kokkedal/klub.html
+3227774 - 4666766 -  - Resolve Error , -6010
+3228245 - 4666766 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kolding/klubhead.html
+3232410 - 4666806 -  - Resolve Error , -6010
+3232549 - 4666806 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kolding/klub.html
+3240094 - 4666766 -  - Resolve Complete
+3240506 - 4593858 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/klubhead.html
+3242188 - 4666806 -  - Resolve Complete
+3242447 - 4593802 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/klub.html
+3242580 - 4666798 -  - Resolve Complete
+3242652 - 4666774 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koebenhavn/klubhead.html
+3242827 - 4666782 -  - Resolve Complete
+3243106 - 4593810 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koebenhavn/klub.html
+3243430 - 4593858 -  - Resolve Complete
+3243593 - 4593818 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koege/klubhead.html
+3245702 - 4666774 -  - Resolve Complete
+3245880 - 4593826 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koege/klub.html
+3249225 - 4593818 -  - Resolve Complete
+3249586 - 4593850 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/klubhead.html
+3249649 - 4593810 -  - Resolve Complete
+3249781 - 4593842 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/klub.html
+3249939 - 4593802 -  - Resolve Complete
+3250105 - 4593834 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lillebaelt/klubhead.html
+3256915 - 4593850 -  - Resolve Complete
+3256976 - 4689006 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lillebaelt/klub.html
+3257902 - 4593834 -  - Resolve Complete
+3258323 - 4688950 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/laesoe/klubhead.html
+3258931 - 4593842 -  - Resolve Complete
+3259009 - 4688958 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/laesoe/klub.html
+3260756 - 4593826 -  - Resolve Complete
+3260846 - 4688966 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/loekken/klubhead.html
+3261004 - 4688950 -  - Resolve Complete
+3261145 - 4688982 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/loekken/klub.html
+3261695 - 4688958 -  - Resolve Complete
+3261811 - 4688990 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/mollerup/klubhead.html
+3261859 - 4689006 -  - Resolve Complete
+3262264 - 4688974 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/mollerup/klub.html
+3263337 - 4688966 -  - Resolve Complete
+3263461 - 4688998 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/morsoe/klubhead.html
+3263724 - 4688982 -  - Resolve Complete
+3263776 - 4685706 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/morsoe/klub.html
+3264144 - 4688990 -  - Resolve Complete
+3264214 - 4685650 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moelleaaen/klubhead.html
+3265313 - 4688974 -  - Resolve Complete
+3265587 - 4685658 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moelleaaen/klub.html
+3267708 - 4688998 -  - Resolve Complete
+3267854 - 4685666 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moen/klubhead.html
+3268001 - 4685706 -  - Resolve Complete
+3268265 - 4685674 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moen/klub.html
+3268492 - 4685650 -  - Resolve Complete
+3268636 - 4685682 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nexo/klubhead.html
+3271013 - 4685658 -  - Resolve Complete
+3271096 - 4685690 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nexo/klub.html
+3272998 - 4685666 -  - Resolve Complete
+3273058 - 4685698 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordborg/klubhead.html
+3273757 - 4685674 -  - Resolve Complete
+3273814 - 4593934 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordborg/klub.html
+3273996 - 4685682 -  - Resolve Complete
+3274061 - 4593878 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordbornholm/klubhead.html
+3275419 - 4685690 -  - Resolve Complete
+3275475 - 4593886 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordbornholm/klub.html
+3276410 - 4685698 -  - Resolve Complete
+3276687 - 4593894 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/norddjursland/klubhead.html
+3276972 - 4593934 -  - Resolve Complete
+3277055 - 4593902 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/norddjursland/klub.html
+3277271 - 4593878 -  - Resolve Complete
+3277461 - 4593910 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordvestjysk/klubhead.html
+3278512 - 4593886 -  - Resolve Complete
+3278605 - 4593918 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordvestjysk/klub.html
+3279111 - 4593894 -  - Resolve Complete
+3279269 - 4593926 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/naestved/klubhead.html
+3279697 - 4593902 -  - Resolve Complete
+3280130 - 4690906 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/naestved/klub.html
+3280310 - 4593910 -  - Resolve Complete
+3280433 - 4690850 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odder/klubhead.html
+3281128 - 4593918 -  - Resolve Complete
+3281257 - 4690858 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odder/klub.html
+3281422 - 4593926 -  - Resolve Complete
+3281548 - 4690866 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odense/klubhead.html
+3282243 - 4690906 -  - Resolve Complete
+3282535 - 4690874 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odense/klub.html
+3282607 - 4690850 -  - Resolve Complete
+3282767 - 4690882 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/klubhead.html
+3283460 - 4690858 -  - Resolve Complete
+3283564 - 4690890 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/klub.html
+3283627 - 4690866 -  - Resolve Complete
+3283773 - 4690898 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/randers/klubhead.html
+3285080 - 4690882 -  - Resolve Complete
+3285285 - 4690926 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/randers/klub.html
+3285741 - 4690874 -  - Resolve Complete
+3285848 - 4690982 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ribe/klubhead.html
+3286555 - 4690898 -  - Resolve Complete
+3286656 - 4690934 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ribe/klub.html
+3287625 - 4690890 -  - Resolve Complete
+3287688 - 4690942 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roskilde/klubhead.html
+3288419 - 4690926 -  - Resolve Complete
+3288510 - 4690950 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roskilde/klub.html
+3288707 - 4690982 -  - Resolve Complete
+3288799 - 4690958 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rold_skov/klubhead.html
+3290044 - 4690934 -  - Resolve Complete
+3290267 - 4690974 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rold_skov/klub.html
+3290343 - 4690942 -  - Resolve Complete
+3290546 - 4690966 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rungsted/klubhead.html
+3291654 - 4690950 -  - Resolve Complete
+3292271 - 4701406 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rungsted/klub.html
+3292503 - 4690958 -  - Resolve Complete
+3292738 - 4701350 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roennede/klubhead.html
+3293259 - 4690966 -  - Resolve Complete
+3293427 - 4701358 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roennede/klub.html
+3294103 - 4690974 -  - Resolve Complete
+3294304 - 4701366 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/samsoe/klubhead.html
+3294662 - 4701406 -  - Resolve Complete
+3294869 - 4701374 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/samsoe/klub.html
+3295151 - 4701350 -  - Resolve Complete
+3295475 - 4701382 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/klubhead.html
+3295782 - 4701358 -  - Resolve Complete
+3295954 - 4701390 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/klub.html
+3296179 - 4701366 -  - Resolve Complete
+3296309 - 4701398 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sebber_kloster/klubhead.html
+3297059 - 4701382 -  - Resolve Complete
+3297231 - 4699450 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sebber_kloster/klub.html
+3298585 - 4701398 -  - Resolve Complete
+3298712 - 4699466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/silkeborg/klubhead.html
+3298712 - 4701374 -  - Resolve Complete
+3299083 - 4699506 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/silkeborg/klub.html
+3299509 - 4701390 -  - Resolve Complete
+3299605 - 4699458 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sindal/klubhead.html
+3299791 - 4699450 -  - Resolve Complete
+3300031 - 4699474 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sindal/klub.html
+3300432 - 4699466 -  - Resolve Complete
+3300621 - 4699482 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skanderborg/klubhead.html
+3301006 - 4699506 -  - Resolve Complete
+3301226 - 4699490 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skanderborg/klub.html
+3301301 - 4699458 -  - Resolve Complete
+3301419 - 4699498 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skive/klubhead.html
+3302082 - 4699474 -  - Resolve Complete
+3302252 - 4705206 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skive/klub.html
+3302341 - 4699482 -  - Resolve Complete
+3302420 - 4705150 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skjoldnaesholm/klubhead.html
+3302732 - 4699490 -  - Resolve Complete
+3302792 - 4705158 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skjoldnaesholm/klub.html
+3303091 - 4699498 -  - Resolve Complete
+3303267 - 4705166 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skovlunde/klubhead.html
+3304095 - 4705206 -  - Resolve Complete
+3304247 - 4705174 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skovlunde/klub.html
+3304461 - 4705150 -  - Resolve Complete
+3304591 - 4705182 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/smoerum/klubhead.html
+3304779 - 4705158 -  - Resolve Complete
+3304920 - 4705190 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/smoerum/klub.html
+3305223 - 4705166 -  - Resolve Complete
+3305416 - 4705198 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soroe/klubhead.html
+3306026 - 4705174 -  - Resolve Complete
+3306230 - 4704506 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soroe/klub.html
+3306258 - 4705182 -  - Resolve Complete
+3306444 - 4704450 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/klubhead.html
+3306793 - 4705190 -  - Resolve Complete
+3306966 - 4704458 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/klub.html
+3307266 - 4705198 -  - Resolve Complete
+3307535 - 4704466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/struer/klubhead.html
+3307617 - 4704506 -  - Resolve Complete
+3307770 - 4704474 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/struer/klub.html
+3308086 - 4704450 -  - Resolve Complete
+3308298 - 4704482 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/svendborg/klubhead.html
+3309153 - 4704466 -  - Resolve Complete
+3309260 - 4704490 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/svendborg/klub.html
+3309605 - 4704458 -  - Resolve Complete
+3309785 - 4704498 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sydsjaelland/klubhead.html
+3309929 - 4704482 -  - Resolve Complete
+3310001 - 4688506 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sydsjaelland/klub.html
+3310787 - 4704474 -  - Resolve Complete
+3310942 - 4688450 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soelleroed/klubhead.html
+3311668 - 4704498 -  - Resolve Complete
+3311745 - 4688458 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soelleroed/klub.html
+3312483 - 4688506 -  - Resolve Complete
+3312542 - 4688474 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soenderjylland/klubhead.html
+3312577 - 4704490 -  - Resolve Complete
+3312716 - 4688466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soenderjylland/klub.html
+3313043 - 4688450 -  - Resolve Complete
+3313146 - 4688482 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/tange/klubhead.html
+3314112 - 4688474 -  - Resolve Complete
+3314249 - 4688490 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/tange/klub.html
+3314420 - 4688466 -  - Resolve Complete
+3314627 - 4688582 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toftlund/klubhead.html
+3315332 - 4688458 -  - Resolve Complete
+3315467 - 4688498 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toftlund/klub.html
+3315598 - 4688482 -  - Resolve Complete
+3315736 - 4688526 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/trehoje/klubhead.html
+3316737 - 4688490 -  - Resolve Complete
+3316887 - 4688534 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/trehoje/klub.html
+3317166 - 4688582 -  - Resolve Complete
+3317347 - 4688542 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toender/klubhead.html
+3317587 - 4688498 -  - Resolve Complete
+3317768 - 4688550 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toender/klub.html
+3317981 - 4688526 -  - Resolve Complete
+3318311 - 4688558 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/varde/klubhead.html
+3318657 - 4688534 -  - Resolve Complete
+3318749 - 4688566 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/varde/klub.html
+3319064 - 4688542 -  - Resolve Complete
+3319120 - 4688574 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejen/klubhead.html
+3319577 - 4688550 -  - Resolve Complete
+3319654 - 4714206 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejen/klub.html
+3319868 - 4688558 -  - Resolve Complete
+3319961 - 4714150 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejle/klubhead.html
+3320382 - 4688566 -  - Resolve Complete
+3320469 - 4714158 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejle/klub.html
+3321752 - 4688574 -  - Resolve Complete
+3321812 - 4714166 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestlolland/klubhead.html
+3321891 - 4714150 -  - Resolve Complete
+3322128 - 4714182 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestlolland/klub.html
+3322128 - 4714206 -  - Resolve Complete
+3322252 - 4714174 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/viborg/klubhead.html
+3324041 - 4714166 -  - Resolve Complete
+3324119 - 4714198 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/viborg/klub.html
+3324413 - 4714182 -  - Resolve Complete
+3324536 - 4718206 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vaerloese/klubhead.html
+3324765 - 4714174 -  - Resolve Complete
+3324876 - 4718150 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vaerloese/klub.html
+3324952 - 4714158 -  - Resolve Complete
+3325057 - 4714190 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oernehoj/klubhead.html
+3326205 - 4718206 -  - Resolve Complete
+3326372 - 4718158 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oernehoj/klub.html
+3326572 - 4718150 -  - Resolve Complete
+3326730 - 4718174 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oestersoeen/klubhead.html
+3327417 - 4714190 -  - Resolve Complete
+3327970 - 4718182 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oestersoeen/klub.html
+3328097 - 4714198 -  - Resolve Complete
+3328226 - 4718166 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aabybro/klubhead.html
+3328817 - 4718158 -  - Resolve Complete
+3328885 - 4718190 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aabybro/klub.html
+3328978 - 4718174 -  - Resolve Complete
+3329192 - 4718198 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aalborg/klubhead.html
+3329534 - 4718182 -  - Resolve Complete
+3329653 - 4719006 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aalborg/klub.html
+3329699 - 4718166 -  - Resolve Complete
+3329819 - 4718950 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus/klubhead.html
+3330370 - 4718190 -  - Resolve Complete
+3330525 - 4718958 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus/klub.html
+3330651 - 4718198 -  - Resolve Complete
+3330794 - 4718966 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus_aadal/klubhead.html
+3331693 - 4719006 -  - Resolve Complete
+3331896 - 4718974 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus_aadal/klub.html
+3331899 - 4718950 -  - Resolve Complete
+3332172 - 4718982 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aaskov/klubhead.html
+3332790 - 4718958 -  - Resolve Complete
+3332956 - 4718990 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aaskov/klub.html
+3333166 - 4718966 -  - Resolve Complete
+3333252 - 4718998 -  - Resolve File , http://www.golfonline.dk/bca/mere.html
+3333892 - 4718974 -  - Resolve Complete
+3333980 - 4718282 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/tournament.html
+3334068 - 4718982 -  - Resolve Complete
+3334218 - 4718226 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/players.html
+3334621 - 4718990 -  - Resolve Complete
+3334776 - 4718234 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/week.html
+3335261 - 4718998 -  - Resolve Complete
+3335409 - 4718242 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/results.html
+3335720 - 4718282 -  - Resolve Complete
+3335898 - 4718250 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/compet.html
+3336063 - 4718226 -  - Resolve Complete
+3336220 - 4718258 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/prosport.html
+3336705 - 4718234 -  - Resolve Complete
+3336850 - 4718266 -  - Resolve File , http://www.golfonline.dk
+3337262 - 4718242 -  - Resolve Complete
+3337757 - 4718250 -  - Resolve Complete
+3337894 - 4718274 -  - Resolve File , http://www.golfonline.dk/danish-open index.html
+3338041 - 4720606 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oernehoej/klubfs.html
+3338189 - 4718258 -  - Resolve Complete
+3338278 - 4720550 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skjoldenaesholm/klubfs.html
+3338701 - 4718266 -  - Resolve Complete
+3338834 - 4720566 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/europatur97.html
+3338834 - 4718274 -  - Redirected to  , http://www.golfonline.dk/danish-open/
+3338848 - 4718274 -  - Resolve Error , 0
+3339040 - 4718274 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/11.html
+3339062 - 4720606 -  - Resolve Error , -6404
+3339249 - 4720606 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epgatour.html
+3339249 - 4720550 -  - Resolve Error , -6404
+3339487 - 4720550 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga0903.html
+3342064 - 4718274 -  - Resolve Complete
+3342132 - 4720558 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/ranking.html
+3343136 - 4720566 -  - Resolve Complete
+3343514 - 4720574 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/12.html
+3344750 - 4720550 -  - Resolve Complete
+3344881 - 4720590 -  - Resolve File , http://www.golfonline.dk/dansk/shops/mediaguide.html
+3345410 - 4720606 -  - Resolve Complete
+3345520 - 4720582 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/masters.html
+3349085 - 4720590 -  - Resolve Complete
+3349211 - 4727650 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/masterkval.html
+3351063 - 4720574 -  - Resolve Complete
+3351203 - 4727706 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/rookie2.html
+3354428 - 4720558 -  - Resolve Complete
+3354627 - 4720598 -  - Resolve File , http://www.golfonline.dk/dansk/pro/worldcup.html
+3355262 - 4720582 -  - Resolve Complete
+3355473 - 4727658 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga1004.html
+3355473 - 4727650 -  - Resolve Complete
+3355638 - 4727674 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga10022.html
+3355748 - 4727706 -  - Resolve Complete
+3355844 - 4727666 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/pgatur97.html
+3357987 - 4720598 -  - Resolve Complete
+3358397 - 4727698 -  - Resolve File , http://www.golfonline.dk/dansk/pro/wpgetur97.html
+3358398 - 4727674 -  - Resolve Complete
+3358604 - 4727690 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/lpgatur97.html
+3360565 - 4727658 -  - Resolve Complete
+3360705 - 4727682 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/11lpga.html
+3364531 - 4727698 -  - Resolve Complete
+3364662 - 4731950 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/12lpga.html
+3366790 - 4727666 -  - Resolve Complete
+3367270 - 4732006 -  - Resolve File , http://www.golfonline.dk/dansk/pro/challenge97/chaltur97.html
+3368021 - 4727690 -  - Resolve Complete
+3368127 - 4731958 -  - Resolve File , http://www.golfonline.dk/dansk/pro/challenge97/10chal.html
+3371784 - 4731950 -  - Resolve Complete
+3372379 - 4731966 -  - Resolve File , http://www.golfonline.dk/danish-open/tournament.html
+3372585 - 4727682 -  - Resolve Complete
+3372768 - 4731974 -  - Resolve File , http://www.golfonline.dk/danish-open/players.html
+3372821 - 4731958 -  - Resolve Complete
+3372973 - 4731990 -  - Resolve File , http://www.golfonline.dk/danish-open/week.html
+3375633 - 4732006 -  - Resolve Complete
+3375825 - 4731982 -  - Resolve File , http://www.golfonline.dk/danish-open/results.html
+3376230 - 4731966 -  - Resolve Complete
+3376501 - 4731998 -  - Resolve File , http://www.golfonline.dk/danish-open/compet.html
+3376784 - 4731974 -  - Resolve Complete
+3377022 - 4732706 -  - Resolve File , http://www.golfonline.dk/danish-open/prosport.html
+3377327 - 4731990 -  - Resolve Complete
+3377598 - 4732650 -  - Resolve File , http://www.golfonline.dk/dansk/shops/dummies.html
+3379061 - 4731982 -  - Resolve Complete
+3379365 - 4732658 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0201.html
+3379741 - 4731998 -  - Resolve Complete
+3379987 - 4732666 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/06tiger.html
+3380166 - 4732706 -  - Resolve Complete
+3380303 - 4732674 -  - Resolve File , http://www.golfonline.dk/dansk/debat/test/indlag.html
+3381574 - 4732650 -  - Resolve Complete
+3381835 - 4732682 -  - Resolve File , http://www.golfonline.dk/danish-open/
+3383454 - 4732674 -  - Resolve Error , -6404
+3383459 - 4732666 -  - Resolve Complete
+3384643 - 4732658 -  - Resolve Complete
+3386370 - 4732682 -  - Resolve Complete
+3425938 - 4732690 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/11pga.html
+3426537 - 4732698 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/07res04.html
+3426708 - 4732674 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/07res03.html
+3427010 - 4731606 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/07res02.html
+3428633 - 4732690 -  - Resolve Complete
+3428729 - 4731550 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/07res01.html
+3432774 - 4732698 -  - Resolve Complete
+3432888 - 4731558 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/07delt.html
+3433865 - 4732674 -  - Resolve Complete
+3434083 - 4731566 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/rookie.html
+3440617 - 4731606 -  - Resolve Complete
+3440702 - 4731574 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/teentour.html
+3442509 - 4731566 -  - Resolve Complete
+3442617 - 4731590 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/ukamatoeur.html
+3445945 - 4731550 -  - Resolve Complete
+3446022 - 4731582 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/emkvinder.html
+3449534 - 4731590 -  - Resolve Complete
+3451935 - 4730858 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/dmfours.html
+3452294 - 4731558 -  - Resolve Complete
+3452815 - 4731598 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/delclose.html
+3452815 - 4731582 -  - Resolve Complete
+3454299 - 4730850 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/close01.html
+3458475 - 4730850 -  - Resolve Error , -6404
+3458843 - 4730850 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/close02.html
+3458844 - 4731598 -  - Resolve Complete
+3459403 - 4730874 -  - Resolve File , http://www.golfonline.dk/dansk/dgu/close03.html
+3460708 - 4730850 -  - Resolve Error , -6404
+3461633 - 4730882 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/albertslund/banekort.html
+3462348 - 4730874 -  - Resolve Error , -6404
+3463431 - 4730874 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/alssund/banekort.html
+3465011 - 4730858 -  - Resolve Complete
+3466233 - 4730866 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/asserbo/banekort.html
+3466233 - 4730882 -  - Resolve Complete
+3467387 - 4730890 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blokhus/banekort.html
+3468110 - 4731574 -  - Resolve Complete
+3468719 - 4730906 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blommenslyst/banekort.html
+3468719 - 4730874 -  - Resolve Complete
+3469118 - 4730850 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bornholm/banekort.html
+3472128 - 4730866 -  - Resolve Complete
+3472128 - 4730890 -  - Resolve Complete
+3472661 - 4775102 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/brande/banekort.html
+3472661 - 4730906 -  - Resolve Complete
+3473784 - 4775046 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/breinholtgaard/banekort.html
+3474896 - 4775054 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bronderslev/banekort.html
+3474946 - 4730850 -  - Resolve Complete
+3475132 - 4730898 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dejbjerg/banekort.html
+3475132 - 4775102 -  - Resolve Complete
+3475324 - 4775062 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/dragoer/banekort.html
+3475468 - 4775046 -  - Resolve Complete
+3475614 - 4775070 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ebeltoft/banekort.html
+3475684 - 4775054 -  - Resolve Complete
+3475830 - 4775078 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/esbjerg/banekort.html
+3475874 - 4730898 -  - Resolve Complete
+3476176 - 4775086 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/falster/banekort.html
+3477206 - 4775062 -  - Resolve Complete
+3477602 - 4775094 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fanoe/banekort.html
+3477620 - 4775070 -  - Resolve Complete
+3478057 - 4776354 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredensborg/banekort.html
+3478057 - 4775078 -  - Resolve Complete
+3478361 - 4776346 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fredericia/banekort.html
+3478361 - 4775086 -  - Resolve Complete
+3478471 - 4776402 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikshavn/banekort.html
+3478849 - 4775094 -  - Resolve Complete
+3479197 - 4776362 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikssund/banekort.html
+3479197 - 4776354 -  - Resolve Complete
+3479486 - 4776386 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/furesoe/banekort.html
+3480320 - 4776346 -  - Resolve Complete
+3480787 - 4776370 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/banekort.html
+3480787 - 4776402 -  - Resolve Complete
+3483798 - 5482142 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/junior.html
+3484710 - 4776362 -  - Resolve Complete
+3485490 - 4776378 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/give/banekort.html
+3485490 - 4776386 -  - Resolve Complete
+3486491 - 5482086 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grenaa/banekort.html
+3486823 - 4776370 -  - Resolve Complete
+3487811 - 4776394 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gyttegaard/banekort.html
+3488106 - 4776378 -  - Resolve Complete
+3488605 - 5482110 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/haderslev/banekort.html
+3488605 - 5482142 -  - Resolve Complete
+3488824 - 5482094 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hals/banekort.html
+3488824 - 5482086 -  - Resolve Complete
+3489283 - 5482102 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/han_herred/banekort.html
+3489453 - 4776394 -  - Resolve Complete
+3489690 - 5482126 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/harekaer/banekort.html
+3489703 - 5482110 -  - Resolve Complete
+3489849 - 5482118 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hedeland/banekort.html
+3489868 - 5482094 -  - Resolve Complete
+3489995 - 5482134 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/banekort.html
+3490235 - 5482102 -  - Resolve Complete
+3490363 - 5484942 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/henne/banekort.html
+3491368 - 5482126 -  - Resolve Complete
+3491860 - 5484910 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/herning/banekort.html
+3491891 - 5482118 -  - Resolve Complete
+3492148 - 5484894 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hirtshals/banekort.html
+3492148 - 5482134 -  - Resolve Complete
+3492491 - 5484886 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/banekort.html
+3492491 - 5484942 -  - Resolve Complete
+3493210 - 5484902 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/index.html
+3493333 - 5484910 -  - Resolve Complete
+3493457 - 5484918 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/hmatchplan.html
+3493457 - 5484894 -  - Resolve Complete
+3493621 - 5484926 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjorring/banekort.html
+3493907 - 5484886 -  - Resolve Complete
+3494065 - 5484934 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holbaek/banekort.html
+3495980 - 5484926 -  - Resolve Complete
+3496270 - 5486194 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holstebro/banekort.html
+3497902 - 5484918 -  - Resolve Complete
+3498287 - 5486186 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hornbaek/banekort.html
+3498287 - 5484934 -  - Resolve Complete
+3498437 - 5486202 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/horsens/banekort.html
+3498536 - 5486194 -  - Resolve Complete
+3498685 - 5486210 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hvidovre/banekort.html
+3498776 - 5484902 -  - Resolve Complete
+3499016 - 5486218 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hoersholm/banekort.html
+3499086 - 5486186 -  - Resolve Complete
+3499179 - 5486242 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ikast/banekort.html
+3499179 - 5486202 -  - Resolve Complete
+3499402 - 5486226 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/jelling/banekort.html
+3499819 - 5486210 -  - Resolve Complete
+3499894 - 5486234 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/juelsminde/banekort.html
+3500103 - 5486218 -  - Resolve Complete
+3500251 - 5488642 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/banekort.html
+3500291 - 5486242 -  - Resolve Complete
+3500443 - 5488586 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaloe/banekort.html
+3500501 - 5486226 -  - Resolve Complete
+3500660 - 5488594 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kokkedal/banekort.html
+3500829 - 5486234 -  - Resolve Complete
+3500926 - 5488602 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kolding/banekort.html
+3500956 - 5488642 -  - Resolve Complete
+3501144 - 5488610 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/banekort.html
+3501360 - 5488586 -  - Resolve Complete
+3501570 - 5488618 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/matchplan.html
+3501712 - 5488594 -  - Resolve Complete
+3501883 - 5488626 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koebenhavn/banekort.html
+3502082 - 5488602 -  - Resolve Complete
+3502216 - 5488634 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/koege/banekort.html
+3502216 - 5488610 -  - Resolve Complete
+3502587 - 5489042 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/banekort.html
+3503215 - 5488618 -  - Resolve Complete
+3503361 - 5488986 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lillebaelt/banekort.html
+3503396 - 5488626 -  - Resolve Complete
+3503602 - 5488994 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/laesoe/banekort.html
+3503602 - 5488634 -  - Resolve Complete
+3503836 - 5489002 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/loekken/banekort.html
+3503857 - 5489042 -  - Resolve Complete
+3504069 - 5489010 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/mollerup/banekort.html
+3504496 - 5488986 -  - Resolve Complete
+3504824 - 5489034 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/morsoe/banekort.html
+3504863 - 5488994 -  - Resolve Complete
+3505141 - 5489018 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moelleaaen/banekort.html
+3505141 - 5489002 -  - Resolve Complete
+3505797 - 5495542 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moen/banekort.html
+3505824 - 5489010 -  - Resolve Complete
+3506006 - 5489026 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nexo/banekort.html
+3506021 - 5489034 -  - Resolve Complete
+3506142 - 5495486 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordborg/banekort.html
+3506211 - 5489018 -  - Resolve Complete
+3506380 - 5495494 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordbornholm/banekort.html
+3506529 - 5495542 -  - Resolve Complete
+3506741 - 5495502 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/norddjursland/banekort.html
+3506808 - 5489026 -  - Resolve Complete
+3506884 - 5495510 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/nordvestjysk/banekort.html
+3507071 - 5495486 -  - Resolve Complete
+3507227 - 5495518 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/naestved/banekort.html
+3507813 - 5495494 -  - Resolve Complete
+3507900 - 5495526 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odder/banekort.html
+3508457 - 5495502 -  - Resolve Complete
+3508692 - 5495534 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odense/banekort.html
+3508692 - 5495510 -  - Resolve Complete
+3508868 - 5495442 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/banekort.html
+3508897 - 5495518 -  - Resolve Complete
+3509068 - 5495386 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/matchplan.html
+3509168 - 5495526 -  - Resolve Complete
+3509376 - 5495394 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/randers/banekort.html
+3509376 - 5495534 -  - Resolve Complete
+3509569 - 5495410 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ribe/banekort.html
+3509689 - 5495442 -  - Resolve Complete
+3509778 - 5495402 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roskilde/banekort.html
+3510733 - 5495386 -  - Resolve Complete
+3510929 - 5495418 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rold_skov/banekort.html
+3511167 - 5495394 -  - Resolve Complete
+3511313 - 5495426 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/rungsted/banekort.html
+3511313 - 5495410 -  - Resolve Complete
+3511491 - 5495434 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/roennede/banekort.html
+3511493 - 5495402 -  - Resolve Complete
+3511680 - 5499542 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/samsoe/banekort.html
+3511856 - 5495418 -  - Resolve Complete
+3511938 - 5499486 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/banekort.html
+3512041 - 5495426 -  - Resolve Complete
+3512187 - 5499494 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/matchplan.html
+3512230 - 5495434 -  - Resolve Complete
+3512352 - 5499502 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sebber_kloster/banekort.html
+3512604 - 5499542 -  - Resolve Complete
+3512762 - 5499510 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/silkeborg/banekort.html
+3512762 - 5499486 -  - Resolve Complete
+3513006 - 5499518 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sindal/banekort.html
+3517899 - 5499502 -  - Resolve Complete
+3518105 - 5499526 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skanderborg/banekort.html
+3518105 - 5499510 -  - Resolve Complete
+3519766 - 5482842 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skive/banekort.html
+3519766 - 5499518 -  - Resolve Complete
+3520253 - 5482786 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skjoldnaesholm/banekort.html
+3520668 - 5499526 -  - Resolve Complete
+3520784 - 5482794 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skovlunde/banekort.html
+3521288 - 5499494 -  - Resolve Complete
+3521552 - 5482802 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/smoerum/banekort.html
+3521573 - 5482842 -  - Resolve Complete
+3521703 - 5499534 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soroe/banekort.html
+3521703 - 5482786 -  - Resolve Complete
+3521908 - 5482810 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/banekort.html
+3522074 - 5482794 -  - Resolve Complete
+3522225 - 5482818 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/struer/banekort.html
+3522513 - 5482802 -  - Resolve Complete
+3522699 - 5482826 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/svendborg/banekort.html
+3523684 - 5499534 -  - Resolve Complete
+3523886 - 5482834 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sydsjaelland/banekort.html
+3523886 - 5482810 -  - Resolve Complete
+3524538 - 5481986 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soelleroed/banekort.html
+3524565 - 5482818 -  - Resolve Complete
+3524792 - 5482042 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soenderjylland/banekort.html
+3524834 - 5482826 -  - Resolve Complete
+3525095 - 5482002 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/tange/banekort.html
+3525198 - 5482834 -  - Resolve Complete
+3525361 - 5481994 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toftlund/banekort.html
+3525465 - 5481986 -  - Resolve Complete
+3525699 - 5482010 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/trehoje/banekort.html
+3525814 - 5482042 -  - Resolve Complete
+3525996 - 5482018 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/toender/banekort.html
+3525996 - 5482002 -  - Resolve Complete
+3526323 - 5482026 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/varde/banekort.html
+3527050 - 5481994 -  - Resolve Complete
+3527210 - 5482034 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejen/banekort.html
+3527235 - 5482010 -  - Resolve Complete
+3527336 - 4634130 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejle/banekort.html
+3527468 - 5482018 -  - Resolve Complete
+3527781 - 4634074 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestlolland/banekort.html
+3527883 - 5482026 -  - Resolve Complete
+3528096 - 4634082 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/viborg/banekort.html
+3528286 - 5482034 -  - Resolve Complete
+3528422 - 4634090 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vaerloese/banekort.html
+3528422 - 4634130 -  - Resolve Complete
+3528638 - 4634098 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oernehoj/banekort.html
+3529149 - 4634074 -  - Resolve Complete
+3529303 - 4634106 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/oestersoeen/banekort.html
+3529303 - 4634082 -  - Resolve Complete
+3529546 - 4634114 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aabybro/banekort.html
+3529574 - 4634090 -  - Resolve Complete
+3529737 - 4634122 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aalborg/banekort.html
+3529857 - 4634098 -  - Resolve Complete
+3530117 - 4633430 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus/banekort.html
+3530406 - 4634106 -  - Resolve Complete
+3530624 - 4633374 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aarhus_aadal/banekort.html
+3530624 - 4634114 -  - Resolve Complete
+3530822 - 4633390 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/aaskov/banekort.html
+3530869 - 4634122 -  - Resolve Complete
+3530945 - 4633382 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/field.html
+3531096 - 4633430 -  - Resolve Complete
+3531224 - 4633398 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/conditions.html
+3531243 - 4633374 -  - Resolve Complete
+3531401 - 4633406 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/champs.html
+3531740 - 4633390 -  - Resolve Complete
+3531879 - 4633414 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/money.html
+3532308 - 4633382 -  - Resolve Complete
+3532453 - 4633422 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/tickets.html
+3532783 - 4633398 -  - Resolve Complete
+3532895 - 4639030 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/map.html
+3533170 - 4633406 -  - Resolve Complete
+3533326 - 4638974 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/orum.html
+3534307 - 4633422 -  - Resolve Complete
+3534447 - 4638990 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/caroline.html
+3534948 - 4639030 -  - Resolve Complete
+3535043 - 4638998 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/tinning.html
+3535068 - 4633414 -  - Resolve Complete
+3535258 - 4638982 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/greve.html
+3536458 - 4638974 -  - Resolve Complete
+3536619 - 4639006 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/laura.html
+3538553 - 4638990 -  - Resolve Complete
+3538660 - 4639014 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/gole.html
+3538760 - 4638998 -  - Resolve Complete
+3539048 - 4639022 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/lorenzi.html
+3539081 - 4638982 -  - Resolve Complete
+3539178 - 4642830 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/fairclough.html
+3539705 - 4639006 -  - Resolve Complete
+3539858 - 4642774 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/hackney.html
+3542235 - 4639014 -  - Resolve Complete
+3542384 - 4642782 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/morley.html
+3542848 - 4639022 -  - Resolve Complete
+3542983 - 4642790 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/hall.html
+3543231 - 4642830 -  - Resolve Complete
+3543481 - 4642798 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/reid.html
+3544657 - 4642774 -  - Resolve Complete
+3544802 - 4642806 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0104index.html
+3547153 - 4642782 -  - Resolve Complete
+3547459 - 4641530 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0105.html
+3547503 - 4642790 -  - Resolve Complete
+3547675 - 4642822 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/08.html
+3549635 - 4642798 -  - Resolve Complete
+3549780 - 4642814 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09.html
+3549991 - 4642806 -  - Resolve Complete
+3550282 - 4641474 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/10.html
+3552503 - 4641530 -  - Resolve Complete
+3552713 - 4641482 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/11delt.html
+3553089 - 4642822 -  - Resolve Complete
+3553588 - 4641490 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga0904.html
+3555330 - 4642814 -  - Resolve Complete
+3555597 - 4641498 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga1001.html
+3556711 - 4641474 -  - Resolve Complete
+3556843 - 4641506 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga10021.html
+3558066 - 4641482 -  - Resolve Complete
+3558274 - 4641490 -  - Resolve Complete
+3558605 - 4641522 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/12res04.html
+3558860 - 4641514 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/12res03.html
+3560831 - 4641498 -  - Resolve Complete
+3560969 - 4645306 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/12res01.html
+3561706 - 4641506 -  - Resolve Complete
+3561989 - 4645250 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/12delt.html
+3567052 - 4641522 -  - Resolve Complete
+3567479 - 4645258 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga1004f.html
+3567536 - 4641514 -  - Resolve Complete
+3567724 - 4645266 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/epga1004tv.html
+3569279 - 4645250 -  - Resolve Complete
+3569904 - 4645282 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/06pga.html
+3571829 - 4645258 -  - Resolve Complete
+3572130 - 4645290 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/07pga.html
+3572256 - 4645266 -  - Resolve Complete
+3572447 - 4645298 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/08pga.html
+3572629 - 4645306 -  - Resolve Complete
+3572739 - 4645274 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/10pga.html
+3574251 - 4645282 -  - Resolve Complete
+3574511 - 4645706 -  - Resolve File , http://www.golfonline.dk/klubber/vejle/klubfs.html
+3577311 - 4645290 -  - Resolve Complete
+3577474 - 4645650 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/07lpga.html
+3577562 - 4645298 -  - Resolve Complete
+3577790 - 4645658 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/08lpga.html
+3578292 - 4645706 -  - Resolve Error , -6404
+3578402 - 4645706 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/09lpga.html
+3578413 - 4645274 -  - Resolve Complete
+3578585 - 4645666 -  - Resolve File , http://www.golfonline.dk/dansk/pro/challenge97/11chal.html
+3582069 - 4645650 -  - Resolve Complete
+3582117 - 4645666 -  - Resolve Complete
+3582428 - 4645698 -  - Resolve File , http://www.golfonline.dk/danish-open/field.html
+3582569 - 4645674 -  - Resolve File , http://www.golfonline.dk/danish-open/conditions.html
+3583039 - 4645658 -  - Resolve Complete
+3583478 - 4645682 -  - Resolve File , http://www.golfonline.dk/danish-open/champs.html
+3586524 - 4645698 -  - Resolve Complete
+3586637 - 5480742 -  - Resolve File , http://www.golfonline.dk/danish-open/money.html
+3586637 - 4645706 -  - Resolve Complete
+3587324 - 5480694 -  - Resolve File , http://www.golfonline.dk/danish-open/tickets.html
+3587324 - 4645674 -  - Resolve Complete
+3587521 - 5480686 -  - Resolve File , http://www.golfonline.dk/danish-open/course.html
+3587719 - 4645682 -  - Resolve Complete
+3587953 - 4645690 -  - Resolve File , http://www.golfonline.dk/danish-open/orum.html
+3588373 - 5480694 -  - Resolve Complete
+3588577 - 5480702 -  - Resolve File , http://www.golfonline.dk/danish-open/tinning.html
+3589220 - 5480742 -  - Resolve Complete
+3589427 - 5480710 -  - Resolve File , http://www.golfonline.dk/danish-open/caroline.html
+3589814 - 4645690 -  - Resolve Complete
+3590007 - 5480718 -  - Resolve File , http://www.golfonline.dk/danish-open/gole.html
+3592255 - 5480686 -  - Resolve Complete
+3592403 - 5480726 -  - Resolve File , http://www.golfonline.dk/danish-open/hall.html
+3592403 - 5480702 -  - Resolve Complete
+3592675 - 5480734 -  - Resolve File , http://www.golfonline.dk/danish-open/fairclough.html
+3592677 - 5480710 -  - Resolve Complete
+3592855 - 4655006 -  - Resolve File , http://www.golfonline.dk/danish-open/hackney.html
+3593131 - 5480718 -  - Resolve Complete
+3593427 - 4654950 -  - Resolve File , http://www.golfonline.dk/danish-open/lorenzi.html
+3593779 - 5480726 -  - Resolve Complete
+3593935 - 4654958 -  - Resolve File , http://www.golfonline.dk/danish-open/morley.html
+3594012 - 5480734 -  - Resolve Complete
+3594243 - 4654966 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0201res03.html
+3594471 - 4655006 -  - Resolve Complete
+3594564 - 4654974 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0201res02.html
+3595644 - 4654950 -  - Resolve Complete
+3595843 - 4654982 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0201res01.html
+3595865 - 4654958 -  - Resolve Complete
+3596208 - 4654990 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0201delt.html
+3600477 - 4654966 -  - Resolve Complete
+3603216 - 4654990 -  - Resolve Complete
+3607585 - 4654974 -  - Resolve Complete
+3609355 - 4654982 -  - Resolve Complete
+3629589 - 4773646 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/07optakt.html
+3629675 - 4773702 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/Breinholtgaard/klubfs.html
+3629757 - 4773654 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/junudv.html
+3629869 - 4654998 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/top25.html
+3629913 - 4773646 -  - Resolve Error , -6404
+3630001 - 4773646 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course.html
+3630112 - 4773702 -  - Resolve Complete
+3630197 - 4773662 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0104res04.html
+3630744 - 4773654 -  - Resolve Complete
+3630830 - 4773670 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0104res03.html
+3630851 - 4654998 -  - Resolve Complete
+3630939 - 4773678 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0104res02.html
+3632765 - 4773646 -  - Resolve Complete
+3632869 - 4773686 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0104res01.html
+3635822 - 4773662 -  - Resolve Complete
+3635952 - 4773694 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0104delt.html
+3641691 - 4773670 -  - Resolve Complete
+3641932 - 4596458 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/top.html
+3648085 - 4773694 -  - Resolve Complete
+3648164 - 4596410 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0105res03.html
+3649973 - 4773678 -  - Resolve Complete
+3650646 - 4596402 -  - Resolve File , http://www.golfonline.dk/dansk/pro/rydercup.html
+3650646 - 4596458 -  - Resolve Error , -6404
+3651045 - 4596458 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0105res02.html
+3653506 - 4596402 -  - Resolve Error , -6404
+3653638 - 4596402 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0105res01.html
+3659277 - 4596410 -  - Resolve Complete
+3659380 - 4596426 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/0105delt.html
+3659473 - 4773686 -  - Resolve Complete
+3659555 - 4596418 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/epga97/0105sa.html
+3664146 - 4596418 -  - Resolve Error , -6404
+3664723 - 4596450 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/08res04.html
+3665792 - 4596458 -  - Resolve Complete
+3666316 - 4596434 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/08res03.html
+3666316 - 4596426 -  - Resolve Complete
+3666998 - 4596418 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/08res02.html
+3667485 - 4596402 -  - Resolve Complete
+3667632 - 4596442 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/08res01.html
+3671898 - 4596450 -  - Resolve Complete
+3672369 - 4774102 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/08delt.html
+3675546 - 4596434 -  - Resolve Complete
+3675655 - 4774046 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09res04.html
+3679740 - 4596418 -  - Resolve Complete
+3679837 - 4774054 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09res03.html
+3680347 - 4596442 -  - Resolve Complete
+3680462 - 4774062 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09res02.html
+3686415 - 4774102 -  - Resolve Complete
+3686679 - 4774078 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09res01.html
+3686736 - 4774046 -  - Resolve Complete
+3686930 - 4774070 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09delt.html
+3688407 - 4774054 -  - Resolve Complete
+3688587 - 4774086 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/09score.html
+3692146 - 4774070 -  - Resolve Complete
+3692657 - 39649206 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/10res04.html
+3693336 - 4774086 -  - Resolve Complete
+3693555 - 39649214 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/10res03.html
+3694930 - 4774062 -  - Resolve Complete
+3695125 - 4774094 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/10res02.html
+3703532 - 39649206 -  - Resolve Complete
+3703872 - 39649222 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/10res01.html
+3704317 - 39649214 -  - Resolve Complete
+3704560 - 39649230 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga97/10delt.html
+3709036 - 4774078 -  - Resolve Complete
+3711719 - 4774094 -  - Resolve Complete
+3713284 - 39649230 -  - Resolve Complete
+3713533 - 39649222 -  - Resolve Complete
+3713772 - 39649262 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/0903.html
+3714115 - 39649246 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/07tiger.html
+3714740 - 39649262 -  - Resolve Error , -6404
+3716033 - 39649246 -  - Resolve Complete
+3723498 - 39649262 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/Breinholtgaard/klubhead.html
+3723679 - 39649238 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/Breinholtgaard/klub.html
+3723834 - 39649254 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul01.html
+3723976 - 39647062 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul02.html
+3724151 - 39649262 -  - Resolve Complete
+3724272 - 39647006 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul03.html
+3724939 - 39649254 -  - Resolve Complete
+3725116 - 39647022 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul04.html
+3725869 - 39649238 -  - Resolve Complete
+3726021 - 39647014 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul05.html
+3726239 - 39647062 -  - Resolve Complete
+3726489 - 39647030 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul06.html
+3726652 - 39647006 -  - Resolve Complete
+3726869 - 39647038 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul07.html
+3727535 - 39647022 -  - Resolve Complete
+3727736 - 39647046 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul08.html
+3728079 - 39647014 -  - Resolve Complete
+3728268 - 39647054 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul09.html
+3728795 - 39647030 -  - Resolve Complete
+3728942 - 4744522 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul10.html
+3729016 - 39647038 -  - Resolve Complete
+3729256 - 4744466 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul11.html
+3729682 - 39647046 -  - Resolve Complete
+3729837 - 4744474 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul12.html
+3730352 - 39647054 -  - Resolve Complete
+3730521 - 4744482 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul13.html
+3730594 - 4744522 -  - Resolve Complete
+3730759 - 4744490 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul14.html
+3731481 - 4744466 -  - Resolve Complete
+3731651 - 4744498 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul15.html
+3732350 - 4744474 -  - Resolve Complete
+3732550 - 4744506 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul16.html
+3732799 - 4744482 -  - Resolve Complete
+3732976 - 4744514 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul17.html
+3733412 - 4744490 -  - Resolve Complete
+3733593 - 4729506 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/course/hul18.html
+3734030 - 4744498 -  - Resolve Complete
+3735597 - 4744506 -  - Resolve Complete
+3735601 - 4744514 -  - Resolve Complete
+3735601 - 4729506 -  - Resolve Complete
+3738274 - 4729466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/Breinholtgaard/banekort.html
+3738677 - 4729466 -  - Resolve Complete
+3738744 - 0 - Fetch Graphics - 
+3738930 - 4729458 -  - Resolve File , http://www.golfonline.dk/grafik/tile.gif
+3739199 - 4729450 -  - Resolve File , http://www.golfonline.dk/grafik/upper.gif
+3739436 - 4729474 -  - Resolve File , http://www.golfonline.dk/grafik/graes2.gif
+3739667 - 4729482 -  - Resolve File , http://www.golfonline.dk/grafik/headdk.gif
+3741735 - 4729474 -  - Resolve Complete
+3741873 - 4729498 -  - Resolve File , http://www.golfonline.dk/banners/titleist01.gif
+3742083 - 4729458 -  - Resolve Complete
+3742227 - 4729490 -  - Resolve File , http://www.golfonline.dk/banners/toyota_a.gif
+3746968 - 4729450 -  - Resolve Complete
+3747206 - 4729906 -  - Resolve File , http://www.golfonline.dk/grafik/ihullet.gif
+3748584 - 4729482 -  - Resolve Complete
+3748813 - 4729850 -  - Resolve File , http://www.golfonline.dk/grafik/debatdk.jpg
+3753495 - 4729498 -  - Resolve Complete
+3753589 - 4729866 -  - Resolve File , http://www.golfonline.dk/canon/canonknap.gif
+3756819 - 4729850 -  - Resolve Complete
+3756942 - 4729882 -  - Resolve File , http://www.golfonline.dk/grafik/tvdebat.gif
+3757408 - 4729906 -  - Resolve Complete
+3757629 - 4729874 -  - Resolve File , http://www.golfonline.dk/grafik/huldk.jpg
+3760700 - 4729490 -  - Resolve Complete
+3761019 - 4729858 -  - Resolve File , http://www.golfonline.dk/grafik/annonce2.gif
+3761172 - 4729866 -  - Resolve Complete
+3761479 - 4729890 -  - Resolve File , http://www.golfonline.dk/grafik/dgudk.jpg
+3764923 - 4729874 -  - Resolve Complete
+3765031 - 4750122 -  - Resolve File , http://www.golfonline.dk/grafik/klubdktp.gif
+3765643 - 4729882 -  - Resolve Complete
+3765812 - 4729898 -  - Resolve File , http://www.golfonline.dk/grafik/BCA.gif
+3767542 - 4729858 -  - Resolve Complete
+3767658 - 4750066 -  - Resolve File , http://www.golfonline.dk/banners/danishopen.gif
+3767959 - 4729890 -  - Resolve Complete
+3768190 - 4750074 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/dkmap.jpg
+3768274 - 4750122 -  - Resolve Complete
+3768418 - 4750082 -  - Resolve File , http://www.golfonline.dk/grafik/linksdk.jpg
+3770079 - 4729898 -  - Resolve Complete
+3770265 - 4750090 -  - Resolve File , http://www.golfonline.dk/grafik/matchdk.gif
+3773083 - 4750066 -  - Resolve Complete
+3773270 - 4750098 -  - Resolve File , http://www.golfonline.dk/banners/openknap.gif
+3774247 - 4750082 -  - Resolve Complete
+3774364 - 4750114 -  - Resolve File , http://www.golfonline.dk/grafik/prodk.jpg
+3774736 - 4750090 -  - Resolve Complete
+3774961 - 4753322 -  - Resolve File , http://www.golfonline.dk/canon/bruhnknap.gif
+3775559 - 4750074 -  - Resolve Complete
+3775779 - 4750106 -  - Resolve File , http://www.golfonline.dk/grafik/rejserdk.jpg
+3782943 - 4750098 -  - Resolve Complete
+3783174 - 4753266 -  - Resolve File , http://www.golfonline.dk/grafik/harley.gif
+3783174 - 4750114 -  - Resolve Complete
+3783529 - 4753274 -  - Resolve File , http://www.golfonline.dk/grafik/shopdk.jpg
+3783530 - 4753322 -  - Resolve Complete
+3783674 - 4753282 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/klubmenu.gif
+3787019 - 4750106 -  - Resolve Complete
+3787269 - 4753290 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/klublogo.gif
+3788578 - 4753274 -  - Resolve Complete
+3788777 - 4753306 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/klubfoto01.jpg
+3790018 - 4753266 -  - Resolve Complete
+3790439 - 4753298 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/faaborg/klublogo.gif
+3790562 - 4753282 -  - Resolve Complete
+3790750 - 4753314 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/koelle1.jpg
+3790983 - 4753290 -  - Resolve Complete
+3791220 - 4751422 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holmsland/klublogo.gif
+3798277 - 4753298 -  - Resolve Complete
+3798569 - 4751374 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/klublogo.gif
+3798569 - 4753314 -  - Resolve Complete
+3799560 - 4751382 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/kongebro.gif
+3799655 - 4753306 -  - Resolve Complete
+3800038 - 4751366 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/saeby/klublogo.gif
+3805285 - 4751382 -  - Resolve Complete
+3805562 - 4751398 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vestfyn/klublogo.gif
+3807338 - 4751366 -  - Resolve Complete
+3807525 - 4751406 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/fyn.gif
+3807537 - 4751422 -  - Resolve Complete
+3807652 - 4751414 -  - Resolve File , http://www.golfonline.dk/hoteller/glamsbjerg.gif
+3807664 - 4751374 -  - Resolve Complete
+3807840 - 4751390 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/krolink.gif
+3808741 - 4751398 -  - Resolve Complete
+3808908 - 4767750 -  - Resolve File , http://www.golfonline.dk/dansk/debat/dot.gif
+3810536 - 4751406 -  - Resolve Complete
+3811377 - 4767694 -  - Resolve File , http://www.golfonline.dk/grafik/duffy2.jpg
+3811377 - 4751390 -  - Resolve Complete
+3811557 - 4767718 -  - Resolve File , http://www.golfonline.dk/grafik/hioclogo.gif
+3811560 - 4751414 -  - Resolve Complete
+3811877 - 4767702 -  - Resolve File , http://www.golfonline.dk/grafik/dgulogo.gif
+3811877 - 4767750 -  - Resolve Complete
+3812179 - 4767710 -  - Resolve File , http://www.golfonline.dk/grafik/dpga.gif
+3813926 - 4767718 -  - Resolve Complete
+3814157 - 4767734 -  - Resolve File , http://www.golfonline.dk/grafik/museum.jpg
+3815367 - 4767702 -  - Resolve Complete
+3815642 - 4766750 -  - Resolve File , http://www.golfonline.dk/grafik/royal.gif
+3815760 - 4767694 -  - Resolve Complete
+3815914 - 4767726 -  - Resolve File , http://www.golfonline.dk/grafik/usga.gif
+3815942 - 4767710 -  - Resolve Complete
+3816109 - 4767742 -  - Resolve File , http://www.golfonline.dk/grafik/greenkeep.gif
+3820287 - 4766750 -  - Resolve Complete
+3820417 - 4766702 -  - Resolve File , http://www.golfonline.dk/bca/BCass.gif
+3820674 - 4767726 -  - Resolve Complete
+3820798 - 4766710 -  - Resolve File , http://www.golfonline.dk/bca/V.gif
+3823337 - 4767734 -  - Resolve Complete
+3823540 - 4766694 -  - Resolve File , http://www.golfonline.dk/bca/GOLFER3.GIF
+3823556 - 4767742 -  - Resolve Complete
+3823768 - 4766718 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/bgrd.gif
+3824519 - 4766710 -  - Resolve Complete
+3824611 - 4766726 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/fordstim.gif
+3826572 - 4766718 -  - Resolve Complete
+3826756 - 4766742 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/knapUK.gif
+3826756 - 4766702 -  - Resolve Complete
+3827180 - 4748522 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/dkopen.gif
+3827982 - 4766694 -  - Resolve Complete
+3828105 - 4766734 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/knaptour.gif
+3828468 - 4766726 -  - Resolve Complete
+3828558 - 4748466 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/knapplay.gif
+3828902 - 4766742 -  - Resolve Complete
+3829060 - 4748474 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/knapweek.gif
+3829785 - 4766734 -  - Resolve Complete
+3830000 - 4748482 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/knapres.gif
+3830771 - 4748466 -  - Resolve Complete
+3831018 - 4748498 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/knapcomp.gif
+3831080 - 4748522 -  - Resolve Complete
+3831215 - 4748490 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/psmlogo.gif
+3831449 - 4748474 -  - Resolve Complete
+3831570 - 4748506 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/laura02.jpg
+3832591 - 4748482 -  - Resolve Complete
+3832704 - 4748514 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/drive.gif
+3832965 - 4748498 -  - Resolve Complete
+3833184 - 5275806 -  - Resolve File , http://www.golfonline.dk/grafik/linkbold.gif
+3833787 - 4748490 -  - Resolve Complete
+3833889 - 5275750 -  - Resolve File , http://www.golfonline.dk/grafik/epga.gif
+3836360 - 5275806 -  - Resolve Complete
+3836477 - 5275766 -  - Resolve File , http://www.golfonline.dk/grafik/bjorn.gif
+3836477 - 5275750 -  - Resolve Complete
+3836722 - 5275774 -  - Resolve File , http://www.golfonline.dk/grafik/pga.gif
+3836822 - 4748506 -  - Resolve Complete
+3836936 - 5275758 -  - Resolve File , http://banners/spilvind.gif
+3841994 - 4748514 -  - Resolve Complete
+3842121 - 5275782 -  - Resolve File , http://www.golfonline.dk/grafik/wpge.gif
+3842840 - 5275774 -  - Resolve Complete
+3843010 - 5275798 -  - Resolve File , http://www.golfonline.dk/grafik/lpga.gif
+3845451 - 5275766 -  - Resolve Complete
+3845602 - 5275790 -  - Resolve File , http://grafik/challenge.gif
+3845949 - 5275758 -  - Resolve Error , -6010
+3846142 - 5277706 -  - Resolve File , http://www.golfonline.dk/canon/jphave4.JPG
+3847570 - 5275798 -  - Resolve Complete
+3847865 - 5277658 -  - Resolve File , http://www.golfonline.dk/canon/brskyg2.gif
+3847940 - 5275782 -  - Resolve Complete
+3848243 - 5277650 -  - Resolve File , http://www.golfonline.dk/canon/cnskyg2.gif
+3850270 - 5275790 -  - Resolve Error , -6010
+3850385 - 5277666 -  - Resolve File , http://www.golfonline.dk/canon/canonmasters.gif
+3855782 - 5277658 -  - Resolve Complete
+3856222 - 5277682 -  - Resolve File , http://www.golfonline.dk/canon/epgalogo.gif
+3864340 - 5277682 -  - Resolve Complete
+3865191 - 5277698 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/bgrd.gif
+3866955 - 5277650 -  - Resolve Complete
+3867768 - 5277690 -  - Resolve File , http://www.golfonline.dk/danish-open/fordstim.gif
+3870914 - 5277666 -  - Resolve Complete
+3871002 - 5283766 -  - Resolve File , http://www.golfonline.dk/danish-open/knapDK.gif
+3871789 - 5277698 -  - Resolve Complete
+3871896 - 5283710 -  - Resolve File , http://www.golfonline.dk/danish-open/dkopen.gif
+3872886 - 5277706 -  - Resolve Complete
+3872990 - 5277674 -  - Resolve File , http://www.golfonline.dk/danish-open/knaptour.gif
+3873677 - 5277690 -  - Resolve Complete
+3873775 - 5283718 -  - Resolve File , http://www.golfonline.dk/danish-open/knapplay.gif
+3874190 - 5283766 -  - Resolve Complete
+3874298 - 5283726 -  - Resolve File , http://www.golfonline.dk/danish-open/knapweek.gif
+3875303 - 5277674 -  - Resolve Complete
+3875484 - 5283742 -  - Resolve File , http://www.golfonline.dk/danish-open/knapres.gif
+3876151 - 5283718 -  - Resolve Complete
+3876479 - 5283750 -  - Resolve File , http://www.golfonline.dk/danish-open/knapcomp.gif
+3876567 - 5283710 -  - Resolve Complete
+3876722 - 5283734 -  - Resolve File , http://www.golfonline.dk/grafik/harley01.jpg
+3876993 - 5283726 -  - Resolve Complete
+3877200 - 5283758 -  - Resolve File , http://www.golfonline.dk/grafik/harley02.jpg
+3878224 - 5283742 -  - Resolve Complete
+3878407 - 5282218 -  - Resolve File , http://www.golfonline.dk/grafik/harley03.gif
+3878590 - 5283750 -  - Resolve Complete
+3878768 - 5282162 -  - Resolve File , http://www.golfonline.dk/grafik/mediaguide.gif
+3881667 - 5282218 -  - Resolve Complete
+3881917 - 5282186 -  - Resolve File , http://www.golfonline.dk/grafik/dummies.gif
+3881951 - 5283758 -  - Resolve Complete
+3882205 - 5282178 -  - Resolve File , http://www.golfonline.dk/grafik/tile.GIF
+3888999 - 5283734 -  - Resolve Complete
+3889278 - 5282170 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/blaavand/banekort.jpg
+3896340 - 5282162 -  - Resolve Complete
+3896488 - 5282194 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/holmsland/kort.gif
+3899649 - 5282178 -  - Resolve Complete
+3899842 - 5282210 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/eventyr/banekort.jpg
+3910265 - 5282186 -  - Resolve Complete
+3910566 - 5282202 -  - Resolve File , http://www.golfonline.dk/grafik/kongebro.gif
+3915136 - 5282170 -  - Resolve Complete
+3916088 - 5287066 -  - Resolve File , http://www.golfonline.dk/hoteller/kongebro.gif
+3916917 - 5282202 -  - Resolve Complete
+3917185 - 5287026 -  - Resolve File , http://www.golfonline.dk/grafik/dot.gif
+3922945 - 5287026 -  - Resolve Complete
+3923341 - 5287034 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/saeby/banekort.jpg
+3930592 - 5282194 -  - Resolve Complete
+3930877 - 5287010 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/vestf_ba.jpg
+3941638 - 5287066 -  - Resolve Complete
+3941857 - 5287042 -  - Resolve File , http://www.golfonline.dk/dansk/debat/andersen.gif
+3944024 - 5282210 -  - Resolve Complete
+3944294 - 5287018 -  - Resolve File , http://www.golfonline.dk/dansk/debat/anders.gif
+3949687 - 5287042 -  - Resolve Complete
+3949903 - 5287058 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/dot.gif
+3950468 - 5287034 -  - Resolve Complete
+3950694 - 5287050 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/bay.gif
+3950787 - 5287018 -  - Resolve Complete
+3950939 - 5289010 -  - Resolve File , http://www.golfonline.dk/grafik/sapga.gif
+3954910 - 5287058 -  - Resolve Complete
+3955130 - 5289018 -  - Resolve File , http://www.golfonline.dk/grafik/tbAllOver02.jpg
+3958591 - 5289010 -  - Resolve Complete
+3958770 - 5289026 -  - Resolve File , http://www.golfonline.dk/grafik/dkclose.gif
+3963924 - 5287050 -  - Resolve Complete
+3964119 - 5289042 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bornholm/klublogo.gif
+3964945 - 5287010 -  - Resolve Complete
+3965055 - 5289066 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/breinholtgaard/Klublogo.gif
+3967556 - 5289018 -  - Resolve Complete
+3967804 - 5289034 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ebeltoft/klublogo.gif
+3968149 - 5289042 -  - Resolve Complete
+3968342 - 5289050 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/esbjerg/klublogo.gif
+3970013 - 5289026 -  - Resolve Complete
+3970269 - 5289058 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/esbjerg/klubfoto01.jpg
+3971981 - 5289066 -  - Resolve Complete
+3972167 - 5292166 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/jyll03.gif
+3972314 - 5289050 -  - Resolve Complete
+3972478 - 5292118 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fanoe/klublogo.gif
+3972480 - 5289034 -  - Resolve Complete
+3972698 - 5292110 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikshavn/klublogo.gif
+3975924 - 5292166 -  - Resolve Complete
+3976055 - 5292134 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikssund/klublogo.gif
+3976411 - 5289058 -  - Resolve Complete
+3976550 - 5292126 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikssund/klubfoto01.jpg
+3977186 - 5292118 -  - Resolve Complete
+3977365 - 5292142 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/klublogo.gif
+3977873 - 5292110 -  - Resolve Complete
+3978069 - 5292150 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/map.gif
+3978769 - 5292134 -  - Resolve Complete
+3978973 - 5292158 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gyttegaard/klublogo.gif
+3978975 - 5292142 -  - Resolve Complete
+3979178 - 5285966 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/klublgo.gif
+3980305 - 5292150 -  - Resolve Complete
+3980509 - 5285918 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/Hcgma12.jpg
+3982621 - 5285966 -  - Resolve Complete
+3983229 - 5285934 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/henne/klublogo.gif
+3983988 - 5292158 -  - Resolve Complete
+3984293 - 5285926 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hirtshals/klublogo.gif
+3984335 - 5292126 -  - Resolve Complete
+3984506 - 5285910 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/klublogo.gif
+3989130 - 5285934 -  - Resolve Complete
+3989336 - 5285950 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/klubhus.gif
+3989577 - 5285926 -  - Resolve Complete
+3989826 - 5285958 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hoersholm/klublogo.gif
+3989842 - 5285918 -  - Resolve Complete
+3990026 - 5285942 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kokkedal/klublogo.gif
+3990318 - 5285910 -  - Resolve Complete
+3990493 - 5296066 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kokkedal/kokkedal01.jpg
+3992394 - 5285958 -  - Resolve Complete
+3992567 - 5296018 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/klublogo.gif
+3994079 - 5285942 -  - Resolve Complete
+3994237 - 5296026 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/korsoer.gif
+3997876 - 5285950 -  - Resolve Complete
+3998076 - 5296010 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/map.gif
+3999232 - 5296018 -  - Resolve Complete
+3999408 - 5296042 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/klublogo.gif
+3999421 - 5296066 -  - Resolve Complete
+3999565 - 5296034 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/billed01.gif
+4004044 - 5296042 -  - Resolve Complete
+4004351 - 5299766 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/lemvig01.jpg
+4004614 - 5296010 -  - Resolve Complete
+4004780 - 5296058 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lillebaelt/klublogo.gif
+4008501 - 5296026 -  - Resolve Complete
+4008677 - 5296050 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/moen/klublogo.gif
+4014552 - 5299766 -  - Resolve Complete
+4014699 - 5299718 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odense/klublogo.gif
+4015777 - 5296050 -  - Resolve Complete
+4015944 - 5299726 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/klublogo.gif
+4018537 - 5296058 -  - Resolve Complete
+4018743 - 5299734 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/samsoe/klublogo.gif
+4022060 - 5299718 -  - Resolve Complete
+4022450 - 5299742 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/klublogo.gif
+4023902 - 5299726 -  - Resolve Complete
+4024052 - 5299750 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/skjoldnaesholm/klublogo.gif
+4024939 - 5296034 -  - Resolve Complete
+4025103 - 5299710 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/klublogo.gif
+4029057 - 5299710 -  - Resolve Complete
+4029180 - 5301618 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/foto01.jpg
+4030134 - 5299750 -  - Resolve Complete
+4030359 - 5301666 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/foto02.jpg
+4030606 - 5299742 -  - Resolve Complete
+4030782 - 5299758 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/storstroemmen/foto03.jpg
+4030797 - 5299734 -  - Resolve Complete
+4030920 - 5301610 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/struer/klublogo.gif
+4033401 - 5301618 -  - Resolve Complete
+4033619 - 5301626 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soelleroed/klublogo.gif
+4036806 - 5301666 -  - Resolve Complete
+4036940 - 5301634 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/grafik/koelle3.jpg
+4036952 - 5301610 -  - Resolve Complete
+4037091 - 5301650 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejen/klublogo.gif
+4037445 - 5299758 -  - Resolve Complete
+4037610 - 5301642 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/vejle/map.gif
+4037901 - 5301626 -  - Resolve Complete
+4038045 - 5301658 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/viborg/klublogo.gif
+4038891 - 5301634 -  - Resolve Complete
+4039010 - 5303566 -  - Resolve File , http://www.golfonline.dk/bca/mere.html
+4039914 - 5301642 -  - Resolve Complete
+4040123 - 5303518 -  - Resolve File , http://www.golfonline.dk/danish-open/dansk/homeknap.gif
+4041481 - 5301650 -  - Resolve Complete
+4041637 - 5303510 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/lineup.gif
+4042785 - 5303566 -  - Resolve Complete
+4042971 - 5303534 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/dot.gif
+4042971 - 5301658 -  - Resolve Complete
+4043109 - 5303526 -  - Resolve File , http://www.golfonline.dk/dansk/pro/epga96/72bjorn.jpg
+4043967 - 5303518 -  - Resolve Complete
+4044098 - 5303542 -  - Resolve File , http://www.golfonline.dk/grafik/valderrama.gif
+4045586 - 5303534 -  - Resolve Complete
+4045894 - 5303550 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/11lpga.gif
+4049741 - 5303526 -  - Resolve Complete
+4049884 - 5308566 -  - Resolve File , http://www.golfonline.dk/dansk/pro/lpga97/12lpga.gif
+4050218 - 5303542 -  - Resolve Complete
+4050351 - 5308510 -  - Resolve File , http://www.golfonline.dk/grafik/challenge.gif
+4051241 - 5303510 -  - Resolve Complete
+4051554 - 5308518 -  - Resolve File , http://www.golfonline.dk/danish-open/bgrd.gif
+4053145 - 5308566 -  - Resolve Complete
+4053362 - 5308526 -  - Resolve File , http://www.golfonline.dk/danish-open/homeknap.gif
+4053444 - 5308510 -  - Resolve Complete
+4053696 - 5308534 -  - Resolve File , http://www.golfonline.dk/dansk/pro/pga97/honda.gif
+4053860 - 5303550 -  - Resolve Complete
+4054143 - 5303558 -  - Resolve File , http://www.golfonline.dk/grafik/ega.jpg
+4054670 - 5308518 -  - Resolve Complete
+4054778 - 5308542 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/bornholm/banekort.jpg
+4055723 - 5308526 -  - Resolve Complete
+4055955 - 5308550 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/breinholtgaard/banekort.jpg
+4058247 - 5308534 -  - Resolve Complete
+4058460 - 5308558 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/ebeltoft/bane.gif
+4058619 - 5303558 -  - Resolve Complete
+4058804 - 5307566 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/fanoe/banekort.jpg
+4083516 - 5308550 -  - Resolve Complete
+4083657 - 5307518 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/frederikshavn/banekort.jpg
+4099115 - 5307566 -  - Resolve Complete
+4099490 - 5307534 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/gilleleje/junior.gif
+4107833 - 5308558 -  - Resolve Complete
+4108015 - 5307526 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/helsingoer/kort.gif
+4108910 - 5307534 -  - Resolve Complete
+4109229 - 5307550 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/henne/banekort.jpg
+4115344 - 5308542 -  - Resolve Complete
+4115482 - 5307510 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbaek/banekort.jpg
+4116721 - 5307518 -  - Resolve Complete
+4116872 - 5307542 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/gren.gif
+4138738 - 5307550 -  - Resolve Complete
+4138892 - 5313466 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/banen.gif
+4141208 - 5307526 -  - Resolve Complete
+4141557 - 5307558 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/lejlig.gif
+4142855 - 5313466 -  - Resolve Complete
+4143046 - 5313426 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/hus.gif
+4147853 - 5307558 -  - Resolve Complete
+4148030 - 5313434 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/lejlighed.gif
+4148662 - 5313426 -  - Resolve Complete
+4148767 - 5313442 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hjarbo/luxus.gif
+4152041 - 5307542 -  - Resolve Complete
+4152393 - 5313418 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hoersholm/banekort.jpg
+4171171 - 5313434 -  - Resolve Complete
+4171419 - 5313450 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/banekort.jpg
+4172367 - 5307510 -  - Resolve Complete
+4172482 - 5313410 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/korsoer/banekort.jpg
+4174263 - 5313442 -  - Resolve Complete
+4174418 - 5313458 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lemvig/banekort.jpg
+4210819 - 5313418 -  - Resolve Complete
+4211574 - 5315266 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/lillebaelt/banekort.gif
+4215526 - 5313458 -  - Resolve Complete
+4216191 - 5315226 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odense/banekort.jpg
+4233980 - 5313450 -  - Resolve Complete
+4234758 - 5315210 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/odsherred/banekort.jpg
+4243650 - 5315226 -  - Resolve Complete
+4243864 - 5315242 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/samsoe/banekort.jpg
+4245318 - 5315266 -  - Resolve Complete
+4245537 - 5315234 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/sct_knud/banekort.jpg
+4251039 - 5313410 -  - Resolve Complete
+4251286 - 5315218 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/struer/banekort.jpg
+4266049 - 5315210 -  - Resolve Complete
+4266242 - 5315250 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/svendborg/banekort.jpg
+4281842 - 5315242 -  - Resolve Complete
+4282027 - 5315258 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/soelleroed/map.jpg
+4282633 - 5315234 -  - Resolve Complete
+4282865 - 5318666 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/viborg/banekort.jpg
+4293832 - 5315218 -  - Resolve Complete
+4294223 - 5318610 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/map.jpg
+4306983 - 5315250 -  - Resolve Complete
+4307654 - 5318618 -  - Resolve File , http://www.golfonline.dk/danish-open/graphics/laura01a.jpg
+4310805 - 5318666 -  - Resolve Complete
+4311382 - 5318626 -  - Resolve File , http://www.golfonline.dk/dansk/grafik/valderrama.gif
+4314337 - 5318610 -  - Resolve Complete
+4314699 - 5318642 -  - Resolve File , http://www.golfonline.dk/danish-open/caroline.gif
+4320977 - 5318626 -  - Resolve Error , -6404
+4321766 - 5318658 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/Breinholtgaard/Klublogo.gif
+4325431 - 5318642 -  - Resolve Error , -6404
+4326015 - 5319366 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/Breinholtgaard/banekort.jpg
+4327440 - 5318618 -  - Resolve Complete
+4335369 - 5318658 -  - Resolve Complete
+4339676 - 5315258 -  - Resolve Complete
+4352605 - 5319366 -  - Resolve Complete
+4352605 - 0 - Begin Main Loop - 
+4354018 - 5318650 -  - Resolve File , http://www.golfonline.dk/dansk/debat/indlag/97.html
+4354389 - 5318634 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hilleroed/klubhead.html
+4354609 - 5319310 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/klub.html
+4354833 - 5319318 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kalundborg/klubhead.html
+4356367 - 5318650 -  - Resolve Complete
+4357396 - 5318634 -  - Resolve Complete
+4358871 - 5319318 -  - Resolve Complete
+4361627 - 5319310 -  - Resolve Complete
+4364290 - 5319326 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/hilleroed/banekort.html
+4364617 - 5319334 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kalundborg/banekort.html
+4371804 - 5319326 -  - Resolve Complete
+4372520 - 5319334 -  - Resolve Complete
+4372737 - 0 - Fetch Graphics - 
+4373014 - 5319342 -  - Resolve File , http://banners/spilvind.gif
+4373409 - 5319350 -  - Resolve File , http://grafik/challenge.gif
+4373830 - 5319358 -  - Resolve File , http://www.golfonline.dk/dansk/grafik/valderrama.gif
+4374150 - 5320666 -  - Resolve File , http://www.golfonline.dk/danish-open/caroline.gif
+4381112 - 5319342 -  - Resolve Error , -6010
+4381430 - 5320610 -  - Resolve File , http://www.golfonline.dk/dansk/klubber/kaj_lykke/klublogo.gif
+4383384 - 5319358 -  - Resolve Error , -6404
+4383590 - 5320666 -  - Resolve Error , -6404
+4387897 - 5319350 -  - Resolve Error , -6010
+4389987 - 5320610 -  - Resolve Complete
+4389987 - 0 - Begin Main Loop - 
+4389987 - 0 - Fetch Graphics - 
+4390247 - 5320618 -  - Resolve File , http://banners/spilvind.gif
+4390632 - 5320626 -  - Resolve File , http://grafik/challenge.gif
+4390878 - 5320634 -  - Resolve File , http://www.golfonline.dk/dansk/grafik/valderrama.gif
+4391264 - 5320642 -  - Resolve File , http://www.golfonline.dk/danish-open/caroline.gif
+4394141 - 5320634 -  - Resolve Error , -6404
+4394312 - 5320642 -  - Resolve Error , -6404
+4397864 - 5320626 -  - Resolve Error , -6010
+4400891 - 5320618 -  - Resolve Error , -6010
+4400891 - 0 - Update links - 
+4610902 - 0 - Session Update Complete: time = 859382693 - 

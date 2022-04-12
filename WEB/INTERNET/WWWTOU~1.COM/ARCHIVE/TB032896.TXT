@@ -1,0 +1,159 @@
+Date: Wed, 27 Mar 1996 23:30:57 -0800
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - MARCH 28 - USENET INFO CENTER
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://www.WorldVillage.com/tourbus.htm  |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TOURBUS is proud to announce a new terminal of departure - the Internet
+Hotel at WorldVillage!  When you get off the Bus, be sure to check out
+the latest at WorldVillage this week.  ( http://www.worldvillage.com )
+
+
+TODAY'S TOURBUS STOP    : USENET INFO CENTER
+TODAY'S TOURBUS ADDRESS : http://sunsite.unc.edu/usenet-i/home.html
+
+I am pround to announce that my modem's manufacturer has created a software
+patch that fixes my recent modem problem (my modem currently does not
+work).  There is, however, one small drawback.  Wanna guess where the
+geniuses at
+my modem's manufacturer put the software patch?  On America Online (AOL)!.
+
+Yeah ... THAT makes sense!  I'll just use my modem (which does not work
+because I do not have the software patch) to login to my AOL account and
+download the software patch :)
+
+On a different subject, Newsweek magazine is looking for the best e-mail
+mailing lists on the Internet.  If you have a favorite list (and no, your
+favorite list does *not* have to be TOURBUS), send the list's name info
+the folks at cscope@newsweek.com
+
+*--------------<  BIG-TIME MAGAZINES FOR $10 A YEAR?  >----------------*
+   Take the 'Bus to Magazine Express for exclusive TOURBUS discounts
+   and get Dr. Bob's new guide free!  ELVIS the mailbot tells all...
+*---------------<  E-mail: tourbus@Magazines.Com  >--------------------*
+
+As shocking as this may sound, there is a whole bunch more to the Internet
+than just the over-publicized World Wide Web.  Before the Web, and even
+before Gopher, Usenet newsgroups were the hot spots on the Net.  As a
+matter of fact, with well over 15,000 different discussion groups used
+daily by millions upon millions of people, Usenet is still one of the
+hotest areas on the Net.
+
+For those of you who may have never experienced Usenet, it is a little like
+a room the size of the Superdome with thousands of bulletin boards on the
+wall.  People post little slips of paper on bulletin boards whose topics
+interest them.  Sometimes people read and/or reply to the other slips of
+paper on these bulletin boards, and sometimes they don't (you can find out
+more about Usenet and the rest of the Internet in the Roadmap workshop, a
+free, 27 lesson Internet training workshop.  To find out how to retrieve
+any or all of the Roadmap lessons using nothing but e-mail, send an e-mail
+letter to LISTSERV@UA1VM.UA.EDU that says GET MAP PACKAGE F=MAIL in the
+body of your e-mail letter).
+
+You access Usenet newsgroups through your local Internet service provider,
+who will be more than happy to tell you how to do this (and, to repeat my
+Roadmap mantra, PLEASE do not contact me to ask me how to access Usenet ...
+*ONLY* your local Internet service provider can tell you how to do this).
+
+THE USENET INFO CENTER
+----------------------
+
+Today's TOURBUS stop is the Usenet Info Center at
+
+     http://sunsite.unc.edu/usenet-i/home.html
+
+The Usenet Info Center is a totally unspectacular looking web site (they
+have NO graphics at all), but it is replete with really cool information.
+From the Usenet Information Center homepage you can access the Frequently
+Asked Questions for almost EVERY Usenet newsgroup, and you can also find
+out a whole bunch of information about these newsgroups as well. One note,
+though: you can't use the Usenet Info Center to access Usenet newsgroups
+and read articles (although the Usenet Info Center homepage does have links
+to other Web services that allow you to do this). The Usenet Info Center is
+simply designed to give you valuable information about each of the Usenet
+newsgroups.
+
+What sort of information can you find?  Well, if you click on "Browse the
+Usenet Groups", you can find out stuff about each Usenet newsgroup like:
+
+     * What that newsgroup discusses,
+     * Where you can find that newsgroup's FAQ,
+     * The number people who actually read that newsgroup each day,
+     * The percentage of crosspostings (if you don't know what this is,
+       trust me when I say that you want this percentage to be as low as
+       possible),
+     * The percentage of all Internet service providers that provide that
+       newsgroup, and
+     * The number of messages posted to that newsgroup each day (and each
+       month).
+
+You will find that this information is quite valuable when you are hunting
+for a Usenet newsgroup that meets your particular needs.
+
+You can find out more about the format used to post each newsgroup's
+information by visiting
+
+     http://sunsite.unc.edu/usenet-i/info/format.html
+
+but that probably isn't going to be necessary.  If you ignore the numbers
+in parenthesis at the bottom of each newsgroup's description, you can
+easily figure out everything else in each newsgroup's description.
+
+Of course, you are going to have to go though a couple of directories to
+get to the information about the newsgroup that you want.  For example, if
+you wanted to find out about the "rec.food.chocolate" newsgroup, you would
+have to go through the "rec/" directory, and then the "rec.food/" directory
+to get to your final destination (but if you understand Usenet hierarchies,
+you'll have no problem finding your way around the directories).
+
+That's it for today.  You and I have in our bookmark files dozens, maybe
+hundreds of sites, that we plan to actually visit someday.  If you use
+Usenet, however, today's TOURBUS stop is actually a site that you will both
+use and visit frequently.
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+SENSUOUS - Phrase.
+Usage: "Honey, sensuous up, could you get me another beer?"
+(Special thanks goes to several bus riders for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE
+SOUTHERN WORD HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*--------------------<  SPEED UP YOUR SURFING  >-----------------------*
+    Add memory to your Laptop, Desktop or Workstation and Go Faster!
+  CLC RESEARCH offers Rock Bottom Prices, Lifetime Warranty, and Money
+  Back Guarantee on all products. Special Discounts for TOURBUS Riders!
+*-------------------< http://www.CLCR.com/memory >---------------------*
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'                    Patrick Douglas Crispen
+  {O__,   \    {                      The University of Alabama
+    / .  . )    \         *NEW ADDRESS* crispen@campus.mci.net *NEW ADDRESS*
+    |-| '-' \    } ))         http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                           Warning: squirrels.

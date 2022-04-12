@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Using PGP with Windows</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h1>Using PGP with Windows</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif">
+<p>
+<i>This page explains how to use PGP with Microsoft Windows (3.x/95/NT).
+Let me stress that I don't use PGP with Windows myself, so if you find that
+some of the information is incorrect or outdated, please
+<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">let me know.</a></i>
+<p>
+<hr>
+
+<h2>FAQs: the sad story</h2>
+About twice a day, I get email from people asking:
+<ul>
+  <li><a href="FAQSHT~1.HTM#Windows" tppabs="http://www.ifi.uio.no/pgp/FAQ.shtml#Windows">Is there a Windows version of PGP 2.6.3i?</a>
+  <li><a href="FAQSHT~1.HTM#DLL" tppabs="http://www.ifi.uio.no/pgp/FAQ.shtml#DLL">Is there a PGP DLL?</a>
+</ul>
+
+Both questions are mentioned in the <a href="FAQSHT~1.HTM" tppabs="http://www.ifi.uio.no/pgp/FAQ.shtml">FAQ</a>, and the answer
+to both are: No, there isn't. The reason for this is simple: the PGP source
+code is a real mess, with I/O and cryptography routines mixed together.
+It is correct that there exists a <a href="../../tppmsgs/msgs25.htm#2541" tppabs="http://www.ifi.uio.no/~staalesc/cgi-bin/location.cgi?ftp://ftp.ifi.uio.no/pub/pgp/pc/windows/pgp263i-win32.zip">Win32 compilation of PGP</a>, but it is a
+text-mode application with no fancy GUI, and it does not add any functionality
+over the MS-DOS versions. Writing a true Windows version of PGP or a DLL that
+can be plugged into other applications will require a total rewrite of the PGP
+source code. This will not be done until PGP 3.0, which is already long over
+due. PGP 3.0 will include a complete API, which will separate the cryptography
+routines from the user interface, thus making it much easier to write GUI
+programs for such platforms as Windows, Macintosh and X11. Rumours have it
+that PGP 3.0 will be ready this autumn, but I doubt it.
+<p>
+
+<i><b>BTW:</b> If you live in Canada or the US, you can try the commercial
+ViaCrypt PGP. They have a special
+<a href="../../tppmsgs/msgs25.htm#2543" tppabs="http://www.pgp.com/products/viacrypt-toolkit.cgi">Windows toolkit</a>,
+but as I haven't tested it myself, I cannot recommend it.</i>
+
+<h2>So what can you do?</h2>
+<p>
+If you are a Windows user and want to run PGP, you have at least 4 options:
+<ol>
+  <li>Run one of the the MS-DOS versions (16 or 32 bit) in a DOS box under
+      Windows. This means that you have to remember all the cryptic command
+      line parameters, and encrypt/decrypt files manually from the MS-DOS
+      prompt.<p>
+  <li>Wait for PGP 3.0. This may take several months, so you have to be
+      patient! ;-)<p>
+  <li>Use the limited, non-GUI <a href="../../tppmsgs/msgs25.htm#2541" tppabs="http://www.ifi.uio.no/~staalesc/cgi-bin/location.cgi?ftp://ftp.ifi.uio.no/pub/pgp/pc/windows/pgp263i-win32.zip">Win32 compilation</a>. It supports long filenames, but has no clipboard functions
+      or other advantages over the MS-DOS compilations, other than possibly a
+      slight speed advantage due to its 32-bit Windows nature. However, it
+      is relatively easy to <a href="EXPLORER.TXT" tppabs="http://www.ifi.uio.no/pgp/explorer.txt">integrate it into Windows 95 explorer</a>.<p>
+  <li>Use one of the many <a href="WINUTI~1.HTM" tppabs="http://www.ifi.uio.no/pgp/winutils.shtml">Windows front-end shells</a>
+      that wraps around the MS-DOS versions. This is probably the best choice,
+      and will let you integrate PGP seamlessly into your email reader, use
+      the clipboard for encryption, etc. <b><i>Note:</i></b> most
+      Windows shells are designed to work with the MS-DOS version of PGP, and
+      so probably won't work with the Win32 compilation.
+</ol>
+
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" width=31 height=31 border=0></a>
+<font size=-1>Last updated
+
+February  5, 1997
+by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt;
+</font></address>
+</body>
+</html>

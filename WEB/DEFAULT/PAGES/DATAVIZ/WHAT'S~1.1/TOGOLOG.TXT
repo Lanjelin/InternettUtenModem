@@ -1,0 +1,32 @@
+------------------------------
+  Web Buddy: to go trace log
+------------------------------
+
+Page Title   : What's New in 1.1
+Page URL     : http://www.dataviz.com/products/webbuddy/wbwhatnew1pt1.html
+Start time   : Tuesday, April 01, 1997 11:02:27
+Finish time  : Tuesday, April 01, 1997 11:02:31
+Elapsed time : 4 seconds
+Disk space   : 15 KB 
+Persistence  : 3
+Levels       : Base page
+
+Summary:
+ - Links resolved : 1 of 1
+ - Graphics resolved : 2 of 2
+
+----------------------------------------
+ 7691306- 0 - Begin Session Update: time = 859910547 - 
+ 7691306- 0 - Begin Main Loop - 
+ 7691337- 4416298 -  - Resolve File , http://www.dataviz.com/products/webbuddy/wbwhatnew1pt1.html
+ 7693944- 4416298 -  - Resolve Complete
+ 7693944- 0 - Parsing file - http://www.dataviz.com/products/webbuddy/wbwhatnew1pt1.html
+ 7693956- 0 - Fetch Graphics - 
+ 7693956- 4416306 -  - Resolve File , http://www.dataviz.com/images/ProductsBar.gif
+ 7693974- 4416314 -  - Resolve File , http://www.dataviz.com/Images/WBlogo2intips.gif
+ 7694114- 4416314 -  - Resolve Complete
+ 7694276- 4416306 -  - Resolve Complete
+ 7694276- 0 - Begin Main Loop - 
+ 7694276- 0 - Begin Main Loop - 
+ 7694276- 0 - Update links - 
+ 7694300- 0 - Session Update Complete: time = 859910551 - 

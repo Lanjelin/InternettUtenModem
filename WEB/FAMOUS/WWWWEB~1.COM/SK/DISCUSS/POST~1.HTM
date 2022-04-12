@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML VERSION="3.2">
+<HEAD>
+
+<script language="javaScript">
+<!--
+function getCookieVal (offset) {
+   var endstr = document.cookie.indexOf (";", offset);
+   if (endstr == -1)
+      endstr = document.cookie.length;
+   return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+   var arg = name + "=";
+   var alen = arg.length;
+   var clen = document.cookie.length;
+   var i = 0;
+   while (i < clen) {
+      var j = i + alen;
+      if (document.cookie.substring(i, j) == arg)
+         return getCookieVal (j);
+      i = document.cookie.indexOf(" ", i) + 1;
+      if (i == 0) break;
+   }
+   return "";
+}
+// -->
+</script>
+
+<TITLE>Kierkegaard Discussion</TITLE>
+</HEAD>
+<BODY BACKGROUND="../BACK.GIF" tppabs="http://www.webcom.com/sk/back.gif" BGCOLOR="#" TEXT="#FFFFFF" LINK="#FFFFFF" VLINK="#c0c0c0" ALINK="#c0c0c0">
+
+<H2 ALIGN="CENTER"><IMG SRC="../DISCUSS.GIF" tppabs="http://www.webcom.com/sk/discuss.gif" ALT="Kierkegaard Discussion" WIDTH="600" HEIGHT="40"><BR>Posting Page</H2>
+
+<FORM METHOD="POST" NAME="Lavapost" ACTION="http://www.webcom.com/cgi-bin/form" tppabs="http://www.webcom.com/cgi-bin/form">
+
+<LI><STRONG>UserName:</STRONG><BR>
+<INPUT TYPE="TEXT" NAME="username" SIZE="15">  (<A HREF="INFO/USERNA~1.HTM" tppabs="http://www.webcom.com/sk/Discuss/Info/username.html">More info</A>)<BR>
+
+<script language="JavaScript">
+<!--
+document.Lavapost.username.value = GetCookie("sk-Lava");
+// -->
+</script>
+
+<LI><STRONG>CC:</STRONG><BR>
+<INPUT TYPE="TEXT" NAME="CarbonEmail" SIZE="25"> (Internet E-mail address)<BR>
+<LI><STRONG>Your Name or Pseudonym:</STRONG><BR>
+<INPUT TYPE="TEXT" NAME="MessageFrom" SIZE="35"><BR>
+<LI><STRONG>Your E-mail address:</STRONG><BR>
+<INPUT TYPE="TEXT" NAME="EmailAddress" SIZE="40"><BR>
+<LI><STRONG>The Subject of your post:</STRONG><BR>
+<INPUT TYPE="TEXT" NAME="MessageSubject" SIZE="45">
+<P>
+<LI><STRONG>Your Message:</STRONG><BR>
+<TEXTAREA NAME="MessageBody" WRAP=PHYSICAL COLS="70" ROWS="10"></TEXTAREA><BR>
+
+Include your Signature at the end of your message post? <INPUT TYPE="CHECKBOX" NAME="Sig_Write" CHECKED VALUE="Yes"> Yes<BR>
+<INPUT TYPE="HIDDEN" NAME="userid" VALUE="sk">
+<INPUT TYPE="HIDDEN" NAME="form_name" VALUE="post">
+<INPUT TYPE="HIDDEN" NAME="BKG" VALUE="http://www.webcom.com/sk/back.gif">
+<INPUT TYPE="HIDDEN" NAME="BGC" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="TXT" VALUE="FFFFFF">
+<INPUT TYPE="HIDDEN" NAME="LNK" VALUE="FFFFFF">
+<INPUT TYPE="HIDDEN" NAME="VLNK" VALUE="c0c0c0">
+<INPUT TYPE="HIDDEN" NAME="ALNK" VALUE="c0c0c0">
+<INPUT TYPE="HIDDEN" NAME="QTXT" VALUE="c0c0c0">
+<INPUT TYPE="HIDDEN" NAME="MD" VALUE="Discuss">
+<INPUT TYPE="HIDDEN" NAME="domain" VALUE="webcom.com">
+<INPUT TYPE="HIDDEN" NAME="BBSN" VALUE="Kierkegaard Discussion">
+<INPUT TYPE="HIDDEN" NAME="owner" VALUE="Per Linds&oslash; Larsen">
+<INPUT TYPE="HIDDEN" NAME="ownMail" VALUE="lindsoe@po.ia.dk">
+<INPUT TYPE="HIDDEN" NAME="Max" VALUE="100">
+<INPUT TYPE="HIDDEN" NAME="DaysLeft" VALUE="2">
+<INPUT TYPE="HIDDEN" NAME="ProfanityCheck" VALUE="no">
+<INPUT TYPE="SUBMIT" VALUE="OK"> <INPUT TYPE="RESET" VALUE="Clear"></P>
+</FORM>
+<HR>
+<H5 ALIGN="CENTER"><A HREF="INDEX.HTM" tppabs="http://www.webcom.com/sk/Discuss/">Kierkegaard Discussion</A> is maintained by <A HREF="mailto:lindsoe@po.ia.dk">Per Linds&oslash; Larsen</A></H5>
+</BODY>
+</HTML>
+
+
+
+

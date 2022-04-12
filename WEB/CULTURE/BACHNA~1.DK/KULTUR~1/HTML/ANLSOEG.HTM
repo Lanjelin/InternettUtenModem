@@ -1,0 +1,278 @@
+<HTML>
+
+<HEAD>
+<TITLE>AnlaegsSoegninger</TITLE>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- begin hiding
+
+function element(objName, name, location, bitmap, row)
+{
+  this.objName = objName
+  this.open = false
+  this.name = name
+  this.location = location
+  this.bitmap = bitmap 
+  this.kid = null
+  this.nextPeer = null
+  this.addKid = addKid
+  this.addPeer = addPeer
+  this.draw = draw
+  this.row = row
+  this.toggle = toggle
+}
+
+
+
+function addPeer(item) {
+  if (this.nextPeer != null) {
+    this.nextPeer.addPeer(item)
+  }
+  else {
+    this.nextPeer = item
+  }
+}
+
+function addKid(item) {
+  if (this.kid != null) {
+    this.kid.addPeer(item)
+  }
+  else {
+    this.kid = item
+  }
+}
+
+
+
+
+function toggle() {
+
+   if (top.AnlOutlineSetting.substring(this.row-1,this.row) == "0") {
+      this.open = false
+    } else {
+      this.open = true
+    }
+
+    if (this.kid == null) {
+    } else {
+      this.kid.toggle();
+    }
+
+    if (this.nextPeer == null) {
+    } else {
+      this.nextPeer.toggle();
+    }
+}
+
+
+
+function writestatus(n,OnOFF) {
+
+  var szString= top.AnlOutlineSetting.substring(0,n) + OnOFF  + top.AnlOutlineSetting.substring(n+1,top.AnlOutlineSetting.length);
+  top.AnlOutlineSetting=szString;
+
+}
+
+
+function open(item) {
+    item.open = true
+    writestatus(item.row-1,"1");
+}
+
+function close (item) {
+    item.open = false
+    writestatus(item.row-1,"0");
+}
+
+
+function draw() { 
+
+  if (this.kid == null) {
+    //print("\n<DT><IMG SRC='/kulturnet/img/bul.gif' HEIGHT=20 WIDTH=20>") 
+    print("\n<DT>") 
+    if (this.location != null) { 
+      print("<A HREF =" + this.location +" TARGET='main'>" + this.name + "</A>")
+    }
+    else {
+      print(this.name)
+    } //100
+    if (this.nextPeer != null) {
+      this.nextPeer.draw()
+    }    
+    else {
+      print("</DL>")
+      return
+    }
+  }
+  else {
+    if (this.open) {
+      print("\n<DT><A HREF='javascript:" + chk + "writestatus(" + this.row +"-1,0);redraw()}'>")
+      print("<IMG SRC='../img/minus.gif' HEIGHT=20 WIDTH=20 BORDER = 0 align=top>")
+      if (this.bitmap != null) {
+        print("<IMG SRC='" + this.bitmap + "'HEIGHT = 20 WIDTH = 20 BORDER = 0></A>")
+      }
+      else {
+        print("</A>")
+      }
+      if (this.location != null) {
+        print("<A HREF =" + this.location +" TARGET='Main'>" + this.name + "</A><DL>")
+      }
+      else {
+        print(this.name+"<DL>")
+      }
+      this.kid.draw()
+      if (this.nextPeer != null) {
+        this.nextPeer.draw()
+      }    
+      else {
+        print("</DL>")
+      }
+    }
+    else {
+      print("\n<DT><A HREF='javascript:" + chk + "writestatus(" + this.row +"-1,1);redraw()}'>")
+      print("<IMG SRC='../img/plus.gif' HEIGHT=20 WIDTH=20 BORDER=0 align=top>")
+      if (this.bitmap != null) {
+        print("<IMG SRC='" + this.bitmap + "'HEIGHT = 20 WIDTH = 20 BORDER = 0></A>")
+      } 
+      else {
+        print("</A>")
+      }
+      if (this.location != null) {
+        print("<A HREF =" + this.location +" TARGET='Main'>" + this.name + "</A>")
+      }
+      else {
+        print(this.name)
+      }
+      if (this.nextPeer != null) {
+        this.nextPeer.draw()
+      }    
+      else {
+        print("</DL>")
+      }
+    }
+  }
+}
+    
+
+function print(text) {
+
+  top.Main.document.write(text)
+
+}
+
+
+
+function redraw() { 
+  history.go(0);
+}
+
+
+
+function initdraw() {
+  print("<DL>")
+  anlaeg.toggle();
+  anlaeg.draw()
+}
+
+
+//100
+// Function DKC_Outline for Monuments
+function DKCoutline(){
+
+
+anlaeg=new element("anlaeg","Grav", null, null, 1)
+	anlaeg.addKid(Brandgrav=new element("Brandgrav", "Brandgrav", URL+" TARGET='Main'", null, 2))
+	anlaeg.addKid(Fund_fra_grav=new element("Fund_fra_grav", "Fund fra grav", URL+" TARGET='Main'", null, 3))
+	anlaeg.addKid(Grav1=new element("Grav1", "Grav", URL+" TARGET='Main'", null, 4))
+	anlaeg.addKid(Gravhoej__rundhoej_=new element("Gravhoej__rundhoej_", "Gravhøj (rundhøj)", URL+" TARGET='Main'", null, 5))
+	anlaeg.addKid(Jordfaestegrav=new element("Jordfaestegrav", "Jordfæstegrav", URL+" TARGET='Main'", null, 6))
+	anlaeg.addKid(Langhoej=new element("Langhoej", "Langhøj", URL+" TARGET='Main'", null, 7))
+	anlaeg.addKid(Roese=new element("Roese", "Røse", URL+" TARGET='Main'", null, 8))
+	anlaeg.addKid(Stenbygget_grav=new element("Stenbygget_grav", "Stenbygget grav", URL+" TARGET='Main'", null, 9))
+	anlaeg.addKid(Stenkiste=new element("Stenkiste", "Stenkiste", URL+" TARGET='Main'", null, 10))
+	anlaeg.addKid(Stenlaegning=new element("Stenlaegning", "Stenlægning", URL+" TARGET='Main'", null, 11))
+	anlaeg.addKid(Stensaetning=new element("Stensaetning", "Stensætning", URL+" TARGET='Main'", null, 12))
+	anlaeg.addKid(Storstensgrav__dysse_eller_jaettestue_=new element("Storstensgrav__dysse_eller_jaettestue_", "Storstensgrav (dysse eller jættestue)", URL+" TARGET='Main'", null, 13))
+
+
+anlaeg.addPeer(Fund=new element("Fund","Fund", null, null, 14))
+	Fund.addKid(Enkeltfund=new element("Enkeltfund", "Enkeltfund", URL+" TARGET='Main'", null, 15))
+	Fund.addKid(Offerfund=new element("Offerfund", "Offerfund", URL+" TARGET='Main'", null, 16))
+
+
+anlaeg.addPeer(Sten=new element("Sten","Sten", null, null, 17))
+	Sten.addKid(Bautasten=new element("Bautasten", "Bautasten", URL+" TARGET='Main'", null, 18))
+	Sten.addKid(Helleristning=new element("Helleristning", "Helleristning", URL+" TARGET='Main'", null, 19))
+	Sten.addKid(Sten_med_skaaltegn=new element("Sten_med_skaaltegn", "Sten med skåltegn", URL+" TARGET='Main'", null, 20))
+	Sten.addKid(Stenlaegning1=new element("Stenlaegning1", "Stenlægning", URL+" TARGET='Main'", null, 21))
+	Sten.addKid(Stenraekke=new element("Stenraekke", "Stenrække", URL+" TARGET='Main'", null, 22))
+	Sten.addKid(Stensaetning1=new element("Stensaetning1", "Stensætning", URL+" TARGET='Main'", null, 23))
+
+
+anlaeg.addPeer(Andre_anlaeg=new element("Andre_anlaeg","Andre anlæg", null, null, 24))
+	Andre_anlaeg.addKid(Ildsted=new element("Ildsted", "Ildsted", URL+" TARGET='Main'", null, 25))
+	Andre_anlaeg.addKid(Kultanlaeg=new element("Kultanlaeg", "Kultanlæg", URL+" TARGET='Main'", null, 26))
+	Andre_anlaeg.addKid(Stensamling=new element("Stensamling", "Stensamling", URL+" TARGET='Main'", null, 27))
+
+
+anlaeg.addPeer(Boplads=new element("Boplads","Boplads", null, null, 28))
+	Boplads.addKid(Bopladsspor=new element("Bopladsspor", "Bopladsspor", URL+" TARGET='Main'", null, 29))
+
+
+anlaeg.addPeer(Landerhverv=new element("Landerhverv","Landerhverv", null, null, 30))
+	Landerhverv.addKid(Faarefold=new element("Faarefold", "Fårefold", URL+" TARGET='Main'", null, 31))
+	Landerhverv.addKid(Ploejespor=new element("Ploejespor", "Pløjespor", URL+" TARGET='Main'", null, 32))
+
+
+anlaeg.addPeer(Tro__sagn___tradition=new element("Tro__sagn___tradition","Tro, sagn & tradition", null, null, 33))
+	Tro__sagn___tradition.addKid(Sagn=new element("Sagn", "Sagn", URL+" TARGET='Main'", null, 34))
+
+
+anlaeg.addPeer(Fest__forsamling___fritid=new element("Fest__forsamling___fritid","Fest, forsamling & fritid", null, null, 35))
+	Fest__forsamling___fritid.addKid(Dansehoej=new element("Dansehoej", "Dansehøj", URL+" TARGET='Main'", null, 36))
+
+
+anlaeg.addPeer(Militaervaesen=new element("Militaervaesen","Militærvæsen", null, null, 37))
+	Militaervaesen.addKid(Baunehoej=new element("Baunehoej", "Baunehøj", URL+" TARGET='Main'", null, 38))
+
+
+anlaeg.addPeer(Moeller___kraftanlaeg=new element("Moeller___kraftanlaeg","Møller & kraftanlæg", null, null, 39))
+	Moeller___kraftanlaeg.addKid(Vindmoelle=new element("Vindmoelle", "Vindmølle", URL+" TARGET='Main'", null, 40))
+
+
+      chk = 'if (anlaeg == null) {top.location = "/kulturnet/index.htm"} else {'
+}
+
+
+// -->
+</SCRIPT>
+
+</HEAD>
+
+<BODY BACKGROUND="../img/gggbck.jpg" BGCOLOR="#F5E6C8" TEXT="#000000">
+<FONT SIZE=+3 COLOR=BF0000><b>Anl&aelig;g</b></font><br>
+<FONT COLOR=black><b>V&aelig;lg en kategori, - klik p&aring;
+<IMG SRC="../IMG/plus.GIF" WIDTH=20 HEIGHT=20 BORDER=0 ALIGN=TOP><br>derefter p&aring; anl&aelig;gstype</b></font> 
+
+<br clear=all>
+<IMG SRC="../IMG/f5000456.gif" WIDTH=377 HEIGHT=129 BORDER=0 align=right> 
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- start
+
+var URL = "cd-rom.htm";
+DKCoutline();
+chk = 'if (anlaeg == null) {top.location = "/kulturnet/index.htm"} else {'
+initdraw();
+
+// end -->
+</SCRIPT> 
+
+
+
+</BODY>
+</HTML>
+

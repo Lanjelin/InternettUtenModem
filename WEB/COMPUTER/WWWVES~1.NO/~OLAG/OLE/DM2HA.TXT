@@ -1,0 +1,38 @@
+		Doom 2 LMP-Walkthrough
+Levels		: MAP#01-32
+LMP version	: 1.9
+LMP Author	: The HeadAche (Ole Hartvigsen)
+Age		: 15
+E-mail		: sg-3data@online.no
+Doom homepage	: http://www.vestdata.no/~olag/ole/doom.htm
+Info		: A norwegian guy who's played Doom since he
+		  was 13 and still loves it.
+
+These lmp-files are demos from the 32 levels of Doom2. 
+They're all completed from scratch (with only the pistol), 
+without using save slots and on Ultra-Violence skill level. 
+There have been used no cheats.
+
+I hope these files can help anybody out there who hasn't 
+completed the great game of Doom2 in this way. I didn't have 
+100% kills or 100% secret on the levels. As a matter of fact, 
+some of the demos are bee lines to the exit.
+
+To view these files, copy all of the lmps to your Doom 
+directory. Then type
+
+doom2 -playdemo dm2ha##
+
+in your DOS prompt, where ## is the map you want to watch.
+
+Feel free to contact me about the lmps and anything else 
+regarding Doom. I hope you enjoy these files and that 
+they're helpful for you.
+
+Thanx to	: Ola Galde, for playing Deathmatch with 
+		  me (and winning. shit!)
+		  Paul Japp for his Doom2 demo compilation. 
+		  Without it I would never had made it
+		  through. 
+		  Thanx!
+	

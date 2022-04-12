@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Strict HTML Declarations</TITLE>
+</HEAD>
+<BODY>
+<H1>Strict HTML Declarations</H1>
+<HR>
+
+The <B>strict</B> mode checking of HTML is to verify that <EM>only</EM> recommended 
+idioms are used in the HTML document. These idioms are used to gauruantee that
+an HTML document's structure is not compromised. Here is a list of the 
+recommended idioms:
+
+<H2>No text outside of paragraph elements</H2>
+
+<P> This means that document text must be an element of a <B>block</B> container. The most common error
+is:
+<PRE> 
+	&lt;HTML&gt;
+	&lt;BODY&gt;
+	Give me liberty, or give me death!
+	&lt;/BODY&gt;
+	&lt;/HTML&gt;
+</PRE>
+
+
+<P> To be valid in strict mode, this could be:
+
+<PRE> 
+	&lt;HTML&gt;
+	&lt;BODY&gt;
+	&lt;P&gt;Give me liberty, or give me death!&lt;/P&gt;
+	&lt;/BODY&gt;
+	&lt;/HTML&gt;
+</PRE>
+
+
+<P> Here's a list of block containters for HTML 2.0:
+<UL>
+<LI> <CODE>&lt;P&gt;</CODE>|<CODE>&lt;BLOCKQUOTE&gt;</CODE>|<CODE>&lt;PRE&gt;</CODE>
+<LI> <CODE>&lt;DL&gt;</CODE>|<CODE>&lt;UL&gt;</CODE>|<CODE>&lt;OL&gt;</CODE>
+<LI> <CODE>&lt;FORM&gt;</CODE>
+<LI> <CODE>&lt;ISINDEX&gt;</CODE>
+</UL>
+
+
+<P> Here's a additional list of container elements for HTML 3.0:
+<UL>
+<LI> <CODE>&lt;TABLE&gt;</CODE>
+<LI> <CODE>&lt;FIG&gt;</CODE>
+<LI> <CODE>&lt;NOTE&gt;</CODE>
+<LI> <CODE>&lt;BQ&gt;</CODE>
+</UL>
+
+<H2>No obsolete nor deprecated elements are used</H2>
+
+<P> This includes elements such as <CODE>&lt;XMP&gt;</CODE> and <CODE>&lt;LISTING&gt;</CODE>.
+
+<H2> Anchor elements contain only inline markup</H2>
+
+<P> This includes elements such as <CODE>&lt;B&gt;</CODE>, <CODE>&lt;CODE&gt;</CODE>, and <CODE>&lt;IMG&gt;</CODE>. 
+This excludes elements such as <CODE>&lt;H1&gt;</CODE>-<CODE>&lt;H6&gt;</CODE>, <CODE>&lt;BLOCKQUOTE&gt;</CODE>, and <CODE>&lt;P&gt;</CODE>. 
+
+<P> For example, this is not valid in strict mode:
+
+<P> <CODE>&lt;A HREF="foo.html"&gt;&lt;H1&gt;Foo is best!&lt;/H1&gt;&lt;/A&gt;</CODE>
+
+<P> To be valid, write it like this:
+
+<P> <CODE>&lt;H1&gt;&lt;A HREF="foo.html"&gt;Foo is best!&lt;/A&gt;&lt;/H1&gt;</CODE>
+
+<H2>Anchor names are unique and begin with a letter</H2>
+
+<P> For example, this is not valid HTML in strict mode:
+
+<P> <CODE>&lt;A HREF="12"&gt;Chapter 12&lt;/A&gt;</CODE>
+
+<P> This is an example of a valid anchor name specification:
+
+<P> <CODE>&lt;A HREF="Chap12"&gt;Chapter 12&lt;/A&gt;</CODE>
+
+<P> 
+<HR>
+<a href="tppmsgs/msgs6.htm#610" tppabs="http://www.halsoft.com/html/"> <img src="Pending_relink" tppabs="http://www.halsoft.com/html-val-svc/images/valid_html.gif" ALT="HTML 2.0 Checked!" ALIGN="MIDDLE"></a> <I> Last updated and validated Thu 13 Jul 95 by markg@hal.com</I>
+</BODY>
+</HTML>

@@ -1,0 +1,223 @@
+Date: Wed, 19 Feb 1997 21:36:39 -0800
+From: Patrick Douglas Crispen <crispen@CAMPUS.MCI.NET>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS -- 20 FEBRUARY 1997 -- ANAGRAMS / YET ANOTHER INTERNET              SCAM
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"      /    |  \
+  |__________|__________/__________|__________|___________/     |   \
+ /                                                       /______|----\
+|     Visit the TOURBUS website to see the Archives,     |//////|    |
+|           FAQ, and Subscription Information!           |//////|    |
+|                 http://www.TOURBUS.com                 |//////|    |
+|                                                        |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s    \___/
+
+TODAY'S STOP:      ANAGRAMS / YET ANOTHER INTERNET SCAM
+TODAY'S ADDRESSES: http://ua1vm.ua.edu/~crispen/word.html
+                   http://www.genius2000.com/anagram.html
+                   http://www.tourbus.com/
+                   http://news.com/
+                   http://www.fraud.org/report.htm
+
+Hi, kids!  Before we start the latest journey of our little bus of Internet
+happiness, I have two pieces of shameless self-promotion that I want to
+share with you:
+
+     1. For those of you who are fans of the Southern Words of the
+        Day, I am pleased to announce that the Southern Word homepage
+        has (finally) been updated!  The homepage now has *every*
+        Southern Word that we have used since we started our little
+        tour back in 1995, and you can find the words on the Web at
+
+             http://ua1vm.ua.edu/~crispen/word.html
+
+        This page may take a little while to load during business
+        hours, but it is well worth the wait!
+
+     2. The folks at USA Today have decided to lower their standards
+        and are (reportedly) going to print my picture in conjunction
+        with a story that they are currently writing: "Geeks on the
+        Net -- people that you should avoid at all costs."  (I'm
+        KIDDING!  I think the story is actually going to be about
+        Internet hoaxes and myths).  I'm not sure when the story will
+        appear, but I expect it to run in a week or two.  :)
+
+Finally, I want to give special thanks to today's sponsor for making
+today's post possible.  Make sure you stop by Mass Music's homepage and
+thank them for keeping our bus on the road for another week!
+
+*--------------------------- MASS MUSIC -----------------------------*
+  More Music For Your Money!  Over 185,000 Titles Just A Click Away.
+ FREE Weekly Music Zine - Buy 7 Get 1 FREE Everyday - Treasure Hunt!
+      TOURBUS Rider Discount code: SAVENOW! use it and save 5%
+*------------------(  http://www.Mass-Music.com  )-------------------*
+
+ANAGRAM GENIUS
+--------------
+
+Our first stop of the day is at an absolutely delightful anagram generator
+in the United Kingdom.  While I was writing that "Fear and Loathing at the
+FCC" article last week, I thought it would be interesting to see if I could
+find any anagrams for the words "Chairman Reed Hundt" (he's the Chairman of
+the FCC).  As I said last week, I was *REALLY* interested in finding ANY
+way I could to avoid studying for my two economics tests.
+
+Well, because of my aversion to studying, I happened to find this wonderful
+anagram generator on the World Wide Web at
+
+     http://www.genius2000.com/anagram.html
+
+For those of you who may have forgotten what anagrams are, they are words
+or phrases that are made by rearranging the letters of other words or
+phrases.  For example, "sick cruel propagandist" is an anagram for "Patrick
+Douglas Crispen" (and "hidden Carter human" is an anagram for "Chairman
+Reed Hundt").  :)
+
+If you are looking for "what lurks within the letters of YOUR name, or that
+of your boss, employer" or anyone else, you have *GOT* to visit the Anagram
+Genius server!  What makes the server unique is that you can customize your
+anagram search by:
+
+     1. Assigning a gender to the text that you enter;
+
+     2. Choosing if you want your anagrams to be satirical,
+        flattering, or both;
+
+     3. Including vulgar words in, or excluding vulgar words from,
+        your anagrams;
+
+     4. Picking if you want your anagrams to use American or British
+        English; and
+
+     5. Deciding how many anagrams that you want to have sent to you.
+
+One other thing that makes the server unique is that the server *E-MAILS*
+the results to you.  This can take a little while -- my first anagram
+search took a couple of hours -- but, like the Southern Word homepage, it
+is well worth the wait.  :)
+
+The only bad thing that I can say about the Anagram Genius Server is it
+really didn't find any funny anagrams for "Doctor Bob Rankin."  Oh well.  :(
+
+YET ANOTHER INTERNET SCAM
+-------------------------
+
+If you are new to the bus, the following my be a little confusing because I
+am about to refer to some sites that we have visited in the past.  Don't
+panic, though ... all of the old TOURBUS posts can be found in TOURBUS' new
+archives at
+
+     http://www.tourbus.com/
+
+I have received several letters recently asking me if the following story
+is true:
+
+     Consumers who visited a pornographic website (www.sexygirls.com)
+     last month got a big surprise on their phone bills.  After a few
+     teaser pictures, [surfers were told that they] needed to download
+     a special program to view the archived images.  That program was
+     actually a viewer with an entire communications suite hidden deep
+     inside (a non-self propagating Trojan Horse).  The program
+     disconnected user from his/her ISPs, shut off the volume on the
+     modem if it was computer controlled, and dialed a number in
+     Moldova -- a small, former republic of the Soviet Union wedged in
+     between the Ukraine and Romania. All the while the consumer was
+     on the website, and even if he/she then browsed other sites on
+     the World Wide Web, the Internet access was being provided
+     through the Moldova number, resulting in huge international phone
+     charges
+
+     (quoted from http://www.fraud.org/february97.htm)
+
+Well, unfortunately, the story is indeed true (and, yes, the calls really
+went to Moldova).  According to a report published yesterday at cnet's
+news.com site (http://news.com/)
+
+     The Federal Trade Commission today won a court order to shut down
+     "free adult entertainment" Internet sites that it alleges
+     illegally billed Net surfers hundreds of thousands of dollars.
+
+The report goes on to state that
+
+     CNET reported that at least two pornographic Web sites--
+     "sexygirls.com" and "erotic2000.com"--used the program to make
+     international calls. Along with "sexygirls.com," which was
+     inaccessible earlier this month, the FTC is targeting
+     "beavisbutthead.com" and "1adult.com."
+
+     (both quotes are from http://news.com/News/Item/0,4,8077,00.html)
+
+One of the best ways to protect yourself from Internet scams and hoaxes is
+to keep yourself informed.  Fortunately, there are 3 ways that you can do
+this:
+
+     1. Keep reading TOURBUS.  Unless I hear otherwise, I'm going to
+        assume that y'all want me to keep telling you about the latest
+        Internet scams and hoaxes as I hear of them.
+
+     2. Visit cnet's "news.com" site on a DAILY basis
+        (http://news.com/).  If you point your Web browser to
+
+             http://news.com/
+
+        and then click on "The Net," you will find the latest news
+        about EVERYTHING that is happening on the Net.  I try stay up
+        to date with the Internet's current events, and a good portion
+        of the information that I have learned about these current
+        events came from cnet and news.com.
+
+     3. Read the National Fraud Information Center's Internet Fraud
+        Watch daily reports at
+
+             http://www.fraud.org/report.htm
+
+        We'll talk more about the National Fraud Information Center
+        next week.  For now, let's just say that the Internet Fraud
+        Watch daily reports give you advanced warning of Net scams
+        before almost *anyone* else knows about them.
+
+That's it for this week.  Have a safe an happy weekend!  :)
+
+TODAY'S ADDRESSES: http://ua1vm.ua.edu/~crispen/word.html
+                   http://www.genius2000.com/anagram.html
+                   http://www.tourbus.com/
+                   http://news.com/
+                   http://www.fraud.org/report.htm
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+PRIOR - noun.  A talk with God.
+Usage:   "As long as teachers continue to give their students tests,
+         there will be prior in school!"
+
+(Special thanks goes to Dave Zubal for today's word)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+    TOURBUS - (c) Copyright 1997, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

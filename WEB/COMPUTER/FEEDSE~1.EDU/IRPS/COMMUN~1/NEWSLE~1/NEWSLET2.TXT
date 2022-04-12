@@ -1,0 +1,830 @@
+IRPS NEWSLETTER 
+January 2, 1996
+Issue #2
+
+Table of Contents:
+
+Club Status Report
+Internet Relay Chat (Michael Popovich <cad@digital.net>)
+Monthly Columns
+   The Crypt of Philodox (Terry A. Lugviel <tlugvil@grfn.org>)
+   CCGs vs RPGs (Harold N. MacAulay <leslie@isn.net>)
+   Net Chat (Craig Janssen <daili@gate.net>)
+   Daili's Collectibles - Informational (Craig Janssen <daili@gate.net>)
+   Roles & Rolls (Eduard W. Lohmann <lohmann@fwi.uva.nl>)
+   In Long Eons - Q&A's (Barbara Johnson-Haddad <bhaddad@lunacity.com>)
+   James's Brain Dump (James Ducan <jduncan@hawk.igs.net>)
+   Magic Item Shop (Dave Mavretic (davem1@island.microserve.com)>
+   On the Shoulders of Giants <Bruce Sheffer (bsheffer@arthritis.org)>
+
+-----------------------------------------------------------------------------
+Club Status Report (Michael Popovich <cad@digital.net>)
+-----------------------------------------------------------------------------
+	The club is currently doing fine and as of January 31, 1996 there are
+currently 330 members.  There are also several departments in the Secretary's
+command which remain unfilled and members are needed to fill positions.
+	The Secretary currently has 3 deparments, each with it's own unique
+tasks and goals.  Each of these three departments will consist of department
+heads and people in the department.  The people in the department are 
+answerable to the department head, the department head is answerable to the 
+Secretary, and the Secretary is answerable to the President which gives an 
+effective chain of command system for IRPS.
+	The three departments are:
+
+OFFICE OF THE SECRETARY
+   Department of Membership Management (department head found)
+   Department of Newsletter Publication (department head found)
+   Department of Entertainment
+	Subdepartment CCG
+	Subdepartment RPG
+	Subdepartment PBEMs (department head found)
+
+	With all this said and done, we have decided to eliminate the officer
+position of Entertainment Officer turn it into a department instead.  Akilesh
+Deperalta now heads the office of the Secretary.  If you are interested in
+working for one of the departments e-mail Akilesh Deperalta (adep@loop.com) 
+with information about yourself.  Also, if you would like to be a department 
+head of one of the open departments talk to Akilesh.
+	Currently the only Department which has members in it is the 
+Department of Newsletter Publication.  The members of that department are the 
+monthly columnists of the IRPS Newsletter.
+	There are also two other departments but instead of being a clerical 
+department, they're instead a presidental departments with the department 
+heads being directly answerable to the president.  These two departments are:
+
+OFFICE OF THE PRESIDENT
+   Department of Web Resources (department head found)
+   Department of Internal Activities
+
+	One of them is the Department of Web Resources.  Currently there is a 
+department head but there are no members to assist and this department is in 
+great need of department members.  Duties in this department range from 
+gathering new Internet Role-Playing pages to collecting various 
+Icons/Pictures for our pages and other members pages.  If you are interested 
+in joining this department contact Jacques Brunswick 
+(jacquesb@worldaccess.nl) for further information.
+	The other one is the Department of Internal Activities.  Duties in 
+here include maintaining IRC channels and searching for ways to increase club
+activity.  If you're interested in this department contact Michael Popovich
+(cad@digital.net) for further information.
+
+-----------------------------------------------------------------------------
+Internet Relay Chat (Michael Popovich <cad@digital.net>
+-----------------------------------------------------------------------------
+	Hello everyone, as some of you know, there is a program called IRC 
+which stands for Internet Relay Chat.  It allows for users all over the world 
+to chat with each other by using a keyboard as a means of communication.  In 
+IRC, people can chat together in channels where 1 person to 100+ people can 
+gather and talk with each other about specific subjects.
+	In order to run IRC you need an IRC Client program such as mIRC or
+WSIRC.  They are shareware programs and can be downloaded from the Internet.
+I recommend that you use mIRC 3.92 (assuming you're running windows) but any 
+other client program can be used.  But there are various other IRC shareware
+programs out on the net.
+	Once you get the program you will have to decide on which IRC "net" 
+you would like to go and chat in.  There are currently 2 large nets; Efnet 
+and Undernet.  IRPS has channels (#IRPS) in both nets so it doesn't matter 
+which net you go to.  It's all a matter of preference.  If you go to 
+Undernet you can meet me (Snorkel) but if you go to Efnet you can meet Vice 
+President Craig Janssen (NetFlame) and Secretary Akilesh Deperalta 
+(LordMagus).
+	I would like to thank Thomas Charron <twolf@empire.net> for running a
+bot for the Internet Role-Playing Society.  We greatly appreciate it.
+	We are currently thinking about holding online meetings in #IRPS 
+where members could discuss a variety of issuses ranging from daily role-
+playing news to holding officer elections there.
+	There are other great role-playing channels on the net such as #AD&D 
+and #mtg.  #AD&D frequently holds online games since there is a bot capable 
+of simulating dicerolls (noppa).  IRC is a really great experience and we 
+encourage all of you to participate.
+
+-----------------------------------------------------------------------------
+The Crypt of Philodox (Terry A. Lugviel <tlugvi1@grfn.org>)
+-----------------------------------------------------------------------------
+ELEMENTS OF HORROR - THE BASICS, PART 1
+	Any GM or player can tell you that the key to a successful campaign 
+lies not in the rules of the game system, but in the people who play it.  
+This is especially true for a horror campaign.  What you do and don't do can 
+make or break a horror story no matter how good the game system is.        
+	To prevent this from happening in your campaign, I've broken down the 
+elements of horror into two parts.  The first part, this article, will give 
+you the basic elements you need to run a horror campaign.  The second part, 
+which will appear next month, will be focused on techniques you can use when 
+designing you own adventures.        
+	This is directed more toward newcomers to the world of horror.  It's 
+intended for those who want to add elements of horror to a non-horror 
+campaign and to those who want play a horror campaign but don't know where 
+to start.  Even experienced players and GMs may find something new as well 
+as just refreshing their memories.
+	What follows is a generalized breakdown of what horror is and isn't, 
+as well as what it needs and doesn't need.  Some of this may tie in with 
+next months column, but I put it here because of it's relavancy to the text.  
+Let's start with what horror is.
+
+HORROR BY DEFINITION             
+	All of us have our own perception of the world.  And while each of us 
+perceives everything slightly different we share certain common beliefs.  The 
+"common" beliefs are things like gravity, the danger of nuclear energy, and 
+other stuff as well.  We also have beliefs that we don't all share, such as 
+religion, politics, and what food tastes best.        
+	What we believe is what we use to define our reality.  And how we 
+view that reality influences most of our choices.  So, what does reality have 
+to do with horror?  Well, horror is the blatant bending of reality which 
+results in the cause of fear and terror.  Note the fear and terror part.  
+There are times that reality's laws could be broken down which result in 
+amazement and wonder and not cause fear.        
+	Imagine waking up one morning and discovering that everything you 
+believed in was nothing but a lie.  Faith was pointless and hope is lost.  
+Everything that makes you who you are is fake.  This would cause fear and 
+uncertainty in most of us and that fear and uncertainty is the true essence 
+of horror.        
+	H.P. Lovecraft put it best when he wrote "The true weird tale has 
+something more than secret murder, bloody bones, or a sheeted form clanking 
+chains according to rule. A certain atmosphere of breathless and inexplicable 
+dread of outer, unknown forces must be present; and there must be a hint...of 
+that most terrible conception of the human brain - a malign and particular 
+suspension or defeat of the fixed laws of Nature which are our only safeguard 
+against the assaults of chaos and the demons of unplumbed space."        
+	Those are true words.  But note that he mentioned only a hint need be 
+present.  The most terrible forms of horror come when reality starts breaking 
+down one step at a time............        
+	Now, on with some of the basic ideals that are needed to build a 
+strong horror game on.  The first of them is description.
+
+EVERYTHING NEEDS A DESCRIPTION
+	I can't emphasize this one enough.  Horror, especially in a RPG, is 
+dependant upon description.  This includes everything from the gameworld's 
+environment to the people, places, and things within that environment.  The 
+mood of the game depends on how you describe everything.  How you describe 
+something is just as important as what you're describing.  Here's a few 
+things to keep in mind.
+	First, everything in a horror campaign seems darker and more 
+sinister.  Dark clouds blanket the sky most of the time and rain falls more 
+often than not.  Thunderstorms happen more frequently.  Every wind brings 
+with it a haunting melody of howls.  Lights seem dimmer and candles always 
+flicker.  Shadows grow longer and appear to move of their own accord.  People 
+are not as friendly, preferring to remain indoors.  Animals aren't as 
+friendly either. Buildings are older, uglier.  Everywhere you turn you'd 
+swear there's a cemetery or abandoned house.
+	Of course, things aren't really that much different.  They just 
+appear to be.  It justs seem like all the bad things happen at night.  The 
+sun still shines and people still have their daily routines. The darkness is 
+just an illusion.  This illusion can add depth and believability to the game.  
+How the PCs see something can determine how they react.  And everyone sees 
+the same thing a little differently.
+	Second, never describe the same thing the same way twice.  That is if 
+you can avoid it.  Use different adjetives or synonyms every time you 
+describe something.  Don't always call a ghost a ghost.  You can call it a 
+ghost, an apparition, a wraith, a spirit, a phantom, etc.  Not only does this 
+enhance the mood, but it can keep the characters from guessing the true 
+nature of what they see.  Keep a dictionary or thesaurus handy to make it 
+easier.
+	H.P. Lovecraft was a master of description.  He'd add a true element 
+of horror to his stories by using adjetives that most common people didn't 
+even understand.  A lot of them were scientific terms, but they still worked.
+
+EVERYTHING MUST BE UNIQUE
+	The standard in a horror game is that there are no standards.  
+Everything is unique.  No two PCs are the same and no two vampires are the 
+same either.  By making everything unique you avoid the repetitious hum drum 
+of the typical cliche.  This can be done for NPCs, monsters, magic spells and 
+items, and even mundane items.  And don't leave out plot lines, 
+circumstances, or encounters either.
+	Doing this is easy enough.  All you have to do is alter one or two 
+subtle statistics to make it different.  For example, all magic swords could 
+have a soft glow, but each one could glow a different color.  All books could 
+be printed in a different style or bound in a different material.  All 
+vampires have slightly different immunities and vulnerabilities.  The way a 
+magic spell looks and functions could be dependant on the personality of 
+whoever casts it.
+	Along with everything having to be unique, everything must also have 
+a purpose for being there.  The PCs always have a purpose, so should 
+everything else.  By purpose I mean a reason.  Nevery put anything in your 
+story just for the sake of having it there.  Why is it there?  How did it get 
+there?  What function did it serve?  What function does it serve now?  
+Answering these questions can make a horror campaign rich with depth and 
+detail.  It also allows you to use the same concepts in different ways.
+	Note that this almost eliminates random treasure and monster 
+encounters.  If you rely on them, then be prepared to come up with an 
+explantion for why it's there and what makes it unique. The quality of what 
+you put into your stories is far more important than quantity.
+	This way, when the PCs start wondering why there are so many pink 
+skinned zombies in the area, you can let them find out if they want to.  Or 
+why their sword +1, +2 vs. Undead won't effect left-handed vampires.
+
+DETAILED PCS AND NPCS
+	Every PC and NPC should be as detailed as possible.  The reason for 
+this is simple.  It makes the GM's and the player's jobs easier.  (It 
+actually makes character creation harder, but gameplay easier.)  Players 
+should know everything about their characters and GMs should know everything 
+about every character.
+	If a character has an advantage, then detail how they got that 
+advantage.  Likewise, if they have a disadvantage, then detail it.  Most game 
+systems have phobias as a disadvantage.  If a character has a phobia, then 
+explain in detail how it came about.  GMs need to remember that a characters 
+disadvantage is your advantage and a players advantage is your disadvantage.
+	The more a GM knows about the PCs and NPCs, and the better the 
+players know their their characters, the more opportunities arise to 
+roleplay.  The GM can come up with more ideas for plots, subplots, and 
+special encounters.  This in turn gives the players a chance to become more 
+involved with the story.
+	 This goes beyond just advantages and disadvantages.  It also applies 
+to skills ("Where did you learn to sword swallow anyway?"), character 
+attributes ("You mean you got that strong from lifting polar bears?!"), 
+habits ("Talking to animals, eh?  Like they're gonna talk back."), and 
+appearance ("And I suppose everyone in your family is a handsome as you?") If 
+a character has it, then define it.
+
+AVOID TECHNICAL TALK WHEN YOU CAN
+	The less you have to mention the rules in a horror game the better.  
+This is fairly easy to do in systems that have very few rules (such as Call 
+of Cthulhu), but can be impossible in ones that are rules intensive (like 
+Rolemaster).  Here are some ways you can do it.
+	Come up with some sort of hand signals to tell a character they need 
+to roll to resist fear, or pass them a note.  You could even make any rolls 
+yourself and pass a note telling the player the results.  Or even better yet, 
+you can just let the players roleplay their responses.  So long as they are 
+true to their characters and the present situation, this is okay.
+	The more attention you give the rules, the less attention goes to the 
+story.  Try to find a comfortable way to avoid using the technical terms of a 
+game but not slow down play.  This can help support the mood your trying 
+create.
+
+ROLEPLAYING
+	You knew I'd get to it sooner or later.  I put it towards the end so 
+that you'd remember it.  Horror just doesn't work without roleplaying.  And 
+not just ordinary roleplaying.  You have to do it with style.  Your on center 
+stage.  Be the actor.  Put heart and soul into it.  Nothing can ruin a good 
+horror story more than poor roleplaying can.
+	A good way to invoke roleplaying in players is to award experience 
+based solely on roleplaying.  (A good way to invoke roleplaying in the GM is 
+to pitch in for pizza :] )  Note that it doesn't have to be an oscar winning 
+performance.  It just needs to be done.  Not everyone can play Hamlet well, 
+but everyone can try.  But do give out bonus experience for a truly excellent 
+performance.
+	A lot of people believe that it's the actor who makes Shakespeare.  
+But in my opinion, it's Shakespeare who makes the actor.  As a GM, you are 
+Shakespeare.  And the more depth you put into your horror games, the better 
+the results you get from your players.
+
+FINISHING THOUGHTS
+	There are other things you can do to enhance the feeling of your 
+horror campaigns, but they have little to do with the actual game.  Dim the 
+lights where you play.  This helps create atmosphere.  You can also use 
+props, sound effects, and haunting musical scores.
+	 A special note shoud be made about props.  Don't use any real 
+weapons!  In fact, avoid any prop weapons at all if you can.  Also don't use 
+anything that you can't afford to lose.  Not that you'd lose it, but you 
+never know.  This includes family heirlooms, fine china, etc.  Props aren't 
+that important.
+	There are probably a number of things I'm forgetting at the moment.  
+If I come across something important, I'll add them in along the way.  Next 
+month we'll look at what elements can be used when designing you own horror 
+adventure.  For now, I'm outta' here.
+
+-----------------------------------------------------------------------------
+CCGs vs RPGs (Harold N. MacAulay <leslie@isn.net>)
+-----------------------------------------------------------------------------
+	CCG (Collectable Card Games) vs. RPG (Role-Playing Games) is there 
+any wonder as to were it all comes from.  When I first started playing RPGs I 
+never heard of Magic: The Gathering, or anything of the like.  Well now the 
+battle of the the games has started.  Even in the little town in the middle 
+on Prince Edward Island, Canada in our one comic store it has happened, 
+instead of talking about last weeks game, it is about the game being played 
+now or about the last tournament. 
+	When I first started playing AD&D some six years ago it was the 
+greatest thing that I have ever played.  It was like a movie and a video game 
+all wrapped into one.  Instead of seeing the hero train to defeat the major 
+foe, it was me training him to finish off the evil mage and clam his tower 
+for my own.  For six years I played and never looked back until now.  About a 
+year ago I strayed from the RPG world to the Card game world.  Both worlds 
+are made of paper and dice and now even little metal minatures. 
+	When I found a few people to play, only one of them was from my 
+former game group that died off because of moving on and moving away, a whole 
+new type of role-playing developed, and when some of the rest of my game 
+group started to play the RPG world had stopped and that was okay for a 
+little while but soon the cards got to be routine, people using the same 
+"killer" decks over and over again.  It, well, got boring.  But whenever 
+someone got a new card it was great, Reading it for the first time was fun 
+and trying to devise a new way to counter the effect of the new card.  In 
+many ways it was the same as facing a new creature from the new monster 
+manual that the DM just got, but still I found that it lacked something but 
+what? 
+	After a while I began to relize what it was that was missing from the 
+card games, player interaction and character development.  Some people might 
+say that building a deck is like creating a new character, is it?  Sure, I 
+think that it is very alike but also very diffrent.  A deck doesn't need to 
+be equipped with a sword or anything trivial like torchs or food for the next 
+adventure.  Gold doesn't have to be spent buying armor.  Does the deck need a 
+horse to get around, NO.  In many ways the construction of a deck and a 
+character are the same.  Both take time and a lot of consideration.  For 
+example, they suit the player and not the other way around.  Both can give 
+the creator a sense of acomplishment.  Last but not least they give the 
+creator a great deal of pleasure, either the deck winning or the fighter 
+destroying the creature that guards the monster. 
+	I have no quams about any of the card games, and as a matter of fact 
+I play in quite a few of them, Magic, Star Trek, VTES, and I even tried the 
+Dragon Dice game.  I find that the game can even interact with each other.  
+One time when me and a few of my friends were playing Vampire the Masqurade, 
+we use magic to pass some of he time between events.  For a little while 
+when Jhyad came out all of the aspects of the game, made it look like a RPG 
+of some sorts, Voting, attacking and trying to steal peoples equipment.  But 
+alas I found that with just two people it got boring and without the proper 
+funds to get good cards, my friends couldn't play. 
+	All in all the two systems are almost the same, but they have alot 
+of diffrences.  The main one being player interaction and the joy of Role-
+playing with your friends.  Sure trounceing them with the super card may be 
+fun but it may get boring.  My biggest prblem wiht the two is the fact of 
+funds.  AD&D and other game can be used over and over again and not get 
+bored with the same thing over and over agian, we as if you get a pack of 
+cards and get the same on, well SOL.  I have amassed some thousands of 
+dollars in AD&D book and about 500 on cards.  I find that after a while the 
+cards do get boring and we stop playing, but for the role-playing game, they 
+never stop anymore and we still have a ball doing the same old stuff, it's 
+just a different day or plane whatever comes to mind. 
+
+-----------------------------------------------------------------------------
+Net Chat (Craig Janssen <daili@gate.net>)
+-----------------------------------------------------------------------------
+Welcome to Net Chat!
+ 
+	There was an error in issue #9 of Scrye.  The WotC email listserv is 
+listserv@wizards.com not oracle@wizards.com!  Thank you, Carol Sprague for 
+catching the error!  The last few months have been quite an experience!  
+Things are starting to get busy with MSN.  You will see my name more when you 
+get replies from Scrye.  I am helping out with email as the other people at 
+Scrye are very busy.  I expect the next months to be very exciting.  Well, it 
+will be busy at least! 
+
+MTG front:
+	Chronicles are available again. Homelands will be here but the time 
+you read this. I am hearing rumors that Homelands will be printed on the 
+scale of Fallen Empires. I know there are no problems getting Homelands from 
+distributors.  Another unusual event has occurred with Homelands.  WotC 
+released the rarity list for the set early. Scrye rushed to get a list 
+together for issue #10. A new restricted/ban list has been released.  The 
+following cards Channel, Chaos Orb, and Falling Star are now banned in 
+tournament use.  Summon legends are now unrestricted, and the Zuran Orb is 
+restricted. Watch the Wizards WWW site, for updates and information!  There 
+has been some very interesting discussions about all the rules 
+clarifications and updates. 
+	Most people see the need for the updates. Others say "Enough is 
+Enough"!  There is now a Top 10 MTG list.  You can now vote for your 
+favorite card. The list is compiled by Tom Gioconda (see Net Resources for 
+the address and WWW information).
+ 
+Other CCG Front:
+	Heresy should be out by the time you read this!  The company Last 
+Unicorn Games is offering free goodies.  You can call them for details (see 
+Net Resources).  A well detailed guide to V:TES has been released on the net.  
+If you can't find it, email me for a copy.  Legends of the Five Rings is 
+scheduled for release in early October!  There will be approximately 300 
+cards in the set, with a total print run of 12 million cards.  Keep your eyes 
+open for the promo sheets!  For you World War 2 fans, check out the The Last 
+Crusade CCG.   Last Crusade will cover the struggle between the Allies and 
+Germany between the years of 1944 and 1945. 
+	Middle Earth: The Wizards is due out some time in December and will 
+be released by I.C.E. not WotC.  The set will be over 400 cards. Rumors say 
+the art is great!  OverPower is here!  Fleer is pulling out all the stops 
+with this CCG.  Be on the look out for OverPower Legion.  The Legion will be 
+the official club for OverPower.  Prices to join were still being determined.  
+Members will have access to free goodies and information not available to 
+other people!  Send email to address or call the 800 number listed in Net 
+Resources for details.
+	On the Edge is still doing well.  Atlas had the "On the Edge Promo 
+days" in early October.  Hopefully, everyone got a chance to see OTE for 
+themselves.  The OTE ftp site (see Net Resources for address) has been 
+updated with new expansion information and a Quick Start sheet with deck 
+building and rules information.  White Wolf Games has started a club for 
+Rage.  It will be called Garou Nation and it's free for a limited time.  You 
+can even join by email!  The club will offer free items and a 20% discount on 
+orders from White Wolf.  Just send the following information to Justin 
+Achilli by email (Achilli@aol.com) include your name, address, phone number, 
+tribe of interest, e-mail address, age, and phone number.  Or you can call 
+the phone number listed for Rage in Net Resources.  Check out the Rage room 
+in the People Connection on Thursdays 6 PM to 7 PM, Todd Mayville will be 
+online to talk about Rage.
+	Tempest of the Gods is shipping in the first week of October.  It 
+should also available by the time you read this.  Dragon Dice by TSR is a 
+new twist on the collectible game market.  As the name implies, dice 
+instead of cards are used.  Dragon Dice is receiving a lot of attention on 
+the news group.  The latest issue of Polyhedron magazine (RPGA) has a rules 
+and reference article about Dragon Dice.  Throwing Stones published by 
+Gamesmiths, is another dice based game.  The review posted on misc group was 
+very detailed.  Throwing Stones is primarily a role playing game, unlike 
+Dragon Dice that is geared toward miniature games. David Long, the president 
+of Ultimate Games has offered a buy back guarantee for the new expansion set 
+ANCIENT FIGHTING ARTS OF CHINA (email address below).  WildStorm Productions 
+is looking for stores to promote the WildStorms CCG.  Email JNEE01@aol.com 
+(Jeff Mariotte, Director of Marketing) or send a fax to (619) 551-9544 for 
+more information.
+ 
+Email Lists:
+	To provide complete coverage of the CCG industry on Internet, I will 
+start looking at email lists that exist for the various games. Email lists 
+are more specialized and active than news groups.  This month, I will be 
+talking about the ST-CCG email lists.  Big news on 
+stccg-discussion@lists.decipher.com is about Alternate Universe.  Warren 
+Holland, the president of Decipher has announced the release for Alternate 
+Universe. Alternate Universe will be release on December 18.  Warren Holland 
+also talked about the reasons for the delays.  Reactions by readers of the 
+email list was mixed. It is clear that most people are very disappointed 
+about the delay of Alternate Universe. The email list 
+stccg-marketplace@lists.decipher.com is a good place for buying and trading 
+cards.  A rumor just appeared on the discussion group, that says that 
+Paramount will be using SkyBox to publish other CCGs dealing with DS9, Star 
+Trek movies, and Voyager.  More details as they are released!  
+
+IRC:
+	Want to meet some of the national tournament players from the USA?  
+Some of the best tournament players can be found on IRC.  Others can be 
+found, if you look hard enough.  Some of the people include Adam Maysonet 
+(MTG SE Regional Champion) and Brian Weissman.  What do people talk about? 
+The #mtg channel is not just for MTG.  People will talk about almost any of 
+the CCGs presently out on the market.  There has been a lot of talk about 
+where CCGs are heading.  Be sure to get a copy of Jesse Richman's (Dahlimer) 
+FAQ "How to play MTG on IRC".  Yes, people do play MTG on IRC quite a lot!
+
+MSN:
+	MSN activities are still in the works.  Due to changes in the 
+publishing schedule of Scrye, things are moving some what slower than we 
+first thought.  New files will be uploaded to MSN by the time you see this.  
+Scrye University will be up and running in late December as of now.  You can 
+find me online on MSN in the evenings.  Feel free to send me email or drop by 
+the Scrye chat room.
+
+Net Resources:
+	Here are some updated email lists and WWW sites.  If you know of any 
+sites or email addresses I do not have, please let me know. James Smith 
+maintains a promo card list.  It is posted to 
+rec.games.trading-cards.announce monthly.  His email address is 
+engjs@cc.newcastle.edu.au where James is looking for corrections and 
+additions to list.
+ 
+BattleLords              http://www.io.com/~optimus (ODS web site)
+			 optimus@io.com, OptimusDS@aol.com
+Crow                     http://www.best.com/trooper.shtml
+Dragon Dice              salvius@panix.com   (Vinny Salzillo)
+Galactic Empires         http://io.com/user/kira/empires/
+Guardians                FPGQNA@aol.com (Net Rep is changing)
+Hyborian Gates           1-800-373-GATE
+Last Unicorn Games       1-800-275-4323
+On The Edge              ftp.io.com/pub/Atlas
+OverPower                AHRZ07A@prodigy.com (Steve Domzalski)
+			 http://www.swarthmore.edu/cc/staff/yue/OverPower
+			 1-800-OPrules
+Rage                     ragecom@aol.com
+			 http://www.turnpike.net/~Mackman/ragefile.htm 
+			 404-292-WOLF
+Ultimate Combat          davelong@aol.com
+Top 10 MTG List          Email: tgioconda@ids2.idsonline.com
+			 WWW: http://www.tjhsst.edu/~tgiocond/
+CCG & RPG site           http://mxn117.rh.psu.edu/~spud/gamer.htm
+
+Card Combos:
+ 
+From Vincent J. Murphy:
+
+    TNT: Order of Light with Wand of Lightning
+	 Cloud Giant and Fly
+
+-----------------------------------------------------------------------------
+Daili's Collectibles - Informational (Craig Janssen <daili@gate.net>)
+-----------------------------------------------------------------------------
+	Daili's Collectibles was formed in Feb 1995, in Gainesville Florida. 
+The purpose of Daili's Collectibles was to provide CCG and RPG products at 
+low prices. Daili's Collectibles is currently located in Melbourne, Florida. 
+Daili's Collectiibles is owned and operated by Craig Janssen.
+	Daili's Collectibles sells all the current brands of CCGs and RPGs. 
+	Daili's Collectibles is currently offering a 30% standard discount to 
+IRPS members for RPG products.  The discount can be increased with large 
+orders.  Daili's Collectibles offers free shipping for orders over 150$ on 
+RPG products.  Shipping is generally included in the price of CCG products 
+(in the USA).  CCG product are general discounted more than 30% I will be 
+happy to work with any member interested in products.
+	Daili's Collectibles can be reach by email at daili@gate.net A WWW 
+page is in the works in the future.  Right now, there is no WWW pages due to 
+the costs of my interenet access provider. 
+	Ordering is simple.  Send email to daili@gate.net.  Detail what you 
+want.  If the items are not in stock, I will check my distributor to see if 
+its avaiable.  Right now, Daili's Collectibles is accepting Money Orders and 
+Checks.  Checks will delay shipment of product till the check clears the bank 
+account.  This is gerenally 3 to 5 business days. Don't want to send email?  
+You can call Daili's Collectibles as well. 
+	Shipping is by UPS in the USA. Outside of the US, shipping will be by 
+US mail. I am looking into expanding this...
+	Daili's Collectibles does not currently take credit cards. Due to 
+costs, included we will not be taking credit cards for the short term.  
+Credit cards would add at least 4% to every order. *Ouch*
+	References are aaiable upon request. I have been around internet for 
+10 years now and have dealt with quite a few people.
+	This information sheet will be expanded upon in the future as events 
+warrant.
+
+-----------------------------------------------------------------------------
+Roles & Rolls (Eduard W. Lohmann <lohmann@fwi.uva.nl>)
+-----------------------------------------------------------------------------
+  It all happened right there.  The same inn I always went to.  Not the kind 
+  of place many adventures start, but a quiet local place.  Where only the 
+  regulars come.  Rain poured down across the windows. Lightning flashed 
+  infrequently, but just often enough not to keep me from relaxing. As the 
+  door opened the thunder crashed into my ears. 
+
+  A man came in. Not to tall, an elegant and soundless stride and a pale 
+  attractive face. He must have been in his thirties.  He scanned the room 
+  and I could feel his gaze settle upon me like a curse. He walked over to 
+  me and I fully expected him to...  I don't know what. But all he did was 
+  hand me a scroll.  On the outside only four letters glared at me 
+  menacingly IRPS.  When I looked up he was walking towards the door and 
+  as he left I noticed he didn't leave a drop of water.
+
+Hello all, 
+	I though I'd start of with a little atmosphere since it is so 
+important to role-playing. And role-playing is what I enjoy most.  I am a 25 
+year old student of theoretical computer science from Amsterdam and my name 
+is Eduard Lohmann.  I am planning to write a column for the IRPS answering 
+questions about role-playing and Game-system design. 
+	I have been involved in Fantasy Role Playing for about ten years.  I 
+have played the following commercial systems D&D, AD&D-1, AD&D-2, GURPS, 
+MERP, Elfquest, Space 1889, ShadowRun and Dangerous Journeys.  I have also 
+played and/or studied other game-systems including Dark Dungeon, FUDGE and 
+many others some of which I designed myself. And last but not least, I have 
+played and mastered, without using a game system.  I am most interested in 
+Swords & Sorcery, dark fantasy and Gothic horror.
+
+  I sit and wait until the beating of my hart feels normal and I open my 
+  newly received document.
+
+     So you plan to answer question do you. 
+     Do you think you know all _Mortal_. 
+     Your life is but a flicker of light 
+     and darkness is all around you. 
+     You know so little.
+
+
+  What? How? Who is this person? What does he know about me?  I do not 
+  know all but I know enough to be of use to some, or so I think... I 
+  need another drink. Innkeeper!
+
+	I will try to answer any question as fairly as I can, but this column 
+is meant for questions about role-playing and game-system design. As I think 
+that (sadly) these have much to do with each other. I am most interested in 
+questions that are important regardless of what game-system one uses. 
+	Some practical information. If you want to ask a question send it to 
+lohmann@fwi.uva.nl and start the subject with [R&R] or [IRPS] and give me 
+some time to find the answer, before the next newsletter is posted. Also 
+include what sources you have already tried to find an answer, like books, 
+usenet-groups and such. 
+	I hope this has made things clear enough to make Roles & Rolls a 
+asset to the IRPS and the world of roleplaying.
+
+-----------------------------------------------------------------------------
+In Long Eons - Q&A's (Barbara Johnson-Haddad <bhaddad@lunacity.com>)
+-----------------------------------------------------------------------------
+	Greetings.  From the darkness a gamer wanders forth, dragging a 
+suitcase full of rule-books, pockets bulging with dice and decks of magic 
+cards.  She (yes, _she_) smiles and says, "Thought I'd introduce myself.  
+I've gamed for 23 years --as of this Easter-- and figured there might be some 
+questions that I can help answer.  While I haven't played every single role-
+playing game in existance the past several decades, I have played a large 
+share of them.  I've also helped explain to non-gamers why RPGs are not 
+evil/satanic/etc and the positive influences that gaming has.
+	I have also helped organize and run a variety of gaming/science 
+fiction/fantasy conventions, and can offer advice on this.  Mythology, 
+science fiction, fantasy, horror are all genres I have read extensively, so 
+if you have a reasonable question/want some advice or suggestions, by all 
+means ask me.
+	Feel free to send your questions to me directly at: 
+bhaddad@lunacity.com for answers.
+	And with a grin at the readers beyond the darkened screen, the 
+gamer bows and drags her gaming material off-stage.
+
+-----------------------------------------------------------------------------
+James's Brain Dump (James Ducan <jduncan@hawk.igs.net>)
+-----------------------------------------------------------------------------
+	As this is my first column here at IRPS (for that matter, anywhere 
+else),  and probably the first time anybody out there has heard of me, I'll 
+let you know a little about myself;  I am several things: a Unix SysAdmin in 
+two locations, the owner of Palanoon Computing Technologies, which is a 
+Networking Database development company; and a part owner of TCGames, which 
+is an RPG company that myself and two friends started just over three months 
+ago.
+	I have been playing various games now for nine years,  since the 
+start of 1988.  I started with Steve Jackson & Ian Livingstone's choose your 
+own adventure book 'Forest of Doom', and since then I've been hooked on all 
+types of Fantasy & SciFi games.
+	I remember the first time I opened the red Dungeons and Dragons 
+boxed set - I still use the dice that came with it - the books that seemed so 
+complicated then, appear so tiny now. 
+	I also remember the first 'Dragon' Magazine I read, and the first 
+time I played an *Gnomish* Magic User, in the seemingly unlimited rules of 
+Advanced Dungeons & Dragons.
+				* * *
+	My gaming has altered in many ways over the last nine years: Dungeons 
+& Dragons, to Shadowrun to RIFTS, and finally to my own game: True Cyberpunk;  
+All my experiences are positive and warm.
+	I've had my share of bad DM's, and even bad days when I couldn't come 
+up with an adventure hook if Takhissis herself told me to; I think it's 
+important that I enjoyed all these times as well - sure, maybe the people I 
+was playing with didn't appreciate it to begin with, but after ten minutes of 
+complaining, whining, and/or physical violence (I am joking by the way), most 
+of the time we all sat down after ten minutes, looking through the various 
+boxed sets that lay scattered throughout the room, discussing rules, 
+discussing life, and having a good time.
+	This brings me to my point (Yes, I do have one):  
+	Gaming is a social animal.  
+	Gamers stick together and tend to help each other out.  We attend 
+conventions together, because we are bound by a common interest, even if we 
+don't look the same, sound the same, or even play the same game.
+	Two gamers, with completly  different backgrounds can sit down and - 
+provided they speak the same language - discuss aspects of most roleplaying 
+games in a civillized, intelligent manner.
+	It is something that does not happen in the same scale as acting, or 
+writing, or anything else (with the exception perhaps, of comic books and 
+Collectors Card Games).
+	Perhaps this is why roleplaying is still seen as a 'geeks' game (you 
+have to use your intelligence).
+	Perhaps this is why there hasn't been a mass-market RPG yet (I've 
+noticed this discussion on USENET once again).
+	If this is the case, I'm still happy and content to be in this 
+geekish minority.
+
+-----------------------------------------------------------------------------
+Magic Item Shop (Dave Mavretic (davem1@island.microserve.com)>
+-----------------------------------------------------------------------------
+Rock of Jaghmuth
+
+Frequency:      Unique
+Exp.:           13000
+Value:          10000 GP
+
+	The Rock of Jaghmuth is what appears to be a common river stone, 
+which is just large enough to fit into the palm of the hand, when the fist 
+is clenched.  If a detect magic is cast upon this stone, it will give off a 
+faint reading of alternation magic.
+	Jaghmuth Yettison was a powerful wizard who, late in the year of 
+1158, decided that normal methods of fighting in his pits, was growing 
+boring.  So using his vast knowledge of the arcane arts, he created a way for 
+a fighter to beat an opponent, even if the odds were heavily favored against 
+him.
+	Just before a pit fight would take place, Jaghmuth would slip into 
+the arena and drop the rock somewhere on the sands, close to the enterance 
+where his fighter would appear.  Then, while the battle was going on, his 
+fighter would pick up the rock, and use it in battle.
+	This was not frowned on, because the only weapons allowed in these 
+fights, were hands, feet, other body parts, sand, and/or, whatever the 
+fighters could find on the floor of the arena.  There would always be other 
+stones around.  Being a river stone, it was easier to distinguish, because of 
+it's rounded edges.
+	Jaghmuth used several spells and methods to create this weapon.  
+Since he was considered a wilder, it was not above him to use Necromancy in 
+creating his artifact.  He captured a Fire Giant, and used his vast knowledge 
+to drain all the strength, (and subsequently the life) of the Fire Giant and 
+transfer it to the stone.  He even went deep into the jungles of Chult, and 
+captured two Atomie Sprites, and drained their speed and dexterity to add 
+that to the stone.
+	Only when weilded, the Rock will grant the weilder the strength of a 
+fire giant, and the dexterity of an atomie sprite, in the hand/arm holding 
+the Rock.  It is not possible to hold any other weapon with the same hand 
+that the Rock is in.
+	In Game terms, this gives the weilder a +4 to hit, and +10 to damage, 
+and a defense adjustment of -5.
+	Jaghmuth fared well, and won many of the wagers for quite a while in 
+these arena's.  However, his luck was destined to change.  The Fire Giant 
+who's essense he had utilized for his Rock, had a mate, and it was very 
+unhappy when it finally found out what happened. 
+	It tracked Jaghmuth down, and there was a terrible battle between the 
+two.  Many blows and spells were traded back and forth, and to Jaghmuth, it
+appeared that the Fire Giant was hardly hurt by even his most offensive of
+attacks. He on the other hand, was serioulsy hurt.
+	In his haste to leave, he dropped the Rock, as he initiated his 
+teleport to a safer place.  After he disappeared, the Fire Giant picked up 
+the Rock, and cursed the Rock, for any weilder who used it to suffer the same 
+fate as it's mate.  Then, with it's dying breaths, made the curse permanent.
+	Jaghmuth, arriving where he had decided to teleport, didn't quite 
+realize the extent of his injuries, and passed out immediately.  He bled to 
+death, without ever waking up.
+	The Rock traded many hands over the years. It's last known location 
+was somewhere in Zenthil Keep. (DM's choice)
+
+DM's Notes:
+	Use of this item grants the weilder a +4 to hit, and +10 to damage, 
+and an initiative modifier of -5.  Upon every successful hit using this 
+weapon, the weilder sufferes a one point subtraction of either his dexterity 
+or strength (DM choice) and has a 50% chance of loosing one point of ANY
+stat, upon using the stone more than once. Every successful hit will mean
+the weilder looses one stat point somewhere, PERMANENTLY.
+	Treat any natural 20 roll, as a critical hit, for maximum damage, 
+tripled.  The victim must roll a successful save vs. death, or have whatever 
+part of him/her hit, be disabled for 1d10 rounds. ANY successful hit to the 
+head (called shot or hit table) when a critical hit is rolled, the victim is
+knocked unconcious (unless killed).
+
+Play Notes:
+	The Rock is something that breaks the monotony of the game, during 
+combat.  It provided some interesting and entertaining role playing, until 
+the party that was using it, sold it to get away from the curse.
+	If you have an item(s), that you would like to see in this column, 
+please send it/them to  dmav@island.microserve.com  and I'll playtest it, to 
+test it out, then send it out in the newsletter, (depending on the number of
+entries), as soon as possible. 
+
+-----------------------------------------------------------------------------
+On the Shoulders of Giants <Bruce Sheffer (bsheffer@arthritis.org)>
+-----------------------------------------------------------------------------
+Supernatural Investigation by the Numbers
+
+Review all you know about the situation.  Just like in journalism you have to 
+know:  Who, What, Where, How, When, and Why.  
+
+1) Who - Who is involved.  Learn everything you can about the people in this 
+situation you can.  Check police and military records, financial records (tax 
+returns, phone logs, utility company usage), property ownership, places of 
+business, credit statements, bank records, recent purchases and patterns of 
+buying.  If you work for a powerful agency most of this can be done with a 
+simple computer query, phone call, or flash of credentials.  If not, you will 
+need to do some legwork or computer hacking.  
+
+2a) What - What happened?  What really happened?.  Not conjecture, not what 
+everyone thinks happened.  You need physical evidence, eyewitness testimony 
+(only the parts that start with "I saw"), or photographic records.  Few 
+people have any experience with a supernatural phenomenon so you cannot trust 
+their conclusions.  Differences between photographic records and testimony 
+can be just the result of amateurism or may indicate that the observers and 
+participants were mind affected or the manifestation cannot be recorded 
+electronically or on film.  
+
+2b) What - What is it? If you have a database of supernatural creatures or 
+manifestations you can start to identify what is the nature of the beast.  If 
+you can learn what you face then you can plan specific attacks and defenses 
+against it, so you don't follow the victim's footsteps.  Remember that many 
+creatures can have some of the same abilities (both a werewolf and vampire 
+are immune to normal weaponry, both can shapechange).
+	Until all the evidence is compiled you cannot act with any reasonable 
+confidence.  Act in haste and you may join the ranks of your opponent rather
+than defeating he, she, or it.
+
+3) Where - Where did this take place.  Some creatures only appear in certain 
+climates or cultures.  Others cannot abide certain locations (most vampires 
+cannot cross holy ground.  If the supernatural incident occurs there, you 
+know what it isn't).  It may also give some illumination to where a creature 
+lairs.  Look for sewers, alleyways, parking lots, how high the rooftops - 
+Anything that would allow a creature to enter and exit without hindrance. 
+	Most monsters are smart.  They have to be or they would not survive.  
+It is usually bad luck or a change in their situation that reveals them so 
+that they become the object of your investigation.  This assumes that they 
+aren't newly created.  If so the real object of your investigation becomes 
+the person or thing that created them.
+
+4) How - At the beginning, you are looking for means and methods.  How was 
+the person attacked?  What kind of injuries did it leave.  How did it gain 
+entrance.  How did it escape pursuit (if any).  
+
+5) When -  When did the incident occur?  Many creatures shun daylight.  If 
+there were multiple incidents you may begin to see a pattern of behavior.  If 
+an attack occurs every 48 hours you know your period of safety.  You know 
+when you need to be prepared for another attack.  You know when to get some 
+sleep so you will be as alert as possible.  Creatures of darkness may be 
+weaker than they appear, using the night to aid their approach and departure.
+     Illusions are more believable at night since our eyes are poorly 
+equipped to discern detail in low light and our other sense are not very 
+acute.  So you need to stock up on light intensifier goggles (maybe infrared 
+as well).
+
+6)  Why - Why did this happen?  As mentioned above, most supernatural 
+creatures are good at covering their tracks, that is why they have survived.  
+Unless it was just bad luck, something has changed to create the incident.
+	Check for sale or demolition of buildings, especially ones that have 
+appeared dormant for a long time.  Sudden unseasonal storms that flood the 
+storm drains can flush out many undesirable elements.  Increases in crime, 
+natural disasters, new construction, or recent exhibitions of art, ancient 
+artifacts, or estate sales can unleash a slew of horrors.  Check police 
+reports for thefts of such items as well.
+	Only after you have exhausted all your sources of information should 
+you make a move against this creature.  In most cases your biggest asset is 
+that the supernatural is counting on no one really believing that it exists.  
+That can lull it into a false sense of confidence and allow important 
+information to slip out.  A threatened creature is far more dangerous and may 
+go to ground disappearing for long periods and thwarting your investigation.
+	You don't know who your enemies are.  Many times your allies can be 
+turned against you by mind control, bribery, extortion, or simple slips of 
+information.  Much as you may wish to give reassurance, you must keep most 
+information to yourself.  If no one knows your real reason for being there,
+so much the better.
+	Usually the most important answers will only be revealed at the end 
+of the investigation.  However, they are the most important.  They make the 
+difference between killing (or destroying) and capturing the supernatural 
+creature.  If the creature was acting out of simple hunger.  If it was 
+wronged and was seeking simple justice.  If it can be controlled and turned 
+to good, then killing it is a terrible waste and just acerbates the tragedy 
+of the situation.  However, if the incident occurs due to greed, hatred, or 
+any of the other deadly sins, then you have no choice.  Your first priority 
+is the safety and well being of those who employ you.  
+
+-----------------------------------------------------------------------------
+Final Note (Michael Popovich <cad@digital.net>)
+-----------------------------------------------------------------------------
+	Well as always, I encourage all the members out there who read the
+IRPS newsletter to write IRPS authors and give them feedback regarding their
+monthly columns.  Also, if you're interested in writing a monthly column,
+e-mail me for further information.

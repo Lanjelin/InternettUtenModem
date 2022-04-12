@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+   <META NAME="Author" CONTENT="Thorvald Aagaard">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (Win95; I) [Netscape]">
+</HEAD>
+<BODY TEXT="#000003" BGCOLOR="#DDDDFF" LINK="#FF00FF" VLINK="#FF0000" ALINK="#FF0000" BACKGROUND="BRIDGE2.gif" onLoad="timerONE=window.setTimeout('scrollit_r2l(100)',500);">
+
+<P><SCRIPT language="JavaScript"> 
+<!-- Begin code 
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc. 
+   All Rights Reserved. 
+   this code can copied and re-used if credit is given in the source 
+*/ 
+function scrollit_r2l(seed) 
+{ 
+        var m1  = "Bridge !!  "; 
+        var m2  = "Verdens bedste spil. "; 
+        var m3  = "Selv resultater er interessante. "; 
+        var m4  = " - Nyd det"; 
+        var msg=m1+m2+m3+m4; 
+        var out = " "; 
+        var c   = 1; 
+        if (seed > 100)  {
+                seed--; 
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                timerTwo=window.setTimeout(cmd,100); 
+        } 
+        else if (seed <= 100 && seed > 0)  {
+                for (c=0 ; c < seed ; c++) { 
+                        out+=" "; 
+                }
+                out+=msg; 
+                seed--; 
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                    window.status=out; 
+                timerTwo=window.setTimeout(cmd,100); 
+        } 
+        else if (seed <= 0)  {
+                if (-seed < msg.length)  {
+                        out+=msg.substring(-seed,msg.length); 
+                        seed--; 
+                        var cmd="scrollit_r2l(" + seed + ")"; 
+                        window.status=out; 
+                        timerTwo=window.setTimeout(cmd,100); 
+                } 
+                else  {
+                        window.status=" "; 
+                        timerTwo=window.setTimeout("scrollit_r2l(100)",75); 
+                } 
+        }
+ }
+// -- End code --> </SCRIPT></P>
+
+<UL>
+<CENTER><TABLE BORDER=5 CELLSPACING=5 CELLPADDING=5 BGCOLOR="#00FFFF" >
+<TR>
+<TD>
+<H1 ALIGN=CENTER><FONT COLOR="#800000"><FONT SIZE=+2>Velkommen til Thorvald
+Aagaards bridgeside. </FONT></FONT></H1>
+
+<H2 ALIGN=CENTER><FONT COLOR="#800000"><FONT SIZE=+1>Dette er stedet, hvor
+du kan finde resultater for de fleste danske turneringer. </FONT></FONT></H2>
+
+<H2 ALIGN=CENTER><FONT COLOR="#800000"><FONT SIZE=+1>A small part of this
+page is also available in <A HREF="ENGLISH.HTM">english.</A></FONT></FONT></H2>
+</TD>
+</TR>
+</TABLE></CENTER>
+</UL>
+
+<CENTER><TABLE BORDER=1 WIDTH="100%" BGCOLOR="#00FF40" >
+<TR>
+<TD><FONT SIZE=+3><FONT COLOR="#FF0000">Sidste nyt</FONT><FONT COLOR="#000080">
+</FONT></FONT>
+<P><FONT COLOR="#000080"><FONT SIZE=+1>Manndag d. 03.03.1996 kl.
+17.00</FONT></FONT></P>
+
+<P><FONT COLOR="#000080"><FONT SIZE=+1><A HREF="NEWS.HTM">Gamle nyheder</A></FONT></FONT></P>
+</TD>
+
+<TD COLSPAN="2"><FONT COLOR="#000080"><FONT SIZE=+1>S&aring; venter jeg p&aring; resultaterne fra 
+mix-turneringerne. Kan du ikke finde det &oslash;nskede resultat, s&aring kontakt din
+distriktsformand.<BR><BR>
+S&aring; er resultaterne
+fra de Jysk-Fynske holdturneringer her.</FONT></FONT>
+
+<BR><FONT COLOR="#000080"><FONT SIZE=+1>Nu 2 Nordjyske hold i <A HREF="1div96/STYRING.HTM">1.
+division</A>.<BR>
+<P><FONT COLOR="#000080"><FONT SIZE=+1><A HREF="2DIV96/STYRING.HTM">Resultater 2. division</A>.<BR>
+S&aring; er <A HREF="pokal97.htm">pokalresultaterne her</A></FONT></FONT></P>
+</TD>
+</TR>
+
+<TR>
+<TD><FONT COLOR="#000080"><FONT SIZE=+1><A HREF="AUTOGRAF.HTM">G&aelig;stebogen</A></FONT></FONT></TD>
+
+<TD COLSPAN="2"><FONT COLOR="#000080"><FONT SIZE=+1>Her kan du se, hvem
+der har forn&oslash;jet sig med at l&aelig;se disse sider. <BR>
+Du kan ogs&aring; selv lade dig registrere <A HREF="TILMELD.HTM">her</A>
+</FONT></FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT COLOR="#FF0000"><FONT SIZE=+1><A HREF="SLADDER.HTM">Sladderspalten</A></FONT></FONT></TD>
+
+<TD COLSPAN="2"><FONT COLOR="#000080"><FONT SIZE=+1>Her vil jeg offentligg&oslash;re
+de rygter jeg h&oslash;rer om nye parkonstellationer og skilsmisser. Dette
+er kun rygter og jeg st&aring;r ikke inde for sandhedsv&aelig;rdien. Skulle
+du have et godt rygte, s&aring; send det, og se det p&aring; nettet.</FONT></FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT COLOR="#000080"><FONT SIZE=+1><A HREF="BRIDGE.HTM">Resultater</A></FONT></FONT></TD>
+
+<TD COLSPAN="2"><FONT COLOR="#000080"><FONT SIZE=+1>Her kan du l&aelig;se
+resultaterne af de st&oslash;rre danske turneringer. Der vil v&aelig;re
+b&aring;de fordelinger, kontrakter og resultater til r&aring;dighed.</FONT></FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT COLOR="#000080"><FONT SIZE=+1><A HREF="SOFTWARE.HTM">Software</A>
+</FONT></FONT></TD>
+
+<TD COLSPAN="2"><FONT COLOR="#000080"><FONT SIZE=+1>Her kan du hente de
+programmer jeg udvikler.</FONT></FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT COLOR="#000080"><FONT SIZE=+1><A HREF="SUPPORT.HTM">Support</A></FONT></FONT></TD>
+
+<TD COLSPAN="2"><FONT COLOR="#000080"><FONT SIZE=+1>Her kan du l&aelig;se
+om betingelsene for support til anvendelsen af mine programmer. </FONT></FONT></TD>
+</TR>
+</TABLE></CENTER>
+
+<P><FONT COLOR="#FF0000"><FONT SIZE=+2>Andre gode links</FONT></FONT></P>
+
+<CENTER><TABLE BORDER=5 CELLSPACING=0 CELLPADDING=0 BGCOLOR="#00FF00" >
+<CAPTION></CAPTION>
+
+<TR>
+<TD>Bridge-Klubber</TD>
+
+<TD>&Oslash;vrige</TD>
+</TR>
+
+<TR>
+<TD><FONT SIZE=+1><A HREF="http://www.iesd.auc.dk/~anders/Bridge/BKNord/index.html">BK
+Nord</A> </FONT></TD>
+
+<TD><FONT SIZE=+1><A HREF="http://www.math.auc.dk/~nwp/bridge/">Niels Wendell-Pedersen</A>
+</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT SIZE=+1><A HREF="http://www2.dk-online.dk/users/Thomas_Kampmann">One-Eyed
+Jacks</A> </FONT></TD>
+
+<TD><FONT SIZE=+1><A HREF="http://inet.uni-c.dk/~bridgeib/">Danmarks Bridgeforbund</A>
+</FONT></TD>
+</TR>
+
+<TR>
+<TD><FONT SIZE=+1><A HREF="http://www.geocities.com/TimesSquare/5177/">Mouton</A>
+</FONT></TD>
+
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD><FONT SIZE=+1><A HREF="http://www.daimi.aau.dk/~mkirstan">Akademisk
+Bridgeklub</A></FONT> </TD>
+
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD><FONT SIZE=+1><A HREF="http://www.cybernet.dk/users/webbo/bridge/bridge11.html">BK
+56 Silkeborg</A></FONT> </TD>
+
+<TD>&nbsp;</TD>
+</TR>
+</TABLE></CENTER>
+
+<CENTER><DD><I><TT><FONT COLOR="#000080"><FONT SIZE=+1><B>Denne side har
+v&aelig;ret l&aelig;st</B> <IMG SRC="/cgi-bin/Count.cgi?pad=0|df=ccc13469" HEIGHT=32 WIDTH=102>
+<B>gange siden d. 19.09.1996</B></FONT></FONT></TT></I></DD></CENTER>
+
+<CENTER><P><FONT COLOR="#000080"><FONT SIZE=+1>E-mail: <A HREF="mailto:tba@vip.cybercity.dk">tba@vip.cybercity.dk
+</A></FONT></FONT></P></CENTER>
+
+</BODY>
+</HTML>

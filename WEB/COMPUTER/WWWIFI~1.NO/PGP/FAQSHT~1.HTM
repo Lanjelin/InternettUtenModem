@@ -1,0 +1,589 @@
+<html>
+<head>
+<title>International PGP FAQ</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h1>Frequently Asked Questions About the International PGP Versions</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif" alt="***************************************************************">
+<p>
+<i>The following is a list of Frequently Asked Questions about the
+international PGP versions. Comments may be sent to
+<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>.
+<p>
+This FAQ is available in HTML format from
+<a href="FAQSHT~1.HTM" tppabs="http://www.ifi.uio.no/pgp/FAQ.shtml">http://www.ifi.uio.no/pgp/FAQ.shtml</a>
+and in text format by sending an email to <b>pgp@hypnotech.com</b> with GET FAQ as the
+subject.</i>
+<p>
+<hr>
+<p>
+<h2>Contents</h2>
+<ol>
+<li>International vs US version<br>
+  1.1. <a href="#Why">Why create an international PGP version?</a><br>
+  1.2. <a href="#Latest">What is the latest international version of PGP?</a><br>
+  1.3. <a href="#Changes">How does PGP 2.6.3i differ from MIT PGP 2.6.2?</a><br>
+  1.4. <a href="#Compatibility">How is PGP 2.6.3i compatible with other PGP versions?</a><br>
+  1.5. <a href="#RSAREF">What is RSAREF? MPILIB? What is the difference?</a><br>
+  1.6. <a href="#Which">So, what's the bottom line? Which version should I use?</a><br>
+<p><li>Legal issues<br>
+  2.1. <a href="#International">What does "international" mean? Who may use it?</a><br>
+  2.2. <a href="#Legal">Why isn't it official? Is it illegal to use?</a><br>
+  2.3. <a href="#License">Can I use PGP 2.6.3i for commercial purposes?</a><br>
+  2.4. <a href="#Own">Can I use PGP code in my own programs?</a><br>
+<p><li>Getting it<br>
+  3.1. <a href="#Download">Where can I get a copy of PGP 2.6.3i?</a><br>
+  3.2. <a href="#Windows">Is there a Windows version of PGP 2.6.3i?</a><br>
+  3.3. <a href="#DLL">Is there a PGP DLL?</a><br>
+  3.4. <a href="#Language">Where can I get updated language modules for PGP 2.6.3i?</a><br>
+<p><li>Installing it<br>
+  4.1. <a href="#Signature">How can I check the integrity of PGP 2.6.3i?</a><br>
+  4.2. <a href="#Install">I have problems installing PGP. What do I do?</a><br>
+  4.3. <a href="#TZ">What is the correct TZ setting for my country?</a><br>
+<p><li>Miscellaneous<br>
+  5.1. <a href="#Crack">Can PGP 2.6.3i be cracked?</a><br>
+  5.2. <a href="#Plot">Isn't PGP 2.6.3i the version that was weakened for export by the NSA?</a><br>
+  5.3. <a href="#Bugs">Are there any bugs in PGP 2.6.3i?</a><br>
+  5.4. <a href="#Team">Who is responsible for PGP 2.6.3i?</a><br>
+  5.5. <a href="#More">Where can I learn more about PGP?</a><br>
+</ol>
+<p>
+If you have a question about PGP in general, try the <a href="../../tppmsgs/msgs24.htm#2471" tppabs="http://www.prairienet.org/~jalicqui/pgpfaq.txt">alt.security.pgp FAQ</a>.
+<p>
+
+<a name="Why">
+<hr>
+<h2>1.1. Why create an international PGP version?</h2></a>
+The official PGP versions from MIT (the latest of which is <a href="VERSIO~1.HTM#MIT" tppabs="http://www.ifi.uio.no/pgp/versions.shtml#MIT">2.6.2</a>) were made
+inside the USA and intended for use in the USA alone. Due to special patent
+and copyright issues in the US, these versions contain a number of
+limitations and restrictions that are totally irrelevant for users elsewhere.
+When PGP has spread to the rest of the world, it is only natural that these
+limitations are removed. That's why we have the international PGP versions.
+<p>
+
+<a name="Latest">
+<hr>
+<h2>1.2. What is the latest international version of PGP?</h2></a>
+The latest international version of <a href="PGPSHT~1.HTM" tppabs="http://www.ifi.uio.no/pgp/pgp.shtml">PGP</a> is 2.6.3i.
+It was first released on 18 January 1996 and is currently in <a href="PATCHS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/patch.shtml">patchlevel 'a'</a>.
+PGP 2.6.3i is based on the source code for
+<a href="VERSIO~1.HTM#MIT" tppabs="http://www.ifi.uio.no/pgp/versions.shtml#MIT">MIT PGP 2.6.2</a> and has been modified for international use.
+PGP 2.6.3i replaced PGP 2.6.2i.
+<p>
+
+<a name="Changes">
+<hr>
+<h2>1.3. How does PGP 2.6.3i differ from MIT PGP 2.6.2?</h2></a>
+The following are the most important differences:
+<dl>
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> It does not use the <a href="#RSAREF">RSAREF</a> encryption library
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> It is compatible with all other PGP 2.x versions
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> It corrects a number of bugs present in PGP 2.6.2(i)
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> It compiles "out of the box" for many new platforms
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> It adds some new features without breaking compatibility with earlier versions
+</dl>
+A complete list of changes can be found at <a href="DIFFSS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/diffs.shtml">http://www.ifi.uio.no/pgp/diffs.shtml</a>.
+<p>
+
+<a name="Compatibility">
+<hr>
+<h2>1.4. How is PGP 2.6.3i compatible with other PGP versions?</h2></a>
+PGP 2.6.3i can <i>read</i> and understand messages, keys and signatures
+created with any 2.x version of PGP. (Note, however, that the keys cannot
+be larger than 2048 bits. No official PGP version uses larger keys, though.)
+Because it uses MPILIB rather than <a href="#RSAREF">RSAREF</a>, PGP 2.6.3i is
+even capable of
+understanding the old key signature format in PGP 2.2 and earlier versions
+(pkcs_compat=0).
+It cannot write such signatures, though.
+<p>
+PGP 2.6.3i can <i>generate</i> messages, keys and signatures that can be read
+and understood by any PGP 2.x version of PGP. However, if you want your
+messages to be readable by PGP 2.3a and earlier versions, it is necessary
+to uncomment the "legal_kludge = off" line in your CONFIG.TXT file.
+<p>
+To sum it all up: PGP 2.6.3i is 100% compatible with MIT's versions of PGP.
+If you are exchanging messages with someone who uses an old version of PGP,
+remember to turn off the legal_kludge.
+</dl>
+<p>
+
+<a name="RSAREF">
+<hr>
+<h2>1.5. What is RSAREF? MPILIB? What is the difference?</h2></a>
+<b><a href="RSAREF.TXT" tppabs="http://www.ifi.uio.no/pgp/RSAREF.txt">RSAREF</a></b> is a software library that implements the
+<a href="../../tppmsgs/msgs25.htm#2534" tppabs="http://world.std.com/~franl/crypto/rsa-guts.html">RSA
+cryptography routines</a>.
+(RSA is one of the encryption routines used in PGP, and the very heart of
+public key encryption.) RSAREF is freeware, and is released by
+<a href="../../tppmsgs/msgs25.htm#2535" tppabs="http://www.rsa.com/">RSA Data Security Inc.</a>,
+the patent holder of the RSA algorithm in the US. Everyone in
+the US who wants to make use of RSA in their programs and give it away for
+free (e.g. PGP), must use RSAREF. All official MIT versions of PGP,
+starting with version 2.5, have been using RSAREF.
+<p>
+<b>MPILIB</b> is simply another implementation of the same RSA routines as found
+in RSAREF. The MPILIB routines were originally written by Phil Zimmermann,
+and were used in all PGP versions up to and including version 2.3a.
+Functionally, MPILIB is identical to RSAREF, but the routines are generally
+faster than the RSAREF routines (although the speed difference varies between machine platforms). In addition, MPILIB is capable of
+understanding the old key signature format in PGP 2.2 and earlier versions
+(pkcs_compat=0). RSAREF, on the other hand, cannot read such signatures.
+Furthermore, MPILIB is published under the terms of the GPL, whereas RSAREF
+is not.
+<p>
+Please note that PGP 2.6.3i uses MPILIB, <i>not</i> RSAREF. This is the main
+reason why PGP 2.6.3i should not be used within the US. Phil Zimmermann said
+<a href="../../tppmsgs/msgs25.htm#2536" tppabs="http://world.std.com/~franl/pgp/phil-on-international-pgp.html">this</a> about PGP 2.6.i, the predecessor to 2.6.3i:
+<p>
+<blockquote><i>
+"The unofficial variant of PGP named PGP 2.6.i by its developers
+replaces RSAREF routines with other code implementing RSA-related
+algorithms.  I am very familiar with that code, and while I tried to
+make PGP use RSAREF in a manner that did not suffer a performance
+penalty, I believe that these other subroutines are at least as
+efficient, as well as being functionally identical for PGP's purposes.
+Since the RSA patent does not exist outside the USA, it seems
+reasonable to not encumber European users with the RSAREF subroutine
+library and its own additional copyright restrictions..."
+</i></blockquote>
+<p>
+
+<a name="Which">
+<hr>
+<h2>1.6. So, what's the bottom line? Which version should I use?</h2></a>
+In general, you should use the MIT version if you're in the US and
+the international version if you're not. But there are exceptions - take
+a look at <a href="WHICH-~1.HTM" tppabs="http://www.ifi.uio.no/pgp/which-version.shtml">http://www.ifi.uio.no/pgp/which-version.shtml</a>
+for a quick reference chart.
+<p>
+
+<a name="International">
+<hr>
+<h2>2.1. What does "international" mean? Who may use it?</h2></a>
+PGP 2.6.3i was put together to provide an alternative to the American versions
+of PGP, which are distributed by MIT and contain a number of restrictions that
+are not relevant for users outside the USA. In general, "international" means
+"non-US", i.e. it may be used by anyone except those who live in the US. If
+you are not sure whether PGP 2.6.3i is the right version for you, you may find
+help at <a href="WHICH-~1.HTM" tppabs="http://www.ifi.uio.no/pgp/which-version.shtml">http://www.ifi.uio.no/pgp/which-version.shtml</a>.
+<p>
+
+<a name="Legal">
+<hr>
+<h2>2.2. Why isn't it official? Is it illegal to use?</h2></a>
+PGP 2.6.3i is perfectly legal to use provided that you:
+<ol>
+ <li>Don't live in a <a href="../../tppmsgs/msgs25.htm#2537" tppabs="http://cwis.kub.nl/~frw/people/koops/lawsurvy.htm">country where encryption is illegal</a> (such as France,
+     Russia, Iran, Iraq or China).
+ <li>Are not physically inside the USA.
+ <li>Make sure that you don't download a copy of PGP that is physically
+     inside the USA. If you get it from one of the sites listed in question
+     <a href="#Download">3.1</a>, you should be on the safe side.
+</ol>
+The reason why PGP 2.6.3i is not official, is that is was based on source code
+that was once illegaly exported from the USA. However, once the program has
+been exported, anyone may use it freely.
+Phil Zimmermann, the original author of PGP, has issued a
+<a href="../../tppmsgs/msgs25.htm#2536" tppabs="http://world.std.com/~franl/pgp/phil-on-international-pgp.html">public statement on PGP 2.6.i</a> (the predecessor to PGP 2.6.3i), which is
+as close to an endorsement that he could possibly get without incriminating himself.
+For a more detailed discussion on the legal aspects of using PGP,
+refer to the page
+<a href="../../tppmsgs/msgs24.htm#2473" tppabs="http://www.mantis.co.uk/pgp/pgp-legal.html">http://www.mantis.co.uk/pgp/pgp-legal.html</a>.
+<p>
+
+<a name="License">
+<hr>
+<h2>2.3. Can I use PGP 2.6.3i for commercial purposes?</h2></a>
+Yes, you can, but because the IDEA algorithm used in PGP is patented in many
+countries, you need to obtain a license if you
+live in one of these countries. (The RSA algorithm is not patented outside
+the US, so you don't need a license for this algorithm.)
+<p>
+The countries where the IDEA patent applies are:
+<ul>
+  <li>Austria 
+  <li>France
+  <li>Germany
+  <li>Italy
+  <li>Netherlands
+  <li>Spain
+  <li>Sweden
+  <li>Switzerland
+  <li>UK
+  <li>USA (But you shouldn't use PGP 2.6.3i in USA anyway :-)
+  <li>Japan (pending)
+</ul>
+<p>
+I cannot guarantee that this list is complete, so please check with the
+patent holders (Ascom AG, see below) if in doubt. Of course, Ascom may
+seek coverage in further countries in the
+future, but it's clear that commercial use of PGP
+right now does not require a license in most of the world.
+<p>
+IDEA licenses can be purchased from
+<a href="../../tppmsgs/msgs25.htm#2538" tppabs="http://www.ascom.ch/systec/">Ascom Systec AG</a> in Switzerland.
+The licensing of the IDEA algorithm was formerly administrated by
+Ascom Tech, but this responsibility has been transferred to their sister
+company Ascom Systec. Please, do not contact Ascom Tech about this matter!
+The license fee is charged on a per-user basis as follows:
+<p>
+<center>
+<table border>
+<tr><td align=right>  1..50   users<td align=right>15 US$ per copy
+<tr><td align=right> 51..100  users<td align=right>10 US$ per copy 
+<tr><td align=right>101..250  users<td align=right> 8 US$ per copy
+<tr><td align=right>251..500  users<td align=right> 7 US$ per copy
+<tr><td align=right>501..1000 users<td align=right> 6 US$ per copy
+<tr><td align=right>    >1000 users<td align=right>on request
+</table>
+</ol>
+</center>
+The end-user license can be ordered online at
+<a href="../../tppmsgs/msgs25.htm#2539" tppabs="http://www.ascom.ch/Web/systec/security/enduser.htm">http://www.ascom.ch/Web/systec/security/enduser.htm</a>.
+For more information, take a look at
+<a href="../../tppmsgs/msgs25.htm#2540" tppabs="http://www.ascom.ch/Web/systec/security/license.htm">http://www.ascom.ch/Web/systec/security/license.htm</a>, or
+contact Licensing Manager <a href="mailto:idea@ascom.ch">Roland Weinhart</a>:
+<p>
+<center>
+<i>
+     Ascom Systec AG<br>
+     IDEA Licensing<br>
+     Gewerbepark<br>
+     CH-5506 Maegenwil<br>
+     Switzerland<p>
+
+     Phone : +41 62 889 59 54<br>
+     Fax   : +41 62 889 59 54<br>
+     Email : <a href="mailto:idea@ascom.ch">idea@ascom.ch</a><br>
+</i>
+</center>
+<p>
+
+<a name="Own">
+<hr>
+<h2>2.4. Can I use PGP code in my own programs?</h2>
+The source code for PGP itself is distributed under GPL - the General Public License.
+(But the <a href="#RSAREF">RSAREF</a> library used in PGP 2.6.2 and 2.6.3 are not!)
+This means that you are free to modify the program for your own use. But don't use
+it for commercial
+purposes, and if you intend to release any code that is derived from the PGP
+sources, don't call it by the name "PGP", as this is a registered trademark.
+<p>
+So, how can you integrate PGP functions into your own programs? See question <a href="#DLL">3.3</a>!
+<p>
+
+<a name="Download">
+<hr>
+<h2>3.1. Where can I get a copy of PGP 2.6.3i?</h2></a>
+PGP 2.6.3i is available both as source code and as precompiled binaries for
+some of the most popular platforms, such as MS-DOS, OS/2, Atari and Amiga. You
+can get PGP from one of the following sources:
+<p>
+
+<b><a href="DOWNLO~1.HTM" tppabs="http://www.ifi.uio.no/pgp/download.shtml">WWW</a>:</b>
+<dl>
+  <dt><dd>http://www.ifi.uio.no/pgp/download.shtml
+</dl>
+<p>
+
+<b><a href="FTPSHT~1.HTM" tppabs="http://www.ifi.uio.no/pgp/ftp.shtml">FTP</a>:</b>
+<dl>
+  <dt><dd>ftp.ifi.uio.no/pub/pgp/
+  <dt><dd>ftp.encomix.es/pub/pgp/
+  <dt><dd>ftp.ox.ac.uk/pub/crypto/pgp/
+</dl>
+<p>
+
+<b><a href="EMAILS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/email.shtml">Email</a>:</b>
+<dl>
+  <dt><dd>Send an email to <b>pgp@hypnotech.com</b> with GET PGP as the subject.
+</dl><p>
+
+<a name="Windows">
+<hr>
+<h2>3.2. Is there a Windows version of PGP 2.6.3i?</h2></a>
+No. There is no "true" Windows 3.1/NT/95 version of PGP, but there exists
+a number of <a href="WINUTI~1.HTM" tppabs="http://www.ifi.uio.no/pgp/winutils.shtml">front-end shells</a> that wrap around the
+DOS versions. Precompiled binaries exist for MS-DOS (16-bit & 32-bit), OS/2,
+Amiga, Atari and Macintosh. There is also a <a href="../../tppmsgs/msgs25.htm#2541" tppabs="http://www.ifi.uio.no/~staalesc/cgi-bin/location.cgi?ftp://ftp.ifi.uio.no/pub/pgp/pc/windows/pgp263i-win32.zip">Win32 (Windows 95/NT)</a>
+compilation, but it's only a text-mode application without any fancy GUI. It
+does, however, support long filenames (NTFS &amp; VFAT). For more information,
+see <a href="WINDOW~1.HTM" tppabs="http://www.ifi.uio.no/pgp/windows.shtml">http://www.ifi.uio.no/pgp/windows.shtml</a>.
+<p>
+
+<a name="DLL">
+<hr>
+<h2>3.3. Is there a PGP DLL?</h2></a>
+PGP, Inc. (<a href="../../tppmsgs/msgs25.htm#2542" tppabs="http://www.pgp.com/">www.pgp.com</a>)sells a
+<a href="../../tppmsgs/msgs25.htm#2543" tppabs="http://www.pgp.com/products/viacrypt-toolkit.cgi">simple PGP DLL</a>, but this is only available in the US and Canada.
+Apart from that, there is no real PGP DLL. (There exists a few <a href="../../tppmsgs/msgs25.htm#2544" tppabs="http://www.cam.org/~droujav/pgp/pgplib">experimental</a> libraries, but they only implement a subset of the PGP
+functions, and they are not in general use.) Thus, integrating
+PGP into your own programs is a little difficult. There are at least three
+ways to do this:
+<ol>
+  <li>Call an external PGP binary with the correct command line parameters
+  <li>Get a copy of a PGP library (<a href="LIBSSH~1.HTM" tppabs="http://www.ifi.uio.no/pgp/libs.shtml">http://www.ifi.uio.no/pgp/libs.shtml</a>) and see if you can make any sense of it
+  <li>Modify the PGP <a href="DOWNLO~1.HTM" tppabs="http://www.ifi.uio.no/pgp/download.shtml">source code</a> and link it into your own programs (see legal issues in question <a href="#Own">2.4</a>)
+</ol>
+Note: PGP is written in C, so if you choose alternative 2. or 3., you should be proficient in this
+programming language.
+<p>
+
+<a name="Language">
+<hr>
+<h2>3.4. Where can I get updated language modules for PGP 2.6.3i?</h2></a>
+An updated collection of translation files for both PGP 2.6.3 and 2.6.3i can be
+found at:
+<p>
+
+<b><a href="MODULE~1.HTM" tppabs="http://www.ifi.uio.no/pgp/modules.shtml">WWW</a>:</b>
+<dl>
+  <dt><dd>http://www.ifi.uio.no/pgp/modules.shtml
+</dl>
+<p>
+
+<b><a href="../../tppmsgs/msgs25.htm#2545" tppabs="ftp://ftp.ifi.uio.no/pub/pgp/lang/">FTP</a>:</b>
+<dl>
+  <dt><dd>ftp://ftp.ifi.uio.no/pub/pgp/lang/
+</dl>
+<p>
+
+<a name="Signature">
+<hr>
+<h2>4.1. How can I check the integrity of PGP 2.6.3i?</h2></a>
+All the PGP 2.6.3i distribution archives contain a signature file so that
+you can verify that the files have not been tampered with.
+In order to verify the signature, you need the signatory's public key:
+<dl>
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> Ståle Schumacher (<a href="MYKEYS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/mykey.shtml">0xCCEF447D</a>): source code, MS-DOS and OS/2 versions
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> <!a href="http://www.uit.no/cgi-bin/pks-extract-key.eng.pl?op=index&search=Peter+Simons">Peter Simons</a> (0x34D74DC1): Amiga version
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> <!a href="http://www.uit.no/cgi-bin/pks-extract-key.eng.pl?op=index&search=Guy+Geens">Guy Geens</a> (0x5AE50475): Atari version
+  <dt><dd> <img src="IMAGES/BULLET~1.GIF" tppabs="http://www.ifi.uio.no/pgp/images/bullet_blue.gif" alt=*> <a! href="../../tppmsgs/msgs25.htm#2546" tppabs="http://www.uit.no/cgi-bin/pks-extract-key.eng.pl?op=index&search=Naoki+Sugiyama">Naoki Sukiyama</a> (0x05DE8AF1): Macintosh version
+</dl>
+<p>
+
+<a name="Install">
+<hr>
+<h2>4.2. I have problems installing PGP. What do I do?</h2></a>
+First of all, make sure that you have read and understood the setup instructions
+(usually in the file SETUP.DOC) for your particular platform. Re-read it carefully
+and try again. :-)
+<p>
+<b>DOS/Windows users:</b> Make sure that the PGPPATH variable is correctly set and does not contain any white space. You did remember to reboot after modifying AUTOEXEC.BAT, didn't you? ;-)
+<p>
+<b>Unix users:</b> If you don't know which make target is the right one for your
+flavour of Unix, the following commands might give you a clue: 
+<pre>
+  uname -a
+  hosttype
+  arch
+  echo $OSTYPE
+  echo $HOSTTYPE
+  echo $MACHTYPE
+  gcc -v
+</pre>
+<p>
+If you get unresolved references to strdup() while compiling, you should
+download the latest patches from <a href="PATCHS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/patch.shtml">http://www.ifi.uio.no/pgp/patch.shtml</a>.
+When you have successfully compiled PGP,
+make sure that the directory ~/.pgp/ exists and is writeable before
+generating your keys.
+<p>
+If you are still having problems, try posting to the newsgroup
+<a href="news:alt.security.pgp">alt.security.pgp</a> and ask for help.
+If you think you've found a genuine bug in PGP, take a look at
+<a href="BUGSSH~1.HTM" tppabs="http://www.ifi.uio.no/pgp/bugs.shtml">http://www.ifi.uio.no/pgp/bugs.shtml</a>.
+<p>
+
+<a name="TZ">
+<hr>
+<h2>4.3. What is the correct TZ setting for my country?</h2></a>
+In SETUP.DOC there are a few examples on how to set the TZ environment variable. (Note: even if you're using Windows 95, you can still set TZ in AUTOEXEC.BAT.) The syntax is simply:
+<pre>
+   SET TZ=XXX[+|-]n
+</pre>
+where XXX may be any three letters, and [+|-]n is the time difference from UTC (GMT)
+in whole hours (positive numbers westwards from London, negative numbers eastwards.) If you're using Daylight Savings Time, add DST at the end of the string.
+<p>
+So how do you know the time difference from your country to UTC? Look in a world
+atlas or ask someone for advice. If you're using Windows 95, you can open
+Regional Settings in Control Panel and click on your country to see which time zone you're in (but make sure to replace '+' with '-' and vice versa, as
+Windows 95 uses positive numbers eastwards). If all else fails,
+use an approximate or pick the setting from a neighbouring country. If you
+don't get it completely right, it's no big deal. The TZ setting is only used
+for adjusting the timestamps on your PGP signatures. Unless you are signing a
+legal contract or some other important document, nobody will bother if your
+timestamp is a few hours off.
+<p>
+
+<a name="Crack">
+<hr>
+<h2>5.1. Can PGP 2.6.3i be cracked?</h2></a>
+Yes. Any PGP version can be cracked, provided that the attacker has enough
+time and resources (=&nbsp;money) for the job. However, a typical 1024-bit PGP
+message would
+take about 300,000,000,000 MIPS year to crack, so the ordinary citizen is
+relatively safe off, at least for the next few decades. See the PGP Attack FAQ (<a href="../../tppmsgs/msgs24.htm#2492" tppabs="http://axion.physics.ubc.ca/pgp-attack.html">http://axion.physics.ubc.ca/pgp-attack.html</a>) for details. If someone really wants to read your PGP
+encrypted messages, he/she would probably rather steal a copy of your
+secret key and try to <a href="../../tppmsgs/msgs24.htm#2491" tppabs="http://world.std.com/~franl/pgp/pgp-passphrase-faq.html">guess your pass phrase</a> or force you to reveal it.
+<p>
+
+<a name="Plot">
+<hr>
+<h2>5.2. Isn't PGP 2.6.3i the version that was weakened for export by the NSA?</h2></a>
+No. PGP 2.6.3i is just as secure as any other version of PGP. Neither
+Phil Zimmermann, MIT, NSA, myself nor anybody else have put any backdoor
+into PGP 2.6.3i, lobotomized the random number generator, limited the effecive
+key size or otherwise done anything to
+compromise the security of the program. If you don't believe it, download the
+source code and see for yourself. The PGP source is free for anyone to
+scrutinize, and has been so for many years now. Still, nobody has been able
+to find any backdoors. The conclusion is clear: <i>if anyone can crack PGP 2.6.3i
+then he/she can also crack any other PGP version around</i>. If you read magazines
+like Internet World, don't believe a word of what they say. :-/
+<p>
+
+<a name="Bugs">
+<hr>
+<h2>5.3. Are there any bugs in PGP 2.6.3i?</h2></a>
+No program is 100% error free. Yet PGP 2.6.3i is probably the most bug-free
+PGP version available today. To see a list of known bugs and how to fix them,
+or to report new bugs, refer to the PGP bug page at <a href="BUGSSH~1.HTM" tppabs="http://www.ifi.uio.no/pgp/bugs.shtml">http://www.ifi.uio.no/pgp/bugs.shtml</a>.
+<p>
+
+<a name="Team">
+<hr>
+<h2>5.4. Who is responsible for PGP 2.6.3i?</h2></a>
+PGP 2.6.3i was put together and published by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle
+Schumacher</a>
+in Norway. However, this work would not have been possible without the
+help of many individuals around the world. The international PGP versions
+are now maintained and supported by an international development team,
+who coordinate their work through an Internet mailing list. If you would
+like to join this list, please contact
+<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>.
+<p>
+All questions regarding PGP 2.6.3i should be addressed directly to
+<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">Ståle Schumacher</a> or to
+<a href="mailto:pgp-bugs@ifi.uio.no">pgp-bugs@ifi.uio.no</a>.
+Please note that Phil Zimmermann, <a href="../../tppmsgs/msgs25.htm#2547" tppabs="http://web.mit.edu/">MIT</a> and
+the <a href="../../tppmsgs/msgs25.htm#2548" tppabs="http://www.uio.no/Struktur/engelsk.html">University of Oslo</a>
+have nothing to do with PGP 2.6.3i. Comments, bug reports and
+suggestions for future releases are welcome.
+<p>
+
+<a name="More">
+<hr>
+<h2>5.5. Where can I learn more about PGP?</h2></a>
+The <a href="README.1ST" tppabs="http://www.ifi.uio.no/pgp/readme.1st">README</a> file for PGP 2.6.3i covers most of the
+details that are special to the international PGP versions. If you have
+access to WWW, the International PGP Home Page is an excellent starting
+point for further PGP exploration:
+<p>
+<center>
+  <a href="INDEX.HTM" tppabs="http://www.ifi.uio.no/pgp/">http://www.ifi.uio.no/pgp/</a>
+</center>
+<p>
+For information on PGP and encryption in general, check out the following
+resources:
+<p>
+<b><a href="DOCSHT~1.HTM#FAQ" tppabs="http://www.ifi.uio.no/pgp/doc.shtml#FAQ">Other FAQs</a>:</b>
+<p>
+<pre>
+    FAQ from comp.security.pgp by Arnoud Engelfriet
+      http://www.pgp.net/pgpnet/pgp-faq/<p>
+    Where to get PGP FAQ by Michael Johnson
+      ftp://ftp.uu.net/usenet/news.answers/pgp-faq/where-is-PGP.Z<p>
+    PGP passphrase FAQ by Grady Ward
+      http://world.std.com/~franl/pgp/pgp-passphrase-faq.html<p>
+    PGP attack FAQ by infiNity
+      http://axion.physics.ubc.ca/pgp-attack.html<p>
+    PGP 2.6 FAQ - only of historical interest
+      ftp://net-dist.mit.edu/pub/PGP/PGP_FAQ
+</pre>
+<p>  
+<b><a href="LINKSS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/links.shtml">WWW</a>:</b>
+<p>
+<pre>
+    Fran Litterio's PGP Page (from the Virtual Library)
+      http://world.std.com/~franl/pgp/pgp.html<p>
+    The Official Bug List for MIT PGP 2.6.2
+      http://www.mit.edu:8001/people/warlord/pgp-faq.html
+</pre>
+<p>
+<b><a href="FTPSHT~1.HTM" tppabs="http://www.ifi.uio.no/pgp/ftp.shtml">FTP</a>:</b>
+<p>
+<pre>
+    ftp://ftp.ifi.uio.no/pub/pgp/
+    ftp://ftp.dsi.unimi.it/pub/security/crypt/PGP/
+    ftp://ftp.ox.ac.uk/pub/crypto/pgp/
+</pre>
+<p>
+<b>Newsgroups:</b>
+<pre>
+    alt.anonymous              discussion of anonymity and anon remailers
+    alt.anonymous.messages     for anonymous encrypted message transfer
+    alt.privacy.clipper        Clipper, Capstone, Skipjack, Key Escrow
+    alt.security               general security discussions
+    alt.security.pgp           discussion of PGP
+    alt.security.ripem         discussion of RIPEM
+    alt.security.keydist       key distribution via Usenet
+    alt.society.civil-liberty  general civil liberties, including privacy
+    comp.compression           discussion of compression algorithms
+    comp.org.eff.news          news reports from EFF
+    comp.org.eff.talk          discussion of EFF related issues
+    comp.patents               discussion of S/W patents, including RSA
+    comp.risks                 some mention of crypto and wiretapping
+    comp.society.privacy       general privacy issues
+    comp.security.announce     announcements of security holes
+    misc.legal.computing       software patents, copyrights, computer laws
+    sci.crypt                  methods of data encryption/decryption
+    sci.math                   general math discussion
+    talk.politics.crypto       general talk on crypto politics
+</pre>
+<b><a href="BOOKSS~1.HTM" tppabs="http://www.ifi.uio.no/pgp/books.shtml">Books</a>:</b>
+<pre>
+    The Official PGP User's Guide
+    by Philip R. Zimmermann
+      MIT Press 1995 
+      ISBN 0-262-74017-6
+      216 pp. $14.95 
+
+    PGP: Pretty Good Privacy
+    by Simson Garfinkel
+      O'Reilly & Associates 1994
+      ISBN 1-56592-098-8
+      430 pp. $24.95
+
+    Protect Your Privacy: The PGP User's Guide
+    by William Stallings
+      Prentice Hall PTR 1995
+      ISBN 0-13-185596-4
+      302 pp. $19.95
+
+    Applied Cryptography: Protocols, Algorithms, and Source Code in C
+    2nd Edition, by Bruce Schneier
+      Wiley Publishing 1996
+      ISBN 0-471-11709-9
+
+    E-Mail Security: How to Keep Your Electronic Mail Private
+    by Bruce Schneier
+      Wiley Publishing
+      ISBN 0-471-05318-X 
+</pre>
+
+
+<p>
+
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" alt="" width=31 height=31 border=0></a>
+<font size=-1>Last updated
+
+March  5, 1997
+by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt;
+</font></address>
+</body>
+</html>

@@ -1,0 +1,152 @@
+
+From crispen@campus.mci.net Thu Jun 13 12:09:56 1996
+Date: Wed, 12 Jun 1996 22:17:35 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS -- THE CDA -- JULY 13, 1996
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /  Looking for some good, clean chat on the internet?  |//////|    |
+ |  WorldVillage Chat always has friendly folks, great  |//////|    |
+ |  conversation, and special games six nights a week!  |//////|    |
+ |  http://www.worldvillage.com/wv/chat/html/chat.htm   |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP      : THE CDA
+TODAY'S TOURBUS ADDRESSES : http://www.eff.org/
+                            http://www.aclu.org/issues/cyber/trial.htm
+                            ROADMAP96@LISTS.INTERNIC.NET
+
+Those of you who have been on the bus for a while will remember the promise
+that I made on July 20 ("Roadmap and 'Internet Week'") to drive our little
+bus of Internet happiness by HOMR -- the Helpful Online Music Reference.  I
+even spent three hours last July writing this really cool post telling you
+everything you could possibly want to know about HOMR.  Unfortunately,
+about five minutes before I was going to send out my HOMR post to all of
+you in the back of the bus, HOMR broke.
+
+Since then, HOMR has been TOURBUS' proverbial "Giant Rat of Sumatra" --
+something that I keep hinting about, but never actually visit.  As a matter
+of fact, on May 23 ("InfoSeek") I repeated my promise to take you to HOMR .
+. . in fact, I promised to take you there today.
+
+Well, thanks to the kind work of Judge Sloviter and the rest of the boys on
+the United States Court of Appeals for the Third Circuit, HOMR is going to
+remain a mystery for yet another week.
+
+... but we all can still dream about the day that we will actually visit HOMR!
+
+*----------------*  Unlock the Secret of Your Dreams *-----------------*
+ This deluxe 5 lesson course delivered via the Web will empower you to
+ interpret your dreams on your own and in electronic discussion groups.
+ Dr.  Jayne Gackenbach, a leader and highly sought speaker in the field
+ of dream research is your instructor in the next course, starting July
+ 8th!  This $129 course is being offered at a low introductory price of
+ $39 (US) or $49 (Canadian).  Register today - space is limited.
+*------------------( http://www.outreach.org/dreams )------------------*
+
+If you have been in a cave for the last 18 hours and have not heard the
+news, by a unanimous vote of 3-0 the United States Court of Appeals ruled
+that the Communications Decency Act -- the act which outlawed the use of
+the Internet to distribute "indecent" material -- is unconstitutional.
+According to Judge Sloviter, "[t]he CDA is patently a government-imposed
+content-based restriction on speech, and the speech at issue, whether
+denominated 'indecent' or 'patently offensive,' is entitled to
+constitutional protection."  The Court went on to say that, "the evidence
+and our Findings of Fact based thereon show that Internet communication,
+while unique, is more akin to telephone communication, at issue in Sable,
+than to broadcasting, at issue in Pacifica, because, as with the telephone,
+an Internet user must act affirmatively and deliberately to retrieve
+specific information online."
+
+Anyway, if you would like to see the complete text of the Court's opinion,
+pop on over to
+
+     http://www.eff.org/
+
+and click on the words "Full text of decision available."  If you want to
+be a resident Net-guru, I strongly recommend that you take an hour or two
+out of your schedule to download and read the Court's opinion.  I do want
+to warn you about one thing, though: the Court's opinion is absolutely HUGE
+(over 120 pages, or about 250 K).
+
+You can also find pretty much EVERYTHING that you could ever want to know
+about the lawsuit that was responsible for overturning the CDA (ACLU v.
+Reno) at the American Civil Liberties Union homepage:
+
+     http://www.aclu.org/issues/cyber/trial.htm
+
+I have not read the entire Court opinion (yet), but I did find a paragraph
+on page 60 of the opinion that I really do want to share with you.  Not
+everyone is happy with this decision, and quite a few parents are concerned
+about protecting their children from the "filth" on the Net that they have
+heard about from newspapers and television reporters.  The following may
+not ease your mind any, but this is the Court's opinion on that subject:
+
+     "Even if a broad search will, on occasion, retrieve unwanted
+      materials, the user virtually always receives some warning of
+      its content, significantly reducing the element of surprise or
+      'assault' involved in broadcasting.  Therefore, it is highly
+      unlikely that a very young child will be randomly 'surfing'
+      the Web and come across 'indecent' or 'patently offensive'
+      material."
+
+As I said, that may not ease your mind any, but I thought you'd like to see it.
+
+On a non-CDA related topic, several bus riders have asked me to make an
+announcement when the Roadmap96 list starts accepting new subscriptions.
+Roadmap96 is a free, six-week, 27-lesson Internet training workshop
+designed for users with accounts on command-line systems (like UNIX,
+VAX/VMS, VM/CMS, etc.).  Well ...
+
+The Roadmap96 list is now accepting applications!  To subscribe, just send
+an e-mail letter to
+
+     LISTSERV@LISTS.INTERNIC.NET
+
+with the command
+
+     SUBSCRIBE ROADMAP96 YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.
+
+Roadmap96 is completely free, and new workshop sessions start every two weeks!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+LILAC - verb. An untruth.
+Usage: "He's a nice enough feller, but he can lilac anything."
+
+(Special thanks goes to Gabe Helou for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://www.ua.edu/~crispen/word.html
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }            http://www.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

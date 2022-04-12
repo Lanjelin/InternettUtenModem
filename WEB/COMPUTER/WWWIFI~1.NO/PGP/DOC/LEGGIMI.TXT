@@ -1,0 +1,17 @@
+
+Potete diffondere liberamente la "Guida Pratica a PGP" (attraverso e-mail,
+forum pubblici, ecc...) solo utilizzando il file g_pgp952.zip e senza
+apportare modifiche ai files in esso contenuti.
+
+Per ottenere la versione html al fine di renderla accessibile da altri siti
+WWW, scrivetemi e vi verra' inviato un file compresso contenente anche i 
+files necessari ai link.
+
+    / \__
+   (     @\___
+  /          O       bye by byte da Pastore         ( pastore@iol.it ) 
+ /    (_____/ 
+/_____/              e un "bau" dai suoi aiutanti
+
+
+Fingerprint:      45 8E 8D 34 3C EE BB 3C  9D 04 E8 92 FB 0A E0 C8

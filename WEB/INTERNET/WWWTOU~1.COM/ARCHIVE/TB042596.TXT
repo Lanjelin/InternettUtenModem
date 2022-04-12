@@ -1,0 +1,195 @@
+Date: Thu, 25 Apr 1996 07:42:42 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 25 MARCH 1996 - CAR TALK
+
+    /~~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~~\
+   |      "Why | Surf When / You Can | Ride The | Bus?"    /    |   \
+   |___________|__________/__________|__________|_________/     |    \
+  /                                                      /______|-----\
+ /  Get the latest software reviews, interviews, live    |//////|     |
+ | chat, online gaming & more! Subscribe to WorldVillage |//////|     |
+ |  Citizens, a great weekly mailing list. For info, see |//////|     |
+ |       http://www.worldvillage.com/wv/join.htm         |//////|     |
+ |                                                       |//////|     |
+ ~~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~~~
+     \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP      : CAR TALK
+TODAY'S TOURBUS ADDRESSES : http://ua1vm.ua.edu/~crispen/word.html
+                            http://cartalk.com/
+                            http://cartalk.com/Radio/puzz-intro.html
+                            http://cartalk.com/Radio/replay.html
+                            http://cartalk.com/Tools/car-report.pl
+
+A couple of riders at the back of the bus have been having some problems
+getting into the Southern Word homepage (the homepage that has a collection
+of all of the Southern Words that I have used in my previous TOURBUS
+posts).  Here are a couple of ways that you can get into the Southern Word
+homepage:
+
+     1. Point your Web browser to http://ua1vm.ua.edu/~crispen/word.html
+
+     2. Hop on over to Yahoo! and do a keyword search for "Crispen".
+        Yahoo! has four links to my (old) Roadmap workshop, one link to
+        my parent's homepage, and a link to the Southern Word page.
+
+     3. Have a squirrel run over your keyboard a couple of times.
+        Squirrels are magically drawn to the University of Alabama's
+        computer center, and the Southern Word page resides on a
+        computer at the University's computer center, therefore ...
+        well, you can figure out the final part of this syllogism :)
+
+Actually, the machine that the Southern Word homepage resides on is often
+quite slow, so you may time-out before the page ever loads.  If this
+happens, just try reloading the page a little later :)
+
+Now, if I could only convince the University to get some more memory for
+the mainframe, perhaps my pages would load a little quicker ...
+
+*-*-*-*-*-*-*-*-*-*-*-*  MEMORY PRICES SLASHED!  *-*-*-*-*-*-*-*-*-*-*-*
+     Add more Memory to your Laptop or PC and Do Everything Faster!
+   It's easy to add memory and dramatically boost system performance.
+ Because you asked for it -- CLC RESEARCH has just cut prices by 15-20%
+     Money Back Guarantee and Special Discounts for TOURBUS Riders
+*-*-*-*-*-*-*-*  Visit us at http://www.CLCR.com/memory  *-*-*-*-*-*-*-*
+
+I have seven words that will strike fear deep in the hearts of even the
+most burly of men: Car Talk is now on the Web! Yes, folks, Click and Clack,
+the Tappet brothers, (a.k.a. Tom and Ray Magliozzi) now have their own
+homepage at
+
+     http://cartalk.com/
+
+For those of you who have never heard of Car Talk, let's see if I can
+explain what it is (hey, this is going to be tough).  Car Talk is both a
+public radio show hosted by, and a newspaper column written by, Click and
+Clack, two auto mechanics in Boston.  The premise of both their show and
+their column is that Click and Clack answer car-related questions sent in
+or called in by their audience.
+
+Actually, I guess it would be a little more accurate to say that Click and
+Clack SOMETIMES talk about cars.  The rest of the time they talk about
+pretty much everything else BUT cars.  (Imagine if Bob Rankin and I were
+auto mechanics instead of the worthless bums that we really are, and you'll
+start to get an idea what Car Talk is like).
+
+What other stuff do they talk about?  Well, during their radio shows, Click
+and Clack also read a "puzzler," a "a curious little conundrum" sent in by
+one of the show's listeners.  The person who answers that week's puzzler
+correctly (by writing the answer on something (except fruit) and sending it
+to the Puzzler Tower in Cambridge) wins a cheap and highly superficial
+prize.  Like Car Talk itself, the puzzler sometimes "has to do with the
+inner workings of cars. Sometimes it has to do with language, algebra, or
+something else you should have learned in the seventh grade (at least the
+second time through). But more often than we'd like to admit, the puzzler
+has to do with more esoteric things like the Bubonic plague, electric
+trolleys in Brooklyn, or the need for an urgent haircut."
+
+Fortunately, Click and Clack have created an archive (albeit a SMALL
+archive) of puzzlers at
+
+     http://cartalk.com/Radio/puzz-intro.html
+
+Even if you are the type of person who thinks that your car is powered by
+gerbils under the hood (in other words, even if you drive a Renault Le
+Car), you really should check out the puzzler archive.
+
+If you haven't heard Click and Clack's radio show before, and if you have a
+Real Audio player (which you can download for FREE at
+http://www.realaudio.com/), you can hear some rather funny snippets from
+the show by pointing your browser to
+
+     http://cartalk.com/Radio/replay.html
+
+There are a whole bunch of other neat things on the Car Talk homepage
+(including a listing of newspapers and radio stations that carry Car Talk,
+and a four year archive of the Car Talk newspaper columns (which is a MUST
+read)), but the one resource on the Car Talk page that knocked my socks off
+is the Car Talk Report at
+
+     http://cartalk.com/Tools/car-report.pl
+
+What is so cool about the Car Talk Report?  Well, once you enter the make,
+model, and year of your car (you have to go through a couple of successive
+pages, and you must have a forms-capable browser like Netscape to do this)
+the Car Talk Report will search through its records and show you:
+
+     1. Every government-ordered recall for that particular make, model,
+        and year. "Recalls are ordered by the National Highway Traffic
+        Safety Administration (NHTSA) when there's something so
+        seriously messed up with your car that it could cause a nasty,
+        big-time injury. Recalls are safety related defects that must be
+        fixed for free by dealers."
+
+     2. Every service bulletin for that particular make, model, and
+        year.  Service bulletins (which are normally issued by the
+        manufacturer) are sent out when something on that particular
+        make, model, and year car is pretty messed up, but not messed up
+        enough to require a government recall.  (By the way, I don't
+        think this function has been implemented on the Car Talk page
+        yet).
+
+     3. All of the NHTSA complaints filed on that particular make,
+        model, and year car.  ANYONE can file an NHTSA complaint, so
+        NHTSA complaints tend to be a little anecdotal.  However, if the
+        NHTSA receives enough complaints, they launch an investigation
+        ... and if the investigation finds that there IS a problem, the
+        NHTSA orders a recall.
+
+     4. The results of the NHTSA crash tests for that particular make,
+        model, and year car, and
+
+     5. A search function that allows you to search through all of the
+        old Car Talk newspaper columns (all the way back to June of
+        1992) for any mention of that particular make or make and model
+        of car.
+
+Cool, huh?  There are a few bugs in the Car Talk Reports (mostly repeated
+recall or complaint reports), but it is a wonderful resource nonetheless :)
+
+That's it for today.  I hope that you have a safe and happy weekend!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+RAFFLE - noun.  A firearm.
+Usage:  "Son ... fetch me ma raffle"
+(Special thanks goes to Stu Kasten for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*------------------*  BIG-TIME MAGAZINES FOR $10 A YEAR?  *---------------*
+                        ONLY TOURBUS RIDERS KNOW HOW!
+    Magazine Express has exclusive TOURBUS discounts others can only
+   dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This
+    is a limited time offer, so get details now by sending email to:
+*------------------------( tourbus@magazines.com )------------------------*
+
+*------------------------ TOUR THE BRITISH ISLES! ------------------------*
+ Scotland Golf Tour: 13-day Jun96 $4790 | http://www.xroadsmall.com/stewart
+  British Isles Tour: 18-day Aug96 $3790 | Email: stewart@xroads.com
+*---------------- Free Gift When You Book Either Tour --------------------*
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \  *NEW ADDRESS* crispen@campus.mci.net *NEW ADDRESS*
+    |-| '-' \    }      http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

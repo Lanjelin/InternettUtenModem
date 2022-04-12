@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+	<TITLE>Humidity buffering by museum walls</TITLE>
+</HEAD>
+
+<BODY >
+<H2>Humidity buffering by museum walls
+</H2>
+<I>By Tim Padfield&nbsp;&nbsp;4/2/97
+</I><P><I>This is the first of an occasional series of articles describing the progress of a research project on moisture movement in museum walls; a phenomenon which can be regarded as both an unexploited aid to conservation and a hidden threat to the structure of the building. These articles will be more detailed and specialised than my usual short monthly articles on topics in conservation physics (see the <A HREF="../INDEX.HTM" tppabs="http://bach.natmus.min.dk/cons/tp/index.htm">index</A>). The work described here is done in collaboration with the staff of the Department of Structural Engineering and Materials of the Technical University of Denmark.</I><HR>
+<H3>Can the walls effectively buffer the relative humidity in a museum gallery?
+</H3>
+The use of humidity buffers is well established in packaging, where there is very little air leakage. Humidity buffers are also used in showcases, where there is a leakage rate of about one air change per day. Humidity buffering is beginning to be taken seriously in the design of museum stores, where the air change rate can be limited to about one per twelve hours. The next challenge is to consider whether passive buffering can be useful in the design of museum galleries, which require at least one air change per hour, depending on the popularity of the exhibit. 
+<P>
+<B>Computer modelling</B><BR>
+A useful first step is to try some computer models. One does not have to trust them but they form a useful extension to back-of-the-envelope, order-of-magnitude calculations and give (slightly) more amusing illustrations. After that one should, ideally, make a series of physical models of steadily increasing size, cost, and closeness to reality. 
+<P>
+This article describes the first step: building a room in a computer's memory. Even this proves not to be so easy. I don't know of a ready-to-use program which allows a simulation of a room with porous walls and a variable air leak. The programs which I have used, in combination, to help me design the first real experiment are these:
+<P>
+<I>MATCH</I>: A program designed by Carsten Rode, now at the Technical University of Denmark. This calculates the heat and water flow through a wall, resulting from a defined outside and inside climate. 
+<P>
+<I>WUFI</I>: A program designed by Hartwig Künzel and colleagues at the Fraunhofer-Institut für Bauphysik in Holzkirchen, Germany. This does much the same as MATCH.
+<P>
+The <I>Padfield and Jensen program</I>, developed at the Conservation Department of the National Museum of Denmark, for designing air conditioning for a museum store. This is a much more modest, non-commercial product. It has, however, the advantage that the room climate is a result of the calculation rather than a controlling parameter. 
+<P>
+<B>The walls</B><BR>I first investigated the effect of the ambient climate on walls made of various standard building materials. The following graphs are derived from MATCH, fed with an artificial climate in the form of a 184 day cycle, with 92 days at 70% RH followed by 92 days at 30% RH, thus testing the reaction of a wall to a season-long, steady, but wrong climate. The temperature is a constant 20C. Buffering of the daily cycle of RH is also interesting in a museum context, because a  room that is climatically stressed during opening hours can recover during the long period without visitors. This is rather easily achieved and will be discussed in a later article.   
+<P>
+Three walls have been tested: Brick, cellular concrete and wood. The 'outside' of the wall is coated with aluminium foil. The inside is coated with paper. This is not just to give the computer model wall a nicer appearance; a thin surface layer gives a better indication of the rates of the important surface processes. The exact specification for each wall is listed in an <A HREF="POREWLA.HTM" tppabs="http://bach.natmus.min.dk/cons/tp/porewall/porewla.htm">appendix</A>. <P>
+
+<IMG SRC="BRICK.GIF" tppabs="http://bach.natmus.min.dk/cons/tp/porewall/brick.gif" WIDTH=500 HEIGHT=300 BORDER=0 align=left hspace=6>
+This graph shows the equilibrium RH within the layers of the wall and the water vapour flux between layers, and into the room. The red lines are the RH (upper line) and the flux at the inside surface of the wall. The blue lines are the RH and flux deep within the wall. The other colours are intermediate positions. 
+<P>
+The brick wall has very little reserve of water but is very porous. The flux in the beginning of each RH swing (the lower red line) is very large but falls off rapidly as the entire wall comes close to equilibrium with the ambient RH during each 90 day period at constant RH, as shown by the converging lines for the RH in the pores at different depths in the wall. <P>
+
+The graph appears to shows a difference between the wetting and the drying processes. This is partly caused by the lingering memory of the initial equilibrium at 50%RH but there is also a contribution from hysteresis in the absorption isotherm: the loss of water from the wall (negative flux) is therefore a slower process than the absorption of water. <BR clear=all>
+<P>
+<IMG SRC="CONCRETE.GIF" tppabs="http://bach.natmus.min.dk/cons/tp/porewall/concrete.gif" WIDTH=500 HEIGHT=300 BORDER=0 align=left hspace=6>The cellular concrete wall shows a similar high porosity but also a significantly higher exchangeable water content. All the layers rise and decline in water content but do not reach complete equilibrium during each RH period. The flux through the surface declines, but is significant right through the period. There are some odd perturbations in the lines, that may be real, subtle effects but can be due to faulty choice of the number of layers to calculate, or, dare one say, instability in the program's calculations. <BR clear=all>
+<P>
+<IMG SRC="WOOD.GIF" tppabs="http://bach.natmus.min.dk/cons/tp/porewall/wood.gif" WIDTH=500 HEIGHT=300 BORDER=0 align=left hspace=6>The wooden wall shows a completely different pattern. The wood has a greater reserve of water than can be mobilised during each period of constant RH. This is shown by the deeper layers retaining a nearly constant RH throughout the year (the green and blue lines). The flux through the surface falls only slowly with time but is not great even at the beginning of each period of constant RH. Here the limit to performance is set by the diffusion rate, whereas with concrete and brick it is set by the water capacity of the material. <BR clear=all>
+<HR>
+<A HREF="POREWL2.HTM" tppabs="http://bach.natmus.min.dk/cons/tp/porewall/porewl2.htm">Next part
+</A>
+
+</BODY>
+</HTML>

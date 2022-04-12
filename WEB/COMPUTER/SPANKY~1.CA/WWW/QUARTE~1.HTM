@@ -1,0 +1,178 @@
+<html>
+<head>
+<title>Spanky Quartet Fractal Info</title>
+<link rev=made href="mailto:noel@triumf.ca">
+</head>
+<body>
+<!--  This is a comment -->
+<h1>THE SPANKY FRACTAL DATABASE</h1>
+<HR>
+<a href="../../tppmsgs/msgs20.htm#2030" tppabs="http://spanky.triumf.ca/pub/fractals/images/quartet/reddevil.gif"> 
+<IMG SRC="../PUB/FRACTALS/IMAGES/MINI/REDDEVIL.GIF" tppabs="http://spanky.triumf.ca/pub/fractals/images/mini/reddevil.gif" ALIGN="Bottom" 
+ALT="Nice Image:"> </a> The Reddevil Fractal <p>
+<HR>
+<H1>Info on the Quartet Fractal</H1><p>
+
+	The <b>Quartet </b>formula is one from a series of interesting new
+fractals that I have been exploring. It is related to the mandelbrot only in
+the fact that they are both complex deterministic formula using escape time
+criteria for bailout but that is where the similarity stops. On closer
+inspection the images reveal a much different geometry than the mandelbrot. The
+classic mandelbrot shape is not to be found and the fractal structure tends to
+iterate to infinite points. The <b>Quartet </b>formula and the related series of
+fractal formulae that I have discovered are called <b>Inductive Fractals</b>.
+This name was chosen as all the formulae use an inductive self-reference in 
+the iterative loop. By this I mean storing the results from previous iterations
+and re-introducing them into equations on the next or subsequent iterative
+cycles. In a sense, the Mandelbrot and most fractals do this already as in the
+formula :<p> 
+<pre>
+        Z = Z**2 + C
+</pre>
+ <p> Where the Z term is resubmitted on the next iteration to influence the
+new value. I carry this principle one step further
+by temporarily holding the value of Z for at least another iteration before 
+reintroducing it back into the equation. Here is a simple example:<p>
+<pre>
+        TEMP = Z
+	Z = Z**2 + ZP
+	ZP = TEMP
+</pre>
+This gives the system some temporal
+depth and creates a whole range of interesting dynamics to explore.
+I have spent a great deal of time working with this fractal variant
+but I am not the only one to look at this type. 
+<a href="../../tppmsgs/msgs20.htm#2031" tppabs="http://spanky.triumf.ca/www/induct-ref.html">
+Others have touched on this technique. </a>
+
+<p> You can view a variety of images created with this formula that I have
+stored in the <a href="../../tppmsgs/msgs20.htm#2032" tppabs="http://spanky.triumf.ca/pub/fractals/images/quartet/">
+[pub.fractals.images.quartet] directory. </a>
+<p>
+In appearance the <b>quartet </b>fractal is actually closer to
+the lambda-sin fractal shown in <a href="../../tppmsgs/msgs20.htm#2033" tppabs="http://spanky.triumf.ca/www/sofi.html">
+"The Science of Fractal Images"</a>, around page
+160-162. There is a definite relationship between them although I haven't
+proved it mathematically.  The lambda-sin formula gives a repeating fractal
+outline while my <b>quartet </b>formula gives a similar outline but fills 
+the inside with very interesting fractal detail. This added detail is due to an 
+inversion introduced in the iterative loop which constantly turns the dynamics
+upside-down like turning an hourglass. The effect on the fractal image is
+dramatic. It no longer has an inside or an outside but shows a fractal that
+approaches a limit-set which I believe is the border of the lamda sin function.
+Varying the initial conditions of the lamda-sin causes the fractal outline to
+skew and this happens in mine as well. What is fascinating is watching the
+internal structure change with different initial parameters. The set seems to
+be an infinite extension of a repeating fractal geometry along the real axis. I
+haven't checked this very far as Fractint only has a max real ordinate of
++-32.00 or so, but it seems logical that this would be true from looking within
+those limits. +- pi is a full period. 
+<p>
+        It isn't that rewarding looking beyond a single period as the set
+is repeating. If there are any variations they are very minor. It is more
+interesting to change the initial conditions and observe a new geometry.
+It is essentially choosing a new julia set and the variations can be great.
+The trick is finding starting parameters that give good fractal detail.
+The <b>p1</b> 
+parameter is the starting point and can take on any complex value but
+the most interesting ones tend to be less than 1.0 (both real and imaginary)
+Actually, some of the most interesting are as these values approach zero.
+<p>
+        There seems to be a critical set of numbers where values less than
+these will produce image sets with large areas hitting the max iteration
+count.
+Numbers slightly larger produce very intricate fractals. Any ideas on the
+shape of the critical set? I think it may either be points from the border
+of the lamda-sin function or maybe some other function although the lambda-sin
+seems most likely. I haven't got enough points to really be sure of anything
+here. This is all very speculative.
+<p>
+Here is the formula preceded by a couple of related ones.
+<p>
+The <b>quartet </b>formula is a variation on an earlier fractal equation of mine
+called  the quatro fractal. (named from it's four point geometry)
+<p>
+<pre><tt>
+ quatro(XYAXIS)  {
+; Forget the squared term and iterate a trig function
+        z=pixel, zp = (0,0):
+          temp = z
+          z = sin(z) - zp
+          zp = temp,|zp| <= 4 }
+</tt></pre>
+<p>
+It combines that formula with a variant which introduces the scaled inversion.
+The first formula of this type was the HT formula.
+<p>
+<pre><tt>
+    ht(XAXIS) = {
+; Ah! You can use a variable in the inversion but now check for overflow.
+; Good results are found when the real part of p1 is in the range 0.1->1.0
+; With some sort of special value aprox. 0.148148...
+; Setting the imaginary part as well causes very strange fractals
+
+      z = pixel,zp=(0,0),huge=1.0e32:
+      temp = z
+      z = z*z + zp
+      zp = p1/temp, (|zp| <= 64) && (|z| <= huge) }
+
+</tt></pre>
+<p>
+        I was so happy with this fractal that I tried the technique on many of
+my earlier formula and turned up the <b>quartet </b>formula which is very 
+fascinating indeed. The <b>quartet</b> formula is:
+
+<p>
+<pre><tt>
+    quartet1 {
+; The quatro-HT variation.    From Noel Giffin
+; Adding the inversion causes what looks like an infinite extension along
+; the real axis. P1 should be non-zero. Use the Imaginary component of P1 as 
+; well to create some interesting fractals. The real part of p2 is used 
+; as one of the bailout criteria and it must not be zero. Make it larger to 
+; diminish the disks that appear on the periphery.
+       z=pixel, zp = (0,0), bail=real(p2), huge=1.0e32:
+       temp = z
+       z = sin(z) - zp
+       zp = p1/temp,(|zp| <= bail &&|z| <=huge) }
+
+</tt></pre>
+<p>
+
+	As the previous term <b>zp</b> is constantly being inverted and fed
+back into the equation an interesting dynamic develops. A very small value
+of <b>zp</b> tends to a very large value on the next iteration.	Both the
+current term <b>z</b> and the previous term <b>zp</b> will oscillate in
+this manner with a period depending on the scaling parameter <b>p1</b> 
+and the dynamics of the point being evaluated. With certain initial values,
+the iterative process damps itself and thus will iterate for many cycles
+while other points swing wildly and escape after a few iterations.
+It would be simpler and probably mathematically more correct to
+make the bounds check for the previous and current term to the same value to
+reflect this symmetry.
+That is test for:
+<pre><tt>
+       (|zp| <=huge && |z| <=huge) }
+</tt></pre>
+Where huge is a large number less than 1/2 your maximum floating point value.
+However I decided to keep the tests separate and to control one with
+the <b>p2</b> parameter.
+As usual in most complex deterministic fractals, the variations in the
+iterative count until an escape condition is realized, is used to produce
+the fractal detail.
+<p>
+        These equations are taken from my complete formula file which explore
+these <b>inductive fractals </b>in some detail and shows the logical 
+development of this formula type from its inception. It can be copied from 
+spanky.triumf.ca in the [pub.fractals.formulas]noel.frm file.
+<p>
+<HR>
+This page was last updated on 13th Dec, 1994
+<HR>
+<h3>The Spanky Fractal Database maintained by</h3>
+<address>
+Noel Giffin, <a href="../../tppmsgs/msgs17.htm#1707" tppabs="http://www.triumf.ca/">TRIUMF</a><br>
+noel@triumf.ca
+</address>
+</body>
+</html>

@@ -1,0 +1,172 @@
+Date: Thu, 14 Mar 1996 20:09:55 -0800
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 14 MARCH 1996 - DILBERT AND "ASK (ALTERNATE) DR. INTERNET"
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TOURBUS - THURSDAY, 14 MARCH 1996
+TODAY'S STOP: DILBERT AND "ASK (ALTERNATE) DR. INTERNET"
+TODAY'S STOPS: http://csbh.mhv.net/~bobrankin/tourbus/archive.html
+               http://www.unitedmedia.com/comics/dilbert/
+               http://chehalis.lib.washington.edu/dri/
+
+Before we start today's tour, here is a quick message from the folks who
+are making today's TOURBUS post possible ...
+
+*-----------------------------------------------------------------------*
+| Southern Utah University offers ART 101 on the WWW starting March 20  |
+|  3 quarter credits, transferable.  Get your general education at your |
+|    convenience!  For more info and to register, visit the web site    |
+*--------> http://www.suu.edu/WebPages/MuseumGaller/artapp.html <-------*
+
+You may remember that on August 17 I talked about how to subscribe to
+Dogbert's New Ruling Class (DNRC) mailing list. (By the way, if you ever
+want to take a look at the August 17 TOURBUS or, for that matter, ANY of
+the other previous TOURBUS posts, just point your World Wide Web browser to
+the TOURBUS archives at
+http://csbh.mhv.net/~bobrankin/tourbus/archive.html).  Today, we're going
+to visit Dogbert's "owner," Dilbert.
+
+DILBERT
+-------
+
+Dilbert is a tremendously funny, syndicated comic strip created by Scott
+Adams.  Dilbert appears in more than 400 publications worldwide, and is
+read by over 30 million people each day.  If you have never seen Dilbert
+before, it is a comic strip that focuses on the utter silliness of the
+white-collar workplace.  The cartoon strip stars Dilbert, a
+"socially-challenged engineer, and his sarcastic dog, Dogbert, whose true
+calling is to rule the world, since he believes people are basically too
+stupid to stop him."
+
+If your local newspaper is not one of the 400 ultra-cool newspapers that
+carry Dilbert, don't panic!  You can still read Dilbert every day on the
+Web at
+
+     http://www.unitedmedia.com/comics/dilbert/
+
+You will find the most recent Dilbert comic strip on this page.  Well,
+actually, the Dilbert Web site lags one week behind the newspapers, so I
+guess it would be more accurate to say that you can find the most recent
+*Web version* of the Dilbert strip on this page.  This "Dilbert Zone"
+homepage also has links to a two-week Dilbert cartoon archive (a MUST read
+if you haven't been keeping up with Dilbert recently), the DNRC mailing
+list archive, and even a Dilbert store where you can order Dilbert
+mechandise (although I am really upset that they stopped selling the DNRC
+polos).
+
+To view any of the Dilbert comic strips on the Web, however, you need a
+graphical Web browser like Netscape or Mosaic (the Dilbert strips are
+posted in gif format).  You should also be aware that the Dilbert homepage
+is an extremely popular Web site, and it may occasionally take a long time
+to load the images onto your screen.  Trust me ... it is worth the wait :)
+
+
+ASK (ALTERNATE) DR. INTERNET!
+-----------------------------
+
+In response to someone who was calling himself "Dr. Internet" and who was
+sending out factually incorrect "Ask Dr. Internet" articles to a particular
+LISTSERV list, Thomas Dowling created a series of parody articles called
+"Ask (Alternate) Dr. Internet."
+
+Dowling's parody articles are hilarious, and you can find all seven of the
+"Ask (Alternate) Dr. Internet" articles on the Web at
+
+     http://chehalis.lib.washington.edu/dri/
+
+Best of all, since the "Ask (Alternate) Dr. Internet" articles are mostly
+text-based, you don't actually have to have a graphical browser to view
+these pages.  In fact, you can even retrieve these Web pages by e-mail
+(just send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says GET NEWUSER
+PACKAGE F=MAIL in the body of your letter to find out how).
+
+You do need to know a little bit about the Internet (and I mean a LITTLE
+bit) to get the humor in the "Ask (Alternate) Dr. Internet" articles ...
+but since the TOURBUS subscribers are smarter (and better looking) than the
+subscribers of any other list, this should not be a problem.  Please
+remember, however, that the "Ask (Alternate) Dr. Internet" articles are
+SATIRE and are not meant to be taken seriously.  For example ...
+
+     1. What do file and domain name extensions mean?
+
+        Dr. Internet Headquarters recently received a question asking if
+        addresses ending ".com" were from communist organizations. In fact,
+that
+        is an overgeneralization, but I can understand the confusion. Here is
+        the Dr. Internet guide to file and domain name extensions.
+
+        The Internet provides an easily remembered two-character code for
+every
+        country, like .ch for Switzerland, .es for Spain, and .de for Germany.
+        Some other top-level domains are:
+
+        .au      Sound files from Australia.
+        .com     Competent Internet users. Due to the generous nature of the
+                 Internet, users are initially assumed to be competent, so many
+                 .com addresses have been registered recently. A large
+number of
+                 users have already been nominated for the forthcoming .inc
+                 domain.
+        .fi      Finland. (Korn Shell only; in the C Shell this must be written
+                 as .endif)
+        .ru      Russia
+        .su      Soviet Union. Notice that they're keeping their options open.
+        .us      Us. The fight for ownership and control of the Internet is
+                 heating up, and if you're not one of .us, you're one of .them.
+
+That's it for this week!  Have a great (and SAFE) weekend :)
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+YEWSTEN - Noun.  The fifth largest city in America (I think).
+BEG - Adverb.  Not small.
+Usage: "Yewsten's a beg, beg city."
+(Special thanks goes to Suzanne Lyons at Texas A&M University for today's
+wurd (even though she is an AGGIE!))
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE
+SOUTHERN WORD HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*----------------------------------*------------------------------------*
+| Just surfing the Net?  Put it to | BIG-TIME MAGAZINES FOR $10 A YEAR? |
+|   work enhancing your career!    |                                    |
+|     Take online courses from     |  Take the 'Bus to Magazine Express |
+|  University of Wisconsin-Stout.  |   for exclusive TOURBUS discounts  |
+|       For more info visit        |  And get Dr. Bob's new guide FREE. |
+|    http://major.uwstout.edu      |                                    |
+|  or E-MAIL to conted@uwstout.edu |    E-MAIL: tourbus@magazines.com   |
+*----------------------------------*------------------------------------*
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'                    Patrick Douglas Crispen
+  {O__,   \    {                      The University of Alabama
+    / .  . )    \         *NEW ADDRESS* crispen@campus.mci.net *NEW ADDRESS*
+    |-| '-' \    } ))         http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                           Warning: squirrels.

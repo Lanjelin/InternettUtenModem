@@ -1,0 +1,132 @@
+
+From bobrankin@mhv.net Tue Sep  3 11:32:41 1996
+Date: Tue, 3 Sep 1996 01:15:31 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS@BEACHTECH.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 3 Sep 1996 - TOURBUS Rider Survey
+
+     /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+    |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+    |__________|__________/__________|__________|_________/     |   \
+   /                                                     /______|----\
+  |            The TOURBUS Rider Survey Is Here!         |//////|    |
+  |                                                      |//////|    |
+  ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+     \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+As I mentioned last week, here is the TOURBUS Rider Survey.  I hope
+you can take just a few minutes to answers these 10 questions.  Since
+we have about 75,000 readers from 115 countries "on the Bus", the
+results should give us quite a good picture of who is using the Net
+and why.  We'll share the results here in about a week, so please send
+in your survey as soon as possible - thanks!
+
+A special thanks go to Beach Tech for processing this survey.
+For more information about their service, contact SALES@BEACHTECH.COM
+or HTTP://WWW.BEACHTECH.COM
+
+
+HOW TO RESPOND TO THE SURVEY
+----------------------------
+
+All survey responses MUST be sent to TOURBUS@BEACHTECH.COM  If your
+e-mail program is well-behaved, just using your "Reply" feature will
+start a new message to that address with the survey questions in the
+message body, ready for you to type your answers.
+
+Note: If your software does not automatically include a copy of the old
+   message in the reply message, you can use a "cut & paste" operation
+   to get the survey text into your outgoing message.  Another idea is
+   to save the survey text to a file, then copy it into your reply
+   message.  Every e-mail program works differently, and I can't possibly
+   provide 75,000 people with individual assistance, so please try to
+   figure it out yourself or ask someone who uses the same software!
+
+In any case, your message MUST be addressed to TOURBUS@BEACHTECH.COM
+Check the "To:" line in your message to ensure that is the case.  If your
+message is sent to me, or to the LISTSERV address it will be ignored.
+
+
+ABOUT THE SURVEY
+----------------
+
+Please answer all questions to the best of your knowledge.  If you
+wish to leave any response blank, you may do so.  Your answers will
+remain completely confidential and anonymous. (When your answers are
+received, there will be no connection between you and your responses.
+The software that processes the survey will ignore your name and
+e-mail address.)  We're not looking for information about specific
+people, just the TOURBUS crowd as a whole.
+
+
+1) In what country do you receive TOURBUS?
+   USA       (  )  Canada       (  )  Great Britain (  )  Australia (  )
+   Germany   (  )  Netherlands  (  )  Italy         (  )  Israel    (  )
+   Argentina (  )  South Africa (  )  New Zealand   (  )  Other  (     )
+
+2) How long have you been using the Internet?
+   1 - 6  months (  )      7 - 12 months (  )
+   About 1 year  (  )      About 2 years (  )
+   About 3 years (  )      Forever       (  )
+
+3) What type of Internet connection do you have?  (Choose one from
+   each column.)
+
+   Modem Speed          Service Provider
+   --------------       ----------------
+   2400  bps  (  )       Online Service (AOL, Prodigy, etc.)   (  )
+   9600  bps  (  )       SLIP/PPP (Graphical interface)        (  )
+   14400 bps  (  )       Shell or BBS Account (Text Only)      (   )
+   28800 bps  (  )       E-Mail Only (No direct Internet)      (  )
+   Faster!    (  )
+
+4) Describe your primary Internet usage.
+   Mostly E-mail (  )      Web Surfing   (  )
+   Research      (  )      Business      (  )
+   Education     (  )      Other         (  )
+
+5) Are you male or female?
+   Male          (  )      Female        (  )
+
+6) What is your age? (  )
+
+7) Level of education?
+   Elementary   (  )       High School  (  )
+   College      (  )       Advanced Deg (  )
+
+8) Your Occupation (                             )
+
+9) Approximate household income?  USD$ (          )
+
+10a) TOURBUS will always be free.  But would you ever pay to receive
+     information by e-mail that was relevant to your personal or
+     business interests?
+      Yes          (  )      No            (  )
+
+10b) If you answered "Yes" - what would you pay for a six-month
+     subscription to an electronic newsletter?     USD$ (        )
+     What topic(s) would be of interest?  (                          )
+
+
+                         ### END OF SURVEY ###
+
+Thanks, that's all!  But before you hit the "Send" button, please make
+sure you've addressed this note to TOURBUS@BEACHTECH.COM  We'll
+share a summary of the results when all the data is tabulated.
+
+========================================================================
+  Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+  Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=----------------------------------------------------------------------=
+                        For info on my new book
+        -->  "Doctor Bob's Painless Guide To The Internet"  <--
+      send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+========================================================================
+
+      TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

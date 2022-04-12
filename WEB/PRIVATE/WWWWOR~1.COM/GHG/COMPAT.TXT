@@ -1,0 +1,27 @@
+KNOWN compatibility issues
+
+There is a suspected seal compatibility problem with Autofrost (R-406A)
+and Autofrost-X4 with York (automotive) compressors using Butyl rubber
+seals in some cases.  Seals may fail (usually 30 mins to one hour)
+after the car is turned off, due to heat soak from the radiator bleeding 
+into the condenser and raising pressures.  Leaky heater water valves
+contribute to the problem since they allow heat to build up in the
+evaporator area, furthur increasing pressures.  Dirt buildup in the radiator
+and condenser area also contributes by preventing the release of trapped
+heat after the engine is turned off.
+
+Neoprene seals are available which appear to not have this problem.
+For more info, contact Bobby Burke, ATC specialists, 1-800-622-5008,
+or email bburke@intersource.com. Web page: http://www.kiva.net/~bburke
+Autofrost (R-406A) and Autofrost-X4 (GHG-X4) move more heat than does R-12.
+
+Cars with poorly maintained cooling (radiator) systems, may encounter radiator
+boilovers and overheating problems when changing to Autofrost, since more
+heat is transferred to the condenser, which rejects the heat into the
+radiator.  It is a good idea to have the engine cooling system checked over
+when switching to Autofrost to prevent a dirty/clogged radiator or leaking
+heater water valve from causing A/C problems.
+
+11/29/96
+
+

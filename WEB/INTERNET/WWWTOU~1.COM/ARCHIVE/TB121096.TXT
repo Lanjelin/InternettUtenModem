@@ -1,0 +1,173 @@
+
+From bobrankin@MHV.NET Tue Dec 10 10:50:52 1996
+Date: Tue, 10 Dec 1996 09:20:08 -0500
+From: Bob Rankin <bobrankin@MHV.NET>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 10 Dec 1996 - Is Your E-Mail Private?
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"      /    |  \
+   |__________|__________/__________|__________|___________/     |   \
+  /                                                       /______|----\
+ |   Win a Color TV - Play the "Where in the World" game  |//////|    |
+ | http://www.worldvillage.com/wv/gamezone/html/where.htm |//////|    |
+ |                                                        |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s    \___/
+
+    TODAY'S TOURBUS TOPIC: Who Can Read Your E-mail?
+    (Don't miss the new TOURBUS feature at the end of this message!)
+
+Think about e-mail just like you would sending a postcard.  There's
+no envelope, so your message could be read by any postal clerk along
+the way.  When you send e-mail, there is a possibility that it could
+be read by "cyber postal clerks" on the sending or receiving end, or
+somewhere in the middle.
+
++--------------------------------------------------------------------+
+    Why buy holiday gifts from Aardwulf Apparel? For starters, we
+GUARANTEE on-time delivery. Also, you'll get great discounts on brands
+ like Calvin Klein with our free e-coupons. See our site for details!
++--------------------( http://www.aardwulf.com )---------------------+
+
+Granted, most postal clerks and sysops are far too busy to look at
+every piece of mail that passes by, and they probably wouldn't want
+to read your love letters anyway, but it's something you should be
+aware of - especially if you send any "sensitive" data over e-mail.
+
+
+Encryption: The E-Mail Envelope
+-------------------------------
+
+If you've got to send e-mail that contains personal or sensitive
+information, encryption is one way to put your message in a tamper
+proof envelope.
+
+PGP (Pretty Good Privacy) is a program that will encrypt (scramble)
+your e-mail messages so that nobody except the intended recipients
+can read them.  PGP also lets you to create a digital signature to
+prove that it was really you who wrote an e-mail and that it has not
+been altered since you wrote it.
+
+PGP is available for various operating systems and e-mail packages.
+For more information, visit http://world.std.com/~franl/pgp with your
+web browser.
+
+TIP:  If you don't have Web access, send the command
+      send usenet/news.answers/internet-services/access-via-email
+      in the BODY of an e-mail message to mail-server@rtfm.mit.edu
+      to get my free "Accessing The Internet By E-Mail" guide.
+
+
+Keeping Your E-mail Address Private
+-----------------------------------
+
+Ever wonder how the spammers get your e-mail address in the first
+place?  Some of them harvest names from Internet mailing lists, and
+if the list owner has not taken precautions, anybody can retrieve the
+addresses of the recipients.
+
+Send the command SET listname CONCEAL (where "listname" is the name
+of the mailing list) to the same address you used to subscribe, and
+LISTSERV will not reveal your address.  If the list is not LISTSERV
+based, ask the list owner to conceal all the addresses.  Most list
+management software allows the owner to do this.
+
+NOTE: There's no need to do this for your TOURBUS subscription.  All
+      TOURBUS addresses are automatically hidden from public view, and
+      nobody can get them except Patrick and yours truly.  (And the
+      LISTSERV admins at AOL, of course, but they're nice folks.)
+
+
+Sending Anonymous E-mail
+------------------------
+
+There may be some special cases where you want to send a message, but
+you'd prefer not to reveal your identity or return address.  Spoofing
+your "From:" address is not rocket science with most e-mail software,
+but it's easily traceable in most cases, and of course nobody can
+reply to your message, either!
+
+There are several "anonymizers" that you can use for true two-way
+anonymous conversations.  You send your e-mail through an anonymizer,
+which strips out your identity, assigns you an anonymous id and
+forwards the message to the intended recipient.  The recipient can
+communicate with you only by sending a reply through the anonymizer.
+
+To get more information on anonymous e-mail, send a message to
+"help@nym.alias.net" or "privacy@interlink-bbs.com" and you'll get an
+automatic reply.
+
+
+Verifying The Sender of an E-Mail
+---------------------------------
+
+If you find yourself on the receiving end of a message that seems of
+dubious origins, you can do a little detective work of your own to
+detect a forged address.
+
+Let's say you get a message from Mickey@Mouse.Com asking you to
+show up for lunch at the studio on Thursday at noon.  Most e-mail
+programs have a feature called "Show Headers" that will display a
+bunch of gibberish at the top of your message that is usually hidden
+from view.  The headers from your message will contain lines that look
+something like this:
+
+Received: from gizmo.com by yournode.com with SMTP id QAA20102 ...
+Received: from blarney.com by gizmo.com, with SMTP id NAA22487 ...
+Date: 10 Dec 1996 13:23:54 -0800
+From: "Mickey Mouse" <Mickey@Mouse.Com>
+To: you@yournode.com
+
+When a message travels across the Net, each intermediate system adds a
+"Received:" line to the top of the message before forwarding it along.
+So to find the originating system, just scan down to find the last
+"Received:" line.
+
+In this case, you can see that the message originated at blarney.com
+(not the Magic Kingdom) and passed through gizmo.com before arriving
+at your system.  If you have a life or death need to know the true
+sender of the message, contact postmaster@blarney.com and forward the
+header information.  Those "SMTP id" thingies can help to identify
+which user actually sent the message.
+
++--------- WANT TO PICK FROM 40 FREE MAGAZINE SUBSCRIPTIONS? ---------+
+  Then get the Fall & Holiday TOURBUS HOT SHEET from Magazine Express.
+ The magazine deals are white-hot, with many under $12 per year.  Plus,
+    Dr. Bob's "Internet Goodies" is still FREE.  Send e-mail now to:
++--------------------- ( tourbus@magazines.com ) ---------------------+
+
++---------------  The Best Of The Web In One Place!  -----------------+
+ Looking for a place to shop for the Holidays?  Web Warehouse offers a
+   high-end selection of quality products for the cybershopper. Your
+    main Web resource for music CDs, software, books, gifts, & more.
+ Visit today - enter PrizeLINK's Sweepstakes to Win a COOL $1 Million!
++---------------------( http://webwarehouse.com )---------------------+
+
+Announcing... a new TOURBUS Feature!
+The Stupid Computer Joke of the Week (SCJOTW)
+
+   *  BREAKFAST.COM Halted - Cereal Port Not Responding
+   *  COFFEE.EXE Missing - Insert Cup and Press Any Key
+
+Okay, that was TWO Stupid Computer Jokes.  Sorry.
+See you Thursday!  -- Bob
+
+========================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+========================================================================
+
+       -->  "Doctor Bob's Painless Guide To The Internet"  <--
+    Browse reviews and sample chapters at http://biz.mhv.net/drbob
+               New York Newsday says "Buy it for Mom!"
+        Special holiday price ($10.95) makes it a great gift.
+
+========================================================================
+
+      TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

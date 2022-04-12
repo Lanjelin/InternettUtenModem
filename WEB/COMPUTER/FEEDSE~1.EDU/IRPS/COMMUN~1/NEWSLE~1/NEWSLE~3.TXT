@@ -1,0 +1,1737 @@
+The RPG Times
+Dec. 1, 1996.
+Vol. 1 Issue #12
+
+An on-line version of this magazine can be viewed at:
+http://www.commerce.adelaide.edu.au/calvert/irps/index.html
+
+Table of Contents:
+--------------------------------------------------------------------------------
+IRPS President's Note    Michael Popovich (mlp26745@pegasus.cc.ucf.edu)
+Editor's Note            Karen Mizeri  (kmizeri@pris.bc.ca)
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+Rambling Thoughts        Kosala Ubayasekara (d96-kub@nada.kth.se)
+The Top Ten              John "BJ" Tomkins  (gr8dm@acronet.net)
+MaBarry's Amusings       Meera Barry (mabarry@abwam.com)
+TSR: AD&D Player's       Mark Eismendi (umeismen@ccumanitoba.ca)
+Option: Skills and
+Powers Review   
+DM's Advice              Earl Harrison (harrison@comsys.net)
+--------------------------------------------------------------------------------
+Role Playing Aides
+--------------------------------------------------------------------------------
+Knight Magus             Bull Truglio (LliumDCLN@aol.com)
+Demon Stew               Earl Harrison (harrison@comsys.net)
+
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+The Assassins            Tim Elford (shade@tusc.com.au) AND
+                         Goran Zidar (goran@elf.aust.com)
+Fireside Chat            John "BJ" Tomkins  (gr8dm@acronet.net)
+In the World Where the   Jesus Negrete (74751.2302@compuserve.com)
+Lance Is Mightier than
+the Dragon
+--------------------------------------------------------------------------------
+Monthly Classified Ads:
+--------------------------------------------------------------------------------
+Subject: Calling all Authors!
+Subject: Volunteers Wanted for Editing
+Subject: Knight March '97
+Subject: Anaconism Jr.
+Subject: New Champions Game
+Subject: New Amber PBEM
+Subject: The Ararc Society
+
+--------------------------------------------------------------------------------
+The RPG Times Staff List
+Guidelines for Submissions
+Legal Disclaimer
+--------------------------------------------------------------------------------
+President's Note
+Michael Popovich (mlp26745@pegasus.cc.ucf.edu)
+--------------------------------------------------------------------------------
+Hey Everyone,
+
+	IRPS is still alive and kicking.  
+	If you haven't already seen our improved newsletters (in HTML/E-Zine
+format) please stop by the IRPS page (http://www.borg.com/~gdb319/daur/irps) in
+the previous newsletter section or you may view the current issue at
+(http://www.commerce.adelaide.edu.au/calvert/irps/index.html)  :)  It blew my
+mind out when I first saw it, and I'd like to thank everyone in the newsletter
+department for their job well done.  Also, IRPS is thinking about a few
+programs, and if there's any programmers out in IRPS who would like to help
+develop a MUD or a game, written in Java, please feel free to email me at
+(mlp26745@pegasus.cc.ucf.edu).
+
+--------------------------------------------------------------------------------
+Editor's Note
+Karen Mizeri (kmizeri@pris.bc.ca)
+--------------------------------------------------------------------------------
+Greetings all!
+
+I would like to first of all thank everyone for all their help on the second
+issue of The RPG Times.  Anyone who wishes to get involved can email me or the
+head of the department they wish to be involved with.  As always we are
+holding regular meetings on Mondays on the nemesis.acronet.net server, on IRPS.
+Anyone who wishes can drop in, these are at 9:30 PM EST.
+
+Starting next month we will be having a column for letters to the editor, and
+we would welcome anyone to write who wishes to express an opinion.
+
+Also a reminder that we are always looking for new writers, the guidelines are
+available from a link on the EZine, or you can email me for a copy.  We are
+also taking submissions of original artwork.  These can be mailed to the head
+of the graphics department.
+
+Particularly we would be interested in those wanting to write about other games
+which are not TSR or derivatives.  Please mail me for more information.
+
+
+Cheers!
+
+Karen Mizeri
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Monthly Columns:
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Rambling Thoughts
+Kosala Ubayasekara  (d96-kub@nada.kth.se)
+--------------------------------------------------------------------------------
+Role-playing...? Huh...?
+
+        So you've heard of this role-playing thing...but don't have a clue what
+it is.   You've had someone take great pains trying to explain it to you...but
+at the end of it all you're no wiser than when you started out.  That is
+because role-playing is a very difficult thing to explain, and is best understood
+by doing.  Nonetheless, I am going to try and explain it to you.  Bear in mind
+that I have attempted this countless times before verbally, with no great degree
+of success.  Perhaps the printed page will be clearer.  Also keep in mind that
+this explanation is general, and rules and game systems vary from game to game.
+The following is meant to be a very general approach, which I hope agrees with
+many of the role-playing game systems out there.
+
+        Firstly, what does a role-playing game look like?  You can't actually see it.
+There is no game board and rarely any game pieces.  The game takes place in your
+imagination.  Que?  Here's how.  Most role-playing games consist of several
+players and one game master (abbreviated as GM or equivalent).  The GM is the
+one who prepares the game.  That means he or she must plan a general scenario
+in which to involve the other players' characters.  Each player has one or
+several characters (usually just one) and pretends to be that character for the
+duration of the game.  Here is an example to show you how that works.
+
+        In this scenario PLAYER 1 is a warrior and PLAYER 2 is a wizard.  The GM
+has just started the adventure and he is constructing a scenario where the two
+imaginary characters (warrior and wizard) can meet.  He describes to the two the
+interior of an inn, and how the two wound up sitting next to each other at a
+table.  The players then have the opportunity to introduce themselves and may
+even (as is intended in this case) team up to go adventuring together.  When
+such an occasion arrives (where one character meets another) the two players
+'role-play' the meeting.  Essentially that means they act it out as if it were
+they who are at the inn and not their imaginary characters.  When I say act it
+out I mean verbally, not that the players get up and perform a minor drama
+(unless they want to of course).
+
+	It is easily obvious that analogies can be drawn between role-playing
+and theater.  The GM like the director sets up a scene and the players like the
+actors bring that scene to life.  The director then puts many such scenes
+together to make a play and the GM puts many such scenarios together to create
+an adventure.  However there is one vital difference.  In theater the director
+has a major influence over what the actors do in their scenarios.  In role-
+playing the player's have full control over their characters' actions (except in
+very special circumstances) and the GM has control over the game world and the
+characters that the players do not control, e.g. the other beings and creatures
+populating the world.
+
+	So if your character wanders into a forest clearing, it is the GM's
+obligation to inform you of what your character would see, hear, smell, etc.,
+as if you were actually there.  If then a wolf suddenly runs into that same
+clearing and upon seeing you decides to attack, which is a choice the GM makes
+for the wolf based on what he knows about the beast's behavior and of the
+situation at hand, it is the GM who controls the wolf and its 'thoughts' and
+actions, while you control your character's thoughts and actions.  If you have
+any bright ideas and wish to incorporate them into your actions, you inform the
+GM and he or she will evaluate your idea and describe the happening of events
+accordingly.
+
+	You may be wondering, as most non-role players I know do, why the dice?
+Simple.  In most role-playing games the dice are used to evaluate a probability.
+In real life probability is 'evaluated' automatically.  When you punch someone,
+the probability of you actually hitting the person depends on your speed and how
+good you are at punching, and on his speed and how good he is at dodging.  This
+probability is 'evaluated' automatically, i.e.: if you miss and receive a
+stunning blow in return you know you've failed.  In a game where there is no
+actual physical level, the results of such actions as combat must be evaluated
+some other way.  The GM, although supposed to be impartial, cannot always be
+asked to evaluate these outcomes fairly by just using his common sense and
+personal judgment.  That would definitely cause havoc among the players and it
+would be difficult to maintain consistency.  So an arbitrary system is called
+for, and hence the dice.  Bear in mind that not all game systems use dice these
+days, but check individual games for details.
+
+	In conclusion I would just like to address some silly myths about role-
+playing games.  They are NOT dangerous and certainly NOT lethal.  For those of
+you out there who have been led to believe they are satanic, let me just
+emphasize that we do NOT, I repeat, we do NOT cast spells for real!!!!!  All the
+action takes place in the imagination of the players.  It is necessary to
+completely get into character while you play to enjoy the experience (just
+like in theater), but it is just as necessary to get out of character after you
+play.  This is the real world we live in and even though the fantasy worlds have
+a tendency to be considerably cooler, it is necessary that a clear distinction
+be made between the two.  As long as you do that there is no harm in role-
+playing.  It is a hobby like any other.  Fortunately most people are endowed
+with enough intelligence to make this distinction (I have yet to meet anyone
+that isn't).
+
+        There are in fact many good things about role-playing.  One clear fact
+you will start to notice quite early is that your vocabulary increases
+exponentially.  That is because you come in contact with a section of the
+English (or any other) language that you may otherwise have missed.  Your
+imagination and reasoning skills will develop automatically.  Role-playing is
+almost all based on your imagination so if you have none then this is not the
+type of game for you.  Your organizational and planning skills will grow
+(particularly if you are the GM) and you even get better, to some degree, at
+mentally reacting quickly and sensibly to unforeseen circumstances and events.
+And all this while you are having fun!
+
+	So for all those who are concerned about the safety of role-playing, I
+hope they can now be less perturbed.  As for those who relentlessly criticize
+it, I hope this has made these people stop and think for a moment and re-
+evaluate their opinions.
+
+
+--------------------------------------------------------------------------------
+Top Ten List
+John "BJ" Tomkins (gr8dm@acronet.net)
+--------------------------------------------------------------------------------
+
+Top Ten Things to do with Your Old Suit of Armor
+
+10. Make a deck of chain mail playing cards.
+9.  Plate mail makes great Tupperware(tm).
+8.  Head down south and sell sections of chain  
+    links that hook from your belt to your wallet.
+7.  Dragon Binkies!
+6.  Sell what's left for bondage-wear and see your
+    money double!
+5.  Recycle
+4.  Build a Hyundai(tm).
+3.  That old helm makes a wonderful pot for 
+    potted plant.
+2.  The world needs more "I like Ike" buttons.
+
+And the number one thing to do with your old suit of  armor is...
+
+1.  Hang it on the wall and call it art!
+
+
+-------------------------------------------------------------------------------
+MaBarry's Amusings
+Meera Barry (mabarry@abwam.com)
+-------------------------------------------------------------------------------
+
+The Dragon People
+
+    Are you a dog person or a cat person?  Depending on how you answer,
+I am supposed to be able to draw a number of conclusions about you and
+your lifestyle: including what political bearings you might have, what
+state of (dis)order your house is in, and if you know what to do at a
+Saturday evening tea.
+    On the other hand, I never liked breaking things up into such
+obvious polarities.  "Dog or cat" leaves out the options of such
+preferences as penguin people, ferret people, and even the occasional
+hippopotamus person.
+    Fantasy roleplaying, however, has even worse quirks.  Take the
+chimaera; are you a goat person?  A reptile person?  Do you kind of mash
+together all the options to come out with the right kind of label?
+    Take your average wizard with treasure.  He (or she) has to have
+something to guard it for those long weekends when he or she says,
+"Forget it!  I'm not the one locked up in this tower...I'm teleporting
+to Bermuda, and I'm not coming back until I get a tan!"
+    You can draw some conclusions, now, on the type of wizard who takes
+what pet.  Let's look at dragon people, for example.
+    Dragons are kind of cute when they're born, if you like that sort of
+reptilian grace.  Anne McCaffery has done a lot in promoting the
+usefulness and intelligent qualities of dragons.  On the other hand, in
+most treasure-guarding scenarios, the dragon is the enemy; he, she, or
+it (depending on your style of dragon) has to be powerful, able to
+consider the options and work against sneaky adventuring types (who
+almost always have far too much luck) and be house- (or dungeon-)
+broken.
+    It takes a real egoist to raise dragons, with an asbestos will, and
+the proper pummelling-into-subdual scores.  It takes being able to wake
+up in the morning, smell the distant fires, and not cry over spilled
+village(r)s.  It takes a special kind of man (woman, or mindflayer) to
+be able to clean the dragonlitter box.
+    Your average floating eye person, well, he's a real charmer.  He
+usually has some sort of hypnotic gaze himself, which is good when he
+and his pets try to meet eye-to-eye.  He's an exhibitionist; doesn't
+like doing things without an audience, but he doesn't want to break that
+fourth wall, which is why he needs such a low-upkeep type of guardian.
+    It is said that everyone has skeletons in their closet, but what if
+your kind are the type who walk around and bash intruders with a rusty
+sword?  Skeleton people are generally thin themselves, if not already
+dead.  Skeletons generally don't have much to say (no vocal chords) so
+their masters generally aren't used to hearing any kind of backtalk.  No
+bones about it, the wizard who uses skeletons to guard his or her
+treasure probably harvested them from the last foolish thieving party
+who crossed his or her threshold.
+    Owl-bear people tend to be big, and pretty friendly, with deep,
+heavy chuckles and big, furry hugs.  Their pets are thus reinforced in
+their behavior to offer the same treatment to strangers.  On the other
+paw, they don't quite know their own strength.  Owl-bear people need the
+positive reinforcement, often sleep with teddy owl-bears, and often wear
+girdles of giant strength as fashion accessories.
+    You have to think about those people who coat the room in fungi or
+oozes of various colors.  Do you REALLY want to know what these guys
+consider 'treasure'?
+    It is rare to meet the wizard with the magically animated mop.
+Beware these housecleaning fiends; they tend to mop up in any fights,
+sweep damsels into their arms, and squeegie...um...squeegie...nevermind.
+Most animated guardians are big, but cheap; the wizards behind them are
+usually skinflints (er, so to speak) and buy only the triggering spells
+that are on sale.  No maintenance, no fuss, and they're only out a few
+thousand gold pieces per IF some pesky adventurer manages to defeat it.
+Golem people are much the same way.
+    You don't meet many roc people in this business.  Off recording
+albums and feeding elephants to their kids, many of them are on a roll.
+When a roc is actually guarding something (djinni, for example) you can
+be sure they consider the place a dive.  On the other hand, they can be
+used to protect a tiny (to them!) nest egg.
+    And finally, the "type five demon" people.  The less said about
+them, the better.  Don't try asking these people to donate money for the
+orphanages; they've got pets to feed.
+
+    Next month:
+    Adventurer Pick-Up Lines, or "No, I think the chainmail bikini
+really suits you best."
+
+
+-------------------------------------------------------------------------------
+TSR: AD&D Player's Option: Skills and Powers Review
+Mark Eismendi (umeismen@cc.umanitoba.ca)
+-------------------------------------------------------------------------------
+
+	In 1995, TSR released their redone versions of the Dungeon Master's
+Guide and Player's Handbook.  These were reprints with new art and a
+new look, but the same 2nd edition material.  A few things were cleared
+up and rewritten, but TSR strongly stated that these were NOT a 3rd edition.
+In fact, I believe those were the first words the author spewed onto
+paper.  They also re-released the 'Tome of Magic' and 'DM's Screen', which
+were virtually unchanged material-wise.  However, for those of you who
+haven't been to your local gaming store in quite awhile, there was some
+NEW material released which I think is a great addition to the world's
+most popular RPG.  
+        A new 'Player's Option: Skills & Powers' hardcover was released about the
+the same time as the others, as was a 'Player's Option: Combat Tactics Guide'.
+To those out there who are now staring skeptically at their screens,
+take my word as a DM and player, it's worth every cent of the thirty
+some odd dollars Canadian it cost me (GST& PST included).  
+	I suppose the best place to start would page one.  The book begins with
+the usual methods to rolling up characters.  Personally I like the chart
+included, which randomly produces the number of points the characters
+have for all their ability scores - and a maximum they can allocate to
+any one ability score.  It keeps characters from becoming super-powers 
+while still allowing players to tailor their characters to their liking.
+        Next, the players will have to calculate their ability statistics
+according to their ability scores.  The PO: SP has developed a much more realistic
+look at ability scores, and the stats relevant to them.  Each ability
+score is divided into two sub-abilities:
+
+	   Strength -> Muscle & Stamina
+	   Dexterity-> Aim & Balance
+           Constitution-> Fitness & Health
+           Intelligence-> Knowledge & Reason
+           Wisdom-> Intuition & Willpower
+           Charisma-> Leadership & Appearance
+
+        Essentially, the ability score is an average of the two sub-abilities.
+Think of the ability score as a scale, and the sub-abilities resting one
+on each balance.  If one goes up the other goes down, and vice versa.  They can
+also balance equally.  The book maintains there should be no more of a
+difference than four points between the sub-abilities when the character is
+created, although it can be increased further later on.  The ability
+statistics are then gathered from the relevant sub-ability scores
+rather than the overall ability score.  For example, a character's
+defensive adjustment (normally taken from the dexterity score), would now
+be determined by the balance score.  The sub-abilities allow for more
+efficient ability-checks, and are used in the much-improved non-weapon
+proficiency checks which I will discuss later.
+	Before moving on to special abilities and proficiencies, I should
+explain character points (CP) to those who have not yet read the PO: SP.
+'The Skills & Powers Guide' introduces the use of character points for the
+generation of racial abilities, class-related abilities, non-weapon and
+weapon proficiencies.  They can also be used during game-play, when
+characters find themselves in tight situations.  Characters are given CP's
+in all the previously stated areas when first created, and then are
+rewarded points by the DM, when advancing in levels, which can be spent
+on non-weapon and weapon proficiencies.
+
+Special Abilities
+ 
+        Once a player chooses the race and class(es) of their character
+they can then purchase special abilities of their choice.
+Varying according to race and class, the character will receive an
+amount of points which he can spend on the list of abilities provided.
+The purpose of this is to allow players to custom-make their PC's, so not
+all characters of the same race and class are identical.  Essentially,
+characters are stripped of the normal special abilities associated with
+their race and class, and are given the points to purchase abilities
+from the selection.  This includes to the standard abilities along with
+some new ones.  It makes possible those unique characters we've always
+wanted to make, but were never allowed to.  The 'armor-donning' mage,
+the spell-wielding elven ranger ( a bit of a throwback to D&D), and the
+weapon-specialist cleric are all now possible with the new abilities
+system.  Thieves can learn to escape bonds, and can increase the ability
+as they do their 'open locks' and 'pick pockets'.  Mages have to purchase
+their access to schools, and clerics can attain major or minor access in
+their spheres.  Caution to players: this is not an opportunity to create
+super-characters.  (DM's can breathe now).  It is like a trade off: if
+your player wants their magic-user to wear armor, and to have the ability
+to specialize with a weapon, it's going to cost them within their schools.
+Characters are only given roughly enough points to purchase the standard
+special abilities that would normally come with the race or class; were
+they not using this book.  So if they want something new, it may cost
+them something old: for example, the elven ranger who has spell-like
+abilities may not have infravision.  If it sounds difficult, don't
+panic, it's not!  Here's an example: Saralasia, the high-elf ranger, is
+allocated forty points for racial abilities.  She spends five on a sword
+bonus with longswords and shortswords, five for her bow bonus, five for
+the ability to detect secret or concealed doors, ten for her ninety
+percent resistance to sleep and charm-related spells, and fifteen on the
+spell-like ability.  15+10+5+5+5=40 points.  She is done with her racial
+abilities, and can never purchase these again.  No more than five points
+can be saved to use on proficiencies or game-play from this section.
+
+Non-Weapon Proficiencies 
+
+	Non-weapon proficiencies also work with character points, so if you've
+been using those pathetic proficiency slots - have no fear - they're being
+replaced.  Non-weapon proficiencies range in value from 2-5 CP's each.  Rather
+than making a modified ability check to see if the character is
+successful in their attempt, a new initial rating system is used.  When
+the N-W proficiency is learned, the character is given an initial rating
+score, which must be rolled equal to or less than on a D20 for success.
+The rating is modified by exceptional scores in the relevant ability (or
+abilities; scores of 14 or higher qualify).  For example, the riding
+land-based proficiency check (I.R. 7) can be made using the
+wisdom/intuition score or the dexterity/balance score.  Our elf Saralasia
+has a dexterity/balance of 16, and a wisdom/intuition of 12.  Therefore,
+when trying to maintain her balance atop the horse Saralasia has an 11
+in 20 chance for success (Initial Rating modified for high dex/balance),
+but only a 7 in 20 chance when attempting to control and guide the
+horse.  
+        Improving proficiency skills has also become a lot easier,
+practise makes perfect.  The more character points spent on a N-W
+proficiency, the better the rating.  After initial creation of the
+character, awarded character points can only be spent on weapon and
+non-weapon proficiencies, during game-play.  When used to improve
+proficiency skills, they increase the rating on a one-to-one basis, (for
+example, hunting costs two CP with an I.R. of eight.  The fighter Lanky Lucas
+spends four CP's and has an I.R. of ten).  Non-weapon proficiencies are quite
+possibly the best restructuring done in this book, my only complaint is
+that it took so long!
+
+Weapon Proficiencies
+
+        Weapon proficiencies have not been redone to the same extent as Non 
+Weapon Proficiencies.  Rather they have had a few things added to further flesh
+out that aspect of player characters.  As previously stated, these too
+are purchased with character points.  Weapon specialization is available
+to all classes, (if purchased as a class ability) although it is more
+costly for multi-class fighters, paladins, and rangers; and extremely
+expensive for rogues, clerics, and wizards.  
+	One new way to spend CP's for weapons is the purchase of a weapon of
+choice.  Only one can be chosen per character, once chosen it can
+never be changed because of the nature of the circumstance.  A weapon of
+choice is a character's favorite weapon, perhaps the weapon they felt
+they were born to wield.  The bonuses from this minor purchase are a +1
+to hit with that weapon, and a 'discount' if the character attains
+weapon expertise.
+        A new level of proficiency is introduced in the 'Skills & Powers' book
+called expertise, which lies between proficiency and specialization.
+It's a little less rewarding than specialization, but more economical
+for non-warriors.  Anyone can become an expert for the cost of three CP's, two
+CP's if it is the weapon of choice.  An expert receives the additional attacks  
+of a specialist, but not the attack and damage bonuses.  This does not have to
+be pre-purchased as a class ability.  It is available to all classes,
+thus making it affordable for non-warriors to excel in combat, as well
+as warriors to be well-schooled in multiple weapons - if multiple-weapon
+specialization was not pre-purchased as a class ability.  Further points
+can be spent on weapon specialization leading to weapon mastery, which
+will be covered in the 'Player's Options: Combat Tactics' review.
+	If a character is proficient with a certain type of weapon, it is
+assumed he is proficient with the fighting style associated with that
+weapon. For example, a knight wielding a two-handed sword is proficient with the
+two-handed weapon style.  With the PO: SP, the character can specialize
+in certain styles.  For two more character points, a character can
+specialize in a fighting style they are proficient with.  For example, if
+the knight specialized in the two-handed weapon style, he gains a three point
+weapon speed deduction (ten becomes a seven for two-handed sword), and if
+wielding a one-handed blade with two hands, the knight gains a +1 to
+damage rolls.  Other styles characters can specialize in include:
+one-handed weapon, two weapon, weapon and shield, missile, and 
+horse-archery.  Warriors can specialize in all styles, but non-warriors
+are limited by their weapon proficiency restrictions.  
+	Characters can also spend character points on various other abilities
+which add much flavour to the game, although they are far from
+necessary.  Some examples are the shield-rush and shield-punch
+(self-explanatory), and armor-donning, which represents the character's
+ability to efficiently bear the weight and bulk of armor with fewer
+hindrances to encumbrance and dexterity.  Dungeon Masters can be again
+reassured, these new proficiencies and abilities will not make
+characters overly powerful.  And remember: everything in the
+book is optional - hence its name 'Player's Options'.  The DM has the final
+say.       
+
+Character Races and Classes
+
+	 Character races in this book are slightly expanded.  Although no new
+races are added to the list of potential characters, some races from the
+Monstrous Compendium have been brought back which were not included in
+the original 2nd edition release.  Orcs and half-orcs are back, as well
+as centaurs, pixies and other sylvan creatures.  Creatures from other
+worlds have been included (the thri-kreen from Dark Sun), and although
+not all are listed all are welcome to use the new 'Skills & Powers'
+systems.  Where the writers put their foot down was the purchasing of
+special abilities for these special races.  It is strongly recommended
+that the abilities and restrictions for these races remain standard.
+Most humanoid creatures are acceptable (bipedal, standard for limbs,
+one head, etc.), up to the DM's discretion.  
+        Character classes have not been changed.  However, a modified list of
+character kits, introduced in the various 'Complete____ Handbook'
+supplements for the classes, has been included.  Character kits are
+expansions of character classes, which further bring to life these
+figments of our imagination.  That 4th level fighter with plate mail and
+a longsword.  Is he a soldier, or a cavalier, or maybe a noble?  Perhaps
+he's an outlaw or a local hero who's risen to fame?  These are just some
+examples of warrior kits for those who have no idea what I'm talking
+about.  Character kits are generally chosen when the character is first
+created, and they come with certain bonuses and hindrances associated
+with the role of that character kit.  
+
+        The 'Player's Option: Skills & Powers' is a much needed addition to the
+AD&D list of references.  It did some much needed house-cleaning to the
+AD&D 2nd edition rules, without changing the game in any substantial
+way.  Most of the changes, if used, affect character generation and are
+rarely noticeable during game-play, except for some pleasant
+improvements in its smooth and realistic application,(for example,
+those new and improved non-weapon proficiencies).  Stay tuned for more
+tidbits about the PO: SP, and a review on the 'Player's Option: Combat
+Tactics'.
+
+
+All trademarks of TSR are fully acknowledged within this review of TSR material.
+This article reflects the opinion of the author only.
+
+
+
+
+-------------------------------------------------------------------------------
+DM's Advice
+Earl Harrison (harrison@comsys.net)
+-------------------------------------------------------------------------------
+**editors note** the maps for this adventure are available from the ezine or you
+may mail the author.
+
+Trust an Old Friend
+
+        This game is to take place in an area where there is the possibility
+snow can accumulate very quickly and then it can warm up fast.  Anyone who
+lives in or has lived in Indiana knows what kind of weather I am talking about!
+
+        Three to five characters of 3rd-5th level with the majority being of
+good alignment should be able to handle this game with a moderate challenge.
+A Priest character is recommended to help in this scenario.  The appropriate
+spells may or may not be given at the start of the game.  The DM may want to
+have the players find the spells in the spell books which can be found in the
+basement level of the club house, although DM's are advised not to put a lot of
+spells in these books.
+
+        The scenario starts with the characters on a road heading to a nearby
+town.  When they get in the middle of nowhere the air turns colder, the sky
+darkens and snow begins to fall.  Make sure the characters have nowhere to
+turn for shelter, they have to be as cold as possible when they reach the
+club house.  As the hour passes, almost 8 inches of snow falls and anyone with
+metal armor on with nothing underneath will start to become frost-bitten.
+Anyone else will surely freeze if shelter is not found at once!
+
+        When the snow finally slows and stops, sitting just fifty yards from
+the players and a little off the road, they see a large building.  It is a two
+story building with a front porch that extends most of the length of the
+building.  Sitting on the porch are three swings and four rocking chairs.
+The place has a few lit windows and smoke rising from the chimney.  This looks
+like a cozy little place to warm up.
+
+For the DM:
+
+        This game only has four monsters that are a real threat to the
+characters.  You can always add a few more in certain places, but that won't
+be necessary if the four demons are played correctly.
+
+        When the characters arrive near the club the demons combine forces and
+cast control weather to make it snow as hard as described in the opening
+scenario.  The power of the demons is much too great for the characters to have
+any chance of reversing or dispelling their magic.
+
+        After the players have entered the clubhouse and had a chance to settle
+in or explore the place - as the demons allow them to do - the four demons will
+once again cast their control weather spell to make it snow another 8-12 inches 
+to keep the players from leaving this place for another 3-6 days.  The demons
+have created a special brew and will use this to their advantage to make the
+players weak enough for them to attack and kill.
+
+        The demons were gated into this realm by a mage that found the secret
+and the spell that allowed him to do this.  He found the spell in the dusty old
+books which can be found in the basement level.  The demons have tried to block
+off the temple section of the basement with bookcases, every 10 feet they have
+obscured the tunnel with mud and rocks.
+
+        To rid the realm of the four demons the characters can either kill them
+or find the spell in the library and send them back to where they came from.
+More experience points should be awarded to the players if they choose the
+latter course of action.  The demons have tried to keep everything as they found
+it and disguise themselves as keepers of the club house to keep their "food"
+coming in.  At first they will be really nice to the players and try to get them
+to consume their stew (see the recipe for demon stew in the RPG Aids section).
+Remember as a DM you should not let the players onto what is happening to them.
+The players consuming the Demon Stew is the whole purpose of the game.  If they
+find out then the plot of the game is ruined.  Also there is 16-20 inches of
+snow on the ground outside.  Where are the players going to go?  Starvation will
+surely set in if they leave this place.  What might be out there looking for an
+easy snack?  When the demons get the players to drink their stew they will keep
+getting meaner and meaner until they have all of the players where they want
+them.  Then it is supper time!  Their plan has worked for the past five years.
+No one has ever escaped from them to tell the tale of what is happening at this
+very expensive club and inn.  They have been ever patient in waiting for their
+next meal to arrive at the doorstep.
+
+Club Sleepy Willow
+
+Main Floor
+
+Unless otherwise noted in the room descriptions, all walls and ceilings are
+painted white and the flooring in each room is tiled.
+
+1.  Front Porch - (15 X 70) This large porch has three swings and four          rocking chairs all scattered about its length.  Just across the porch are     two large wooden doors each decked out with door knockers in the shape of     goblins' heads.
+
+2.  Entrance Hall - (15 X 30) This room has pegs for cloaks all around it.
+    There are two sets of pegs, one set at 3' and the other at 6'.  There are     doors to the northwest, west and east.
+
+3.  Greeting Room - (40 X 45) In this large room there are ten small round       tables and four large sofas.  Five rugs with pillows lay scattered about     on the floor.  This room is used for social gatherings by the members of     the club.  This room looks very cozy and inviting.
+
+4.  Latrines - (10 X 15) These two small rooms only have a pot in the back
+    corner of the room and have a strong urine.
+
+5.  Spiritual Room - (40 X 65) In the middle of this room is a very large
+    statue of a weeping willow with fairies and pixies flying about.  The
+    carpeting on the floor is very soft and comfortable to walk on.  The
+    walls of this room have been painted a forest scene with many woodland
+    animals showing their faces from underneath the foliage.  The ceiling has
+    been painted a sky scene with a few birds, insects and butterflies
+    darting in and out of the clouds and treetops painted there.  The 5 sofas
+    in this room are extremely comfortable.  They each have a sleep spell
+    cast upon them and anyone sitting on them for more than 3 rounds will
+    slowly drift into a very comforting sleep that heals all wounds and
+    diseases.  The four demons may tell the players this to try and get the
+    players to think they really are nothing more than keepers of the club.
+
+6.  Dining Hall - (40 X 75) In the middle of this room are three large oak
+    tables with chairs spaced evenly about all four sides of each one.  There
+    are 4 buffet tables along the walls, one at each corner.  The innkeepers
+    will try and keep these tables as full as possible with food the players
+    like to eat.  There is also plenty for the players to drink, with kegs of
+    various ales, wines and other drinks readily available under the buffet
+    tables.  The first couple of days the buffet tables will be full of hot
+    and cold food, and then after a couple more days they will slowly let the
+    food become less available to the players.
+
+7.  Kitchen - (40 X 45) This room is where all of the food is prepared for
+    the club.  It has a large chimney and open grill.  There are many
+    tables, cabinets and counters for as many as 12 servers and cooks to work
+    in this room comfortably.  On the southwest side of the room on the
+    floor is a trap door that leads to the basement level of the club.  The
+    door is covered by a mat and locked with 2 locks.  Four detect
+    traps will find all of the traps on the door and the locks.  Each trap
+    has 1d4 darts that are tipped with a paralyzing drug.  Save vs. Paralysis
+    to avoid the effect.  If the save is missed then the player is paralyzed
+    for 1d6+2 rounds.  Take normal damage from the darts.
+
+8.  Pool Entrance - (20 X 30) This room is more of a hallway than a room.  It
+    only connects the locker room to the pool area and conceals it away from
+    the rest of the club.  There is a key to this room in each desk in the
+    bedrooms, if anyone checks.  The key will go to each of the 3 doors in
+    this area.
+
+9.  Locker Room - (20 X 25) Around this room are storage compartments set
+    against the wall.  There are 3 levels to these compartments.  About 1/3
+    of these are full with various garments and other miscellaneous items.
+    It is the DM's discretion as to what is in them (hidden clues to new
+    adventures, magic items or just nothing at all).  There is a bench that
+    goes around the room just in front of the lockers.
+
+10. Pool - (35 X 40) The pool room houses a pool that just about takes up the
+    whole of this room (25 X 30).  It is only 2 1/2' deep with a bench that
+    sits only about 1/2 this deep.  The keepers will try and keep the water
+    in here as warm as possible through hot coals or whatever the DM can
+    dream up.  They will only keep this up for the first couple of days then
+    let the water get cold and murky.
+
+11. Storage Room - (20 X 35) This room is storage for all of the
+    cleaning supplies that are needed for the up-keep of the rooms in the
+    clubhouse.  Clean blankets, sheets, pillows, etc. are also kept in this
+    room.  The keepers will clean the players' rooms for the first couple of
+    days then stop.  They will, after another day, start sneaking into the
+    rooms and messing them up.  If they are caught doing this they will tell
+    the players they were trying to catch a mouse.  The DM should make up
+    something different for each of the four keepers.
+
+12.  Bedrooms - (25 X 35) Each room has a king-sized bed, a dresser, desk 
+     and any supplies that are deemed necessary by the resident of the room. 
+     The carpeting in this room is not what it is in the Spiritual Room but
+     softer than the tiled floor in most of the other rooms.  After each
+     player has chosen their room the keepers will ask if they need anything
+     else.  They will try to get anything the players need, within reason.
+     Inside the desk are two keys: one for the pool area and one for the
+     closet and room itself.  Paper and a quill pen can also be found in the
+     desk.  Each room has a permanent silence spell cast upon the walls so as
+     to let the resident(s) of the room have absolute quiet.
+
+12A. Closet - (10 X 15) Each of these closets has several pegs for cloaks
+     and a clothes rod for any other clothing.  Shelves are for extra
+     pillows, blankets or whatever the player needs to store here.
+
+Basement level
+
+Unless otherwise noted in the room descriptions all walls and ceilings are
+carved rock.  The floors of each room are very hard padded dirt or rock.
+
+13.  Wine Cellar - (65 X 75) In the center of this very large room are 5 long
+     wine racks.  There are 4 layers to each rack and most of the slots are
+     empty.  A clever DM could hide a few magic potions here.  How about an
+     undead or two?  The floors, walls and ceilings all have dust & cobwebs
+     on them, like no one has been down here for quite some time.
+
+13A. Door Trap - These three doors are magically attuned to each other.
+     When one of them is open the other two will automatically close.  
+     These doors are indestructible by any means the players can come up 
+     with.  They cannot be magically or physically destroyed.  Only 1 or 2
+     normal sized people can fit in each of these 5' square rooms and open
+     the next door.  This will be a struggle for most players to figure out.
+
+14.  Library - (30 X 50) In this room are stacks and stacks of books of every
+     shape, size, color and language.
+     * There is a 25% chance that any book picked up is unreadable because
+       the ink is smeared, the book crumbles in the character's hands, has
+       gotten wet or is torn up.
+     * There is a 45% chance that a mage or priest can read any book they
+       look at.
+     * A thief has a normal chance -10% to read any book that he/she might
+       look at.
+     * A bard has a 60% chance to read any book that he/she might look at.
+     * All other classes have a chance to read any book that they pick up
+       within the guidelines the DM decides appropriate to their class
+       restrictions.
+
+Remember that a person picking up and opening a cursed book has just read
+anything that they can understand.
+
+Somewhere in the midst of the large volumes of books in this room is the gate
+spell that the mage used to gate in the four demons that are terrorizing the
+players.  Other spell books, clues or maps to be left in this room are purely
+up to the DM running the game.
+
+14A.  Secret Door Hallway - Each of the secret doors can be found by a thief 
+      with a +25% chance to find Secret doors.  Each is only a hard mud & 
+      rock wall easily broken down by even the priest of the group.  After 
+      the 3rd, 4th and 5th doors there is a drop-off of 15' down to the next 
+      section, like a giant stairwell going down.  Appropriate damage is to 
+      be rolled by the foolish players that succumb to the trap.  At the end 
+      of the hallway there is a bronze door, which is locked & trapped with 
+      a lightning bolt spell cast as a 7th level mage.
+
+The rock walls, ceilings and floors of the next three rooms have been smoothed
+to almost the texture of polished marble.
+
+15.  Temple/Church - (75 X 90) This large chamber was once used by the sect
+     that plagued this area. This room is completely clean.  There is no dust
+     or cobwebs of any kind anywhere in this room.  The two large statues are
+     of knights standing at attention as if guarding something.  The pews are
+     still shiny as if they were just polished yesterday.  The stage area and
+     the rugs that line it, appear is if they had just been cleaned and
+     washed.  The tapestries that line the walls depict many ceremonies and
+     rituals far out-dated for even the wisest of sages or priests to
+     understand.  There is a locked door to the northwest.
+
+16.  Monks Hideaway - (40 X 50) This room appears to be the hideaway for the
+     high priest of the sect that once used this church.  To the northwest
+     corner sits an empty pool like the one on the ground floor only a
+     smaller version (15 X 15).  In the southeast corner sits another statue
+     of a knight standing at attention.  Along the wall beside the statue is
+     a large book case and desk.  The books are all gone and the desk has
+     been cleaned out leaving nothing of value in this room.
+
+17.  Priest's Storage - (15 X 20) In this room are all of the relics and
+     artifacts that were once used by the many priests of this sect.  If a
+     priest searches long enough (1d4 rounds) he may find 1d6-1 magic items
+     that he may use in his/her quest to fight evil.  The items which may be
+     found in this room are ones that would be used only be a priest.
+
+
+Club Sleepy Willow Inn Keepers
+
+The four inn-keepers are actually four lesser type demons in disguise.  They
+each constantly try and keep up the guise for each other until they get the
+players to drink the first cup or bowl of their stew.  Then they will ease up
+on their disguises.
+
+When the party first encounter them they will be shape-shifted into:
+
+* An old man of about 70        S:10    CH:11            Dref
+* An old woman of about 70      S: 6    CH: 9            Meka
+* A teen-aged boy of about 17   S:17    CH:16            Samuel
+* a toddler girl of about 6     S: 4    CH:12            Anez
+
+The man and woman will tell the characters, if asked, that the boy and girl are
+grandchildren staying with them for the winter months while their parents try
+and build a new life for them in __________.  The DM is to fill in the town or
+city that is closest to where they are.
+
+The four of them will each try and make the characters as comfortable as
+possible:
+
+* The old woman will be in the way trying to help them.
+* The old man will try and amuse them with stories.
+* The boy will try and get them to do things with him.
+* The girl will try to get them to play with her.
+
+All four of them will try and get the players to eat and drink (Demon Stew  -
+see Roleplaying Aids for the recipe) with them as much as possible.  Each of
+them will eat & drink with the players if asked to do so.  They will be offended
+if any remarks of poison or spell casting on the food or drink are mentioned.
+
+
+--------------------------------------------------------------------------------
+Role Playing Aides
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Knight Magus
+Bill Truglio (LliumDCLN@aol.com)
+-------------------------------------------------------------------------------
+Description:
+        The Knight Magus is a kind of Paladin/Mage serving as the military and
+disciplinary arm of religious orders centered around Gods of Magic.  They
+believe the 'Arcanes' (raw magical energy) is the physical manifestation of their
+gods and 'Giving Form to the Arcanes' (the casting of a spell) a sacred act.  An
+order of Knights might exist for every school of magic and thus for nearly every
+alignment.
+
+Role:
+        All Knights Magus belong to an Order or Brotherhood which belongs to a
+particular school of magic.  This school is part of a University which in turn
+belongs to the church.  The church deploys the knights sparingly, preferring not
+to draw too much attention to them.  Secrecy and restraint are key elements of
+the Knights Magus code of chivalry.  The Church has a saying:
+
+	'When there is a task to be done, send a sorcerer.
+	'If there is opposition, send a wizard.
+	'When all else is lost, send the Knights Magus.'
+
+        During times of relative peace, the Knights Magus are used for a variety
+of tasks.  They may be required to retrieve stolen, lost or newly discovered
+artifacts, aid the local populace, neutralize key opponents of the faith, etc.
+When the church is at war, the Knights Magus are called upon to lead their
+wizards and warriors into battle, direct strategy and tactics and protect the
+Universities and Churches.
+
+Requirements:
+        The Knights Magus tend to keep their numbers thin by holding very trying
+initiations and difficult requirements.  They wish to remain the few and the
+proud.  First, an initiate must meet all the requirements for a paladin.  In
+addition, they must also have an min. Int of 14.
+
+Non-Weapon Proficiencies:
+        Bonus: Spell craft.  In addition the Knight Magus gains non-weapon
+proficiencies as do mages.
+
+Benefits:
+        As the Knight Magus is so intimately connected with the school of magic
+to which his order is allied, he has ample opportunity to learn magic.  The
+Knights Magus can use those magical items available to Mages and Warriors.
+At 3rd level, the Knight Magus begins to gain magic user spells but only those
+within his order's particular school and allied schools.  At least half of all
+memorized spells must be of the knight's school.
+
+        The Church and Universities understand how important a Knight Magus can
+be.  As a result, much of the Knights funding comes from the church.  Also, the
+Knights may be given Magical Items not usable by the average mage or priest.
+Items such as Armor, weapons, some potions and misc. magic items and, of course,
+holy swords.
+
+Other benefits are unique to the particular schools as follows:
+
+Abjurer - Primary focus on protection and defense.
+Special Requirements -	Any Good Alignment.
+Special Benefits -	Continuous emanation of Protection from Evil 10"R.
+	
+Necromancer - Primary focus on the dead and undead.
+Special Requirements -	Any Evil Alignment.  Min 16 Wisdom.
+Special Benefits -	Detect Undead at will (60" in front of knight.)
+
+Conjurer - Primary focus on conjuration, summoning and the outer planes.
+Special Requirements -	Min 16 Con.
+Special Benefits -	Gain a Familiar at 1st level.
+
+Diviner - Primary focus on detection and insight.
+Special Requirements -	Min 16 Wis.
+Special Benefits -	Detect Evil at will.  (60" in front of knight.).
+
+Illusionist - Primary focus on deception and illusion.
+Special Requirements -	Min 16 Dex.
+Special Benefits -	Phantasmal Force 1/day.
+
+Enchanter - Primary focus on Charm and Enchantment.
+Special Requirements -	Min 17 Chr.
+Special Benefits -	Charm Person 1/day.
+
+Transmuter - Primary focus on Alteration.
+Special Requirements -	Min 16 Dex.
+Special Benefits -	Armor 1/day.
+
+Knight Magus Spell Progression
+	LvL KM	1st	2nd	3rd	4th	5th	6th	Min Int Required
+	3	1	-	-	-	-	-
+	4	2	-	-	-	-	-
+	5	2	1	-	-	-	-
+	6	3	1	-	-	-	-
+	7	3	2	-	-	-	-
+	8	3	2	1	-	-	-
+	9	3	3	1	-	-	-
+	10	4	3	2	-	-	-
+	11	4	3	2	1	-	-
+	12	4	3	3	1	-	-
+	13	4	4	3	2	-	-
+	14	5	4	3	2	1	-	Int 15
+	15	5	4	4	3	1	-	Int 15
+	16	5	4	4	3	2	-	Int 15
+	17	5	5	4	3	2	1	Int 16
+	18	6	5	4	3	3	1	Int 16
+	19	6	5	5	4	3	2	Int 17
+	20	6	5	5	4	3	3	Int 18
+
+
+-------------------------------------------------------------------------------
+Demon Stew
+Earl Harrison (harrison@comsys.net)
+-------------------------------------------------------------------------------
+
+This magical elixir can become any appealing drink the demon wishes.  It will
+smell, look, feel and taste exactly the way it should for the drink that it is
+taking the form of.  Magic, poisons, illusions, traps or psionics will not
+radiate or be detected.  The only way to detect the true nature of this drink
+is for a priest to be aware of what it truly is and cast a Dispel Magic and then
+a Purify Food and Drink spell upon it.  Once this is done, the stew will be
+harmless and turn into a nasty, foul smelling beef stew.
+
+If the demon brewing this stew can trick a person into drinking it, that demon
+will be able to possess the individual's soul and begin to torment them. The
+individual must consume three helpings of the Demon Stew for the demon to have
+complete control of him or her.
+
+The stew works in three stages:
+* After the 1st helping the victim makes all saving throws against magic cast by
+  the demon at him or her at -6 to their die roll.
+
+* After the second helping the victim will not attack the demon until the demon has
+  drained the person of 50% of any one stat such as Hit Points, Experience
+  Levels, Abilities, etc...
+
+* After the third helping the victim will lay comatose for 1D4 days or until a
+  priest casts a Raise Dead, or a Restoration spell, or a mage casts a Wish
+  spell upon the individual.
+
+If a person does not consume the third helping of the Stew, and can escape the
+demon, the effects of the first and second helpings will last for only one to three
+days.
+
+Any blessings cast by a priest will neutralize the effects of the Stew
+completely as long as the person and the priest are not in the presence of the
+offending demon.
+
+If the victim is alive after the 1D4 days of being comatose, the effects of the
+Demon Stew will completely wear off except for the following side effects.
+
+- One attribute of the individual afflicted will become demonic;
+- Appearance(hair color, skin color, eye color etc...)
+- Attitude(alignment, sanity, etc...)
+
+It is up to the GM to decide which attribute is affected by the side effects for
+each individual that survives consuming the Stew.
+
+This side effect cannot be removed except by a Wish spell.
+
+Demon Stew has no effect on any demon.  Nor will it work if not served by a
+demon.
+
+
+--------------------------------------------------------------------------------
+Fiction:
+--------------------------------------------------------------------------------
+The Assassins
+Tim Elford (shade@tusc.com.au) AND Goran Zidar(goran@elf.aust.com)
+--------------------------------------------------------------------------------
+
+Homepage:      http://www.ozemail.com.au/~goran/Archive.htm
+
+
+                      ---------------------------------                       
+
+                              - The Assassins -                               
+                                  Episode 4                                   
+
+The Assassins: Argos - Thief 1st level LE (NPC)
+               Craven - Duelist/Thief 1st/1st LE (PC)
+               Keldirk - Thief 1st level NE (PC)
+
+Locale:        The three assassins had completed their voyage from the Olman
+               Islands (their home for the past several years).  The Captain
+               of the Sea Swift had his crew row the trio ashore on the
+               outskirts of Chathold Harbor.  They made their way into the
+               city and are now on the streets of Chathold, Capital city of
+               The Prelacy of Amlor.
+
+Date:          1st Needfest 582 CY (Common Year)
+
+Time:          Just Before Dawn
+
+                      ---------------------------------                       
+
+The trio moved carefully through the fog shrouded streets of Chathold, port city
+in the Prelacy of Almor.  It was almost sunrise and the three travelers were
+anxious to get a solid roof over their heads.  Having just been deposited on-
+shore after spending almost two months at sea, Craven was grateful for the fact
+that the ground beneath his feet was not rocking.
+
+Argos:         We need to find an open tavern, where we can wait until
+               tonight.
+
+Keldirk:       I'm not interested in waiting, we've been stuck on board that
+               god forsaken boat for so long.  I don't plan on waiting one
+               second more than I have to.  We know where this guy lives, let's
+               just go there now and be done with it.
+
+Craven:        We were specifically instructed not to contact him during the
+               day.
+
+Keldirk:       It's not daylight yet, so I guess we're not breaking any
+               rules.
+
+Argos:         Can't argue with that, but Im sure we were not expected to
+               see him this early in the morning either.
+
+Craven:        At this point I don't care what we do as long as the floor
+               doesn't move.
+
+Argos:         No we'll save that for later... after a few drinks.
+
+They continued their trek through the streets, on their way to the home of Don
+Lombard, the contact for the family in the city.  The group had been told that
+Don will provide them with further instructions.  It was almost daybreak when
+they arrived at Don Lombard's address.  Keldirk, frustrated by weeks of
+inaction, was eager to get underway.  He strode confidently to the front of
+the two story building and banged loudly on the door.
+
+After several minutes of loud banging, the door finally opened.  The person who
+opened the door was clearly displeased at being woken at this early hour. He was
+a large man, strong but his bulk had obviously run into flab, dressed in only a
+sweat-stained nightshirt and carrying a heavy, loaded crossbow.
+
+Man:           What the hell do you want?!?
+
+Keldirk:       We were told that Don Lombard lives here.
+
+Man:           And what might that be to you..? You'd better start explaining
+               or I'll squeeze this off and one of you will have a sucker of a
+               gut ache.
+
+Keldirk:       We were told he was expecting us.
+
+The man was silent, as he regarded the three of them.
+
+Man:           No doubt you were also told to contact him during business
+               hours at his trading house.
+
+Keldirk:       If this is a bad time, then I guess that's just bad luck.
+               Please be so kind as to toddle off and wake your master before
+               he comes down stairs and flogs you himself.
+
+Man:           And who might I say is calling?
+
+Keldirk:       He will know who we are.
+
+Man:           But of course, my lord... how rude of me... do come in.  You
+               may leave your weapons at the door and make yourselves
+               comfortable in the sitting room.  I will inform my... master of
+               your arrival.  Which one are you?
+
+Keldirk:       My name is Val Rorn.
+
+Man:           Very good sir... please.  (indicates that they enter)
+
+With that the man stood aside and allowed the three of them to enter the house.
+hey left their (visible) weapons in the entry way and proceeded to the sitting
+room while the man made his way up the stairs.  Keldirk poured himself a glass
+of wine before making himself comfortable on one of the chairs.
+
+Argos:         What do you think you are doing?
+
+Keldirk:       I'm waiting for our contact to come down stairs.  The servant
+               did say to make ourselves comfortable.
+
+Craven:        Are you really as stupid as you seem?
+
+Keldirk:       WHAT?!?
+
+Craven:        That was no butler, you idiot.  That WAS Don Lombard.
+
+Argos:         (nods) How else did he know we were expected? If he was
+               expecting us at his trading house, why would he tell a servant
+               that he was expecting anyone here?
+
+Keldirk:       Who cares, I don't plan on starting my career here fawning
+               over someone who obviously couldn't cut it as an active member
+               and had to retire.
+
+At that point the man returned from upstairs and stood at the door to the room.
+
+Man:           Well it's good to see they aren't turning out sheep these
+               days.  But I would have thought you could follow simple
+               instructions.  You were told to contact me at my trading house.
+
+Craven:        Permit me to explain -
+
+Man:           Im not interested in your explanations.  Your coming here
+               could make things very unpleasant, or it could mean nothing.
+               Just the same I didn't want to have to worry about the
+               consequences... that is why you were told what you were told.
+               
+               (He waited several seconds for his words to sink in to the
+               three new arrivals before continuing.)
+               
+               As you are probably aware by now, I am Don Lombard.  You
+               (points to Keldirk) are Valrorn, what are your names?
+               (indicating the other two)
+
+Craven:        Craven.
+
+Argos:         Argos.
+
+Don:           No aliases? Your friend Val here obviously feels compelled to
+               create an air of mystery, why is it that you two don't?
+
+Craven:        Nobody would know who we are anyway, so what difference does
+               it make if we use our real names.
+
+Don:           Fine! Since you are here, I may as well give you your
+               instructions. You are to go from here to Del Mord, where you
+               will contact another one of our retired operatives.  His name
+               is Saradok, but you will know him as Vesper.  He owns a house
+               in the Artisans Quarter and lectures in trade economics at the
+               Del Mord university.  Unfortunately, you have timed your
+               arrival badly.  We are entering Needfest and all trade between
+               Chathold and Del Mord has ceased until after the festival.  So
+               I guess you are stuck here until then.  I can arrange passage
+               for you on a trade caravan after that but in the mean time you
+               will be on your own.
+
+Keldirk:       Great! (shaking his head in disbelief)
+
+Don:           Get yourselves some accommodations, and stay out of trouble.
+               We don't need our newest members killed in some meaningless
+               brawl before they have even started working.
+               Once you have found a place to stay, send word to me - AT MY
+               TRADING HOUSE - letting me know where you are and I will get in
+               touch with you. Until then... get the hell out of my house
+               before I really lose my temper!
+
+After leaving Don Lombard's, they found accommodations at a tavern called the
+foaming Mug.  The tavern was situated on the main road which lead to the docks.
+The road was known as the Golden Road, because it was said that all of the
+wealth in Almor has traveled along that road at some point in time.
+
+They sent word to Don Lombard via a messenger and waited for Needfest to end.
+
+It was during that time that Craven enjoyed the company of one of Chathold's
+professionals.  She approached him one evening as they sat in the tavern having
+a few drinks and soon convinced him to part with some of his money.  He returned
+the next morning feeling very satisfied and proceeded to spend the remainder of
+his nights in the woman's company.
+
+On the last day of the festival, the City of Chathold was buzzing with activity.
+The Chosen of Pelor, Arch Prelate Kevont, was to return to town after weeks
+abroad and give thanks in the City Square.  The crowds started to build from
+early that morning and by midday the Golden Road was a sea of faces.  City
+guardsmen kept the crowds at bay, clearing a path down the center of the road
+for the Prelate's entourage to travel.  The weather was perfect, almost as if
+Pelor himself had decreed that no cloud should mar the perfect blue of the sky
+or obscure the golden sun.
+
+The procession started with a group of mounted Knights, the banner of Pelor
+flapping at the tips of their lances as they rode their magnificent war horses
+confidently down the Golden Road.  They were followed by the faithful of Pelor,
+walking and praying as they made their way to the City Square.  Then came the
+carriage of the Prelate, drawn by perfect white horses, wearing barding so
+polished that it seemed as though there were a hundred suns reflecting into the
+crowd.
+
+The Arch Prelate himself was an old man, who could have been mistaken for any
+commoner, were it not for his powerful aura.  His robes were of the purest white
+emblazoned with a golden sun upon his breast.
+
+After the procession was over, the crowd made its way to the City Square, the
+streets surrounding it were packed to overflowing and Keldirk, had a field day
+emptying the purses of several worshippers.  No doubt, many people went home
+much poorer than they had come.  That would matter little, though, as they had
+heard the Prelate speak and were spiritually fulfilled... even if they would go
+hungry for a time.
+
+Before dawn the following morning, a messenger arrived at the tavern where the
+three assassins were staying and gave them their instructions.  They were to
+join a merchant caravan headed for Ring-Roads, a semi-permanent encampment
+where two major trade routes intersect.  They were to serve as guards should
+there be any trouble, but none was expected as the roads were usually safe at
+this time of the year and the caravan was large and quite well protected.  The
+caravan was scheduled to depart later that day.
+
+--------------------------------------------------------------------------------
+Fireside Chat
+John A. Tomkins (gr8dm@acronet.net)
+Kronowing's Tale: The Battle of Chester  (viomar@athens.net) - Kotliar
+--------------------------------------------------------------------------------
+        Chester is a rude, backwater village of perhaps 500 souls in the Barony
+of Uwaine.  In of itself, it is of little import, save for the fact that it was
+where my heroic comrades and I were given the task of stopping the advance of
+the Lich-lords and their allies through Albion.  The Varangians and their Brettish
+allies needed time to regroup and reorganize.  Thus, unless the Lich-lords could
+be delayed in Uwaine, all Albion might be lost.  The loss of Albion would be a
+disaster of global import, the balance of power on Aerdra shifted for centuries.
+My people, the Siderthe, were desperately trying to reassert their influence on
+Aerdra.  Aerdra had once been one of the jewels of the Siderthe hegemony.  If
+the Lich-lords triumphed, the world of Aerdra would become another stronghold of
+our deadly enemies, the Pelai.
+        The Liche-lord's were on the march again, their vile necromancy hungered
+for fresh souls and untainted fruitful lands.  Their own lands and people
+blackened and corrupted by evil magics, would soon no  longer provide the energy
+needed to sustain the war machine of the Lich lords. Unless they could expand
+their domains, their power would begin to fade.  Battles for power  were being
+fought in Lyonesse and Parthalon, as well as a dozen  places across the world of
+Aerdra around this time, but none would be as pivotal as this struggle in
+Chester.
+
+	It was midnight.  I was standing in the ruins of Valric's home.  Smoke
+filled the palisade enclosure of the fort.  The wounded were being carried to the
+Dunjon which had been undamaged in the attack.  Half our party was being carried
+on stretchers away form the smoldering ruins of Valric's home and Rodus' body had
+been found charred and barely recognizable.  Valric, the son of the Baron of
+Uwaine, had died when the roof collapsed. My new found friends were being borne
+past me on litters to the Dunjun -  I had already set up a triage there in
+anticipation of the upcoming battle.  Death had come calling early.
+Some powerful mage had launched had cast a powerful Fireball spell. Hiding like
+a snake in the grass, he had launched this sneak attack  against Valric's home,
+knowing that my entire party would be there planning strategy for the upcoming
+battle.  That was when we began to suspect there was a traitor in our midst.
+
+	At that instant four ball of supernatural fire arched out of sky.  As
+these flaming balls descended toward us, they for an instant lit up two flying
+ships approaching  Chester. These were ships of the Pelai, dread allies of the
+Lich-lords.  The fireballs descended form the Pelai ships into the village,
+like a meteors.  Flames lit up the sky and the screams of the dying filled the
+air, the piercing pitiful cries  tormenting me.  At that moment about ten  Yzarn
+appeared inside the fort ripping and tearing villagers who had taken refuge there
+in anticipation of the battle with the Baroness.  Yzarn are demonic creatures -
+their bodies black, oily and slick. They look like some horrible amalgam of
+praying mantis, shark and beetle.  Their carapaces are invulnerable to bronze
+weapons, and only the magical starstone is sufficient to wound them.  Even then,
+their ichor is a corrosive fluid.  They are intelligent and have sorcerers powers.
+We had met these horrible creature's before, and barely defeated them when they
+had ambushed us  in the woods before we had come to Chester.  Horrible creatures,
+not of this world, or any world of the Helix.  Flying ships, Yzarn!  We had been
+planning to strike out at the army of the Baroness, to strike out at her before
+they reached Chester.  Learning  of the Flying Pelai ships, we had sought to
+neutralize them  before they could be employed against us.  We had delayed too
+long, and the enemy had gained the initiative, and the element of surprise.  The
+battle had begun.
+
+Lazaar, our leader then,  rushed forth towards the Middle Bailey of the fort:
+
+        "Uthor to me! The rest of you take out those ships!" "Thar, lend me your
+fury...."
+
+        Lazaar rushed toward the Yzarn, the war-priest blood electrified by
+the scent of battle, blood and death. He yelled out:
+        "Uthor, we must press the Yzarn to the bridge and beyond.  The middle
+bailey must be secured. Shade, rally a company of soldiers and bring them to the
+bridge. Also, the moat must be filled.  I am working on that."
+
+	Shade, burnt, bruised and bloody from  the sneak attack of the wizard,
+casta Heal on himself restoring his body to full vigor. I cast a spell of
+Protection from normal missiles, in anticipation of battle.  Uthor eyes flaming
+with battlelust, rushed after Lazaar
+
+        Lore rummaged in his belongings for a moment then cast a spell, he then
+motioned to one of Valric's  knights and said:
+	"If you have skill to use this blade, I shall give it to you, for use in
+the battle ahead, and if you prove worthy of the blade, you shall retain it!"
+
+      He then handed a glowing sword to the knight.  He then turned and mounted
+his dragon.  Actually he did it with a bit of derring-do.  Lore ran towards the
+golden beast, vaulted up on it, and with a flourish, pulled out and uncorked a
+bottle swallowing the contents.  Then, waiting  long enough for the other
+Dragonlords: Talin and Nexis to mount, he prepared another spell, holding it,
+rather than immediately releasing its energies.
+
+        Talin mounted his dragon less dramatically, then he and his dragon faded
+from view, only a few telltale shimmerings revealing for but an instant that they
+had turned invisible.  Nexis mounted his dragon also casting a slew of protective
+spells.
+
+        Meanwhile, the ships continued their bombardment.  Four two-foot diameter
+spheres were launched  from the larger ship in a fiery whistling arc towards the
+Inner Bailey of the fort.  As they descended they formed a diamond pattern.
+
+        Having cast a Spell of Flying, I attempted to  take to the air as did the
+dragons but we were  still caught by the blast. The blast (actually four
+overlapping explosions ) enveloped a goodly portion of the Inner Bailey killing
+or  wounding scores of civilians and soldiers, and causing structural damage.
+The watchtower on top of the Dunjon careened over, and several holes were been
+blasted into the palisade surrounding the fort.
+        The larger ship launched its two catapults,  Two fiery balls  hit the 
+main gate of the fort.  The catapult stones of the ship seemed enchanted,
+exploding with tremendous power on impact, and  doing substantial damage.
+        Nearly simultaneously launched from the other ship, two more fiery
+catapult stones hit the village. Billowing smoke rose from the heart of Chester,
+and I could see that most of the buildings  in the main part of the village were
+burning.
+        Meanwhile forty crossbow bolts from the larger ship rained down on the
+battlements of the Outer bailey.  They were not normal bolts, on impact they
+released small clouds of a noxious green gas.  Guardsmen on the battlements
+exposed to the gas, fell to the ground in horrible paroxysms, their death cries
+smothered in their choking throats.
+
+        While this was happening, some fiendish spellcaster launched a dreadful
+spell and thirty-two troops and sixteen civilians in the middle Bailey, suddenly
+melted into pools of quivering protoplasm.   The Yzarn in a flurry of slaughter,
+chewed up ten  more civilians, as Lazaar and Uthor rushed towards the beasts.
+A wailing supernal voice swept over the fort: "This is your last opportunity for
+quarter: We have the capability to destroy you all, surrender now or perish.
+This carnage is unnecessary!"
+
+	 From the smaller ship, five knights with glowing red eyes emerged on
+black flying horses,  These horses were demon spawn, illuminated in the night
+sky by  flaming manes, hooves and eyes, the demon-knights were adorned in armor
+unknown in the Helix.  They wore full iron  plate armor of baroque design, and
+each wore atop his helm, a coronet that glowed with a loathsome green light.
+Each carried a scepter with a crystal head glowing with the same loathsome green
+light.  They began to fly down toward the fort.
+
+         Also leaping out of the smaller ship six humanoids with scaly baboon-
+like heads and some natural spiked and bony body armoring. On their bony head
+crests were attached feathered plumes. Five had red plumes, and one had a purple
+plume. They were wearing capes which turned in flight  into large feathered
+wings.  The Purple plumed critter was  carrying a glowing bastard sword, two of
+the others carried crossbows,  the last three bore glowing shields and glowing
+javelins.  I recognized these critters as Psthaaga, commonly used as mercenaries
+by the Pelai.
+
+        Meanwhile, leaping out of the larger ship were five winged gargoyle-like
+creatures. They wore baroque black dragon scale mail of design similar to what
+our three dragonlords (and Uthor) wore. Talin, Lore and Nexis  had fought these
+creatures before and had taken their armor from them.  They called these
+creatures Githyanki. Each of the Githyanki brandished a dagger in one hand and
+a sling in the other hand.
+
+	At that moment, things looked very bad for us. Our army had largely been
+annihilated.  Smoke and flames were rising from virtually every part of the
+fort and the village.  The carnage and destruction was horrific.  Yet we were
+not ready to surrender!
+        An observer might have thought that the Strike force of the enemy had
+completed its objectives and scored a great victory.  Then our party launched
+its counterattack.
+
+	Uthor and Lazaar in an instant were on the Yzarn. They noticed that the
+Yzarn seemed to be protected against their weapons by some sort of magic, so
+that killing strokes bounced off as glancing blows. With his mighty magical axe
+"Foeripper" raised above his head, Lazaar uttered a word of power, and launched
+a magical cone of frost against the Yzarn.  Their joints froze, and ice crystals
+splintered through their carapaces.  Four of the creatures were sorely wounded.
+Shade casts Geas on one of the Yzarn and in a feat of magical finesse overcame
+both the natural magic resistance of the demon and its powerful  will.  The
+creature made a slave, he  directs it to fight the Yzarn, and to serve the party
+in this battle unto death.
+
+	In the air: Lore launched a "Chain Lightning" spell  on the deck of the
+larger ship.  A Bolt of electrical energy ricocheted  through a cluster
+of yellow-plumed Psthaaga. They were the crossbowmen who released the
+bolts of poison gas.  Ten of the fiends were killed by the sorcery and
+our more sorely wounded.  I cast a Globe of Invulnerability and flew
+toward the smaller ship.  Talin prepared an Advanced Illusion spell and
+Nexis cast a fireball at the larger ship.  Unlike the Chain lightning,
+the fireball spell did not reach its intended target.  Instead  it
+seemed to hit an invisible globe surrounding the ship exploding, flames
+highlighting the sphere but not penetrating it. I recognized immediately
+it as a protective magic similar in scope to my Globe of Invulnerability,
+but of a scale large enough to protect an entire ship!
+
+                The dragon Kizar-Ceowayne on whom Lore rode, spoke arcane words
+and the forward catapult on the bigger ship glowed an instant a  bright gold
+and then disappeared into golden smoke. The dragoness Talis-Draju ridden by Nexis
+similarly disintegrated the other catapult on the bigger ship.  Both dragons
+turned to confront the reavers from the big ship. The dragoness Ku-Viriathe
+ridden by  Talin disintegrated the forward catapult on the smaller ship, and
+the  dragoness headed to confront the reavers from that vessel. Talin released
+his Advanced Illusion and an exact copy of himself and Ku-Viriathe appears about
+one hundred feet above the ships and begins a diving attack run and breathing
+fire on the ship.
+
+         My companions are signaling me, I must be off.  I will not leave you
+hanging but will tell you briefly of the rest of the fight.  Our counterstroke
+continued on, but from that point on the initiative was with us rather than the
+enemy, Still the battle was no easy fight, and we almost lost two of our
+dragonriders.   By the end of the battle, some twenty minutes later, one of the
+Pelai ships had  crashed, the other fled, the Yzarn had been slain, and a score
+of the Pelai lay dead about the battlefield.  The price was unbearably high.
+Chester lay in ruins, and our casualties were high, but we had repelled the
+first wave of the evil Baroness, the Battle for Chester however had just begun,
+although we would soon get reinforcements.  Still we were far from sure of
+victory, and we had yet to identify the traitor........
+
+
+-------------------------------------------------------------------------------
+In The World where the Lance is Mighter than the Dragon
+Jesus Negrete (74751.3202@compuserve.com)
+-------------------------------------------------------------------------------
+        During the long nights in the month of Frostkolt*, guarded by
+the "Night of the Eye" (as it is know in Ansalon*), Celesto,
+Hackton, Eldirk, Rent, Issae and Kaddar celebrate the third year
+of the completion of Fort Starshine, the central building of the
+city of Slaydra.  It has been almost a year since they last left
+the Fort and now they are living a peaceful life teaching their
+adepts the ways of Magic, Devotion, War, and Mind.
+
+        This could be the start of any story told by a bard during a
+congregation in the center market, during a festival in any town
+of the universe.  But right now I am going to explain to those
+of you who are unfamiliar with the world of Dragonlance* some
+terms I used.
+
+        Frostkolt* is the month of August, a name given by the human
+inhabitants of Ansalon*.  One of the continents of Krynn*
+(Dragonlance* Principal  Planet), Ansalon*, is located in its
+southern hemisphere and during the month of August the nights
+are longer than the days and it is winter.
+
+        "The Night of the Eye" is a very interesting and frightening
+sight in the Krynnian* sky that occurs during the alignment of
+the three moons of the world: Solinari* (white moon), Lunitari*
+(red moon) and Nuitari* (black moon). Imagine a big white moon
+in the background, a medium red moon in the middle, and a small
+black moon in the foreground representing a red eye in the sky.
+That is why they call it the "Night of the Eye".
+
+        Fort Starshine is a building in the center of Slaydra, a city
+the characters built after saving Qualinost* from an attack of
+Draconians*.
+
+        Before I start telling you more about the world of Dragonlance*
+I would like to invite those who want to know more about it to
+contact me.
+
+        I have found Dragonlance* to be the most romantic, so to speak,
+of the worlds of Dungeons and Dragons*.  This is because in this
+world all things happen as a history told by a bard of the dark
+ages of ancient Europe.  There are creatures threatening mankind
+and their allies, dragons and evil mages, clerics and demi-gods
+that form alliances to attack Orders of Knighthood, formed by
+men to serve as paladins of justice.  This is the only world
+where characters are permitted to use minotaurs and  ogres,
+gnomes' inventions really work, entire cities are inhabited by
+minotaurs, and seeing a dragon fly by is a common thing.  In
+this world you can find dragons as easily as lifting a rock, and
+there are marvellous weapons to destroy them.
+
+        Next time I will tell you a story about a party that started
+trying to gain fame and fortune and succeeded in building the
+entire city of Lava with an incredible way of generating power.
+
+* Registered Trademark of TSR Inc.
+
+
+
+
+--------------------------------------------------------------------------------
+Classified Ads
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Subject: Calling all Authors!
+Author: (kmizeri@pris.bc.ca)
+--------------------------------------------------------------------------------
+Now that we have expanded to an E-Zine, we are looking for several new
+writers.  Anyone who would be interested please email me.  Particularly we
+are looking for someone to write a monthly column on issues effecting the
+Role-playing world.  As well we would like to have someone who could provide a
+monthly column on new systems, gaming accessories, or novels. You do not need
+to have any special qualifications, just a genuine desire to write and an
+ability to meet the deadlines.  
+
+Thank-you,
+
+Karen Mizeri
+--------------------------------------------------------------------------------
+Subject: Volunteers Wanted for the Editing Department
+--------------------------------------------------------------------------------
+Volunteers for the editing department should have a minimum of first year
+University English and a good understanding of grammar and punctuation.
+As well they must be able to commit to doing a couple of hours a week on
+editing the articles.  If you have these qualifications and are interested in
+getting involved please contact Karen Mizeri at (kmizeri@pris.bc.ca)
+
+----------------------------------------------------------------------------------
+Subject: Knight March '97
+Author: Jason Lennan (knight@phc.igs.net)
+--------------------------------------------------------------------------------
+Knight March '97
+c/o Jason Lennan
+544 Ewing St.
+Cobourg, ON
+K9A 4Y6
+phone:  (905) 372-1428
+fax:  (905) 372-1428 please call before faxing
+
+Convention Name:  		Knight March '97
+Place of Convention:		Northumberland Mall, Lower Level, Cobourg, Ontario
+Date of Convention:		March 14, 15, & 16 of 1997
+Times of Convention:		Friday March 14, 5:30 PM to 11:00 PM				Saturday March 15, 8:00 am to 11:00 PM                                Sunday March 16,  8:00 am to 5:00 
+Subject of Convention:          Role-playing, Fantasy Card Games, Board Games
+Guest of Honor:                 Ed Greenwood, creator and author of Forgotten Realms.
+
+Special Events:			Saturday Night Banquet
+				Miniatures Contest
+				Art Contest
+				Battletech Tournament
+				Magic the Gathering Tournament
+Coordinators:  			Jason Lennan
+				544 Ewing St. 
+				Cobourg, ON
+				K9A 4Y6
+				phone:  (905) 372-8174
+				fax:  (905)  372-1428  please phone before faxing
+
+				Dave Stokes
+				199-A Sutherland Cres.
+				Unit 27
+				Cobourg, ON
+				K9A 5L9
+				(905) 373-4871
+
+Any help getting the word out would be greatly appreciated.  Thank you.
+
+Yours in gaming,
+
+Jason Lennan
+Convention Co-Coordinator
+-------------------------------------------------------------------------------
+Subject: New Champions Game
+Author: (raphael@harborside.com)
+-------------------------------------------------------------------------------
+Hello once again, folks.  I just wanted to drop by and let you all know
+that Nik has started another Hero-style game.
+
+System: Champions, 4th Ed
+Rated: R
+Accepting characters: Yes
+Game started: 12/1/96
+
+The year is 2025. Red Skull has set off a series of nuclear bombs that have
+killed off or crippled many of earth's greatest heroes and plunged human
+society into chaos. But the Fourth Reich wasn't destined to last. Magneto,
+lord of the mutants, has established superhuman rule over Earth. But his
+rule is shaky. Superhumans rage and battle for territory, oblivious to the
+suffering they cause. The distinction between good guys and bad guys is
+blurred.
+
+Steve Rogers, no longer possessing super-powers, but still possessing the
+spirit that made him Captain America, is recruiting the off-spring of the
+great heros now gone, to prove to the world that good CAN triumph over
+evil.
+
+This is a campaign set in a dark future of Marvel Universe. Players will
+invent off-spring or protege's of former heroes to be the characters.
+Please contact me for Character Generation info and more background.
+
+          -James
+                     Homepage: (www.harborside.com/home/r/raphael)
+                     EMRoP Network Homepage:
+(www.harborside.com/home/r/raphael/emrop/emrop.html) Come check it out!
+
+Etre amoureux!
+-------------------------------------------------------------------------------
+Subject: Anaconism Jr.
+Author: (anaconism.information@ibecc.org)
+-------------------------------------------------------------------------------
+
+ANACONISM JR.
+January 17th through the 20th, 1997
+Lakewood, CO, USA
+http://www.abwam.com/ibecc/anaconism/
+Prices $35 until first of January 1997 
+$45 at the door.
+Get $5 off, special code: IRPSmag
+GM's: Run 8 hours of gaming, get your money back!
+Guests of Honor:
+Steven Barnes
+Jerry Pournelle (internet / space)
+SnailMail:
+IBECC
+PO BOX 21766
+Denver, CO 80221-0766 (USA)
+E-mail:  anaconism.information@ibecc.org
+
+--------------------------------------------------------------------------------
+Subject: New Amber PBEM
+Author: (johnlotz@blacksand.com)
+--------------------------------------------------------------------------------
+
+I am starting an Amber Role playing game campaign.  E Mail me at
+(johnlotz@blacksand.com) for more information.
+
+--------------------------------------------------------------------------------
+Subject: The Anarc Society for Cyberspace gaming
+--------------------------------------------------------------------------------
+ 
+A new gaming club has emerged in cyberspace, one not for role-
+playing but for net gaming.  This new group is called The Anarc Society for 
+Cyberspace gaming (commonly called the Anarc Society).  Their main 
+purpose is to unite all gamers of experience ranging from newbie to expert
+in a brotherhood.
+
+The Anarc Society stresses that each member look out for each member in
+every game, except when it's the weekly Society gaming night.  Though the Anarc
+society uses each and every game usable over the net, Rise Of The Triad (ROTT)
+is the groups official game.
+
+Each Wednesday the gaming clan will set up many ROTT Comm-Bat
+games over the specified Kali server.  Any non-member who tries to join is 
+seriously black-balled and will be hunted within the years to come.
+
+They play by a strict code, but being a member is more fun than any
+other gaming clan.
+
+
+For further information please see www.primenet.com/~tweed/anrc.htm
+
+                                       - Brian Carey
+
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+General Inquiries and all submissions can be sent to Karen Mizeri at
+(kmizeri@pris.bc.ca)
+Editing:
+        Karen Mizeri  (kmizeri@pris.bc.ca)
+             - John  "BJ"  Tomkins
+             - Anthony  Scalzitti 
+             - Jason Stover 
+             - David M. Girardot
+             - Jason Englisch
+Layout/Design:
+        Jenn Millington (jimjen@interlog.com) 
+             - Lawrence Marz  
+             - Steve Edwards 
+             - Meera Barry  
+HTML:
+        Pete Calvert (pcalvert@economics.adelaide.edu.au) 
+             - Mikko Eley 
+Graphics:
+        Kosala Ubayasekara (d96-kub@nada.kth.se)
+             - Aries J. Galindo
+
+Research: Andrew Henry (AHenry7261@aol.com)
+Writer's Assistant : Eugene Tillery (ewulf@dbtech.net)
+
+--------------------------------------------------------------------------------
+Publication Guidelines
+
+Articles:
+ - All articles must be submitted in ASCII.  Lines are 80 characters.
+ - Absolutely no foul language.
+ - Articles must be spell checked, and have an understandable format.
+ - Articles must meet basic grammar requirements.
+ - We accept articles in English only.
+ - ARTICLES MUST MEET ALL COPYRIGHT/TRADEMARK LAWS.  This is very, very
+   important.  The larger companies are starting to crack down.  IRPS cannot
+   afford to be held responsible for copyright/trademark breach.  Questionable
+   articles will be refused unless the author can prove they meet these laws.
+ - Original submissions only please.  We do not reprint.
+ - We reserve the right to not to publish everything we receive.
+ - We accept role playing aids, fiction, poetry, articles on issues effecting
+   the gaming world, reviews, and classified advertisements.
+ - Submission deadline is the 15th of the month.
+ - IRPS does not accept any material that could be deemed as pornographic.
+ - Please do not use < and > in characters in your writing.
+ - Do not use trademarked names in your writing.  If you must - credit them
+   appropriately.
+ - There is a size limit of 5000 words.  That is approximately ten pages.
+ - Clearly state which section of the magazine you are submitting to.  The
+   sections are: Role playing aids, Monthly Columns, Classifieds, and
+   Fiction.  If you want a monthly column you must request it.
+ - These guidelines may change from time to time, we reserve the right to add
+   and revise as we see fit.
+ 
+
+ Articles are submitted to (kmizeri@pris.bc.ca).  Any articles not 
+meeting these guidelines will be returned for revision.
+
+----------------------
+Graphics:
+ All submissions of graphics can be directed to Kosala Ubayasekara  at
+ (d96-kub@nada.kth.se).  
+
+ - Maximum filesize for each artwork submitted is 50K
+ - The artwork should be preferable already in .gif or .jpeg format. You
+   can send them in other formats also, if you have trouble converting
+   them. However all artwork included in the mag will be converted to .gif or
+  .jpeg format, if not already in that state. 
+ - Send copies of your work, not originals.
+ - Include a name for the artwork. Include also the artists name, and email
+   address if applicable.
+ - IRPS does not accept any material that is overly graphic or pornographic in
+   nature.
+ - We reserve the right not to publish all submissions.
+-------------------------------------------------------------------------------
+
+THE RPG TIMES is published as an information and entertainment service to
+members of the Internet Role Playing Society. Descriptions of, or references to,
+products or publications within this publication do not imply endorsement of
+that product or publication by IRPS.
+
+IRPS makes no warranty of any kind with respect to the subject matter included
+herein, the game systems listed herein, or the completeness or accuracy of this
+publication.  IRPS specifically disclaims all warranties, express, implied or
+otherwise, including without limitation, all warranties of merchantability and
+fitness for a particular system.
+
+IRPS acknowledges that all copyrights remain the sole property of the author.
+-------------------------------------------------------------------------------
+
+
+
+

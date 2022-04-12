@@ -1,0 +1,1363 @@
+
+
+                      NOEN VANLIGE SPØRSMÅL OG SVAR
+                          I TILKNYTNING TIL PGP
+
+                               Versjon 1.02
+                              14. mars 1997
+
+                       Samlet av Ståle Schumacher
+
+
+Dette er den offisielle FAQ'en fra konferansen Crypt/PGP på InfoLink BBS
+(nå nedlagt :-(). (FAQ er en forkortelse for Frequently Asked Questions og
+burde kanskje helst vært oversatt til OSS.) Her vil du finne svar på mange
+vanlige spørsmål og problemer som ofte dukker opp i forbindelse med PGP.
+En del av stoffet er skrevet spesielt med tanke på norske PGP-brukere, og
+denne FAQ'en kan derfor sees på som et supplement til den engelske
+PGP-FAQ'en fra nyhetsgruppen comp.security.pgp på Usenet.
+
+
+0. Før du begynner
+
+1. Generelt om PGP
+   1.1. Hva er PGP?
+   1.2. Hvorfor trenger vi PGP?
+   1.3. Hva er offentlig nøkkel kryptering?
+   1.4. Er PGP like godt egnet til all slags kryptering?
+   1.5. Hvordan fungerer PGP?
+   1.6. Hvor sikkert er PGP?
+   1.7. Hva er nyeste versjon av PGP?
+   1.8. Er PGP lov å bruke?
+   1.9. Hvor får jeg tak i PGP?
+
+2. Praktisk bruk av PGP
+   2.1. Hvordan kommer jeg i gang med PGP?
+   2.2. Hva er PGP-kommandoene for kryptering og dekryptering?
+   2.3. Hva er PGP-kommandoene for signering og verifisering?
+   2.4. Hvilke andre PGP-kommandoer finnes?
+   2.5. Hvordan bruker jeg PGP til e-mail?
+
+3. Nøkler og nøkkelhåndtering
+   3.1. Hva er en nøkkelring?
+   3.2. Hvordan får jeg tak i PGP-nøkler?
+   3.3. Hva menes med nøkkelhåndtering?
+   3.4. Hvordan vet jeg om en PGP-nøkkel er autentisk?
+   3.5. Hvordan fungerer en key server?
+
+4. Spesielt for Norge
+   4.1. Hva er riktig TZ-innstilling for Norge?
+   4.2. Hvordan får man norsk språk i PGP?
+   4.3. Finnes dokumentasjonen til PGP i norsk oversettelse?
+
+5. Noen vanlige problemer
+   5.1. Hvorfor får jeg 'Bad signature' på mine signerte meldinger?
+   5.2. Hvorfor får jeg ikke kompilert PGP?
+
+6. Hvor kan jeg få vite mer om PGP?
+
+7. Ordforklaringer
+
+
+Kommentarer, rettelser og tillegg sendes til konferansen Crypt/PGP på
+InfoLink BBS, eller direkte til Ståle Schumacher <stale@hypnotech.com>.
+
+
+                               --- ooo ---
+
+
+0. Før du begynner
+
+   Dersom du er en helt fersk PGP-bruker, har du sikkert dusinvis av
+   ubesvarte spørsmål omkring PGP. Start derfor med å lese dokumentasjonen
+   som følger med PGP (PGPDOC1.TXT og PGPDOC2.TXT). Her vil du finne mye
+   verdifull informasjon, og du vil forhåpentligvis unngå å gjøre en del
+   vanlige nybegynnerfeil. PGPDOC1.TXT bør være obligatorisk lesning for
+   alle PGP-brukere, mens PGPDOC2.TXT er for viderekomne og spesielt
+   interesserte. Dersom du fremdeles har ubesvarte spørsmål etter at du har
+   lest dokumentasjonen, da først er det på tide å ta en titt på denne
+   FAQ'en. Likevel er det ikke sikkert at du her vil finne svar på alle
+   dine spørsmål. Helt til slutt er det derfor tatt med en oversikt over
+   hvor du kan finne ytterligere informasjon og hvor du kan henvende deg
+   for å lære mer om PGP. Lykke til!
+
+
+1. Generelt om PGP
+
+   1.1. Hva er PGP?
+
+        PGP er en forkortelse for Pretty Good Privacy, og er navnet på et
+        krypteringsprogram som opprinnelig ble laget av amerikaneren Philip
+        Zimmermann. De senere versjonene av PGP inneholder imidlertid kode
+        skrevet av en rekke forskjellige bidragsytere fra både USA, Europa
+        og New Zealand. Man kan derfor trygt si at PGP er et internasjonalt
+        samarbeidsprosjekt, og et ganske unikt sådan. PGP har i løpet av
+        få år fått mange trofaste tilhengere over hele verden, og er på god
+        vei til å bli en slags global standard for kryptering av
+        elektronisk post og annen datakommunikasjon. Programmet finnes i
+        dag til både MS-DOS, Unix, VMS, OS/2, Amiga, Atari, Mac og
+        Archimedes, og gjøres stadig tilgjengelig for nye maskin-
+        plattformer. Kildekoden er også allment tilgjengelig, slik at alle
+        har mulighet til å sjekke at programmet ikke inneholder bakdører
+        eller alvorlige bugs, og slik at man kan gjøre endringer i koden
+        selv, dersom man måtte ønske det. PGP er freeware, det vil si at
+        du ikke trenger å betale noe for å bruke det, så lenge det dreier
+        seg om privat, ikke-kommersiell bruk.
+
+   1.2. Hvorfor trenger vi PGP?
+
+        Mange vil kanskje spørre seg hva som i det hele tatt er vitsen med
+        å kryptere sin elektroniske post. "Jeg har vel ikke noe å skjule,
+        jeg driver jo ikke med noe ulovlig", tenker du kanskje. Vel,
+        grunnen til at mange ønsker å kryptere sin e-post er akkurat den
+        samme som at de fleste foretrekker å legge brevene sine i en
+        konvolutt før de postlegger dem eller å lukke døren etter seg når
+        de går på do. Selv om man kanskje egentlig ikke har så mye å
+        skjule, så er det altså tanken om at enkelte ting skal og bør være
+        private som ligger bak. Enten det dreier seg om et kjærlighetsbrev,
+        litt vanlig 'sladder' eller et konfidensielt brev til en
+        forretningsforbindelse, så kan det hende at meldingen inneholder
+        informasjon som man ikke ønsker at andre skal få kjennskap til.
+        Eller hva om du f.eks. ønsker å sende kredittkortopplysninger til
+        et postordrefirma i utlandet uten at alle andre skal kunne snappe
+        opp kortnummeret ditt? Når man så tar i betraktning hvor enkelt det
+        er for uvedkommende (f.eks. en Sysop på en BBS) å lese ens private
+        e-mail, er det ikke rart at enkelte ønsker å beskytte seg. Slik
+        beskyttelse oppnår man lettest ved å kryptere alle private
+        meldinger, men de fleste krypteringsprogrammene vi har i dag er
+        dårlig egnet til slik e-mail kryptering. Det vil si: nå finnes det
+        et program som er ideelt til akkurat dette bruk, og dette
+        programmet er PGP.
+
+   1.3. Hva er offentlig nøkkel-kryptering?
+
+        Det som skiller PGP fra de fleste andre krypteringssystemer, er at
+        den benytter seg av en metode som kalles offentlig nøkkel
+        kryptering (public key encryption). Problemet med vanlig,
+        konvensjonell kryptering (også kalt symmetrisk kryptografi) er at
+        man kun opererer med én krypteringsnøkkel, og det er denne samme
+        nøkkelen som brukes både til kryptering og til dekryptering. Dette
+        innebærer at før man kan begynne å sende krypterte meldinger til
+        hverandre, må man sørge for at både sender og mottager har hver sin
+        kopi av den samme nøkkelen. Nøkkelen må altså sendes fra den ene
+        parten til den andre uten at noen uvedkommende får tak i den. (En
+        annen mulighet er selvfølgelig å overlevere den personlig, men
+        dette kan være vanskelig dersom du er i Norge og den andre parten
+        bor i New Zealand.) Dette er ikke mulig å gjøre uten at man har en
+        helt sikker forbindelse (en telefonlinje, et nettverk etc.) som
+        ingen andre har tilgang til og som er umulig å avlytte. Noen slik
+        sikkerhet kan man ikke oppnå verken mot en BBS (der noen kan
+        avlytte telefonlinjen eller Sysop kan lese privat post), eller mot
+        et nettverk (der informasjonen går gjennom mange forskjellige
+        maskiner og derfor kan tappes på flere punkter før den når
+        mottageren). Og dersom man virkelig klarer å opprette en slik
+        sikker forbindelse, hvem trenger da kryptering? Konklusjonen blir
+        derfor at konvensjonell kryptering er dårlig egnet til å beskytte
+        elektronisk post, fordi den forutsetter at nøklene må overføres
+        gjennom en sikker kanal før man kan begynne meldingsutveklsingen.
+
+        Offentlig nøkkel-kryptering derimot, benytter seg ikke av én, men
+        av to nøkler, en for å kryptere meldingene med og en for å
+        dekryptere dem. Disse to nøklene er matematisk relatert til
+        hverandre, men det er likevel praktisk umulig for en som bare har
+        den ene nøkkelen å regne seg frem til den andre. Man kan derfor
+        sørge for å holde den ene nøkkelen hemmelig, mens den andre gjøres
+        offentlig for alle og enhver. Dersom noen ønsker å sende en
+        kryptert melding til deg, kan de altså bruke din offentlige nøkkel
+        til å kryptere med, og det er da bare du som kan dekryptere
+        meldingen, fordi du er den eneste som har den hemmelige nøkkelen.
+        Ikke engang den som skrev meldingen vil kunne dekryptere den!
+
+        Systemet med to nøkler gjør det også mulig å 'signere' en melding,
+        på samme måte som man signerer et brev, slik at mottageren kan se
+        at avsenderen virkelig er den har gir seg ut for å være. Man bruker
+        da sin hemmelige nøkkel til å 'kryptere' meldingen med, og alle som
+        har den korresponderende offentlige nøkkelen kan sjekke om
+        signaturen er gyldig. Dersom noen har tuklet med meldingen på
+        veien, vil signaturen bli ugyldig, og mottageren vil skjønne at det
+        er noe muffens. (Egentlig er det ikke selve meldingen man krypterer
+        når man signerer, men en 128-bits 'sjekksum' som representerer
+        innholdet i meldingen.)
+
+   1.4. Er PGP like godt egnet til all slags kryptering?
+
+        Nei. PGP og offentlig nøkkel kryptering er som sagt først og fremst
+        et system for beskyttelse av e-mail og filer som utveksles _mellom_
+        maskiner, det være seg på BBSer, i nettverk eller lignende. Men
+        ofte har man også behov for å kryptere data på sin egen maskin,
+        slik at ikke familiemedlemmer, jobbkolleger eller andre som har
+        tilgang til maskinen skal kunne lese private filer. Selvfølgelig
+        kan man bruke PGP også til dette formål, men her finnes det andre
+        programmer som er bedre egnet, enklere i bruk og enda sikrere enn
+        PGP. Et slikt program er SFS (Secure File System), skrevet av Peter
+        Gutmann, en av medforfatterne av PGP. Versjon 1.10 av SFS ligger
+        som SFS110.ZIP på mange av de største BBSene her i landet, og kan
+        også hentes med FTP fra garbo.uwasa.fi/pc/crypt/sfs110.zip.
+
+   1.5. Hvordan fungerer PGP?
+
+        PGP benytter seg faktisk av to forskjellige krypteringsalgoritmer,
+        kalt IDEA og RSA. IDEA er en konvensjonell krypteringsalgoritme
+        (som altså bruker kun én nøkkel), mens RSA benytter systemet med
+        to nøkler (offentlig nøkkel-kryptering). Grunnen til at PGP ikke
+        bruker bare én algoritme, er at RSA er mye tregere enn IDEA, og det
+        ville tatt uforholdsmessig lang tid med bare RSA. (Versjon 1.0 av
+        PGP brukte faktisk bare RSA.) Løsningen er like enkel som genial:
+        i stedet for å kryptere meldingen med den offentlige RSA-nøkkelen,
+        så vil PGP kryptere den med en helt tilfeldig IDEA-nøkkel. Denne
+        tilfeldige 'engangsnøkkelen' vil deretter bli kryptert med den
+        offentlige RSA-nøkkelen. Det er altså snakk om en to-trinns
+        prosess: den ene nøkkelen beskyttes av den andre, omtrent som om
+        man skulle lagt kombinasjonen til safen sin i et låsbart skrin. Når
+        meldingen skal dekrypteres, må prosessen følgelig reverserers: PGP
+        må først dekryptere ved hjelp av brukerens hemmelige RSA-nøkkel,
+        og den IDEA-nøkkelen som da fremkommer kan igjen benyttes til å
+        dekryptere selve meldingen. Alt dette foregår selvfølgelig
+        automatisk, uten at brukeren trenger å bry seg med hva som skjer
+        bak kulissene.
+
+        Noen vil kanskje tro at systemet med to algoritmer vil gjøre PGP
+        mer sårbart og mindre sikkert, men faktum er at denne løsningen har
+        flere fordeler enn ulemper. Som en ekstra 'bonus' blir det for
+        eksempel meget enkelt å kryptere en melding til flere forskjellige
+        personer på én gang, fordi man altså ikke trenger å kryptere hele
+        meldingen flere ganger, bare IDEA-nøkkelen.
+
+        Men hvordan er det så mulig at man har to nøkler - en til
+        kryptering og en til dekryptering - uten at man klarer å regne seg
+        frem til den ene fra den andre? Svaret ligger i RSA-algoritmen som
+        ble oppfunnet i 1978 av Rivest, Shamir og Adleman (derav navnet),
+        og som altså er den matematiske implementasjonen av prinsippene for
+        offentlig nøkkel kryptering. En kort forklaring er på sin plass:
+
+        Det som skal krypteres (for PGPs vedkommende: en IDEA-nøkkel)
+        representeres som et positivt, helt tall i størrelsesorden 2^512,
+        kalt K (=klartekst).
+
+        RSA-nøkkelparet består av av fire forskjellige tall:
+
+        * p og q, som er to store primtall (typisk 2^512 eller deromkring)
+        * d og e, som også er store, positive tall slik at (de-1) er
+          delelig med (p-1)(q-1)
+
+        Vi kan da definere følgende operasjoner:
+
+        Kryptering  : C = K^e mod pq
+        Dekryptering: K = C^d mod pq
+
+        der C er den krypterte teksten (=chifferteksten) som fremkommer ved
+        kryptering av K. (Prøv selv og se at det stemmer!)
+
+        Dersom man nå offentliggjør verdien av e og pq (den offentlige
+        nøkkelen), så kan hvem som helst bruke disse til å kryptere en
+        melding med. For å dekryptere den samme meldingen, trenger man
+        imidlertid også å vite verdien av d, men denne kan man ikke regne
+        seg frem til uten videre. Bare den som har den korresponderende
+        hemmelige nøkkelen (bestående av d og pq) er i stand til å
+        dekryptere meldingen.
+
+   1.6. Hvor sikkert er PGP?
+
+        Siden PGP benytter seg av to forskjellige algoritmer, IDEA og RSA,
+        er det altså to mulige måter å knekke PGP på: enten ved å knekke
+        IDEA, eller ved å knekke RSA. Det er videre to hovedmåter å knekke
+        hver av disse algoritmene på:
+
+        1. Ved hjelp av kryptoanalyse, dvs. å se om man klarer å finne en
+           sammenheng mellom klartekst og chiffertekst.
+
+        2. Ved et såkalt 'brute force' angrep der man prøver alle mulige
+           nøkler som er mulige.
+
+        Ingen av disse metodene har vist seg å føre frem: for det første
+        er de matematiske transformasjonene som finner sted ved kryptering
+        med IDEA og RSA alt for komplekse til at man klarer å få noen
+        verdifull informasjon ut av det, og for det andre er antall mulige
+        nøkler alt for stort til at det går an å prøve alle kombinasjoner.
+        (Det er f.eks. 2^128 mulige IDEA-nøkler, og med dagens og
+        morgendagens maskinvare vil det ta lenger tid enn universets
+        levealder å prøve alle kombinasjonene.)
+
+        Imidlertid fins det en annen måte å knekke RSA på: dersom man
+        klarer å faktorisere tallet pq (som altså finnes i den offentlige
+        nøkkelen sammen med den offentlige eksponenten e) til de to
+        komponentene p og q, så kan man regne ut verdien av den hemmelige
+        eksponenten d. Problemet er imidlertid at pq er et meget stort
+        tall, vanligvis 512-2048 bits, og de algoritmene vi har i dag er
+        alt for trege til å klare dette innen rimelig tid, selv på de
+        største og kraftigste maskinene vi har til rådighet. For en tid
+        siden var det mye oppstyr rundt et prosjekt der man klarte å
+        faktorisere 'RSA-129', en 129-tegns (=429 bits) nøkkel. Dette var
+        et gigantisk samarbeidsprosjekt som ble utført på stormaskiner over
+        hele verden og som ble koordinert gjennom Internettet. Det tok 8
+        måneder å gjennomføre, og til slutt klarte man altså å dekryptere
+        en melding kryptert med den offentlige nøkkelen. Det er imidlertid
+        viktig å være klar over at det her kun var snakk om én nøkkel som
+        ble knekket. Dersom noen lager en ny 429-bits nøkkel, vil den altså
+        være sikker i minst 8 måneder til. Øker man nøkkelstørrelsen til
+        1024 bits, vil det ta flere tiår før noen klarer å faktorisere den.
+
+        Men når man diskuterer sikkerheten til et program, er det ikke nok
+        bare å se på teorien bak, man må også se på selve implementasjonen
+        av de ulike algoritmene og prinsippene. Dersom programmet
+        inneholder forenklinger eller feil, så kan dette svekke sikkerheten
+        betraktelig. Heldigvis har kildekoden til PGP vært allment
+        tilgjengelig i flere år nå, slik at de aller fleste bugs og
+        risikomomenter er luket ut. Likevel hender det at man oppdager feil
+        i kildekoden. For eksempel er det en kjent bug i PGP 2.6 som gjør
+        at RSA-nøklene ikke blir fullt så tilfeldige som man kunne ønske.
+        Denne feilen er imidlertid lett å rette opp når man har kildekoden,
+        og det er heller ikke helt klarlagt hvor mye den har å si for
+        sikkerheten.
+
+        Konklusjonen på spørsmålet 'Hvor sikkert er PGP' er likevel klar:
+        PGP er et av de aller sikreste krypteringsprogrammene vi har i dag.
+        Til tross for at både algoritmene som benyttes og også kildekoden
+        til programmet er så godt kjent og har vært nøye analysert over
+        flere år, så er det ingen som til dags dato har klart å komme opp
+        med en metode som klarer å knekke en PGP-melding innen rimelig tid,
+        i hvert fall ikke dersom man passer på å bruke store nok nøkler.
+        Den største risikoen ved å bruke PGP ligger derfor ikke i
+        programmet selv, men hos brukeren av programmet. Dersom brukeren
+        er uforsiktig eller skjødesløs, for eksempel ved å velge en for
+        lett passordfrase til å beskytte sin hemmelige nøkkel (se punkt
+        2.1), eller ved å bruke nøkler som ikke er fullstendig sertifisert
+        (punkt 3.3), så hjelper det lite om PGP er umulig å knekke.
+
+   1.7. Hva er nyeste versjon av PGP?
+
+        Inntil for omkring et år siden var det lett å vite hvilken versjon
+        av PGP man skulle bruke. Det fantes i grunnen bare to alternativer:
+        versjon 2.3a som var en freeware-versjon som alle kunne bruke, og
+        versjon 2.4 som var en kommersiell versjon som kun var til salgs
+        i USA, og som kun var ment for amerikanere som ønsket å benytte PGP
+        i forretningsmessig sammenheng. Men i mai 1994 ble alt plutselig
+        forandret, da noen amerikanere fant ut at v2.3a ikke var bra nok
+        til bruk i USA, på grunn av en del kompliserte patent- og
+        copyright-regler 'over there'. De laget derfor en ny versjon, v2.6,
+        som ikke var 100% bakoverkompatibel med tidligere versjoner (fordi
+        de ønsket at alle skulle gå over til den nye versjonen). Resultatet
+        var at det dukket opp en mengde nye versjoner av PGP som skulle
+        rette på de nylig oppståtte inkompatibilitetsproblemene. Plutselig
+        hadde vi ikke lenger to versjoner, men ti. Ikke rart at det har
+        oppstått en del forvirring rundt hvilken versjon som er den
+        'nyeste' - det er nemlig ikke slik at den med høyest versjonsnummer
+        nødvendigvis er den beste.
+
+        Her følger derfor en kort oversikt over de versjonene av PGP som
+        er mest utbredt per dags dato:
+
+        2.3a           Dette er den 'klassiske' versjonen av PGP som var
+                       den som nær sagt alle brukte inntil for et år
+                       siden. PGP 2.3a går fortsatt an å bruke, men du vil
+                       normalt ikke kunne lese meldinger generert med PGP
+                       2.6, PGP 2.6.1 eller PGP 2.6.2 (disse tre vil
+                       heretter bli omtalt med fellesbetegnelsen MIT-PGP).
+                       PGP 2.3a inneholder noen få bugs, men ingen av dem
+                       er særlig alvorlige.
+
+        2.3a (patchet) Det finnes en patch som forandrer 1 - en - byte i
+                       PGP.EXE v2.3a slik at denne kan lese meldinger
+                       generert med MIT-PGP. Cluet er å forandre verdien
+                       i offset-posisjon C287 (hex) fra 08 til 06. (Dette
+                       fungerer bare på den originale PGP.EXE for MS-DOS,
+                       og altså ikke dersom du har kompilert PGP på
+                       egenhånd.) På InfoLink BBS ligger et program kalt
+                       PATCHPGP.ZIP som utfører denne patchen.
+
+        2.3b og 2.3c   Disse versjonene fungerer omtrent som den patchede
+                       utgaven av 2.3a: de er fremdeles funksjonelt
+                       identiske med 2.3a, men kan lese meldinger generert
+                       med MIT-PGP. Dersom du har kildekoden til PGP 2.3a,
+                       kan du lett lage deg en egen 2.3d eller 2.3e om du
+                       ønsker, det er bare å forandre på noen få linjer
+                       før du kompilerer.
+
+        2.4            Dette er en amerikansk, kommersiell versjon fra
+                       firmaet ViaCrypt, og har de samme begrensingene som
+                       2.3a. Den er ikke aktuell i Norge.
+
+        2.5            Dette er en beta-versjon av 2.6, og inneholder en
+                       del bugs. Praktisk talt ingen bruker denne
+                       versjonen lenger.
+
+        2.6            Dette var den nye, amerikanske versjonen av PGP som
+                       startet 'versjons-kappløpet'. PGP 2.6 ble utviklet
+                       av MIT (som oppfant RSA) med tillatelse fra Philip
+                       Zimmermann. I motsetning til hva enkelte rykter vil
+                       ha det til, inneholder den ingen bakdører og
+                       kildekoden er dessuten allment tilgjengelig.
+                       Følgende er likevel verdt å merke seg:
+
+                       * PGP 2.6 bruker et spesielt krypteringsbibliotek
+                         kalt RSAREF i stedet for de originale RSA-
+                         rutinene fra 2.3a, dette for å unngå
+                         patentproblemer i USA. RSAREF-rutinene er
+                         vanligvis tregere enn rutinene i 2.3a, og de
+                         støtter heller ikke signaturformatet som ble
+                         brukt i PGP 2.2 og tidligere. Det betyr at dersom
+                         du har nøkler som er signert med tidligere
+                         versjoner av PGP enn 2.3a, så vil 2.6 ikke kunne
+                         lese disse signaturene.
+
+                       * PGP 2.6 har en øvre begrensning på 1024 bits i
+                         nøkkelstørrelsen. Nøkler større enn dette kan
+                         ikke brukes med PGP 2.6.
+
+                       * PGP 2.6 vil normalt generere meldinger som ikke
+                         kan leses med den originale 2.3a. Nøkler generert
+                         med PGP 2.6 kan heller ikke brukes med 2.3a.
+
+                       * PGP 2.6 inneholder en liten bug som gjør at RSA-
+                         nøklene ikke blir fullt så tilfeldige som de
+                         burde. Hva dette har å si for sikkerheten, er
+                         imidlertid ikke så lett å si. Litt verre er det
+                         med en annen bug som gjør at nøkkelparet ditt
+                         blir slettet(!) dersom environment-variabelen
+                         PGPPASS er satt samtidig som du legger til
+                         bruker-ID'er uten samtidig å endre på
+                         passordfrasen din.
+
+        2.6a           Dette er en uoffisiell versjon som retter opp de
+                       mest alvorlige bug'ene i PGP 2.6.
+
+        2.6.1          Dette er den offisielle bug-fiks'en fra MIT som
+                       retter opp de viktigste feilene i PGP 2.6. PGP
+                       2.6.1 godtar også nøkkelstørrelser opp til 1280
+                       bits (skjønt dokumentasjonen feilaktig påstår at
+                       den klarer 2048 bits). Den kan imidlertid bare
+                       generere nøkler opp til 1024 bits.
+
+        2.6.2          Dette er den nyeste, offisielle versjonen fra MIT.
+                       Den retter opp en del bugs i PGP 2.6.1, og 2048-
+                       bits nøkler er nå fullstendig implementert. I
+                       likhet med PGP 2.6 og 2.6.1 bruker denne versjonen
+                       RSAREF-biblioteket, og den genererer meldinger og
+                       nøkler som ikke kan leses av PGP 2.3a.
+
+        2.6ui          Dette er en uoffisiell, internasjonal versjon som
+                       ligner mye på 2.6, derav navnet. PGP 2.6ui benytter
+                       ikke RSAREF, og har heller ingen av de tåpelige
+                       begrensningene i MIT-PGP. Det er imildertid viktig
+                       å merke seg at 2.6ui er basert på kildekoden til
+                       2.3a og ikke 2.6-serien. Dette innebærer at PGP
+                       2.6ui mangler en del av de nye funksjonene og bug-
+                       fiksene som finnes i de "ekte" 2.6-versjonene.
+
+        2.6n           Dette er en egen norsk utgave av PGP 2.6ui som
+                       tillater nøkkelstørrelser helt opp til 4096 bits.
+                       Vær imidlertid oppmerksom på at ingen andre PGP-
+                       versjoner enn 2.6n kan håndtere så store nøkler, og
+                       at signering/dekryptering vanligvis vil ta flere
+                       minutter med en 4096-bits nøkkel. Det ser dessuten
+                       ut til at det går mot at den nye internasjonale
+                       standarden vil bli en maksimumsstørrelse på 2048
+                       bits, og det er ingen ting som tyder på at det
+                       virkelig er behov for nøkler som er større enn
+                       dette. PGP 2.6n er heller ingen "ekte" 2.6-versjon,
+                       siden den er basert på 2.6ui/2.3a.
+
+        2.6.i          Dette er en internasjonal utgave av PGP 2.6.1 som
+                       fjerner alle de tåpelige begrensingene som MIT har
+                       lagt inn for amerikanske brukere.
+
+        2.6.2i         Dette er en nyere versjon av 2.6.i.
+
+        2.6.3i         Dette er den nyeste, internasjonale versjonen av
+                       PGP. Den kan sees på som en bug-fiks for PGP 2.6.2i.
+                       Legg spesielt merke til at:
+
+                       * PGP 2.6.3i er en "ekte" 2.6-versjon, fordi den
+                         bygger på kildekoden til 2.6.2 og ikke 2.3a. Den
+                         inneholder dermed en mengde bug-fikser og nye
+                         funksjoner som ikke finnes i 2.6ui og 2.6n (som
+                         f.eks. de nye COMMENT, PUBRING, SECRING og
+                         RANDSEED-opsjonene i CONFIG.TXT).
+
+                       * PGP 2.6.3i benytter ikke RSAREF, men derimot de
+                         raskere RSA-rutinene fra 2.3a. 2.6.3i er dessuten
+                         i stand til å lese signaturer i det gamle 2.2-
+                         formatet, noe MIT-PGP ikke kan.
+
+                       * PGP 2.6.3i kan lese og skrive meldinger i både
+                         det nye og det gamle formatet. Den er dermed 100%
+                         kompatibel med alle andre PGP 2.x-versjoner.
+
+                       * PGP 2.6.3i kan håndtere nøkler opp til 2048 bits.
+
+                       Konklusjonen er derfor klar: dette er den mest
+                       fleksible versjonen av PGP som finnes i dag. Vi
+                       trenger IKKE MIT-PGP eller PGP 2.6ui i Norge når vi
+                       har 2.6.3i.
+
+        2.7            Dette er en kommersiell versjon fra ViaCrypt som
+                       retter på inkompatibilitetsproblemene mellom 2.4 og
+                       MIT-PGP. PGP 2.7 er uaktuell for norske brukere.
+
+        2.7.1          Dette er ViaCrypts bug-fiks for versjon 2.7, som
+                       blant annet tillater nøkler opp til 2048 bits.
+                       Uaktuell i Norge.
+
+        2.7b           Denne versjonen er funksjonelt identisk med den
+                       patchede versjonen av 2.3a. Versjonsnummeret er
+                       derfor litt uheldig valgt (og ble nok gjort med et
+                       lite glimt i øyet). b'en i 2.7b står forøvrig for
+                       Bangkok, siden det var en BBS i Bangkok som laget
+                       denne høyst uoffisielle versjonen av PGP.
+
+        De versjonene som er listet opp her er de aller vanligste, og de
+        som i hovedsak brukes under Unix, VMS, MS-DOS, OS/2, Amiga, Atari
+        og Macintosh.
+
+        Hvilken PGP-versjon skal så en stakkars nordmann bruke i dette
+        kaoset av utgaver og varianter? Vel, det er altså fremdeles mulig
+        å benytte den 'gode gamle' 2.3a, men du kan støte på problemer
+        dersom du korresponderer med en amerikaner som bruker MIT-PGP. Skal
+        du først anskaffe deg en ny PGP-versjon, så er utvilsomt 2.6.3i det
+        beste valget. Da vil du garantert ikke støte på
+        kompatibilitetsproblemer, og det følger også med norske språkfiler
+        i standarddistribusjonen. Versjonene 2.6ui og 2.6n er et annet
+        alternativ, men man må nok se i øynene at de representerer en
+        utdøende gren av PGP-versjoner.
+
+   1.8. Er PGP lov å bruke?
+
+        Det har vært mye snakk om at PGP er ulovlig å bruke. For å gjøre
+        det klart med en gang: PGP er fullt lovlig å bruke i Norge, i hvert
+        fall så lenge det dreier seg om privat bruk, altså bruk i ikke-
+        kommersielt henseende. Grunnen til at noen hevder at PGP er
+        ulovlig, skyldes nok først og fremst at:
+
+        * RSA-algoritmen som brukes i PGP er patentert av et amerikansk
+          firma som heter Public Key Partners (PKP). Dette patentet er
+          imidlertid kun gyldig i USA, og gjelder således ikke i Norge.
+
+        * Rettighetene til IDEA-algoritmen eies av et sveitsisk firma ved
+          navn Ascom Systec AG. Ascom Systec har imidlertid gitt tillatelse
+          til å bruke IDEA i PGP til privat, ikke-kommersielt bruk. Hva som
+          ligger i 'ikke-kommersielt' er litt usikkert, men dersom du er
+          i tvil om din bruk av PGP kan komme i konflikt med IDEA-patentet,
+          så ta kontakt med Ascom Systec direkte (email: idea@ascom.ch) for
+          å få en avklaring og en eventuell lisens.
+
+        * PGP er ulovlig å eksportere ut fra USA. Amerikanske myndigheter
+          klassifiserer nemlig kryptografi-produkter i samme kategori som
+          våpen, og eksport av PGP fra USA er derfor et brudd på ITAR-
+          reglene og følgelig straffbart. Men dersom programmet først er
+          (ulovlig) eksportert, slik som har vært tilfelle med MIT-PGP, så
+          er det ikke noe i veien for å _bruke_ et slikt program.
+
+        * PGP versjon 2.4, 2.7 og 2.7.1 fra ViaCrypt er kommersielle
+          programmer, og spredning av disse versjonene er derfor å regne
+          som piratkopiering. Dette er straffbart i Norge, uansett om RSA-
+          patentet er gyldig eller ikke. (Det er imidlertid liten sjanse
+          for at du vil komme over piratkopier av ViaCrypt PGP i Norge.)
+
+        Du gjør altså ikke noe galt om du henter ned en versjon av PGP i
+        Norge og bruker den her i landet. Du vil nok heller ikke bli
+        utlevert til USA av norske myndigheter dersom du henter PGP på en
+        amerikansk BBS eller FTP-site, men hva er vitsen? PGP finnes på
+        de fleste større BBSer i Norge, og kan dessuten hentes med FTP
+        fra et utall steder over hele verden.
+
+        En annen ting man også skal være klar over når man diskuterer
+        'lovligheten' av PGP, er at bruk av kryptering ikke er
+        ønsket/tillatt på enkelte BBSer og nettverk, fordi de
+        systemansvarlige (føler at de) står ansvarlige for meldingene som
+        blir utveklset gjennom nettet. Dersom folk begynner å sende PGP-
+        meldinger til hverandre, har de ansvarlige ikke lenger mulighet til
+        å ta stikkprøver for å se om det foregår ulovligheter. For eksempel
+        er all bruk av kryptering på RIME forbudt, men det er tillatt å
+        utveksle PGP-nøkler. Dersom din SysOp eller system-administrator
+        ikke tillater bruk av PGP på sitt system, så må du respektere
+        dette.
+
+   1.9. Hvor får jeg tak i PGP?
+
+        PGP kan hentes fra de fleste større BBSer i Norge, og dessuten via
+        FTP fra mange steder over hele verden. Filnavnene kan variere noe,
+        men disse er de vanligste:
+
+        PGP263I.ZIP   - PGP v2.6.3i (ferdigkompilert for MS-DOS)
+        PGP263IS.ZIP  - PGP v2.6.3i (kildekode, passer de fleste maskiner)
+
+        Av norske BBSer som har PGP, kan nevnes Mike's, InfoLink m.fl. Her
+        er noen aktuelle FTP-adresser for dem som har Internet-tilknytning:
+
+          ftp.ifi.uio.no/pub/pgp/
+          ftp.ox.ac.uk/pub/crypto/pgp/
+          ftp.dsi.unimi.it/pub/security/crypt/PGP/
+
+        Nyeste internasjonale versjon av PGP kan alltid hentes via WWW fra:
+
+          http://www.ifi.uio.no/pgp/
+
+
+2. Praktisk bruk av PGP
+
+   2.1. Hvordan kommer jeg i gang med PGP?
+
+        Her følger en punktvis oversikt over hva du må gjøre for å
+        installere PGP på maskinen din. Det er imidlertid viktig at du også
+        leser dokumentasjonen som følger med PGP, slik at du forstår
+        prinsippene bak offentlig nøkkel-kryptering før du setter i gang.
+
+        1. Pakk opp distribusjonsarkivet (f.eks. PGP263I.ZIP) i en egen
+           katalog (f.eks. C:\PGP).
+
+        2. Sett environment-variablene PGPPATH og TZ i AUTOEXEC.BAT.
+           PGPPATH er navnet på PGP-katalogen din, mens TZ angir 'time
+           zone', dvs. hvilken tidssone på jordkloden du befinner deg i.
+           For Norge skal TZ settes til CET-1DST. Du vil da få riktig GMT
+           tidsangivelse på meldingene dine, automatisk justert for
+           sommertid i sommerhalvåret (med unntak av en kort periode om
+           våren/høsten, se punkt 4.1). Ved hjelp av en teksteditor legger
+           du derfor inn følgende linjer i din AUTOEXEC.BAT-fil:
+
+           SET PGPPATH=C:\PGP
+           SET TZ=CET-1DST
+
+           Ønsker du å kunne kjøre PGP fra en hvilken som helst katalog,
+           må du også legge inn C:\PGP i PATH-variabelen:
+
+           SET PATH=C:\PGP;%PATH%
+
+        3. Lag ditt eget PGP nøkkelpar. Dette gjøres ved å utføre
+           kommandoen 'pgp -kg'. Når du får spørsmål om størrelsen på
+           nøkkelen, velger du 1024 bits. Dette gir god sikkerhet og er
+           forholdsvis raskt ved kryptering/dekryptering, samt at det er
+           kompatibelt med alle eksisterende versjoner av PGP. Du må også
+           oppgi en bruker-ID for nøkkelen din. Den anbefalte formen for
+           denne er navnet ditt, etterfulgt av Internet-adressen din: "Ola
+           Nordmann <ola@nordmann.no>". Har du ikke egen Internet-adresse,
+           kan du bruke telefonnummeret ditt eller fødselsdatoen din, eller
+           du bruker rett og slett bare navnet. Til slutt må du oppgi en
+           passordsekvens for å beskytte din hemmelige nøkkel.
+           Passordsekvensen, som bør være en blanding av både bokstaver,
+           mellomrom og andre tegn, må du oppgi hver gang du vil bruke din
+           hemmelige nøkkel. Dette er for å hindre at uvedkommende skal
+           kunne bruke nøkkelen din, dersom den skulle bli stjålet eller
+           på annen måte komme på avveie. Uten dette passordet er det helt
+           umulig å bruke din hemmelige nøkkel, så du bør velge et passord
+           som du klarer å huske, samtidig som det er umulig å gjette for
+           uvedkommende. Det sikreste er å ta utgangspunkt i en enkel
+           setning eller en rekkefølge av ord som du klarer å huske (gjerne
+           på flere språk!) og så bytte ut noen bokstaver, feilstave et
+           ord, putte inn et par spesialtegn o.l. Det du i allefall IKKE
+           må gjøre, er å bruke navnet på bikkja, telefonnummeret ditt, et
+           Ibsen-sitat eller noe annet som er mulig for en smart person
+           eller et program med en stor ordbok å finne frem til.
+
+        4. Nå er du i prinsippet klar til å begynne å bruke PGP, men to
+           ting gjenstår:
+
+           a. Du må gi din offentlige nøkkel til andre personer, slik at
+              de kan kryptere meldinger til deg. Dette gjør du ved å
+              utføre kommandoen 'pgp -kxa "dittnavn" key'. Du vil da få
+              opprettet en fil ved navn KEY.ASC som inneholder din
+              offentlige nøkkel. Denne filen kan du legge inn i meldinger
+              du skriver til andre, eller ta den med i ditt brukerresymé
+              slik at den blir tilgjengelig for alle som ønsker å sende
+              deg kryptert post.
+
+           b. Du må få tak i andre personers offentlige nøkler for å kunne
+              skrive krypterte meldinger til dem. Dersom du vil ha tak i
+              nøkkelen til en bestemt person, ta en titt i vedkommendes
+              resymé, skriv en direkte henvendelse eller prøv å poste til
+              en key server. Se punkt 3.2 for nærmere info om hvordan du
+              kan få tak i offentlige PGP-nøkler.
+
+        5. Ta deg også tid til å lese dokumentasjonen som følger med PGP.
+           Den kan virke noe tung til å begynne med, men det er absolutt
+           nødvendig å skjønne prinsippene bak PGP før du setter igang.
+           Hvis ikke vil du risikere å sette både din egen og andres
+           sikkerhet i fare, og PGP vil bare bli en falsk trygghet. Ta
+           gjerne en utskrift av manualen, skru av PC'en en halvtimes tid,
+           lag deg en kopp kaffe og sett deg ned i ro og mak. Sannsynligvis
+           vil du finne at det er både interessant og spennende lesning.
+           PGPDOC1.TXT bør være obligatorisk for alle brukere av PGP, mens
+           PGPDOC2.TXT er mest for viderekomne.
+
+   2.2. Hva er PGP-kommandoene for kryptering og dekryptering?
+
+        For å kryptere en melding brukes kommandoen:
+
+          pgp -ea melding.txt "mottager"
+
+        der MELDING.TXT er filen som skal krypteres og "mottager" er navnet
+        på mottageren. (Dette krever at du allerede har nøkkelen til
+        mottageren i nøkkelringen din, se punkt 3.1 og 3.2 for en
+        forklaring om nøkkelringer og hvordan du får tak i nøkler.) Dersom
+        du akkurat har installert PGP, så har du sannsynligvis ingen andre
+        nøkler enn din egen. Du kan jo da prøve å kryptere en liten test-
+        melding til deg selv, eller du kan bruke kommandoen 'pgp -kg' som
+        beskrevet i punkt 2.1 til å generere nøkkelpar for noen fiktive
+        personer, slik at du kan 'sende' krypterte meldinger frem og
+        tilbake på din egen computer til du skjønner hvordan det hele
+        fungerer. (Pass i såfall på å slette disse fiktive nøklene igjen
+        etterpå!)
+
+        Ved å utføre kommandoen som beskrevet over, vil du få laget en fil
+        med navnet MELDING.ASC. Dette er den krypterte meldingen, og hvis
+        du tar en titt på den, så kan du legge merke til følgende:
+
+        1. Úverst er det en header som forteller at dette er en PGP-melding
+           ('-----BEGIN PGP MESSAGE-----').
+
+        2. Hver linje er ikke lenger enn 64 tegn.
+
+        3. Tegnene som benyttes i meldingen er bare store og små bokstaver
+           i det engelske alfabetet, sifrene 0-9, samt tegnene '+', '/' og
+           '='.
+
+        Filer på denne formen er det vi på godt norsk kaller ascii-pansrede
+        filer (fra engelsk 'ascii armored'). De har den fordelen at de ikke
+        inneholder noen spesialtegn (som f.eks. de norske bokstavene 'æ',
+        'ø' og 'å'), og de kan dermed trygt sendes gjennom e-mail uten at
+        det er fare for at de blir ødelagt på veien.
+
+        For å dekryptere filen MELDING.ASC, skriver du rett og slett:
+
+          pgp melding.asc
+
+        PGP vil da dekryptere meldingen og lagre den på en fil som heter
+        bare MELDING. Sammenligner du den med den opprinnelige filen
+        MELDING.TXT, så bør du finne at de er identiske.
+
+   2.3. Hva er PGP-kommandoene for signering og verifisering?
+
+        PGP kan ikke bare brukes til å kryptere med, det er også mulig å
+        signere filer for at mottageren skal kunne se hvem avsenderen er,
+        og verifisere at ingen uvedkommende har endret på innholdet av
+        meldingen. For å signere filen MELDING.TXT, brukes kommandoen:
+
+          pgp -sa melding.txt
+
+        Her trenger du altså ikke å oppgi hvem mottageren er, siden det er
+        din egen, hemmelige nøkkel som brukes til å signere med. Du vil
+        også bli bedt om å skrive inn din passordfrase for å få tilgang til
+        den hemmelige nøkkelen.
+
+        Når du har utført denne kommandoen vil PGP gi deg en fil med navnet
+        MELDING.ASC som ligner på den som ble laget i punkt 2.2. Denne
+        filen er imidlertid IKKE kryptert, det bare ser slik ut på grunn
+        av ascii-panseret. Hvem som helst som har PGP vil kunne lese denne
+        meldingen (men bare de som har din offentlige nøkkel vil kunne
+        verifisere signaturen din). Dersom du ønsker å signere en melding,
+        og samtidig gjøre den lesbar slik at også dem uten PGP kan se på
+        innholdet, bruker du i stedet kommandoen:
+
+          pgp -sta +clearsig=on melding.txt
+
+        Dette kalles klartekstsignering, og er bare mulig å gjøre på
+        tekstfiler (t'en står for 'text'), altså ikke på program- og
+        binærfiler. (Med de nyeste PGP-versjonene kan dessuten
+        '+clearsig=on' sløyfes, siden dette nå er standard.) Fordi
+        meldingen i dette tilfellet ikke blir ascii-pansret, så kan du
+        risikere å støte på problemer dersom teksten f.eks. inneholder
+        norske tegn og du sender den gjennom BBSer eller e-mail systemer
+        som ikke tar hensyn til dette. Fordelen er altså at også dem uten
+        PGP vil kunne lese meldingen, selv om de ikke ville kunne sjekke
+        om signaturen din er gyldig.
+
+        Dersom du ønsker både å signere og kryptere på en gang, skriver du:
+
+          pgp -esa melding.txt "mottager"
+
+        For å verifisere en melding som er signert (og evt. kryptert),
+        brukes samme kommando som for vanlig dekryptering, nemlig:
+
+          pgp melding.asc
+
+        Dersom ingen har forandret på filen MELDING.ASC etter at den ble
+        signert, så skulle PGP nå gi deg beskjeden 'Good signature from
+        user', etterfulgt av navnet ditt. (Prøv f.eks. å klartekstsignere
+        en melding som beskrevet over og deretter forandre på ett eller
+        flere tegn i MELDING.ASC. Får du fremdeles 'Good signature'?)
+
+   2.4. Hvilke andre PGP-kommandoer finnes?
+
+        Kommandoene for kryptering og signering som beskrevet over, er de
+        du sannsynligvis vil ha mest nytte av. Men PGP inneholder også et
+        utall andre funksjoner, selv om det er lite trolig at du vil få
+        bruk for alle sammen. Her er en kort oversikt over formatet for de
+        ulike kommandoene:
+
+        Generér nytt nøkkelpar: pgp -kg   [antall_bits]
+        Legg til nøkkel:        pgp -ka    nøkkelfil             [nøkkelring]
+        Hent ut nøkkel:         pgp -kx[a] brukerid  nøkkelfil   [nøkkelring]
+        Vis nøkler:             pgp -kv   [brukerid]             [nøkkelring]
+        Vis nøkler/signaturer:  pgp -kvv  [brukerid]             [nøkkelring]
+        Vis fingeravtrykk:      pgp -kvc  [brukerid]             [nøkkelring]
+        Sjekk nøkkelring:       pgp -kc   [brukerid]             [nøkkelring]
+        Fjern nøkkel/bruker-ID: pgp -kr    brukerid              [nøkkelring]
+        Legg til ny bruker-ID:  pgp -ke    brukerid              [nøkkelring]
+        Endre passordfrase:     pgp -ke    brukerid              [nøkkelring]
+        Endre tillitsparametre: pgp -kx    brukerid  key.tmp     [nøkkelring]
+          (3 skritt)            pgp -kr    brukerid              [nøkkelring]
+                                pgp -ka    key.tmp               [nøkkelring]
+        Signér en off. nøkkel:  pgp -ks    brukerid [-u min_id]  [nøkkelring]
+        Fjern nøkkelsignatur:   pgp -krs   brukerid              [nøkkelring]
+        Aktivér/deaktivér:      pgp -kd    brukerid              [nøkkelring]
+
+        Kryptér:                pgp -e[a]  tekstfil brukerid     [id2 id3...]
+        Signér:                 pgp -s[a]  tekstfil               [-u min_id]
+        Signér og kryptér:      pgp -se[a] tekstfil brukerid [..] [-u min_id]
+        Lag adskilt signatur:   pgp -sb[a] filnavn                [-u min_id]
+        Kryptér med bare IDEA:  pgp -c     tekstfil
+        Dekryptér/sjekk sig.:   pgp [-p]   chiffertekstfil
+                                (bruk -p for å beholde opprinnelig filnavn)
+        Sjekk adskilt signatur: pgp signaturfil [hovedfil]
+
+        Følgende tilleggsopsjoner kan brukes i kombinasjon med andre
+        kommandoer:
+
+        * Bruk [a] for ASCII-panser
+        * Bruk [-o utfil] for å spesifisere navn på utfilen
+        * Bruk [+batchmode] for å lese errorlevel i batchfiler
+        * Bruk [f] for omdirigering av input/output: pgp -f[..] <innfil >utfil
+        * Bruk [w] for å slette klartekst (ved kryptering)
+        * Bruk [m] for å vise klarteksten på skjermen (ingen fil laget)
+        * Bruk [t] ved kryptering/signering av tekstfiler (ikke binærfiler)
+
+        Du kan også få en forklaring av de vanligste PGP-kommandoene ved
+        å skrive 'pgp -h' (krypteringskommandoer) eller 'pgp -kh' (nøkkel-
+        håndteringskommandoer).
+
+   2.5. Hvordan bruker jeg PGP til e-mail?
+
+        PGP er først og fremst et krypteringsprogram til bruk for
+        elektronisk post. Hvordan du best skal integrere PGP i din
+        meldingsleser kommer selvfølgelig an på hva slags system du bruker,
+        men de fleste finner fort ut at det blir for tungvint å gjøre det
+        manuelt ved å bruke kommandoene beskrevet i punkt 2.2 og 2.3, og
+        så importere og eksportere hver eneste melding som skal krypteres
+        og dekrypteres. Derfor anbefales et av de såkalte PGP-shellene
+        eller 'front-ends' som det etter hvert er blitt ganske mange av.
+        Dette er programmer som 'legger seg rundt' PGP, og som gir deg den
+        samme funksjonaliteten, men med et mer brukervennlig grensesnitt.
+        Det finnes mange slike hjelpeprogrammer til bruk sammen med PGP
+        (AutoPGP, PGPShell, WinPGP, PGS, for å nevne noen). Disse er
+        vanligvis freeware eller shareware, og finnes på de fleste større
+        BBSer og FTP-områder som har PGP.
+
+
+3. Nøkler og nøkkelhåndtering
+
+   3.1. Hva er en nøkkelring?
+
+        En nøkkelring er en samling med PGP nøkler, lagret som en fil. Det
+        finnes to typer nøkkelringer: offentlige nøkkelringer (vanligvis
+        med filnavn PUBRING.PGP) som inneholder offentlige nøkler og
+        hemmelige nøkkelringer (vanligvis kalt SECRING.PGP) som inneholder
+        hemmelige nøkler. Når du installerer PGP og genererer ditt
+        nøkkelpar som beskrevet under punkt 2.1, vil du få opprettet en
+        hemmelig og en offentlig nøkkelring, som hver inneholder én nøkkel,
+        nemlig din egen. I den hemmelige nøkkelringen din vil du vanligvis
+        ikke trenge å ha mer enn den ene nøkkelen, mens den offentlige
+        nøkkelringen vil vokse etter hvert som du får tak i nye offentlige
+        nøkler og legger dem til. Du trenger én nøkkel for hver person du
+        ønsker å kryptere meldinger til, så dersom du korresponderer med
+        mange personer kommer du fort opp i et titalls, kanskje hundretalls
+        nøkler i den offentlige nøkkelringen.
+
+        For å få se en oversikt over alle nøklene i den offentlige
+        nøkkelringen, skriv:
+
+          pgp -kv
+
+        For å hente ut en bestemt nøkkel (f.eks. din egen) fra den
+        offentlige nøkkelringen, så bruker du:
+
+          pgp -kxa "navn" key.asc
+
+        Du vil da få opprettet en fil med navnet KEY.ASC som inneholder en
+        ascii-pansret kopi av den aktuelle nøkkelen. Denne kan du gi eller
+        sende til andre som trenger den. Dersom du selv har fått tilsendt
+        en offentlig nøkkel fra en annen person, og ønsker å legge til
+        denne til nøkkelringen din, skriver du:
+
+          pgp -ka key.asc
+
+        Du kan deretter prøve en 'pgp -kv' for å sjekke at nøkkelen faktisk
+        ble lagt til.
+
+   3.2. Hvordan får jeg tak i PGP-nøkler?
+
+        Prinsippet med offentlige nøkler gjør det enkelt og sikkert å
+        skrive krypterte meldinger til personer du aldri har truffet, fordi
+        du altså ikke trenger noen hemmelig nøkkel, men i stedet kan
+        benytte offentlige nøkler som er tilgjengelige for alle og enhver.
+        Men hvor kan du så få tak i PGP-nøkkelen til en bestemt person,
+        slik at du kan begynne å skrive kryptert post til ham/henne? Her
+        er noen mulige fremgangsmåter:
+
+        1. Skriv en (ukryptert) melding til vedkommende, der du ber om at
+           han eller hun sender med nøkkelen sin i en svarmelding, slik at
+           dere kan begynne å kryptere korrespondansen deres.
+
+        Noen ganger kan du ikke skrive direkte til vedkommende selv (f.eks.
+        dersom han/hun ikke har egen e-mail adresse), eller du vil ikke
+        vente den ekstra tiden det tar før svarmeldingen kommer. I slike
+        tilfeller kan du prøve andre metoder:
+
+        2. Mange PGP-brukere passer på å legge PGP-nøkkelen sin slik at den
+           er lett tilgjengelig for dem som måtte ønske å kryptere post til
+           dem. Ta f.eks. en titt i vedkommendes brukerresymé (på en BBS),
+           eller bruk Unix-kommandoen 'finger' (på Internet) for å se på
+           .plan-filen til vedkommende.
+
+        3. Send en melding til en key server, enten på Internet eller på
+           en BBS som har en slik. Se punkt 3.5 for nærmere info.
+
+        4. Få nøkkelen overlevert personlig (f.eks. på en diskett) neste
+           gang du møter vedkommende.
+
+        Når du fått tak i en persons nøkkel på en av de ovenstående måtene,
+        kan du altså begynne å skrive krypterte meldinger til vedkommende.
+        Men med mindre du har fått tak i den som beskrevet i punkt 4
+        (personlig overlevering), eller den inneholder signaturer fra
+        brukere som du stoler på og som du har sertifisert nøklene til, kan
+        du ikke være 100% sikker at nøkkelen virkelig tilhører den personen
+        den gir seg ut for å være fra. Du bør derfor så snart som mulig
+        prøve å få verifisert nøkkelen (se neste punkt).
+
+   3.3. Hva menes med nøkkelhåndtering?
+
+        Selv om systemet med to nøkler altså eliminerer behovet for en
+        sikker kanal for utveksling av krypteringsnøkler, så betyr ikke det
+        at offentlig nøkkel-kryptering er helt uten risikomomenter. Nettopp
+        det at nøklene er offentlige gjør dem sårbare for manipulasjon fra
+        utenforstående. Det ville for eksempel ikke være noe problem for
+        en uærlig Sysop å bytte ut en persons nøkkel med sin egen, 'falske'
+        nøkkel, men med samme bruker-ID som den ekte nøkkelen. Dersom en
+        person så bruker denne nøkkelen til å kryptere en melding med, vil
+        Sysop'en kunne dekryptere og lese denne meldingen. Deretter kan han
+        kryptere meldingen på nytt med den egentlige nøkkelen og sende den
+        videre til den rette mottageren. Verken sender eller mottager vil
+        i et slikt tilfelle kunne merke noe muffens, og vil sannsynligvis
+        tro at de er helt trygge.
+
+        Eksempelet over burde illustrere hvorfor man ikke bør stole blindt
+        på at alle offentlige nøkler er autentiske, dvs. at de tilhører de
+        personene de gir seg ut for å tilhøre. Selv om det er lite
+        sannsynlig, så _kan_ det altså tenkes at noen som har hatt
+        muligheten til det, har byttet ut din eller en annens offentlige
+        nøkkel med sin egen, for på den måten å fungere som en taus
+        'mellommann'. PGP har derfor et ganske omfattende system for
+        nøkkelhåndtering (key management), for at brukerne skal kunne
+        forsikre seg om at de ikke bruker noen falske nøkler.
+
+        Akkurat som du kan signere meldinger med din hemmelige nøkkel, lar
+        PGP deg også bruke denne til å signere andre personers offentlige
+        nøkler. Dersom du har fått tak i en nøkkel fra en person, person
+        A, og du vet at denne nøkkelen er ekte, kan du altså signere den
+        med din egen nøkkel. Senere vil kanskje en annen person, person B,
+        få tak i person A's nøkkel med din signatur på. Han er ikke sikker
+        på om Sysop'en på basen der han hentet nøkkelen er helt til å stole
+        på, men siden nøkkelen er signert av deg og han har en sikker kopi
+        av din nøkkel, vet han at han også kan stole på nøkkelen fra person
+        A. (Dette forutsetter selvfølgelig at han stoler på deg, og at han
+        vet at du ikke ville ha signert nøkkelen uten at du var helt sikker
+        på at den var ekte.)
+
+        Fordelen med dette systemet, er at det er opptil den enkelte bruker
+        hvilket sikkerhetsnivå han eller hun vil legge seg på. Det er altså
+        fullt mulig å bruke en offentlig nøkkel med en gang man har fått
+        tak i den, så kan man heller prøve å få den verifisert senere.
+        Videre så vil dette desentraliserte systemet der brukerne selv
+        signerer hverandres nøkler, gjøre det mulig for den enkelte person
+        å velge selv hvem han eller hun vil stole på. Det er med andre ord
+        ikke snakk om at én person, én institusjon eller ett, felles
+        nøkkelregister går god for at alle nøklene er ekte, et slikt system
+        ville lett føre til en falsk trygghet. Ved å derimot å fordele
+        kontrollen og ansvaret på flest mulig personer, gjør man det
+        vanskeligere for uærlige enkeltpersoner, statlige overvåkings-
+        organer eller andre som måtte ha interesse av det, å manipulere med
+        nøklene. Men dette er altså avhengig av at alle gjør sitt ytterste
+        for å finne ut om en nøkkel virkelig er autentisk.
+
+   3.4. Hvordan vet jeg om en PGP-nøkkel er autentisk?
+
+        La oss si at du har fått tak i en offentlig PGP-nøkkel, og ønsker
+        å verifisere at nøkkelen virkelig stammer fra den personen som står
+        oppgitt i nøkkelens bruker-ID. Det er da flere måter å kontrollere
+        om nøkkelen er autentisk på:
+
+        1. Prøv å få tak i den samme nøkkelen fra flere (gjerne 3-4)
+           uavhengige kilder. Du kan for eksempel lete i brukerresyméet til
+           den aktuelle brukeren på flere forskjellige BBSer, søke etter
+           nøkkelen på en key server, eller skrive til andre brukere og
+           spørre om de har en kopi av nøkkelen å sende deg. Dersom alle
+           de nøklene du får tak i fra disse ulike kildene er identiske,
+           så er det liten sannsynlighet for at noen skulle ha klart å
+           forfalske nøkkelen. En Sysop på en BBS kunne kanskje ha byttet
+           ut en brukers nøkkel med sin egen nøkkel, men han ville ikke
+           kunnet gjøre dette på andre BBSer enn sin egen.
+
+        2. Du kan ta en telefon til eieren av nøkkelen og be ham lese opp
+           "fingeravtrykket" på nøkkelen sin. Fingeravtrykket til en nøkkel
+           er den verdien PGP skriver ut når du gir kommandoen
+           'pgp -kvc <brukerid>'. Denne metoden er imidlertid avhengig av
+           at du kjenner vedkommendes stemme, eller at du på annen måte kan
+           forsikre deg om at den du snakker med virkelig er den han gir
+           seg ut for å være.
+
+        3. Det sikreste er selvfølgelig å få overlevert nøkkelen personlig,
+           f.eks. på en diskett direkte fra nøkkelens eier. Også denne
+           metoden er avhengig av at du kjenner vedkommende, eller at han
+           på annen måte kan legitimere seg overfor seg.
+
+        Når du har fått forsikret deg om at en nøkkel virkelig stammer fra
+        den personen som står oppgitt i bruker-ID'en, kan (og bør) du
+        signere nøkkelen. Dette gjør du ved å skrive 'pgp -ks <brukerid>'
+        og svare på spørsmålene. Det er imidlertid viktig å merke seg at
+        du kun signerer en bruker-ID av gangen. Du går dermed god for at
+        akkurat den bruker-ID'en er riktig for den nøkkelen, og eventuelt
+        andre bruker-ID'er som måtte være på nøkkelen eller som måtte bli
+        lagt til ved senere anledninger, tar du altså ikke stilling til i
+        det hele tatt.
+
+        Dersom en nøkkel har flere bruker-ID'er, kan du selvfølgelig
+        signere alle sammen, men bare etter at du har forsikret deg om at
+        alle er riktige. Hvis de ulike bruker-ID'ene f.eks. inneholder
+        samme navn, men med forskjellige e-mail adresser, er du derfor nødt
+        til å sjekke at alle disse e-mail adressene tilhører nøkkelens
+        eier. Det er for eksempel ikke noe problem for en uærlig person å
+        legge til (falske) bruker-ID'er på nøkkelen, der e-mail adressen
+        er byttet ut med vedkommendes egen adresse. Dette kan føre til at
+        post - ukryptert såvel som kryptert - blir sendt til feil person,
+        noe som kan være uheldig fordi også ukryptert post kan inneholde
+        informasjon som ikke alle og enhver bør få vite om. Dette er
+        grunnen til at man alltid bør signere hver enkelt av bruker-ID'ene
+        på sin egen nøkkel, slik at alle kan se at eieren selv har gått god
+        for de bruker-ID'ene som er oppgitt.
+
+        HUSK: Ikke signer en nøkkel uten at du er 100% sikker på at den
+        virkelig er autentisk! Ikke signer en nøkkel bare fordi noen du
+        kjenner også har signert den! Når du signerer en bruker-ID på en
+        nøkkel, går du god for at nøkkelen er ekte, og andre brukeres
+        tiltro til denne nøkkelen vil blant annet basere seg på din
+        signatur. Vit at det er ditt eget omdømme som står på spill, dersom
+        du signerer en nøkkel som viser seg å være falsk.
+
+   3.5. Hvordan fungerer en key server?
+
+        En PGP public key server er et system for utveksling av offentlige
+        PGP-nøkler. Det finnes mange forskjellige key servere, og
+        virkemåten kan være noe forskjellig. De fleste serverne er
+        imidlertid mail servere og fungerer ved at du sender en melding til
+        en bestemt key server-adresse der emnet (Subject:) på meldingen er
+        den kommandoen du ønsker utført.
+
+        De fleste mail serverne kjenner igjen de følgende kommandoene, som
+        altså skal skrives i emnefeltet, ikke i selve meldingen. Det er kun
+        for ADD-kommandoen at innholdet i meldingskroppen blir tatt hensyn
+        til.
+
+        Kommando        Meldingen inneholder
+        ------------------------------------------------------------------
+        ADD             Den offentlige nøkkelen som skal legges til (-ka)
+        INDEX           Liste over alle PGP-nøklene serveren kjenner (-kv)
+        VERBOSE INDEX   Liste over alle PGP-nøkler inkl. signaturer (-kvv)
+        GET             Hele nøkkelringen (-kxa *)
+        GET <brukerid>  Bare den aktuelle nøkkelen (-kxa <brukerid>)
+        MGET <brukerid> Alle nøkler som matcher <brukerid>
+        LAST <n>        Alle nøkler lastet opp de siste <n> dagene
+        ------------------------------------------------------------------
+
+        Slike mail servere finnes det mange av på Internet. Her er et lite
+        knippe:
+
+        pgp-public-keys@uit.no
+        pgp-public-keys@dsi.unimi.it
+        pgp-public-keys@fbihh.informatik.uni-hamburg.de
+        pgp-public-keys@kub.nl
+        pgp-public-keys@pgp.ox.ac.uk
+        pgp-public-keys@sw.oz.au
+
+        InfoLink BBS har også en key server som fungerer slik som mail
+        serverne på Internet. Dersom du skriver en privat melding til
+        brukeren KEY SERVER i konferansen Crypt/PGP og der emnet er 'HELP',
+        vil du få en melding tilbake med en liste over de lovlige
+        kommandoene.
+
+        I tillegg til disse mail serverne finnes det også en del
+        interaktive key servere der du ved hjelp av menyer og søkefelt kan
+        laste opp og hente ned nøkler on-line. Dersom du har tilgang til
+        World-Wide-Web (WWW) på Internet, kan du prøve URL'en:
+
+        http://martigny.ai.mit.edu/~bal/pks-toplev.html
+
+        For dem som ikke har tilgang til Internet, finnes det også
+        interaktive løsninger for BBS. Trygve Gudmundsen
+        <trygveg@fidonet.bbs.no> har skrevet en PGP-dør for MBBS og
+        PCBOARD.
+
+        En liten advarsel til slutt: selv om systemet med de mange key
+        serverne gjør det enkelt for PGP-brukere å utveksle offentlige
+        nøkler, så er det viktig å huske på at fordi om en nøkkel ligger
+        på en key server, så er dette ingen garanti for at den er
+        autentisk. Ønsker du å forsikre deg om at nøkkelen virkelig stammer
+        fra riktig person, må du derfor se på signaturene på nøkkelen,
+        eller verifisere den på egenhånd.
+
+4. Spesielt for Norge
+
+   4.1. Hva er riktig TZ-innstilling for Norge?
+
+        Når PGP skal signere en melding, så vil den sette en dato- og
+        tidsstempling på signaturen, slik at mottageren skal kunne vite når
+        meldingen ble skrevet. Men siden PGP-brukere ofte skriver meldinger
+        på kryss av landegrensene, må PGP vite hvilken tidssone du befinner
+        deg i, slik at tidsangivelsen kan bli riktig justert i forhold til
+        GMT. Dette gjøres gjennom å sette environment-variabelen TZ
+        (timezone). For Norge skal TZ settes til:
+
+        CET-1DST
+
+        Tidssoneangivelsen består av tre deler, og en liten forklaring kan
+        kanskje være på sin plass:
+
+        1. Først kommer en trebokstavers forkortelse som forteller hva den
+           aktuelle tidssonen heter. CET er en forkortelse for Central
+           European Time, og er den tidssonen Norge tilhører. Men det kunne
+           like gjerne stått MET, GMT, PST, XXX eller faktisk hvilken som
+           helst annen tre-bokstavers forkortelse. Hva det står i dette
+           første feltet spiller altså egentlig ingen rolle.
+
+        2. Dernest kommer selve tidsangivelsen, dvs. antall timer relativt
+           til GMT. Denne er på formen [+]nn på den østlige halvkule og -nn
+           på den vestlige halvkule, der nn er tidsforskjellen til GMT i
+           antall timer.
+
+        3. Dersom man benytter sommertid i den aktuelle tidssonen, legger
+           man til slutt på en trebokstavers forkortelse, f.eks. DST
+           (Daylight Savings Time). PGP vil da automatisk kompensere for
+           sommertid i sommerhalvåret. NB! I USA skifter man til/fra
+           sommertid en uke før/en måned etter Norge. Derfor vil PGP gi deg
+           én time feil på tidsstemplingen én uke på våren og én måned på
+           høsten.
+
+   4.2. Hvordan får man norsk språk i PGP?
+
+        For å få norsk språk i PGP, er det to ting du trenger å gjøre:
+
+        1. Du må lage deg en egen norsk språkmodul, kalt LANGUAGE.TXT, der
+           alle PGPs originale, engelske systemmeldinger er listet opp
+           sammen med de tilsvarende norske oversettelsene. Dersom du
+           bruker PGP 2.6n eller 2.6.2i, følger det med en ferdig norsk
+           språkfil slik at du slipper å skrive den selv.
+
+        2. Du må spesifisere i CONFIG.TXT at du ønsker norsk språk ved å
+           sette 'language=no'. Det er også mulig å bruke opsjonen '+la=no'
+           på kommandolinjen når du starter PGP.
+
+        Legg også merke til at ikke alle hjelpeprogrammer til PGP er like
+        begeistret for at du har satt 'language=no' i CONFIG.TXT. For
+        eksempel vil PGPShell henge maskinen, og du må ty til Ctrl-Alt-Del
+        (DOS) eller lukke det aktuelle vinduet (OS/2).
+
+   4.3. Finnes dokumentasjonen til PGP i norsk oversettelse?
+
+        Nei, ikke ennå, men en norsk oversettelse er underveis. Vær
+        tålmodig! :-)
+
+
+5. Noen vanlige problemer
+
+   5.1. Hvorfor får jeg 'Bad signature' på mine signerte meldinger?
+
+        Av og til opplever man at man får 'bad signature' på sine
+        klartekstsignerte meldinger etter at de er lastet opp på en BBS,
+        selv om signaturen var god da meldingen ble lastet opp. Det er
+        flere mulige årsaker til dette:
+
+        1. Noen har gått inn i meldingen og bevisst endret innholdet. Dette
+           er nettopp det man prøver å forhindre ved å signere meldinger,
+           men i de aller fleste tilfeller skyldes den ugyldige signaturen
+           helt andre ting, f.eks.:
+
+        2. Du bruker PGP v2.3. Denne inneholder en bug som av og til kan
+           gi slike feilmeldinger. Oppgrader til 2.3a eller aller helst:
+           en senere versjon av PGP, f.eks. 2.6.3i.
+
+        3. Meldingen inneholdt noen spesialtegn som ikke ble godtatt av
+           BBSen og som dermed fjernet eller endret.
+
+        4. Meldingen inneholdt for lange linjer, og de siste tegnene på
+           linjen ble "kappet av". For eksempel vil MBBS ikke godta linjer
+           lenger enn 72 tegn, mens mange andre systemer har en øvre grense
+           på 80 tegn. Dersom du passer på at ingen linjer er lenger enn
+           70 tegn, bør du være på den sikre siden.
+
+        5. Meldingen inneholdt for lange linjer, og noen av ordene ble
+           flyttet ned til neste linje (word wrappet), enten av BBS'en selv
+           eller av Telix_Square eller et annet program som behandlet
+           meldingen din før den ble lastes opp.
+
+   5.2. Hvorfor får jeg ikke kompilert PGP?
+
+        PGP er skrevet i programmeringsspråket C og distribueres både som
+        kildekode og som ferdig kjørbart program for de vanligste
+        maskinplattformene. Dersom du av en eller annen grunn ønsker å
+        kompilere PGP selv (f.eks. fordi det ikke finnes noen
+        ferdigkompilert versjon for din maskin), trenger du (i tillegg til
+        selve PGP-kildekoden) en C-kompilator, litt kunnskaper om C, samt
+        en god porsjon tålmodighet. Selv om PGP er skrevet for å la seg
+        kompilere smertefritt for de fleste systemer, så kan det hende du
+        må foreta egne justeringer og tilpasninger for å få det til å gå
+        i hop. Ofte er problemet at PGP kaller en eller annen
+        biblioteksfunksjon som ikke støttes av den kompilatoren du bruker,
+        eller at funksjonen har et annet navn. Da er det bare å finne frem
+        manualene og begynne å lete...
+
+        Generelt sett så lønner det seg å få tak i en så ny PGP-versjon som
+        mulig, da det er større muligheter for at det finnes en oppdatert
+        makefile som passer akkurat ditt system. Spesielt vil DOS-brukere
+        med Borland (Turbo) C oppdage at de fleste PGP-versjoner er
+        beregnet på å kompileres med Microsoft C. Dersom du bruker Borland
+        C, så anbefales PGP 2.6.3i, da denne inneholder både en .PRJ-fil
+        og en makefile som passer til Borland C.
+
+
+6. Hvor kan jeg få vite mer om PGP?
+
+   Som tidligere nevnt, er det flere tilgjengelige kilder for den som
+   ønsker å finne ut mer om PGP, kryptering og personlig sikkerhet. Her er
+   litt å starte med:
+
+   * PGP-dokumentasjonen
+     - PGPDOC1.TXT: bør leses av alle PGP-brukere
+     - PGPDOC2.TXT: for viderekomne og spesielt interesserte
+
+   * FAQ'er om PGP
+     - PGP Frequently Asked Questions (fra comp.security.pgp)
+         http://www.pgp.net/pgpnet/pgp-faq/
+     - PGP 2.6.3i FAQ
+         http://www.ifi.uio.no/pgp/FAQ.html
+     - Where to Get the Latest PGP Program FAQ
+         ftp://ftp.uu.net/usenet/news.answers/pgp-faq/where-is-PGP.Z
+
+   * BBS-konferanser
+     - Encryption (PGP) på Alpha Plus BBS (51 41 76 50)
+     - SC-PGP på ScanNet (Dasan, Midnight Sun, Thunderball Cave)
+     - Encrypt-konferansen på ILink (Thunderball Cave)
+
+   * Usenet nyhetsgrupper
+     - alt.security.pgp
+     - alt.security
+     - sci.crypt
+     - sci.math
+     - comp.risks
+     - comp.society.privacy
+     - comp.security.announce
+     - comp.security.pgp.announce
+     - comp.security.pgp.discuss
+     - comp.security.pgp.resources
+     - comp.security.pgp.tech
+     - comp.org.eff.news
+     - comp.org.eff.talk
+     - talk.politics.crypto
+     - alt.anonymous
+     - alt.anonymous.messages
+     - alt.privacy.anon-server
+     - alt.privacy.clipper
+
+   * Internet mailing lister
+     - Electronic Frontier Foundation:
+       skriv til info@eff.org
+     - Cypherpunks mailing list:
+       skriv til majordomo@toad.com med "subscribe cypherpunks" i første
+       linje
+
+   * World-Wide-Web (WWW)
+     - http://www.ifi.uio.no/pgp/
+     - http://draco.centerline.com:8080/~franl/pgp/pgp.html
+
+   * FTP-arkiver
+     - ftp://ftp.ifi.uio.no/pub/pgp/
+     - ftp://ftp.ox.ac.uk/pub/crypto/pgp/
+     - ftp://ftp.dsi.unimi.it/pub/security/crypt/PGP/
+
+   * Bøker
+     - The Official PGP User's Guide, av Philip R. Zimmermann
+         MIT Press 1995
+         ISBN 0-262-74017-6
+     - PGP: Source Code and Internals, av Philip R. Zimmermann
+         MIT Press 1995
+         ISBN 0-262-24039-4
+     - PGP: Pretty Good Privacy, av Simson Garfinkel
+         O'Reilly & Associates 1994
+         ISBN 1-56592-098-8
+     - Protect Your Privacy: The PGP User's Guide, av William Stallings
+         Prentice Hall PTR 1995
+         ISBN 0-13-185596-4
+     - Applied Cryptography: Protocols, Algorithms, and Source Code in C,
+       av Bruce Schneier
+         Wiley Publishing 1994
+         ISBN 0-471-59756-2
+     - E-Mail Security: How to Keep Your Electronic Mail Private, av Bruce
+       Schneier
+         Wiley Publishing 1995
+         ISBN 0-471-05318-X
+     - Computer Privacy Handbook, av Andre Bacard
+         Peachpit Press 1995
+         ISBN 1-56609-171-3
+
+   Filformatet til PGP er beskrevet i filen PGFORMAT.DOC som følger med
+   kildekoden til PGP. Her finner du alt du trenger for å skrive egne, PGP-
+   kompatible programmer.
+
+7. Ordforklaringer
+
+   Bruken av PGP introduserer en rekke nye ord og termer hvis betydning
+   kanskje ikke alltid er like selvinnlysende. Her er en kort forklaring
+   til noen av de vanligste begrepene:
+
+   RSA               Rivest-Shamir-Adleman: en krypteringsalgoritme for
+                     offentlig nøkkel kryptografi
+
+   IDEA              International Data Encryption Algorithm: en
+                     krypteringsalgoritme som benytter konvensjonell
+                     kryptografi
+
+   offentlig nøkkel  (eng.: public key) en nøkkel som offentliggjøres til
+                     alle og enhver, og som brukes til å kryptere
+                     meldinger med og til å verifisere signaturer
+
+   hemmelig nøkkel   (eng.: secret key) en nøkkel som holdes hemmelig av
+                     brukeren den tilhører, og som brukes til å dekryptere
+                     meldinger med og til å skrive signaturer
+
+   privat nøkkel     = hemmelig nøkkel
+
+   nøkkelpar         (eng.: key pair) et sett av to korresponderende
+                     nøkler: en offentlig og en hemmelig nøkkel
+
+   nøkkel-ID         (eng.: key ID) et unikt nummer som er tilknyttet et
+                     bestemt nøkkelpar. PGP bruker de 64 siste bit'ene i
+                     verdien av pq som nøkkel-ID, men bare de siste 32 av
+                     disse igjen blir vist til brukeren av PGP
+
+   bruker-ID         (eng.: user ID) en tekststreng som er tilknyttet en
+                     bestemt nøkkel, vanligvis bestående av eierens navn
+                     og e-mail adresse. En nøkkel kan ha tilknyttet flere
+                     forskjellige bruker-ID'er
+
+   passordfrase      (eng.: pass phrase) et hemmelig ord eller en setning
+                     som brukes til å beskytte en hemmelig nøkkel. Bare
+                     den som kan denne passordfrasen vil være i stand til
+                     å bruke den hemmelige nøkkelen
+
+   klartekst         (eng.: plaintext) den ukrypterte meldingen/filen
+
+   chiffertekst      (eng.: ciphertext) den krypterte meldingen/filen
+
+   ascii-panser      (eng.: ascii armor) et spesielt 7-bits ascii-format
+                     som brukes for overføring av 8-bits data gjennom e-
+                     mail
+
+   brute force       et angrep på en chiffertekst der man ved hjelp av rå
+                     datakraft prøver alle mulige nøkler for å dekryptere
+                     teksten

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<title>Inst&auml;llningar i startfilerna</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 1.1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<h1><img src="IMG00003.GIF" tppabs="http://home4.swipnet.se/~w-46566/install/os/IMG00003.GIF" align=bottom width=34 height=34><font size=6> Att Rensa och st&auml;lla in Dos</font></h1>
+<hr>
+<h3><font size=5>Inst&auml;llningar i startfilerna</font> </h3>
+<p><b>S&ouml;kv&auml;gen</b> </p>
+<p>St&auml;ll in s&ouml;kv&auml;gen f&ouml;r din dator genom att &auml;ndra p&aring; raden i <font color="#0000FF">AutoExec.bat</font> d&auml;r det st&aring;r ungef&auml;r: </p>
+<p><font color="#0000FF">Path C:\Dos</font> </p>
+<p>Genom att l&auml;gga till flera kataloger p&aring; raden kan du k&ouml;ra program i dessa kataloger genom att 
+skriva programmets filnamn &auml;ven om du inte befinner dig i programmets katalog. Alla 
+programkataloger beh&ouml;ver du dock inte l&auml;gga till, bara dem d&auml;r du har flera program, t.ex. 
+Dos-tillbeh&ouml;r. </p>
+<p>Din s&ouml;kv&auml;g kan till exempel se ut s&aring; h&auml;r: </p>
+<p><font color="#0000FF">Path C:\Dos;C:\Utils;C:\Utils\DosUtils</font> </p>
+<p>Kom ih&aring;g semikolonet mellan leden.</p>
+<p><b>Tempor&auml;r-katalog</b> </p>
+<p>Skapa en katalog f&ouml;r tillf&auml;lliga filer. Normalt s&aring; brukar den heta Temp och vara direkt i roten p&aring; 
+h&aring;rddisken. L&auml;gg d&auml;refter till f&ouml;ljande rad till <font color="#0000FF">AutoExec.bat</font> </p>
+<p><font color="#0000FF">Set Temp=C:\Temp</font> </p>
+<p>Du b&ouml;r t&ouml;mma denna katalog om den inneh&aring;ller filer med fil&auml;ndelsen <i>.tmp</i> d&aring; du inte k&ouml;r n&aring;gra 
+program, men g&ouml;r inte det n&auml;r du k&ouml;r program.</p>
+<p><b>Doskey</b> </p>
+<p>L&auml;gg till Doskey i Autoexec.bat genom att skriva <font color="#0000FF">Doskey</font> p&aring; en rad l&auml;ngst ner. Detta kommer att 
+bespara dig m&aring;nga tangentnedtryckningar, d&aring; du kan bl&auml;ddra tillbaka till gamla kommandon med 
+piltangenterna.</p>
+<p><b>Snabbare start</b> </p>
+<p>Du kan starta upp din dator snabbare genom att l&auml;gga till raden <font color="#0000FF">Switches=/F</font> till b&ouml;rjan av 
+<font color="#0000FF">Config.sys</font> d&aring; visas inte texten <i>Startar MS-Dos...</i> ett par sekunder som tidigare. &Auml;ven minnes 
+testet som <i>himem.sys</i> g&ouml;r kan st&auml;ngas av f&ouml;r att starten ska g&aring; &auml;nnu snabbare, l&auml;gg i s&aring; fall till 
+parametern <font color="#0000FF">/Testmem:Off</font> efter <font color="#0000FF">himem.sys</font> i <font color="#0000FF">Config.sys</font>. </p>
+<p>F&ouml;r snabbaste start ska din <font color="#0000FF">Config.sys</font> allts&aring; b&ouml;rja s&aring; h&auml;r: </p>
+<p><font color="#0000FF">SWITCHES=/F <br>
+DEVICE=C:\DOS\HIMEM.SYS /TESTMEM:OFF</font></p>
+<hr>
+<p>| <a href="DOS~1.HTM" tppabs="http://home4.swipnet.se/~w-46566/install/os/dos.html">&lt;&lt; Bak&aring;t</a> <a href="Pending_relink" tppabs="http://home4.swipnet.se/~w-46566/install/os/tabort.html">Fram&aring;t &gt;&gt;</a> <a href="../INNEH~1.HTM" tppabs="http://home4.swipnet.se/~w-46566/install/inneh.html">Tillbaka till inneh&aring;llet</a> |</p>
+</body>
+
+</html>

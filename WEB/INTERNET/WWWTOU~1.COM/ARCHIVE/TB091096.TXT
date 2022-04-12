@@ -1,0 +1,222 @@
+
+From crispen@campus.mci.net Wed Sep 11 20:18:58 1996
+Date: Wed, 11 Sep 1996 02:03:03 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 10 SEPTEMBER 1996 - CNET (PART ONE)
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |   WorldVillage presents Match.com - the premier Net   |//////|    |
+ |  matchmaking service!  It's fun, safe & anonymous.    |//////|    |
+ | http://www.WorldVillage.com/wv/square/html/square.htm |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+TODAY'S TOURBUS STOPS     : CNET (PART ONE)
+TODAY'S TOURBUS ADDRESSES : http://www.cnet.com/
+                            http://www.shareware.com/
+                            http://www.news.com/
+                            http://www.search.com/
+
+It seems that my fear of Tuscaloosa's impending "thunder sun" attack caused
+me to make a little mistake in last Thursday's bus (GASP!).  To subscribe
+to CNET's "News-Dispatch," you should actually send an e-mail letter to
+
+     listserv@dispatch.cnet.com
+
+(note: there is no "e" at the end of "listserv") with the command
+
+     subscribe news-dispatch YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.
+
+Talking about Laura Palmer, I am proud to introduce today's TOURBUS sponsor
+(and yes, that abrupt "Laura Palmer" segue is an obscure Twin Peaks
+reference) ...
+
+*----------------------*  Be A CyberGourmand! *----------------------*
+    Twin Peaks Gourmet Trading Post - a Cornucopia of Pleasurable
+  Edibles. Sauces, Spices, Salsas, and Sweets. Indulge your Desires.
+*------------------------( http://tpeaks.com )-----------------------*
+
+CNET
+----
+
+Trying to describe CNET ("see-net") is a little like trying to describe
+United Technologies (that mega-company that owns Pratt & Whitney, Otis
+Elevator, Sikorsky Helicopters, Carrier Air Conditioners, the State of
+Montana, etc.). CNET: The Computer Network is a content-driven technology
+company that offers both television programming and a bunch of really cool
+sites on the World Wide Web.
+
+CNET's Web sites include:
+
+     CNET.COM (http://www.cnet.com/), one of the best sites on the Web
+     for the latest news, product reviews, and information about
+     computers and the Internet;
+
+     SHAREWARE.COM (http://www.shareware.com/), an online software
+     library with over 190,000 freeware and shareware programs;
+
+     NEWS.COM (http://www.news.com/), the first online service devoted
+     entirely to technology news; and
+
+     SEARCH.COM (http://www.search.com/), a huge collection of
+     pointers to pretty much every search engine on the Net.
+
+Since CNET is so huge -- you could literally spend all day in any one of
+their Web sites and still not see everything on that site -- we're going to
+break our tour of CNET into several different TOURBUS posts.  Today, we are
+going to pull our little bus of Internet happiness into CNET's main Web
+page:
+
+     http://www.cnet.com/
+
+CNET is a free, advertiser-supported service, but you do have to be a
+"subscriber" to be able to access some of CNET's files and services.  The
+subscription is free, and you just need to click on the "Join now for FREE"
+link in the upper left-hand corner of CNET's page (or go to
+http://www.cnet.com/Community/Mservice/registration.html) to subscribe.
+You will need a forms-capable browser to do this, though.
+
+CNET's main Web page (http://www.cnet.com) is broken into three sections.
+The left-hand side of the page (the yellow part) is a directory of all of
+CNET's "departments."  The middle part of the page has links to CNET's
+newest or most popular articles and pages.  The far right-hand side of the
+page contains links to other stuff.  (CNET updates its pages on an (almost)
+daily basis, so it is kind of hard to describe what you are actually going
+to find in the middle and right-hand parts of the page).  :)
+
+For now, let's take a quick look at what CNET has to offer by focusing our
+attention on the left-hand (yellow) part of CNET's page.  CNET has ten
+major departments, and we're going to visit the first three today.
+
+CNET's first major department is NEWS (http://www.news.com/), which has two
+sections:
+
+      * Top stories (http://www.news.com/)
+      * CNET Radio (http://www.news.com/Radio/)
+
+Now that CNET has launched NEWS.COM, clicking on the "Top Stories" link
+will take you to NEWS.COM (which we talked about in last Thursday's
+TOURBUS).  The CNET radio link takes you to a page that offers three new
+technology-based Real Audio "radio" interviews or audio clips each day that
+you can play on your browser.
+
+CNET's second major department is REVIEWS
+(http://www.cnet.com/Content/Reviews/), and this department alone could
+fill a single TOURBUS post.  The REVIEWS department has 6 sections:
+
+     * Hot list (http://www.cnet.com/Content/Reviews/Hot/) - reviews
+       of the absolute best hardware and software that the folks at
+       CNET have seen.  The Hot List is updated every Friday.
+
+     * Just in  (http://www.cnet.com/Content/Reviews/Hands/)  - the
+       latest reviews of the best (and worst) hardware and software.
+
+     * All comparisons (http://www.cnet.com/Content/Reviews/Compare/)
+       - comparative reviews (i.e., Netscape vs. Internet Explorer;
+       the best Internet Service Provider; etc.).  Hands-down my
+       favorite part of CNET.  Check it out and you will see why.
+
+     * CD-ROM central (http://www.cnet.com/Content/Reviews/Cdcentral/)
+       - in-depth reviews of pretty much every CD ROM ever made.
+       Before you head out to the computer store, visit this page!
+
+     * Best of the Web (http://www.cnet.com/Content/Reviews/
+       Bestofweb/) - reviews of the best Web sites on the Net.  CNET
+       only reviews 5 pages a week, so they are pretty exclusive.
+       Make sure that you visit both the "new reviews" and the
+       archives of the old "Best of the Web" winners.
+
+     * List all (http://www.cnet.com/Content/Reviews/contents.html)
+       - a collection of reviews from the "Just in" and "All
+       comparisons" pages.
+
+The last CNET department that we are going to visit today is FEATURES
+(http://www.cnet.com/Content/Features/).  FEATURES is a little like an
+online magazine, and it has four sections:
+
+     * Techno (http://www.cnet.com/Content/Features/Techno/)
+       - articles about the latest technology (JAVA, Mbone, Digital
+       satellite TV, etc.)
+
+     * How to (http://www.cnet.com/Content/Features/Howto/)
+       - how-to tips on everything from improving Netscape to
+         upgrading your processor.
+
+     * Digital life (http://www.cnet.com/Content/Features/Dlife/)
+       - articles telling you how to take all of this Internet stuff
+       and improve your REAL life (remember that?).
+
+     * List all (http://www.cnet.com/Content/Features/contents.html)
+       - stuff from each of the above sections.
+
+I'm going to end today's tour here (I think I have given you plenty of
+pages to check out).  Before I go, though, I do want to say that when I
+first started using CNET I found it easier (and a little bit less
+confusing) to go directly to each department's sections instead of going to
+that department's main homepage.  For example, try going to the FEATURES
+department main homepage at
+
+      http://www.cnet.com/Content/Features/
+
+and then try going to the FEATURES department Techno section at
+
+     http://www.cnet.com/Content/Features/Techno/
+
+It may be just me, but I think that the sections are a little easier to
+understand :)
+
+See ya' Thursday!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+PIE ANNA - noun.  A musical instrument.
+MAZIN' GRASS - noun.  Something often heard in Southern churches.
+
+USAGE: "Play us sum Mazin' Grass on the Pie Anna, honey"
+
+(Special thanks goes to Jack Decker for today's wurds)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*--------------------------*  ONLINE COURSES  *----------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*--------------------------------------------------------------------*
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name toLISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.
+
+

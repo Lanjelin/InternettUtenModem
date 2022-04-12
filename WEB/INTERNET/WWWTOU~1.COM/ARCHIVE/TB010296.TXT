@@ -1,0 +1,192 @@
+Date: Wed, 3 Jan 1996 15:58:54 CST
+From: Patrick Douglas Crispen <PCRISPE1@UA1VM.UA.EDU>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - JAN 2 -- TOURBUS FAQ
+
+TOURBUS - TUESDAY, JANUARY 2
+TODAY'S STOP: TOURBUS FAQ AND OTHER STUFF
+TODAY'S ADDRESS: http://csbh.mhv.net/~bobrankin/tourbus/
+
+
+HAPPY NEW YEAR!  As we begin the year of the Rat (which is
+quite appropriate considering the upcoming US Presidential
+elections), we're going to do something a little different
+with today's TOURBUS post.  Instead of focusing on a
+particular Internet site or tool, today's TOURBUS post is
+going to answer some of TOURBUS' most frequently asked
+questions :)
+
+------------------
+WHAT *IS* TOURBUS?
+------------------
+
+TOURBUS is a free, on-going, bi-weekly, text-based tour of
+some of the neatest sites and tools on the Internet.  TOURBUS'
+posts are written by Bob Rankin (author of "Accessing the Internet
+by E-mail") and me (Patrick Douglas Crispen, author of the
+ROADMAP workshop), and are distributed via a LISTSERV e-mail
+distribution list at America Online.  The TOURBUS list is the
+fourth largest LISTSERV list in the world.
+
+What makes TOURBUS unique is that each TOURBUS post not only gives
+you the address of a neat Internet site or tool, but also gives you
+a really in-depth look at how to fully use that site or tool.
+A lot of the Internet's most exciting sites and tools do not come
+with instruction manuals or maps.  The information in each
+TOURBUS post helps you overcome that problem.
+
+Bob and I also try to make each TOURBUS post as conversational --
+and humorous -- as possible.  Above everything else, the Internet
+is FUN ... and Bob and I try to show that in our TOURBUS posts :)
+
+---------------------------------------
+WHEN ARE THE TOURBUS POSTS DISTRIBUTED?
+---------------------------------------
+
+TOURBUS is distributed every Tuesday-ish and Thursday-ish.
+
+----
+ISH?
+----
+
+Well, sometimes we fall a little behind (like today) :)
+
+----------------------------------------
+HOW CAN MY FRIENDS SUBSCRIBE TO TOURBUS?
+----------------------------------------
+
+Just have them send an e-mail letter to
+
+     LISTSERV@LISTSERV.AOL.COM
+
+with the command
+
+     SUBSCRIBE TOURBUS YOURFIRSTNAME YOURLASTNAME
+
+in the body of their letter, replacing YOURFIRSTNAME and
+YOURLASTNAME with their first and last names.
+
+---------------------------
+HOW MUCH DOES TOURBUS COST?
+---------------------------
+
+TOURBUS is completely free.  All of the costs associated with
+running TOURBUS are paid by advertisers (and by Bob and me).
+
+------------------------------------------
+IS THERE AN ARCHIVE OF PAST TOURBUS POSTS?
+------------------------------------------
+
+Yep!  You can find the TOURBUS archives and other TOURBUS
+stuff at the TOURBUS homepage at
+
+     http://csbh.mhv.net/~bobrankin/tourbus/
+
+--------------------------------------------------------
+HEY! THAT'S A WEB ADDRESS!  I DON'T HAVE A WEB BROWSER!!
+--------------------------------------------------------
+
+Don't panic.  You can still access the TOURBUS homepage
+(and, for that matter, ANY other Web page) through e-mail
+using the information contained in Bob Rankin's free
+guide "Accessing the Internet by E-mail."  To find out
+how to get this guide (and how you can still participate
+in the ROADMAP Internet training workshop), send an
+e-mail letter to
+
+     LISTSERV@UA1VM.UA.EDU
+
+(that's "you-aye-won-vee-em") with the command
+
+     GET NEWUSER PACKAGE F=MAIL
+
+in the body of your e-mail letter.
+
+----------------------------------------------------------
+WHERE DO YOU AND BOB GET YOUR IDEAS FOR THE TOURBUS STOPS?
+----------------------------------------------------------
+
+Bob and I receive a lot of suggestions from the TOURBUS
+riders (like "get a life"), but most of the sites that I
+write about are sites that I accidentally find while
+surfing the Net :)
+
+--------------------------------
+HOW DID YOU AND BOB RANKIN MEET?
+--------------------------------
+
+Well, actually we've never met.
+
+I know Bob from the NETTRAIN list, and Bob and I have exchanged
+hundreds of e-mails (and about three phone calls) over the past
+year, but I have no idea what Bob looks like ... and, from what
+I hear, that's a good thing :)
+
+Bob e-mailed me shortly after the end of my last Roadmap workshop
+with the idea of creating a sponsor-supported, two or three week
+workshop of neat Internet sites.  I suggested that we make the
+workshop on-going ... and the rest, as they say, is history :)
+
+----------------------------------------------------
+YOU KEEP MENTIONING "SQUIRRELS" IN YOUR POSTS AND IN
+YOUR SIGNATURE.  WHAT'S THE STORY?
+----------------------------------------------------
+
+The "squirrel story" comes from the fact that the squirrels
+living in the trees on the campus of the University of Alabama have
+developed quite a taste for power lines ... especially for the power
+lines leading into the University's mainframe computer center
+(if you are not electrically inclined, let me just add that
+energetic squirrels and power lines do not mix well).
+
+Back when I was running the Roadmap workshop (that online
+Internet training thingy that I did in 1994), I was really
+concerned that if the University of Alabama's mainframe was
+taken down by a squirrel (which was a regular occurrence at
+the time) and I was not able to deliver that day's Roadmap
+lesson to the 64,000 people in the workshop, the workshop
+participants would panic and mailbomb me with 64,000 "where
+is today's lesson?" messages.
+
+By telling the subscribers up front to expect a squirrel attack,
+I kept myself from being mailbombed, I elevated Alabama's
+squirrels to Net-legend status (people around the world were
+even rooting for the squirrels), and I gained a really neat
+"trademark." :)
+
+---------------------------------
+IS THERE A SOUTHERN WORD ARCHIVE?
+---------------------------------
+
+Not yet, but that is one of my New Year's resolutions.
+When the archive is up, I'll make an announcement on
+TOURBUS.
+
+-------------------------------
+WHEN ARE YOU GOING TO GRADUATE?
+-------------------------------
+
+I dunno, mom ... soon :)
+
+-----------------------------------------------------
+AND FINALLY, WHAT'S TODAY'S SOUTHERN WORD OF THE DAY?
+-----------------------------------------------------
+
+WARSH - verb.  To clean.
+SQUARSH - noun. A vegetable (also verb - to flatten).
+Usage: "Warsh that squarsh, Bubba ... you don't know where its been!"
+(Special thanks goes to Barb Fogg for today's wurds)
+
+
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+All rights reserved.  Redistribution is allowed only with permission.
+
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.

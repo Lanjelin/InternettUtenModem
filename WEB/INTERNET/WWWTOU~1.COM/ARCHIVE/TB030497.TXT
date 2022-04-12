@@ -1,0 +1,138 @@
+From bobrankin@MHV.NET Wed Mar  5 09:16:24 1997
+Date: Wed, 5 Mar 1997 00:47:03 -0500
+From: Bob Rankin <bobrankin@MHV.NET>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 04 Mar 1997 - Finding Internet Software (fwd)
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~~/~~~|~\
+   |      SEE   THE   GRAMMY   AWARD   WINNING   FUGEES     /    |  \
+   |__________|__________/__________|__________|___________/     |   \
+  /                                                       /______|----\
+ |       Watch the webcast ...                            |//////|    |
+ |               Play the game ...                        |//////|    |
+ |                     Remix the song ...                 |//////|    |
+ |       Find the Fugees under previous Webisodes at      |//////|    |
+ |                                    www.MEDIADOME.com   |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s    \___/
+                           http://www.TOURBUS.com
+
+           TODAY'S TOURBUS TOPIC:  Finding Internet Software
+           TODAY'S TOURBUS SITE :  http://cws.iworld.com
+
+When you're looking for a new piece of Internet software, the first
+place to visit is Forrest Stroud's Consummate Winsock Apps site.  The
+CWSAPPS site is chock full of categorized listings, reviews, and
+recommendations for Windows-based Internet software.  Don't worry
+Mac fans, we'll get to you in just a minute.
+
+But first, a word from our kind sponsors of today's TOURBUS...
+
++---- HUGE TOURBUS SAVINGS ON THE HOTTEST MAGAZINE SUBSCRIPTIONS! -----+
+ Time, Newsweek, Money, PC Magazine, ZD Internet, Net, Yahoo, and tons
+   more!  Plus, pick from 50 FREE subscriptions.  Send email now to:
++--------------------- ( tourbus@magazines.com ) ----------------------+
+
++------------ DHEA. MELATONIN. SPORTS NUTRITION. VITAMINS -------------+
+     HealthPort Newsletter: it's like a TOURBUS of Health Industry!
+          Facts and Fun On-Line: get your FREE subscription at
++--------------------( http://www.healthport.com )---------------------+
+
+
+The first time I visited the CWSAPPS site, I was amazed at the diversity
+of Internet software.  In addition to the stuff you might expect, such
+as web browsers and e-mail programs, there are "client programs" for
+stock tickers, weather forecasts, and news reports.  But the coolest thing
+about the CWSAPPS site is the categorized list of apps, each of which is
+reviewed and rated to help you decide which one is best for you.
+
+            *** A Short Aside For the Technology Impaired ***
+  [ Let's do a little terminology before we go any further.  The term  ]
+  [ "app" is short for "application" and basically means "a program".  ]
+  [ A "client" is any program that works over a network to bring you   ]
+  [ information from another computer (or server).  Common clients are ]
+  [ Netscape (web), Eudora (e-mail), and Free Agent (usenet).          ]
+
+When you first arrive at the CWSAPPS site, click on "16-bit Apps" if
+you're a Windows 3.1 user, or "32-bit Apps" if you run Windows 95 or NT.
+If you're after something specific, such as HTML Editors, you can use
+the search box to jump right to it.
+
+Here are some other nifty things to look for at the CWSAPPS site:
+
+  * Index Of Apps
+    - A long list of about 400 winsock apps, sorted by name.
+
+  * The Top 20 Apps List
+    - The most frequently downloaded winsock apps.
+
+  * Cool App Of The Week
+    - A new Internet application is featured each week.
+
+  * The CASPER Page
+
+    - The Critical Applications Starter PackagE and Recommendations
+      (CASPER for short) page is designed to supply new users with an
+      inexpensive best of the 'net applications package.  These apps
+      represent the best in their class and are the most important
+      ones to have, whether you're a newbie or a cyber-guru.
+
+      Surfing The 'Net On A Budget offers an inexpensive package of
+      the best free and low-cost apps, and Nothing But The Very Best
+      is a collection of the best apps for those with money to burn.
+
+  * Menu Of Apps
+
+    - Better than a Greek diner!  This hefty menu offers the following:
+    Audio Apps, Communications Clients, Compression Utilities, FTP,
+    Archie, Finger, Gophers, Graphics Viewers, HTML Editors, IRC Apps,
+    E-Mail Clients, Multimedia Viewers, Agents, News Readers OnLine News,
+    Plug-in Modules, Statistics Services, Stock Tickers, Terminal Apps
+    Virus Scanners, VRML Browsers, WAIS, Weather Apps, Web Accessories,
+    Web Graphic Tools, and Web Browsers.  Want ketchup with that, Honey?
+
+
+HEY, WHAT ABOUT THAT MAC STUFF???
+
+Okay, I did promise.  There's another site sort of like CWSAPPS, which
+is called TUCOWS - The Ultimate Collection of Winsock Apps.  The address
+is http://www.tucows.com and contrary to the name, this site DOES have
+a very nice section with listings of Internet software for the Mac.
+
+TUCOWS is bogged down with lots of graphics, and it lacks the in-depth
+reviews found at the CWSAPPS site, so don't bother with this one
+unless you're after the Mac stuff.  You can also find a listing of Mac
+Internet applications at The University of Texas website.  The address
+for this one is: http://wwwhost.ots.utexas.edu/mac/internet.html
+
+
+THE UGLY BUS IS NO MORE
+
+Things must be a little slow down at the UofA...  Patrick found himself
+with too much time on his hands and created a really cool logo for the
+new TOURBUS website.  Take a look!      http://www.TOURBUS.com
+
+
+CONGRATULATIONS!
+
+Sheldon Liss from Philadelphia, PA and Rose Marie Driscoll from Sandy
+Creek, NY are the most recent winners in my book give away.  Each week
+I select one person who has ordered a copy of "Painless" and surprise
+them with a free copy to give to a friend.  See below for details.
+
+========================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.TOURBUS.com
+ Advertising: Send e-mail to BobRankin@MHV.net for details.
+=----------------------------------------------------------------------=
+                          Get The Scoop On
+       -->  "Doctor Bob's Painless Guide To The Internet"  <--
+     Send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+   or browse reviews & sample chapters at http://biz.mhv.net/drbob
+========================================================================
+
+     TOURBUS - (c) Copyright 1995-97, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

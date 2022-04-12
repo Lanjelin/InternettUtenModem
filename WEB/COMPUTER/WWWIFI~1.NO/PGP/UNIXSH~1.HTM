@@ -1,0 +1,183 @@
+<html>
+<head>
+<title>Installing PGP 2.6.3i on Unix</title>
+</head>
+<body bgcolor=#FFFFCC text=#000000 link=#0033FF vlink=#990000 alink=#006666>
+<h1>Installing PGP 2.6.3i on Unix</h1>
+<img src="IMAGES/RED_LINE.GIF" tppabs="http://www.ifi.uio.no/pgp/images/red_line.gif">
+<br>
+<p><i>
+Here follows some step-by-step instructions on how to compile and set up
+PGP 2.6.3i on a typical Unix system.
+</i><p>
+<hr>
+
+<center>
+            <h3>Compiling PGP 2.6.3i on SunOS 4.1.3 with gcc</h3>
+
+                                 <b>by<br>
+
+<a href="../../tppmsgs/msgs25.htm#2590" tppabs="http://www.rgd.nl/people/e.maryniak/">Eric Maryniak</a><br>
+       eric@cv.ruu.nl<br></b>
+</center>
+<p>
+    This document gives extra installation information not present or not
+    clear (to me, anyway) in the existing documents (like <a href="README.1ST" tppabs="http://www.ifi.uio.no/pgp/readme.1st">'readme.1st'</a> and
+    'setup.doc') or FAQ's.
+    The hints below are a result of some trial and error!
+<p>    
+    <i>Disclaimer: usage of this information is completely at your own risk.
+    I have tried to be as accurate as possible but can not be held
+    responsible for it in any way. I'm pretty new in the PGP area ;-).
+    Questions should NOT be emailed to me, but to
+    <a href="mailto:pgp-bugs@ifi.uio.no">pgp-bugs@ifi.uio.no</a>.</i>
+<ol>
+   <li>Move the gnu-zipped (or compressed) PGP tar file to a
+       working directory.
+       <p>
+   <li>Extract the tar file from the gnu-zipped file ($ is the prompt):
+       <pre>
+       $ gunzip pgp263is.tar.gz
+       </pre>
+   <li>Extract the files from the tar archive:
+       <pre>
+       $ tar xvf pgp263is.tar
+       </pre>
+   <li>Extract the source tar file (pgp263ii.tar):
+       <pre>
+       $ tar xvf pgp263ii.tar
+       </pre>
+   <li>Go to the source directory en do a make for SunOS with gcc.
+       A make for the standard Sun C compiler (cc), which is of
+       inferior quality, requires Wietse Venema's "unproto" package.
+       Just use gcc like forty million sensible people on the Internet do!
+       <pre>
+       $ cd src
+       $ make sun4gcc
+       </pre>
+   <li>If the make was successfull, there should be a binary 'pgp' in
+       the src directory. Before installing 'pgp', run a test with a
+       temporary key (use 'test' as userid/password). PGP will complain
+       about a 'config.txt' file missing, ignore this. First create a
+       directory '.pgp' in your home directory (note the dot!). It is a
+       good idea to protect this directory from access by others, if not
+       already so. The 700 mode does not protect your directory from access
+       by the super-user (root) or from a hacker who has gained root
+       privileges. Keep this in mind on a multi-user system like Unix.
+       <pre>
+       $ mkdir ~/.pgp
+       $ chmod 700 ~/.pgp
+       $ ./pgp -kg
+       </pre>
+       Add the keys from the file 'keys.asc' to your public key ring and
+       sign at least one key:
+       <pre>
+       $ ./pgp -ka ../keys.asc
+       </pre>
+       Do a keyring check:
+       <pre>
+       $ ./pgp -kc
+       </pre>
+       Encrypt and decrypt the file 'pgpdoc1.txt' in the 'doc' subdirectory
+       and compare (diff) afterwards. There should be no differences:
+       <pre>
+       $ ./pgp -e ../doc/pgpdoc1.txt test -o testfile.pgp
+       $ ./pgp testfile.pgp
+       $ diff ../doc/pgpdoc1.txt testfile
+       </pre>
+   <li>If the tests were successfull, install 'pgp' in a suitable bin
+       directory and put the man page in a man1 directory. Move the doc
+       (documentation) directory to a suitable place as well.
+       At least study the 'pgpdoc1.txt' document.
+       You may want to copy and/or print out the <a href="README.1ST" tppabs="http://www.ifi.uio.no/pgp/readme.1st">'readme.1st'</a>, 'setup.doc'
+       and <a href="PGP.HLP" tppabs="http://www.ifi.uio.no/pgp/pgp.hlp">'pgp.hlp'</a> (handy 1-page overview of PGP commands) files as well.
+       <pre>
+       $ mv pgp /usr/local/bin
+       $ mv ../doc/pgp.1 /usr/local/man/man1
+       $ mv ../doc /usr/local/info/pgp
+       </pre>
+   <li>Now the finishing touch!
+       First completely remove the bogus key rings:
+       <pre>
+       $ cd ~/.pgp
+       $ rm pubring.* secring.*
+       </pre>
+       Generate your true key now (pgp -kg).
+       Military grade (1024 bits) is best.
+       The userid should be something like:
+       <pre>
+           James Bond &lt;j.bond@dept00.mi5.gov.uk&gt;
+       </pre>  
+       Copy the 'config.txt' to the ~/.pgp PGP directory and replace
+       the entry 'MyName' appropiately with a substring of the userid
+       you entered above, e.g. "James Bond".
+       You may have to change the permissions first with:
+       <pre>
+       $ chmod u+w config.txt
+       </pre>
+       But don't forget to set them back afterwards:
+       <pre>
+       $ chmod u-w config.txt
+       </pre>
+       What to do with existing public and/or secret key rings:
+       Existing key rings (e.g. from your Dos PGP version) can be added
+       to the Unix PGP version by extracting the keys to an ascii file.
+       Important note: if you want to use the same secret key under Unix,
+       you must add the 'secring.pgp' key ring to your (empty) Unix secret
+       key ring _before_ adding the public keys!
+       In that case, answer 'yes' when this question pops up:
+       <pre>
+           ...
+           also appears in the secret key ring.
+           Use this key as an ultimately-trusted introducer (y/N)?
+       </pre>
+       It is questionable to put your secret key ring on a multi-user
+       system (such as Unix). See question 3.17 ("Can I put PGP on a
+       multi-user system like a network or a mainframe?") in the
+       <a href="../../tppmsgs/msgs24.htm#2471" tppabs="http://www.prairienet.org/~jalicqui/pgpfaq.txt">PGP FAQ</a>.
+       <p>
+       We continue with our example for the public keys (when adding
+       secret key(s) replace 'pubring' with 'secring').
+       Under Dos do this (PGP is in 'c:\pgp' and 'c:\>' is the prompt):
+       <pre>
+       c:\> pgp -at c:\pgp\pubring.pgp
+       </pre>
+       Add the generated file 'pubring.asc' to the Unix key ring.
+       The file 'pubring.asc' should NOT be in your PGP home directory
+       (~/.pgp); use a working directory for this. It is a good idea to
+       protect this directory from access by others ('chmod 700 the_dir').
+       <pre>
+       $ pgp ./pubring.asc
+       </pre>
+       Answer 'yes' (simply give a return) to the rename question and
+       then re-run pgp:
+       <pre>
+       $ pgp ./pubring.pgp
+       </pre>
+       Answer 'yes' to the adding question.
+       <p>
+   <li>Finally, clean up the working directory where the PGP files are.
+       Also clean up the working directory where you any key rings from
+       step 7. You don't want to have your secret key rings lying around.
+</ol>
+<p>
+    Happy and secure e-mail fun!
+<p>
+<i>
+    Eric Maryniak<br>
+    June 6, 1995<br>
+<p>
+    eric@cv.ruu.nl<br>
+</i>
+<p>
+
+<hr>
+<address><a href=""><img src="IMAGES/HOME.GIF" tppabs="http://www.ifi.uio.no/pgp/images/home.gif" width=31 height=31 border=0></a>
+<font size=-1>Last updated
+
+February  5, 1997
+by <a href="../../tppmsgs/msgs24.htm#2460" tppabs="http://www.ifi.uio.no/~staalesc/">Ståle Schumacher</a>
+&lt;<a href="../../tppmsgs/msgs24.htm#2456" tppabs="http://www.ifi.uio.no/~staalesc/email.shtml">stale@hypnotech.com</a>&gt;
+</font></address>
+</body>
+</html>

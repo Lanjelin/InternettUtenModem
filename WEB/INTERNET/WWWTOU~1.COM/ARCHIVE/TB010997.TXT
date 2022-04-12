@@ -1,0 +1,296 @@
+
+From crispen@CAMPUS.MCI.NET Wed Jan  8 22:04:06 1997
+Date: Wed, 8 Jan 1997 17:14:49 -0600
+From: Patrick Douglas Crispen <crispen@CAMPUS.MCI.NET>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS -- 9 JANUARY 1997 -- VIRTUAL "TICKLE ME ELMO" AND THE              TOURBUS FAQ FILE
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |   Try your wits at JEOPARDY PRO, now at WorldVillage  |//////|    |
+ |   Gamer's Zone! http://www.worldvillage.com/jeopardy  |//////|    |
+ |                                                       |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+TODAY'S STOP:       VIRTUAL "TICKLE ME ELMO" AND THE TOURBUS FAQ FILE
+TODAY'S ADDRESSES:  http://www.clark.net/elmo/elmo.html
+                    http://www.worldvillage.com/wv/hotel/tourbus/
+                    http://ua1vm.ua.edu/~crispen/word.html
+                    http://www.yahoo.com/
+
+Hi, kids!  I hope that y'all had a safe and happy holiday season.
+
+For those of our bus riders who are not in the United States or who may
+have (thankfully) missed it, the hottest toy this holiday season was Tyco's
+"Tickle Me Elmo" doll.  The doll is pretty much a $30, red, stuffed Sesame
+Street character that laughs and vibrates when you tickle it.
+
+Well, if you were unable to find a Tickle Me Elmo doll in the stores or if
+you were unwilling to pay up to $1,500 (US) for a doll that pretty much
+just twitches when you poke it, I have some incredible news for you: you
+can now find a Virtual Tickle Me Elmo on the Web at
+
+     http://www.clark.net/elmo/elmo.html
+
+Wait ... it gets better.  If you click on the Virtual Elmo's tummy, you can
+download a 273 K wav file of Elmo giggling and twitching!  [I was just
+wondering: is this the 4th or the 5th sign of the apocalypse?]  I have also
+noticed that *my* Tickle Me Elmo (yes, I actually bought one) rotates
+clockwise when it is laid on a table.  I wonder if South American Tickle Me
+Elmos rotate counter-clockwise?  :)
+
+Seriously, before we start today's tour, I want to thank one of our
+long-time sponsors for making today's TOURBUS possible.  While Aardwulf
+doesn't have any Tickle Me Elmos, they do have some of the best-priced
+men's apparel I have ever seen.  If you are looking for a good place to
+spend this year's holiday bonus, look no further!
+
+----------------------------------------------------------------------
+   FREE Coupons on great apparel brands like Timberland, Duck Head,
+  Woolrich, and Calvin Klein. Just sign up at Aardwulf Apparel's web
+ store. Since they're electronic, they'll never clutter your drawers!
+---------------------( http://www.aardwulf.com )----------------------
+
+Today, our little bus of Internet happiness won't be visiting a particular
+Internet site or tool.  Instead, we're going to take a quick peek at the
+second "First Annual TOURBUS Frequently Asked Questions" file.  :)
+
+------------------
+WHAT *IS* TOURBUS?
+------------------
+
+TOURBUS is a free, on-going, semi-weekly, text-based tour of some of the
+neatest sites on the Internet.  TOURBUS' posts are written by Bob Rankin
+(author of "Accessing the Internet by E-mail") and me (Patrick Douglas
+Crispen, author of the ROADMAP workshop), and are distributed via a
+LISTSERV e-mail distribution list at America Online.
+
+What makes TOURBUS unique is that each TOURBUS post not only gives you the
+addresses of neat Internet sites, it also gives you a really in-depth look
+at how to fully use those sites.  Surf the Net for any amount of time, and
+you will soon discover that many of the Internet's most exciting sites do
+not come with instruction manuals.  TOURBUS helps you overcome that problem.
+
+Bob and I also try to make each TOURBUS post as conversational -- and
+humorous -- as possible.  Above everything else, the Internet is FUN ...
+and Bob and I try to show that in our TOURBUS posts.  :)
+
+---------------------------
+HOW MUCH DOES TOURBUS COST?
+---------------------------
+
+Nothing.  Zero.  Zip.  Zilch.  Nada.
+
+TOURBUS is absolutely free.  All of the costs associated with running the
+TOURBUS list are paid by our sponsors (and by Bob and me).
+
+------------------------------------------
+IS THERE AN ARCHIVE OF PAST TOURBUS POSTS?
+------------------------------------------
+
+Yep!  You can find the TOURBUS archives and other TOURBUS stuff at the
+TOURBUS homepage at
+
+     http://www.worldvillage.com/wv/hotel/tourbus/
+
+--------------------------------------------------------
+HEY! THAT'S A WEB ADDRESS!  I DON'T HAVE A WEB BROWSER!!
+--------------------------------------------------------
+
+Don't panic!  You can still access the TOURBUS homepage (and, for that
+matter, ANY other Web page) through e-mail using the information contained
+in Bob Rankin's free guide "Accessing the Internet by E-mail."  To find out
+how to get this guide (and how you can still participate in my ROADMAP
+Internet training workshop), send an e-mail letter to
+
+     LISTSERV@UA1VM.UA.EDU
+
+(that's "you-aye-won-vee-em") with the command
+
+     GET NEWUSER PACKAGE F=MAIL
+
+in the body of your e-mail letter.
+
+---------------------------------------
+WHEN ARE THE TOURBUS POSTS DISTRIBUTED?
+---------------------------------------
+
+Its kind of hard to say.  TOURBUS is, for the most part, distributed every
+Tuesday-ish and Thursday-ish.
+
+----
+ISH?
+----
+
+Well, sometimes we are a little late in getting these posts out.  If you
+want to be technical (or at least "statistical"), I guess you could say
+that TOURBUS has a probability distribution centered around Tuesday and
+Thursday, with a standard deviation of a day or two.  :)
+
+----------------------------------------
+HOW CAN MY FRIENDS SUBSCRIBE TO TOURBUS?
+----------------------------------------
+
+Just have them send an e-mail letter to
+
+     LISTSERV@LISTSERV.AOL.COM
+
+with the command
+
+     SUBSCRIBE TOURBUS YOURFIRSTNAME YOURLASTNAME
+
+in the body of their letter, replacing YOURFIRSTNAME and YOURLASTNAME with
+their first and last names.
+
+----------------------------------------------------------
+WHERE DO YOU AND BOB GET YOUR IDEAS FOR THE TOURBUS STOPS?
+----------------------------------------------------------
+
+Bob and I receive a lot of suggestions from the TOURBUS riders (like "get a
+life"), but most of the sites that we write about are sites that we
+accidentally find while surfing the Net.  :)
+
+--------------------------------
+HOW DID YOU AND BOB RANKIN MEET?
+--------------------------------
+
+Well, actually, we've never met.
+
+I know Bob from the NETTRAIN list, and Bob and I have exchanged hundreds of
+e-mails (and about five phone calls) over the past couple years, but I have
+no idea what Bob looks like ... and, from what I hear, that's a good thing!
+:)
+
+Bob e-mailed me shortly after the end of my last Roadmap workshop with the
+idea of creating a sponsor-supported, two or three week workshop of neat
+Internet sites.  I suggested that we make the workshop on-going ... and the
+rest, as they say, is history.  :)
+
+-----------------------------------
+ARE YOU *REALLY* A COLLEGE STUDENT?
+-----------------------------------
+
+Unfortunately, yes.  I am an 11th-year senior at the University of Alabama
+majoring in Economics ... but, in light of the success of my Southern Word
+collection, I'm thinking about changing my major to "Ala-bonics." :)
+
+-------------------------------
+WHEN ARE YOU GOING TO GRADUATE?
+-------------------------------
+
+I dunno, mom ... soon (August, I think).  :)
+
+--------------------------------------------------------------------
+YOU KEEP MENTIONING "SQUIRRELS" IN YOUR POSTS AND IN YOUR SIGNATURE.
+WHAT'S THE STORY?
+--------------------------------------------------------------------
+
+The "squirrel story" comes from the fact that the squirrels living in the
+trees on the campus of the University of Alabama have developed quite a
+taste for power lines ... especially for the power lines leading into the
+University's mainframe computer center (if you are not electrically
+inclined, let me just add that energetic squirrels and power lines do not
+mix well).
+
+Back when I was running the Roadmap workshop (that online Internet training
+thingy that I did in 1994), I was really concerned that if the University
+of Alabama's mainframe was taken down by a squirrel (which was a regular
+occurrence at the time) and I was not able to deliver that day's Roadmap
+lesson to the 64,000 people in the workshop, the workshop participants
+would panic and mailbomb me with 64,000 "where is today's lesson?" messages.
+
+By telling the subscribers up front to expect a squirrel attack, I kept
+myself from being mailbombed, I elevated Alabama's squirrels to Net-legend
+status (people around the world were even rooting for the squirrels), and I
+gained a really neat "trademark." :)
+
+------------------------------------------------
+WHERE DO YOU GET YOUR SOUTHERN WORDS OF THE DAY?
+------------------------------------------------
+
+The TOURBUS subscribers send them in to me.  I may not be able to respond
+to everyone who has sent me a submission, but I have saved every Southern
+Word that I have received.
+
+--------------------------------------------------------------------
+IS THERE AN ARCHIVE WHEN I CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY?
+--------------------------------------------------------------------
+
+Yep!  Just point your web browser to
+
+     http://ua1vm.ua.edu/~crispen/word.html
+
+If that doesn't work, try going to Yahoo (http://www.yahoo.com/) and do a
+keyword search for "Crispen."  Yahoo has two links to the Southern Word
+archive.
+
+A couple of alert TOURBUS readers have informed me that you can also find a
+couple Southern Word dictionaries in your local bookstore:
+
+     How to Speak Southern
+     by Steve Mitchell
+     ISBN 0-553-27519-4
+     Price: $3.99 (US)
+
+     More How to Speak Southern
+     by Steve Mitchell
+     ISBN 0-553-27392-2
+     Price: $3.99 (US)
+
+-----------------------------------------------------
+AND FINALLY, WHAT'S TODAY'S SOUTHERN WORD OF THE DAY?
+-----------------------------------------------------
+
+Actually, in honor of Ruth Parker, a TOURBUS rider who begged me to put a
+whole bunch of Southern Words in today's post, here are a whole bunch of
+Southern Words:
+
+     Duitcher (pronounced "DOOT-cher").  The command form in Southern.
+     Usage: "Duitcher momma tells ya to do."
+
+     Utcha Doon? -- The traditional Southern greeting.
+
+     Meerfuraminit! -- Mandating a person's immediate presence.
+
+     Jauntsamore? -- Asking if one wants seconds at mealtimes.
+
+     Wongo? -- A query of companionship.
+
+     Ahsposo -- The affirmative response to "Wongo?"
+
+     Preshadit (pronounced "PRE-shay-diht") -- A way to give thanks.
+
+(An extremely special thanks goes to Adam Joshua Smargon of the University
+of Florida -- the SEC and National Collegiate Football Champions -- for
+today's Southern Words).
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

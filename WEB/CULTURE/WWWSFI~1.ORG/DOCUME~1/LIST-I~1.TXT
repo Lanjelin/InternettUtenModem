@@ -1,0 +1,213 @@
+STARFLEET LIST SERVERS INFORMATION
+<last update:  9701.02>
+
+This is a list of ListServers available to STARFLEET Members. Some of these lists are closed 
+and are only accessible to certain members (like the Executive Committee). Others such as 
+<sfi-announce@sfi.org> or <starfleet@netrail.net> are available to any 'fleet member of 
+good standing.
+
+*****
+
+
+@Name of List: STARFLEET Announcements List (not currently available)
+
+@Address of List: <sfi-announce@sfi.org>
+
+@Purpose of List: This list is an announcements only (no discussion, just "press releases") 
+list where only the moderator or his/her designates are the only ones that will be allowed to 
+post to the list. The purpose of making this list moderator only as far as postings is to keep 
+it on track as being announcements only -- no discussion of any kind will be allowed here 
+(for discussions, see Starfleet list below). The goal of the list is to get as many 'fleet 
+members who are on-line subbed to this list as possible and is especially intended for members 
+that can't keep up with the mailing list, but want to keep up-to-date on 'Fleet issues and news
+
+@Administrator Name/Address: Commodore Allyson M.W. Dyar <NetServices@sfi.org>
+
+@Moderator Name/Address: Commodore Allyson M.W. Dyar <NetServices@sfi.org>
+
+@Subscription Information: (how to subscribe)
+
+@Posting Information: send a message to <sfi-announce@sfi.org> and the moderator will 
+review it or send it directly to <netservices@sfi.org>
+
+@Anything Else: This list is announcements only and will contain *no* discussions.
+
+
+*****
+
+@Name of List: STARFLEET List Server
+
+@Address of List: <STARFLEET@netrail.net>
+
+@Purpose of List: To provide a forum for discussion of STARFLEET issues of interest to 
+'fleet members.
+
+@Administrator Name/Address: Captain Lisa Paradis Berkenbilt <paradis@ql.org>
+
+@Moderator Name/Address: Captain Lisa Paradis Berkenbilt <paradis@ql.org>
+
+@Subscription Information: to subscribe <starfleet-request@netrail.net>; body of 
+the message put subscribe <youraddress@your.provider.com>
+
+@Posting Information: send posts to <starfleet@netrail.net>
+
+@Anything Else: All 'fleet members are welcome to participate, however, interested 
+members should read the ListFAQ <http:// www.netrail.net/~glyndwr/starfleet/listfaq.html> 
+which is accessible from the 'fleet home page or request a text copy from the 
+administrator. All posts from sfi-announce will be cross-posted to this list.
+
+
+*****
+
+REGIONAL LISTS:
+
+
+Region 01:
+        *List Name: Chat
+        *List Address:  <r1-chat@weyr.org>
+        *List Administrator: <r1LL@weyr.org>
+        *How to Subscribe: send an e-mail to: <chat-hi@weyr.org>
+        *Notes: The purpose of this area is just for general chit-chat between members
+and friends of STARFLEET, specifically those in Region One.
+        
+        *List Name: r1-official
+        *List Address:  
+        *List Administrator: <r1LL@weyr.org>
+        *How to Subscribe: contact administrator
+        *Notes: R1-official is the "official business" mailing list.  The purpose of this
+area is so regional staff and individual chapters can cut down on mailing costs by 
+posting official information here.  It is for news, announcements, and information 
+on Region One ONLY!
+
+               
+Region 02:
+
+        *List Address: <Region2-l@sfi.org>
+        *List Administrator Name/e-mail address: Mike Henigan <wmh@primenet.com>
+        *How to Subscribe: Email to Mike along with SCC Number, Ship Affiliation, 
+        Rank and position. 
+        *Notes: In order to subscribe, you MUST be a Starfleet member from Region 2.
+
+Region 03:
+
+Region 04:
+        *List Address: 
+        *List Administrator:  Fadm Rob Lerman <rob.lerman@treknet.gigo.com>
+        *How to Subscribe:  send a message with your name, scc#, email address and 
+        if you are a CO or XO and your assigned chapter to <sfr4_request@treknet.gigo.com>
+        *Note:  Restricted to Region 4 CO's & XO's only
+
+Region 05:
+        *List Address: <r5echo@teleport.com>
+        *List Administrator:  Commander Kurt Roithinger <gren@teleport.com>
+        *How to Subscribe: contact the list administrator
+
+Region 06:
+
+Region 07:
+        *List Address: <rgn7sf@hr.bellcore.com>
+        *List Administrator:  Cdr Frank Warren <>
+        *How to Subscribe: contact the list administrator
+          Send to message to <majordomo@hr.bellcore.com> with subscribe rgn7sf 
+          <your.email@address> in body of message
+        
+Region 08:
+
+Region 09:
+
+Region 10:
+
+Region 11:
+
+Region 12:
+
+Region 13:
+
+Region 14:
+
+Region 15:
+
+Region 16:
+
+Region 17:
+
+Region 18:
+
+Region 19:
+
+Region 20:
+
+Region 21:
+
+
+******
+
+SPECIALTY LISTS:
+
+@Name of List: EC-List
+
+@Address of List: n/a
+
+@Purpose of List: To provide a private forum for the discussion of issues that 
+concern the Executive Committee and their staff.
+
+@Administrator Name/Address: 
+
+@Moderator Name/Address: 
+
+@Subscription Information: subscriptions by the administrator only 
+
+@Posting Information: n/a
+
+@Anything Else: This list is *closed* and only accessible to the EC Members and Staff.
+
+*****
+
+@Name of List: EC/AB Net
+
+@Address of List: n/a
+
+@Purpose of List: To provide a private forum for the dicussion of issues that 
+concern the Executive Committee and Regional Coordinators (The Admiraly Board) 
+and their staff.
+
+@Administrator Name/Address: 
+
+@Moderator Name/Address: 
+
+@Subscription Information: subscriptions by the administrator only
+
+@Posting Information: n/a
+
+@Anything Else: This list is *closed* and only accessible to the Executive Committee 
+and Regional Coordinators (The Admiraly Board) and Staff.
+
+*****
+
+@Name of List: Starfleet Marines
+
+@Address of List: n/a
+
+@Purpose of List: To provide a private forum for the discussion of issues that 
+concern the Starfleet Marines (SFMC).  This list is only for Starfleet members in the SFMC.
+
+@Administrator Name/Address:  Rob Lerman <rob.lerman@treknet.gigo.com>
+
+@Moderator Name/Address:   Same as above
+
+@Subscription Information: Send a message with your name, SCC#, ship name, 
+email address along with your SFMC info to <sfmc_request@treknet.gigo.com>
+
+@Posting Information: n/a
+
+@Anything Else: This list is *closed* and only accessible to the members of the SFMC 
+(active and reserves)
+
+*****
+
+Please send any questions or comments; updates or corrections to:
+
+Commodore Allyson M.W. Dyar
+<NetServices@sfi.org> or <dyar@halcyon.com>
+
+<eof>

@@ -1,0 +1,295 @@
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Subject: TOURBUS -- 27 FEBRUARY 1997 -- DEBUNKING URBAN LEGENDS
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~~/~~~|~\
+   |       "DRIFTWOOD" PREMIERES ON WWW.MEDIADOME.COM       /    |  \
+   |__________|__________/__________|__________|___________/     |   \
+  /                                                       /______|----\
+ |    Check out the latest in VRML 2.0 animation...       |//////|    |
+ |        10 hilarious adventures                         |//////|    |
+ |               two funky characters                     |//////|    |
+ |                         one cool website               |//////|    |
+ |                                  www.MEDIADOME.com     |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s    \___/
+
+
+TODAY'S STOP:      DEBUNKING SOME MORE URBAN LEGENDS
+TODAY'S ADDRESSES: http://www.legends.org.za/arthur/craig01b.htm
+                   http://www.wish.org/wish/craig.html
+                   http://www.cancer.org/chain.html
+                   http://www.mayo.edu/about/parkin.html
+
+Hi, kids!  It is time once again for another journey of our little bus of
+Internet happiness.  But first a quick word from the nice folks who help
+to keep the 'Bus rolling:
+
+------------- DHEA. MELATONIN. SPORTS NUTRITION. VITAMINS-------------
+    HealthPort Newsletter: it's like a TOURBUS of Health Industry!
+         Facts and Fun On-Line: get your FREE subscription at
+---------------------( http://www.healthport.com )--------------------
+
+*--------------------------- MASS MUSIC -----------------------------*
+  More Music For Your Money!  Over 185,000 Titles Just A Click Away.
+ FREE Weekly Music Zine - Buy 7 Get 1 FREE Everyday - Treasure Hunt!
+      TOURBUS Rider Discount code: SAVENOW! use it and save 5%
+*------------------(  http://www.Mass-Music.com  )-------------------*
+
+DEBUNKING SOME MORE MYTHS AND URBAN LEGENDS
+-------------------------------------------
+
+With all of the chain letters and urban legends that are floating around
+the Internet, most people's e-mail boxes are starting to look like war
+zones.  Well, your fearless bus driver is about to give you some ammunition
+to help you in this battle.
+
+We've talked about this a lot recently, but today's TOURBUS post is going
+to explain the *truth* behind a lot of the Internet's biggest urban legends
+and hoaxes.  My hope is that today's post will give you enough information
+to help you make an informed response the next time someone sends you an
+urban legend.
+
+In short, I hope that you will repost the information in this letter
+whenever and wherever you feel it to be necessary and relevant.  If you do
+repost any of this information, however, I have two small requests:
+
+     1. Give credit where credit is due; and
+
+     2. Please include TOURBUS' subscription information (the stuff at
+        the bottom of today's post) at the bottom of the stuff that
+        you redistribute.
+
+With that said, let's start with the biggest urban legend of them all ...
+
+
+THE FATHER OF ALL INTERNET URBAN LEGENDS
+----------------------------------------
+
+If you have been a TOURBUS rider for any amount of time, you'll know that
+one of the worst urban legends floating around the Net is the story about
+Craig Shergold:
+
+     Craig Shergold is seven years old and suffering from terminal
+     cancer. It is his ambition to be included in the Guinness Book of
+     Records for the largest number of business cards ever collected
+     by one person...
+
+     [Quoted from http://www.legends.org.za/arthur/craig01b.htm]
+
+What the "Craig letter" does not tell you is that Craig is alive and well,
+he's cured, he's now well into his teens, he made it into the Guinness Book
+of Records years ago, Guinness has retired the "most cards" category, and
+HE DOESN'T WANT ANY MORE BLOODY CARDS!
+
+A few years ago, someone thought it would be funny to change the Craig
+letter a little so that the letter now requests that you send your cards to
+the Make-A-Wish foundation (instead of to Craig's home in England).  Here
+is what the Make-A-Wish foundation has to say about that:
+
+     "The chain letter claims that Make-A-Wish is involved," stated
+     James E. Gordon, Chairman of the Board of the Make-A-Wish
+     Foundation of America. "That is not true. Our organization is
+     not, and has never been associated with the letter. The Make-A-Wish
+     Foundation requests that people please stop sending business cards
+     or greeting cards to Craig Shergold."
+
+     [Quoted from http://www.wish.org/wish/craig.html]
+
+If that isn't bad enough, someone else thought it would be funny to
+completely rewrite the Craig letter and change the name "Craig Shergold" to
+"Jessica Mydek":
+
+     LITTLE JESSICA MYDEK IS SEVEN YEARS OLD AND IS SUFFERING FROM AN
+     ACUTE AND VERY RARE CASE OF CEREBRAL CARCINOMA. THIS CONDITION
+     CAUSES SEVERE MALIGNANT BRAIN TUMORS AND IS A TERMINAL ILLNESS.
+     THE DOCTORS HAVE GIVEN HER SIX MONTHS TO LIVE.
+
+     AS PART OF HER DYING WISH, SHE WANTED TO START A CHAIN LETTER TO
+     INFORM PEOPLE OF THIS CONDITION... FURTHERMORE, THE AMERICAN CANCER
+     SOCIETY AND SEVERAL CORPORATE SPONSORS HAVE AGREED TO DONATE THREE CENTS
+     TOWARD CONTINUING CANCER RESEARCH FOR EVERY NEW PERSON THAT GETS
+     FORWARDED THIS MESSAGE. IF THERE ARE ANY QUESTIONS, SEND THEM TO
+     THE AMERICAN CANCER SOCIETY AT ACS@AOL.COM
+
+     [Quoted from http://www.cancer.org/chain.html]
+
+Here is the American Cancer Society's response:
+
+     As far as the American Cancer Society can determine, the story of
+     Jessica Mydek is completely unsubstantiated. No fundraising
+     efforts are being made by the American Cancer Society in her name
+     or by the use of chain letters. Furthermore, the email address
+     ACS@AOL.COM is inactive. Any messages to the American Cancer
+     Society should be instead sent through the American Cancer
+     Society website at http://www.cancer.org.
+
+     [Quoted from http://www.cancer.org/chain.html]
+
+Our next urban legend of the day is this little letter, which has been
+clogging up the Net recently:
+
+     From: Anthony Parkin<Parkin@MayoHospital.health.com>
+     Subject: My dying wish
+
+     My name is Anthony Parkin, and you don't know me.  I'm 7 years
+     old, and I have leukemia.  I found your name using gopher, and I
+     would like for you to carry out my dying wish of starting a chain
+     letter.  Please send this letter to five people you know so I can
+     live forever.
+
+Unfortunately, neither the "Mayo Hospital" nor the domain
+"MayoHospital.health.com" exist.  There is a Mayo Clinic, however, and here
+is what they have to say about the Anthony Parkin chain letter:
+
+     [P]lease be advised that the letter did not originate from a
+     valid source.  The address "Parkin@MayoHospital.Health.Com" is
+     fictitious, as are the particular details of that letter.
+
+     The plight of children or adults suffering from leukemia,
+     however, certainly is not fictitious.  It is understandable that
+     such a letter can generate a great deal of sympathy, but
+     forwarding chain letters is not an appropriate response to the
+     situation. If you would like further information about how you
+     can help the real victims of this terrible disease, please take a
+     look at the Leukemia Society of America world-wide-web server [at
+     http://www.lukemia.org/].
+
+     [quoted from http://www.mayo.edu/about/parkin.html]
+
+By the way, one of the things that tipped me off that the Anthony Parkin
+letter was a hoax was that he used a .COM address.  Most teaching hospitals
+-- like Mayo, Hopkins, etc. -- are in the .EDU domain.
+
+Folks, if you receive a letter telling you that Craig Shergold, Jessica
+Mydek, Anthony Parkin, or ANY other sick/dying kid wants you to send them
+business cards, get well cards, e-mail letters, or anything else, DON'T
+BELIEVE IT!  These stories not only betray the public's confidence, they
+cause damage to legitimate organizations like the American Cancer Society
+and the Mayo Clinic.
+
+
+IT'S NOT EASY BEING GREEN
+-------------------------
+
+This one comes from Peter Langston, the owner of the Fun-People list (which
+we visited back on December 12th -- check out
+http://www.tourbus.com/archives.htm if you want to see that post again).
+
+You may remember that a couple of months ago, congress talked about
+slashing funding for both National Public Radio (NPR) and the Public
+Broadcasting System (PBS).  A petition was distributed across the Internet
+urging congress to protect NPR and PBS.
+
+Peter writes:
+
+     Today, when I did a quick search on the WWW for "npr funding
+     petition," I came up with the appended correspondence on the
+     Bananafish Archives page at:
+     http://slf.gweep.net/~sfoskett/jds/online/archive/9609/118.html>
+
+     ... %< snip snip snip %< ...
+
+     ****UPDATE FOR PBS/NEA/NPR PETITION****
+
+     To all receivers of this petition,
+
+     It has come to our attention, due to the overwhelming support of
+     these programs, the movement to cut the funding for the NEA, NPR,
+     and PBS has been dropped.  To repeat, thanks to your support of
+     these programs, the danger of losing these programs has passed!!
+
+     Unfortunately, the due date for this petition was deleted on most
+     or all of these copies and the petition is still circulating.
+     ***** PLEASE DELETE ALL COPIES OF THE CIRCULATING
+     PETITION!!!*****  We greatly apologize for any inconvenience
+     concerning this effort but MUST ASK FOR THE PETITIONS TO BE
+     DELETED!!!  The overwhelming support we have received has kept us
+     going, but the fight has been won and we thank you all!
+
+     -Sincerely,
+     The authors of the petition
+
+
+KIDNEY HARVESTING AT HOME FOR FUN & PROFIT
+------------------------------------------
+
+The most grisly urban legend floating around the Net right now is the one
+that says:
+
+     I wish to warn you about a new crime ring that is targeting
+     business travelers.
+
+     This ring is well organized, well funded,  has very skilled
+     personnel, and is currently in most major cities and recently
+     very active in New Orleans [or Las Vegas or Houston].  The crime
+     begins when a business traveler goes to a lounge for a drink at
+     the end of the work day.  A person in the bar walks up as they
+     sit alone and offers to buy them a drink.   The last thing the
+     traveler remembers until they wake up in a hotel room bath tub,
+     their body submerged to their neck in ice, is sipping that drink.
+     There is a note taped to the wall instructing them not to move
+     and to call 911. A phone is on a small table next to the bathtub
+     for them to call.   The business traveler calls 911 who have
+     become quite familiar with this crime.  The business traveler is
+     instructed by the 911 operator to very slowly and carefully reach
+     behind them and feel if there is a tube protruding from their
+     lower back. The business traveler finds the tube and answers,
+     "Yes."  The 911 operator tells them to remain still, having
+     already sent paramedics to help.  The operator knows that both of
+     the business traveler's kidneys have been harvested.
+
+I received a copy of this letter a few weeks ago, and decided to do a
+little investigating of my own.  So, I contacted the Police Department's
+Public/Media Information offices in New Orleans, Las Vegas, and Houston.
+All three police departments told me that the story is a hoax, and the New
+Orleans police department denied the story so quickly that I never even
+finished asking the question:
+
+     Police>  Public Information
+     Me>      Yeah, my name is Patrick Crispen, and I write an
+              Internet newsletter.  I was just calling to confirm ...
+     Police>  That the kidney story is not true.  It's not
+
+By the way, my favorite part of the kidney harvesting story is the line in
+the letter that says:
+
+     My sister-in-law works with a lady that this happened to her
+     son's neighbor who lives in Houston
+
+Oh, yeah ... now *THERE'S* a reliable source.  :)
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+MERLIN (noun).  A state in the US
+Usage: "Ma Momma's from Jawjah and ma daddy's from Merlin."
+
+(Special thanks goes to Susan Thayer for today's word)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.tourbus.com/
+ Advertising: Send E-mail to BobRankin@MHV.net for details
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+    TOURBUS - (c) Copyright 1997, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.
+
+

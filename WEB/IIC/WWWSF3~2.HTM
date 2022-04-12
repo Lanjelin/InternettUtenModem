@@ -1,0 +1,539 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>WWW Security FAQ: Protecting Confidential Documents at Your Site</title>
+</head>
+
+<body>
+<H1>The World Wide Web Security FAQ</H1>
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF2~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html">Backward to <cite>Running a Secure Server</cite></a>
+  <li><A HREF="WWWSF4~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html">Forward to <cite>CGI Scripts</cite></a>
+</ul>
+<HR>
+
+<H1><A NAME="restrictions">5. Protecting Confidential Documents at Your Site</A></H1>
+
+<H2><A NAME="Q17">Q17: What types of access restrictions are available?</A></H2>
+
+There are three types of access restriction available:
+
+<OL>
+  <LI> Restriction by IP address, subnet, or domain
+       <P>
+       Individual documents or whole directories are protected in such a way
+       that only browsers connecting from certain IP (Internet) addresses,
+       IP subnets, or domains can access them.
+       <p>
+       
+  <LI> Restriction by user name and password
+
+       <p>
+       Documents or directories are protected so that the remote user has to
+       provide a name and password in order to get access.
+       <p>
+
+  <LI> Encryption using public key cryptography
+
+       <p>
+       Both the request for the document and the document itself are
+       encrypted in such a way that the text cannot be read by anyone but the
+       intended recipient.   Public key cryptography can also be used for
+       reliable user verification.  See below.
+</OL>
+
+<HR>
+
+<H2><A NAME="Q18">Q18: How safe is restriction by IP address or domain name?</A></H2>
+
+Restriction by IP address is secure against casual nosiness but not
+against a determined hacker.  There are several ways around IP address
+restrictions.  With the proper equipment and software, a hacker can
+"spoof" his IP address, making it seem as if he's connecting from a
+location different from his real one.  Nor is there any guarantee that
+the person contacting your server from an authorized host is in fact
+the person you think he is.  The remote host may have been broken into
+and is being used as a front.  To be safe, IP address restriction must
+be combined with something that checks the identify of the user, such
+as a check for user name and password.
+<P>
+IP address restriction can be made much safer by running your server
+behind a firewall machine that is capable of detecting and rejecting
+attempts at spoofing IP addresses.  Such detection works best for
+intercepting packets from the outside world that claim to be from
+trusted machines on your internal network.
+
+<p>
+One thing to be aware of is that if a browser is set to use a proxy
+server to fetch documents, then your server will only know about the
+IP address of the proxy, not the real user's.  This means that if the
+proxy is in a trusted domain, anyone can use that proxy to access your
+site.  Unless you know that you can trust a particular proxy to do its
+own restriction, don't add the IP address of a proxy (or a domain
+containing a proxy server) to the list of authorized addresses.
+
+<p>
+Restriction by host or domain name has the same risks as
+restriction by IP address, but also suffers from the risk of "DNS
+spoofing", an attack in which your server is temporarily fooled into
+thinking that a trusted host name belongs to an alien IP address.  To
+lessen that risk, some servers can be configured to do an extra DNS
+lookup for each client.  After translating the IP address of the
+incoming request to a host name, the server uses the DNS to translate
+from the host name back to the IP address.  If the two addresses
+don't match, the access is forbidden.  <A HREF="#maximum_dns">See below</A>
+for instructions on enabling this feature in NCSA's httpd
+
+<HR>
+
+<H2><A NAME="Q19">Q19: How safe is restriction by user name and password?</A></H2>
+
+Restriction by user name and password also has its problems.  A
+password is only good if it's chosen carefully.  Too often users
+choose obvious passwords like middle names, their birthday, their
+office phone number, or the name of a favorite pet goldfish.  These
+passwords can be guessed at, and WWW servers, unlike Unix login
+programs, don't complain after repeated unsuccessful guesses.  A
+determined hacker can employ a password guessing program to break in
+by brute force. You also should be alert to the possibility of remote
+users sharing their user names and passwords.  It is more secure to
+use a combination of IP address restriction and password than to use
+either of them alone.
+
+<p>
+Another problem is that the password is vulnerable to interception as
+it is transmitted from browser to server.  It is not encrypted in any
+meanginful way, so a hacker with the right hardware and software can
+pull it off the Internet as it passes through.  Furthermore, unlike a
+login session, in which the password is passed over the Internet just
+once, a browser sends the password each and every time it fetches a
+protected document.  This makes it easier for a hacker to intercept
+the transmitted data as it flows across the Internet.  To avoid this,
+you have to encrypt the data.  See below.
+
+<p>
+If you need to protect documents against _local_ users on the server's
+host system, you'll need to run the server as something other than
+"nobody" and to set the permissions of both the restricted documents
+and server scripts so that they're not world readable.  See Q9.
+
+<HR>
+
+<H2><A NAME="Q20">Q20: What is user authentication?</A></H2>
+
+User verification is any system that for determining, and verifying,
+the identity of a remote user.  User name and password is a simple
+form of user authentication.  Public key cryptographic systems,
+described below, provide a more sophisticated form authentication that
+uses an unforgeable electronic signature.
+
+<HR>
+
+<H2><A NAME="Q21">Q21: How do I restrict access to documents by the IP
+address or domain name of the remote browser?</A></H2>
+
+The details are different for each server.  See your server's
+documentation for details.  For servers based on NCSA httpd, you'll
+need to add a directory control section to access.conf that looks
+something like this:
+
+<PRE>
+   &lt;Directory /full/path/to/directory&gt;<BR>
+
+     &lt;Limit GET POST&gt;
+       order mutual-failure
+       deny from all
+       allow from 192.198.2 .zoo.org
+       allow from 18.157.0.5 stoat.outback.au
+     &lt;/Limit&gt;
+
+   &lt;/Directory&gt;
+</PRE>
+
+<p>
+This will deny access to everybody but the indicated hosts
+(18.157.0.5 and stoat.outback.au), subnets (182.198.2) and
+domains (.zoo.org).  Although you can use either numeric IP addresses or
+host names, it's safer to use the numeric form because this form
+of identification is less easily subverted (<A HREF="#Q18">Q18</A>).
+
+<p>
+One way to increase the security of restriction by domain name is to
+make sure that your server double-checks the results of its DNS
+lookups.  <A NAME="maximum_dns">You can enable this feature</A> in
+NCSA's httpd (and the related Apache server) by making sure that the
+<CODE>-DMAXIMUM_DNS</CODE> flag is set in the Makefile.
+
+<p>
+For the CERN server, you'll need to declare a protection scheme with
+the Protection directive, and associate it with a local URL using the
+Protect directive. An entry in httpd.conf that limits access to
+certain domains might look like this:
+
+<pre>
+   Protection LOCAL-USERS {<BR>
+     GetMask @(*.capricorn.com, *.zoo.org, 18.157.0.5)
+   }<BR>
+   Protect /relative/path/to/directory/* LOCAL-USERS
+</PRE>
+
+<HR>
+
+<H2><A NAME="Q22">Q22: How do I add new users and passwords?</A></H2>
+
+Unix-based servers use password and group files similar to the
+like-named Unix files.  Although the format of these files are
+similar enough to allow you to use the Unix versions for the Web
+server, this isn't a good idea.  You don't want to give a hacker whose
+guessed a Web password carte blanche to log into the Unix host.
+
+<p>
+Check your server documentation for the precise details of how to add
+new users.  For NCSA httpd, you can add a new user to the password
+file using the htpasswd program that comes with the server software:
+
+<pre>
+   htpasswd /path/to/password/file username
+
+</pre>
+htpasswd will then prompt you for the password to use.  The first time
+you invoke htpasswd you must provide a -c flag to create the password
+file from scratch.
+
+<p>
+The CERN server comes with a slightly different program called htadm:
+
+<pre>
+   htadm -adduser /path/to/password/file username
+
+</pre>
+htadm will then prompt you for the new password.
+
+<p>
+After you add all the authorized users, you can attach password
+protection to the directories of your choice.  In NCSA httpd and its
+derivatives, add something like this to access.conf:
+
+<PRE>
+   &lt;Directory /full/path/to/protected/directory&gt;
+
+     AuthName          name.of.your.server
+     AuthType          Basic
+     AuthUserFile      /usr/local/etc/httpd/conf/passwd
+     &lt;Limit GET POST&gt;
+       require valid-user
+     &lt;/Limit&gt;
+
+&lt;/Directory&gt;
+</PRE>
+
+You'll need to replace AuthUserFile with the full path to the password
+file.  This type of protection can be combined with IP address
+restriction as described in the previous section.  See NCSA's online
+documentation (http://hoohoo.ncsa.uiuc.edu/) or the author's book for
+more details.
+
+<p>
+For the CERN server, the corresponding entry in httpd.conf looks like
+this:
+
+<PRE>
+   Protection AUTHORIZED-USERS {
+     AuthType     Basic
+     ServerID     name.of.your.server
+     PasswordFile /usr/local/etc/httpd/conf/passwd
+     GetMask      All
+}
+Protect /relative/path/to/directory/* AUTHORIZED-USERS
+</PRE>
+
+Again, see the documentation or the author's book for details.
+
+<HR>
+
+<H2><A NAME="Q23">Q23: Isn't there a CGI script to allow users to change their
+     passwords online?</A></H2>
+
+There are several, but the author doesn't know of any that have been
+sufficiently well tested to recommend.  This is a tricky thing to set
+up, and a good general script has not yet been made publicly
+available.  Some sites have solved this problem by setting up a second
+HTTP server for the sole purpose of changing the password file.  This
+server listens on a different port from the primary server, and runs
+with sufficient permissions so that it can write to the password file
+(e.g., it runs as user "www").
+
+<HR>
+
+<H2><A NAME="Q24">Q24: Using per-directory access control files to
+control access to directories is so convenient, why should I use
+access.conf?</A></H2>
+
+Instead of placing directory access restrictions directives in
+centralized configuration files, most servers give you the ability to
+control access by putting a "hidden" file in the directory you want to
+restrict access to (this file is called ".htaccess" in NCSA-derived
+servers and ".www_acl" in the CERN server).  It is very convenient to
+use these files since you can adjust the restrictions on a directory
+without having to edit the central access control file.  There are
+several problems with relying on .htaccess files too heavily.  One is
+that with access control files scattered all over the document
+hierarchy, there is no central place where the access policy for the
+site is clearly set out.  Another problem is that it is easy for these
+files to get modified or overwritten inadverently, opening up a
+section of the document tree to the public.  Finally, there is a bug
+in many servers (including the NCSA server)that allows the access
+control files to be fetched just like any other file using a URL such
+as:
+
+<pre>
+   http://your.site.com/protected/directory/.htaccess
+</pre>
+
+This is clearly an undesirable feature since it gives out important
+information about your system, including the location of the server
+password file.
+
+<p> Another problem with the the per-directory access files is that if
+you ever need to change the server software, it's a lot easier to
+update a single central access control file than to search and fix a
+hundred small files.
+
+<HR>
+
+<H2><A NAME="Q25">Q25: How does encryption work?</A></H2>
+
+Encryption works by encoding the text of a message with a key.  In
+traditional encryption systems, the same key was used for both
+encoding and decoding.  In the new public key or asymmetric encryption
+systems, keys come in pairs: one key is used for encoding and another
+for decoding.  In this system everyone owns a unique pair of keys.
+One of the keys, called the public key, is widely distributed and used
+for encoding messages.  The other key, called the private key, is a
+closely held secret used to decrypt incoming message.  Under this
+system, a person who needs to send a message to a second person can
+encrypt the message with that person's public key.  The message can
+only be decrypted by the owner of the secret private key, making it
+safe from interception.  This system can also be used to create
+unforgeable digital signatures.
+
+<P> Most practical implementations of secure Internet encryption
+actually combine the traditional symmetric and the new asymmetric
+schemes.  Public key encryption is used to negotiate a secret
+symmetric key that is then used to encrypt the actual data.
+
+<p>
+Since commercial ventures have a critical need for secure transmission
+on the Web, there is very active interest in developing schemes for
+encrypting the data that passes between browser and server.
+
+<p>
+More information on public key cryptography can be found in the book
+"Applied Cryptography", by Bruce Schneier.
+
+<HR>
+
+<H2><A NAME="Q26">Q26: What are: SSL, SHTTP, Shen?</A></H2>
+
+These are all proposed encryption and user authentication standards
+for the Web.  Each requires the right combination of compatible
+browser and server to operate, so none is yet the universal solution
+to the secure data transmission problem.
+
+<p> <VAR>SSL</VAR> (Secure Socket Layer) is the scheme proposed by
+Netscape Communications Corporation.  It is a low level encryption
+scheme used to encrypt transactions in higher-level protocols such as
+HTTP, NNTP and FTP.  The SSL protocol includes provisions for server
+authentication (verifying the server's identity to the client),
+encryption of data in transit, and optional client authentication
+(verifying the client's identity to the server).  SSL is currently
+implemented commercially only for Netscape browsers and some Netscape
+servers.  (While both the data encryption and server authentication
+parts of the SSL protocol are implemented, client authentication is
+not yet available.)  Open Market, Inc. has 
+announced plans to support SSL in a forthcoming version of their
+HTTP server.  Details on SSL can be found at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#625" tppabs="http://home.netscape.com/info/SSL.html">
+http://home.netscape.com/info/SSL.html</A>
+
+<p>
+There is a freely redistributable implementation of SSL,
+known as <cite>SSLeay</cite>.  This implementation comes as
+C source code that can be linked into such applications as
+Telnet and FTP.  Among the supported applications are the
+freely redistributable Unix Web servers Apache and NCSA
+httpd, and several Unix-based
+Web browsers, including Mosaic.  This package can be used
+free of charge in both commercial and non-commercial
+applications.
+<p>
+There are several components to this software.  You will need
+to obtain and install them all in order to have a working
+SSL-based Web server:
+<dl>
+  <dt>The SSLeay FAQ
+  <dd> <a href="tppmsgs/msgs6.htm#626" tppabs="http://www.psy.uq.oz.au/~ftp/Crypto/">
+      http://www.psy.uq.oz.au/~ftp/Crypto/</a>.  You'll
+      need to read this carefully.
+  <dt> SSLeay
+  <dd> This is the SSL library itself.  It can be obtained via
+      FTP at <a href="tppmsgs/msgs6.htm#627" tppabs="ftp://ftp.psy.uq.oz.au/pub/Crypto/SSL/">
+      ftp://ftp.psy.uq.oz.au/pub/Crypto/SSL/</a>
+  <dt> Patches to various internet applications
+  <dd> These are source code patches to telnet, ftp, Mosaic, and the
+      like to take advantage of SSL.  They can be found via
+      FTP at <a href="tppmsgs/msgs6.htm#628" tppabs="ftp://ftp.psy.uq.oz.au/pub/Crypto/SSLapps/">
+      ftp://ftp.psy.uq.oz.au/pub/Crypto/SSLapps/</a>.
+  <dt> Patches for the Apache server
+  <dd> Currently there are patches for the Apache 0.8.14h and
+      1.0.1a servers.  The patches may work with other versions
+      as well, but are not guaranteed.
+      <a href="tppmsgs/msgs6.htm#629" tppabs="ftp://ftp.ox.ac.uk/pub/crypto/SSL/">ftp://ftp.ox.ac.uk/pub/crypto/SSL/</a>
+  <dt> The Apache server source code
+  <dd> <a href="tppmsgs/msgs6.htm#630" tppabs="http://www.apache.org/">http://www.apache.org</a>
+</dl>
+Using SSL-enabled servers and clients you will be able to send encrypted
+messages without fear of interception.  However in order to use
+public key encryption for the purposes of <em>user verification</em>,
+there are other issues, including the need to obtain a verification
+certificate from an officially recognized
+<cite>Certifying Authority</cite> such as Verisign.
+See the <a href="tppmsgs/msgs6.htm#632" tppabs="http://www.psy.uq.oz.au/~ftp/Crypto">FAQ</a> and
+<A HREF="tppmsgs/msgs6.htm#625" tppabs="http://home.netscape.com/info/SSL.html">Netscape's SSL page</a>
+for the details.
+
+<p>
+<VAR>SHTTP</VAR> (Secure HTTP) is the scheme proposed by CommerceNet, a coalition
+of businesses interested in developing the Internet for commercial
+uses.  It is a higher level protocol that only works with the HTTP
+protocol, but is potentially more extensible than SSL.  Currently
+SHTTP is implemented for the Open Marketplace Server marketed by Open
+Market, Inc on the server side, and Secure HTTP Mosaic by Enterprise
+Integration Technologies on the client side.  See here for details:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#633" tppabs="http://www.commerce.net/information/standards/drafts/shttp.txt">
+http://www.commerce.net/information/standards/drafts/shttp.txt</A>
+
+<p>
+Shen is scheme proposed by Phillip Hallam-Baker of CERN.  Like SHTTP
+it is a high level replacement for the existing HTTP protocol.  It
+hasn't yet been implemented in production quality software at the
+current time.  You can read about it at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#634" tppabs="http://www.w3.org/hypertext/WWW/Shen/ref/security_spec.html">
+http://www.w3.org/hypertext/WWW/Shen/ref/security_spec.html</A>   
+
+<HR>
+
+<H2><A NAME="Q27">Q27: How do I accept credit card orders over the Web?</A></H2>
+
+You can always instruct users to call your 800 number :-).  Seriously,
+though, you _shouldn't_ ask remote users to submit their credit card
+number in a fill-out form field unless you are using an encrypting
+server/browser combination.  Your alternate is to use
+one of the credit card proxy systems
+described in the <A HREF="tppmsgs/msgs7.htm#734" tppabs="http://www.austria.eu.net/www-security-faq/Q28">next section</A>.
+
+<p>
+Even with an encrypting server, you should be careful about what
+happens to the credit card number <STRONG>after</STRONG> it's received
+by the server. For example, if the number is received by a server script,
+make sure
+not to write it out to a world-readable log file or send it via e-mail
+to a remote site.
+
+<HR>
+
+<H2><A NAME="Q28">Q28: What are: First Virtual Accounts, DigiCash, Cybercash?</A></H2>
+
+<p>
+These are all schemes that have been developed to process commercial
+transactions over the Web without transmitting credit card numbers.
+
+<p>
+The <VAR>First Virtual</VAR> scheme, designed for low- to medium-priced software
+sales and fee-for-service information purchases, the user signs up for
+a First Virtual account by telephone call. During the sign up
+procedure he provides his credit card number and contact information,
+and receives a First Virtual account number in return.  Thereafter, to
+make purchases at participating online vendors, the user provides his
+First Virtual account number in lieue of his credit card information.
+First Virtual later contacts him by e-mail, and he has the chance to
+approve or disapprove the purchase before his credit card is billed.
+First Virtual is in operation now and requires no special software or
+hardware on the user's or merchant's sides of the connection.  More
+information can be obtained at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#635" tppabs="http://www.fv.com/">http://www.fv.com/</A>   
+
+<p>
+<VAR>Digicash</VAR>, a product of the Netherlands Digicash company, is a debit
+system something like an electronic checking account.  In this system,
+users make an advance lump sum payment to a bank that supports the
+DigiCash system, and receive "E-cash" in turn.  Users then make
+purchases electronically and the E-cash is debited from their checking
+accounts.  This system is currently in development and has not been
+released for public use.  It also appears to require special client
+software to be installed on both the user's and the merchant's
+computers.  For more information:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#636" tppabs="http://www.digicash.nl/">http://www.digicash.nl/</A>   
+
+<p>
+<VAR>Cybercash</VAR>, invented by the Cybercash Corporation, is both a debit and
+a credit card system.  In credit card mode, the user installs
+specialized software on his computer.  When the WWW browser needs to
+obtain a credit card number, it invokes the Cybercash software which
+pops up a window that requests the number.  The number is then
+encrypted and transmitted to corresponding software installed on the
+merchant's machine.  In debit mode, a connection is established to a
+participating bank.  Cybercash is in the pilot phase, and more
+information can be obtained at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#637" tppabs="http://www.cybercash.com/">http://www.cybercash.com</A>   
+
+<p>
+In addition to these forms of credit card payment, the Netscape
+Communications Corporation has made deals with both First Data, a
+large credit card processor, and MasterCard to incorporate credit card
+processing into the Netscape/Netsite combination.  These arrangements,
+when implemented, will use Netscape's built-in encryption to encode
+and approve credit card purchases without additional software.  For
+more information, check the literature at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#638" tppabs="http://www.mcom.com/">http://www.mcom.com/</A>   
+
+<p>
+Open Market, Inc., is also offering credit card purchases.  In this
+scheme, Open Market acts as the credit card company itself, handling
+subscriptions, billing and accounting.  The scheme is integrated into
+its Open Marketplace Server, and requires a browser that supports the
+SHTTP protocol (only Secure Mosaic, at the moment).  This service too
+is in the pilot stage.  More information is available from Open Market
+at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#639" tppabs="http://www.openmarket.com/">http://www.openmarket.com</A>   
+
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF2~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html">Backward to <cite>Running a Secure Server</cite></a>
+  <li><A HREF="WWWSF4~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf4.html">Forward to <cite>CGI Scripts</cite></a>
+</ul>
+<HR>
+<address>Lincoln D. Stein, lstein@genome.wi.mit.edu<br>
+<a href="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">Whitehead Institute/MIT Center for Genome Research</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 19 23:11:59 MET 1996
+<!-- hhmts end -->
+</body> </html>

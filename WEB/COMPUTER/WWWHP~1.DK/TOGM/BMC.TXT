@@ -1,0 +1,80 @@
+NORDIC Test & Measurement Servicecenter                                               
+                                                                           
+                                       Calibration.
+
+      Accredited Calibration Capability for the Nordic Servicecenter
+
+This table covers the calibrations that can be supplied from Nordic. We can
+supply  other parameters, or parameters with better uncetainties from other
+sources. 
+ 
+                        Range                 Best Uncertainty
+                              
+DC Volt                 0,2uV-5kV                  5ppm      
+
+DC Resistance           0,1mOhm-1GOhm              2,1ppm
+
+DC Current              0,1nA-100A                 7ppm
+
+AC Volt                 10Hz-100Mhz 
+AC Resistance           0,1W-100kW                 0,03%
+                        <13Mhz
+
+AC Current              1uA-100A                   0,021%
+                        20Hz-5kHz
+
+Frequency               0,1Hz-26,5GHz              3,4E-12
+
+Time  Interval          1ns-1E8s                    4E-11
+
+RF Power                -127dBm to +44dBm           0,025dBm
+                        100kHz-26,5GHz
+
+Attenuation             0-120dB                     0,002dB
+                        3MHz-26,5GHz
+                        0-50dB, 0,1-30W             0,03dB
+                        100MHz-1GHz
+
+                                                 
+
+
+Reflection Coefficient   0-1, 100kHz-26,5GHz         0,006
+                         50 Ohm and 75 Ohm             
+                         0-1, 100MHz-1GHz            0,016
+                         <30W
+
+Transmission Coefficient 0-60dB, 10MHz-26,5GHz         6%   
+                         50 Ohm  and 75 Ohm   
+
+Calibration Factor       100kHz-26,5GHz                0,7% 
+                         50 Ohm and 75 Ohm
+             
+
+
+Modulation               AM, FM and Phase              1,2%
+                         50Hz-200kHz
+
+Distortion               0,001-10%, 20Hz-100kHz        14%
+
+Capacitance              1pF-1mF                      0,026%
+
+Dissipation Factor       <0,01, <13MHz                0,00011
+
+
+
+Accreditations:     DANAK No. 195  
+                    SWEDAC No. 0029
+                    SUOMEN KALIBROINTIPALVELU No. KO5
+
+
+
+
+
+
+
+
+
+
+
+   
+

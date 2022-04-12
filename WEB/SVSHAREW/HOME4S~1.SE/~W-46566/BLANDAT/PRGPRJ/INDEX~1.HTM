@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Programmeringsprojekt</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1>Programmeringsprojekt </h1>
+
+<hr>
+
+<h3>Innehåll </h3>
+
+<p align="center">|<a href="#ide">Idé</a>|<a href="#analys">Analys</a>|<a
+href="#design">Design</a>|<a href="#kodning">Kodning</a>| <br>
+|<a href="#test">Test</a>|<a href="#support">Drift/Support</a>| <br>
+|<a href="#diverse">Diverse information</a>|<a href="#godmetodik">Vad
+är god programmeringsmetodik?</a>| </p>
+
+<hr>
+
+<h3><a name="ide">Idé</a> </h3>
+
+<p>Alla programmeringsprojekt börjar med att någon får en
+idé. Hur denna idé fås varierar naturligtvis - den kanske
+kommer när du ligger och sover, eller när du är på väg till
+bussen - egentligen är det inte så viktigt hur du fått din
+idé, det viktiga är ju att du fått den. Ett sätt att ta fram
+goda idéer är att samlas några stycken kompisar och spåna
+kring något ämne, samtidigt som någon antecknar eller spelar
+in på kasettband. </p>
+
+<h3><a name="analys">Analys</a> </h3>
+
+<p>Ett datorprogram används oftast för att lösa ett problem
+eller för att underlätta ett arbete på något sätt. I denna
+fas av utvecklingsarbetet kontrolleras om idén är bra eller
+dålig - dvs om den är lämpad att bli ett datorprogram. Det
+kanske är bättre att köpa ett redan färdigt program (om det
+finns) som löser uppgiften. En analys bör göras för att vara
+säker på att det system du utvecklar är det som din kund
+tänkt sig. Ofta är det ju så att du inte kommit på
+programidén själv, utan någon annan vill ha din hjälp att
+framställa ett program som han(hon tror sig behöva. </p>
+
+<p>En analys görs för att reda ut vad som ska konstrueras innan
+du börjar fundera på hur du ska konstruera det. Analysen
+används också för att hitta oklarheter och fel så tidigt som
+möjligt i programutvecklingen. </p>
+
+<p>Några saker att tänka på vid analysen är följande: </p>
+
+<ul>
+    <li>Hur ska systemet användas? </li>
+    <li>Hur ska det fungera gentemot yttervärlden, dvs hur ska
+        gränssnittet mot användaren se ut? </li>
+    <li>Vem ska använda programmet? </li>
+</ul>
+
+<p>Under analysfasen ska följande dokument tas fram: </p>
+
+<ul>
+    <li>Användarbeskrivning </li>
+    <li>Kravspecifikation </li>
+    <li>Tidplan </li>
+</ul>
+
+<p>En kravspecifikation innehåller ramar för tid, pris mm. Den
+innehåller även ett antal sk &quot;skall -krav&quot;, dvs sånt
+som programmet ska innehålla. Det kan också finnas sk
+&quot;bär - krav&quot;. Dessa är krav som bör finnas med om
+det går att ordna, beroende på övriga givna förutsättningar
+(tid, pris bl a). Specifikationen ska också ange vilka
+begränsningar systemet har. </p>
+
+<p>En specifikation ska tala om vad systemet ska göra, men inte
+hur. In- och utdatas utseende ska noga specifieras (dvs
+datatyper, filer mm, som används). </p>
+
+<p>Tisplanen innehåller en beskrivning an när arbetet ska
+utföras och när de olika momenten ska vara klara. Det här är
+ofta mycket svårt att beräkna, så du får vara beredd på att
+tidplanen måste ändras, revideras, under projektets gång.
+Saker tar ofta längre tid än du från början tror.
+Multiplicera gärna med faktorn <font face="Symbol">p</font>
+(3,1415&#133;) för att vara någotsånär på den säkra
+sidan!!! </p>
+
+<p>Användarbeskrivningen innehåller information om hur
+programmet uppför sig gentemot en användare. Detta innebär att
+du måste göra klart för dig hur alla skärmbilder, dialogrutor
+mm ska se ut och fungera. </p>
+
+<p>Det är mycket viktigt att innehållet i alla dessa dokument
+diskuteras med kunden innan du går vidare med arbetet. </p>
+
+<h3><a name="design">Design</a> </h3>
+
+<p>Börja med en övergripande design, även kallat systemering.
+Dela sedan in systemet i flera mindre delar, sk moduler. I detta
+skede ska du bestämma hur kundens önskemål ska uppfyllas.
+Försök att identifiera generella programfunktioner. </p>
+
+<p>När modulindelningen ska göras behöver ett projekt ofta ha
+ett antal personer med specialkompetens inom just det området,
+tex bildbehandling, animering eller beräkning. Det betyder att
+det är en stor fördel om man hjälps åt - åtminstone om det
+är ett stort projekt. De projekt vi ska genomföra är normalt
+inte så stora att det behövs flera personer. Vid moduldesignen
+måste du bestämma hur programmets interna modulkommunikation
+ska se ut - definiera parametrar, globala variabler mm. </p>
+
+<p>Under designfasen ska en designbeskrivning tas fram. Där ska
+det framgå hur modulindelningen är gjord och hur modulerna
+samverkar med varandra. Du ska också göra en dokumentöversikt
+för att hålla reda på alla ingående dokument. Det blir en del
+pappersjobb! </p>
+
+<p>I designfasen utvecklas de algoritmer som avgör programmets
+funktion och prestanda. Programmets övergripande funktion
+bestäms. Det finns en hel del olika designmetoder utarbetade. En
+kallas för JSP-metoden och går ut på att du ritar en del
+figurer och symboler som på ett speciellt sätt beskriver
+funktionen. En annan vanlig metod är att använsda sig av
+flödesschemor. </p>
+
+<h3><a name="kodning">Kodning</a> </h3>
+
+<p>Om designfasen är ordentligt genomförd är kodningsfasen
+ungefär att jämföra med att skriva in en text i ett
+datorprogram - det ska alltså gå ganska smidigt. Det kan
+förvisso medföra en del problem, men ju bättre du känner till
+det valda programspråkets miljö och syntax, desto enklare är
+det. </p>
+
+<p>I princip behöver du inte bestämma programspråk förrän i
+detta läge. Alla moduler i ett och samma projekt behöver inte
+ens skrivas i samma språk. Ibland måste vissa rutiner skrivas
+på ett sådant sätt att vissa programmeringsspråk inte är
+användbara. </p>
+
+<p>Om du vill göra program som är snabba kan du välja tex C
+eller assembler, men om du anser att användarvänligheten är
+viktigare väljer du kanske hellre Visual Basic. </p>
+
+<p>De flesta fel som finns i existerande program har uppkommit
+vis designfasen och inte vid kodningen. Det betyder alltså att
+om du har tänkt fel vid designen blir det fel i
+programfunktionen även om du har skrivit koden korrekt. </p>
+
+<p>Vid kodningen börjar du lämpligen med att skriva pseudokod.
+Detta är en slags beskrivande blandning av text och kod
+uppställd på samma sätt som den riktiga källkoden senare
+ställs upp. Pseudokoden utgör alltså en utförlig beskrivning
+av programmets utseende med loopar, procedur anrop och sekvenser.
+</p>
+
+<p>Pseudokoden är oftast lättare för en människa att förstå
+än själva källkoden. Detta gäller främst vid programmering i
+lågnivåspråk, tex assembler programmering. </p>
+
+<p>Under kodningsfasen tas alltså pseudokod och källkod fram
+för alla programdelar. </p>
+
+<h3><a name="test">Test</a> </h3>
+
+<p>Testning ska alltid utföras fortlöpande under
+utvecklingsarbetet. Försäkra dig alltid om att de procedurer,
+funktioner och moduler som ingår lämnar ifrån sig rätt
+resultat. Det är ibland nödvändigt att skriva extra kodsnuttar
+för att testa vissa delar av programmets funktion. Det kan
+också bli nödvändigt att skriva rena testprogram - vissa
+funktioner kanske inte ens går att testa fullständigt. </p>
+
+<p>Om du väntar ändå tills du skrivit färdigt all kod innan
+du börjar testa programmet är det stor risk att du kommer att
+stöta på många fel som kräver åtgärder. Ju mer du tänkt
+innan du sätter dig vid datorn, desto bättre är det. Vid
+testningen är det meningen att du ska hitta alla fel (buggar)
+ditt program innehåller. Det finns så klart olika metoder att
+utföra ett test på: </p>
+
+<ul>
+    <li>Mänsklig test </li>
+</ul>
+
+<p>Detta innebär att ett antal personer har ett möte där de
+granskar olika dokument och försöker avgöra om det kommer att
+fungera. </p>
+
+<ul>
+    <li>Utförandetest </li>
+</ul>
+
+<p>Programmets körs med kända indata och utdata jämförs med
+det förväntade resultatet, antingen manuellt eller automatiskt.
+</p>
+
+<p>När varje programdel har testats för sig ska allting
+slutligen testas tillsammans. Detta kallas ofta för
+integrationstest. </p>
+
+<p>I denna fas ska du skriva dokumentet testspecifikation där du
+skriver hur testerna ska utföras. </p>
+
+<h3><a name="support">Drift/Support</a> </h3>
+
+<p>Ett datorprogram ska förhoppningsvis användas under ett
+antal år. Det innebär att den som ska använda ditt program kan
+komma att behöva en del hjälp en tid efter att han/hon köpt
+ditt program. Det kan, trots alla ansträngningar att göra ett
+fe

@@ -1,0 +1,429 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>WWW Security FAQ: Running a Secure Server</title>
+</head>
+
+<body>
+<H1>The World Wide Web Security FAQ</H1>
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF1~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html">Backward to <cite>General Questions</cite></a>
+  <li><A HREF="WWWSF3~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html">Forward to <cite>Protecting Confidential Documents at Your Site</cite></a>
+</ul>
+<HR>
+
+<H1><A NAME="servers">4. Running a Secure Server</A></H1>
+
+<H2><A NAME="Q9">Q9: How do I set the file permissions of my server and document roots?
+</A></H2>
+
+To maximize security, you should adopt a strict "need to know" policy
+for both the document root (where HTML documents are stored) and the
+server root (where log and configuration files are kept).  It's most
+important to get permissions right in the server root because it is
+here that CGI scripts and the sensitive contents of the log and
+configuration files are kept.
+
+<p>
+You need to protect the server from the prying eyes of both local and
+remote users.  The simplest strategy is to create a "www" user for the
+Web administration/webmaster and a "www" group for all the users on
+your system who need to author HTML documents.  On Unix systems edit
+the /etc/passwd file to make the server root the home directory for
+the www user.  Edit /etc/group to add all authors to the www group.
+
+<p>
+The server root should be set up so that only the www user can write
+to the configuration and log directories and to their contents.  It's
+up to you whether you want these directories to also be readable by
+the www group.  They should _not_ be world readable.  The cgi-bin
+directory and its contents should be world executable and readable,
+but not writable (if you trust them, you could local web authors write
+permission for this directory).  Following are the permissions for a
+sample server root:
+
+<PRE>
+drwxr-xr-x   5 www      www          1024 Aug  8 00:01 cgi-bin/
+drwxr-x---   2 www      www          1024 Jun 11 17:21 conf/
+-rwx------   1 www      www        109674 May  8 23:58 httpd
+drwxrwxr-x   2 www      www          1024 Aug  8 00:01 htdocs/
+drwxrwxr-x   2 www      www          1024 Jun  3 21:15 icons/
+drwxr-x---   2 www      www          1024 May  4 22:23 logs/
+</PRE>
+
+The Netsite Commerce Server appears to contain a bug that prevents you
+from setting up the server root with correct permissions.  In order to
+start up, this server requires that the logs directory either be
+writable by the "nobody" user, or that a log file writable by the
+"nobody" user already exist in that directory.  In either case this
+represents a security hole, because it means that a remote user who
+was infiltrated the system by subverting a CGI script or the server
+itself can cover his tracks by modifying or deleting the access log
+file.  It is not known if this bug affects the Netsite (non-Commerce)
+Server.  (Thanks to Laura Pearlman for this information.)
+
+<p>
+The document root has different requirements.  All files that you want
+to serve on the Internet must be readable by the server while it is
+running under the permissions of user "nobody".  You'll also usually
+want local Web authors to be able to add files to the document root
+freely.  Therefore you should make the document root directory and its
+subdirectories owned by user and group "www", world readable, and
+group writable:
+
+<PRE>
+drwxrwxr-x   3 www      www          1024 Jul  1 03:54 contents
+drwxrwxr-x  10 www      www          1024 Aug 23 19:32 examples
+-rw-rw-r--   1 www      www          1488 Jun 13 23:30 index.html
+-rw-rw-r--   1 lstein   www         39294 Jun 11 23:00 resource_guide.html
+</PRE>
+
+<p>
+Many servers allow you to restrict access to parts of the document
+tree to Internet browsers with certain IP addresses or to remote users
+who can provide a correct password (see below).  However, some Web
+administrators may be worried about unauthorized _local_ users gaining
+access to restricted documents present in the document root.  This is
+a problem when the document root is world readable.
+
+<p>
+One solution to this problem is to run the server as something other
+than "nobody", for example as another unprivileged user ID that
+belongs to the "www" group.  You can now make the restricted documents
+group- but not world-readable (don't make them group-writable unless
+you want the server to be able to overwrite its documents!).  The
+documents can now be protected for prying eyes both locally and
+globally.  Remember set the read and execute permissions for any
+restricted server scripts as well.
+
+<p>
+The CERN server generalizes this solution by allowing the server to
+execute under different user and group privileges for each part of a
+restricted document tree.  See the CERN documentation for details on
+how to set this up.
+
+<HR>
+
+<H2><A NAME="Q10">Q10: I'm running a server that provides a whole bunch of optional
+     features.  Are any of them security risks?</A></H2>
+
+Yes.  Many features that increase the convenience of using and running
+the server also increase the chances of a security breach.  Here is
+a list of potentially dangerous features.  If you don't absolutely
+need them turn them off.
+
+<DL>
+  <DT> <STRONG>Automatic directory listings</STRONG>
+  <DD>
+   Knowledge is power and the more the remote hacker can figure out
+   about your system the more chance for him to find loopholes.
+   The automatic directory listings that the CERN, NCSA, Netscape,
+   Apache, and other servers offer are convenient, but have the
+   potential to give the hacker access to sensitive information.
+   This information can include: Emacs backup files containing the
+   source code to CGI scripts, source-code control logs, symbolic
+   links that you once created for your convenience and forgot to
+   remove, directories containing temporary files, etc.
+
+<p>
+   Of course, turning off automatic directory listings doesn't
+   prevent people from fetching files whose names they guess at.
+   It also doesn't avoid the pitfall of an automatic text keyword
+   search program that inadvertently adds the "hidden" file to its
+   index.  To be safe, you should remove unwanted files from your
+   document root entirely.
+
+<p>
+       
+  <DT> <STRONG>Symbolic link following</STRONG>
+  <DD>
+   Some servers allow you to extend the document tree with symbolic
+   links.  This is convenient, but can lead to security breaches
+   when someone accidentally creates a link to a sensitive area of
+   the system, for example /etc.  A safer way to extend the directory
+   tree is to include an explicit entry in the server's configuration
+   file (this involves a PathAlias directive in NCSA-style servers,
+   and a Pass rule in the CERN server).
+
+<p>
+   The NCSA and Apache servers allows you to turn symbolic link
+   following off completely.  Another option allows you to enable
+   symbolic link following only if the owner of the link matches
+   the owner of the link's target (i.e. you can compromise the
+   security of a part of the document tree that you own, but not
+   someone else's part).
+
+<p>
+  <DT> <STRONG>Server side includes</STRONG>
+  <DD>
+   The "exec" form of server side includes are a major security hole.
+   Their use should be restricted to trusted users or turned off
+   completely.  In NCSA httpd and Apache, you can turn off the exec
+   form of includes in a directory by placing this statement in the
+   appropriate directory control section of access.conf:
+
+<PRE>
+      Options IncludesNoExec
+</PRE>
+
+  <DT><STRONG>User-maintained directories</STRONG>
+  <DD>
+   Allowing any user on the host system to add documents to your Web
+   site is a wonderfully democratic system.  However, you do have to
+   trust your users not to open up security holes.  This can include
+   their publishing files that contain sensitive system information,
+   as well as creating CGI scripts, server side includes, or symbolic
+   links that open up security holes.  Unless you really need this
+   feature, it's best to turn it off.  When a user needs to create a
+   home page, it's probably best to give him his own piece of the
+   document root to work in, and to make sure that he understands
+   what he's doing.  Whether home pages are located in user's
+   home directories or in a piece of the document root, it's best to
+   disallow server-side includes and CGI scripts in this area.
+</DL>
+
+<HR>
+
+<H2><A NAME="Q11">Q11: I hear that running the server as "root" is a bad idea.  Is
+    this true?</A></H2>
+
+This has been the source of some misunderstanding and disagreement on
+the Net.  Most servers are launched as root so that they can open up
+the low numbered port 80 (the standard HTTP port) and write to the log
+files.  They then wait for an incoming connection on port 80.  As soon
+as they receive this connection, they fork a child process to handle
+the request and go back to listening.  The child process, meanwhile,
+changes its effective user ID to the user "nobody" and then proceeds
+to process the remote request.  All actions taken in response to the
+request, such as executing CGI scripts or parsing server-side
+includes, are done as the unprivileged "nobody" user.
+
+<p>
+This is not the scenario that people warn about when they talk about
+"running the server as root".  This warning is about servers that have
+been configured to run their _child processes_ as root, (e.g. by
+specifying "User root" in the server configuration file).  This is a
+whopping security hole because every CGI script that gets launched
+with root permissions will have access to every nook and cranny in
+your system.
+
+<p>
+Some people will say that it's better not to start the server as root
+at all, warning that we don't know what bugs may lurk in the portion
+of the server code that controls its behavior between the time it
+starts up and the time it forks a child.  This is quite true, although
+the source code to all the public domain servers is freely available
+and there don't _seem_ to be any bugs in these portions of the code.
+Running the server as an ordinary unprivileged user may be safer.
+Many sites launch the server as user "nobody", "daemon" or "www".
+However you should be aware of two potential problems with this
+approach:
+
+<OL>
+  <LI> You won't be able to open port 80 (at least not on Unix systems).
+You'll have to tell the server to listen to another port, such as 8000
+or 8080.
+
+  <LI> You'll have to make the configuration files readable by the same
+user ID you run the server under.  This opens up the possibility of an
+errant CGI script reading the server configuration files.  Similarly,
+you'll have to make the log files both readable and writable by this
+user ID, making it possible for a subverted server or CGI script to
+alter the log.  See the discussion of file permissions above.
+
+</OL>
+<HR>
+
+<H2><A NAME="Q12">Q12: I want to share the same document tree between my ftp and Web
+    servers.  Is there any problem with this idea?</A></H2>
+
+Many sites like to share directories between the FTP daemon and the
+Web daemon.  This is OK so long as there's no way that a remote user
+can upload files that can later be read or executed by the Web daemon.
+
+<p>
+Consider this scenario: the WWW server that has been configured to
+execute any file ending with the extension ".cgi".  Using your ftp
+daemon, a remote hacker uploads a perl script to your ftp site and
+gives it the .cgi extension.  He then uses his browser to request the
+newly-uploaded file from your Web server.  Bingo! he's fooled your
+system into executing the commands of his choice.
+
+<p>
+You can overlap the ftp and Web server hierarchies, but be sure to
+limit ftp uploads to an "incoming" directory that can't be read by the
+"nobody" user.
+
+<HR>
+
+<H2><A NAME="Q13">Q13: Can I make my site completely safe by running the server in a
+    "chroot" environment?</A></H2>
+
+You can't make your server completely safe, but you can increase its
+security significantly in a Unix environment by running it in a chroot
+environment.  The chroot system command places the server in a "silver
+bubble" in such a way that it can't see any part of the file system
+beyond a directory tree that you have set aside for it.  The directory
+you designate becomes the server's new root "/" directory.  Anything
+above this directory is inaccessible.
+
+<p>
+In order to run a server in a chroot environment, you have to create a
+whole miniature root file system that contains everything the server
+needs access to.  This includes special device files and shared
+libraries.  You also need to adjust all the path names in the server's
+configuration files so that they are relative to the new root
+directory.  To start the server in this environment, place a shell
+script around it that invokes the chroot command in this way:
+
+<pre>
+   chroot /path/to/new/root /server_root/httpd
+
+</pre>
+Setting up the new root directory can be tricky and is beyond the
+scope of this document.  See the author's book (above), for details.
+You should be aware that a chroot environment is most effective when
+the new root directory is as barren as possible.  There shouldn't be
+any interpreters, shells, or configuration files (including
+<CODE>/etc/passwd</CODE>!) in the new root directory.  Unfortunately this means
+that CGI scripts that rely on Perl or shells won't run in the chroot
+environment.  You can add these interpreters back in, but you lose
+some of the benefits of chroot.
+
+<p>
+Also be aware that chroot only protects files; it's not a panacea.  It
+doesn't prevent hackers from breaking into your system in other ways,
+such as grabbing system maps from the NIS network information service,
+or playing games with NFS.
+
+<HR>
+
+<H2><A NAME="Q14">Q14: My local network runs behind a firewall.  Can I use it to
+     increase my Web site's security?</A></H2>
+
+You can use a firewall to enhance your site's security in a number of
+ways.  The most straightforward way use of a firewall is to create
+"internal site", one that is accessible only to computers within your
+own local area network.  If this is what you want to do,then all you
+need to do is to place the server INSIDE the firewall:
+
+<PRE>
+          other hosts
+                     \
+       server &lt;-----&gt; FIREWALL &lt;------&gt; OUTSIDE
+                     /
+          other hosts
+</PRE>
+
+<p>
+However, if you want to make the server available to the rest of the
+world, you'll need to place it somewhere outside the firewall.  From
+the standpoint of security of your organization as a whole, the safest
+place to put it is completely outside the local area network:
+
+<PRE>
+          other hosts
+                     \
+   other hosts &lt;----&gt; FIREWALL &lt;---&gt; server &lt;----&gt; OUTSIDE
+                     /
+          other hosts
+</PRE>
+
+<p>
+This is called a "sacrificial lamb" configuration.  The server is at
+risk of being broken into, but at least when it's broken into it
+doesn't breach the security of the inner network.
+
+<p>
+It's _not_ a good idea to run the WWW server on the firewall machine.
+Now any bug in the server will compromise the security of the entire
+organization.
+
+<p>
+There are a number of variations on this basic setup, including
+architectures that use paired "inner" and "outer" servers to give the
+world access to public information while giving the internal network
+access to private documents.  See the author's book for the gory
+details.
+
+<HR>
+
+<H2><A NAME="Q15">Q15: My local network runs behind a firewall.  Can I break
+     through the firewall to give the rest of the world access to the
+     Web server?</A></H2>
+
+You can, but if you do this you are opening up a security hole in the
+firewall.  It's far better to make the server a "sacrificial lamb" as
+described above.  Some firewall architectures, however, don't give you
+the option of placing the host outside the firewall.  In this case,
+you have no choice but to open up a hole in the firewall.  There are
+two options:
+
+<OL>
+  <LI> If you are using a "screened host" type of firewall, you can
+selectively allow the firewall to pass requests for port 80 that are
+bound to or returning from the WWW server machine.  This has the
+effect of poking a small hole in the dike through which the rest of
+the world can send and receive requests to the WWW server machine.
+
+  <LI> If you are using a "dual homed gateway" type of firewall, you'll
+need to install a proxy on the firewall machine.  A proxy is a small
+program that can see both sides of the firewall.  Requests for
+information from the Web server are intercepted by the proxy,
+forwarded to the server machine, and the response forwarded back to
+the requester.  A small and reliable HTTP proxy is available from TIS
+systems at:
+
+</OL>
+<p>
+   <A HREF="tppmsgs/msgs6.htm#624" tppabs="ftp://ftp.tis.com/pub/firewalls/toolkit/">
+   ftp://ftp.tis.com/pub/firewalls/toolkit/</A>
+
+<p>
+The CERN server can also be configured to act as a proxy.  I feel much
+less comfortable recommending it, however, because it is a large and
+complex piece of software that may contain unknown security holes.
+
+<p>
+More information about firewalls is available in the books <A HREF="#bellovin">
+Firewalls and Internet Security</A> by William Cheswick and Steven Bellovin, and
+<A HREF="#chapmap">Building Internet Firewalls</A> by D. Brent Chapman and Elizabeth D.
+Zwicky.
+
+<HR>
+
+<H2><A NAME="Q16">Q16: How can I detect if my site's been broken into?</A></H2>
+
+For Unix systems, the tripwire program periodically scans your system
+and detects if any system files or programs have been modified.  It is
+available at
+
+<p>
+   <A HREF="tppmsgs/msgs6.htm#620" tppabs="ftp://coast.cs.purdue.edu/pub/COAST/Tripwire/">
+    ftp://coast.cs.purdue.edu/pub/COAST/Tripwire/
+  </A>
+
+<p>
+You should also check your access and error log files periodically for
+suspicious activity.  Look for accesses involving system commands such
+as "rm", "login", "/bin/sh" and "perl", or extremely long lines in URL
+requests (the former indicate an attempt to trick a CGI script into
+invoking a system command; the latter an attempt to overrun a
+program's input buffer).  Also look for repeated unsuccessful attempts
+to access a password protected document.  These could be symptomatic
+of someone trying to guess a password.
+
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF1~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf1.html">Backward to <cite>General Questions</cite></a>
+  <li><A HREF="WWWSF3~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf3.html">Forward to <cite>Protecting Confidential Documents at Your Site</cite></a>
+</ul>
+<HR>
+<address>Lincoln D. Stein, lstein@genome.wi.mit.edu<br>
+<a href="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">Whitehead Institute/MIT Center for Genome Research</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 19 18:49:28 MET 1996
+<!-- hhmts end -->
+</body> </html>

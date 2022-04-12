@@ -1,0 +1,194 @@
+
+From crispen@campus.mci.net Thu Sep  5 23:30:37 1996
+Date: Thu, 5 Sep 1996 16:43:43 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS -- 5 SEPT 1996 -- INSTANT WEATHER & NEWS.COM
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |   WorldVillage presents Match.com - the premier Net   |//////|    |
+ |  matchmaking service!  It's fun, safe & anonymous.    |//////|    |
+ | http://www.WorldVillage.com/wv/square/html/square.htm |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+TODAY'S TOURBUS STOPS     : INSTANT WEATHER & NEWS.COM
+TODAY'S TOURBUS ADDRESSES : http://www.worldvillage.com/tourbus.htm
+                            weather@merc.com
+                            http://ua1vm.ua.edu/~crispen/
+                            http://ua1vm.ua.edu/~crispen/word.html
+                            http://ua1vm.ua.edu/~crispen/roadmap.html
+                            http://ua1vm.ua.edu/~crispen/cookie.html
+                            instantwv@merc.com
+                            http://www.wni.com/yahoo/
+                            http://www.news.com/
+                            listserve@dispatch.cnet.com
+
+Your fearless bus driver is not so fearless any more.
+
+Back on August 15th we pulled our little bus of Internet happiness into
+"Mercury Mail," a free e-mail based news, sports, entertainment, and
+weather service (to see any of my old TOURBUS posts just visit the TOURBUS
+archives at http://www.worldvillage.com/tourbus.htm).  Well, I decided to
+subscribe to Mercury Mail's "WeatherVane" service (weather@merc.com), and I
+received the following weather forecast this morning:
+
+Forecast for Tuscaloosa, AL
+Conditions from Tuscaloosa, AL at 6:52 AM EDT
++-------------------------------------------------------------------+
+| NOW:    68 F and Fog                      Pressure 757.94 mm Hg   |
+|         Humidity: 100%                    Wind N/A                |
++-------------------------------------------------------------------+
+| Thurs        Hi: 85 F     Lo: N/A         Thunder/Sun             |
+| Fri          Hi: 95 F     Lo: 65 F        Thunder/Sun             |
+| Sat          Hi: 93 F     Lo: 66 F        Thunder/Sun             |
++-------------------------------------------------------------------+
+| See http://www.merc.com/ for Mercury Mail services                |
+| The Weather Channel, Inc. (http://www.weather.com/)               |
++-------------------------------------------------------------------+
+
+Thunder sun?  THUNDER SUN?!  Folks, I have no idea what "thunder sun" is,
+but I can tell you that the mere thought of thunder sun has convinced your
+normally fearless bus driver to spend the next three days in bed, hiding
+under my blanket. :)
+
+Actually, before I dive for the safety of my blanket I need to tell y'all
+that there has been a pretty major shake-up with the Web service at the
+University of Alabama.  In particular, all of the addresses for my Web
+pages have changed (from "www.ua.edu" to "ua1vm.ua.edu" -- that's
+"you-ay-won-vee-em").  Here are the new Web addresses for some of my most
+popular Web pages:
+
+   My Personal Homepage      http://ua1vm.ua.edu/~crispen/
+   The Southern Word Page    http://ua1vm.ua.edu/~crispen/word.html
+   The Roadmap96 Homepage    http://ua1vm.ua.edu/~crispen/roadmap.html
+   My Cookie Recipe Page     http://ua1vm.ua.edu/~crispen/cookie.html
+
+With that said, let's pay some bills  ...
+
+*-----------------*  WORK FROM HOME - ON-LINE!  *--------------------*
+ No sign-up fee, inventory or previous experience!  Put our website
+  to work for you!  Start your own business by trying our products,
+   30-days risk free!  Bonus: Enjoy the products & results! Email:
+                          LifeEx@citi.net
+*---------* (800) 854-3861  <http://www.citi.net/LifeEx> *-----------*
+
+
+INSTANT WEATHER
+---------------
+
+If you are interested in seeing if the "thunder sun" phenomenon is headed
+to your neck of the woods, you probably will want to take advantage of one
+of the Net's free instant weather services.
+
+For those of you in the US, you can get free, instant weather reports via
+e-mail from Mercury Mail by sending an e-mail letter to
+
+     instantwv@merc.com
+
+with an airport code, zip code, or the city and state of a particular city
+in the SUBJECT line of your e-mail letter.  (I tried to get the forecast
+for Berlin -- airport code "BER" -- and Mercury Mail sent me a rather weird
+looking error report).
+
+If you are not in the US, however, I am happy to announce that the nice
+folks at Yahoo! have an absolutely incredible instant weather service on
+the Web at
+
+     http://www.wni.com/yahoo/
+
+You can get weather reports by entering the city name or airport code, and
+Yahoo's weather service includes pretty much every major city in the world.
+:)
+
+
+NEWS.COM
+--------
+
+Keeping up with the latest technology news can be a full-time job.
+Fortunately, the folks at CNet have created "news.com," the first online
+service devoted entirely to technology news.
+
+We're going to visit CNet in our next two tours (Bob is taking next week
+off, so I will be writing both posts), but you can access CNet's "news.com"
+site on the Web at
+
+     http://www.news.com/
+
+CNet's news.com site has 9 sections:
+
+     Front Page (breaking news)
+     The Net
+     Computing
+     Intranets
+     Business
+     Perspectives (Editorials)
+     Newsmakers
+     Rumor Mill
+
+Remember, though, that news.com only covers technology.  If you are
+interested in finding out things like the latest shake-up at Sybase or the
+release date for Netscape Navigator 4.0 beta, this site is for you.
+
+For those of you who only have e-mail access to the Net, I haven't
+forgotten you.  The nice folks at news.com also publish a weekly, e-mail
+based newsletter called "News-Dispatch" which gives you the latest
+technology news.  To subscribe to News-Dispatch, just send an e-mail letter
+to
+
+     listserve@dispatch.cnet.com
+
+with the command
+
+     subscribe news-dispatch YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.
+
+That's about it for today.  Have a safe and happy weekend, and watch out
+for thunder sun!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+PEGS - noun.  A farm animal.
+Usage:  "There's nothing wrong with computers, but they aren't pegs."
+(Special thanks goes to Yanira Wong for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+*-------------------------- BUY IT ONLINE --------------------------*
+         Your Guide to Locating Products & Services Online
+   Enter our "Can you FIND Goober" contest!  Put "Tour Bus" on the
+      contest entry and we'll enter you twice - Great prizes!!
+*------------------(  http://www.BuyItOnline.com  )-----------------*
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name toLISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }            http://www.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

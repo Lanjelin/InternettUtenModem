@@ -1,0 +1,180 @@
+From pcrispe1@ua1vm.ua.eduThu Jan 25 22:19:31 1996
+Date: Thu, 25 Jan 1996 17:21:48 -0600
+From: Patrick Douglas Crispen <pcrispe1@ua1vm.ua.edu>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 25 JANUARY 1996 - THE TIMES
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TOURBUS - THURSDAY, JANUARY 25
+TODAY'S STOP: THE TIMES
+TODAY'S STOPS: http://www.nytimes.com/
+               http://www.nytimes.com/subscribe/sub-bin/new_sub.cgi
+               http://www.nytimes.com/subscribe/verify/verify.cgi
+               http://www.nytimes.com/info/contents/sections.html
+               http://www.nytimes.com/yr/mo/day/front/quick.html
+               http://www.nytimes.com/library/cyber/cynavi.html
+
+Well, I'll admit it.  I'm embarrassed.  It turns out that the "Navy story"
+about the aircraft carrier Enterprise and the lighthouse is in fact a very
+old urban legend (probably created by someone on the USS Carl Vinson (I'M
+KIDDING!!!)).  As an alert reader pointed out, the Enterprise/lighthouse
+story has probably been floating around (no pun intended) since the days of
+Lord Nelson and the HMS Victory.  This, of course, explains why Nelson won
+the Battle of Trafalgar ... he had air support from the aircraft carrier
+Enterprise.
+
+
++-----------------> Netscape Road Map Training Manual <-------------------+
+| Now available for use by Trainers and Presenters.  This 55 page manual  |
+| succinctly reviews the basic functions of Netscape 2.0.  Get your copy  |
+| today for just $16. FREE info & sample chapter, E-mail: CDOMEYE@AOL.COM |
++-------------------------------------------------------------------------+
+
+
+OH THE TIMES, THEY ARE A CHANGING
+---------------------------------
+
+If you are looking for proof that the World Wide Web is dominant force that
+is here to stay, I think I've found it: The New York Times is now online!
+
+Before you start celebrating and going "yippee" (and you do that a lot,
+don't you?), there is some bad news: you have to have a graphical,
+forms-capable Web browser like Netscape or Mosaic to be able to fully use
+The New York Times Web pages.  Why?  Well, while The New York Times on the
+Web is absolutely free (see note below) to everyone, you need to
+"register"  with The Times to be able to access some of their pages ...
+and you have to have a forms-capable browser in order to register :(
+
+<< Note: turns out this may be just a 30-day trial, perhaps only for USA >>
+
+The New York Times main homepage is at
+
+     http://www.nytimes.com/
+
+and you can register with The Times for free by clicking on "REGISTRATION"
+on The Times homepage, or by jumping directly to
+
+     http://www.nytimes.com/subscribe/sub-bin/new_sub.cgi
+
+After you register, The Times will send you a four digit verification code
+through e-mail.  Once you get the verification code, jump on over to
+
+     http://www.nytimes.com/subscribe/verify/verify.cgi
+
+and plug in your New York Times subscriber ID and password (the ones that
+you created when you registered with The Times), click on "log in," and
+then enter your verification code when you are asked for it.
+
+That sounds pretty difficult, but look on the bright side: you only have to
+do this once :)
+
+
+ALL THE NEWS THAT'S FIT TO ...
+------------------------------
+
+Once you have registered with The Times, you can jack-in to The Times
+anytime you want by going to
+
+     http://www.nytimes.com/
+
+but your best bet is to jump directly to The New York Times "sections" page at
+
+     http://www.nytimes.com/info/contents/sections.html
+
+instead. Either address will work, but I've found that it is a little bit
+easier to find your way around all of the Times' pages from the "sections"
+page.
+
+From the sections page, you can jump to any of the following sections
+(imagine that!):
+
+     FRONT PAGE             NEWS BY CATEGORY
+     CYBERTIMES             POLITICS
+     EDITORIALS/LETTERS     OP-ED
+     ARTS & LEISURE         TRAVEL
+     REAL ESTATE            JOB MARKET
+     DIVERSIONS             ARCHIVES
+     CLASSIFIEDS
+
+Most of these categories are pretty self-explanatory.  "Front Page" has the
+front page of the New York Times, as well as a really nifty "quick read"
+summary service at
+
+     http://www.nytimes.com/yr/mo/day/front/quick.html
+
+(you can access this by clicking on the "quick read" icon on the sections
+page) which, like NandO News (which we visited a little while ago), gives
+you one paragraph summaries of the latest news stories, with hyperlinks to
+the full articles.
+
+While I like reading the news as much as the next person, one of my
+favorite sections of The New York Times Web page is CYBERTimes at
+
+     http://www.nytimes.com/yr/mo/day/cyber/index.html
+
+which contains the latest news from the techno-world.  Also located in the
+CYBERTimes section is The New York Times Navigator at
+
+     http://www.nytimes.com/library/cyber/cynavi.html
+
+which is a delightful collection of links to search engines, collections
+for journalists, reference materials, on-line publications, Election '96
+web pages, and other neat Internet resources.  According to the folks at
+the Times, "Navigator is the home page used by the newsroom of The New York
+Times for forays into the Web. Its primary intent was to give reporters and
+editors new to the Web a solid starting point for a wide range of
+journalistic functions without forcing each of them to spend time hacking
+around blindly to find a useful set of links of their own."
+
+Needless to say, The New York Times Navigator page is rapidly becoming one
+of my favorite Web resources :)
+
+I was going to talk about the op-ed section and make a joke about William
+"congenital" Saffire, but I'll resist.  Instead, I'm going to bring today's
+tour to a close and let you play around with The Times on your own.  I
+*strongly* suggest that you take a look at The New York Times homepage at
+
+     http://www.nytimes.com/
+
+and take a look at all the news that's fit to ... well ... um ... SURF!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+MARKINS - Noun. Citizens of the United States .
+Usage: "My fellow Markins ..."
+(Special thanks goes to Larry O'Glasser for today's wurd)
+
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.

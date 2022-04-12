@@ -1,0 +1,796 @@
+IRPS NEWSLETTER
+July 1, 1996
+Issue #7
+
+Table of Contents
+General Information:        
+	IRPS Monthly status Report (Michael Popovich <cad@digital.net>) 
+	Announcement of First IRPS IRC Meeting 
+		(David Knisley <bean6@ix.netcom.com>) 
+	Note from the Editor (Karen Mizeri <kmizeri@jetstream.net>) 
+Monthly Columns:
+	Rambling Thoughts Kosala Ubayasekara <kosala@dataphone.se> 
+	Newsletter (John A. Tomkins <gr8dm@acronet.net>) 
+	Sendra the Orc/Ogre Killer 
+		(Dave Mavretic <davem1@mail.microserve.net>) 
+	DM's Advice (Earl Harrison <harrison@comsys.net>) 
+	Slight's Miscellanea (Steven Cox <slight@bev.net>) 
+	Three New Types of Magick Users (Michael Gill <wgill@monmouth.com>)
+Monthly Classified Ads:
+	Subject: METW IRC League
+	Subject: New AD&D PBEM Starting
+	Subject: The IRPS List of RPG Specialists
+
+
+------------------------------------------------------------------------------
+Column Name: IRPS Monthly Status Report
+Author: Michael Popovich <cad@digital.net>
+------------------------------------------------------------------------------
+	Well our club seems to be progressively growing at a steady rate of
+about 150 to 200 new members per month.  Our club size is currently at 1200
+people.  With the size of our club at a very large volume, we have decided to
+hold our first IRC meeting which will take place on Undernet servers in the
+channel #irps which David goes into more detail below.  It's a chance for
+everyone to get to meet the officers personally.  We hope to see you there.
+	If you've never used IRC before, and would like more information about
+it so that you can stop by the meeting, just email me for more info with a
+subject line of "[IRPS IRC HELP]" and I will get back with you ASAP on how
+IRC works and I will give you an IRC client to use.  We would like for our
+members to participate in this exciting event, and will happily help you.
+	Also, I'm not quite sure if I've mentioned the new location of the
+IRPS homepage which is now at <http://www.borg.com/~gdb319/daur/irps>, so be
+sure to update your links.  We have new graphics to place on our page along
+with new material which I will upload sometime the middle of the month so be
+sure to stop by and check out the page sometime around the 15th of July.
+
+------------------------------------------------------------------------------
+Column Name: Announcement of First IRPS IRC Meeting
+Author: David Knisley <bean6@ix.netcom.com>
+------------------------------------------------------------------------------
+
+HEAR YE HEAR YE:  "ALL IRPS MEMBERS, WE WILL BE HAVING OUR FIRST SOCIETY 
+MEETING ON JULY 8TH, 1996 AT 8:00 PM EST AND JULY 9TH, 1996 AT 9:30 PM EST ON 
+THE #IRPS CHANNEL ON THE UNDERNET, THE KING REQUESTS YOUR PRESENCE." 
+	
+	I am the newest addition to the IRPS staff and I handle all of the 
+affairs that have to do with the IRC (Internet Relay Chat) channel on the 
+Undernet at #IRPS.  My name is David Knisley, and I went to College at The 
+University of Michigan, I'm sure most of you have heard of it.  I have been 
+role-playing since I was 10, so that would make it almost 16 years.  Boy I'm 
+getting old!  If you have questions about the IRC channel please feel free to 
+drop me a line at <bean6@ix.netcom.com>, or you can find me listed in the 
+Officers section of the IRPS homepage: http://www.borg.com/~gdb319/daur/irps.  
+We are still taking requests for channel operators so if you are interested 
+contact me at one of the places listed above.
+	It is possible some of you are saying to yourselves, "What in the hell 
+is he talking about IRC, undernet, channels???"  I remember wondering those 
+very same things the first time I heard of IRC, so I will give you a quick 
+synopsis of what IRC is and what makes it so exciting.  Basically IRC is a 
+collection of computers in different parts of the world that are linked 
+together, much like the web, to allow people to "talk" to each other in 
+real-time.  This means as fast as you can type is as fast as you are able to 
+communicate.  It is, for the most part, text based but there are some new 
+innovations close to becoming reality that will allow graphics to be 
+transmitted more freely on IRC.  If you are getting this newsletter you should
+be able to connect to IRC.  Here are some addresses you can find easy access 
+at:
+	<washington.dc.us.undernet.org PORT 6667> (MY FAVORITE)
+	<okc.ok.us.undernet.org PORT 6667>
+	<brisbane.qld.au.undernet.org PORT 6667>
+	<sanjose.ca.us.undernet.org PORT 6667>
+and if none of these seem to work for you use the default logs of: 
+	<us.undernet.org PORT 6667>
+	Come on in and see us on the channel #IRPS and if you need any help 
+getting started feel free to contact me and I will help get you on your way.
+	We are also working in conjunction with two of our members on channels
+on the DALnet.  The Official channel on the DALnet is again called the #IRPS, 
+and Romano, our main channel op on that channel, is in there frequently.  This 
+channel will be getting linked to another channel which is called #warlords.
+#warlords is a very kewl channel that allows players to role-play characters 
+and fight other player characters.  You should definitely check this out at: 
+http://www.inca.de/user/rubin/warlord.htm and tell them that bean6 (my nick) 
+sent you.  You need to visit the web page first so you can create a character. 
+	That is all the time I have today, but I am looking forward to seeing 
+all at the meetings on July 8, 1996 at 8:00 PM EST and July 9, 1996 at 9:30 PM
+EST.
+
+	The game grows
+	       David Knisley
+
+------------------------------------------------------------------------------
+Column Name: Note from the Editor 
+Author: Karen Mizeri <kmizeri@jetstream.net>
+------------------------------------------------------------------------------ 
+	I would like to take this opportunity to introduce myself as the 
+person who will be handling the construction and editing of the newsletter.  
+Please feel free to send me any your articles and any questions you may have 
+regarding its pub-lication.  Also I would like to welcome Jenn Millington to 
+the editing team and thank her for all of her hard work.  I am looking for 
+more help if anyone is interested.  For all those who submit articles - Keep 
+it up!  I have enjoyed reading them.
+
+Karen Mizeri
+
+------------------------------------------------------------------------------- 
+Column Name: Rambling Thoughts
+Author: Kosala Ubayasekara <Kosala@dataphone.se>
+------------------------------------------------------------------------------- 
+On the business of being a good DM
+
+	As I am sure many are already aware, playing make-believe characters 
+in a fantasy world is notoriously fun!  However, over time the tempting roll 
+of DM beckons and most players at some point or the other will want to try 
+their hand at running a game instead of playing a character roll in one. 
+However great players do not necessarily make great DM's.  So let me share a 
+few ideas I have, if you are not meeting your own standards as a DM and are 
+wondering why.  A few basic requirements exist that should be met before you 
+try running a group of people through a game.
+
+a) A comprehensive understanding of the rules of the game is absolutely vital
+b) A healthy and diverse imagination
+c) The ability to spin a good story, on the fly if necessary
+
+	The above three guidelines are the bare necessities.  Fortunately most 
+people meet these requirements fairly well - even the ones that may initially 
+think they don't.  If you are unable to fullfil the above requirements it is 
+often possible to learn and develop them over time.  I mention these rules 
+only since without them you will surely bore your group to tears.  However, 
+even when these basic requirements are met they are not always kept.  One 
+problem that I frequently encountered in my early games is that I spent time 
+developing great twists to situations and then neglected to fully incorporate 
+them.  For example, the DM may take great care to lay out the plans for an 
+important battle and then in the heat of the moment rush over his plans or 
+drop parts of the plan entirely, to later discover that the combat scene was 
+not nearly as cool as he intended it to be.  Try and stick with novel ideas 
+that you have.  Where combat is concerned don't let the moment shrivel down 
+to a series of dice rolls and "you hit", "you missed", comments.  If you see a 
+picture of the scene in your head then describe it to the players.  If an 
+attack hits then describe how and where it hits.  A popular reason not to do 
+this is that it all takes too much time and drags out the combat scene. 
+Essentially that is true.  However, if you narrate and go about the 
+statistical part of combat (such as dice rolling) simultaneously the time is 
+significantly reduced, and your players will appreciate the extra detail to 
+the scene.  Remember it is no use the DM having a great combat scene in his 
+head if he is not able to make his players see it too.  All this may take some 
+practice but is well worth the effort.
+	The same concept can readily be adapted to most other situations when 
+running an RPG.  Visualization is the key.  Since there is no game board and 
+rarely and visual or audible aids, good descriptions are the greatest asset in 
+helping your players visualize the scene.  Remember that the players should be 
+able to see, hear and feel everything as if they were standing in their 
+characters place.  In order to achieve that you the DM MUST resort to good 
+descriptions.  As far as the construction of the game itself is concerned, 
+definitely plan at least a part of it beforehand.  The greater your planing 
+the easier it will be to run the game. However, it is essential that you do 
+not get so tied up in you plan that you cannot deviate from it.  No matter how 
+good a DM you are you cannot foresee everything your players will do.  So be 
+prepared to change you plans if necessary.  This is much easier to do if you 
+actually have a plan to start with - because then you have a foundation upon 
+which you can improvise.  Be original when planning your games.  Don't do 
+things in the same tired, old ways.  If the players you play with are playing 
+their characters stereotypically, set the example by playing an NPC uniquely. 
+Find new twists to known ways of doing things, find imaginative uses for 
+mundane items and your players will soon catch on, thus making the game vastly 
+more interesting to both DM and player.  If you follow these ideas and 
+incorporate the good ideas I am sure you already have you should be well on 
+the way to carving your name in the annals of great DM's.  If in doubt - let 
+your players decide.
+
+Kosala Ubayasekara
+
+------------------------------------------------------------------------------
+Column Name: Newsletter
+Author: John "BJ" Tomkins <gr8dm@acronet.net>
+------------------------------------------------------------------------------
+	A newsletter is something I thought about for awhile and finally 
+decided to act on.  The ability to pass on information to my players without 
+having to tell the same information several times (because a player was not 
+there or could not remember what I said) is valuable.  Sometimes I either 
+forgot to pass on the information or somehow told the information wrong.  Soon 
+your players think you are going loony, and you have to make a decision on 
+what you said.
+	My idea was simple.  Create a newsletter which allowed the players to
+keep up on the world they play in.  It passes on various information to them 
+without anyone missing out, or the GM forgetting what was said.  Your players 
+now have something written down, that you wrote, and be warned they will use 
+it against you!
+
+A Name:
+	Deciding whether to do a newsletter or not is up to the GM.  You need 
+to create a name that fits the time period you play in.  When I did mine, I 
+searched for something appropriate to the World of Greyhawk, which is what my 
+world is based on. I searched for something that would express the feeling of 
+the world.
+
+Things to consider:
+	There are several factors to consider when deciding what you should do 
+when you create a newsletter. Some considerations are: do you use dates?  How
+often do you publish your newsletter?  What types of articles do you include?
+Do you write as that time period or do you write as the GM telling the players
+information?  How many pages do you include?  How accurate is the information
+included?  There are more, but I think you get the picture.  I don't use dates 
+for reasons mentioned later.  When I started publishing my newsletter, it was 
+sporadic, then it finally went monthly and has stayed there for the past five 
+years.  The articles I started with were basic news, sports, and classifieds. 
+About a year ago I went to almost all news, no sports and only a couple of 
+pages of classifieds.  Starting with one page, I slowly grew to four then 
+eight.  Over the past couple of years, I have maintained eight pages, the 
+information is entertaining with some critical information regarding the 
+current campaign the players are in.
+
+Game Information:
+	My main reason for doing this newsletter was to bring information 
+about my campaign to my players without having to actually tell them. 
+Noteworthy people are always mentioned in newsletters.  For example, how do 
+you tell your players who have never encountered him that a major NPC dislikes 
+long hair?  This could be crucial if one of the players in party has long 
+hair. The NPC may become angry and storm by without passing on information to 
+the players that they needed, simply because of a slight oversight.  Wouldn't 
+it be better if the players knew this information and could react within their 
+character?  This is a stretch, but I think you get the picture.  Maybe there 
+is information about a certain area that the players are travelling to that 
+they know nothing about.  They could just tell the GM that they have done the 
+research and hope the GM is prepared.  Why not tell them in the newsletter 
+that the local Lord they are traveling to is a suspected lycanthrope and the 
+party may have something he may want - perhaps a cure???
+
+	The newsletter also allows me to pass on information the players need 
+to know about something that is happening which impacts their characters.  For 
+example, in my world Bards cannot be killed unless ordered by a king.  It 
+seems that in my campaign world bards are the historians and very well 
+received.  Killing one is a death penalty for the killer.  How do you pass 
+this information on to your players without explaining why or how?  Make up a 
+story that explains why bards have this favor and they will have a kick 
+reading the information as well as a way to remember it!
+	The last thing these newsletters are good for are history.  If you 
+work at it long enough, you can actually build a history the players can look 
+back on and see a world growing around their characters.
+	You are bound to lose a player sooner or later.  New players enter the 
+game.  They start to receive the newsletters and begin to question some 
+actions you are using.  You could always reprint an article that had appeared 
+months or years previous, like the Bard thing mentioned above.
+
+Things to Keep in mind:
+	Now that I have explained some of the things that can go into it, 
+maybe I can help out in other matters.
+
+	When you write your stories, if you write from a first person 
+perspective, you have to keep in mind to not mention saving throws, stat 
+checks and other things which happen in the real world; unless you are playing 
+an RPG set in the real world.  If you play in a medieval world, written word 
+was never published.  They had no printing presses, no mass distribution.  But 
+they did have town criers and postings.  Posters were made and put on the 
+posting board in the center of town.  Look at the TV show M*A*S*H.  They have 
+a bulletin board by the main building in camp to place postings for all to 
+see. The same holds true for these medieval worlds.  If you play in the old 
+west or later, they had newspapers.  It's up to you to determine what format 
+and how. If you play in a Sci-Fi world, you might have to publish your 
+newsletter electronically!
+	Put information that might pertain to the current campaign the players 
+are on without giving away anything relevant.  Write a story about how a 
+person they are to meet soon and how he is traveling to another kingdom for a 
+meeting with someone else the players are to meet.  This might make the 
+players think twice about meeting him.  If you work hard enough, you can 
+actually build something up to a climax that will startle your players.
+	The main purpose here is to pass on information that might be worth 
+telling if it helps the current campaign.  If you are stumped for a month, 
+then make something up!  Ever watch Soap Operas?  Watch one for a month and 
+keep track of some of the people.  When the month is over you should have 
+something that you can add to your newsletter and your players will have 
+something entertaining to read!
+	If you date your newsletter, do you date it in the real world or game 
+world?  If you do the real world, you have a way of keeping track of the 
+information coming out and keeping track of newsletters.  If you date it from 
+the game world, you run the risk of compromising your game world if things 
+happen before or after they should.  Keep in mind that your players may be 
+acting on this information.  To keep track of which newsletter follows 
+another, I use the age old method of Volume and Number in the masthead.  This 
+helps me keep track of each newsletter and the players can ask information 
+about a particular issue.
+	I mentioned classifieds earlier.  These can be funny or serious as you 
+see fit.  You can place ads in the classifieds to get your players to find a 
+new adventure or to just make them sit up and take notice about something that 
+you are planning.  Use your imagination and see what you come up with.  Make 
+up some funny classifieds like, male gnome looking for a good time.  Has 
+polished nose and willing to travel!  Make sure to keep it clean!  Remember 
+that guilds are always looking for members.  Fighters and mages are looking 
+for apprentices, castles are up for sale after that last dungeon crawl.  You 
+get the point.
+	There are times when you will be challenged to find content to put 
+into your newsletter.  After using some of the ideas mentioned above, this is 
+still a problem.  You could try drawing cartoons yourself or having someone 
+do it for you, but you might have to pay for it.  If you have a scanner, you 
+can try to scan funny cartoons that might be easy to add, but be careful of 
+copyright laws.  Do you have a friend that is pretty funny and willing to 
+write a Top Ten list for you?  I did until he moved away.  For several 
+newsletters he would give me a small listing of things and it would fill 
+nicely.
+	If you have Internet access, there are a variety of sites that contain 
+graphics that you can use.  Adding graphics to your newsletter is always a 
+nice filler.  Or you can buy some shareware graphics available from numerous 
+sources.
+	Of course, story content, graphics, cartoons, and so on are nice, but
+what if the type face looks like it came from a computer (if your newsletter 
+is supposed to be medieval)?  Again, hop on the Internet and find a place that 
+might have an old feel to it.  If you have something set in the future, many 
+things can be done.  Just remember to use your imagination.
+
+Do You Charge for it?:
+	Now comes the biggest question of them all.  Do you charge for your 
+newsletter?  This depends on you.  I don't normally charge for my newsletter, 
+but I do make sure everyone knows I accept donations.  Keep this in mind 
+though, if you print more than a dozen newsletters and can do this for free, 
+this is a good deal.  Beyond that you should to supplement your free and 
+willing nature.  I now charge because I have gone beyond my dozen copy a month 
+limit.  The price I charge is enough to cover my printing charge for the year. 
+This may sound harsh, but those printing charges add up quickly.  Paper is 
+expensive, depending on what you use.  Plain white paper is cheap.  Colored 
+paper can run you some money.  If you try to use parchment-like paper, expect 
+to pay twice more than usual.  You can also buy your paper and then print your 
+newsletter yourself at work, saving you the cost of a printing service.
+
+Conclusion:
+	Whatever your decision, make this endeavor a fun thing.  Start slow 
+and see what happens.  Your players are the best source of material and 
+feedback.  Ask them what they think and see where it takes you.  Once you 
+start this newsletter try and stay with your deadline.  Even though this is a 
+fun thing, your players will let you know when they think that they are due 
+for another newsletter.
+
+------------------------------------------------------------------------------
+Column Name: Review on Sendra the Orc/Ogre Killer
+Author: Dave Mavretic <davem1@mail.microserve.net>
+------------------------------------------------------------------------------
+>Sendra (the Orc/Ogre Killer) by Mauricio L. Sadicoff <mlevy@rio.com.br> 
+>Freq:  Unique
+>        
+>        Sendra is a magical sword, created specially for a chaotic neutral 
+>elf.  But this elf suddenly died in his 2nd level, while attacking a 15th 
+>level mage.  The thing is not only that mage could not use a sword, but he 
+>could not stand the swords personality, so he left the sword around.  Some 
+>years later, the sword was caught by a Kobold and another elf (a lawful good 
+>fighter). They spent some years together, until the elf fighter just could 
+>not stand Sendra's personality, and dropped her around, in a cave.
+>        Sendra is a chaotic neutral sword, with an ego of 15, ad was created 
+>to be THE Orc/Ogre killer.  Actually, she can speak the common language, 
+>elfish, orcish, and ogre.  Sendra is a magical sword +2 against Orcs, and +3 
+>against Ogres.  She doesn't need to be wielded by elves, but she'll prefer an 
+>elf. 
+>       FOR THE DM: Sendra was designed for low level adventures, and to be, 
+>by itself, an adventure plot.  The funniest thing about Sendra is her 
+>Orc/Ogre killer personality.  Whenever she gets close to an Orc or Ogre 
+>she'll start by saying "I can smell an Orc" and whenever any member of any of 
+>these races gets close she will start shouting "Orc! Orc! I want an Orc!!!!", 
+>or Ogre, depending on the situation.  Also, if she's fighting for some time 
+>against other creatures, she'll start shouting she wants a Orc.  She will 
+>always shout that if the wielder is in the middle of a town, just for fun. 
+>Sendra loves to see the strange red color her wielders normally gets on their 
+>faces when she shouts for an Ogre in the middle of a marketplace and everyone 
+>around starts asking who's shouting so loud.  The DM can become hoarse by the 
+>end of a 5 hours session, but it's worth it :-)  When there's no one around, 
+>or after a Ogre-killing session, Sendra is calm, and wise.
+>
+>Enjoy:-)
+>Mauricio
+
+	Mauricio has a wonderful item here.  I play tested it in one of my 
+games yesterday.  The reaction of the group to the sword was one of surprise, 
+which in itself was fantastic!  It made for some intense role-playing on their 
+parts, and got that particular part of my game back on track.  Role-playing 
+slips a little when a group has been together a long time, simply because DM's 
+and players become accustomed to how the group reacts to various scenarios.
+	Placing Sendra into that game and having them find her was not 
+difficult.  Keeping a straight face, and handling the various NPC's as well as 
+the sword's personality became a difficult task.  I wanted to laugh so badly, 
+it started to hurt. :)  The role playing that party got into to handle the 
+situation was some of the best we've had to date.
+	If you have any unique items that you use in your game, please send 
+them to me at <davem1@island.microserve.com>, and I'll play-test them submit 
+them to the first available newsletter after that.
+ 
+Dave
+
+davem1@island.microserve.com
+dmav@frackit.com
+Odessius Knight   The Island Retreat BBS   (717) 545-6794
+
+------------------------------------------------------------------------------
+Column Name: DM's Advice
+Author: Earl Harrison <harrison@comsys.net>
+------------------------------------------------------------------------------
+	Any of you that has access to AOL may have seen it there as AD&D 
+Utilities.  I have downloaded over 35 discs full of software for AD&D and 
+still feel that this is the most complete package of utilities out there, 
+until TSR finally releases their software.  However, it does need some more 
+work.  If after reading the descriptions of the various packages you would 
+like a copy and you own PKZip, send me your e-mail address and I will send a 
+copy to you.  However, I do ask two things.  Firstly, that you tell me if you 
+find any errors in the program(s).
+	Secondly, if you have any programs, new rules, new sheets or any other 
+odd ball stuff pertaining to AD&D that you pass it to me as I like to see what 
+my fellow AD&D players are doing.  If you would like something added to this 
+package please don't hesitate to ask.  I will be more than glad to add it, if 
+it is possible for me to do.  One other note: The NPC Generator and the Temple 
+Generator are not my creations.  They were such good programs and I needed 
+them anyway so I decided to add them to my package.  If the authors of these 
+two programs do not want them attached to my package then just e-mail me and 
+tell me and I will take them off.  As always anything that is copyrighted or 
+trademarked by TSR still remains their product.
+
+The descriptions are as follows:
+
+AD&D Forms Printer - I have a collection of over 20 different forms to print 
+	out.  Many of the sheets are character sheets that our group likes to 
+	use.  If you would like your sheet here just get it to me via e-mail,  
+	tell me what format it is in and I will try to add it here.
+Artifact Generator - Creates a perfect artifact laid out based on the 1st 
+	edition DM's guide.
+Birthright Domain - Any DM with regents in birthright will want to have this 
+	program handy the next time they play.
+Character Creator - This program creates a character for you of any class, 
+	race and level.  It tries to be as accurate as possible.  Again if you 
+	want this program to print to your form just let me know.
+City Generator - Create your own towns and print them or let the computer 
+	create a town for you.
+Creatures from the Lower Planes - Creates a unique creature from the depths of 
+	the earth.  This program also comes from the 1st edition DM's Guide.  
+	Use this with caution!
+Encyclopedia Magica - Same as above but has all of the 5000+ Magical Item's 
+	from the 4 book set.
+Magic Items - A complete list of Magical Item's from the 2nd edition DM's 
+	Guide.  Will generate any type of items that you want.
+Martial Arts - Generate a martial art form from the Oriental Adventures 
+	Handbook or have the computer randomly generate an art form for you.
+	I have over 50 new martial arts to add to this from the net, I just 
+	have not had time to do this yet.
+Monster Tables - If you can't find the random monster table that you need then 
+	just create it with this program.  Use the created table with the 
+	Random Monster Program.
+Monster Treasure Type - Generate a treasure from the A-Z list in the Monster 
+	Manual.
+NPC Generator - Randomly creates NPC's for you.  This program is well written 
+	but I need something different, so a revision for this one is on the 
+	way Mutant Generator - Our own creation.  A password from the 
+	character generator is required to enter this program.  These 
+	characters will disrupt a realm so use with caution.  There is a way 
+	to get mutants when you want, just ask me for details.
+Psionic Generator - Same as mage spells but for the psionic characters in your 
+	group.
+Random Monster -  Roll up monsters using the tables that I have or create new 
+	ones with  the Monster Tables Program.
+Random Room - Creates a room or hallway for you if you run out of ideas.  If 
+	you have a list of room descriptions that I could use in this program 
+	please send it to me or tell me where I can get it.
+Ship Generator - Generates over 15 different types of sailing vessels.  Have 
+	the computer generate a ship on the fly for you.  
+Sword Generator - Looking for an intelligent sword. Here is the place to find 
+	it.  Generates swords based on the charts in the 2nd edition DM's 
+	Guide.
+Temple Generator - Creates a complete temple for you to occupy.  See NPC 
+	Generator.
+Tracker - For those DM's that have laptops or computers that they can bring to 
+	the AD&D table then this program is a must have.  Keeps track of 
+	characters and monsters.
+Weapons Store - All characters need to be outfitted with weapons, armor and 
+	equipment.  This is the place to do it.  Will also buy some weapons 
+	and equipment from you.
+	
+	Almost all of the programs will print out something to your printer. 
+Make sure you have your printer on and ready to print when you tell the 
+programs to print.  Most output is formatted to look like an official TSR form 
+that they would want you to use.  Also there are many passwords throughout the 
+package.  If you would like to know where and what the passwords are then send 
+a little note asking for them.  I do not give the passwords out unless you ask 
+for them.  They help you use the software somewhat, however, some of them also  
+let you cheat.  Again any comments good or bad are always welcome.  Please let 
+me  know your comments both good and bad.  If you would like a copy of any of 
+the above programs please e-mail me at the address at the bottom of the 
+article.
+
+Earl Harrison
+harrison@comsys.net
+
+------------------------------------------------------------------------------ 
+Column Name: Slight's Miscellanea: Revised Universal School 
+Author: Steven Cox <slight@bev.net>
+------------------------------------------------------------------------------
+Salutations!
+
+	Recently through the AD&D listserv, a discussion was fired up about 
+the feasibility of an "all" school for mages, as there exists an All sphere 
+for clerics.  My participation in the debate started me thinking about this 
+topic as never before.  Was the idea of an All school viable, and what should 
+it include if it was?
+	Presented below is the answer to my question.  The "Universal", or 
+All, school for mages in it's full glory.  But first, a little more 
+information and some additional history on the subject.  Most of the ideas 
+reflected below are a result of the All school discussion on AD&D-L, but some 
+additional help arrived just as I was putting the finishing touches on the 
+article.  Having newly acquired a copy of the Player's Option: Spells & Magic 
+source book, I was surprised to discover that TSR had (barely) beat me to the 
+punch in introducing their own All school!  Shocked, surprised, and actually 
+a little hurt, I was still glad to see the All school make it as an "official" 
+rule.
+	However, I found the proposed Universal school to be nearly as bad as 
+the problems it was designed to fix.  What are the initial problems, you ask?  
+Well, as you know, there exists in the core rules of AD&D a school known as 
+the Lesser Divination school.  All mages, including every type of specialist 
+mage, have access to this school.  The school possesses several minor spells 
+that virtually all mages need to get by, such as 'Read Magic', 'Detect Magic', 
+and 'Identify'.
+	However, it also contains certain spells which have no need to be 
+"universal" - spells such as 'ESP', 'Clairaudience', and 'Clairvoyance' are 
+primer Reaching I (ToM, alteration) Squaring the Circle (ToM, alteration)
+
+4th
+Dilation I (ToM, alteration)
+Divination Enhancement (ToM, evocation) 
+Extension I (alteration)
+Far Reaching II (alteration)
+Mordenkainen's Celerity (ToM, alteration, invocation) 
+Rary's Mnemonic Enhancer (alteration)
+
+5th
+Extension II (alteration)
+Far Reaching III (ToM, alteration)
+Safeguarding (ToM, abjuration)
+
+6th
+Augmentation II (ToM, evocation)
+Contingency (Evocation)
+Dilation II (ToM, alteration)
+Enchant an Item (enchantment, invocation) 
+Extension III (alteration)
+Mordenkainen's Lucubration (alteration)
+
+7th
+Persistence (Sp&M, invocation/evocation) 
+Semipermanency (DK, alteration)
+
+8th
+Permanency (alteration)
+
+9th
+Chain Contingency (ToM, evocation)
+Mordenkainen's Disjunction (alteration, enchantment)
+
+(X) = spell's normal school affiliation ToM = Tome of Magic source book
+CWHB = Complete Wizard's Handbook
+Sp&M = Player's Option: Spells & Magic
+DK = Dragon Kings
+
+------------------------------------------------------------------------------ 
+Column Name: Three New Types of Magic-Users
+Author: Michael Gill <wgill@monmouth.com>
+------------------------------------------------------------------------------
+	I have revamped the magic-users class by eliminating the specialty 
+magic-users and reclassifying them by the way in which they channel magical 
+energy.  Blue magic-users channel magic through themselves, learning magic by 
+watching others cast spells (they should use the Channeller rules in the 
+Player's Option: Spells and Magic Book if available).  Red magic-users channel 
+their spell energy through the bladed weapons that they wield, and gold 
+magic-users focus their spell energy with large crystals.  I think that each 
+of these classes is slightly more powerful than the original wizard classes, 
+but not powerful enough to overbalance a campaign.  I haven't had a chance to 
+really integrate these new classes with the new Spells and Magic book yet, but 
+please give me any ideas or other input.                          
+					-Michael Gill 
+
+BLUE MAGIC-USER
+Ability Requirements:
+	Intelligence 15
+	Constitution 13 
+Prime Requisites: 
+	Intelligence
+	Constitution 
+Races Allowed: 
+	Human
+	Gnome
+
+	Blue magic-users are a class of wizards that have learned to acquire 
+spells through experience and observation.  Whenever a blue magic-user sees a 
+spell being cast or experiences its effects, there is a chance that they will 
+learn that spell.  Blue magic-users may be of any chaotic or neutral 
+alignment, they may not wear armor, and they can only use standard magic-user 
+weapons.  Because blue magic-users learn their spells in such a unique way, it 
+gives them time for other pursuits because they do not need to research 
+spells.  In fact, most blue magic-users become sages of monsters, using their 
+abilities to determine which monsters have useful spells that they can learn.  
+It is a source of pride among blue magic-users to gather the most unique and 
+dangerous spells.  For example, blue magic-users able to cast the 9th level 
+Weird spell are few and far between.
+	Blue magic-users are neither able to use scrolls or transcribe them
+(because they do not use spellbooks).  Note that even though blue magic-users 
+do not have spellbooks, they must still choose which spells will be committed 
+to memory, just as normal wizards.
+	Whenever a spell is cast within view of a blue magic-user, or the blue 
+magic-user sees the effect of a spell (such as a Wall of Fire) they may make 
+an attempt to learn that spell.  Note that simply seeing the creatures 
+conjured by a Monster Summoning or similar spell would not be enough, the blue 
+magic-user would actually have to see the spell being cast.  In all cases the 
+DM must decide whether or not the blue magic-user has seen enough of a spell 
+to learn it.  A blue magic-user may only make one attempt to learn any one 
+spell, and if that attempt fails, the spell may never be learned.  A blue 
+magic-user may learn a maximum number of spells for each level according to 
+the Intelligence chart in the Player's Handbook.  In addition, a blue 
+magic-user gets a +1 to their saving throw against any spell they already 
+know to reflect their superior knowledge of the spell.  The base chance for a 
+blue magic-user to learn a new spell is equal to half their chance to learn a 
+new spell according to their intelligence, rounded up.  This is adjusted by 
+the following modifiers:
+
+Blue Magic-user Chance to Learn Spell Modifiers
+
+Situation                               Adjustment Blue magic-user a target of spell
+(or within spell's area of effect)      + 5% Target of spell fails save                        + 5% Experienced spell before but made
+no attempt to learn it                  + 5% Cast by a friendly magic-user                     + 5% Blue magic-user has and uses Spellcraft  proficiency successfully                         + 5% For each + of subtlety spell has                  + 1 %(If using Spells & Magic) Magic-user did not view spell casting             - 10% Spell was seen being cast:
+But somatic element missed              - 3%  But verbal element missed                        - 3%  But material component missed                    - 3% For each level of spell                           - 2%
+
+	For example, Sam, a blue magic-user with 16 intelligence, spots an 
+enemy spellcaster casting a Fireball, a 3rd level spell, at his party.  Sam 
+decides to make an attempt to learn the spell because he doesn't yet have it.  
+Sam voluntarily gives up his saving throw by jumping into the area of effect 
+in order to increase his chances of learning the spell.  Normally Sam would 
+have a 32% base chance of learning the spell, but because of his efforts his 
+chance has increased to 39% (35% base chance + 5% magic-user a target of 
+spell, +5% saving throw failed, -6% 3rd level spell = 39%).  Sam's player 
+rolls a 38.  If Sam survives the Fireball, he will be able to cast them in the 
+future!
+
+
+RED MAGIC-USER
+Ability Requirements:
+	Dexterity 12
+	Intelligence 9
+Prime Requisites:
+	Dexterity
+	Intelligence 
+Races Allowed:
+	Human
+	Half-Elf
+	Elf
+
+	Red magic-users are wizards who have learned to focus their magical 
+energy through the blades of the weapons they wield.  Because they have 
+learned to channel their magical energy in this way, the need for somatic 
+components in their spells has been reduced to a simple brandishing of the 
+weapon.  Red magic-users have to be expert swordsmen to simply be able to cast 
+their spells.
+	Therefore, they must use weapons from the following list: Knife, 
+dagger, short sword, long sword, scimitar, broad sword, and khopesh.  They 
+have the same THAC0 as a thief of the same level, giving them a small 
+advantage in combat.  Also, because red magic-users do not have to perform 
+the arm movements other wizards do, they are able to wear either padded or 
+leather armor.  Red magic-users may be of any alignment.
+	Red magic-users receive several special abilities because of their 
+combined mastery of swordplay and magecraft.  First, a red magic-user may 
+attack with their weapon while channeling a spell through it.  Therefore, a 
+red magic-user casting Shocking Grasp can hit an opponent with their weapon 
+while discharging the spell, in this case doing regular weapon damage plus any 
+damage shocking grasp might cause.  For a "touch" range spell, a successful 
+hit is necessary to make the spell discharge, but any other spell will 
+discharge even if the attack misses.  Secondly, the magical power of a red 
+magic-users' sword may allow them to hit creatures that would otherwise be 
+unaffected by a normal blade.  To hit a creature in this manner, a red 
+magic-user must be discharging a spell while hitting the creature.  For the 
+purposes of hitting the creature, the magic-users' blade is considered to be a 
+weapon of magical power equal to the level of the spell being cast.  For 
+example, Traldor, the red magic-user, is being fought by a wight, which can 
+only be hit by +1 or better magical weapons.  Traldor knows his ordinary blade 
+will not harm the creature and does not have any useful spells for the 
+occasion.  He decides to channel a magical spell through his blade so that he 
+will be able to hit the creature.  Since it doesn't matter what spell he 
+channels (and he has been meaning to read a few of his magical scrolls 
+anyway), he casts a Read Magic spell and hits the wight.  His weapon will be 
+considered a +1 magical weapon (for the purposes of being able to hit magical 
+creatures only) until Read Magic expires, allowing him to kill the wight.  
+Furthermore, Traldor will be able to read his magical scrolls after the wight 
+is vanquished.  Because red magic-users cast spells in such a unique manner 
+and spend so much of their time learning swordplay, they can not use all the 
+schools of magic other magic-users are able to cast from.  Red magic-users are 
+only able to cast spells from the following schools: Invocation/Evocation, 
+Alteration, Minor Divination, Enchantment/Charm, and Conjuration/Summoning.
+They are also unable to cast spells without a bladed weapon of some sort.
+
+GOLD MAGIC-USER
+Ability Requirements:
+	Intelligence 10
+	Wisdom 12 
+Prime Requisites:
+	Intelligence
+	Wisdom 
+Races Allowed:
+	Human
+	Half-Elf
+	Elf
+
+	Gold magic-users are wizards who have learned to channel their magical 
+energies through precious gems and crystals.  Gold magic-users use crystals 
+in two ways, either casting their spells through them, or focusing their 
+magical energy to harm enemies.  This second use is called Beaming.  Gold 
+Magic-users are never allowed to use any weapons nor wear any armor, and they 
+may be of any alignment.
+	Gold magic-users may cast spells from any school of magic.  Because of 
+their unique method of casting magic, however, they can use some schools 
+better than others.  Using their gem a gold magic-user can cast all divination 
+and abjuration spells as if they were one level higher.  Gold magic-users are 
+never able to use magic without some kind of crystal or gem to focus their 
+power on.  Crystals gold magic-users use to cast spells and Beam with must 
+always be facetted and cannot be completely opaque.
+	A gold magic-users second ability is Beaming.  They can focus magical 
+power through a gem and shoot it at an enemy as distant as 10 ft per level of 
+the magic-users.  The gold magic-user must make a regular attack roll to hit, 
+aided by the saving throw bonuses from wisdom, which become to hit bonuses.  
+The amount of damage the beam will do depends on the power of the gem as 
+determined by its value.  The following chart compares gem values to the 
+amounts of beaming damage they produce:
+
+Gem Values and Beaming Damage
+
+Value Class of Gem      Example         Damage Dice Used 
+Ornamental              Azurite                 1 hp 
+Semi-Precious           Smoky Quartz            1d4 
+Fancy                   Amethyst                1d6
+Precious                Topaz                   1d8
+Gems                    Sapphire                1d10
+Jewels                  Diamond                 1d12
+
+	Note that unless the gold magic-user possesses one of the various 
+magical gems (which the DM will have to make up rules for), this ray can only 
+affect creatures able to be hit by weapons of under +1 enchantment.  This 
+Beaming is considered to be a magical attack, but it is not subject to magical
+resistance.  A gold magic-user can only draw enough force to shoot one beam 
+per round, and spells such as Haste can not improve this.
+	Optional Rule: The DM may wish to decide that colored gems, such as 
+blue sapphires or red rubies may produce special effects when used for 
+Beaming.  For example, rubies might produce a heat ray that does extra damage 
+to cold-dwelling creatures.  This only affects creatures which are especially
+susceptible to extremes of either heat or cold according to their description.  
+No crystal of less than Precious level will have this ability, but the DM 
+should decide which gems do have additional magical powers.
+       
+------------------------------------------------------------------------------ 
+Classified Ads
+------------------------------------------------------------------------------ 
+
+Subject: METW IRC League
+Author: <MacPow@p085.aone.net.au>
+Wanted: 
+	Anybody interested in forming a METW IRC League?  All interested 
+parties please Email MacPow@p085.aone.net.au
+
+Subject: Local RPG Club Creation
+Author: <MGibson698@aol.com>
+Wanted: 
+	I am looking for people to start a Role Playing Club in the Dallas 
+Ft. Worth area.  All games will be included: from Sci-Fi to Fantasy, and 
+whatever else people are interested including games such as Battletech.  We 
+are just looking for people who enjoy RPGs and strategy games.  If anyone is 
+interested please contact me at mgibson698@aol.com
+
+Subject: New AD&D PBEM starting. 
+Author: <kosala@dataphone.se> 
+Wanted: 
+	My name is Kosala and I am thinking of running an AD&D based PBEM 
+campaignfor a six player party.  The campaign will be set largely in a game 
+world I created called Serth.  Information about Serth can be found at the 
+site http://www.dataphone.se/~kosala/serthindex.html In general this is a 
+traditional AD&D game world with a medieval society and culture.  Refer to the 
+above listing of pages for more detail. I will be continuing to update those 
+pages as I have time.
+	If you are interested in playing contact me at <kosala@dataphone.se> 
+I am only accepting six players so it will work on a first-come-first-served 
+basis. Hope to hear from you.
+
+Subject: The IRPS List of RPG Specialists 
+Author: <kosala@dataphone.se>
+Wanted:
+	A new project has just been started to act as an aid to role-players 
+from any genre.  The idea is to compile a list of people who are specialists 
+in areas of various role playing games so players having trouble in any 
+particular area can mail the corresponding specialist for help.  Right now I 
+am looking for people to add to the list of specialists, so if anyone is 
+interested please visit the IRPS homepage at
+		http://www.borg.com/~gdb319/daur/irps/
+	A link to the Specialist page has been provided from there.  For 
+questions please contact me at <kosala@dataphone.se>

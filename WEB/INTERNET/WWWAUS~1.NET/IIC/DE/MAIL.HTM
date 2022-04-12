@@ -1,0 +1,377 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN//3.2">
+<HTML>
+<HEAD>
+	<TITLE>IIC: FTP</TITLE>
+	<LINK REV=made href="mailto:cf@magnet.at">
+	<META HTTP-EQUIV="Reply-to" CONTENT="cf@magnet.at">
+	<META HTTP-EQUIV="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cf@magnet.at" for "http://www.iic.priv.at/iic" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'> 
+	<META NAME="Resource-type" CONTENT="Document">
+	<META NAME="Keywords" CONTENT="Internet, Information, newbie, free, guide, guides, howto, how to, how-to, history, cookie, ftp, www, gopher, usenet, news, irc, mail, indices, parents, protection, software, links, glossary, archie, new, DNS, adressing, construction, tcp/ip, structure">
+	<META NAME="Description" CONTENT="The IIC offers everything for the 'Net user in one place. Starting from History to user guides, lots of links and a hyper-glossary. A must for newbies">
+	<META NAME="Revisit-after" CONTENT="14 days">
+	<META NAME="ObjectType" CONTENT="Information">
+	<META NAME="AUTHOR" CONTENT="Christian Feichtner - cf@magnet.at">
+	<META NAME="Distribution" CONTENT="Global">
+	<META NAME="Copyright" CONTENT="1996 Christian Feichtner">
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=10>
+
+	<IMG SRC="../IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=10><BR>
+	<A NAME="Top"><FONT FACE="Arial" SIZE=5><B>Electronische Mail</B></FONT></A>
+	<BR>
+	<FONT SIZE=2 FACE="Arial">
+	<I>December, 23. 1996</I></FONT><BR>
+	<IMG SRC="../IMAGES/MISC/BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" HEIGHT=20><P>
+	</FONT>
+	<FONT SIZE=2>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>1.  W</FONT>AS <FONT SIZE=3>K</FONT>ANH <FONT SIZE=3>I</FONT>CH <FONT SIZE=3>D</FONT>AMIT <FONT SIZE=3>T</FONT>UN?</FONT></B><P>
+	Ich nehme an, da&szlig: Sie wissen was eine Mail (Brief) ist (Sie wissen schon, das kleine Ding aus Papier, das man in einen Umschlag steckt). Das Internet
+	bietet ebenfalls einen Mail Dienst an. Da es sich hierbei um eine elektronische Mail handelt, wird Sie kurzerhand als E-Mail bezeichnet. Im Internet gibt es
+	viele M&ouml;glichkeiten E-Mail zu verwenden. Der einfachste Anwendungsfall ist, einer anderen Person eine Nachricht zukommen zu lassen. Sie k&ouml;nne
+	E-Mail auch in Verbindung mit <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/MAILIN~1.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/mailinglist.htm">Mailinglisten</A> verwenden
+	oder um einen Artikel in eine <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/NEWSGR~1.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/newsgroup.htm">Usenet Newsgroup</A> zu posten. Wenn Sie
+	einen &quot;nur E-Mail&quot; Zugang zum Internet haben, dann m&ouml;nnen Sie <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/FTP.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/ftp.htm">FTP</A>,
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/ARCHIE.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/archie.htm">Archie</A> oder auch das
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/USENET.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/usenet.htm">Usenet</A> via E-Mail verwenden. Details zu diesen Verfahren finden Sie
+	hier im IIC unter das <A HREF="MAILGU~1.HTM" tppabs="http://www.austria.eu.net/iic/de/mailguide.htm">Internet mit E-Mail</A>. Wir bieten einen Mirror des herrvorragendnen <I>Guide to the Internet by E-Mail</I>
+	von Bob Rankin.
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="../IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>2.  W</FONT>AS<FONT SIZE=3>B</FONT>EN&Ouml;TIGE <FONT SIZE=3>I</FONT>CH <FONT SIZE=3>D</FONT>AF&Uuml;R ?</FONT></B><P>
+	Wie bei sovielen anderen Diensten ben&ouml;tigen sie zwei Dinge: Einen E-Mail <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/CLIENT.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/client.htm">client</A>
+	und einen (manchmal sogar zwei) <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/SERVER.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/server.htm">server</A>. Selbstverst&auml;ndlich
+	ben&ouml;tigen Sie eine eigene E-Mail Adresse. Diese bekommen Sie von  Ihrem ISP. Wenn Sie <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/UNIX.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/unix.htm">Unix</A>
+	verwenden, dann haben Sie diese Dinge wahrschinlich schon installiert - sofern Ihr Computer mit dem Internet verbunden ist. Wenn Sie allerdings noch keinen
+	Mail Client besitzen, dann k&ouml;nnen Sie sich bei den folgenden Adressen einen besorgen:
+	<P>
+	<IMG SRC="../IMAGES/MISC/WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="Win"> <A HREF="../../../tppmsgs/msgs10.htm#1026" tppabs="http://www.qualcomm.com/quest/">Eudora</A><BR>
+	<IMG SRC="../IMAGES/MISC/WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="Win"> <A HREF="../../../tppmsgs/msgs10.htm#1027" tppabs="http://www.stisapient.com/">Web Ink</A><BR>
+	<IMG SRC="../IMAGES/MISC/WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="Win"> <A HREF="../../../tppmsgs/msgs10.htm#1028" tppabs="http://www.pegasus.usa.com/">Pegasus Mail</A><BR>
+	<IMG SRC="../IMAGES/MISC/WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="../../../tppmsgs/msgs10.htm#1029" tppabs="http://www.microsoft.com/ie/imn/default.htm">Microsoft Internet Mail and News</A><BR>
+	<IMG SRC="../IMAGES/MISC/WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="../../../tppmsgs/msgs10.htm#1030" tppabs="http://bekkoame.or.jp/~carty/">Becky! Internet Mail</A><BR>
+	<IMG SRC="../IMAGES/MISC/WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="../../../tppmsgs/msgs10.htm#1031" tppabs="http://ourworld.compuserve.com/homepages/cgallacher/dts.htm">DT Mail 32</A><BR>
+	<IMG SRC="../IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../../tppmsgs/msgs10.htm#1032" tppabs="http://www.claris.com/">Claris E-M@iler</A><BR>
+	<IMG SRC="../IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../../tppmsgs/msgs10.htm#1033" tppabs="http://casadyg.com/">Snap Mail 2.0</A><BR>
+	<IMG SRC="../IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../../tppmsgs/msgs10.htm#1034" tppabs="http://www.qualcomm.com/">Eudora Pro</A><BR>
+	<IMG SRC="../IMAGES/MISC/APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="../../../tppmsgs/msgs10.htm#1035" tppabs="http://www.cesoft.com/">Quickmail</A><BR>
+	<P>
+	<!-- Mail Clients missing -->
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="../IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>3.  W</FONT>OHIN <FONT SIZE=3>K</FONT>ANN <FONT SIZE=3>I</FONT>CH <FONT SIZE=3>M</FONT>ICH <FONT SIZE=3>V</FONT>ERBINDEN ?</FONT></B><P>
+	Wie bereits oben erw&auml;hnt sind wahrscheinlich die ganzen Einstellungen bereits von Ihrem <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/SYSADMIN.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/sysadmin.htm">Sysadmin</A>
+	erledigt worden, wenn Sie Unix verwenden und an das Internet angeschlossen sind. Wenn Sie jedoch die Einstellungen selber vornehmen m&uuml;ssen, dann ben&ouml;tigen
+	zwei Adressen: N&auml;mlich die Adresse eines <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/POP.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/pop.htm">POP</A> Servers und eines
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/SMTP.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/smtp.htm">SMTP</A> Servers. 
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="../IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>B</FONT>EMERKUNG:</B></FONT>
+		Es kommt sehr oft vor, da&szlig; die Adressen dieser beiden Server identisch sind. Wenn dies nicht der Fall ist, dann beginnen die Adressen des
+		POP Servers meistens mit <I>pop</I> (z.b. pop.providername.land) und die SMTP Server meistens mit <I>mail</I> oder <I>smtp</I>
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="../IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>4.  W</FONT>IE <FONT SIZE=3>K</FONT>ANN <FONT SIZE=3>I</FONT>CH <FONT SIZE=3>E</FONT>-MAIL <FONT SIZE=3>V</FONT>ERWENDEN ?</FONT></B><P>
+	Der STMP Server wird zum Senden von Mails verwendet und ist sehr oft &ouml;ffentlich zug&auml;nglich, was bedeutet, da&szlig; Sie keinen 
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/USERNAME.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/username.htm">Username</A> und/oder 
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/PASSWORD.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/password.htm">Passwort</A> ben&ouml;tigen um Ihre Mails zu verschicken. Der POP Server
+	hingegen wird dazu verwendet um Mails zu empfangen. Um Ihre Mails von einem POP Server herunterzuladen, ben&ouml;tigen Sie allerdings einen Username
+	und ein Passwort (Sie m&ouml;chten doch nicht, da&szlig; Ihre Mails von allen anderen gelesen werden k&ouml;nnen, oder ?). Au&szlig;erdem m&uuml;ssen Sie
+	in Ihrem Mail Client noch Ihren richtigen Namen, Ihre E-Mail Adresse, den Benutzernamen und das Passwort f&uuml;r den Pop Server angeben.
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>S</FONT>TRUKTUR <FONT SIZE=3>D</FONT>ER <FONT SIZE=3>E</FONT>-MAIL <FONT SIZE=3>A</FONT>DRESSE </FONT><BR>
+	Beginnen wir gleich mit einem Beispiel: 
+	<P>
+	</FONT><SAMP>
+	name@domain
+	</SAMP><FONT SIZE=2>
+	<P>
+	wobei <I>name</I> hier durch den Namen des Benutzers (nicht der richtige Name, sondern der Benutzername) und <I>domain</I> durch die Adresse
+	des Rechners eretzt wird, auf dem der Empf&auml;nger seinen E-Mail <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/ACCOUNT.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/account.htm">Account</A>
+	besitzt. Beachten Sie, da&szlig; mehrere Benutzer auf einem Rechner einen E-Mail Account besitzen k&ouml;nnen (jeder mit einem anderen Benutzername).
+	Der <I>name</I> ist normalerweise eine Abk&uuml;rzung des richtigen Namens des Benutzers. Hier einige Beispiele f&uuml;r g&uuml;ltige E-Mail Adressen:
+	<P>
+	</FONT><SAMP>
+	FredFlintstone@Stone-Valley.com or<BR>
+	FFlintstone@Stone-Valley.com or<BR>
+	FF@Stone-Valley.com or<BR>
+	FrFlint@Stone-Valley.com<BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	Neben dem Internet existieren noch einige weitere kommerzielle Online-Dienste wie AOL oder Compuserve. Wie man eine Mail an diese beiden
+	Dienste sendet, lesen Sie bitte <A HREF="#MailGateway">weiter unten</A>
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>V</FONT>ERWALTEN <FONT SIZE=3>E</FONT>INES <FONT SIZE=3>E</FONT>MAIL <FONT SIZE=3>A</FONT>CCOUNTS</FONT><BR>
+	Wenn Sie eine Mail an jemanden schicken, dann ist diese Person meistens nicht online. Das bedeutet, da&szlig; die gesendete Nachricht irgendwo
+	zwischengespeichert werden w&uuml;rde. Daf&uuml;r ist der POP-Server zust&auml;ndig. Jeder Benutzer hat normalerweise einen bestimmen Platz f&uuml;r
+	seine E-Mails. Dieser Platz bewegt sich zwischen 512 KB und 3 MB. Abh&auml;ngig von der Anzahl der Mails die Sie t&auml;glich bekommen, sollten Sie einmal
+	t&auml;glich in Ihren elektronischen Briefkasten schauen. Ihr Mail Client l&auml;dt dann die Mails auf Ihre Festplatte, wo Sie die Mails offline lesen k&ouml;nnen. 
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="../IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>A</FONT>CHTUNG:</B></FONT>
+		Vergewissern Sie sich, da&szlig; die Option <I>Mail vom Server herunterladen</I> oder <I>Mail vom  Server entfernen</I> aktiviert ist. Ansonsten werden
+		die Mails zwar vom Server geladen, aber nicht von diesem entfernt und irgendwann k&ouml;nnen dann keine eingehenden Nachrichten mehr gespeichert
+		werden.
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P>
+	Viele Mail Clients sind so programmiert, da&szlig; man mit Ihnen offline arbeiten kann. Das bedeutet, da&szlig; Sie Ihre Mails herunterlanden, dann aus dem
+	Internet aussteigen (sofern Sie &uum;ber ein Modem verbunden sind), Ihre Mails lesen und beantworten. Anschlie&szlig;end steigen Sie wiederum in das Internet ein
+	und schicken Ihre Antworten und/oder neuen Mails weg. Dazu verbindet sich Ihr Mail Client mit dem SMTP Server und schickt die Nachrichten auf die Reise.
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>S</FONT>ENDING <FONT SIZE=3>A</FONT>ND <FONT SIZE=3>R</FONT>ECEIVING </FONT><BR>
+	Wir wollen nun einmal den Vorgang des Schickens und Empfangens etwas n&auml;her beschreiben:
+	<P>
+	Nehmen wir einmal an, Sie m&ouml;chten eine Mail an Buggs Bunny schicken. Das erste was Sie t&uuml;n m&uuml;ssen ist, Ihrem Mail Client zu sagen,
+	da&szlig; Sie eine Neue Mail verschicken m&ouml;chten. Dieser Befehl ist meistens direkt auf der Toolbar des Mail Clients zu finden. W&auml;hlen Sie den
+	entsprechenden Befehl und ein neues Fesnter wird sich &ouml;ffnen.
+	<P>
+	Als erstes m&uuml;ssen wir die E-Mail Adresse des Empf&auml;ngers eingeben. In unserem Beispiel verwenden wir eine nicht-existente E-Mail Adresse.
+	Diese lautet <I>BuggsBunny@acme.com</I>. Au&szlig;erdem gibt es eine weitere Eingabezeile mit der Beschriftung <I>Subject</I> dort sollten Sie
+	eine kurze, aber pr&auml;gnante Subject-Zeile (das Thema der E-Mail) angeben. Diese Subject Zeile sollte dem Empf&auml;nger mit 1 - 5 Worten den
+	Inhalt der Mail beschreiben. Mails, die ohne eine Subject Zeile verschickt werden, k&ouml;nnen leicht als unwichtig angesehen werden und werden
+	oft sofort gel&ouml;scht. Nehmen wir an, Sie m&ouml;chten etwas &uuml;Ber Buggs Bunny's neuesten Film wissen, dann k&ouml;nnte die 
+	Subject-Zeile wie folgt aussehen:
+	<P>
+	</FONT><SAMP>
+	Subject: Dein neuer Film.
+	</SAMP><FONT SIZE=2>
+	<P>
+	Nur <I>Film</I> w&auml;hre etwas zu kurz. Wohingegen die folgende Subject Zeile deutlich zu lang w&auml;re
+	<P>
+	</FONT><SAMP>
+	Subject:Can you tell me something about your latest Movie ?
+	</SAMP><FONT SIZE=2>
+	<P>
+	Neben dem Empf&auml;nger und dem Subject haben Sie noch die M&ouml;glichkeit ein <I><B>C</B>arbon <B>C</B>opy</I> (kurz: CC)
+	zu definieren. Es handelt sich hierbei um eine Liste von weiteren Empf&auml;ngern Ihrer E-Mail - vergleichbar mit einem Durchschlag. Seien Sie
+	aber mit der Verwendung des CC vorsichtig: Das CC hat einen etwas abwertenden Beigeschmack. Der Empf&auml;nger k&ouml;nnte denken
+	er sei nicht so wichtig wie der Hauptempf&auml;nger. Ein Beispiel, wo das CC richtig angewandt w&auml;re ist, wen Ihr Systemadimistrator von
+	jeder Mail die Sie verschicken eine Kopie haben m&ouml;chte. Dann geben Sie die E-Mail Adresse des Systemadministrators in das CC. Dann tippen
+	Sie einfach Ihre E-Mail Nachricht ein. Abschlie&szlig;end m&ouml;chten Sie vielleicht noch eine Signature dazuf&uuml;gen. Eine Signature sind
+	ein paar Zeilen Text, die zum Beispiel Ihren Namen, Telefonnummer, Website und einen weisen Spruch beinhaltet. Klicken Sie nun auf <I>Absenden</I>
+	und Ihre Nachricht wird abgeschickt, Wenn Sie Ihre Nachricht offline geschrieben haben, dann wird Sie auf der Festplatte gespeichert und beim
+	n&auml;chsten Mal, wenn Sie Ihre Nachrichten &uuml;bertragen abgeschickt.
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="../IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>B</FONT>EMERKUNG:</B></FONT>
+		Beachten Sie bitte, da&szlig; der Empf&auml;nger unter Umst&auml;nden nicht den selben Mail Client verwendet wie Sie. Verzichten Sie daher auf
+		spezielle M&ouml;glichkeiten, die Ihnen Ihr Mail Client zur Verf&uuml;gung stellt, da ihr Empf&auml;nger die Mail dann M&ouml;glicherweise nicht
+		lesen kann. Beschr&auml;nken Sie sich au&szlig;erdem auf maximal 78 Zeichen pro Zeile, da Ihre Mails sonst unter Umst&auml;nden auf anderen Systemen
+		schwierig zu lesen ist.
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P>
+	Wenn Sie mit jemanden auf elektronischem Wege kommunizieren, dann m&uuml;ssen Sie eventuelle Gem&uuml;tsregungen speziell ausdr&uuml;cken. Dazu
+	wurden spezielle Abk&uuml;rzungen und Symbole entwickelt. Wir bieten Ihnen eine Liste solcher Symbole und Abk&uuml;rzungen im Dokument
+	<A HREF="ACRONYMS.HTM" tppabs="http://www.austria.eu.net/iic/de/acronyms.htm">Emoticons und andere Abk&uuml;rzungen</A>.
+	<P>
+	Wenn Sie nun auf eine Mail, die an Sie gesandt wurde antworten wollen, dann gehen Sie am besten wie folgt vor: W&auml;hlen Sie die Nachricht
+	an, auf die Sie antworten m&ouml;chten und klicken Sie auf <I>Antworten</I> oder <I>Reply</I>. Nun wird ein neues Fenster ge&ouml;ffnet, indem
+	die Originalnachricht eingef&uuml;gt wurde, jedoch wurde jede Zeile mit einem vorangestellten &quot;&gt;&quot; gekennzeichnet. Diese Technik wird als
+	<IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif"><A HREF="GLOSSARY/QUOTING.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/quoting.htm">Quoting</A> bezeichnet. Diese Technik wird dazu verwendet, um des dem
+	Sender der Nachricht leichter zu machen, Ihre Antwort zu lesen. L&ouml;schen Sie nun nur die Zeilen, auf die sSie sich in Ihrer Antwort beziehen. Alle anderen
+	lassen Sie stehen. Sie sollten auf gar keinen Fall alle Zeilen l&ouml;schen aber auch nicht alle stehen lassen. Nun f&uuml;gen Sie nach den Zeilen, auf die Sie
+	sich in der Antwort beziehen Ihren Text ein. Nicht alles am Anfang oder alles am Ende. Immer dazwischen ! Hier nun ein Beispiel. Nehemn wir an, wir haben die
+	folgende Nachricht erhalten:
+	<P>
+	</FONT><SAMP>
+	Hi !<BR>
+	I was just wondering if you could send me details on your<BR>
+	product xyz. I also tried to contact you via fax, but it seems <BR>
+	that your fax number is misspelled in the catalog.<BR>
+	<BR>
+	Thanx.<BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	Die Antwort sieht wie folgt aus:
+	<P>
+	</FONT><SAMP>
+	>details on your product xyz. <BR>
+	This product is blah blah blah<BR>
+	>that your fax number is misspelled in the catalog.<BR>
+	I have checked it and it is spelled correclty. Please try again<BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	Sie haben sicherlich bemerkt, da&szlig die unwichtigen Teile der Originalnachricht gel&ouml;scht wurden. Die Mail auf eine der folgenden Arten zu beantworten
+	w&auml;hre falsch:
+	<P>
+	</FONT><SAMP>
+	This product is blah blah blah<BR>
+	I have checked it and it is spelled correctly<BR>
+	>I was just wondering if you could send me details on your<BR>
+	>product xyz. I also tried to contact you via fax, but it seems <BR>
+	>that your fax number is misspelled in the catalog.<BR>
+	<P>
+	<B>Falsch:</B>
+	<P>
+	>I was just wondering if you could send me details on your<BR>
+	>product xyz. I also tried to contact you via fax, but it seems <BR>
+	>that your fax number is misspelled in the catalog.<BR>
+	This product is blah blah blah<BR>
+	I have checked it and it is spelled correctly<BR>
+	<B>Falsch:</B>
+	This product is blah blah blah<BR>
+	I have checked it and it is spelled correctly<BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>M</FONT>AILS <FONT SIZE=3>A</FONT>N <FONT SIZE=3>A</FONT>OL <FONT SIZE=3>U</FONT>ND <FONT SIZE=3>C</FONT>OMPUSERVE</FONT><BR>
+	Wenn Sie eine Mail an eine der komerziellen Online Dienste wie AOL oder Compuserve schicken m&ouml;chten, dann m&uuml;ssen Sie die E-Mail Adressen wie
+	folgt zusammensetzen:
+	<P>
+	<A NAME="MailGateway">
+	<TABLE BORDER=1 BORDERCOLORLIGHT=#FFFFFF BORDERCOLORDARK=#FFFFFF>
+	<TR>
+	<TH></TH>
+	<TH BGCOLOR=#00CCFF><FONT SIZE=2>Compuserve</FONT></TH>
+	<TH BGCOLOR=#00CCFF><FONT SIZE=2>AOL</FONT></TH>
+	</TR>
+	<TR>
+	<TD BGCOLOR=#CCCC00><FONT SIZE=2>in das Internet</FONT></TD>
+	<TD BGCOLOR=#CCCCCC ><FONT SIZE=2>Realname,INTERNET: Name@Domain</FONT></TD>
+	<TD BGCOLOR=#CCCCCC ><FONT SIZE=2>Name@Domain</FONT></TD>
+	</TR>
+	<TR>
+	<TD BGCOLOR=#CCCC00><FONT SIZE=2>vom Internett:</FONT></TD>
+	<TD BGCOLOR=#CCCCCC><FONT SIZE=2>ID-Nr@compuserve.com (use a point instead of comma; 40569,4500 = 40596.4500)</FONT></TD>
+	<TD BGCOLOR=#CCCCCC><FONT SIZE=2>AOL-Name@aol.com</FONT></TD>
+	</TR>
+	<TR>
+	<TD BGCOLOR=#CCCC00><FONT SIZE=2>Kosten:</FONT></TD>
+	<TD BGCOLOR=#CCCCCC><FONT SIZE=2>10 cents for the first 5500 lines, 2 cents for each further 5500 lines.</FONT></TD>
+	<TD BGCOLOR=#CCCCCC><FONT SIZE=2>None</FONT></TD>
+	</TR>
+	</TABLE>
+	</A>
+	<P>
+	<FONT COLOR="#FF5500"><FONT SIZE=3>D</FONT>ATEIEN <FONT SIZE=3>V</FONT>ERSCHICKEN </FONT><BR>
+	Sie k&ouml;nnen nicht nur Text &uuml;ber das Internet verschicken, sondern Sie k&ouml;nnen auch Dateien (Grafiken, ...) an Ihre E-Mail anh&auml;ngen.
+	&Uuml;ber das Internet k&ouml;nnen normalerweise nur Zeichen des 7-Bit ASCII Zeichensatzes &uuml;bermittelt werden. Da Dateien aber aus Zeichen
+	des 8-Bit Zeichensatzes bestehen, m&uuml;ssen diese zuerst umgewandelt (=kodiert) werden. Zwei Standards haben sich mittlerweile dazu etabliert:
+	Das <IMG SRC="../IMAGES/MISC/R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="-&gt;"><A HREF="GLOSSARY/MIME.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/mime.htm">MIME</A> und der <A HREF="GLOSSARY/UUCODE.HTM" tppabs="http://www.austria.eu.net/iic/de/glossary/uucode.htm">UUencode/UUDecode</A>
+	Diese Kodierungsverfahren sind in alle modernen Mail Clients eingebaut und das Kodieren und Dekodieren erfolgt automatisch. Bei E-Mails wird
+	haupts&auml;chlich MIME verwendet, wohingegen in den Usenet Newsgroups noch immer die UU-Kodierung zu finden ist. Um nun eine Datei zu verschicken, bieten
+	die Mail Clients meistens eine Schaltfl&auml;che mit der Beschriftung <I>Attach</I> oder dem Symbol einer B&uuml;roklammer an. W&auml;hlen Sie nun einfach
+	die Dateien aus, die Sie verschicken m&ouml;chten. Diese werden nun an Ihre Mail nageh&auml;ngt.
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="../IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>A</FONT>CHTUNG:</B></FONT>
+		Bevor Sie eine Datei verschicken, vergewissern Sie sich bitte, ob der Empf&auml;nger die Datei auch haben m&ouml;chte. Der Empf&auml;nger hat keine
+		M&ouml;glichkeit eine solche Datei direkt vom Server zu l&ouml;chen. Er mu&szlig; Sie zuerst herunterladen, was unter Umst&auml;nden sehr viel
+		kostet.
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="../IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>A</FONT>CHTUNG:</B></FONT>
+		Dateien die Sie verschicken, vergr&ouml;&szlig;ern die Mail sehr. So kann eine 1 MB Datei unter Umst&auml;nden zu einer 1,3 MB Datei anwachsen.
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE BGCOLOR=#DDDDDD>
+	<TR><TD VALIGN=TOP WIDTH=60>
+		<IMG SRC="../IMAGES/MISC/BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+	</TD><TD>
+		<FONT FACE="Arial" SIZE=2>
+		<FONT COLOR="#FF0000"><B><FONT SIZE=3>B</FONT>EMERKUNG:</B></FONT>
+		Es existiert ebenfalls ein Verfahren (&auml;hnlich wie MIME), welches allerdings nur am MacIntosh verwendet wird. Das BinHex Verfahren. Dieses Verfahren
+		konnte sich auf allen anderen Plattformen nicht durchsetzten. Viele Mail Clients bieten daher diese Methode gar nicht mehr an. Wir raten von der
+		Verwendung dieses Verfahrens ab. Konfigurieren Sie Ihren Client so, da&szlig; er Dateien entweder im MIME oder UUencode Verfahtren verschickt.
+		</FONT>
+	</TD></TR>
+	</TABLE>
+	<P ALIGN=RIGHT>
+	<A HREF="#Top"><IMG SRC="../IMAGES/MISC/UP_ARR~1.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/up_arrow_blue.gif" ALT="Top" BORDER=0></A>
+	<P ALIGN=LEFT>
+	<P>
+	<B><FONT COLOR="#FF5500"><FONT SIZE=3>5.  Z</FONT>US&Auml;TZLICHE <FONT SIZE=3>I</FONT>NFORMATION</FONT></B><P>
+	Jede E-Mail die verschickt wurde, erh&auml;hlt einen sogenannten Header. Dieser Header enth&auml;lt verschiedene Interessante Informationen, wenn man
+	Ihn lesen kann:
+	<P>
+	</FONT><SAMP>
+	X-POP3-Rcpt: xxxxx@alijku06 <BR>
+	Received: from alijku04.edvz.uni-linz.ac.at by alijku06.edvz.uni-linz.ac.at with SMTP <BR>
+	                 id AA29397<BR>
+	                 (5.65c/IDA-1.4.4 for <k3070e2@alijku06.edvz.uni-linz.ac.at>); <BR>
+	                 Thu, 29 Feb 1996 05:00:49     +0100 <BR>
+	Received: from alijku21.edvz.Uni-Linz.AC.AT by alijku04.edvz.uni-linz.ac.at with SMTP  <BR>
+	                 id AA10744<BR>
+	                 (5.65c/IDA-1.4.4 for <cf@magnet.at>); Thu, 29 Feb 1996<BR>
+	                 04:56:17 +0100 <BR>
+	Received: from ALIJKU21.BITNET by ALIJKU21.EDVZ.Uni-Linz.AC.AT (IBM MVS SMTP V3R1) with<BR>
+	                 BSMTP id 7707; Thu, 29 Feb 96 05:01:04 CET <BR>
+	Received: (from AWIUNI11.EDVZ.UNIVIE.AC.AT for<BR>
+	                 <owner-ACCESS-L@PEACH.EASE.LSOFT.COM> via BSMTP) <BR>
+	Received: (from MAILER@AWIUNI11 for MAILER@ALIJKU21 via NJE) (UCLA/Mail V1.500<BR>
+	                 M-RSCS9121-9121-553); Thu, 29 Feb 96 05:00:21 SET <BR>
+	Received: from AEARN.ACO.NET (NJE origin LISTSERV@AEARN) by<BR>
+	                 AWIUNI11.EDVZ.UNIVIE.AC.AT (LMail V1.2a/1.8a) with BSMTP id 0483; <BR>
+	                 Thu, 29 Feb 1996 04:58:22 +0100 <BR>
+	Return-Path: <owner-ACCESS-L@eva.dc.LSOFT.COM> <BR>
+	Message-Id: <199602290356.AA10744@alijku04.edvz.uni-linz.ac.at><BR>
+	Date:         Wed, 28 Feb 1996 23:00:00 -0500 <BR>
+	Reply-To:  Microsoft Access Database Discussion List <ACCESS-L@eva.dc.LSOFT.COM><BR>
+	Sender:     Microsoft Access Database Discussion List <ACCESS-L@eva.dc.LSOFT.COM><BR>
+	From:        Automatic digest processor <LISTSERV@eva.dc.LSOFT.COM><BR>
+	Subject:    ACCESS-L Digest - 28 Feb 1996 <BR>
+	To:            Recipients of ACCESS-L digests <ACCESS-L@eva.dc.LSOFT.COM><BR>
+	Content-Type: text <BR>
+	Content-Length: 18627 <BR>
+	X-Mozilla-Status: 0001 <BR>
+	</SAMP><FONT SIZE=2>
+	<P>
+	Die <I>Received</I> Felder zeigen an, &uuml;ber welche Computer die Mail geschickt wurde, bevor Sie bei Ihnen angekommen ist. <I>Date</I> zeigt
+	an, wann die Mail geschickt wurde. Das <I>-0500</I> gibt die Zeitdifferenz des Senders zur Standard-Greenwich Zeit an. <I>Reply-To</I> gibt an,
+	wohin eine eventuelle Antwort geschickt werden soll. <I>Sender</I>, <I>From</I> und <I>Subject</I> sind selbsterkl&auml;rend. Die
+	Felder The <I>Content-Type</I> and <I>Content-Length</I>
+
+	Here are a few words on such a mail header. The <I>X-POP3-RCPT</I> section shows the receiver of the mail. All the <I>Received</I> entries 
+	are the paths, this mail was passed. I other words, these are all the major computers and routers, this mail has passed on its journey. <I>Date</I> 
+	shows the date the message was received. The <I>-0500</I> shows the time difference between the sender and the reciever. <I>Reply-To</I>, 
+	<I>Sender</I>, <I>From</I> and <I>Subject</I> are self explanatory I think. Die Felder <I>Content-Type</I> und <I>Content-Length</I> werden 
+	f&uuml;r die MIME Kodierung verwendet.
+	</FONT>
+	<DIV ALIGN=RIGHT>
+		<HR ALIGN=RIGHT WIDTH=200 SIZE=1 COLOR=#000000>
+		<FONT FACE="Arial" SIZE=1>
+		&copy 1996 Christian Feichtner<BR>
+		Verbreitung in jeglicher Form nur mit Zustimmung des IIC.<BR>
+		Internet Dienste werden gesponsert und zur Verf&uuml;gung gestellt von<A HREF="../../../tppmsgs/msgs0.htm#94" tppabs="http://www.austria.eu.net/">EUnet International</A>
+	</DIV>
+</BODY>
+</HTML>

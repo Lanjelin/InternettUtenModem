@@ -1,0 +1,163 @@
+<html>
+<head>
+<title>Calculator for moist air</title>
+<script language="JavaScript">
+<!--Hide
+// Moist air calculator
+var actvp=0; //vapour pressure of water in air
+var activevar=0; //holds pointer to the defining variable
+ //0=undefined, 1=wetbulb, 2=dewpoint, 3=RH
+//line10
+//standard functions for atmospheric calculations
+
+function TtoSVP(t) //saturation vapour pressure
+ {
+ var svp=610.78*Math.exp(t/(t+238.3)*17.2694);
+ return svp;
+ }
+
+function SVPtoT(vp) // temperature from svp (= dew point)
+ {
+ var w=Math.log(vp/610.78);
+ var dp=w*238.3/(17.294-w);
+ return dp;
+ }
+//line25
+function VPtoKGM3(vp,t) //kg water per cubic metre of air 
+                       //from vapour pressure and temperature
+ {
+ var kgm = 0.002167*vp/(t+273.16);
+ return kgm ;
+ }
+
+function WBtoRH(t,wb)//RH from dry and wet temperatures
+ {
+ var rh = (TtoSVP(wb) - (t-wb)*66.7)/TtoSVP(t)*100;
+ return rh;
+ }
+//line 38
+
+function VPtoKGKG(vp) // approx vapour pressure to kg water/kg air at ground level 
+ {
+ var kgprkg=0.622*vp/(101300-vp);
+ return kgprkg;
+ }
+
+// end of standard functions
+
+//line 48 
+function calculate(actvar) //parameter actvar is ID-nr. of latest input
+ {
+ activevar=actvar; //update global variable defining the active input
+ var drytemp=0;
+ var amvp=0; //ambient vapour pressure
+ var relhum=0; //RH AFTER calculation
+ drytemp=eval(document.data.at.value);
+ if (document.data.lockdp.checked)//force calculation using dp if box is checked
+  activevar=2;
+  
+ //calculate and show saturation vapour pressure
+ var svpdry=TtoSVP(drytemp);
+ document.result.svp.value = Math.round(svpdry);
+ 
+ if (activevar==1) //use wb to calc. RH,DP
+  {
+  var wettemp=eval(document.data.wb.value);
+  var rhfromwb = WBtoRH(drytemp, wettemp);
+  document.data.rh.value=Math.round(rhfromwb);
+  //now work out dewpoint
+  var amvp=svpdry*rhfromwb/100;
+  var dewp=SVPtoT(amvp);
+  document.data.dp.value=dewp;
+  }
+ 
+ if (activevar==2) //use dewpoint to calculate RH
+  {
+  var dewpnt=eval(document.data.dp.value);
+  var airsvp=TtoSVP(drytemp);
+  var dpsvp=TtoSVP(dewpnt);
+  var rhfromdp=100*dpsvp/airsvp;
+  amvp=dpsvp; //update variable for later calc.
+  document.data.rh.value=Math.round(rhfromdp);
+  document.data.wb.value="";
+  }
+ 
+ if (activevar==3) //Rh entered, calculate dewpoint &c
+  {
+  var setrh=eval(document.data.rh.value);
+  var vvp=TtoSVP(drytemp)*setrh/100;
+  var ddp=SVPtoT(vvp); //dewpoint
+  amvp=vvp; //update variable for later calc.
+  document.data.dp.value=ddp;
+  document.data.wb.value="";
+  }
+
+ //calculate and show values that depend on actual vapour pressure
+ if (activevar!=0)
+  { 
+  document.result.vp.value=Math.round(amvp); 
+  document.result.kgcm.value=VPtoKGM3(amvp,drytemp);
+  document.result.kgkg.value=VPtoKGKG(amvp);
+  }
+}
+
+function clearall(n)
+ {
+ if (n!=1)
+  {
+  document.data.at.value="";
+  document.data.lockdp.checked=false;
+  }
+ document.data.wb.value="";
+ document.data.dp.value="";
+ document.data.rh.value="";
+ document.result.svp.value="";
+ document.result.kgcm.value="";
+ document.result.vp.value="";
+ document.result.kgkg.value="";
+ activevar=0;
+ }
+ //end hide-->
+</script>
+</head>
+<body>
+<h3><b>Calculator for atmospheric moisture</b></h3>
+<hr>
+<form name="data">
+<b>Air temperature<input type="text" name="at" size=4 onChange=calculate(activevar); > &nbsp &nbsp 
+Wet temperature<input type="text" name="wb" size=4
+onChange=calculate(1);> &nbsp  &nbsp 
+Dewpoint <input type="text" name="dp" size=4
+onChange=document.data.wb.value="";document.data.rh.value="";document.result.kgcm.value="";calculate(2);> &nbsp  &nbsp 
+RH <input type="text" name="rh" size=3 
+onChange=document.data.wb.value="";document.data.dp.value="";document.result.kgcm.value="";calculate(3);></b>
+<p> 
+<i>Lock DP</i><input type="checkbox" name="lockdp">&nbsp &nbsp
+<input type="button" value="Clear all" onclick="clearall(0);document.data.at.focus();">
+<hr>
+</form>
+
+<form name="result">
+Kg/m3<input type="text" name="kgcm" size=5>&nbsp &nbsp 
+Kg/Kg<input type="text" name="kgkg" size=5>&nbsp &nbsp
+Vapour pressure (Pa)<input type="text" name="vp" size=7>&nbsp &nbsp 
+svp<input type="text" name="svp" size=7>
+</form>
+<hr><p>
+Enter air temperature (C) and wet bulb or dew point temperature or RH<br>
+All other values, except wet bulb, will be recalculated when you click or tab away from the entry
+<p>
+Click on the "Lock DP" box to enter a new temperature at the same dewpoint. This allows calculation of the RH that the air will acquire at a different temperature.
+<p>
+<i>Note: This calculator makes approximations that limit its use to the natural climate near sea level.</i> 
+<br>
+<a href="ATMOCLC1.HTM" tppabs="http://bach.natmus.min.dk/cons/tp/atmcalc/atmoclc1.htm">Description of the calculations</a><hr>
+<a href="../INDEX.HTM" tppabs="http://bach.natmus.min.dk/cons/tp/index.htm">Index</a><br>
+<i>Copyright Tim Padfield</i>
+<script> //startup clean!
+ document.data.lockdp.checked=false;
+ clearall(0);
+ document.data.at.focus();
+</script>
+</body>
+</html>

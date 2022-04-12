@@ -1,0 +1,276 @@
+Date: Sun, 21 Jan 1996 16:38:25 -0600
+From: Patrick Douglas Crispen <pcrispe1@ua1vm.ua.edu>
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - JAN 18 1996 - EVEN MORE NEAT E-MAIL LISTS
+
+   /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+  |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+  |__________|__________/__________|__________|________/     |   \
+ /                                                    /______|----\
+/    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+|   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+|                                                     |//////|    |
+~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+   \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TOURBUS - THURSDAY, 18 JANUARY 1996
+TODAY'S STOP: EVEN MORE NEAT E-MAIL LISTS
+TODAY'S ADDRESSES: HUMOR@UGA.CC.UGA.EDU
+                   COMPUNOTES@RUST.NET
+                   CWD-L@CYBERWERKS.COM
+
+
+Hi, kids :)
+
+Last week, we looked at the three largest LISTSERV lists in the world.
+Today, we are going to pull our little bus of happiness over to take a look
+at some of the smaller, lesser-known e-mail lists.
+
+Before we do that, however, there is something that I want to share with
+you (although, in all honesty, this has absolutely nothing to do with the
+Internet).  Someone sent this to me a few weeks ago, and I am STILL
+giggling about it.  The following is an actual radio conversation released
+by the US Chief of Naval Operations on 10 October 1995:
+
+     NAVY:      Please divert your course 15 degrees to the North to
+                avoid a collision.
+
+     CIVILIAN:  Recommend you divert YOUR course 15 degrees to South
+                to avoid a collision.
+
+     NAVY:      This is the Captain of a US Navy ship. I say again,
+                divert YOUR course.
+
+     CIVILIAN:  No. I say again, you divert YOUR course.
+
+     NAVY:      THIS IS THE AIRCRAFT CARRIER ENTERPRISE, WE ARE A LARGE
+                WARSHIP OF THE US NAVY. DIVERT YOUR COURSE NOW!
+
+     CIVILIAN:  This is a lighthouse. Your call.
+
+
+I thought you'd get a kick out of that.  Anyway, let's pay some bills and
+get on with today's TOURBUS ...
+
+
+
+
++-----------------> Netscape Road Map Training Manual <-------------------+
+
+| Now available for use by Trainers and Presenters.  This 55 page manual  |
+| succinctly reviews the basic functions of Netscape 2.0.  Get your copy  |
+| today for just $16. FREE info & sample chapter, E-mail: CDOMEYE@AOL.COM |
++-------------------------------------------------------------------------+
+
+
+A couple of TOURBUS subscribers recently asked me to explain how they can
+get a list of every LISTSERV list in the world.  Well, there is a "list of
+lists" that you can get through e-mail, but since there are now well over
+7,000 LISTSERV lists in the world, I should warn you that the list of lists
+is quite large.
+
+If you want to see the list of lists, just send an e-mail letter to
+
+     LISTSERV@LISTSERV.NET
+
+with the command
+
+     LISTS GLOBAL
+
+in the body of your e-mail letter.  You can also get a list of all of the
+LISTSERV lists in the world that have a particular word in its title by
+using the
+
+     LISTS GLOBAL / keyword
+
+command, replacing the word "keyword" with the word that you want to search
+for.  For example, if you want to see a list of all of the LISTSERV lists
+in the world that have the word "HTML" in their titles, you would send an
+e-mail letter to
+
+     LISTSERV@LISTSERV.NET
+
+with the command
+
+     LISTS GLOBAL / HTML
+
+in the body of your e-mail letter.  Simple, huh? :)
+
+
+BUT WAIT!  THERE'S MORE!!
+-------------------------
+
+For those of you who don't have the time to hunt and search through the
+massive list of lists, the rest of today's TOURBUS post is for you!  Here
+are a few neat lists that you might want to check out (and some of these
+aren't on the list of lists).
+
+
+HUMOR
+-----
+
+One of the first LISTSERV lists I ever subscribed to was the HUMOR list at
+the University of Georgia.  HUMOR is a semi-moderated list (before you can
+post letters to the HUMOR list you first have to take a "humor test" to
+prove to the list's moderator that you are funny (although you don't have
+to take a test to be able to read the posts)), and the list sees between
+fifteen and twenty letters a day.
+
+Some of the jokes posted to the HUMOR list are a tad bit offensive, but the
+HUMOR list has a really neat standing rule that all offensive posts must be
+clearly marked as such in their subject lines.  HUMOR is also an
+international list with subscribers from all over the world, so from time
+to time there may be some "regional humor" posts on the HUMOR list that you
+may not understand ... or find funny (but you can always just delete these
+posts).
+
+To subscribe to the UGA Humor list, just send an e-mail letter to
+
+     LISTSERV@UGA.CC.UGA.EDU
+
+with the command
+
+     SUBSCRIBE HUMOR YOURFIRSTNAME YOURLASTNAME
+
+in the body of your e-mail letter, replacing YOURFIRSTNAME and YOURLASTNAME
+with your first and last names.
+
+
+COMPUNOTES
+----------
+
+CompuNotes is a free, weekly electronic publication that includes the
+latest computer industry news, articles, interviews, software reviews, and
+pointers to some neat Web sites.  I only discovered this list recently, but
+I feel that CompuNotes is a genuinely good on-line resounce ... and one
+that you should definately check out.
+
+One word of warning, though: CompuNotes is running on a Majordomo, an
+e-mail distribution system that is sort of like LISTSERV, only with more
+bugs.  There is a slight chance that these Majordomo bugs may soon start to
+manifest themselves in the form of distribution problems ... but,
+fortunately, the owner of CompuNotes is looking to move the entire
+CompuNotes list over to a LISTSERV soon (yea him!).
+
+To subscribe to CompuNotes, send an e-mail letter to
+
+     MAJORDOMO@RUST.NET
+
+with the command
+
+     SUBSCRIBE YOURADDRESS
+
+in the body of your e-mail letter, replacing YOURADDRESS with your e-mail
+address.
+
+
+CYBERWIRE DISPATCH
+------------------
+
+If you are STRONGLY opposed to the Clipper Chip, The Rimm/CMU Cyberporn
+"Study", and the Communications Decency Act -- and if you are a BIG fan of
+highly caustic writing -- CyberWire Dispatch is for you.  CyberWire
+Dispatch is written by Brock Meeks, INTER@CTIVE WEEK's Washington Bureau
+Chief, and the Dispatch is a hard-hitting news service that focuses on
+issues currently facing Cyberspace.
+
+Meeks does not hold any punches in the articles that he posts to CyberWire
+Dispatch, but what separates CyberWire Dispatch from other on-line rants is
+the fact that Meeks is a professional journalist.  While Meeks may not be
+politically correct, he is factual ... and his reporting is held in high
+regard.
+For example, one of the articles that Meeks posted to CyberWire Dispatch on
+a Friday appeared in the New York Times the next day -- without attribution
+(obviously, Meeks now copyrights all of his articles).
+
+Meeks posts articles to CyberWire Dispatch whenever he has something to
+report, but on average he posts about one article a month.  If you are
+interested in subscribing to CyberWire Dispatch (which is, of course, a
+free service), just send an e-mail letter to
+
+     CWD-L-REQUEST@CYBERWERKS.COM
+
+with the word
+
+     SUBSCRIBE
+
+in the first line of the body of your message.
+
+
+MORE MORE MORE!
+---------------
+
+I've mentioned this a couple of times before, but if you are new to the
+Internet and want to learn how to find your way around, or if you only have
+e-mail access to the Net and want to learn how to access all of the neat
+tools on the Net though e-mail, just send an e-mail letter to
+
+     LISTSERV@UA1VM.UA.EDU
+
+with the command
+
+     GET NEWUSER PACKAGE F=MAIL
+
+in the body of your e-mail letter.  The LISTSERV will respond by sending
+you some information about both my Roadmap workshop and Dr. Bob's guide
+"Accessing the Internet by e-mail."
+
+
+BLATANT USE OF A LIST FOR PERSONAL GAIN
+---------------------------------------
+
+I'm not sure if I asked this before, but if there are any combination VM
+Mailbook 95 and Mac Eduora Pro gurus on this list, could you please tell me
+the Mac Eudora Pro equivalents for the
+
+     REPLY TEXT (FILE filename filetype filemode
+
+and
+
+     RESEND address (FILE filename filetype filemode
+
+commands?  I use these two commands dozens of times each day, and I can't
+really move from Mailbook to Eudora until I find the Eudora equivalents :(
+
+
+
+---------------------------------
+
+TODAY'S SOUTHERN WORDS OF THE DAY
+
+---------------------------------
+
+
+JUICY - Contraction.  A question.
+
+GUFF - Noun.  A deep chasm.
+Usage: "Juicy the Guff of Mexico?"
+(Special thanks goes to Donna Griffin and Owen O'Neil for today's wurds)
+
+Don't forget to visit the Southern Word homepage at
+http://ua1vm.ua.edu/~crispen/word.html
+
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'               Patrick Douglas Crispen
+  {O__,   \    {                   pcrispe1@ua1vm.ua.edu
+    / .  . )    \                The University of Alabama
+    |-| '-' \    } ))    http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                       Warning: squirrels.
+
+

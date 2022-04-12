@@ -1,0 +1,106 @@
+FOCUS 1.0
+
+A FOrm-based Customizable User Shell
+
+By James Eric Tilton, tilt+@cs.cmu.edu
+July 1993
+
+--
+
+This code is copyright 1993 by Willamette University and James Eric
+Tilton.  Permission is granted to distribute this distribution freely
+as it is provided.  Permission is not granted to modify this code and
+then distribute it.
+
+No warranty is provided.  Use this code AS-IS.  Also, no support is
+provided, although the author will make a good attempt to provide
+helpful feedback.
+
+(All that aside, what I'm really concerned about is making sure that
+any revisions to this code come through me.  Not that I'm expecting a
+huge amount of use, but . . . :)
+
+--
+
+What is FOCUS?
+
+FOCUS is a form processor -- it provides an easy way to maintain a set
+of fill-in forms that can be submitted via e-mail.  If that's what you
+need to do, FOCUS may be your answer.
+
+FOCUS also has some awfully baroque additions -- if what you're
+looking for is an easy way to provide a full-screen interface for a
+UN*X system, FOCUS might also be your answer.  Even though ostensibly
+a form-processor, FOCUS is really secretly a shell (it's even got job
+control!).
+
+What systems does FOCUS run on?
+
+To date?  It was developed on a sun4 system that had gcc installed.
+Unfortunately, our sun4 is about the only development platform I have
+access to, so I have no idea what other systems it will work on.  Feel
+free to attempt to modify the code to work on other systems, and let
+me know how it works out.
+
+What should you modify?  I suspect the main problems will come from
+actions.c (and possibly interrupts.c).  FOCUS doesn't use any fancy
+curses stuff, so I expect that should work fine anywhere.
+
+How do I install FOCUS?
+
+Check "configure.c", and set up a home directory for your forms to
+reside in.  You might want to set it equal to the "forms" directory
+inside this directory -- it contains several sample forms.
+
+Then type "make".  If you're not on a sun4 system, you'll probably
+want to make sure the Makefile isn't doing anything silly.
+
+What do the different files contain?
+(I've got lots of time on my hands,
+and might want to try hacking the code
+so that it works on my system...)
+
+action.c     -- this is all the code which actually executes child
+                processes.  voted most likely to break on other flavors
+                of UN*X.
+configure.h  -- definitions used in several modules.
+formvars.c   -- code for using both internal and environment variables.
+interrupts.c -- disables ^C so that it can be used by the program.
+                uses system 5 termio (as I recall...)
+jc.c         -- job control code.
+parse.c      -- the form parser.
+screen.c     -- screen I/O (uses curses).
+main.c       -- initialization code, etc.
+bin          -- some scripts used by cso-query (must be in path to
+                work for cso-query to work.)
+forms        -- several sample forms.
+focus-docs.txt -- a reference guide for creating forms.
+
+How should I go about creating forms?
+
+Try reading focus-docs.txt -- but be warned, it's more in the style of
+a reference manual then in the style of a tutorial.  Also, look at the
+sample forms provided.
+
+Finally, here's an example form:
+
+#Form: Sample Form
+#to: jsmith
+#subject: Sample Form Result
+#result: return
+Name: [$name] : 40 > $name
+Campus Mail Box #: [$campusmail] : 40 > $campusmail
+Phone #: [$voxnum] : 40 > $voxnum ;comment
+
+What will this do?  It'll generate a form called "Sample Form", which
+will have three fill-outable text forms.  When the user issues a "^X",
+it'll mail the result to "jsmith", and then execute the result,
+"return"ing to the previous form.
+
+The [$name] means that that field will be automatically pre-loaded
+with whatever the value of $name is.  The "> $name" means that
+whatever is in this form will be placed into $name when you have
+finished with the form.  The ": 40" indicated a preferred width for
+the field (and is optional).
+
+Have fun!

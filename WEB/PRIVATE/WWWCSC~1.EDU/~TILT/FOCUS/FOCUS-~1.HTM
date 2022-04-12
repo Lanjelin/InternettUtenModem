@@ -1,0 +1,885 @@
+<TITLE>FOCUS -- A FOrm-based Customizable User Shell</TITLE>
+
+<H1>FOCUS</H1>
+
+<H2>A FOrm-based Customizable User Shell</H2>
+
+A hyper-shell tool for the creation of intuitive, navigable interfaces
+for unix applications.<P>
+
+<HR>
+
+This code is copyright 1993 by Willamette University and James Eric
+Tilton.  Permission is granted to distribute this distribution freely
+as it is provided.  Permission is not granted to modify this code and
+then distribute it.<P>
+
+No warranty is provided.  Use this code AS-IS.  Also, no support is
+provided, although the author will make a good attempt to provide
+helpful feedback.<P>
+
+(All that aside, what I'm really concerned about is making sure that
+any revisions to this code come through me.  Not that I'm expecting a
+huge amount of use, but . . . :)<P>
+
+<HR>
+
+<STRONG>Note:</STRONG> see the <A HREF="FOCUS-~1" tppabs="http://www.cs.cmu.edu/~tilt/focus/focus-readme">README</A>.<P>
+
+User Documentation authored 7/9/93<BR>
+James Eric Tilton<BR>
+Willamette Integrated Technology Services<P>
+
+<H1>Introduction</H1>
+
+Focus is an interactive interpreter and displayer of forms written in
+"Focal", the FOrm Composition Almost-Language.  Originally
+designed as an interactive form-processor, it has evolved into a
+general purpose front-end that can be adapted for use with nearly any
+unix application.  It also provides a "hypertext"-like method of
+navigation between different forms.<P>
+
+Focus is perhaps unique, in that it provides a unified screen-based
+environment for users in a unix environment, using the curses library.
+This means that friendly interfaces and "infostructures" can be
+provided for users who only have access to VT100 terminal emulation,
+or other similar kinds of text-based displays.  While it certainly
+doesn't provide a fully-functional windowing environment, it does
+provide a consistent environment to run other applications from -- as
+well as allowing many unix commands to be executed without ever having
+to leave the Focus environment.<P>
+
+What is a form?  A form is, essentially, a description of a screen.  A
+form can contain four kinds of information:
+
+<UL>
+
+<LI> straight text
+<LI> editable text fields
+<LI> text fields with a finite number of preset values
+<LI> "buttons" which can perform some sort of action
+
+</UL>
+
+Forms are also dynamic -- depending on the environment, the user's
+preferences, or the results of external commands, the appearance of a
+form might be modified "on the fly".  A number of different options
+are available in the creations of forms, including:<P>
+
+<UL>
+
+<LI> non-editable text fields
+<LI> fields which require a value
+<LI> fields for which the entered value must fulfill a specific requirement
+<LI> default values
+<LI> variables
+<LI> dialog boxes, selection boxes, and display boxes
+<LI> conditionally invisible lines
+
+</UL>
+
+How to create forms will be covered in the section on Focal.  However,
+rest assured that it is very easy to create simple forms consisting of
+text, and editable fields.<P>
+
+<H1>Using Focus</H1>
+
+To use Focus, type<P>
+
+<PRE>
+jupiter% focus
+</PRE>
+
+at the prompt.  The screen will clear, and you will see something
+similar to the following:<P>
+
+<A HREF="FOCUS2.GIF" tppabs="http://www.cs.cmu.edu/~tilt/focus/focus2.gif"><IMG SRC="FOCUS2.GIF" tppabs="http://www.cs.cmu.edu/~tilt/focus/focus2.gif"></A><P>
+<!--
+                                FOCUS
+
+                          Welcome to FOCUS!
+
+Use the arrow keys to move around these screen, and the "return" key to
+select the desired option.  You may want to start with the "Navigating
+Focus" item, to get a feel for how to move around the system.
+
+         (About Focus)                         (Navigating Focus)
+                        (Latest Funky Features)
+
+Internet Tools:
+             (Pine)                                  (News)
+            (Gopher)                                 (FTP)
+            (Telnet)                                 (WAIS)
+             (Talk)                                  (Lynx)
+           (Hytelnet)                          (Hatfield Gopher)
+         (Doo-a-Dubble-U)                           (Finger)
+                               (Updater)
+Other Tools:
+        (Unix Tools)      (Electronic Forms)   (FOCUS Setup Options)
+                                (Quit!)
+
+^D Do Field Action   ^R Return  ^C Quit  ^G Get Help
+-->
+
+This form (known as the "home form") provides a launching pad for
+Focus sessions.<P>
+
+<H2>Job Control</H2>
+
+...exists.  Use ^Z to suspend an interactive program in process, and ^F
+to bring a suspended program to the foreground.  We think it's bug
+free . . . but caveat emptor.  :)<P>
+
+[No further user documentation exists.  If there is a real demand for
+this program, and a real freeing-up of my time, more might possibly be
+created.]<P>
+
+<HR>
+
+<A NAME="reference"><H1>Creating Forms -- The Focal Description
+Language</H1></A>
+
+All forms are simply text files, with special syntax indicating where
+special items such as buttons and fields are desired.  Focus provides
+formatting, centering, and screen-sizing automatically -- all that is
+neccessary is to indicate what type of information is wanted on the
+form.<P>
+
+Forms can be in one of two places -- either in the user's personal
+directory (~/forms, unless otherwise specified in the environment
+variable FORMDIR), or in the system-wide form directory.  The FOCAL
+interpreter engine (Focus) will look first in the user's form
+directory, and then in the system-wide form directory.  Every form is
+specified by a unique file name (and so, a user can replace a system
+form with a personalized form by placing a form of the same name in
+her own form directory).<P>
+
+A form consists of lines -- each line will contain either a directive,
+a variable assignment, a comment, text, or a button or field
+description of some sort, as described below.  Lines are terminated by
+carriage returns.<P>
+
+<HR>
+
+<H2>Directives</H2>
+
+In order to specify certain information about the entire form, Focal
+employs "directives".  A directive is a single line of text, which
+begins with the character "#" and has a keyword immediately following.
+Directives which are available are:<P>
+
+<H3>Form Title</H3>
+
+<CODE>#form: &lt;form title></CODE><P>
+
+This directive allows a title to be specified for the form.
+This title will be displayed centered, and in reverse video, on the
+top of the screen.  It will not appear in any output to actions.<P>
+
+If no title is specified, the title "(Untitled)" will be displayed.<P>
+
+Variable substitution in this directive is not supported.<P>
+
+Example:<BR>
+<CODE>#form: File Utilities</CODE><P>
+
+<H3>RFC822 Headers</H3>
+
+<CODE>#to: &lt;email address></CODE><BR>
+<CODE>#subject: &lt;mail subject></CODE><P>
+
+This pair of directives provide for the automatic mailing of a form,
+without having to specify an explicit action.  When the "#to:"
+directive is supplied, than the ^X command will mail the form to the
+address given.  If a "#subject:" line is provided, then it will be
+used as the subject for the mailing list.<P>
+
+No variable substitution is currently possible with these directives,
+though support for this may eventually be added.<P>
+
+<H3>Action of the Form</H3>
+
+<CODE>#result: &lt;an action></CODE><P>
+
+This directive allows an action to be associated with the form (for a
+description of actions, see below).<P>
+
+<H3>Form to Replace With</H3>
+
+<CODE>#replace: &lt;form name></CODE><P>
+
+This directive takes the file name of another form.  Upon closing this
+form, the new form is to be opened, before returning to the original
+form.  Essentially, the current form is popped off of the stack of
+forms, and the new form is pushed onto the top of the stack.  In this
+way, a directed sequence can be created.<P>
+
+This directive is not recommended for habitual use -- it disrupts the
+normal flow of navigation, and can be confusing unless used with care.
+One possible use might be to have a series of pages of nothing but
+text, linked together by a trail of "#replace" directives.  Since
+pressing the space bar will normally cause you to return from a form
+that has no fields or buttons, you can use this as a pseudo-paging
+mechanism.<P>
+
+Once again, there is no variable substitution support.<P>
+
+<H3>New Group of Fields</H3>
+
+<CODE>#newgroup</CODE><P>
+
+This directive is for the formatting of editable text fields.
+Normally, all text fields in a group will share the same left margin,
+like so:<P>
+
+<PRE>
+Name:         [                                            ]
+Phone Number: [                                            ]
+Address:      [                                            ]
+Age:          [                                            ]
+</PRE>
+
+If a #newgroup directive were placed between "Phone Number:" and
+"Address:", then two groups would be created, and the formatting would
+look like this:<P>
+
+<PRE>
+Name:         [                                            ]
+Phone Number: [                                            ]
+Address: [                                                 ]
+Age:     [                                                 ]
+</PRE>
+
+This is directive is usually placed before any new logical grouping of
+text fields is begun.<P>
+
+<HR>
+
+<H2>Variable Assignment</H2>
+
+If the first character of a line is "$", then the line contains a
+variable assignment.  This sets internal variables upon the opening of
+the form.  The syntax is<P>
+
+<CODE>$variablename = new variable value</CODE><P>
+
+For example,<P>
+
+<CODE>$phonenumber = 555-4BOB</CODE><P>
+
+If the new value given begins with a '$', then the variable is
+assigned the value of whichever internal variable is specified.  If
+the new value begins with a '%', then the appropriate environment
+variable is used.<P>
+
+<STRONG>Note:</STRONG> If the variable "$debug" is set to "true", then
+Focus will run in debugging mode.  (For now, this simply means that
+the ^G help screen will display a list of currently assigned
+variables).<P>
+
+Also, Focus uses the value of the $shell variable to determine which
+shell to invoke upon a ^N or '!'.  It may be desirable to include the
+line<P>
+
+<CODE>$shell = %shell</CODE><P>
+
+in your home form.<P>
+
+<HR>
+
+<H2>Straight Text</H2>
+
+A line is "straight text" if it does not contain the pair of
+characters [], and doesn't begin with #, $, *, !.  Straight text is
+simply text that is printed to the screen or output to actions,
+without being modifiable or interactive in any way.  For instance, the
+first few lines of the home form are straight text.<P>
+
+Straight text is used for descriptions and explanations for the user,
+or for providing formatting information for actions.<P>
+
+Straight text can come in three flavors, providing the form designer
+with a way of having text which might only appear in the form, or only
+appear in the mailed version:<P>
+
+<UL>
+<LI> If there is no special character in the first position, then it is
+both printed to the screen, and considered part of the standard output
+to actions.
+
+<LI> If there is a "&lt;" as the first character, the text will only be used
+as standard output, and never be displayed on the screen.  (For
+example, "For Office Use Only:" kinds of text could be placed here.)
+
+<LI> If there is a ">" as the first character, the text is only displayed
+on the screen, and never sent to the standard output.  Help for the
+user can be placed on such a line (so that, if you were to mail the
+form, the "unimportant" help information won't be mailed as well).
+</UL>
+
+A line of straight text can also have a conditional visibility
+expression associated with it (see Conditional Visibility Expressions).
+
+<HR>
+
+<H2>Editable Text Field</H2>
+
+An editable text field is described in the format:<P>
+
+<CODE>{conditional visibility expression} Field Title [Default Value] :
+width > $storage {verification expression} (action) ;comment</CODE><P>
+
+(all on one, unbroken line.)  However, the simple version is:<P>
+
+<CODE>Field Title [Default Value]</CODE><P>
+
+Note that everything is optional -- the only essential requirement for
+a field is that the "[" and "]" characters are contained within it.  A
+simple description of a field might be:<P>
+
+<CODE>Name: []</CODE><P>
+
+Which would show up on the screen as<P>
+
+<PRE>
+Name: [                                                     ]
+</PRE>
+
+after Focus automatically formats it.  If you wanted to specify a
+default width, you could use<P>
+
+<CODE>Name:[] : 5</CODE><P>
+
+which would give you:<P>
+
+<PRE>
+Name: [     ]
+</PRE>
+
+and so forth.<P>
+
+You can also specify a default value, which can consist of both text
+and variables.  To delimit blocks of text from variables, use the
+comma.  So:<P>
+
+<CODE>Name: [John Smith]</CODE>
+
+would become<P>
+
+<PRE>
+Name: [John Smith                                           ]
+</PRE>
+
+and,<P>
+
+<CODE>Name: [$middlename]</CODE><P>
+
+would, if $middlename was equal to "Bob", become<P>
+
+<PRE>
+Name: [Bob                                                  ]
+</PRE>
+
+Likewise,<P>
+
+<CODE>Name: [John , $middlename, Smith]</CODE><P>
+
+would become<P>
+
+<PRE>
+Name: [John Bob Smith                                       ]
+</PRE>
+
+If a variable name is specified with a % (such as %USER), then an
+environment variable is substituted.<P>
+
+Also, if you want to store the contents of the field into an internal
+variable, you would use the syntax<P>
+
+<CODE>Name: [] > $name</CODE><P>
+
+Whenever a FOCAL interpreter engine, such as Focus, executes an
+action, it will first store whatever value is in the "Name:" field
+into the internal variable $name.  This ensures that any internal
+variable substitutions in actions associated with the form will
+reflect the current state of the form.<P>
+
+Verification expressions, conditional visibility expressions, and
+actions are covered below.<P>
+
+<HR>
+
+<H2>Toggle Fields</H2>
+
+A toggle field is of the format:<P>
+
+<CODE>{conditional visibility expression} Field Title [#toggle:Default
+Value1, Default Value2, ...] : width > $storage {verification
+expression} (action) ;comment</CODE><P>
+
+(all on one, unbroken line.)  Note that the only difference in format
+between this and an editable text field is that the default values
+must be specified, and that a field directive of #toggle: is provided.<P>
+
+Toggle field default values are delimited by the comma.  White space
+after the comma (or the #toggle:) is ignored.<P>
+
+An example text field is:<P>
+
+<CODE>T-Shirt Size: [#toggle: small, medium, large]</CODE><P>
+
+This will display on the screen identically to an editable text field
+with the default value "small".  However, when the field is selected
+by the user, it will change it to a horizontally scrollable field,
+presenting the three options.<P>
+
+Note that there is no variable substitution allowed in the default
+values of a toggle field.  However, if a toggle field specifies a
+storage variable, then the FOCAL interpreter engine should check the
+value of that storage variable and attempt to find a matching value
+among the choices.  It should then present that choice as the
+currently selected value.  So, for instance,<P>
+
+<CODE>Default Shell: [#toggle: csh, sh, bash] > $shell</CODE><P>
+
+Will present "sh" as it's current value if $shell is set to equal
+"sh".  (Note: if $shell is set to a value that is not equal to any of
+the values of the toggle field, then the field will display the
+current value of $shell upon opening of the form.  However, once the
+field is selected, the first default value will be selected, and then
+subsequently stored in the internal variable.)<P>
+
+<HR>
+
+<H2>Buttons</H2>
+
+Buttons are simply a modification to toggle fields.  Unlike toggle
+fields, buttons are always displayed expanded, and do not scroll,
+should the number of buttons exceed the width of the screen.  Buttons
+also have actions associated with each default value (or, in this
+case, button name).<P>
+
+The format of a button field is<P>
+
+<CODE>{conditional visibility expression} [#button: Button Name 1 (button
+action 1), Button Name 2 (button action 2), ...]</CODE><P>
+
+(all on one, unbroken line.)  Note that the major difference in format
+between this and the other types of fields: first, the #button: field
+directive, and the mandatory actions associated with each button.
+Also, there is no field title specified (one can be specified, but the
+FOCAL interpreter engine is not required to provide for its display).
+Similarly, the width and storage specifications are not supported.<P>
+
+Finally, there is no verification expression, as there is no value to
+verify, and there is no field action, as they are associated with the
+buttons themselves (and not with the line).  Buttons are intended as
+the most obvious method of performing actions -- while they can be
+performed from other types of fields (and the field itself), they can
+be most intuitively presented with an on-screen control such as the
+button.  Actions are mainly provided in fields and forms in order to
+provide short-cuts, as well as to enable intelligent selection of
+appropriate values for the field (more on this in the section on
+verification expressions).<P>
+
+Actions will be explained in the next section, but a simple example of
+buttons is:<P>
+
+<CODE>[#button: Pine (pine -z), News (trn -a -x -X)]</CODE><P>
+
+Which will provide a line something like:<P>
+
+<PRE>
+                 (Pine)                       (News)
+</PRE>
+
+Buttons are dynamically formatted, spaced evenly across the width of
+the screen, based on the number of buttons on the line.  If only one
+button is provided, it will be centered, two will be centered as
+above, and etc.  It is up to the FOCAL interpreter engine to provide
+an aesthetic placement of buttons.<P>
+
+<HR>
+
+<H2>Actions</H2>
+
+Verification and conditional visibility expressions will be explained
+last, as they are perhaps the most baroque of all the features of
+FOCAL, and are possibly due to featuritis ( >=) -et).  Actions, on the
+other hand are central to the concept of Focus, and can occur in a
+variety of places -- specifically, in the #result: directive, in both
+kinds of fields, and in individual buttons.<P>
+
+The normal syntax of an action is:<P>
+
+<CODE>(#name# infilter  | command  | outfilter )</CODE><P>
+
+where name, infilter, and outfilter are optional.<P>
+
+Note: although in field and button descriptions, an action is
+delimited by (), there is no such delimiting in the #result:
+directive.  For the #result: directive, the syntax is<P>
+
+<CODE>#result: #name# infilter  | command  | outfilter</CODE><P>
+
+We will cover, in turn, what is a valid value for name, infilter, outfilter,
+and command.<P>
+
+<H3>Name</H3>
+
+This allows you to specify a descriptive name for the command which
+will appear at the bottom of the screen.  This provides you a way of
+letting the user a) that an action exists at this location, b) what
+that action will do.<P>
+
+For example, an action might be associated with a text field --
+perhaps by invoking the action with ^D, the user can spell check the
+word in the field.  In that case, it would be nice to be able to alert
+the user to this possibility.  To do that, you might use a line like:<P>
+
+<CODE>Enter a word: [] (#Spellcheck# spellcheck $checkword | select)</CODE><P>
+
+(where 'spellcheck' would be a program which would return a 1 or 0
+based on whether the word provided was spelled correctly)<P>
+
+In this example, when the cursor was in this field a line would be
+displayed at the bottom of the screen something like: "^D Spellcheck".<P>
+
+(Warning -- the parser may choke if you have weird names in between
+the ##'s.  So check there if you have problems.)<P>
+
+<H3>Infilters</H3>
+
+The infilter specifies what parts of the information on the form
+should be fed as standard input to the command.<P>
+
+An infilter can be any of the following:<P>
+<UL>
+<LI> <CODE>nothing</CODE>
+<LI> <CODE>this</CODE>
+<LI> <CODE>filter filter1, filter2, ...</CODE>
+<LI> <CODE>all</CODE>
+</UL>
+
+The "nothing" infilter is the default if no infilter is specified.  It
+simply does not supply a standard input to the specified command.<P>
+
+The "this" infilter supplies, as standard input to the command, the
+value of the field which this infilter is associated with.  The value
+includes the field name, as well as the field value that has been
+entered (formatted as it would appear on the screen, except without
+the surrounding square brackets -- "[]").<P>
+
+The "filter" infilter supplies the values of the fields which match
+the given filters.  Matching is similar to a "egrep -i ^filter1
+|^filter2 |...", in that it is case insensitive, and attempts to match
+from the beginning of the value.  Effectively, this means that you can
+match by field title (since this is the beginning of the value).  So,
+"filter name address" would feed the name and address fields through
+the standard input to the command (as well as the "addressing" field,
+should it existÉ).  Note: this also supplies straight lines, should
+they match.  This includes all straight lines that do not begin with
+the character '>'.<P>
+
+The "all" outfilter simply supplies all lines which would normally be
+sent to the standard input.  It is similar in output to the output of
+the "mailform" special command.  Once again, the output of a line
+described with "Name: []" will be "Name: Value entered in Field by
+User ", and the output of a straight text line will be itself.  Lines
+containing buttons and lines preceded by the character ">" will never
+be part of the standard input.<P>
+
+Example:<P>
+
+Given the following form description:<P>
+
+<PRE>
+#form: Test From
+This is a test form.
+>This line only goes to the screen.
+&lt;This line only goes to the standard input of an action.
+Name: []
+Phone: []
+Platform: []
+</PRE>
+
+and assuming that the user enters "John Smith" in the "Name:" field,
+"555-QZQZ" in the "Phone:" field, and "Unix" in the "Platform:" field,
+we will then expect the following standard inputs to the command:<P>
+
+For this, if the cursor is in the "Name:" field:<BR>
+<PRE>
+Name:     John Smith
+</PRE>
+
+For all, regardless of which line the cursor is in:<BR>
+<PRE>
+This line only goes to the standard input of an action.
+Name:     John Smith
+Phone:    555-QZQZ
+Platform: Unix
+</PRE>
+
+For filter name, this, regardless of which line the cursor is in:
+This line only goes to the standard input of an action.<BR>
+<PRE>
+Name:     John Smith
+</PRE>
+
+(note that this is the same as for all, except only the lines which
+started with either "name" or "this" were fed to the standard input.)<P>
+
+<H3>Outfilters</H3>
+
+The outfilter specifies what is to be done with the output of the command.<P>
+
+An outfilter can be any of the following:<P>
+
+<UL>
+<LI> <CODE>discard</CODE>
+<LI> <CODE>display</CODE>
+<LI> <CODE>select</CODE>
+<LI> <CODE>update [$internalvar1, $internalvar2, ...]</CODE>
+<LI> <CODE>interactive</CODE>
+</UL>
+
+The "discard" outfilter is the default if no outfilter is specified.
+It simply discards the output of the command.<P>
+
+The "display" outfilter reads in the standard output of the command,
+and displays it in a window on the screen.  The user will be able to
+scroll through the window, if its contents are larger than the screen.
+The output will also be formatted into multiple columns, if possible.<P>
+
+The "select" outfilter is like the "display" outfilter, except the
+user has the opportunity to select one of the lines of the standard
+output.  If this is an outfilter for an action in an editable text
+field, then whatever line is selected replaces the contents of that
+text field.  (One use for this would be to select a valid value for a
+field, from a list of possible values, such as a list of usernames).<P>
+
+The "update" outfilter has two incarnations.  If no internal variable
+names are specified, then it expects a standard output of the form:<P>
+
+<PRE>
+$variable1 = value1
+$variable2 = value2
+....
+$variableX = valueX
+</PRE>
+
+It then proceeds to assign value1 to internal variable $variable1, and
+so forth.<P>
+
+However, if the outfilter specifies internal variables (for
+ex. "update $name $phone"), then it will assign each of those
+variables a value for the standard output of the command.  If
+possible, the first line of the standard output will be placed in the
+first variable specified, the second into the second, and so forth.
+(If there are more variables specified then lines of output, or vice
+versa, then the excess will be ignored.)<P>
+
+The "interactive" outfilter will turn control of the terminal over to
+the specified command.  Infilters are ignored, and the output of the
+program does not modify the form in any way.  You can use this to,
+say, launch a gopher session by placing a button labeled "(Gopher)" on
+your form, and associating the action (gopher | interactive) with it.
+The syntax for this example would be:<P>
+
+<CODE>[#button: Gopher (gopher | interactive)]</CODE><P>
+
+<H3>Commands</H3>
+
+Commands can be any valid unix command in the user's path.  Their
+standard input will be as specified by the infilter, and their
+standard output will be displayed as dictated by the outfilter.  In
+addition to unix commands, the following "internal" commands are also
+supported:<P>
+
+<UL>
+<LI> <CODE>cd</CODE>
+<LI> <CODE>invoke formname</CODE>
+<LI> <CODE>replace formname</CODE>
+<LI> <CODE>mailform</CODE>
+</UL>
+
+"cd" works identically to the unix "cd" command.  It returns as
+standard output the name of the current working directory, which all
+subsequent actions will execute upon.<P>
+
+"invoke" opens another form onto the form stack.  When the form
+formname is closed, control returns to the current form.<P>
+
+"replace" closes the current form, and opens the form formname.<P>
+
+"mailform" mails the current form, identically to the result of the
+"#to:" directive (described above).  (This is useful if you want to
+provide a "(Mail this Form)" button)<P>
+
+A command can contain internal variables.  If it does, then the values
+of the internal variables are substituted as arguments.  For example,
+the command "ls $directory" will evaluate to:<P>
+
+<CODE>ls foobar</CODE> (if $directory = "foobar") or<P>
+
+<CODE>ls "Grand Canal"</CODE> (if $directory = "Grand Canal").<P>
+
+Note that the quotes merely represent the fact that "Grand Canal" is
+all one argument to "ls".  Focus does not yet actually support
+quoting, and spaces will normally delimit arguments.  However,
+argument delimiting takes place before variable substitution, so any
+spaces in variable value will not break that value up into separate
+arguments.<P>
+
+Also, note any field values that are to be stored in internal
+variables are stored before the command is invoked.<P>
+
+<HR>
+
+<H2>Verification Expression</H2>
+
+Verification expressions invoke a unix command (these do not include
+any of the internal commands described above).  The standard input for
+the command is the value of the current field.  Any field values which
+should be stored in internal variables are stored before the command
+is invoked.<P>
+
+If a verification expression is supplied for a field, then that
+verification expression is evaluated everytime the user attempts to
+leave the field.  If the command returns a value of 0 (not on the
+standard output, mind you, but actually returns it), then the
+condition evaluates as true.  Anything other than 0 evaluates as
+false.<P>
+
+If a verification expression evaluates as false, then the action for
+that field is invoked.  The user is not allowed to leave the field
+until the verification expression evaluates as true.<P>
+
+One example use of a verification expression might be:<P>
+
+<CODE>Name: [$name] > $name {finduser} (validusers $name | select)</CODE><P>
+
+When the user attempts to leave the field "Name:", the program
+"finduser" is invoked.  This hypothetical program reads the first line
+of its standard input and finds "John Smith" there.  It checks its
+list of valid users, and see that John Smith is not on that list.  It
+then returns a 1.<P>
+
+The FOCAL interpreter engine sees that the result of this operation
+was not 0, and invokes the command for the field.  The command
+"validusers "John Smith"" is invoked.  This hypothetical program takes
+the single argument "John Smith", and produces a list of close matches
+on its standard output.<P>
+
+The FOCAL interpreter engine then allows the user to select one of the
+values returned by "validusers".  It then places this value into the
+"Name:" field.  Control returns to the user, with the cursor still
+placed in the "Name:" field.<P>
+
+Note that a verification expression, like a command, supports internal
+variable substitution.  Passing the value on the command line (for
+example, finduser $name) is also a desirable way of implementing the
+above example.<P>
+
+<HR>
+
+<H2>Conditional Visibility Expression</H2>
+
+A conditional visibility expression works exactly as a verification
+expression does, returning either true or false based on the return
+value of the command.<P>
+
+A conditional visibility expression is evaluated only upon opening a
+form -- should it evaluate to true, then that particular line is
+displayed on the screen.  Should it evaluate to false, that line is
+not displayed on the screen.<P>
+
+CVE's might be used in order to provide certain options only to
+qualified users, or to otherwise customize the appearance forms based
+on the needs, abilities, or priveleges of users.<P>
+
+<HR>
+
+<H1>Plans for the Future</H1>
+
+<EM>[probably never to be implemented.]</EM><P>
+
+<UL>
+<LI> Job control (exists now.  caveat emptor.  use ^Z and ^F.)
+<LI> Piping, with filters like "select" includable in pipes
+<LI> Mail checking
+<LI> Better handling of error messages (stderr)
+<LI> Scripting?
+<LI> Have verifyvalue() be able to deal with $vars
+</UL>
+
+<HR>
+
+<H1>Glossary</H1>
+
+<DL>
+
+<DT> Action
+
+<DD> An interface for calling external unix functions.  An action
+usually takes the form (infilter | command | outfilter), where the
+infilter specifies what standard input is fed to the command, and the
+outfilter specifies how the standard output should be handled.<P>
+
+The command is usually a unix command, although it can be one of
+several built-in commands as well (for these, the in and outfilters
+are usually ignored).  The command can also contain (recursive!)
+descriptions of the various kinds of dialog boxes, and variables which
+will be substituted.
+
+<DT> Focal
+<DD> a FOrm Composition Almost-Language.  Focal is the language in
+which forms are described.  Somewhat classically baroque, Focal is
+extremely easy to use to create simple forms, but also can be
+excessively complex when trying to utilize the more advanced features.
+Some tricks to power-using Focal are described within this document.
+
+<DT> Focus
+<DD> The FOrm Customizable User Shell, or, alternately, a Friendly
+Online Computer User Shell, whatever.  Focus interprets forms created
+in Focal, and presents them on the screen in an interactive manner.
+Details on using Focus are contained within this document.  Note that,
+while Focus was originally designed as form-processing program, it
+can, with it's current extensions, be used as a generic screen
+interface to just about any unix program.
+
+<DT> Form
+<DD> a "smart" screen description.  A form provides an interactive
+interface for the user to enter information, and perform various
+actions.  Forms are the building blocks of Focus hyperspaces.
+
+<DT> Hyperspace <DD> Inspired by Vannevar Bush's 1945 vision of the
+Memex in his article, <A
+HREF="../../../tppmsgs/msgs8.htm#881" tppabs="http://www.csi.uottawa.ca/~dduchier/misc/vbush/as-we-may-think.html">"As
+We May Think"</A>, and etymologically and conceptually descended from
+Ted Nelson's visions of "hypertext" and "hypermedia", a hyperspace is
+a space connected in a non-linear fashion by references and pointers.
+It is the opinion of the author that any good infostructure will also
+be a hyperspace, because it encourages the explorer to search after
+the information that is immediately interesting, but be able to find
+their way back to the original task.
+
+<DT> Infostructure
+<DD> A word coined by the author to describe any navigable
+arrangement of pointers to other references.  While an infrastructure
+provides the low-level support which is often invisible to users, an
+"infostructure" provides the basic navigation aids to help the user
+find the information she or he is looking for, or to help sort through
+the deluge of the information which the user is often subjected to.
+Gopher-space is an infostructure, as is the World-Wide-Web.  In the
+non-high-tech milieu, bibliographies and library catalogs are also
+examples of infostructures.
+
+</DL>
+
+<HR>
+
+Last modified: 3/8/94<P>
+
+<ADDRESS><A HREF="../INDEX.HTM" tppabs="http://www.cs.cmu.edu/~tilt/">James "Eric" Tilton, Un*x Weenie,
+tilt+@cs.cmu.edu</A></ADDRESS>

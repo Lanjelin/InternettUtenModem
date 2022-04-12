@@ -1,0 +1,17 @@
+KICKBUTT.WAD
+DOOM II DEATHMATCH PWAD MADE FROM SCRATCH
+******************************************************************************
+Here is a small Deathmatch WAD from The HEADACHE. It's made for people who  
+want fast kills and small levels.
+
+*Some info*
+Single player:          No monsters, no exit.
+Coorperative:           If you don't know how to start a Deathmatch...
+Deathmatch:             YES!!!!
+New graphics, sounds, monsters: Nope.
+Editor used:            Edmap 1.31
+Build time:             an hour
+Bugs:                   No way!!...i hope..... Mail me if you find any
+
+E-mail: sg-3data@online.no
+Doom page: http://www.vestdata.no/~olag/ole/doom.htm

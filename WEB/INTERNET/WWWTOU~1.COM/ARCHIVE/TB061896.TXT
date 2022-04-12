@@ -1,0 +1,126 @@
+
+From bobrankin@mhv.net Wed Jun 19 15:09:28 1996
+Date: Wed, 19 Jun 1996 01:25:49 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 18 June 1996 - Surfez Vous Le Web?
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /  Looking for some good, clean chat on the internet?  |//////|    |
+ |  WorldVillage Chat always has friendly folks, great  |//////|    |
+ |  conversation, and special games six nights a week!  |//////|    |
+ |  http://www.worldvillage.com/wv/chat/html/chat.htm   |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP : Translation Services
+TODAY'S ADDRESSES : http://www.travlang.com/GermanEnglish/
+                    http://mlab-power3.uiah.fi/EnglishFrench/ef.html
+                    http://www.itc.omron.com/cgi-bin/j-e/jis/dict
+                    http://www.cs.washington.edu/homes/kgolden/wordbot.html
+                    http://www.uni-frankfurt.de/~felix/eurodictautom.html
+
+"Chevaliers de la table ronde, goutons voir si le vin est bon..."  Those
+were the words of a song I learned while studying French in college.  If
+you're curious about the meaning, the tools we uncover in today's TOURBUS
+will reveal all.  And if you've been having multi-lingual dreams, you
+might want to check out this course offered by Grant MacEwan Community
+College, one of our current sponsors...
+
+*----------------*  Unlock the Secret of Your Dreams *-----------------*
+ This deluxe 5 lesson course delivered via the Web will empower you to
+ interpret your dreams on your own and in electronic discussion groups.
+ Dr.  Jayne Gackenbach, a leader and highly sought speaker in the field
+ of dream research is your instructor in the next course, starting July
+ 8th!  This $129 course is being offered at a low introductory price of
+ $39 (US) or $49 (Canadian).  Register today - space is limited.
+*------------------( http://www.outreach.org/dreams )------------------*
+
+
+It's tough enough just learning the lingo of cyberspace, but when you're
+faced with a language barrier on top of that, cruising the information
+superhighway feels more like being stuck in a traffic jam sometimes.
+Let's take a tour of five useful tools on the World-Wide Web that can
+help you to clear those hurdles.
+
+EF Bridge
+   --> http://mlab-power3.uiah.fi/EnglishFrench/ef.html
+
+   An interactive learning and studying environment between English
+   and French: look up the terms and and improve your knowledge in
+   these languages. You can ask EF Bridge to translate words from
+   English to French or go from French to English.
+
+   And EF Bridge talks!  Click on the mouth next to a translated word
+   and you'll hear the word pronounced, assuming you have 1) a working
+   sound card, 2) the right audio player, and 3) a correctly configured
+   web browser.
+
+   I failed on all three counts, but at least I was able to figure
+   out what a "bureau de renseignement" is, and why I need to go there!
+
+LEO's German-English On-line Dictionary
+   --> http://www.travlang.com/GermanEnglish/
+
+   Just enter a word (can be German or English) and you'll get back a
+   list of translated words or phrases that match.  For example, a
+   query on "ferien" returns:
+
+   * go on holiday -- Ferien machen
+   * holiday -- Ferien
+   * vacation -- die Ferien
+
+Jeffrey's Japanese/English Dictionary Gateway
+   --> http://www.itc.omron.com/cgi-bin/j-e/jis/dict
+
+   This one translates back & forth between Japanese and English, but
+   you do need a web browser capable of displaying the Japanese
+   characters.
+
+WORDBOT
+   --> http://www.cs.washington.edu/homes/kgolden/wordbot.html
+
+   Wordbot is an experimental system for automating reference
+   lookup on the web. When you load a page through Wordbot, every
+   single word becomes a hypertext link, so you can click on
+   any word to look up its meaning in a dictionary.
+
+   The really cool thing is that it supports Italian, French, English,
+   German and Catalan lookups.  So next time you follow a link and
+   find yourself staring at another language, feed it to WORDBOT!
+
+EURODICAUTOM
+   --> http://www.uni-frankfurt.de/~felix/eurodictautom.html
+
+   EURODICAUTOM is mainly a database of official and technical
+   terms, not a generic dictionary.  Languages supported are English,
+   French, German, Italian, Spanish, Danish, Dutch and Portuguese.
+
+
+*---------------*  Win the $1 Million Dollar Giveaway!  *-------------*
+ Play the Prize-link Progressive Jackpot Sweepstakes at Web Warehouse.
+  A chance to WIN up to $1 Million Instantly!  Web Warehouse offers a
+ wide assortment of quality consumer items from jewelry to music CDs.
+*-----------------------( http://webwarehouse.com )-------------------*
+
+It's a small world... hopefully this helps us to understand each other
+a little better.   See you next time!   --Bob
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

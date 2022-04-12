@@ -1,0 +1,41 @@
+STYLE
+Normal: "times" 12 0x0 0 0 11 0 "-"
+Header1: "times" 24 0x1 0 0 14 0 "-"
+Header2: "times" 18 0x1 0 0 12 0 "-"
+Header3: "times" 14 0x1 0 0 10 0 "-"
+Header4: "times" 12 0x1 0 0 9 0 "-"
+Header5: "times" 10 0x1 0 0 9 0 "-"
+Header6: "times" 9 0x1 0 0 9 0 "-"
+BlockQuote: "times" 12 0x0 24 24 12 0 "-"
+Pre: "Courier New" 10 0x0 0 0 10 0 "-"
+Listing: "Courier New" 10 0x0 0 0 12 0 "-"
+Address: "times" 12 0x2 24 24 12 0 "-"
+TableEntry: "times" 12 0x0 0 0 0 0 "-"
+TableHeading: "times" 12 0x1 0 0 0 1 "-"
+
+B: "-" 0x1
+I: "-" 0x2
+U: "-" 0x40000
+TT: "-" "Courier New" 12 0x0
+Citation: "-" 0x2
+Code: "-" "Courier New" 12 0x0
+Definition: "-" 0x1
+Emphasis: "-" 0x1
+New Text: "96 96 96" 0x100000
+KeyBoard: "-" "Courier New" 12 0x0
+Deleted Text: "-" 0x80000
+Sample: "-" "Courier New" 12 0x0
+Strong: "red" 0x1
+Sub: "-" 0x10000
+Sup: "-" 0x20000
+Variable: "-" "Courier New" 12 0x0
+Anchor: "blue" 0x40000
+CachedAnchor: "85 26 139" 0x8000
+AnchorPoint: "black" 0x0
+
+1: 0 0
+2: 0 2
+3: 0 1
+4: 0 3
+Lists: 30 30 0 0
+HR: 6 9

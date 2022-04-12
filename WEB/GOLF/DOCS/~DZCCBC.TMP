@@ -1,0 +1,14 @@
+<HTML>
+<BODY BGCOLOR=BLACK TEXT=WHITE LINK=WHITE VLINK=#ADADAD ALINK="#1EFF1E">
+<MAP NAME="PROMAP">
+<AREA SHAPE="rect" COORDS="0,29,70,48" HREF="~DZDE76.TMP" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,49,70,105" HREF="epga.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,106,70,135" HREF="pga.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,136,70,165" HREF="wpge.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,166,70,195" HREF="lpga.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,196,70,245" HREF="chllng.htm" TARGET="main">
+<AREA SHAPE="rect" COORDS="0,246,70,295" HREF="http://www.golfweb.com/ga97/thisweek.html" TARGET="main">
+</MAP>
+<CENTER><IMG SRC="prodk.jpg" BORDER=0 WIDTH=100% HEIGHT=295 USEMAP="#PROMAP"></CENTER>
+</BODY>
+</HTML>

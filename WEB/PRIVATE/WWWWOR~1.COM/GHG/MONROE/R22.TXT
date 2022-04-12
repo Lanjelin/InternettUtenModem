@@ -1,0 +1,104 @@
+	USING PURE R-22 IN A SYSTEM DESIGNED FOR R-12.
+
+This note addresses possible implications of using pure R-22
+in a system designed for R-12 refrigerant.
+
+* R-22 is a much higher pressure refrigerant than R-12.
+
+Static pressures & Temps
+Temp	R12-PSIG R22-PSIG
+70F	70 	 121
+116F	150	 245
+
+A common "low side" design (test) pressure is 150 PSIG for evaporators,
+especially in cars. On a hot conditions, a (non running) R-12 system,
+charged with R-22 could easily exceed these pressures and blow out
+a fragile evaporator, blow out plug or other weak spot.
+
+When operating, R-12 high sides run at 150-175 PSIG, and R-22 runs
+at 230-280 PSIG range.. Again danger of blowing out safety relief
+and other weak spots.
+
+* R-22 is a much higher "capacity" refrigerant than R-12.
+
+A compressor made for R-22 for a given temperature use (low, med,
+or high temp), at a given horsepower rating, will have much less
+piston displacement than (typically 3/5) an R-12 compressor for
+the same service class, so they result in equal capacity and
+motor amperage draw.  Using an R-12 compressor with R-22 in
+the same service class, will result in motor overloading
+and burnout as the motor will be overworked at roughly 5/3
+of it's rated capacity.
+
+It may be possible to use an EPR (evaporator pressure
+regulator) or system "unloading" devices to allow the
+compressor to run at 3/5 of capacity (with R-22) so the
+net capacity is the same. EPRs or unloaders will hurt total
+system efficiencies some though. They may also raise
+the compression ratio (see section on R-22 high heat of compression).
+Failure to control the evaporator pressure can easily
+result in an evaporator which is much too cold and
+cause freeze-ups..
+
+It also may be possible to use a compressor designed for
+High temp (airconditioning), R-12, to be used with R-22
+in low temp service (freezers below 0F). The "lower" the
+temp of service class, the larger the piston displacement
+for a given horsepower rating.  However, using R-22 in
+low temp applications may cause other problems (see the section 
+in R-22 high heat of compression).
+
+Ancient open "belt drive" compressors, may have the pulley
+on the motor made larger, to slow down the RPM (by 3/5)
+of the compressor  so it has the same capacity as it
+did with R-12.
+
+
+* R-22 has a much higher "heat of compression" than R-12.
+
+For high compression ratios (e.g. a freezer or low temp service),
+R-22 heats up much more than R-12 does during compression. 
+It fact it (in the compressor discharge valves) may easily 
+exceed 300F, above this temp breakdown of the refrigerant
+starts to occur.  R-22 freezers have long been plagued
+with "coking" of the compressor valves, the compressor discharge
+line turning black and carbonizing, and all this mess working 
+its way to the expansion device, etc. Acids formed from the
+refrigerant breakdown eat away at the motor winding insulation
+and form "sludge". R-502 was invented to help overcome the
+high heat of compression of R-22 in low temp service.
+
+A technique called "liquid injection" also can help here.
+A small hand operated expansion valve (needle valve) rated
+at about 1/10 of total system capacity, may be used to inject
+liquid refrigerant directly into the suction line at a point
+near the compressor, to provide pre-cooling of the suction
+vapor. Each degree of drop in the suction gas typically also
+drops the discharge temp a degree also.
+
+* Refrigerant metering device may need to be changed out.
+
+* R-22 is less miscible in R-12 mineral oil than R-12 is
+
+In short, R-22 does not dissolve in mineral oils as well as
+R-12 does, so there may be problems returning oil to the compressor,
+if the refrigerant is changed from R-12 to R-22.
+
+Systems  designed for R-22, use smaller diameter suction lines, to
+increase gas velocities to help "drag" the oil back to the compressor.
+If this isn't done, poor oil return, may result in oil "logging"
+in the evaporator, impairing efficiency, and in severe cases, the
+compressor may run out of oil, and fail mechanically from lack
+of lubrication.  Since may systems do not have an oil sight glass,
+this problem is often discovered only after it has already happened,
+when it is too late.
+
+This problem may be combated in several ways:
+1) use smaller diameter suction lines to get better oil return.
+2) change the mineral oil to "AB" (Alkylbenzene) oil which has
+   better miscibility in R22.
+3) add 5% or so of propane, isobutane, to provide for oil return.
+   R-406A uses this approach. (4% isobutane)
+
+
+--ghg

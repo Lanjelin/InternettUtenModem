@@ -1,0 +1,123 @@
+
+From bobrankin@mhv.net Tue Aug  6 22:16:00 1996
+Date: Tue, 6 Aug 1996 20:43:54 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 6 Aug 1996 - Java and Jumping Frogs
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /   Take the MYST Trivia Challenge at WorldVillage and |//////|    |
+ |   win one of 50 great prizes from Broderbund!  For   |//////|    |
+ |   details, see http://www.worldvillage.com/myst.htm  |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : Java and Jumping Frogs
+TODAY'S TOURBUS ADDRESS : http://sun.java.com
+
+
+No, it's not Smokin' Joe, a Cup of Mud or anything resembling hot liquid
+this time...  Java is a new technology from Sun Microsystems that
+enables real interactivity on the Web.  If you go direct to Sun for a
+definition, it's a bit loftier...
+
+   "Java is a simple, robust, object-oriented, platform-independent
+   multi-threaded, dynamic general-purpose programming environment.
+   It's best for creating applets and applications for the Internet,
+   intranets and any other complex, distributed network."
+
+Aside from setting a new world's record for consecutive adjectives, that
+should about cover it.  For programmers, it's a way to extend the Web in
+exciting directions.  For users, it's the promise of running full-scale
+applications over the Web, as opposed to mere sightseeing.  But what can
+you really do with Java?  And what's an applet?
+
+A Java applet is a program that can be included in a Web page, much like
+an image.  When you use a Java-compatible browser to view such a page,
+code is transferred to your system and executed by the browser.  This is
+a big step beyond good old HTML (the tags used to format Web pages).
+
+HTML is really just a simple markup language that tells your browser how
+to format the text and images on a page.  You can't do anything that
+requires interactivity or "if/then/else" programming logic.  Enter Java,
+a programming language for the Web.  With Java and it's cousin
+JavaScript, you can create things like interactive games, scrolling
+marquees, spreadsheets and jumping frogs.
+
+Jumping Frogs???  I must have this Technology!
+---------------------------------------------------------
+
+If like most people, that was your immediate reaction, you'll have to
+find a browser that supports Java, such as Netscape V2 for Windows 95 or
+NT.  (Sun says Java is supported on Win 3.1, but I've not seen a version
+of Netscape or any other browser that can do it there.) You'll also need
+a pretty fast machine, plenty of memory, and at least a 28.8K connection
+to handle the large quantities of data required to make frogs jump in
+cyberspace.
+
+Not sure if your browser supports Java?  Just try it...  Hop on over to
+http://www.franceway.com/frogjump.htm and see what happens.  If you get
+a page that says "Can you see the jumping Frog???" but alas, it is
+frogless, there may still be a glimmer of hope.  Check the settings
+under Options+Security Preferences (or equivalent) and see if Java is
+perchance disabled.
+
+Netscape's Release Notes page at http://home.netscape.com/eng/mozilla/2.0/relnotes/
+will tell which versions & platforms of their browser support Java. Sun
+also has a special browser called HotJava (for Win 95, NT and some Unix
+flavors) that you can try.  Microsoft has their own Java-like thing called
+ActiveX, so Internet Explorer does not support Java, unless you download
+the Java Support Update for IE 3.0 Beta 2.
+
+Users of Windows 3.1 and Netscape V2 can still use JavaScript
+applications, though.  If you'd like to see some JavaScript in action,
+see my home page at http://csbh.mhv.net/~bobrankin and look for the
+scrolling marquee at the top of the page.  (If it doesn't scroll, you
+may need to fix the Preferences or upgrade to V2.)  Feel free to steal
+the code and hack it to suit!
+
+More Java Stuff
+---------------
+
+Want to learn more about using Java, creating applets, and where to find
+a directory of cool Java applets?  Check out Sun's All About Java Page
+at http://java.sun.com/allabout.html where you'll find the Java FAQ and
+other helpful resources.
+
+*------------------------*  ONLINE COURSES  *------------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*--------------------------------------------------------------------*
+*--------------*  Win the $1 Million Dollar Giveaway!  *-------------*
+*--------------------------------------------------------------------*
+ Play the Prize-link Progressive Jackpot Sweepstakes at Web Warehouse.
+  A chance to WIN up to $1 Million Instantly!  Web Warehouse offers a
+ wide assortment of quality consumer items from jewelry to music CDs.
+*----------------------( http://webwarehouse.com )-------------------*
+
+Oh!  If you're planning to attend the ONE ISPCON convention in San
+Francisco this week, look for me at the Boardwatch Magazine booth. I'll
+be happy to autograph a copy "Painless" for you.  See you next time!  -Bob
+
+========================================================================
+  Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+  Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=-----------------------------------------------------------------------=
+  For info on my new book "Doctor Bob's Painless Guide To The Internet"
+      send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+     (Quantity discounts available for schools, clubs and sysops)
+=========================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

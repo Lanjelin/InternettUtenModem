@@ -1,0 +1,159 @@
+Date: Tue, 5 Mar 1996 02:10:04 -0500
+From: Bob Rankin <bobrankin@mhv.net>
+Reply to: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 5 March 1996 - Consumer Information Center
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"   /    |  \
+   |__________|__________/__________|__________|________/     |   \
+  /                                                    /______|----\
+ /    Send INFO TOURBUS to LISTSERV@LISTSERV.AOL.COM   ///////|    |
+ |   Or visit http://csbh.mhv.net/~bobrankin/tourbus   |//////|    |
+ |                                                     |//////|    |
+ ~~~/~~~\~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/ \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP    : The Consumer Information Center
+TODAY'S TOURBUS ADDRESS : http://www.pueblo.gsa.gov/
+                          http://www.pueblo.gsa.gov/textonly.htm
+
+The Consumer Information Center distributes millions of booklets published
+by more than 40 U.S. federal departments and agencies. Their goal is to
+develop, promote, and distribute consumer information to the public.
+
+You've probably seen that awful television commercial with the guy who
+comes out of a coma when his wife tells him how to save money by getting
+the Consumer Information Catalog.  The commercial is a groaner, but the
+free catalog they offer is really good stuff.  Oh, and speaking of
+commercials, here's some more good stuff.  :-)
+
+*-----------------------------------------------------------------------*
+| Southern Utah University offers ART 101 on the WWW starting March 20  |
+|  3 quarter credits, transferable.  Get your general education at your |
+|    convenience!  For more info and to register, visit the web site    |
+*--------> http://www.suu.edu/WebPages/MuseumGaller/artapp.html <-------*
+
+
+The Consumer Information Catalog
+--------------------------------
+
+... is published four times a year and distributed to millions of American
+consumers. Each issue has descriptive listings of more than 200 free or
+modestly-priced booklets from a variety of federal agencies. These
+publications cover everything from health to housing, from buying cars to
+building careers, from food to federal benefits.
+
+The catalog is made available free through schools, libraries, consumer
+groups, federal offices and in response to individual requests.  You can
+get a free printed copy of the latest Consumer Information Catalog by
+sending your name and address to: Consumer Information Catalog, Pueblo, CO
+81009.
+
+But why bother?  The whole thing is on the Web!
+
+And it gets better - you can do more than just browse the catalog online.
+The full text of most every booklet is available FREE at the CIC web site
+- even the ones that have a price tag attached to the printed version.
+
+The printed versions are probably only available to U.S. citizens, but
+even if you're from Sri Lanka, you can visit the CIC web site and download
+as much as you can carry home.  The folks at Customs will never know, I
+promise!
+
+Web Have-Not?
+-------------
+
+A quick aside here for those who don't have Web access, or those who still
+think that HTTP stands for "high-tech toilet paper"...  You can access
+(almost) all the wonders of the World-Wide Web using simple e-mail
+commands.
+
+If you know the URL (address) of a document on the Web, you can fetch it
+by sending a command to one of the WWW-mail servers listed below:
+
+   Address                     Syntax     Comments
+   -----------------------     ---------- -------------------------
+   agora@dna.affrc.go.jp       SEND <URL> New Agora server in Japan
+   agora@kamakura.mss.co.jp    SEND <URL> Another Agora in Japan
+   agora@info.lanic.utexas.edu SEND <URL> Agora in USA
+   agora@mx.nsu.nsk.su         SEND <URL> Agora for Russian users ONLY
+   webmail@www.ucc.ie          GO <URL>   Webmail server in Ireland
+   w3mail@gmd.de               GET <URL>  W3Mail in Germany
+
+So to snab a copy of today's TOURBUS site, trying sending the command
+
+        SEND http://www.pueblo.gsa.gov/textonly.htm
+
+in the BODY of an e-mail message to "agora@dna.affrc.go.jp".
+
+
+What's In The Catalog?
+----------------------
+
+Here's a sample of the useful and interesting things you can find in the
+Consumer Information Catalog:
+
+CARS - "How to Find Your Way Under the Hood & Around the Car" -
+Instructions for 14 preventative maintenance services you can perform on
+your car. Includes a helpful chart.  (How to die young: do your own brakes)
+
+HEALTH - "Questions to Ask Your Doctor Before You Have Surgery" - 12
+questions with additional follow-up information that will help you make
+better decisions about your health care.  (Doc, will I be able to play
+the piano after this operation?)
+
+CHILDREN - "Helping Your Child Learn Math" - 26 meaningful and fun
+activities to help your children (ages 5-13) see math as a positive and
+interesting part of life.  (Wait until they hit Differential Equations...)
+
+EMPLOYMENT - "Resumes, Application Forms, Cover Letters, and Interviews" -
+Tips on tailoring your resume for specific jobs and how to score higher on
+employment tests.  Includes sample interview questions.  (Probably won't
+help if you're an axe murderer, though.)
+
+HOUSING - "A Consumer's Guide to Mortgage Refinancings" - Here's help to
+decide if refinancing is worth it, what the costs are, and how to tell if
+the time is right. Also highlights some of the fees you can expect.  (If
+a bank is involved, expect a fee!)
+
+MONEY - "66 Ways To Save Money" - Practical ways to cut everyday costs on
+transportation, insurance, credit, housing, utilities, food, and much more.
+(Helpful tips like "Stop eating and driving so much.")
+
+Take One Home
+-------------
+
+You can download an electronic version of the Winter 1995 Catalog from the
+CIC site in ZIP or TXT format.  If you prefer FTP, pop over to ftp.gsa.gov
+and grab "pub/cic/1win95.zip".
+
+*----------------------------------------------------------------------*
+|      Just surfing the Net?  Put it to work enhancing your career!    |
+|         Take online courses from University of Wisconsin-Stout.      |
+|                  For more info point your browser to:                |
+*-----> http://major.uwstout.edu or E-MAIL to conted@uwstout.edu <-----*
+
+*----------------->  BIG-TIME MAGAZINES FOR $10 A YEAR?  <-------------*
+|                      ONLY TOURBUS RIDERS KNOW HOW!                   |
+|                                                                      |
+|   Magazine Express has exclusive TOURBUS discounts others can only   |
+|  dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This  |
+|   is a limited time offer, so get details now by sending email to:   |
+*------------------------>  tourbus@magazines.com  <-------------------*
+
+
+See ya Thursday, we're going to visit Mickey!   -Bob
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://csbh.mhv.net/~bobrankin/tourbus
+               (stop in for back issues and the logo contest)
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!

@@ -1,0 +1,1377 @@
+IRPS NEWSLETTER 
+April 1, 1996
+Issue #1
+
+Table of Contents:
+
+IRPS Monthly Status Report
+Monthly Columns
+  Ragboy's Wild Kingdom (Paul Wolfe <ragboy@spacewraith.com>)
+  Bringing Role Players Together Over the Internet
+    (Christopher Beattie <chrisb@tansoft.com>)
+  The Book of Genesis (Justin Nathanial White <bwhite@cln.etc.bc.ca>)
+  Cyber Abyss Resource List/FAQ (Craig Janssen <daili@gate.net>)
+  Thoughts from Thaos (Joshua Reubens <thaos@aol.com>)
+  Slight's Miscellanea (Steven Cox <slight@bev.net>)
+Monthly Stories
+  The Quest For Magic (James Williams <mdaly93979@aol.com>)
+  Earl's Word (Earl Harrison <dungeonm@si-net.com>)
+Monthly Classified Ads
+
+-------------------------------------------------------------------------
+IRPS Monthly Status Report (Michael Popovich <cad@digital.net>)
+-------------------------------------------------------------------------
+	Hello everyone.  IRPS is doing pretty good right now.  We're moving
+right along in growth and we're now up to 600 members and seeking to be
+up to 2500 by the end of the year.  Sometime around 1000 members we will
+start appealing to RPG companies to see if they would like to post 
+advertisements on the club page so that the club can make money and offer
+it's members more benefits.
+	As always, if you have any ideas, comments, questions, suggestions,
+(basically anything) feel free to e-mail me.  A word of caution however,
+I'm a little slow at replying at times but I try to get to people as
+soon as possible.
+
+-------------------------------------------------------------------------
+Ragboy's Wild Kingdom (Paul Wolfe <ragboy@spacewraith.com>)
+-------------------------------------------------------------------------
+
+Welcome to the first official installment of WK.
+
+In this issue, I would like to cover the role of equipment in the 
+wilderness campaign, and how it is affected by use, weather, stress, and 
+both natural and unnatural phenomenon.  Rather than cover an exhaustive 
+list of equipment and relating information, I will cover some general 
+guidelines I like to follow when determining the quality, quantity and 
+general characteristics of a party's equipment, before, during and after 
+a wilderness trek.  So, onward then, brave reader....
+
+Gearing Up
+
+This is one of the most important stages of a wilderness adventure, and 
+one that is most often glossed over.  A list of available gear is 
+provided and players tic off what they buy against a pile of money, and 
+move on.  Of course, if this could be mirrored to real life, we would all 
+have time to game more! :)  But, of course, just to go out and buy 
+groceries is a chore, what with finding your keys, driving through 
+traffic, searching the shelves for the right brands at the right price, 
+then standing in line forever while the guy in front of you counts out 
+his potatoes. (I love that commercial).  In a rpg, however, we gloss over 
+such experiences for this very reason: who the hell wants to simulate 
+such a boring, annoying situation?  However, some guidelines should be 
+layed out as to the quality, and variety of equipment your characters are 
+likely to encounter on their shopping excursions.  Not all swords are 
+created equal, nor are handguns, laser pistols, ropes, nylon lines, body 
+armor, etc.  Using a basic percentage table, I determine the quality of 
+an item a character buys.  This quality is generally transparent to the 
+buyer (unless he or she states specifically what quality is being sought, 
+and has the skills to determine such.), so the modifier applied becomes 
+relevant only after the item is used and either doesn't yeild the results 
+expected or outright fails.  This table can be applied to magical, 
+normal, as well as technological components, as anything built, 
+enchanted, or created by a mortal is subject to faults.
+
+Item quality table
+_____________________________________________________________________
+%	desc		modifier	resiliance		price
+---------------------------------------------------------------------
+01	Exceptional	+15 		+50%			+200%
+04	High		+05		+20%			+100%
+80	Normal		--		---		 	---
+10	Low		-10%		-20%	       Normal to -10%
+05	Flawed		-20%		-50%	       Normal to -20%
+---------------------------------------------------------------------
+%= a breakdown of the percent of items that fall in a given category
+modifier=the percentage up or down a roll for "use" should be 
+	modified as per the quality of the item.  For weapons, this 
+	should only modify accuracy, and not damage. (thus if you 
+	roll a 1d12 for accuracy, with an exceptional weapon, add or 
+	subtract 2 [whichever is better])
+resilience= a modifier to any checks against functionality (thus if a 
+	low quality pistol is dropped in the water, and a roll is 
+	required to see if it jams, modify that result [required by 
+	your game system] by the given 	modifier)
+price= Fairly self-explanatory.  If a merchant knows his sword is 
+	exceptional, he will mark it up as much as possible, however 
+	if he knows its flawed, he will, likewise, try to pawn it off 
+	for as much money as he can.
+
+Note that figures such as price and such, represent the starting values.  
+If a character chooses to repair an item, maybe replacing bad components, 
+etc, this could raise the quality of the item, considerably.  Or, if a 
+character demonstrates she knows the quality of an item to a merchant 
+(esp. a below normal quality), the price can be driven down further.  
+These are functions of role-play, however, and should never be left to a 
+dice roll.
+
+As far as quality of wilderness survival gear goes, characters 
+should consider finding the highest quality items they can afford (key 
+word being survival).  The boonies are hard on equipment, and low quality 
+or flawed items could spell doom for a character in a jam.    
+
+As stated, I don't recommend role-playing the purchase of every item  a 
+character needs, but for hard to find/restricted items, anything related 
+to the overall campaign, or if an adventure can be spun off of the scene, 
+feel free.  Otherwise, rolling and notating any relevant results can 
+suffice.
+
+The True Test
+
+Once out of the protective arms of civilization, an item's true 
+nature becomes paramount.  Likewise, extended maintenance, undo stress, 
+and unforseen circumstances can affect how an item performs its 
+function.  All of these are valid considerations when dealing with a 
+rural situation.  The character's life, many times, depends on the 
+performance of his equipment, thus, a system for determining this should 
+be enacted.  Many times there are functions (tables, guides, etc) within 
+a gaming system that will suffice in (or were actually designed to) take 
+such things into account.  Usually, these are ignored, as more important 
+things (such as unimaginable wealth, and the dragon sitting on it) are in 
+the forefront.  I say, Not So! I've lived in the boonies for 6 month 
+stretches, at times, and had to rely on my equipment to keep me alive and 
+comfortable.  So, here are some things to consider when you want to wake 
+your party up to the harshness of living away from three hots and a cot.
+
+Your party should have some plan as to how they will care for their 
+weapons, and other equipment.  Dust, moisture, animals, temperature, and 
+other factors adversely affects such things as weapons, electronics, 
+food, armor, vehicles, and clothing.  Though, as with buying equipment, 
+you should not have to role-play your characters cleaning, storing, and 
+maintaining their gear, you should require of them both the time and the 
+cost and storage of supplies to do this.  Nothing more than saying: Okay, 
+during his watch, Lothar the Barbarian will clean and sharpen his sword.  
+Forgetting to say this, should equate to forgetting to do it in real life 
+(it happens!).  The effectiveness of equipment should be altered at your 
+discretion, especially if some item has been an annoying way for a 
+character to unbalance the course of a game, ie. a radar scanner carried 
+by Private Snuffy that allows the platoon to never be surprised by the 
+enemy.  Should Pvt. Snuffy fail to clean the scanner every day, paying 
+special attention to the batteries, well, one day when he turns it on 
+ZZZZTTTT.  No scanner.  These rules shouldn't be used to unjustly punish 
+your characters, but as a dash of flavor and realism, it can really go a 
+long way to bringing out your story and your characters role in it.  
+
+Magical items, for the most part, are as vulnerable as normal items to 
+the effects of exposure to the elements, with a couple of exceptions.  
+Magical swords and armor, and artifacts or very powerful magical items 
+will generally be unaffected by natural elements or conditions.  
+Of course, there could be conditions that would even harm these things, 
+like a storm that is magical in nature and ferocity, or magical cold or 
+heat.  Definitely take any damage into effect for fragile items such as 
+scrolls, powders, oil vials, potion flasks, etc.  Wooden staves, or any 
+non-metal item should be affectable by the environment, unless stated 
+directly in the game rules or deemed so by the game master.  Again, rules 
+such as these shouldn't be used to club the characters with undo 
+problems, but as both a regulating measure for those parties who are out 
+of hand with magical gear, or as a random occurance to keep things 
+interesting.  (Mona: "Okay, sizing up the situation, Mona reaches into 
+her pouch to get her potion of inviso power."  GM: "Okay, she cuts her 
+fingers on the shards of glass, and some of your blood feels invisible 
+inside your hand....:)
+
+Likewise, even specialized materials, such that might be found in a 
+technlogical campaign, have limits before the substance begins to suffer 
+the effects of its environment.  Find out or set what these conditions 
+are, and enforce them as you will.  Dropping a pistol into lava, or 
+letting your droid get struck by lightning should have adverse effects on 
+that equipment.  In sci-fi or real world military campaigns, it is 
+important to allow realism to creep in more often than a high fantasy 
+game.  These adverse conditions and its affects on equipment are the 
+driving force and one of the harshest enemies in such a campaign.  Many a 
+military commander has gone insane at the thought of mechanical problems 
+in the face of an imminent invasion.
+
+As always, rules such as these shouldn't impede gameplay, or take the fun 
+out of the game itself, but add to excitement and realism. (Imagine 
+Featherhead the Cyberhacker, who relies heavily on his Net gear to get 
+himself out of a sticky situation.  Well how would he react if that gear 
+failed, with the enemy approaching?  What other skills or plans does 
+he have to use in a pinch?)
+
+Aftermath
+
+When the party finally makes it to a city, the clean up and repair bills 
+should be waged (either in time or money, whichever is appropriate.).  
+Keep track of those things that were damaged or destroyed, so the 
+characters can decide (or forget) to have them repaired or replaced.  
+(Mona:  Okay, Mona goes for her the trusty dagger that her father gave 
+her...the one she's had forever  GM: Oh, you mean the one that got broken 
+in the last adventure?  Sure, you pull a hilt attached to a jagged peice 
+of metal from your belt.  The orcs begin to laugh.")  
+
+Use these rules liberally, but give your characters some 
+benefit of the doubt when dealing with equipment maintenance and effects 
+of the environment. Your characters are heros, and professionals 
+afterall, so they will certainly know the importance of equipment 
+maintenance.  In certain conditions, as in a firefight or other critical 
+time, don't be afraid to heighten the tension by having an important 
+peice of equipment fail.  This will not only add a dash of realism 
+(who's ever really needed to get to work, only to have your car not 
+start..?), it will also spurn inventive reactions by your characters at 
+the spur of the moment, expanding the realms of role-play to the 
+horizion!!!!  (Or it will really make them mad...and that's what a GM 
+does best...)
+
+Next Month:  Who knows?
+RgB
+
+-------------------------------------------------------------------------
+Bringing Role Players Together Over the Internet
+	(Christopher Beattie <chrisb@tansoft.com>)
+-------------------------------------------------------------------------
+INTRODUCTION:
+     	Imagine sitting in your room, in front of your computer console, 
+your character sheet on one side of the keyboard, a can of soda on the 
+other.  Before you, in one of your computer's many windows, a text 
+display describes the scene.
+
+============================================================
+!DM> OK.  Here's the situation.  You are inside the gigantic
+!DM> cavern.  The light is dim, and you can only see about
+!DM> 60' or so with your torches, but the cavern extends
+!DM> beyond that.  In the dark distance you hear the sounds
+!DM> of something huge breathing.  What do you do?
+Dathief> I try to hide in shadows and sneak around.
+Dartanyon> I ready my longbow.
+Waldo whispers to you, "Where am I?"
+============================================================
+
+     	While many people are familiar with table top role playing and 
+even with role playing by regular or electronic mail, few people have 
+been exposed to on-line role playing.  Like play-by-mail, on-line role 
+playing has its own sets of problems and advantages.  It can be exciting 
+as well as frustrating in its own unique ways.  This article will 
+describe some of the unique problems of on-line role playing, as well as 
+some ideas for solving those problems.
+
+THE ASCII CONFERENCE ROOMS:
+     	Most on-line services have a place where members can get together 
+and talk to each other.  Many services will call these areas "Chat" or 
+"Conference" areas.  In the simplest setting what you type in is 
+displayed to everyone in the area.  There may be separate tables and 
+rooms where small groups can privately talk to each other.  Private 
+communication can also be supported where one player can send a message 
+to a single person in the room.
+     	Some conference room commands are useful in a role playing 
+setting.  Dice rolling is a very important feature for on-line 
+role-playing.  Most systems will support a #d#+# format, which is useful 
+for most game systems.
+     	Other commands have been added by services as a result of 
+features found on many MUDS and other similar games.  They include:
+
+     	Speech: Starting a line of text with a quotation mark can cause a 
+variety of responses depending on the last character in the string.  For 
+example:
+
+"I want a cookie.        Someone says, "I want a cookie."
+"I want a cookie?        Someone asks, "I want a cookie?"
+"I want a cookie!        Someone yells, "I want a cookie!"
+
+     	Actions: Starting a line with a colon causes your name to appear 
+in front of the message.  For example:
+
+:smiles at the lady.     Someone smiles at the lady.
+
+     	Game Master Functions: Are things that a single person, 
+(sometimes called a moderator) can do, which for on-line role-playing 
+falls under the Game Master.  These features, when present, are highly 
+system dependent.  They can allow the moderator to display text without 
+the normal header and speak with a different name. The moderator also 
+has the power to gag people or declare a room so that only he or the 
+person he delegates can speak, or to figuratively kick someone out of 
+the room.
+
+LIFE IN 80 COLUMNS AND 24 ROWS:
+     	When people are sitting around a table there is a tremendous 
+amount of information that is conveyed without speaking.  This 
+"Non-verbal" communication can be as subtle as who the players are 
+looking at, if they are paying attention, or as blatant as the players 
+waving their hands to get the GM's attention.  On-line, none of this is 
+possible.  Every statement, action, and comment takes up one line of the 
+screen.  Everything has to be literally channeled through the area of the 
+screen devoted to the incoming text, typically somewhere around 20 lines 
+of text.
+     	This limitation on the number of lines of previous text you can 
+see places a great tunnel vision on the on-line game that the GM must 
+work hard to overcome.  Since emotions or expressions cannot be seen it 
+becomes imperative for everyone to express them whenever appropriate.  
+This can be difficult to remember at first but in time can become a 
+habit.  Unfortunately, a balance must be struck between relaying enough 
+emotions and filling the screen with less non-important information.
+     	Private messages also pose a problem for both the GM and the 
+players.  Unlike at the table where everyone can see someone passing a 
+note, private messages are seen only by the receiver.  This is good in 
+that private messages are indeed private.  Unfortunately, when a GM or a 
+player is receiving or sending a lot of private sends they are slow to 
+respond to public ones.  In addition sometimes players can spend so much 
+time in OOC private messages to each other that game play suffers, even 
+without the GM's knowledge.
+     	Not only is non-verbal communication not allowed, all visual 
+communications must be made to fit an ASCII medium.  Maps, if made to be 
+sent to the players must be made in ASCII text, must be no larger than 
+60x20 in order to be properly seen on the screen.  Here is an example of 
+an ASCII map of an inn I used in one of my game sessions.
+
+;       Scale . = 5'
+;
+;                  /---------|        1: Bones Alley
+;          1    ////dn    |  | XX     2: Plague Court
+;             D//  |      D  |        3: Latrine
+;           /| |   |----| |  |        4: Kitchen
+;          /3D |4  | 5  | |--|---|    5: Storage
+;        //oo| |   |    |  up| 6 |    6: Private Rooms
+;       /----- --D-----D-    D   |    7: Booths
+;       |   b                |   |    8: Dim Lane
+;       |   b  tt.t.t.tt.t.t |---|    b: bar
+;       |   b  ............. D 6 |    t: tables
+;       |   b  tt.t.t.tt.t.t |   |    .: open to balcony
+;       |   b  ............. |---|       on second floor.
+;       |   b  tt.t.t.tt.t.t | 7 |
+;     2 |   b  ............. |   |
+;       |      tt.t...tt.t.t     |
+;       |           b            |
+;       +---W--------D-------W---+
+;         8
+
+     	The semicolons are used to tell the conference room to print the 
+text without my name in front of it, and at the same time prevent forward 
+slashes from being taken for a command.
+
+ROLE PLAYING ON-LINE AND THROUGH ELECTRONIC MAIL.
+     	Unlike table top role playing, role playing on-line can be 
+combined with other methods such as electronic play by mail and play by 
+forum to provide action even when the meetings are not in session.  This 
+can be a good thing, because in an on-line session, times that are early 
+for the west coast people are late for the east coast people and on-line 
+sessions can be shorter than their table top counterparts.
+
+CONCLUSION: ROLE PLAYING ON-LINE IS A VIABLE ALTERNATIVE.
+     	When there are few role-players in your neighborhood and you want 
+the real time feel that Electronic play by mail does not give, then 
+on-line role playing is an alternative.  Getting one started, however, 
+may be difficult at first.  Some games, like their play by mail 
+counterparts might be a short duration, but others can go on for years of 
+enjoyment.
+
+ABOUT CHRIS B:
+     	Christopher Beattie is a programmer for Tantalus Inc., a company 
+that designs computer games for multiple players through a use of a 
+computer service.  Chris has played a variety of role playing games, and 
+a few play by mail and is currently running an on-line AD&D game based on 
+the Lankhmar campaign world on the Multi-player Game Network and a 
+regular based campaign based on White Wolf's Vampire the Masquerade.  
+Chris's real world location is in beautiful Key West, Florida.
+
+-------------------------------------------------------------------------
+The Book of Genesis (Justin Nathanial White <bwhite@cln.etc.bc.ca>)
+-------------------------------------------------------------------------
+Biomes & Ecostructures
+
+	Now, if you've read the last article, you should have a a map and an idea
+of how you want to build your world.  The second step in building a
+super-realistic world is developing an Ecostructure.  This takes a lot of
+time, and may not be entirely necessary.  I have spent about a week and I
+have just progressed into the animal life of the forests of a continent 
+the size of Australia (that's not counting the plains and stuff!)  Here 
+are some of the advantages/disadvantages to making an ecostructure for 
+your world.
+
+Advantages:     
+	The ecostructure lets you consistently maintain what the 
+description of a forest is.  Also, when you have an ecostructure, you 
+generally know what the cultures that you place in that area have to work 
+with (ie, what kinds of furs to trap, what types of plants they have 
+available for building stuff with, et cetera).  It helps with the makeup 
+of cultures (as we will discuss in another article.)
+
+Disadvantages:      
+	This is a definite time-eater.  You spend hours thinking of 
+logical matches from the smallest plant to the largest animals.  This
+information isn't used very often in a novel or in your game except
+for description and realism.
+
+	There are many parts of developing an ecostructure that are very 
+important in designing your own world.  Like biomes.  You _HAVE_ to 
+determine where you want your forests, your plains, your deserts and your 
+mountains and whatever other unique/mundane biomes you can thing of 
+(fireswamp ;)  When designing the biome areas, keep in mind where your 
+poles are, and possibly how the world is tilted on it's axle.  If you've 
+taken my advice from the last article and used that worldmap generator.. 
+keep in mind that that's assuming your 'planet' has a 90š axle to the 
+sun.  If your planet is tilted, you add more snow to the pole that's 
+moved farther away and put less on the closer side.
+	Now that you have a tilt, you can generally assume the 
+'temperate zones'.  Generally, the equator is in the centre of the earth, 
+unless you have the axle at a flat 0š or something very close to that, 
+then it's at the end closest to the sun, or in the case of multiple suns, 
+it really don't matter!
+	The equator (as you probably know) is the hottest part of the 
+planet.  You should 'paint' a biome of jungles, deserts or other biomes 
+that are able to live in hot areas.  Naturally, the poles, or at least 
+the areas farthest away from the sun, would be the coldest area, and 
+arctic/boreal areas would be the best.  SimEarth is a good program to 
+see the relationship of the biomes to the temperature.  Also the manual 
+will give you some excellent ideas on how to place biomes.
+	Another good factor in determining biomes is the rainfall.  More 
+rain gives lusher plants (boreal, forests, jungles) while more arid 
+places have less plant life (plains/tundra/arctic).  Usually, rainfall 
+is heaviest near the oceans.  I know this for a fact, living in Vancouver 
+and getting rain at least once a week, where as my brother in Calgary 
+gets very little, but, then again, it depends on how windy your world is.  
+A heavy wind could drag the rain farther away from the coast.
+	Note also that 'rainfall' also applies to 'snowfall' in colder 
+climates =o)  Another good point while placing biomes is the biomes that 
+surround the area.  You probably wouldn't see a glacier next to a desert, 
+for example (unless there is some logical reason that it's there... like 
+magically protected [wait a minute... magic isn't logical =o) ])  would 
+you often see a desert next to an ocean?  The latter example HAS happened 
+on Earth (I can't remember EXACTLY where... I just remember someone 
+telling me about it).  Also, it's not often that you see a jungle sitting 
+right next to a desert.  It _could_ happen, but wouldn't it be more 
+reasonable to have an area of plains in between them?
+	Now that you have gotten your biomes place, here comes the most
+time-consuming part... ecostructure!  The food chain is the time 
+consuming part.  When developing a food-chain, work from the bottom-up.  
+Develop the lowest of the plants, figure out what eats/uses that and et 
+cetera.  Work your way up to small animals like mice, then to avians or 
+larger animals and then up into humans.  You should probably include 
+humans even though we haven't talked about cultures yet.
+	Use your imagination on this one.  Are all trees made of wood?  
+Be creative!  How about a growing tree made of rock or crystal?  That was
+edible?  An easy animal that feeds off it would be some sort of 
+gelatinous blob that sucked on the sugar coating, and maybe a larger 
+predictor could eat the blob.  That's actually an example from my world, 
+but it shows how creativity can make a world so much more special.
+	Plan ahead a bit.  If you are going to have a human population 
+in the area, think about what resources it would need.  A source of 
+clothing, housing, food.  Note, though, that a lack of resource could 
+mean a lack of material.  If you don't have furry mammals in the area, 
+then the culture may just go without clothing (makes sense if you have 
+a warm world) or they'd parade around in leaf clothes.
+
+	Well, I think that's enough for this month.  As usual, if you 
+have any question you can eMail me at bwhite@cln.etc.bc.ca or 
+BJNW@eWorld.com.
+
+-------------------------------------------------------------------------
+Cyber Abyss Resource List/FAQ (Craig Janssen <daili@gate.net>)
+-------------------------------------------------------------------------
+Welcome to the Cyber Abyss Resource List / FAQ (Last Updated 3/17/96)
+ 
+This FAQ is always process of being updated. As I find more interesting
+stuff, I will add it to the FAQ. If you have any information I can use
+or have comments about the FAQ please let me know.
+ 
+Note: This FAQ is maintained by me (Craig Janssen) [daili@gate.net] ;-) 
+This FAQ does not necessarily represent the opinions or views of anyone 
+else. It should be noted,  I am not trying to favor one CCG or magazine 
+over another.  My purpose is to provide infomation relating to the CCG 
+industry. 
+
+I will be starting up a RPG Resource FAQ in the near future. If you have 
+any www sites or contract email addresses, feel free to pass them on.
+ 
+FAQ
+
+Q. What is a CCG?
+
+A. CCG stands for Collectible Card Games. While Wizards of the Coast, 
+   the makers of Magic: The Gathering were not the first to make one. 
+   WotC was the first to make a recent impact on a vast scale.
+
+Q. Where do I start?
+
+A. You can start by reading through this resource list. After that, 
+   there is many options. You can then join email lists, visit WWW sites, 
+   read Usenet News discussion groups. This resource list was made to let 
+   people know where to look for information about CCGs and the people 
+   that make them. It should be noted there are plenty of places to look 
+   as well.
+
+Q. I have played some CCGs, but want to try others. Where can I go for 
+   reviews or opinions?
+
+A. There are three places I know of to get reviews or opinions of the 
+   various CCGs in print. You can read opinions and reviews on the Usenet 
+   News Group rec.games.trading-cards.misc. This group covers most of the 
+   non-MTG CCGs.  You can visit WWW sites of magazines that review and 
+   offer opinions of the various CCGs. Two sites are 
+   http://mxn117.rh.psu.edu/~spud/gamer.htm and 
+   http://www.itis.com/other-games. Lastly, you can join the email list 
+   of the CCG you are interested in and get opinions from the readers.  
+   You can ask questions and be sure of answers.
+
+Q. Where can I get price lists or a price guide to CCGs?
+
+A. On Internet, there is the Cloister price list: 
+   http://www.hhhh.org/cloister/pricelists/
+   This price list is developed from the auctions and sales on the 
+   various Usenet News Groups that deal with CCGs. The major problem 
+   with this list is that it doesn't deal with the different editions of 
+   cards. If you bear this in mind, the price list is very good for 
+   Internet prices. The other source for prices is the magazines that 
+   cover the CCG industry. Price guides are the basis for pricing CCG 
+   singles in stores. While a lot of people dislike using magazine 
+   prices, it is good to be familiar with them, as stores can and 
+   do use these price guides for pricing purposes.
+
+Q. Who are you? And why are you doing this?
+
+A. My name is Craig Janssen. I was the Scrye Internet Rep from issue #1 
+   to issue #12. My position was moved inhouse at the end of December 
+   1995.  I have been playing MTG, 6 months after its start. I was a 
+   playtester for the Fallen Empires expansion set. I have had articles 
+   printed in Scrye and had a column covering CCGs and the Internet. 
+   [Hire me, Please ;-)]  I started this resource list as a supplement 
+   to my column in Scrye. I have expanded it and renamed it after I left 
+   Scrye.
+
+RESOURCE LIST
+
+MAGAZINES:
+
+InQuest:
+InQuest is magazine that covers the CCG industry. InQuest offers reviews,
+contests, and a price guide for CCGs. The InQuest NetRep is Jeff Hannes. 
+You can reached Jeff at jh003b@uhura.cc.rochester.edu. The official 
+InQuest email address is InQuestMag@aol.com.
+
+Lotus:
+Lotus is a electronic magazine that covers the CCG/RPG industries. Issue 
+#2 has an interview with Peter Adkision of Wizards of the Coast. For a 
+copy of Lotus, email sunstar@netcom.com or daili@gate.net.
+ 
+Scrye:
+Scrye is the first magazine to cover the CCG industry and develop a price 
+guide for CCG industry. You can reach the editor with questions or 
+requests for advertising information at scrye@aol.com or scrye@msn.com.
+
+CCG Information
+
+Magic: The Gathering
+ 
+One thing to look at is Dangelo's list of Rules:
+ 
+These rulings are available via FTP to "ftp.netcom.com" under 
+"pub/da/dangelo/magic" as the files "rule-*" in ASCII text, PostScript 
+and HP LaserJet format.  The latter two are formatted for easier reading.  
+They can also be found on "marvin.macc.wisc.edu" under
+"/pub/deckmaster/rules" 
+as "rule-*".                                     
+ 
+If you have access to World Wide Web try: http://www.wizards.com (or www.
+itis.com/deckmaster a volunteer site). This site has a lot of links to 
+other web sites and is the 'official' web site for Wizards of the Coast.
+ 
+MTG-L archive:
+ 
+There are anonymous FTP archives at ftp.itis.com you can get.
+They run a little behind, but I looked and they are current through
+the 12th (almost all the ones you want).  The 1996 archives are in
+/pub/deckmaster/archive/mtg-l and the older ones have their own
+subdirectory.
+
+OTE:
+ 
+John Nephew, President of Atlas Games, and Woody Eblom are available for
+additional comment. They can be reached at (612) 638-0077, or via e-mail 
+at atlasgames@aol.com and presage@io.com respectively.
+ 
+Retailers who want more information on hosting demonstrations of On the 
+Edge in their stores should contact Matthew Grau at (612) 638-0077 or via 
+e-mail at mdgrau@aol.com.
+ 
+Review materials for On the Edge, The Cut-Ups Project, Shadows, and 
+Arcana are available. For more information contact Jeff Tidball at (612) 
+638-0077 or via e-mail at agjeff@aol.com.
+ 
+RAGE:
+ 
+1) Send me your *questions* (ragecom@aol.com). If you want info on 
+tournaments, conventions, or Silver Pack stuff, write Todd at 
+ragetourny@aol.com. If you want info on Garou Nation (the fan club), 
+write Justin at achilli@aol.com.
+ 
+MAILING LISTS:
+ 
+INWO:
+ 
+inwo-trades: this is for trading (not selling)
+ 
+inwo-cards: this is for discussion of new cards (made up by the 
+subscribers, not official cards). This list is digested as 
+inwo-card-digest (not inwo-cards-digest).
+inwo-list: this is for discussing everything about INWO that isn't 
+covered in the above 2 lists. This list is digested as inwo-list-digest.
+ 
+To subscribe to any of these lists send e-mail to majordomo@io.com with 
+following message: subscribe [list name] without the []'s, of course.    
+ 
+MTG Mail Lists:
+ 
+Wizards of the Coast has quite a few email lists that it supports
+for its products. Here's what you to subscribe. First send email to
+listserv@oracles.wizards.com. In the body of the email put SUBSCRIBE 
+listname YOUR NAME. Don't know what lists are available? You can send 
+email to the listserv. In the body of the email not the subject put the 
+word LIST. The listserv will return email to you with a list of all the 
+current email lists.
+
+Wizards of the Coast is pleased to announce the NETRUNNER-L mailing list,
+for discussion of our forthcoming Netrunner(tm) trading card game.
+ 
+To subscribe, please send mail to LISTSERV@ORACLE.WIZARDS.COM containing
+the following line as the entire message body:
+ 
+  SUBSCRIBE NETRUNNER-L Your Real Name
+
+ON THE EDGE:
+
+You can now subscribe by sending mail with the message "subscribe 
+over-the-edge <name>" to "listproc@buddha.intecom.com"
+
+QUEST FOR THE GRAIL:
+ 
+To subscribe:
+     Send email to: listproc@buddha.intecom.com
+     Make the body of the message: subscribe quest Your Name
+ 
+To Post Messages:
+     Address them to: quest@buddha.intecom.com
+
+RAGE:
+ 
+rage-requests@mobius.slip.umd.edu
+ 
+Put: Subscribe in body of e-mail
+ 
+STCCG/SWCCG:
+ 
+stccg-discussion    STCCG disccusions/talk
+stccg-marketplace   STCCG trading/selling
+swccg-discussion    SWCCG discussion/talk
+swccg-markplace     SWCCG trading
+ 
+To subscribe to any of these lists send e-mail to 
+majordomo@lists.decipher.com with following message: subscribe [list 
+name] without the []'s, of course. The discussion email lists are very 
+busy and should be concerned "High Volume" lists.    
+ 
+FTP SITES:
+ 
+The marvin.macc.wisc.edu is loaded with information and files dealing
+with Collectible Card Games. There are very few CCGs that don't have
+something stored here. The ftp.itis.com(/pub/deckmaster etc) are loaded
+with utilities for CCGs and other information. The decipher ftp site 
+ftp://ftp.decipher.com/pub/decipher/ has the new rules for Star Wars
+etc available.
+ 
+CCG Web sites to check are:
+ 
+Atlas Games [OTE]        http://io.com/user/presage/agindex.html
+                         http://www.io.com/~fuzzface/
+                         http://www.hamline.edu/~jltidbal/onte/
+                         http://www.pacifier.com/~michael/Onte
+                         http://hamming.mathcs.carleton.edu/students/
+                               johnsond/onte/
+                         http://www.informatik.tu-muenchen.de/cgi-bin/
+                               nph-gateway/hphalle2/~peceny/spiele_e.html   
+                         http://www.comet.net/quilts/spax / 
+                         http://comet.net/quilts/spax
+                         http://www.io.com/~malcolm
+DIXIE:                   http://www.columbiagames.com/
+Doom Trooper             http://www.best.com/~eroth/booboo1.htm
+Dragon Dice:             http:/www.itis.com/other..ragon_dice/faq1.html
+Galatic Empires          http://ftp.winternet.com/users/kodai/GE
+Highlander [HL]:         http://www.tcgames.com/highlander/
+                         http://www.cnj.digex.net/~eljay/HL
+Hyborian Gates           http://www.ccsi.com/hyborian
+INWO                     http://io.com/sjgames/inwo/
+Last Crusade:            http://skynet.bevc.blacksburg.va.us/cee
+Middle Earth:The Wizards http:/www.ironcrown.com
+                         http://members.aol.com/myamanishi/metw.html
+                         ftp://maitred.biochem.wisc.edu/METW
+                         http://www-stud.enst.fr:8080/~guilleme/
+                         http://www.deltanet.com/users/gsmercer/metw.html
+OVERPOWER:               http://www.swarthmore.edu/cc/staff/yue/OverPower
+Quest for the Grail:     http://www.ccsi.com/~graball/quest        
+Rage                     http://www.turnpike.net/~Mackman
+Redemption               http://www.redemption.com
+ShadowFist               http://www.halcyon.com/rev/faq.html   
+SimCity                  http://weber.u.washington.edu/~starfish/simcity/
+                                simcity.html
+Spellfire                http://eaves.math.utk.edu/~stevem/ssf1.html
+                         http://pubpages.unh.edu/~matthewm/spelfire.html
+Star Trek/Star Wars      http://decipher.com
+                         http://www.itis.com/decipher/
+                         http://www.r8ix.com/decipher
+                         http://www.iceonline.com/home/chrisf/sw/swccg.htm
+                         http://www.isu.edu/~tangdere/starwars.html
+                         http://poky.srv.net/~duncan/swpage.html
+                         http://www.megatoon.com/~raika/swccg/swccg.htm
+                         http://www.wolfnet.com/~conner/swccg/index.html 
+                         http://iqest.com/~tstevens/sarasota/listing.htm  
+                         http://iqest.com/~tstevens/sarasota/aulist.txt
+                         http://www.tjhsst.edu/people/clee/
+Tempest of the Gods      http://www.sunrem.com/~bdp/Tempest/
+                              cardlist_by_card.html
+                         http://www.sunrem.com/~bdp/Tempest/
+                              cardlist_by_pantheon.html
+TCGames                  http://www.tcgames.com/
+                         http://www.cnj.digex.net/~eljay/TCGames.html
+Towers in Time [TNT]:    http://www.tcgames.com/towers/
+                         http://www.cnj.digex.net/~eljay/TNT
+Ulimate Combat!          http://www.ultimate-games.com/~shimban/
+RPG/CCG Resource Page    http://mxn117.rh.psu.edu/~spud/gamer.htm
+Wesley Crusher's COTD 
+(STCCG) WWW site:        http://www.metropolis.nl/~ldp/COTD.html
+                                               
+MAIL ADDRESSES OF VARIOUS CCG COMPANIES OR CONTRACTS:
+ 
+Blood Wars             tsrinc@aol.com  
+Dixie                  cgi/94@aol.com
+Echelons of Fire/Fury  pelagis@aol.com
+Galatic Empires        cmpanion@nyc.pipeline.com
+Guardians              JoeFPG@aol.com
+Heresy:Kingdom Come    Monomyth@aol.com
+HighLander             highlander-l-request@netcom.com (email list)
+                       questions: vjmurphy@netcom.com
+                       tcgames@aol.com
+Hyborian Gates         hyborian@aol.com  
+INWO                   sjgames@io.com
+Legend of Five Rings   l5r@isomedia.com
+Magic:The Gathering    mtg-l@oracle.wizards.com (email list) 
+                       questions@wizards.com
+                       custserv@wizards.com
+On The Edge            buford@winternet.com/atlas@io.com
+Quest for the Grail    dfn@infinity.ccsi.com
+Rage                   ragecom@aol.com
+Redemption             cactusrob@aol.com
+Sim City               fprice@interaccess.com
+ShadowFist             fisttrade-request@mars.galstar.com (email list)
+                       questions: robmh@aol.com
+SpellFire              tsrinc@aol.com
+Star of the Guardians  dperrin@wise-net.com
+Star Trek/Star Wars    DcustServe@aol.com
+Tempest of the Gods    bdpress1@aol.com
+Thunder Castle Games   tcgames@gvi.net
+                       tcgames@aol.com 
+Towers in Time         towers-l-request@netcom.com (email list)
+                       questions: vjmurphy@netcom.com
+                       tcgames@aol.com 
+Ultimate Combat!       shimban@ultimate-games.com
+Vampire:TES            vtes-l@wizards.com
+                       questions@wizards.com
+Wing Commander         dperrin@wise-net.com          
+Wyvern                 usgames@aol.com
+ 
+More Misc WWW sites:
+ 
+NOTE: I have not checked the WWW sites below. They may or may not be 
+working.  If the site is down or gone, please let me know.
+ 
+http://weber.u.washington.edu/aforster/ccgs/magic/
+http://www.mit.edu:8001/people/ammist/magic.html
+http://www.public.iastate.edu/~blarwick/games/magic.
+http://www.GANet.NET/~atulv
+http://www-hep.phys.cmu.edu:8001/~cormier/magic.html
+http://rowlf.cc.wwu.edu:8080/~n8943689/mtg.mtg.html
+http://iquest.com/~tstevens/sarasota/
+http://www.orst.edu/students/list/limmerd.ccg.html
+http://mox.perl.com/deckmaster
+http://www.crl.com/~tanis/           
+http://www.win.net/~zio/jyhad.html
+http://www.paranoia.com/~klmac/TalesHome.html
+http://www.itis.com/other-games
+http://pobox.com/~cobra/ccg
+ 
+Thanks for reading the FAQ,
+Craig Janssen
+
+-------------------------------------------------------------------------
+Thoughts from Thaos (Joshua Reubens <thaos@aol.com>)
+-------------------------------------------------------------------------
+The Future of Role-Playing
+
+	First a little about myself.  Thaos is a character of mine.  He 
+was my first P.C. in I.C.E.'s Rolemaster, that I have been playing and 
+GMing for a number of years.  I suppose that naming this column after him 
+was a bit like calling on the muses for inspiration.  I have been 
+role-playing for about eight years, and I actually started out by 
+GMing.  I can not claim I was any good at it, but I had a lot of fun 
+learning.  I have had little opportunity to actually play, the majority 
+of my experience is GMing.  Because of this I have read and own quite a 
+few games of many different genres.  The problem is that the area in 
+which I live is quite void of role-players.  In fact many of the people I 
+do play with are people I introduced to the hobby.  Well, that's enough 
+about me, lets get on to something that you will hopefully find a little 
+more interesting.
+	"Mark Rein Hagen (head of White Wolf) claims that 'role-playing 
+as we know it will be dead within ten years'" (Fannon 227).  Hagen goes 
+on to explain that the electronic medium will obliterate paper and pencil 
+role-playing and that role-playing companies must evolve or die.  It is 
+an interesting thing to think about.  Will there one day no longer be 
+role-players?  I spoke with a friend on this issue and we agreed that 
+there will always be some who hold to the old ways even if role-playing 
+in the traditional sense dissipates.  I am willing to say that I will 
+stand among those who will never put their dice away.  
+	Technology does indeed offer us much.  For instance this 
+newsletter would not exist if not for the web.  I do not wish to sound 
+as if I am putting down the advances that have been made, I only wish to 
+make it known that role-playing could never truly be replaced by any 
+thing electronic.  The computer games that call themselves RPG's today 
+are in truth nothing of the sort.  They do not give you freedom to do 
+whatever it is you wish, do they.  Then they are not a role-playing 
+game.  It is hard to play a role when you are forced to follow certain 
+guidelines.  
+	In a way role-playing is a bit like magic.  In role-playing we 
+can create anything, we can be anything.  The idea of magic vs. 
+technology is not exactly a new idea.  Have you ever seen the movie 
+Wizards by Ralph Bakashi?  Perhaps you have even read or played the RPG,
+by Whit Publications Inc.  The latest manifestation of magic vs. 
+technology would probably be Mage: The Ascension by White Wolf.  I think 
+they portray it best in this game.  The technology that is there is good, 
+but we must never forget the magic.
+	Take a look at what the future might bring.  There could someday 
+be something like the Holodeck on Star Trek.  That would be role-playing.  
+Though you still would have to program the computer with the information 
+and it could never be ready for anything.  A living GM can adapt and 
+change no matter what the player(s) decide to do.  Computers may be able 
+to aid in role-playing games.  I have in fact heard that some people use 
+a lap top along with all of their adventures.  There are actually quite a 
+few programs out to aid and assist in the role-playing experience.  
+Though I still say that even if computers can aid us in our hobby, they 
+will never be capable of replacing it.
+	Role-playing is in my opinion a great and healthy past time.  It 
+teaches us valuable things, and expands our imaginations.  In a world 
+where being like everyone else has become the goal, role-playing is even 
+more essential.  I guess that Mr. Fannon explained it best when he wrote:
+	"If you have not played a role-playing game or if you have ever 
+considered that RPGs may be 'bad' or harmful,' please give a careful look 
+at them.  In this hobby, you will see creativity, social tolerance, 
+compassion, open-mindedness, insightful thinking, problem solving, 
+historical awareness, and eyes firmly on the future-all in great 
+abundance." (Fannon 231)
+	I for one agree completely with this assessment, I must also say 
+that I find role-playing to be an educational and enlightening hobby.  It 
+combines acting and reading, and in doing so creates a new art form, one 
+that should be experienced by all.  Hopefully role-playing, with our 
+help, will extend into the future and with luck it will even reach a greater 
+audience.
+Fannon, Sean Patrick,  The Fantasy Role-Playing Gamer's Bible Prima 
+Publishing, 1996.   	
+
+-------------------------------------------------------------------------
+Slight's Miscellanea (Steven Cox <slight@bev.net>)
+-------------------------------------------------------------------------
+Salutations!
+
+	Welcome, all, to my second article!  This month, we're exploring 
+options of a more mundane nature than last month's discourse on psionics.  
+Let us turn our minds to the topic and nature of Hit Points.  Yes, I 
+know..... this subject has been thrashed upon more than the proverbial 
+dead horse, but you might find my take on Hit Points rather interesting.  
+	Let me tell you, dear readers, a story of Hit Points.  The story 
+begins with the character creation of two PCs - a fighter and a mage.  
+The player of the fighter wished to play a tough-as-nails warrior, with 
+more focus on physical toughness than brute strength.  So, the player 
+decided to put his lucky roll of 18 into the PC's constitution score.  At 
+the same time, the player of the mage specifically wanted to play a 
+sickly mage, with little in the way of sturdiness.  In this case, the 
+player gave the mage PC a constitution score of 6.
+	Thru many adventures, the two PCs advance to 5th level  Now, you 
+might expect that this stout fighter would have acquired many Hit Points, 
+while the mage would still be vulnerable to being brought down with a 
+single blow.  Not so.  The fighter and the mage, as it turns out, had the 
+same number of Hit Points!  Even with the fighter's exceptional, and the 
+mage's lackluster, constitution, both ended up with 15 Hit Points.  Do 
+the math, my friends - by consistently poor/good die rolls, this 
+situation was made possible.
+	Okay, I'll admit it - this story never actually happened.  But it 
+does serve as an useful example of how the randomness of Hit Point 
+acquisition can go against one's PC characterization.  Does anyone really 
+want to play a Conan-esque fighter, only to roll 1 after 1 for Hit 
+Points?  Or Raistlin when rolling constant 4's?  Presented below is a 
+system to remove some of the randomness of the Hit Point system.  Enjoy!
+
+Revised Hit Points System
+
+	I was wanting to mention my idea about hit points.  WHY roll for 
+random hp?  Do we roll for random THAC0?  Random AC?  Besides a PC's 
+basic stats, hp is the only thing that is randomized in such a way.  I 
+have an idea about a hp chart, the way we already have a THAC0 chart, 
+based upon Con and the average hp produced from the current system.  For 
+example, a fighter gains, on average, 5.5 hp per level advancement at the 
+moment.  On my chart, a fighter would gain 5 hp per level, modified by 
+Con.  An average Con fighter would still gain 5 hp, while a high-Con 
+fighter would gain 14 (max normal by current system - roll a 10 and get 
++4 hp from current Con modifier).  
+
+Table X:  Base Hit Points
+				Level
+Class	1	2	3	4	5	6	7	8	9	10  
+Priest	4	8	12	16	20	24	28	32	36	40  
+Psion	3	6	9	12	15	18	21	24	27	30  
+Rogue	3	6	9	12	15	18	21	24	27	30  
+Warrior	5	10	15	20	25	30	35	40	45	50  
+Wizard	2	4	6	8	10	12	14	16	18	20  
+
+
+Revised Table 3: Constitution HP Adjustment
+
+Con 1-3		base * 0.25
+Con 4-5		base * 0.50
+Con 6-7		base * 0.75
+Con 8-10	base * 1.00
+Con 11-12	base * 1.50
+Con 13-14	base * 2.00
+Con 15-16	base * 2.50
+Con 17-18	base * 3.00
+
+Con 19-20	base * 3.25
+Con 21-23	base * 3.50
+Con 24-25	base * 3.75
+
+From Level 11 onwards, PCs stop using the above chart and gain hp's at a 
+flat rate, as listed below (note that modifiers from Con no longer 
+apply).  If a given PC happens to advance at a slower rate than listed 
+below (for example, an odd weakling of a fighter who normally gains only 
+2 hp per level), continue using the lower rate.
+
+Class		HPs Per Level Past 10th
+Priest			+2
+Psion			+2
+Rogue			+2
+Warrior			+3
+Wizard			+1
+  
+	To serve as the first example, and an extreme example at that, 
+let's look at a 5th level mage possessing a 18 Con.  At 5th level, he 
+would have a base 10 hp.  With his near-godly Con multiplying the base hp 
+by 3, the result is 30 hp for our mage.  Seems like a lot, eh?  Well, an 
+equivalent mage under the standard rules could have 20 hp max (4 hp * 5th 
+level), +2 hp per level for Con, for a total of.... 30 hp!  
+	How about a cleric?  Same conditions - 5th level, Con 18.  Base 
+hp is 20, multiplied up to 60.  A standard cleric could have 40 hp, plus 
+10 hp for Con making a total of 50.  So, my system gives classes other 
+than mages more hp for higher Con scores.  Is that so bad, tho?  As 
+already shown, a warrior benefits from a high Con more so than other 
+classes - why shouldn't *each* class benefit differently?  Shouldn't a 
+Con 18 cleric benefit more than a Con 18 mage, but not as much as a Con 
+18 fighter?
+	While this new system does take out the randomness of hp 
+acquisition, I was thinking of adding another element to stir things back 
+up, while adding more options at the same time.  Dependent upon campaign 
+events, a PC might gain fewer or more hp when rising in level.  For 
+example, a fighter was severely beaten and tortured for weeks, but 
+managed to fight his way out of captivity and, in the process, gained a 
+level.  The DM might declare that, due to extreme punishment, the fighter 
+in question gains fewer hp than normal.  This could be expounded upon as 
+thus: whatever Con score the PC possesses for the majority of the time in 
+the level previous to gaining a new level, that is what the hp adjustment 
+is based upon.  Basically, our theoretical fighter was reduced to a 
+lower Con for the duration of his torture (and for most of his level), so 
+he gets fewer hp.  On the flip side, a mage spending much time in the 
+smithy, making a hand-made sword to enchant, might have toughened up a 
+bit and is rewarded with more hp.
+
+-------------------------------------------------------------------------
+The Quest For Magic (James Williams <mdaly93979@aol.com>)
+-------------------------------------------------------------------------
+PROLOGUE
+RATTLE BRAINED KENDER
+	
+	Tas chased after Flint.  The dwarf was running in a mad dash, 
+trying to put as much distance as possible between himself and that 
+lamebrained kender.  After he died those centuries ago, the old dwarf 
+sort of missed Tasslehoff, but now that the kender was dead and in the 
+sky with him, the dwarf wished that he was still alive.  At least then, 
+Flint thought, he could dream of finally falling into the eternal sleep 
+and not be bothered by any doorknob kender for a while at least.  But 
+now, he'd have to put up with Tas' endless shenanigans for eternity and 
+beyond.
+	"Wait up Flint," the old dwarf heard the kender call.  "I didn't 
+mean to paste your beard to the forge!  Gee, I never knew beards could 
+burn so fast!  It'll grow back though, trust me.  Have I ever been wrong?  
+Well don't answer that.  But I could never be wrong about something like 
+that.  Could I?"
+	Flint stopped and turned to the kender who had caught up with 
+him.  Although the dwarf was only about four and a half feet tall, he was 
+still taller than the kender who was a few inches shorter.  Tas' blue 
+eyes twinkled like always.  His hair, pulled into a topknot, was as 
+brownish gray as ever, and just as bouncy.  His face was adult, yet with 
+the same playful, childlike appearance common to kender.  A face born 
+from the fact that kender could not feel fear.  The one emotion that they 
+lacked. 
+	Tasslehoff held back a laugh, the dwarf did look rather comical, 
+what with his beard barely there what was left singed to an ashen black.  
+But Tas knew that laughing at the dwarf would only worsen his temper.  
+"Finally. . . you stopped," the out of breath kender panted.  "Now, like 
+I was saying, I am really sorry about your beard Flint, I wasn't paying 
+attention to what I was doing. . .  Even though I'm not sure that I
+know what I was doing anyway but I think it had something to do with the 
+action of. . .  Well nevermind that because I guess it doesn't have any 
+importance now does it?. . ."
+	"Tas," Flint grumbled.  "You aren't really this stupid are you?  
+It's all an act right?  To get on my nerves?"  Tasslehoff Burrfoot gave 
+the dwarf the most confused look that Flint had ever seen in his entire 
+living and dead life.  "Nevermind.  Tanis and the others are waiting on 
+us, they said that something wonderful is about to take place down 
+below."
+	"On Krynn!?"  Tas exclaimed, jumping up and down.  "Nothing 
+interesting has happened there since they discovered that new continent, 
+what did they call it, of coarse, New Krynn.  And I couldn't forget 
+about when the dragons created the dragonlings to take the place of the 
+draconians. . ."
+	"Rattle-brained kender," Flint mumbled as they walked on.
+
+CHAPTER ONE
+THE DRAGON COUNCIL
+	Hederah lifted his great old head and peered around the Cave of 
+the Council.  The darkness of the cave would not have made it hard for 
+him to see in his younger days, but now the ancient blue dragon found 
+that his vision had gone bad over the millennium.  He had fought against 
+Huma in the Dragon Wars, he was there when Neraka fell in the War of the 
+Lance, and when the Knights of Takhississ and the Knights of Solomnia 
+fought against Chaos it was his daughter, Flare that the dark knight 
+Steel Brightblade rode.  
+	Now the great wyrm's scales were decaying, falling out along with 
+some of his teeth.  What were once sharp talons were now bent and dull.  
+His great wings now had begun to shrivel.  His flanks were covered in 
+scars that proved that he was once a very powerful foe in a fight (for 
+this reason he was often known to boast of these scars).  He could once 
+use his deadly lightning breath to bring down the side of a small 
+mountain and wreak havoc on the countryside.  Now he could barley let 
+lose a small spark.  And the great memory of a dragon would never be of 
+use to him again because it had dwindled to almost nothingness. Yet the 
+dragon's absent mindedness did not hinder Hederah from making wise 
+decisions.  It was amazing that even though he could remember less and 
+less everyday, the great blue seemed wiser and wiser too.  
+	Hederah's great age made him highly respected in the Dragon
+Council.  He was after all the eldest dragon in the council and therefore
+the eldest dragon on Krynn.  What he decided usually was what happened in
+the council.  It was on few occasions that a dragon would rival Hederah's 
+will.  It was often a young dragon who was foolish enough to say 
+something.  This naive dragon was always quickly reprimanded by his
+elders or even his peers.
+	The Dragon Council only met a few times a year and today was one
+of them.  Hederah watched as the dragons began to arrive, both from
+within and outside the cave.  Those who arrived from inside the cave were 
+other leaders of the council like the great blue himself.  All of the 
+council leaders were great wyrms like Hederah too.  There was one for
+each dragon color.  The oldest dragon was always the one who was picked 
+to represent their hue.  Hederah of course represented the blue dragons.
+	The younger dragons came from outside the Cave of the Council.
+Every dragon on Krynn was present.  Blue, red, black, green, white, gold,
+silver, brass, bronze, copper, sapphire, amethyst, crystal, topaz, 
+emerald, mercury, steel, yellow, brown, deep, cloud, and shadow.  All 
+were present when the Dragon Council called a meeting.
+	The dragonlings, a race created from altered dragon eggs were
+arriving with their dragon cousins.  They were created from red and blue, 
+silver and mercury, cloud and mist, and sapphire and amethyst dragon 
+eggs.  One hundred eggs from a clutch laid every hundred years were 
+chosen from these dragon types to become dragonlings.  The dragon parents 
+of dragonlings were always proud parents because it was considered an
+honor to have your eggs chosen.  Dragonlings were respected and treated
+as if they were normal dragons (even though the biggest dragonling was 
+fourteen feet tall and the smallest dragon was ninety feet long).   
+	Some non-dragons were present as well.  Humans, elves, and 
+dwarves were present.  Some kender tried to get in but most were
+turned away, politely, at the entrance.  The races new to the people of 
+Ansalon were present as well.  The coama, a four armed race of which all 
+were female, great warriors, and could rival the elves in beauty.  The
+riconus, a strange barbarian like people with the shape of a powerfully
+built humans but the head of a rhinoceros.  
+	These races were present for different reasons, some to report a 
+rogue dragon plaguing the countryside.  Others - especially the coama and
+dwarves - were here to do business with the greatest creatures of Krynn.
+And others still were only present for curiosity, the want to see what 
+went on in one of the fabled dragon meetings.  Because of dragon fear (a 
+powerful fear that all dragons emitted on non-dragons that left the 
+victims screaming in sheer terror), there were only a few non-dragons in 
+the great cave.  These were some of the bravest of their races.  The 
+dragons gave a small respect to these people because the force of their 
+will had to be very strong to overcome the powerful effects of dragon 
+fear.
+	After all the dragons and those non-dragons were present and
+quiet, Hederah prepared to start the council meeting.  The dragons were
+seated by color, each color had a councildragon who would voice their
+clan's desires and opinions about anything brought up in the meeting to
+the rest of the council.  The blue dragons would start, and then the
+golds, reds, sapphire, and so forth, until the mercury dragons had 
+spoken.  Then it would be the mortals turn.  The dragonlings were
+considered part of what ever color they were.
+	"This meeting of the Dragon Council is called to order," said
+Hederah, known to mortals as Flash.  "I Flash will speak for the blue
+dragons."  He turned his old snake-like head to those of his color.  Then 
+he said, "This year I understand that everything is basically alright 
+with all the other dragons except for a mear boundary dispute between the
+reds and the silvers.  Could councildragons Magmus of the reds, and
+Silvara of the silvers speak for your colors?" 
+	Magmus and Silvara stepped forth.  They were both relatively
+young for councildragons each in their early nine hundreds.  Both had
+claws that were still many times sharper than the tips of men's spears.
+They were covered in scales of red or a dull silver that served as armor
+against swords and arrows.  They were both fine physical specimens.  
+	"Flash," both said bowing their necks in respect.  The great blue
+gave each a salute of recognition and instructed them to continue.
+	"The red dragons believe that the silver dragons have been
+disobeying the boundry pact between us."  Magmus said to the council.
+"Twice have I heard from some of the other reds that they have seen
+silver dragons flying over our lands.  That is our report lord Flash."
+	"And what do you have to say to this account Silvara," asked
+Hederah.  "Do you have an arguement for the council?"
+	"Yes O' Flash," Grayscale repied.  "It is true that I and some of 
+my sisters and brethren flew over red dragon territory.  But we did not
+hunt any game, be it treasure or food on your lands.  We were simply
+escorting someone from the Khalkist Mountains to Tanser.  That is all my
+lord."
+	"May the council take record," Flash commanded.  "That I Flash
+have decided that the silver dragons were within their rights flying over
+the Plains of Dust, a red territory. But because they did not first
+inform the red dragons of their plans, they must give the red dragons 
+some sort of token, to show that they meant nothing of it."
+	"That has been officially recorded lord Flash," said a dragonling
+scribe.
+	Bowing to Hederah in respect, Grayscale and Magmus returned to
+there places.
+	After the mortal races finished trading with the council, Hederah
+prepared to dismiss, when a small voice was heard in the ranks of the
+silver dragons. "O' lord Flash," the female voice said.  "May I make a
+request?"
+	Hederah turned to the source of the voice.  Two figures, one only
+about five and a half feet tall, the other a foot and a half shorter
+stood at his gnarled feet.  These two, out of every mortal in the entire
+Cave of the Council, were every dragon's favorite.  Aletta, the coama 
+warrior, found while still a baby, by a silver dragon in the wilderness,
+and Witchet Pouchbringer, the kender that was found in the same manor by
+a mercury dragon.  Both were raised in the council and were considered
+part of it.  Because of their long existence around dragons, neither were
+overcome by dragon fear when confronted by the mighty creatures.
+	"What is it my child?"  Hederah asked the caoma, calling her
+child even though she was seventy nine years of age.  Still young for
+the caoma but only a fragment of time for the ancient dragon.  He was
+very fond of this one, she had accomplished something that only silver
+dragonlings had accomplished, becoming a draco-paladin.
+	"If it isn't to much trouble my lord, I would like to make a
+request to the council."
+	"You know that you are respected here as if you were a dragon
+yourself, speak child."
+	"Thank you.  Today I was in the Dragon Library and I think I
+might have found a lead to magic on Krynn.  I mean other than the
+magic that you dragons have.  I am talking about magic that everybody
+can use."
+	"And I helped!"  Witchet shouted, jumping up and down.  
+	"And the kender helped too," Aletta sighed.  "But anyway, I was
+wondering if I and a few dragonlings-"
+	"And me too!"
+	"Yes, and you too Witchet.  But I was wondering if we could
+quest for this source of magic.  It could be useful to the council and
+the rest of Krynn if the other races like my own could possess magic
+again."
+	"I am well aware with the possibilities," said Hederah.  "But I 
+
+am not sure if I like the idea, we will discuss this later, assemble 
+your party and we will talk after dusk."
+.   .   .
+	The red glow of the setting sun outlined Aletta's lithe body.  
+Her hair cascaded down to the small of her back, framing her beautiful
+face with bright silver strands.  The sun made her smooth oak brown skin 
+seem a light orange.  Her four arms were crossed across her chest in a 
+serious manor as she looked over her party.
+	Next to her stood Witchet, the kender was incredibly restless, 
+all this waiting around for Hederah to show up so that he could decide 
+wether or not he was going to let them try to find magic or not was 
+incredibly boring him.  He'd much rather be trying to figure out what 
+makes a dragon have a breath weopon.  Or maybe finding out what would
+happen if you pulled the ring out of a minotaur's nose.  But he knew that 
+if he went off adventuring  he might miss out on this one so he'd just 
+stay for a while and see what would happen.  
+	Looking around the party, Witchet noticed something, he and 
+Aletta were the only non-dragonlings.  There was Myst, a cloud 
+dragonling.  He was the largest of the dragonlings, maybe fourteen feet 
+tall, Witchet thought to himself, he never was good at judging size.  
+Myst was covered in four inches of red-orange scales not too easily 
+penetrated.  He had a serious demenour to him, and was easily aggravated,
+especially (though Witchet knew not why), when the kender was around.  
+One time Myst tried to rip Witchet's throat out, just because he tried to
+capture Myst in a bottle when he was in cloud form, an ability cloud
+dragons and dragonlings possesed.
+	Then there was Firestrike, the only crossbreed dragonling ever.  
+His mother was a red his father a blue.  Firestrike had mainly blue
+scales, but also red streaks here and there, especially around his eyes.
+The most interresting thing about Firestrike, thought Witchet, was that
+his breath weopon was a bolt of lightning like a blue dragon, but it was
+surrounded by a red flame, like the fire breath of a red.
+	Sterling, a silver dragonling stood close to Aletta.  He, like 
+her was a draco-paladin.  His posture was proud and he stood tall.  Like 
+Aletta he crossed his arms around his massive chest.  He looked only 
+straight ahead, if he was anxious he wasn't showing it.  The disipline of 
+a draco-paladin shown brightly through him, like the beacon of a light
+house on a stormy night in the Sea of Istar.  The only movement that he 
+made was to blink, and to caress the hilt of his mighty sword with his 
+silver scaled hands that ended in five inch long talons.
+	And of course, Witchet's favorite dragonling, the one who he 
+viewed as a kender in a dragonling's body, Rellium.  Rellium was a 
+mercury dragonling.  Mercury dragons and dragonlings were shunned by the 
+other dragons and dragonlings for being too playful.  They were extremely 
+kender like, in that they were very immature, wreckless, and nothing
+held their attention very long, usually about three minutes.  What made 
+them even more annoying was that when they spoke, it was ten times faster 
+than a normal speed so other dragons and people had to ask them to repeat 
+it and slow it down so that they could understand what they were trying 
+to say.
+	Witchet and Rellium had always been together since they knew each 
+other.  They often left Dragon's Rock to adventure to the far corners of 
+Krynn.  Usually, this was without the perrmision of the rest of the 
+council which tended to get them into alot of trouble with Hederah.  But 
+usually they just figured that Hederah was having a bad day so they would 
+stay inside Dragon's Rock for a few days then repeat the prosses.
+	"Hederah takes too long," Witchet sighed, looking up until he 
+nearly broke his back to see his friend's face.  "You know we could be 
+out doing something worth our while right now."
+	Rellium smiled then said, "But nooo we have too wait on a two 
+thousand year old dragon, to get permission to go off on an adventure, 
+when Hederah doesn't really care anyway.  I mean all those times when we 
+left without permission all he did was yell, and threaten to fry us with 
+his dragon breath.  And I don't think he was serious anyway, but I would 
+like to find out what that feels like."
+	"Shut-up you two,"  Myst growled.  "Quit complaining, Hederah 
+will get here when he does, and hopefully if he does let us search for
+magic, he'll make you two stay behind!"  Witchet and Rellium silenced-
+for about three minutes, and then began to chatter quietly amongst
+themselves.
+	"I do wish that Hederah would hurry up though," Firestrike 
+whispered.  "I grow weary of all of this waiting."
+	"Then wait no longer," came an old, raspy voice.  "I Hederah have 
+arrived."
+	"And it's about time too!"  Exclaimed the kender.
+
+* Characters from the Dragonlance Saga, created by Margaret Wice and
+Tracy Hickman, published by Random House.
+
+-------------------------------------------------------------------------
+Earl's Word (Earl Harrison <dungeonm@si-net.com>)
+-------------------------------------------------------------------------
+	Borg & Timothy had searched many weeks for any clues they could 
+obtain that would lead them to the lair of the great wyrm.  They stood at 
+the edge of the mountain gazing up the sides trying to find a glimpse of 
+the large hole in the mountain that the dragon called its home.
+	"THERE!" exclaims the over joyous thief, Timothy.  "There just 
+above the cliff three-quarters up to the left." "That is what we are 
+looking for!"
+	The thief latched onto the back of the broad barbarian as he 
+began to climb the rock face of the mountain.  The barbarian did not seem 
+at all encumbered by the weight of the halfling as he made great leaps 
+and bounds up the mountain.
+	After many hours of climbing the barbarian hurled the thief onto 
+the ledger just facing the lair of the dragon.  Borg finally climbed over 
+the edge, then stood and brushed himself off onto the now dust-free thief.  
+So once again Timothy dusts himself off all the while snarling and 
+cursing at the bigger man.
+	Swiftly and quietly a large two-handed broad sword is lifted out 
+of its resting place to gleen brightly in the sun. Two small daggers, 
+both dull, are pulled from unknown hiding places on the body of the 
+halfling thief.  "Let's Go" commands the barbarian.
+	As they enter the cave the stench almost becomes unbearable.  
+After several more minutes of traveling into the cave the barbarian 
+begins feeling the walls to find his way when light appears from a gem 
+that the halfling has clutched in his tiny little hands. "Humans!" 
+exclaims the thief in a very disgruntled voice.
+	When out from the earth jumps a very large creature. He gazes 
+upon the two heroes with no effect.   A few claw and pincher attacks and 
+the creature must now defend himself.  Three swift and powerful strokes 
+of the sword and the Umber Hulk lays at the feet of the powerful 
+barbarian. "HA" laughs Borg as he lifts the corpse into the air and throws 
+it into the hole that it had created to get the surprise on the two 
+scavengers.
+	A few more twists and turns and just yards in front of the two is 
+more riches and treasures than they could ever hope to carry from this 
+place.
+	"THUD!" a huge red claw comes crashing down just inches from the 
+thief who had been trying to sneak into the chamber and slip off with a 
+few goodies before the real action began.
+	Borg leaps into the air. Turns his ring and the confidence swells 
+in him.  A few well placed sword hits and the dragon rocks back onto its 
+hind quarters.  The thief jumps into the fray only to miss his first 
+attack and the other dagger goes flying off into the darkness of the 
+cave.
+	The dragon rears back and belches forth a great blast of fire. 
+Borg only laughs it off and then jumps into the dragon's face for another 
+three strong strokes with the broad sword.  After the second hit the 
+dragon attempts a getaway, but the third and final attack strikes true 
+and the dragon slumps to its death.  Our heroes have defeated the great 
+wyrm.
+	"Timothy" Borg cries into the darkness "You can come out of your 
+hiding place!"
+	There is no answer. For several moments the barbarian searches 
+for his tiny friend. He finds his friend burnt beyond recognition.  He 
+had taken the full blast from the dragon's breath weapon and was not as 
+lucky as the powerful barbarian.
+
+	The above scenario could be played out on any given Saturday at 
+any DM's home, except ONE! MINE!  If you would like to know how to scare 
+your players and have them packing their books and grabbing their dice 
+and heading for the door with the mere mention of the word dragon then 
+read on.  The average great wyrm has lived for over 750 years and 
+destroyed countless treasure raiders, how else do you think they get all 
+of their wealth, villages and castles in their days.  How many players do 
+you know that can boast about these things?  Not many!  Therefore a 
+dragon should have countless more powers and hit points than the players 
+do.  If played "by the book" then the Umber Hulk at the beginning of our 
+little adventure could have a real good shot at the dragon.  But…
+Upon consideration by myself and my group we have decided that by adding 
+two zeros to the end of the dragon's hit dice the creature now becomes 
+the opponent that you have only heard about in fantasy books and legends.  
+I know some of you out there are saying "If you would play the dragon 
+correctly then you would not have to do that." Okay let's examine this. 
+Let's take the following character against any 15 HD dragon that you have 
+lying around in your campaign.
+
+BORG: level 15 barbarian with a CON of 18.  That equals 180 hp plus the 4 
+hp that he gets for the high constitution which equals a grand total of 
+240 hp.  Als give our hero an 18/00 STR, that gives him a +3 to hit and +7 
+damage. We can't forget the +4 chain armor and the ring of fire 
+resistance.  Oh don't forget the +5 two-handed broad sword.  Now your 
+little dragon has a very powerful enemy to fight.  According to the 
+Monster Manual you roll an 8-sided die to figure hp for a monster.  With 
+this in mind our 15 HD dragon can only have 120 hp when the dragon 
+belches his breath weapon the most hp that Borg could take would be 60, 
+remember the ring.  If the saving throw is made then that number is now 
+30.  Not a very powerful attack from such a noble creature.  Lets take 
+out hero and lets see the damage that he can dish out.  3 attacks with a 
+broad sword at 3d6+12, which comes out to about 30 hp/shot. Now combine 
+the other 2 attacks and we have 90 hp of damage for the lowly humanoid 
+that the dragon despises so much.  Next round the breath weapon is now 
+only 30 hit points of damage at the MAXIMUM!  Borg makes his saving 
+throw and he only takes 7 hpd! OUCH HURT ME! 
+Borg attacks and now the maid is cleaning up the mess.  My little idea no 
+longer looks so dumb.  Even calculating the dragon's hp and adding one 
+zero to that still makes the dragon a very powerful opponent.  The dragon 
+is the heart and soul of the game. Hence the name.  Where there are evil 
+dragons there are good ones. The same rule applies to these as well.  To 
+make them even more powerful seek out the handbook "Dragonomicon".  The 
+dragon spells alone are worth the price of the book.  Death's Door, one 
+of the spells, drains 50 levels from your player characters, as they walk 
+thru it, before it becomes inactive.  Try attacking the dragon now after 
+your 20th level characters are now all 6th and 7th level.  Dragons can be 
+very powerful allies or they can be very powerful enemies.  It is all up 
+to the way the DM play them and the way the players treat them.  It is all 
+up to your group to decide how to handle them.  The next time you throw a 
+dragon at your players give my little idea a try and see if the outcome 
+is a bit different than the players had planed.
+
+Next time I will come down to earth a bit and tell you how to chase 10th 
+level characters out of the kobold lair.
+
+Please send any comments, questions or even answers to
+					dungeonm@si-net.com
+
+-------------------------------------------------------------------------
+Monthly Classified Ads
+-------------------------------------------------------------------------
+	Currently no one has come up with something to put in the 
+classifieds for the club.  Remember, you can put anything here that you
+want.  If you're looking for a pen pal, a game to play, etc. just e-mail
+me and I'll put it up here for you.  Remember, everything in the club is
+free to members.

@@ -1,0 +1,199 @@
+
+From bobrankin@mhv.net Wed May 22 02:17:08 1996
+Date: Wed, 22 May 1996 00:01:20 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 21 May 1996 - Net Surf Central
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /     Be the first web-surfer on your block to own an  |//////|    |
+ | ultra-cool WorldVillage T-shirt. For more info visit |//////|    |
+ |        http://www.worldvillage.com/tshirt.htm        |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP    : Net Surf Central
+TODAY'S TOURBUS ADDRESS : http://www.hotwired.com/surf
+
+As I mentioned last week, today's tour comes to you from the folks that do
+HOTWIRED, the online companion to the printed WIRED magazine.  Our guest
+driver will be June Cohen, one of the editors at HOTWIRED.  But first,
+a brief message from one of the sponsors who make TOURBUS possible...
+
+*----------------*  BIG-TIME MAGAZINES FOR $10 A YEAR?  *----------------*
+    Magazine Express has exclusive TOURBUS discounts others can only
+   dream about. Plus, Dr. Bob's new "Internet Goodies" is FREE.  This
+    is a limited time offer, so get details now by sending email to:
+*-----------------------( tourbus@magazines.com )------------------------*
+
+Howdy, and welcome aboard the TourBus.  I'm June Cohen (hometown: HotWired)
+and today - I'm driving.
+
+So who am I?  Well, I've been writing the Net Surf column for HotWired
+since the site first launched in October, 1994, so I've been around the
+net surfing block a few times...
+
+The Net Surf motto has always been "We waste our time so you don't have
+to," and I can tell you - with a strange mixture of pride and
+embarassment - that we live up to it.  :-) We spend our days checking
+out new sites, monitoring our old favorites, and poking around the Net's
+dark, dusty corners - all in the name of bringing our readers everything
+they need to know about the Web.
+
+But until now, we had a serious problem: There was no way to access past
+Net Surfs.  Since we didn't have an archive system, people were limited
+to the 10 reviews we had displayed at any one time, and if they joined
+us late in the game or lost a URL, well, they were in a pickle.
+
+So we thought and thought and thought about how to let people search
+through our old reviews for the kinds of sites they wanted - without
+turning Net Surf into another boring old list of links.
+
+This is what we came up with --> http://www.hotwired.com/surf/
+
+The first thing you'll see (at the top of the page) is our title and tag
+line - "Net Surf Central: The good, the bad, and the utterly useless" -
+which should give you an idea of what you're getting yourself into.  ;-)
+
+Like its predecessor, Net Surf Central is updated every weekday, with
+the newest blurb appearing on at the top of the right-hand panel when
+you first enter the site.  But the left-hand panel is what's new and
+noteworthy.  Consider it your ticket to all the sites we've reviewed in
+the past that are still worth your time (and some that never were).
+
+Most directories - like Yahoo, Magellan, or c|net's Web reviews -
+categorize sites by their subject matter (arts & entertainment;
+computers; sports; etc).  This scheme is easy to understand - since it's
+borrowed from the library - but it never quite worked for us.  After
+all, Web sites aren't books, and most of them don't fit into tidy little
+card catalog categories.  Dewey Decimal just didn't account for sites
+like the World Birthday Web, or Project Denny's.  And where would you
+file something like the Random Haiku Generator?  Poetry?  Philosphy?
+Humor?  Games?  It's a tricky business indeed.
+
+So we spent a lot of time analyzing how we think about Web sites, and
+how we can best help you find the kinds of sites you'll like.
+Eventually, we chose five search methods (genre, adjective, keyword,
+date, title) that we find useful, and set out to categorize sites
+accordingly.
+
+One by one, we looked at every site in the Net Surf Central database,
+and decided what genre it belongs to (hangouts, fan pages, exhibits
+...), what adjectives describe it (nostalgic, bitter, flirty ...), and
+which keywords best sum up its subject matter (cooking, pets, Dilbert,
+and so on).
+
+To get started searching, just click on a button in the left-hand panel,
+and a scroll window will appear, showing you all your options (for
+instance, the "Adjective" button will display all the adjectives you can
+choose from).
+
+After you enter a search, your results will appear as a collection of
+reviews - rather than a list of links - because, well, we think that's
+more fun.
+
+So take a few minutes and play with it.  Enter searches for Soap Operas,
+or "flirty" sites.  Go ahead, no one's looking.  And no visit to Net
+Surf Central is complete without a stroll through the Graveyard.  (You
+can get there by clicking on "Graveyard" in the left-hand panel, or by
+just entering the URL --> http://www.hotwired.com/surf/graveyard.html
+
+The graveyard (as you'll soon see) is where tired sites are put to rest,
+after they've outlived their usefulness in Net Surf Central.  Some sites
+- like the "Mercury Project" - retire gracefully because the project
+drew to a close; others, like the Simpsons' Site - die slow, lingering,
+shameful deaths, as we wait and wait, and hope against hope that their
+Webmasters will see fit to update them.
+
+Now, that's about all there is to Net Surf Central, but before I hang up
+my tour bus driver's hat, let's take a few of those search terms one at
+a time, shall we?
+
+What do we mean by keyword?
+
+  If you know what you're looking for (that Dilbert site: what was
+  the URL again?), you can do a quick and dirty keyword search.
+  But the other ways are more fun.
+
+What do we mean by adjective?
+
+  What are you hungry for? Something personal or political?
+  Silly or serious? Bitter or idealistic? The adjective search
+  will help you narrow down your desires, and satisfy them.
+  Give it a go. It's my favorite way to fly.
+
+What do we mean by genre?
+
+  Video stores would never organize their movies solely by
+  subject, and neither should Web directories. Like films,
+  Web sites are best classified by genre. Problem is: Web
+  site genres aren't well-established, and until now,
+  there hasn't been a vocabulary for them.
+
+  So we took the first stab at giving a name to the sites
+  we surfs. Some of the genres, like Reference, News, and
+  Kids' Stuff are self-explanatory. Others, like "exhibits"
+  are a little more opaque. So here's a basic run-down of
+  the tricky ones:
+
+  Exhibits: Any site that could be a museum exhibit, provided
+  you could find the right (read: goofy) museum. Example: The
+  Abandoned Missile Silo Tour
+
+  Fan pages: Web-based shrines that fans build to honor the
+  people, places and things they adore. Example: Elvis Presley
+  Home Page
+
+  Hangouts: Sites where people can talk to each other through
+  some kind of chat or discussion area. Example: Firefly
+
+  Kitsch: everything that didn't fit anywhere else.
+
+Well, that brings us to the end of today's tour, but before I send you
+off to play in the grassy fields of Net Surf Central, let me tell you
+how to get in touch with us.  If you have a site you'd like us to take a
+look at, send a note (with the name of your site and the URL) to
+"hotsurf@hotwired.com".  We get a lot of mail but still, we'd love to
+hear from you.
+
+Over-n-out,
+June
+
+*----------------*  Win the $1 Million Dollar Giveaway!  *---------------*
+ Enter in the PrizeLINK Progressive Jackpot Sweepstakes At Web Warehouse
+ mall!  Play the Browse & Win game, with a chance to Win up to a COOL $1
+    Million!!  Web Warehouse Shopping Mall offers a wide assortment of
+  quality consumer items and services ranging from jewelry to music CDs.
+     Stop by today and take advantage of the Special Monthly Savings!
+*-----------------------( http://webwarehouse.com )----------------------*
+
+*--------------*  EARN COLLEGE CREDITS WITH ONLINE COURSES  *------------*
+ Bring the classroom to your room!  University of Wisconsin-Stout online
+ courses let you learn in your own place and time.  For more info, point
+   to http://major.uwstout.edu or send e-mail to "conted@uwstout.edu".
+*------------------------------------------------------------------------*
+
+
+Hope you enjoyed our guest driver today.  Be sure to visit the HOTWIRED
+website and check out Net Surf Central.  They recommend a web browser
+that can handle frames (such at Netscape v2), but if yours doesn't it
+should still look OK.  See you next time!  -- Bob
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+               June ad openings are available - reserve yours now!
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

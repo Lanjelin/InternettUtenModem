@@ -1,0 +1,64 @@
+Subject: Internet Domain Survey, Jan 1996
+Date: 19 Feb 96 04:50:04 GMT
+
+Hi -
+
+The January 1996 Internet Domain Survery has finally been finished.
+A short summary is below, the details and all can be found on www.nw.com.
+
+-Mark
+-----------------------
+
+Internet Domain Survey            Network Wizards                January 1996
+
+ The Domain Survey attempts to discover every host on the Internet by doing
+ a complete search of the Domain Name System.  The latest results gathered
+ during late January 1996 are listed.  For more information see RFC 1296;
+ for more data see the zone directory on ftp.nw.com, or http://nw.com.
+                                                               -- Mark Lottor
+
+
+   Number of Hosts, Domains, and Nets Advertised in the Domain Name System
+
+                                      Replied      Network Class
+     Date  |      Hosts   Domains     ToPing*      A     B      C
+     ------+-----------------------------------------------------
+     Jan 96|  9,472,000   240,000   1,682,000     92  5655  87924
+     Jul 95|  6,642,000   120,000   1,149,000     91  5390  56057
+     Jan 95|  4,852,000    71,000     970,000     91  4979  34340
+
+
+                Host Distribution by Top-Level Domain Name
+
+   2430954 com     24945 pl       1631 lv         93 zw         19 jo
+   1793491 edu     22769 sg       1557 int        90 sm         17 pk
+    758597 net     20113 br       1495 cr         88 lb         17 ke
+    452997 de      17693 hk       1233 kw         88 gl         16 dz
+    451750 uk      16786 cz       1165 ve         82 tn         14 sn
+    372891 ca      15036 ie       1013 bg         77 am         11 na
+    312330 gov     14320 ru        954 ro         68 mt         10 md
+    309562 au      13787 mx        813 pe         66 bo         10 ad
+    269327 jp      11486 hu        788 in         65 mo          9 sb
+    265327 org     11481 su        630 lt         60 ge          7 aq
+    258791 mil      9359 pt        626 uy         58 ug          6 lk
+    233912 us       9027 cl        608 bm         56 mc          6 gh
+    208502 fi       8787 gr        591 eg         55 tt          3 ci
+    174888 nl       8719 is        533 fo         55 gu          2 va
+    149877 se       5870 si        504 ec         52 fj          2 gn
+    137217 fr       5345 tr        384 cy         44 li          2 bb
+     88356 no       5312 ar        365 ae         42 ky          1 to
+     85844 ch       4194 my        276 bs         39 mk          1 sz
+     73364 it       4129 ee        271 ir         37 gb          1 nc
+     53707 es       4055 th        234 ma         36 al          1 et
+     53610 nz       2913 sk        187 kz         35 uz          1 cu
+     52728 at       2351 id        164 jm         27 sa          1 ck
+     51827 dk       2318 ua        160 ag         27 gt          1 bz
+     48277 za       2262 co        156 bn         26 gi          1 az
+     30535 be       2230 hr        148 pa         23 sv
+     29503 il       2146 cn        142 bh         23 by
+     29306 kr       1771 ph        141 ni         23 ai
+     25273 tw       1756 lu        139 do         19 np
+
+
+
+------- End of forwarded message -------

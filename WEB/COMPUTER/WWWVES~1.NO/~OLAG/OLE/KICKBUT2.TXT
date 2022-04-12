@@ -1,0 +1,31 @@
+******************************************************************************
+ K  K   I    CCC     K  K   BBBB    U   U   TTTTTTT   TTTTTTT      222
+ K K    I   C    C   K K    B   B   U   U      T         T        2   2
+ KK     I   C        KK     BBB     U   U      T         T           2
+ K K    I   C    C   K K    B   B   U   U      T         T         2
+ K  K   I    CCC     K  K   BBBB     UUU       T         T        22222
+********************************************* made by the HeadAche ***********
+* WAD info *
+Single player   : No
+Cooperative     : No
+Deathmatch      : Yes!
+New stuff       : No
+
+* Build info *
+File name       : kickbut2.wad
+Build time      : 2-3 hours
+Editor          : EdMap 1.31
+Bugs            : Don't hope so.
+
+Comments        : You might have thought that kickbutt.wad was a little bit
+                  small and boring, so this one is slightly bigger, and much
+                  better. There are of course 4 Deathmatch starts, lots of
+                  weapons, ammo and health. There is a soulsphere(supercharge)
+                  and a megasphere.
+
+
+E-mail:         sg-3data@online.no
+Homepage:       http://www.vestdata.no/~olag/ole/
+Doompage:       http://www.vestdata.no/~olag/ole/doom2.htm
+
+

@@ -1,0 +1,132 @@
+
+From crispen@campus.mci.net Fri May 31 00:36:47 1996
+Date: Thu, 30 May 1996 19:17:45 -0700
+From: Patrick Douglas Crispen <crispen@campus.mci.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS -- EXPO -- 30 MAY 1996
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /  Get FOUR FREE CD-Roms at Worldvillage! Point your   |//////|    |
+ |  browser to http://www.worldvillage.com/citizens.htm |//////|    |
+ |                   to find out how.                   |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+TODAY'S TOURBUS STOP      : EXPO
+TODAY'S TOURBUS ADDRESSES : http://sunsite.unc.edu/expo/
+                            http://sunsite.unc.edu/expo/expo/overview.html
+
+As hard as this is to believe, today's TOURBUS post is late because your
+fearless bus driver got incredibly lost last night.  I was at the Alabama
+state capitol in Montgomery yesterday giving a speech about the Internet.
+Unfortunately, due to a minor directional mistake on my part, on my return
+trip from Montgomery to Tuscaloosa I sort of ended up in the town of Union
+Springs.  (For those of you who, like me, know nothing about Alabama
+geography, let me just add that this is equivalent to traveling from Paris
+to London and accidentally ending up in Rome)  So, what should have been a
+90 minute drive from Montgomery to Tuscaloosa turned into a 3 and a half
+hour trek.  Whoops! :)
+
+On a less embarrassing note, I recently heard from the folks who are
+running the CYBERSPACE LAW workshop (TOURBUS, 29 Feb. 96), and they told me
+that their workshop will start in the next couple of weeks.  Also, for
+those of you who are interested in the Roadmap96 workshop (TOURBUS, 2 May
+96), the beta testing started today, and the first workshop will begin on
+June 13 instead of June 6 (I had to push the start back seven days so I
+could have time to solve a pretty weird UNIX LISTSERV problem).
+
+*---------------------*  THE NOODLES ARE COMING!  *--------------------*
+  The Flying Noodle has a cool collection of gourmet pastas and sauces
+ on-line. Mention The Tourbus and we'll take $5 off any order over $20.
+*--------------------( http://www.flyingnoodle.com )-------------------*
+
+Today's TOURBUS stop is EXPO, an online series of exhibits collected from
+material at the Library of Congress.  You'll need a graphical Web browser
+like Mosaic, Netscape, or Internet Explorer to see all of the art and
+graphics at EXPO, and the EXPO homepage is on the Web at
+
+     http://sunsite.unc.edu/expo/
+
+EXPO has been around for as long as I can remember, and EXPO remains one of
+my favorite Internet resources anywhere!  When someone asks me to show them
+some neat stuff on the  Internet, I almost always point them to EXPO.  Why
+is EXPO so cool?  Well, EXPO allows you to view images and documents from
+the following Library of Congress exhibits on your own computer screen:
+
+        * Rome Reborn: The Vatican Library and Renaissance Culture
+        * The Soviet Archive Exhibit
+        * The 1492 Exhibit (Columbus "discovered" America in 1492)
+        * Scrolls from the Dead Sea: The Ancient Library of Qumran and
+          Modern Scholarship
+
+ROME REBORN: THE VATICAN LIBRARY AND RENAISSANCE CULTURE presents some 200
+of the Vatican Library's most precious manuscripts, books, and maps.  The
+SOVIET ARCHIVE EXHIBIT is the first public display of the hitherto highly
+secret internal record of Soviet Communist rule.  1492: AN ONGOING VOYAGE
+examines the first sustained contacts between American people and European
+explorers, conquerors and settlers from 1492 to 1600.  The exhibition
+SCROLLS FROM THE DEAD SEA: THE ANCIENT LIBRARY OF QUMRAN AND MODERN
+SCHOLARSHIP brings a selection from the scrolls which have been the subject
+of intense public interest.
+
+Cool, huh?
+
+There are two ways to "tour" EXPO.  The first way
+(http://sunsite.unc.edu/expo/) is pretty hokey, with pretend ticket offices
+and shuttle busses.  Since EXPO is free, and the tours are self-guided, you
+can avoid the hokiness by going directly to
+
+     http://sunsite.unc.edu/expo/expo/overview.html
+
+This will give you an overview of each of EXPO's main exhibits.  Once you
+enter an exhibit you will be shown a list of every item available in that
+exhibit.  This allows you to directly view the  items that you want to look
+at, without forcing you to download and view a whole bunch of other images
+that don't interest you.  By the way, if you ever want to leave an
+exhibit's "overview mode" and take the "grand tour," just click on the
+words "introduction" or "exhibit's introduction."
+
+If you are looking for one of the best resources on the Net, EXPO is for
+you.  EXPO's link is sometimes slow, but the information available in
+EXPO's exhibits is well worth the wait :)
+
+Have a safe and happy weekend!
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+AIGS - Noun. Preborn chickens.
+BECKON - Noun. A pork product.
+PLAY-IT - Noun. A serving device.
+Usage: "Git me a play-it of beckon and aigs, juhere?"
+
+(Special thanks goes to Damon Rarey for today's wurd)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \  *NEW ADDRESS* crispen@campus.mci.net *NEW ADDRESS*
+    |-| '-' \    }      http://ua1vm.ua.edu/~crispen/crispen.html
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

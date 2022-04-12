@@ -1,0 +1,104 @@
+
+From bobrankin@mhv.net Tue Jun  4 08:49:03 1996
+Date: Tue, 4 Jun 1996 01:23:04 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 04 June 1996 - Time & Money
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /  Looking for some good, clean chat on the internet?  |//////|    |
+ |  WorldVillage Chat always has friendly folks, great  |//////|    |
+ |  conversation, and special games six nights a week!  |//////|    |
+ |  http://www.worldvillage.com/wv/chat/html/chat.htm   |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : Time & Money
+
+Time and Money...  Usually we can't get enough of either.  So today
+I've got some nifty Web tools that should help you manage both of
+them better.  And along those lines, you might want to check out the
+online course offerings from our sponsor...
+
+*--------------------------*  ONLINE COURSES  *----------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*--------------------------------------------------------------------*
+
+First we'll look at some sites on the World-Wide Web that'll help you
+keep track of the time at home and around the world, then we'll try out
+some currency conversion tools.
+
+
+* The World Clock
+  http://www.stud.unit.no/USERBIN/steffent/verdensur.pl
+
+The World Clock is a service based in Norway that lists current local
+times all over the world.  So if you have a desire to know what time it
+is in Melbourne, Montreal or Moscow, this is the place.
+
+The convenient tabular format is updated every five minutes, and it also
+points out that not all timezones are one hour apart.  Some differ by
+thity minutes and others are only offset by a quarter hour!  If you're
+not familiar with any of the listed cities, click on the "Cities Location"
+link to view world map with the cities labelled.
+
+
+* Date & Time Gateway
+  http://www.bsdi.com/date
+
+This service from Berkeley Software Design, Inc.  presents a different
+view of the same subject.  Here you can click on a big list of cities
+and geographic areas to find the local time in that area.  This is a
+good site to visit if you don't know the exact town or city for the area
+in which you are interested.
+
+
+* Add A Clock To Your Web Page!
+  http://tycho.usno.navy.mil/howclock.html
+
+This is a fun one if you've got your own web page.  The U.S. Naval
+Observatory operates the Directorate of Time, which is the official
+source of time used in the United States.  And they've got a little
+snippet of HTML code here that you can "borrow" to put a clock (adjusted
+for your time zone of course) on your personal web page.
+
+
+* The Universal Currency Converter
+  http://www.xe.net/currency/
+
+Here's a useful tool brought to the Web by Xenon Laboratories, a firm
+based in Toronto, Canada.  You can use it to find out how many Lira make
+up a Peso, or how Drachmas you'll need to satisfy your Yen for sushi.
+
+But of course, if you...
+
+*---------------* Win the $1 Million Dollar Giveaway! *--------------*
+ Play the Prize-link Progressive Jackpot Sweepstakes at Web Warehouse
+  with a chance to WIN up to $1 Million! Web Warehouse offers a wide
+   assortment of quality consumer items from jewelry to music CDs.
+*----------------------( http://webwarehouse.com )-------------------*
+
+...then you could always exchange your winnings for 34,983,404 Rupees, or
+maybe you'd prefer 5,037,867,520 Rubles.  Good luck!   --Bob
+
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

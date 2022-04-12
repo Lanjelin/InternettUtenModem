@@ -1,0 +1,148 @@
+
+From bobrankin@mhv.net Tue Oct  1 00:32:14 1996
+Date: Tue, 1 Oct 1996 00:25:06 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /                                                      /______|----\
+ |  The Believer's Weekly mailing list from WorldVillage |//////|    |
+ |   takes you on a tour of online spiritual resources.  |//////|    |
+ |   To join, send e-mail to majordomo@worldvillage.com  |//////|    |
+ |      with SUBSCRIBE BELIEVER in the message body.     |//////|    |
+ |                                                       |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+    TODAY'S TOURBUS STOP: Astronomy on the Internet
+                          (or "Geeks in Spaaaaaaaaace!")
+
+Today's Bus ride comes to you courtesy of my brother Tom Rankin, a
+Computer Programmer by day for IBM, and an amateur astronomer by
+night.  Tom is Vice-President of the Mid-Hudson Astronomy Association,
+(http://www.geocities.com/CapeCanaveral/5679), and author of its web
+page.  You can visit Tom's home page at http://www1.mhv.net/~trankin
+or e-mail him at trankin@mhv.net.
+
+Tom also does astro-photography, and has captured what he thinks is
+the trail of Comet Hyakupasta.  But I've closely examined the film and
+well, it looks suspiciously like the home page of today's sponsor...
+
+*---------------------( THE NOODLES ARE COMING!! )-------------------*
+The Flying Noodle has a cool collection of gourmet pastas and sauces.
+Mention The Tourbus and we'll take $5 off your first order over $20.
+*--------------------( http://www.flyingnoodle.com )-----------------*
+
+---Snip---
+An Introduction to Astronomy on the Internet
+
+The sources of Astronomy information on the Internet are too numerous
+to even list in the space I've been given.  Many Universities,
+observatories and other organizations, both amateur and professional,
+exist on the Web. This became very obvious when Comet Shoemaker-Levy 9
+crashed into Jupiter a few years ago.  Data came pouring in almost
+instantly from all over the world, (even Antarctica!), and flooded the
+net with great images of the impact.  There were movies, simulations,
+graphs, images and text, each describing this monumental event in a
+unique way. I noticed a few of the same images on TV one night that I
+had already seen on the Net!  The same type of thing happened when
+Comet Hyakutake appeared in the sky last March.
+
+Astronomy can be conveyed with either images or words.  Both are
+effective means of communication, and the Internet is perfectly suited
+for bringing pictures and data together onto one screen for an even
+greater impact.  This article will tell you where to get both graphical
+and text-based Astronomy Information on the Internet.  I'll include
+some links, and I'll leave some for you to discover yourself.  There's
+plenty of search engines for you to explore, and you'll probably find
+even more that way than just by reading my article.
+
+Here are some Internet resources for Astronomy that I use regularly:
+
+USENET
+
+There are several newsgroups worth following, my favorite being
+sci.astro.amateur.  As the name implies, here is where amateur
+astronomers can exchange information and ask questions to enhance their
+understanding of astronomy.  Recently, we were discussing the Lunar
+Eclipse.  Since the eclipse was largely clouded out where I live, I was
+interested in knowing how it appeared to other people.  If you're more
+interested in cosmology, try sci.astro.  (Warning! This group is filled
+with people who try to 'sell' their own peculiar ideas to anyone who
+will listen. This frequently creates a very low signal-to-noise ratio
+in this news group, but there is some good to be gleaned from it, if
+you know who to ignore).  To keep up with what's going on in the
+various space programs, try sci.space.news.  There are other newsgroups
+in the sci.space and sci.astro hierarchy; I'll let you check them out
+for yourself if you're interested.
+
+World Wide Web
+
+Some of the hot spots on the Web for Astronomy right now are:
+
+. The Hubble Space Telescope News Page, located at
+  http://www.stsci.edu/pubinfo/Latest.html contains both text and
+  images of the latest discoveries made by the HST, not to mention the
+  best of past discoveries.
+
+. The Galileo Space Probe Home Page, http://www.jpl.nasa.gov/galileo
+  is updated every day with amazing images and other data from the
+  Planet Jupiter and its moons.
+
+. The Comet Home Page, http://encke.jpl.nasa.gov/ where you can find
+  the latest information on Comet Hale-Bopp and many other Comets.
+
+. Magazines:
+
+  - ASTRONOMY Magazine, http://www.kalmbach.com/astro/astronomy.html
+    is the web version of this hard copy Magazine.  It's updated every
+    week with astronomy news.
+
+  - Sky & Telescope Magazine, at http://www.skypub.com/news/news.html
+    is a magazine for the more technically advanced reader, but the
+    Home Page is written so that anyone can understand it.
+
+. The Nine Planets, located at
+  http://seds.lpl.arizona.edu/billa/tnp/nineplanets.html is an
+  excellent introduction to the solar system (covering much more than
+  just the nine major planets).  I should know, I helped edit this
+  Page!
+
+. For a listing of many Astronomy Clubs and other related organizations
+  on-line, check out AstroNet, at
+  http://www.rahul.net/resource/regular/clubs-etc/clubsetc.html
+
+. If you're looking for a used telescope, or if you have equipment
+  you'd like to sell, try ASTROMART, at http://www.astromart.com
+  Every time I've used it, I've received LOTS of responses!
+
+Software
+
+There are thousands of astronomy software programs available on the
+net.  Check the FTP and shareware sites and search for 'astronomy'. One
+of my favorites is called SkyMap, which is shareware. It even has a
+Home Page.  I'll leave finding this one to you, but I know that Yahoo,
+at http://www.yahoo.com can direct you to it.
+---Snip---
+
+Thanks, bro!  See you all next time!  --Bob
+
+
+=======================================================================
+                  Sick and Tired of TechnoBabble?
+   ----->  "Doctor Bob's Painless Guide To The Internet"  <-----
+ ...explains it all in 145 painless pages.  So don't be a Dummy...
+         Visit http://csbh.mhv.net/~bobrankin for details!
+*---------------------------------------------------------------------*
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=======================================================================
+
+      TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

@@ -1,0 +1,206 @@
+Date:         Wed, 5 Feb 1997 16:26:26 -0800
+Reply-To:     TOURBUS-Request@LISTSERV.AOL.COM
+Sender:       The Internet TourBus - A virtual tour of cyberspace
+              <TOURBUS@LISTSERV.AOL.COM>
+Comments:     Resent-From: Patrick Douglas Crispen <crispen@CAMPUS.MCI.NET>
+Comments:     Originally-From: Patrick Douglas Crispen <crispen@CAMPUS.MCI.NET>
+From:         Patrick Douglas Crispen <crispen@CAMPUS.MCI.NET>
+Subject:      TOURBUS -- 6 FEBRUARY 1997 -- MORE INTERNET HOAXES/WEB COLOR/LOVE
+              CALCULATOR
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+
+  /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~~\
+ |      LIVE  FUGEES  WEBCAST  AT  WWW.MEDIADOME.COM      /    |   \
+ |__________|__________/___________|__________|__________/     |    \
+ /                                                      /______|-----\
+|  Come to Mediadome(sm) on Thursday, Feb. 6 for a      |//////|     |
+|  live webcast with Grammy-nominated trio The Fugees.  |//////|     |
+|  While you're at the site, make your own custom       |//////|     |
+|  hip hop music mix and 3D music video with Herbie     |//////|     |
+|  Hancock.  Webcast will begin at 3:00 PST/6:00 EST    |//////|     |
+|     For details, go to http://www.mediadome.com       |//////|     |
+~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~~
+   \___/  \___/   T h e   I n t e r n e t   T o u r B u s   \___/
+
+TODAY'S STOP:      MORE INTERNET HOAXES/WEB COLOR/LOVE CALCULATOR
+TODAY'S ADDRESSES: http://ciac.llnl.gov/ciac/CIACHoaxes.html
+                   http://www.kumite.com/myths/
+                   http://www.adobe.com/newsfeatures/palette/main.html
+                   http://www.xs4all.nl/~kink/love
+
+
+Today's tour is going to be a little different.  Instead of focusing on one
+major site or tool on the Net, today we are going to focus on three smaller
+(although equally cool) sites.
+
+Before we do that, however, your fearless bus driver would like to give a
+special thanks to the folks at Mass Music for making today's TOURBUS post
+possible:
+
+*--------------------------- MASS MUSIC -----------------------------*
+  More Music For Your Money!  Over 185,000 Titles Just A Click Away.
+ FREE Weekly Music Zine - Buy 7 Get 1 FREE Everyday - Treasure Hunt!
+      TOURBUS Rider Discount code: SAVENOW! use it and save 5%
+*------------------(  http://www.Mass-Music.com  )-------------------*
+
+Make sure you drop by Mass Music's web page and thank them for keeping our
+little bus of Internet happiness on the road for another week!  :)
+
+EVEN *MORE* URBAN LEGENDS AND VIRUS HOAXES
+------------------------------------------
+
+Our first stop is the U.S. Department of Energy's "Computer Incident
+Advisory Capability" Internet Hoaxes homepage at
+
+     http://ciac.llnl.gov/ciac/CIACHoaxes.html
+
+The nice folks at the Department of Energy created the Internet Hoaxes
+homepage because they were "spending much more time de-bunking hoaxes than
+handling real virus incidents."  What makes this page cool is that the
+Department of Energy tells you some of the history of hoaxes on the
+Internet, how to identify a new hoax warning, how to identify a
+validated warning, and what to do if you think a message is a hoax.
+
+You may also remember that we visited a similar virus hoax site on December
+5th: the Computer Virus Myths page at
+
+     http://www.kumite.com/myths/
+
+Both the Internet Hoaxes page and the Computer Virus Myths page are updated
+frequently -- the former was last updated on February 3rd, the latter on
+the 4th (and I am writing this post on February 5th) -- so make sure that
+you check these sites OFTEN for the *latest* news from the virus hoax
+front.  :)
+
+By the way, while most virus hoaxes -- Deeyenda, Penpal Greetings, Good
+Times, etc. -- are downright annoying, I recently received an absolutely
+hysterical virus hoax message that I thought that you'd enjoy:
+
+     There is a computer virus that is being sent across the Internet.
+     If you receive an e-mail message with the subject line "Free
+     Money," DO NOT read the message.  DELETE it immediately, UNPLUG
+     your computer, then BURN IT to ASHES in a government-approved
+     toxic waste disposal INCINERATOR.
+
+     Once a computer is infected, it will be TOO LATE.  Your computer
+     will begin to emit a vile ODOR.  Then it will secrete a foul,
+     milky DISCHARGE.  Verily, it shall SCREECH with the tortured,
+     monitor-shattering SCREAM of 1,000 hell-scorched souls, drawing
+     unwanted attention to your cubicle from co-workers and
+     supervisors alike.  After violently ripping itself from the wall,
+     your computer will punch through your office window as it STREAKS
+     into the night, HOWLING like a BANSHEE.  Once free, it will spend
+     the rest of its days TORTURING household PETS and MOCKING the
+     POPE.
+
+     Some filthy, disgusting miscreant ... some no-good, low-down,
+     good-for-nothing DIRTY SNAKE, in twisted pursuit of her own
+     sadistic dreams, is sending this virus across the Net via an e-
+     mail entitled "Free Money."  What is so terrifying about this
+     virus is that you do not even to have to open the e-mail for it
+     to activate.  In fact, you do not even need to RECEIVE the e-
+     mail.  You do not even need to OWN a COMPUTER.  "Free Money" can
+     infect even minor HOUSEHOLD APPLIANCES.
+
+     How it does this with straight ASCII code is, frankly, a matter
+     of some debate ... but BELIEVE YOU US, if this weren't a SERIOUS
+     situation, we wouldn't be discussing it in ALL CAPS.
+
+     So for the LOVE OF GOD, forward this e-mail to all those you
+     claim to care about, all those you purport to love. Don't do it
+     later! Do it NOW! Now! Now! NOW! NOW! NOW!
+
+COLOR ON THE WEB
+----------------
+
+On to more serious stuff.  Have you ever visited a Web page that looked
+absolutely incredible on a Macintosh, but when you went to view the page on
+a PC it looked downright awful?  Why does this happen?!
+
+Well, if you want to find the answer to this often-asked question, or if
+you are planning on adding color pictures and other graphics to your own
+Web page sometime in the future, I *strongly* recommend that you read
+Adobe's article called "The Discriminating Color Palette" at
+
+     http://www.adobe.com/newsfeatures/palette/main.html
+
+This article is pretty technical, and it is also (naturally) biased towards
+Photoshop (a program that Adobe sells), but its explanation of how
+computers define and display colors is the best I have seen anywhere, and
+is a must read for ANYONE considering creating their own Web graphics.  If
+you have no idea what dithering is or why it happens, whether you should
+use the GIF or JPEG file formats, or what a color palette is, this article
+is for you!
+
+YEAH, BUT DO YOU LOVE ME IN BASE 8?!
+------------------------------------
+
+Finally, do you remember those paper origami finger thingies that you made
+in third grade that supposedly told you if you were compatible with
+someone?  You remember -- you'd spell out the person's name and favorite
+color, and then lift a flap to find the message "you have cooties."
+
+Well, with Valentines Day (EEEK! The *V* word!) just around the corner, it
+is no surprise that someone has finally created a replacement for the paper
+origami thingy.  If you have a JavaScript-enabled Web browser (like
+Netscape or Internet Explorer), you *have* to check out the Love Calculator
+at
+
+     http://www.xs4all.nl/~kink/love
+
+If you type in the first and last names of two people, the Love Calculator
+will calculate the probability on a successful relationship (DOUBLE EEEK!
+The *R* word!) between those two people.  For example, "Bob Rankin" and
+"Kermit the Frog" score and amazing 88% on the Love Calculator!
+
+The love calculator has absolutely no basis in scientific fact -- I
+personally believe that it, much like the que monitor in FTPmail, simply
+generates a random number -- but it is a neat way for you to kill a few
+minutes and use that fancy JavaScript-enabled Web browser of yours. :)
+
+That's it for this week!  Have a safe and happy weekend!  :)
+
+TODAY'S ADDRESSES: http://ciac.llnl.gov/ciac/CIACHoaxes.html
+                   http://www.kumite.com/myths/
+                   http://www.adobe.com/newsfeatures/palette/main.html
+                   http://www.xs4all.nl/~kink/love
+
+--------------------------------
+TODAY'S SOUTHERN WORD OF THE DAY
+--------------------------------
+
+I told you that today's tour was going to be different ... anyway, today's
+Southern word is "vertigo."  Here is the story behind the word:
+
+     "I am an ear, nose and throat MD.  A patient came to my office
+     because of dizziness.  My nurse asked him if he had vertigo. He
+     said "No'm, I just live down the road."
+
+(A special thanks goes out to John Burson (MD) for today's word)
+
+YOU CAN FIND ALL OF THE OLD SOUTHERN WORDS OF THE DAY ON THE SOUTHERN WORD
+HOMEPAGE AT http://ua1vm.ua.edu/~crispen/word.html
+
+======================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=--------------------------------------------------------------------=
+  For info on my new book "Atlas for the Information Superhighway"
+     send an e-mail letter to LISTSERV@UA1VM.UA.EDU that says
+     GET ATLAS INFO F=MAIL in the body of your e-mail letter
+======================================================================
+
+     TOURBUS - (c) Copyright 1997, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+
+   (\__/)  .~    ~. ))
+   /O O  ./      .'             Patrick Douglas Crispen
+  {O__,   \    {               The University of Alabama
+    / .  . )    \                crispen@campus.mci.net
+    |-| '-' \    }           http://ua1vm.ua.edu/~crispen/
+   .(   _(   )_.'
+  '---.~_ _ _&                    Warning: squirrels.

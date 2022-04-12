@@ -1,0 +1,203 @@
+------------------------------
+  Web Buddy: to go trace log
+------------------------------
+
+Page Title   : Web Buddy Home(1)
+Page URL     : http://www.dataviz.com/products/WebBuddy/WB_Home.html
+Start time   : Tuesday, April 01, 1997 11:03:16
+Finish time  : Tuesday, April 01, 1997 11:03:27
+Elapsed time : 11 seconds
+Disk space   : 275 KB 
+Persistence  : 3
+Levels       : Base page + 1 level deep
+
+Summary:
+ - Links resolved : 27 of 27
+ - Graphics resolved : 49 of 49
+
+----------------------------------------
+ 7738755- 0 - Begin Session Update: time = 859910596 - 
+ 7738755- 0 - Begin Main Loop - 
+ 7738783- 4416306 -  - Resolve File , http://www.dataviz.com/products/WebBuddy/WB_Home.html
+ 7739171- 4416306 -  - Resolve Complete
+ 7739171- 0 - Parsing file - http://www.dataviz.com/products/WebBuddy/WB_Home.html
+ 7739194- 4395874 -  - Resolve File , http://www.dataviz.com/dataviz.htm
+ 7739214- 4452342 -  - Resolve File , http://www.dataviz.com/products/prodinfo.html
+ 7739222- 4452286 -  - Resolve File , http://www.dataviz.com/upgrade/upg_home.html
+ 7739238- 4452294 -  - Resolve File , http://www.dataviz.com/tech/TS_home.html
+ 7739368- 4395874 -  - Resolve Complete
+ 7739373- 4452302 -  - Resolve File , http://www.dataviz.com/channel/cnl_home.html
+ 7739423- 4452342 -  - Resolve Complete
+ 7739428- 4452310 -  - Resolve File , http://www.dataviz.com/company/cie_home.html
+ 7739620- 4452286 -  - Resolve Complete
+ 7739620- 4452318 -  - Resolve File , http://www.dataviz.com/products/whatsnew.html
+ 7739688- 4452294 -  - Resolve Complete
+ 7739688- 4452326 -  - Resolve File , http://www.dataviz.com/forms/search/search.html
+ 7739842- 4452302 -  - Resolve Complete
+ 7739853- 4452334 -  - Resolve File , http://www.dataviz.com/products/WebBuddy/WBFactsW95.html
+ 7739936- 4452310 -  - Resolve Complete
+ 7739936- 4449926 -  - Resolve File , http://www.dataviz.com/products/WebBuddy/WBFactsMac.html
+ 7740055- 4452318 -  - Resolve Complete
+ 7740059- 4449870 -  - Resolve File , http://www.dataviz.com/Press/webbuddy/wbeditorial.html
+ 7740183- 4452326 -  - Resolve Complete
+ 7740183- 4449878 -  - Resolve File , http://www.dataviz.com/products/WebBuddy/WBCustNET.html
+ 7740465- 4452334 -  - Resolve Complete
+ 7740471- 4449886 -  - Resolve File , http://www.dataviz.com/products/WebBuddy/wbwaystouse.html
+ 7740573- 4449926 -  - Resolve Complete
+ 7740581- 4449894 -  - Resolve File , http://www.dataviz.com/Press/webbuddy/WBPressHome.html
+ 7740600- 4449870 -  - Resolve Complete
+ 7740609- 4449902 -  - Resolve File , http://www.dataviz.com/products/WebBuddy/WBSpotHome.html
+ 7740742- 4449878 -  - Resolve Complete
+ 7740746- 4449910 -  - Resolve File , http://www.dataviz.com/Forms/wbfbform.html
+ 7741021- 4449894 -  - Resolve Complete
+ 7741021- 4439278 -  - Resolve File , http://www.dataviz.com/Forms/Que/infomail.html
+ 7741123- 4449886 -  - Resolve Complete
+ 7741131- 4449918 -  - Resolve File , http://www.dataviz.com/Forms/Que/techmail.html
+ 7741148- 4449902 -  - Resolve Complete
+ 7741158- 4439222 -  - Resolve File , http://www.dataviz.com/DATAVIZ.HTM
+ 7741375- 4449910 -  - Resolve Complete
+ 7741378- 4439230 -  - Resolve File , http://www.dataviz.com/Company/CIE_contact.html
+ 7741503- 4439278 -  - Resolve Complete
+ 7741515- 4439238 -  - Resolve File , http://www.dataviz.com/Forms/Search/Search.html
+ 7741639- 4449918 -  - Resolve Complete
+ 7741647- 4439246 -  - Resolve File , http://www.dataviz.com/Products/prodinfo.html
+ 7741699- 4439222 -  - Resolve Complete
+ 7741709- 4439254 -  - Resolve File , http://www.dataviz.com/Upgrade/upg_home.html
+ 7741776- 4439230 -  - Resolve Complete
+ 7741785- 4439262 -  - Resolve File , http://www.dataviz.com/Tech/TS_Home.html
+ 7741951- 4439238 -  - Resolve Complete
+ 7741960- 4439270 -  - Resolve File , http://www.dataviz.com/Channel/CNL_Home.html
+ 7742060- 4439246 -  - Resolve Complete
+ 7742070- 4440278 -  - Resolve File , http://www.dataviz.com/Company/CIE_Home.html
+ 7742116- 4439254 -  - Resolve Complete
+ 7742219- 4439262 -  - Resolve Complete
+ 7742286- 4439270 -  - Resolve Complete
+ 7742369- 4440278 -  - Resolve Complete
+ 7742369- 0 - Parsing file - http://www.dataviz.com/dataviz.htm
+ 7742380- 0 - Parsing file - http://www.dataviz.com/products/prodinfo.html
+ 7742394- 0 - Parsing file - http://www.dataviz.com/upgrade/upg_home.html
+ 7742408- 0 - Parsing file - http://www.dataviz.com/tech/TS_home.html
+ 7742422- 0 - Parsing file - http://www.dataviz.com/channel/cnl_home.html
+ 7742436- 0 - Parsing file - http://www.dataviz.com/company/cie_home.html
+ 7742436- 0 - Parsing file - http://www.dataviz.com/products/whatsnew.html
+ 7742449- 0 - Parsing file - http://www.dataviz.com/forms/search/search.html
+ 7742463- 0 - Parsing file - http://www.dataviz.com/products/WebBuddy/WBFactsW95.html
+ 7742476- 0 - Parsing file - http://www.dataviz.com/products/WebBuddy/WBFactsMac.html
+ 7742504- 0 - Parsing file - http://www.dataviz.com/Press/webbuddy/wbeditorial.html
+ 7742504- 0 - Parsing file - http://www.dataviz.com/products/WebBuddy/WBCustNET.html
+ 7742518- 0 - Parsing file - http://www.dataviz.com/products/WebBuddy/wbwaystouse.html
+ 7742518- 0 - Parsing file - http://www.dataviz.com/Press/webbuddy/WBPressHome.html
+ 7742532- 0 - Parsing file - http://www.dataviz.com/products/WebBuddy/WBSpotHome.html
+ 7742558- 0 - Parsing file - http://www.dataviz.com/Forms/wbfbform.html
+ 7742559- 0 - Parsing file - http://www.dataviz.com/Forms/Que/infomail.html
+ 7742559- 0 - Parsing file - http://www.dataviz.com/Forms/Que/techmail.html
+ 7742573- 0 - Parsing file - http://www.dataviz.com/DATAVIZ.HTM
+ 7742602- 0 - Parsing file - http://www.dataviz.com/Company/CIE_contact.html
+ 7742602- 0 - Parsing file - http://www.dataviz.com/Forms/Search/Search.html
+ 7742614- 0 - Parsing file - http://www.dataviz.com/Products/prodinfo.html
+ 7742642- 0 - Parsing file - http://www.dataviz.com/Upgrade/upg_home.html
+ 7742642- 0 - Parsing file - http://www.dataviz.com/Tech/TS_Home.html
+ 7742655- 0 - Parsing file - http://www.dataviz.com/Channel/CNL_Home.html
+ 7742669- 0 - Parsing file - http://www.dataviz.com/Company/CIE_Home.html
+ 7742682- 0 - Fetch Graphics - 
+ 7742697- 4440222 -  - Graphic in cache , http://www.dataviz.com/images/ProductsBar.gif
+ 7742697- 4440230 -  - Resolve File , http://www.dataviz.com/Images/WBlogo4in.gif
+ 7742718- 4440238 -  - Resolve File , http://www.dataviz.com/Images/WB_Box1inch.GIF
+ 7742731- 4440246 -  - Resolve File , http://www.dataviz.com/Images/WBpaw2.gif
+ 7742743- 4440254 -  - Resolve File , http://www.dataviz.com/Images/wbbluestor.gif
+ 7742826- 4440230 -  - Resolve Complete
+ 7742833- 4440262 -  - Resolve File , http://www.dataviz.com/Images/WBanim2in.gif
+ 7742952- 4440246 -  - Resolve Complete
+ 7742957- 4450062 -  - Resolve File , http://www.dataviz.com/Images/gfxredsuggbox.gif
+ 7743064- 4440238 -  - Resolve Complete
+ 7743067- 4440270 -  - Resolve File , http://www.dataviz.com/Images/gfxtechquestmark.gif
+ 7743136- 4450062 -  - Resolve Complete
+ 7743136- 4450022 -  - Resolve File , http://www.dataviz.com/Images/DVZ_OnTheWeb.GIF
+ 7743173- 4440254 -  - Resolve Complete
+ 7743177- 4450006 -  - Resolve File , http://www.dataviz.com/Images/HomeBar.gif
+ 7743370- 4450022 -  - Resolve Complete
+ 7743370- 4450038 -  - Resolve File , http://www.dataviz.com/Images/E-OPEN4inTag.gif
+ 7743425- 4450006 -  - Resolve Complete
+ 7743425- 4450046 -  - Resolve File , http://www.dataviz.com/Images/MLPv9GFX.GIF
+ 7743484- 4440262 -  - Resolve Complete
+ 7743493- 4450014 -  - Resolve File , http://www.dataviz.com/Images/line.gif
+ 7743513- 4440270 -  - Resolve Complete
+ 7743520- 4450030 -  - Resolve File , http://www.dataviz.com/Images/WBdogandLogo.gif
+ 7743757- 4450014 -  - Resolve Complete
+ 7743767- 4483390 -  - Resolve File , http://www.dataviz.com/Images/DTGLogo4in.gif
+ 7743784- 4450038 -  - Resolve Complete
+ 7743795- 4450054 -  - Resolve File , http://www.dataviz.com/Images/NewProducts2.GIF
+ 7744030- 4450030 -  - Resolve Complete
+ 7744043- 4483398 -  - Resolve File , http://www.dataviz.com/Images/rebatetp.gif
+ 7744049- 4450054 -  - Resolve Complete
+ 7744056- 4483414 -  - Resolve File , http://www.dataviz.com/Images/Interactive2.GIF
+ 7744148- 4483390 -  - Resolve Complete
+ 7744152- 4483406 -  - Resolve File , http://www.dataviz.com/Images/WBlogo2in.gif
+ 7744201- 4483398 -  - Resolve Complete
+ 7744207- 4483422 -  - Resolve File , http://www.dataviz.com/Images/gfxNewArrow.gif
+ 7744239- 4483414 -  - Resolve Complete
+ 7744248- 4483430 -  - Resolve File , http://www.dataviz.com/Images/GFXredbullet.gif
+ 7744336- 4483406 -  - Resolve Complete
+ 7744344- 4483438 -  - Resolve File , http://www.dataviz.com/Images/DTGLogo2in.gif
+ 7744358- 4450046 -  - Resolve Complete
+ 7744363- 4484846 -  - Resolve File , http://www.dataviz.com/Images/E-OPEN2inNoTag.gif
+ 7744376- 4483422 -  - Resolve Complete
+ 7744385- 4483446 -  - Resolve File , http://www.dataviz.com/Images/mlp2inch.gif
+ 7744509- 4483430 -  - Resolve Complete
+ 7744509- 4484790 -  - Resolve File , http://www.dataviz.com/Images/CPW2inch.gif
+ 7744599- 4483438 -  - Resolve Complete
+ 7744605- 4484798 -  - Resolve File , http://www.dataviz.com/Images/MO.GIF
+ 7744772- 4484846 -  - Resolve Complete
+ 7744792- 4484806 -  - Resolve File , http://www.dataviz.com/images/UpgradesBar.gif
+ 7744810- 4483446 -  - Resolve Complete
+ 7744811- 4484814 -  - Resolve File , http://www.dataviz.com/Images/HP_MLPHPsmLogo.gif
+ 7744941- 4484798 -  - Resolve Complete
+ 7744948- 4484830 -  - Resolve File , http://www.dataviz.com/images/SupportBar.gif
+ 7745093- 4484790 -  - Resolve Complete
+ 7745100- 4484822 -  - Resolve File , http://www.dataviz.com/Images/MLPIcon.gif
+ 7745213- 4484806 -  - Resolve Complete
+ 7745223- 4484838 -  - Resolve File , http://www.dataviz.com/Images/HP_MLPHPIcon.gif
+ 7745287- 4484822 -  - Resolve Complete
+ 7745292- 4484698 -  - Resolve File , http://www.dataviz.com/Images/CPWicon.GIF
+ 7745328- 4484814 -  - Resolve Complete
+ 7745333- 4484746 -  - Resolve File , http://www.dataviz.com/images/ResellersBar.gif
+ 7745419- 4484830 -  - Resolve Complete
+ 7745429- 4484690 -  - Resolve File , http://www.dataviz.com/images/CompanyBar.gif
+ 7745459- 4484838 -  - Resolve Complete
+ 7745470- 4484706 -  - Resolve File , http://www.dataviz.com/Images/jckobult.gif
+ 7745494- 4484698 -  - Resolve Complete
+ 7745498- 4484714 -  - Resolve File , http://www.dataviz.com/images/WhatsnewBar.gif
+ 7745871- 4484706 -  - Resolve Complete
+ 7745882- 4484738 -  - Resolve File , http://www.dataviz.com/images/SearchBar.gif
+ 7746501- 4484746 -  - Resolve Complete
+ 7746502- 4484722 -  - Resolve File , http://www.dataviz.com/Images/WBtoolbar1pt5in.gif
+ 7746605- 4484690 -  - Resolve Complete
+ 7746610- 4484730 -  - Resolve File , http://www.dataviz.com/Images/WBPageTogo.gif
+ 7746712- 4484714 -  - Resolve Complete
+ 7746720- 4489046 -  - Resolve File , http://www.dataviz.com/Images/WBSiteTogo.gif
+ 7746823- 4484738 -  - Resolve Complete
+ 7746830- 4488990 -  - Resolve File , http://www.dataviz.com/Images/WBschedule.gif
+ 7747190- 4484730 -  - Resolve Complete
+ 7747202- 4489006 -  - Resolve File , http://www.dataviz.com/Images/WBconvert.gif
+ 7747235- 4484722 -  - Resolve Complete
+ 7747242- 4488998 -  - Resolve File , http://www.dataviz.com/Images/WBBookmark.gif
+ 7747297- 4489046 -  - Resolve Complete
+ 7747297- 4489014 -  - Resolve File , http://www.dataviz.com/Images/WBGoToWBC.gif
+ 7747394- 4488990 -  - Resolve Complete
+ 7747407- 4489022 -  - Resolve File , http://www.dataviz.com/Images/WBPaw%28pt2%29.gif
+ 7747755- 4489006 -  - Resolve Complete
+ 7747764- 4489030 -  - Resolve File , http://www.dataviz.com/Images/dvznodbs.gif
+ 7747849- 4488998 -  - Resolve Complete
+ 7747860- 4489038 -  - Resolve File , http://www.dataviz.com/Images/cpw.gif
+ 7747983- 4489014 -  - Resolve Complete
+ 7747983- 4481646 -  - Resolve File , http://www.dataviz.com/Images/mlp.gif
+ 7748021- 4489022 -  - Resolve Complete
+ 7748025- 4481590 -  - Resolve File , http://www.dataviz.com/Images/DVZBackHome.gif
+ 7748094- 4489030 -  - Resolve Complete
+ 7748397- 4489038 -  - Resolve Complete
+ 7748542- 4481646 -  - Resolve Complete
+ 7748649- 4481590 -  - Resolve Complete
+ 7748649- 0 - Begin Main Loop - 
+ 7748649- 0 - Begin Main Loop - 
+ 7748649- 0 - Update links - 
+ 7749851- 0 - Session Update Complete: time = 859910607 - 

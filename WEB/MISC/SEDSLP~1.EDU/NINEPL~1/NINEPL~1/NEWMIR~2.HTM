@@ -1,0 +1,143 @@
+<html><HEAD>
+<TITLE>New Mirrors</TITLE>
+</head><BODY>
+<h1 align=center>Making a New Mirror</h1>
+<hr size=6>
+
+<h2>First-time Setup</h2>
+If you would like to make your own copy of <font size=+1><i>The Nine Planets</i></font> I am happy
+for you to do so
+provided that you do not modify it or remove my name from the bottom of each page.
+A local copy will work fine on a machine without an Internet connection so long
+as you don't try to follow external links.
+Here's all you have to do:
+<ol>
+  <li> Make a new empty directory; you'll need about 6 megabytes;
+  <li> cd into that directory and ftp a copy of
+       <a href="../../../tppmsgs/msgs42.htm#4224" tppabs="ftp://ftp.seds.org/html/billa/tnp.tar.gz">
+       ftp://ftp.seds.org/html/billa/tnp.tar.gz</a>;
+  <li> Extract the archive with gunzip and tar; most of the files will end up
+       in the directory "nineplanets";
+  <li> Make sure the ownership and permissions are OK for public read-only access;
+  <li> Customize "host.html" as described below (optional);
+  <li> Point your WWW browser at "&lt;path&gt;/nineplanets/nineplanets.html" and make
+       sure that everything is OK;
+  <li> Send some mail to me (<a href="mailto:billa@znet.com">billa@znet.com</a>)
+       with the URL of your new copy so I can update the mirror list;
+       also let me know if you would like to receive email
+       notifications of future updates.
+  <li> Announce it to the world.
+</ol>
+<p>
+<h2>Customizing your site</h2>
+Each page of <font size=+1><i>The Nine Planets</i></font> has an anchor at the bottom which links to "host.html".
+You can customize that page for your own site:
+<ol>
+  <li> Make a copy of your logo 32 pixels high and no more than 40 wide (it will work
+       if you make it bigger, but it may look ugly).
+  <li> Replace "icons/host.gif" by your version (change to old one to seds.gif if
+      you want to keep it).
+  <li> Modify host.html as you wish.  You'll probably want to
+       <ul>
+	 <li> add some text to describe your site;
+	 <li> add a link to point to your site's "home page";
+	 <li> add your own name at the bottom.
+       </ul>
+  <li> Keep a separate copy of your versions of host.html and host.gif (they will be
+       overwritten next time you get an update).
+</ol>
+This is optional -- if you do nothing then the SEDS icon will be used and
+host.html will refer to the primary site at SEDS.
+
+<h2>Updates</h2>
+I update TNP very frequently.  The latest versions are always at the SEDS site.
+When a sufficient number of changes accumulate (but usually not more than
+once a month) I create a new tnp.tar.gz file and mail notifications to the
+maintainers of the mirror sites.
+<p>
+If you want the most up to date files you can always ftp to
+<a href="../../../tppmsgs/msgs42.htm#4227" tppabs="ftp://ftp.seds.org/html/billa/tnp/">ftp://ftp.seds.org/html/billa/tnp/</a>
+and copy individual files that are newer than your versions.
+<p>
+
+But there is <b>a better way</b>.  Several of the mirror sites are using the
+"mirror" package to keep their copies of TNP up to date automatically
+instead of waiting for me to send these notices.  I urge you all to do
+the same.
+
+<p>
+Here is Laurent's mail on the subject:
+<br><pre>
+   I use the perl's mirror package, which is available :
+           src.doc.ic.ac.uk [146.169.2.1]
+                   directory: computing/archiving/mirror
+   (the version i use is 2.3 (with some changes), dunno if its the
+   latest, 2.3 is also 
+    on ftp://hplyot.obspm.fr/net/mirror-2.3.tar.gz)
+   
+   my setup for mirroring all your stuff (ie nineplanets, twn,...) is
+   file packages/seds.lpl.arizona.edu :
+   -----8<-----
+   package=nineplanets
+           local_dir=/space/poubelle/dl/np
+           site=seds.lpl.arizona.edu
+           # compress nothing
+           compress_patt=
+           remote_dir=/html/nineplanets
+           exclude_patt=(^|/)(host|.+tar\.gz|\.mirror$|\.in\..*\.$|MIRROR.LOG|#.*#|\.FSP|\.cache|\.zipped|lost+found/|\ )
+           delete_excl=(^|/)(host|\.mirror$|\.notar$|\.message$)
+   -----8<-----
+   Its important to put host in the exclude and delete exclude pattern to
+   avoid the local version to be overrode or deleted.
+   
+   mirror package setup is not trivial, but experienced sys admin should
+   have no problem with it, with some experiencing,
+</pre>
+
+Laurent's setup will also mirror "<a
+href="../../../tppmsgs/msgs7.htm#732" tppabs="http://www.seds.org/billa/twn/">The Web Nebulae</a>" and the other stuff
+in my directory at SEDS in addition
+to TNP.  You are welcome to do that, too, though it doesn't really
+matter to me (there's only a small amount of traffic to TWN so it's
+not a problem for me).  If you don't want to mirror the other stuff, just add the
+appropriate strings to the <code>exclude_patt</code>.
+
+<p>
+And Ilan writes:
+<br><pre>
+   I am using the mirror perl package from src.doc.ic.ac.uk, and it works 
+   very good. I haven't encountered any problems with it, and as far as I 
+   know, it is the standard package used by all the major ftp sites to 
+   maintain mirrors upto date.
+   
+   The installation of the mirror software doesn't require root access, 
+   however a copy of perl 4.036 should be installed on the system. I am 
+   almost sure that perl can be installed by a regular user, so mirror can 
+   be used even on systems that don't have perl installed in the system 
+   directories.
+   
+   The documentation that comes with mirror is very short and doesn't really 
+   explain how to configure the software, so this might be the biggest 
+   problem in installing it. The man pages contain all the relevant 
+   information, but are quite technical and hard to understand.
+</pre>
+
+There are two reasons why you should consider going to all the trouble
+to use the mirror package: it means your mirror stays up to date
+automatically without any further intervention on your part, and it's
+a lot faster -- you have only to download the changed files instead of
+the 5 megabyte tar file (which is mostly gifs).
+<p>
+
+<hr>
+<a href="NINEPL~1.HTM" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/nineplanets.html"><img align=middle src="ICONS/NINEPL~1.GIF" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/icons/nineplanets32.gif" alt="Contents" height=32 width=43></a>
+ ... <a href="CREDIT~1.HTM" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/credits.html">Credits</a>
+ ... <a href="MIRROR~1.HTM" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/mirrors.html">Mirrors</a>
+ ... New Mirrors
+ ... <a href="TECH~1.HTM" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/tech.html">Tech Help</a>
+ ... <a href="HOST~1.HTM" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/host.html"><img align=middle src="ICONS/HOST.GIF" tppabs="http://seds.lpl.arizona.edu/nineplanets/nineplanets/icons/host.gif" alt="Host"></a>
+
+<hr size=6>
+<a href="../../../tppmsgs/msgs0.htm#1" tppabs="http://seds.lpl.arizona.edu/nineplanets/arnett.html">Bill Arnett</a>; last updated:
+1996 January 25
+<br></body></html>

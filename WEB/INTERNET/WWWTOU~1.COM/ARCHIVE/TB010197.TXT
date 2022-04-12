@@ -1,0 +1,110 @@
+<html><head><title>TOURBUS Info Page</title></head>
+<body bgcolor="#ffffff">
+<img align="left" src="tbsmall.gif" alt="The Internet TourBus!">
+<i>"Why surf when you can ride the bus?"</i><br clear=all>
+<hr>
+<center>
+<h2>
+TOURBUS: Wednesday, January 1, 1997<br>
+DRIVER: Bob Rankin<br>
+TODAY'S TOURBUS STOP:Happy New Year 1997!</h2>
+</center>
+<p>
+Happy New Year to All!
+<p>
+Thanks for riding along with us.  Patrick and I have truly enjoyed
+"driving the Bus" for the last 18 months, and I look forward to
+another year with all of you.
+<p>
+<h3>Get A Friend on the Bus!</h3>
+We now have over 80,000 riders in 120 countries all around the
+world, from Albania to Zimbabwe.  Your mission for the new year is
+to get three friends "on the Bus".  Tell 'em how much fun you're
+having here and they'll beg you for the subscription info!  In case
+you forgot, in order to join the list one must send e-mail to:
+<p>
+    LISTSERV@LISTSERV.AOL.COM
+<p>
+and in the body of the message, enter this command:
+<p>
+    SUBSCRIBE TOURBUS Firstname Lastname
+<p>
+<h3>Ride The Bus, Get Stuff</h3>
+Here's another reason to get your friends on the Bus...  They'll have
+a chance to participate in fun contests and win geeky stuff - like
+computer software, hardware and other cool gadgets.
+<p>
+I haven't decided whether you have to be smart, lucky or good-looking
+to win, so just keep your seats and all will be revealed in good time.
+<p>
+
+<h3>Thanks to Our Supporters</h3>
+It takes hours of research, writing and administrivia to keep TOURBUS
+rolling through cyberspace twice each week.  So without our sponsors
+it would be impossible to continue -- Patrick has tuition to pay, and
+I've got to support my Snickers habit (and pay the mortgage).
+<p>
+Special thanks go out to these sponsors for their help this year:
+<p>
+<ul>
+<li><a href="http://www.aardwulf.com">AARDWULF APPAREL</a> - Great discounts on name brand clothing.
+<li><a href="http://www.BuyItOnline.com">BUY IT ONLINE</a> - Your Guide to Locating Products & Services Online.
+<li><a href="http://www.flyingnoodle.com">FLYING NOODLE</a> - A cool collection of gourmet pastas and sauces.
+<li><a href="mailto:tourbus@magazines.com">MAGAZINE EXPRESS</a> - The best magazine subscription deals on the Net.
+<li><a href="http://www.Mass-Music.com">MASS MUSIC</a> - More Music For Your Money - Over 185,000 titles.
+<li><a href="http://www.merc.com">MERCURY MAIL</a> - Free news, weather, sports, and stocks by email.
+<li><a href="http://tpeaks.com">TWIN PEAKS</a> - A cornucopia of pleasurable edibles for all.
+<li><a href="http://webwarehouse.com">WEB WAREHOUSE</a> - Lots of quality products for the cybershopper.
+<li><a href="http://www.worldvillage.com">WORLDVILLAGE</a> - Software reviews, live chat and online gaming. WV is also the host of the TOURBUS web site!
+</ul>
+<p>
+I can vouch for the integrity of each sponsor, so you can feel
+comfortable doing business with them.  And if you're in business,
+consider becoming a TOURBUS sponsor.  Our advertising rates are very
+affordable, and you'll be doing a good cyber-deed as well!  For info,
+send e-mail to BobRankin@MHV.net with SEND TBRATES in the Subject line.
+<p>
+<h3>Support a Starving Author</h3>
+In case you didn't know, both Patrick and I have penned books for those
+who are new to the Net.  Here's how to find out about each book:
+<p>
+   For info on Patrick's book "Atlas for the Information Superhighway"
+   send e-mail to LISTSERV@UA1VM.UA.EDU with the command
+   GET ATLAS INFO F=MAIL in the message body.
+<p>
+   To get the scoop on "Doctor Bob's Painless Guide To The Internet"
+   send e-mail to BobRankin@MHV.net with Subject: SEND BOOKINFO
+   or browse reviews & sample chapters at <a href="http://biz.mhv.net/drbob">http://biz.mhv.net/drbob</a>
+   (NetGuide Magazine Hot Product of the Month for December 1996)
+<p>
+<h3>Cheesy Potatoes</h3>
+CHEESY POTATOES?  You bet.  My wife found this great recipe online
+and served them up to rave reviews on Christmas Day.  Go visit the
+fantastic "My Menus" website at <a href="http://www.mymenus.com">http://www.mymenus.com</a> and you can find this recipe and thousands more.
+<p>
+See you all soon!  -Bob
+<pre>
+======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.WorldVillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+======================================================================
+</pre><p><hr>
+<center>
+TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin<br>
+All rights reserved.  Redistribution is allowed only with permission.<br>
+Send this copy to 3 friends and tell them to get on the Bus!<br>
+<p>
+<h3>
+<a href="/wv/hotel/tourbus/tour.htm">Back to the TOURBUS Main Page</a><br>
+<a href="/wv/hotel/tourbus/archives.htm">Browse the TOURBUS Archives</a>
+</h3>
+<hr>
+<a href="/wv/navbar.map"><img border=0 src="/wv/images/elements/navbar.gif" ismap></a>
+<hr>
+<h5>(c) Copyright 1996, Elephant Consulting</h5>
+</center>
+</address>
+</BODY></HTML>

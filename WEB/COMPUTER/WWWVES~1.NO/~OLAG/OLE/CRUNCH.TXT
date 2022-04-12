@@ -1,0 +1,41 @@
+
+                                C R U N C H
+******************************************************************************
+********************************* WAD Info ***********************************
+******************************************************************************
+Game            :       Doom 2
+Map #           :       1           
+Single player   :       YES, that's what it's made for!
+Cooperative     :       Yes
+Deathmatch      :       Well...There are 4 DeathMatch starts, but I don't know
+                        how fun it is to play.
+New Graphics    :       Sorry...
+New Sounds      :       No
+New Monsters    :       They are good enough as they are, aren't they?
+Difficult settings:     Only Ultra-Violence
+
+******************************* Build info ***********************************
+Editor used     :       EdMap v.1.31
+Build time      :       ca. 6-8 hours (Don't laugh, it's my third WAD)
+File name       :       crunch.wad
+Bugs            :       Mail me if you find some.
+
+******************************* More info ************************************ 
+Crunch.wad is my third only wad file, but my friends like it a lot! It's not
+that big, but I don't think you can make it to the exit the first time you 
+play it. My friends almost got hart-attacks when they played it the first 
+time! There are four Deathmatch starts, but I haven't tried to play DMatch on 
+this level.
+
+You should look out for Chaos.wad on my homepage!
+
+The HEADACHE, alias Ole Hartvigsen
+E-mail: sg-3data@online.no
+Doom page: http://www.vestdata.no/~olag/ole/doom2.htm
+Homepage: http://www.vestdata.no/~olag/ole/
+
+
+
+
+
+

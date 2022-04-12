@@ -1,0 +1,450 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<TITLE>FTP</TITLE>
+	<LINK REV=made href="mailto:cf@magnet.at">
+	<META HTTP-EQUIV="Reply-to" CONTENT="cf@magnet.at">
+	<META HTTP-EQUIV="PICS-Label" content='(PICS-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North America Server" by "cf@magnet.at" for "http://www.iic.priv.at/iic" on "1996.04.16T08:15-0500" exp "1997.07.01T08:15-0500" r (n 0 s 0 v 0 l 0))'> 
+	<META NAME="Keywords" CONTENT="Internet, Information, newbie, free, guide, guides, howto, how to, how-to, history, cookie, ftp, www, gopher, usenet, news, irc, mail, indices, parents, protection, software, links, glossary, archie, new, DNS, adressing, construction, tcp/ip, structure">
+	<META NAME="Description" CONTENT="The IIC offers everything for the 'Net user in one place. Starting from History to user guides, lots of links and a hyper-glossary. A must for newbies">
+	<META NAME="Revisit-after" CONTENT="14 days">
+	<META NAME="Copyright" CONTENT="1996-1997 Christian Feichtner">
+</HEAD>
+
+<BODY LEFTMARGIN=0 TOPMARGIN=0 BGCOLOR="#FFFFFF">
+	<!--Main Toolbar -->
+	<A NAME="top">
+	<TABLE WIDTH=100% BGCOLOR="#000000" CELLSPACING=0 CELLPADDING=0 BORDER=0>
+		<TR><TD>
+	<A HREF="INDEX~1.HTM" tppabs="http://www.austria.eu.net/iic/index.html"><IMG  SRC="HOME.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/home.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="HELP.HTM" tppabs="http://www.austria.eu.net/iic/help.htm"><IMG SRC="FIRST.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/first.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="FEEDBACK.HTM" tppabs="http://www.austria.eu.net/iic/feedback.htm"><IMG SRC="FEEDBACK.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/feedback.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="AWARDS.HTM" tppabs="http://www.austria.eu.net/iic/awards.htm"><IMG SRC="AWARDS.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/awards.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="AD.HTM" tppabs="http://www.austria.eu.net/iic/ad.htm"><IMG SRC="AD.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/ad.gif" BORDER=0></A>
+			<IMG SRC="SPACER.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/spacer.gif" ALIGN=MIDDLE>
+			<A HREF="tppmsgs/msgs0.htm#6" tppabs="http://members.magnet.at/cf/iic/guestbk.htm"><IMG SRC="GB.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/gb.gif" BORDER=0></A>
+		</TD><TD ALIGN=RIGHT>
+			<A HREF="INDEX-1.HTM" tppabs="http://www.austria.eu.net/"><IMG SRC="EUNET.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/eunet.gif" BORDER=0></A>
+		</TD></TR>
+	</TABLE>
+	</A>
+	<TABLE WIDTH=100% CELLPADDING=0 CELLSPCING=0 BORDER=0>
+		<TR><TD ALIGN=LEFT>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=1><B>
+			&nbsp;&nbsp;LAST UPDATE: MARCH, 10. 1997
+			</B></FONT>
+		</TD><TD ALIGN=RIGHT>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=1><B>
+			C H A P T E R &nbsp; &nbsp; 2.3 &nbsp; - &nbsp; HOW TO -  USE FTP&nbsp;
+			</B></FONT>
+		</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE WIDTH=100% BORDER=0>
+		<TR><TD>
+			&nbsp;&nbsp;<IMG SRC="DOCMAIN.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/docmain.gif" ALT="IIC"><BR>
+			&nbsp;&nbsp;<A HREF="INDEX~1.HTM" tppabs="http://www.austria.eu.net/iic/index.html"><IMG SRC="GIDX.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/gidx.gif" BORDER=0></A> <A HREF="HOWTO.HTM" tppabs="http://www.austria.eu.net/iic/howto.htm"><IMG SRC="GCONTENT.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/gcontent.gif" BORDER=0></A><BR>
+			&nbsp;&nbsp;<FONT FACE="Verdana, Arial, Helvetica" COLOR="#008000" SIZE=4><B>How to use FTP<B></FONT>
+		</TD><TD ALIGN=RIGHT VALIGN=TOP WIDTH=210>
+			<A HREF="GOPHER.HTM" tppabs="http://www.austria.eu.net/iic/gopher.htm"><IMG SRC="NEXT.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/next.gif" ALT="Next" BORDER=0></A>&nbsp;<BR>
+			<A HREF="MAIL.HTM" tppabs="http://www.austria.eu.net/iic/mail.htm"><IMG SRC="PREV.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/prev.gif" ALT="Previous" BORDER=0></A>&nbsp;<BR>
+			<A HREF="GLOSSAR.HTM" tppabs="http://www.austria.eu.net/iic/glossar.htm"><IMG SRC="GLOSSAR.GIF" tppabs="http://www.austria.eu.net/iic/images/nav/glossar.gif" ALT="Next" BORDER=0></A>&nbsp;<BR>
+		</TD></TR>
+	</TABLE>
+	<P>
+	<TABLE WIDTH="640" CELLSPACING=5 CELPADDING=5>
+		<TR><TD WIDTH=180>
+			<!-- Spacer -->
+			<IMG SRC="BLANK.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/blank.gif" WIDTH=180 HEIGHT=1>
+		</TD><TD COLSPAN=2>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			FTP is short for <B>F</B>ile <B>T</B>ransfer <B>P</B>rotocol. Its main purpose is, as you can see from the name, to transfer files from 
+			and to a remote computer. FTP <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="CLIENT.HTM" tppabs="http://www.austria.eu.net/iic/glossary/client.htm">clients</A>
+			are available for a wide range of operating systems. There are window based and command line based clients. I can't give you detailed 
+			instructions on how to use a window based client, because of the variety of them available. However I will try to point out the things all the 
+			window based clients have in common. But I will try to give you instructions on how to use a command line based client.  You should read 
+			this section (regarding command line based clients) because it will be easier for you to understand how a window based client will work.
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP1.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap1.gif" ALT="Chapter 1">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>			
+			<!-- What do I need -->
+			<FONT COLOR="#008000" SIZE=3><B>What do I need ?</B></FONT><P>
+			As with many other services you need a client and a <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="SERVER.HTM" tppabs="http://www.austria.eu.net/iic/glossary/server.htm">server</A>. 
+			For FTP, there are command line clients and windows based clients available. We will introduce how
+			to ftp using a command line interface here - but if you plan to use a window based client do not go away this information will also be valuable to you. If you don't have
+			any client yet, here are some points that do have one:
+			<UL>
+			<IMG SRC="WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="tppmsgs/msgs1.htm#160" tppabs="http://www.cuteftp.com/">Cute FTP</A><BR>
+			<IMG SRC="WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="tppmsgs/msgs1.htm#162" tppabs="http://www.lpswitch.com/">WS Ftp</A><BR>
+			<IMG SRC="WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="tppmsgs/msgs1.htm#164" tppabs="http://www.webcom.com/igs/telftp.html">WinTel and Ftp Pro</A><BR>
+			<IMG SRC="WIN95.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win95.gif" ALT="Win"> <A HREF="tppmsgs/msgs1.htm#138" tppabs="http://www.cwsapps.com/ftp.html">CWS Apps FTP section</A><BR>
+			<IMG SRC="APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="tppmsgs/msgs1.htm#168" tppabs="http://proper.com/4/mac/files/the-files">Fetch</A><BR>
+			<IMG SRC="APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="tppmsgs/msgs1.htm#141" tppabs="http://www.cyberatl.net/~mphillip/index.html">Internet Mac Software</A><BR>
+			<IMG SRC="APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="tppmsgs/msgs1.htm#142" tppabs="http://www.tiac.net/users/mdw/imap/xintro.html">Mac Helpers</A><BR>
+			<IMG SRC="APPLE.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/apple.gif" ALT="Apple"> <A HREF="tppmsgs/msgs1.htm#143" tppabs="http://community.net/~csamir/macapp.html">Mac Internet Apps</A><BR>
+			</UL>
+			&nbsp;<BR>
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+		</TD></TR>
+		<TR><TD VALIGN=TOP ALIGN=RIGHT>
+			<IMG SRC="BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			If you are using Microsoft Windows 95 or Windows NT 4.0, then you already have a command line FTP client. Click on <I>Start</I>, then select <I>Run</I>.
+			Type <I>FTP</I> and press <I>Ok</I>
+			</FONT>
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+		</TD></TR>
+		<TR><TD VALIGN=TOP ALIGN=RIGHT>
+			<IMG SRC="BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			If you only want to download files you can also use your <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="tppmsgs/msgs5.htm#573" tppabs="http://www.austria.eu.net/iic/glossary/webbrowser.htm">web browser</A> 
+			as a client. Therefore select <I>open</I> and type <I>ftp://address</I>
+			where <I>address</I> is replace with the address of the FTP server you want to connect to. Furthermore your Web Browser will automatically
+			determine if the selected file should be transferred as <I>binary</I> or as <I>ascii</I>. To open a directory or download a file simply
+			click on it.
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+			<P>
+			<DIV ALIGN=RIGHT>
+			<A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A>
+			</DIV>
+
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP2.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap2.gif" ALT="Chapter 2">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>			
+			<!-- Where can I connect -->
+			<FONT COLOR="#008000" SIZE=3><B>Where can I connect ?</B></FONT><P>
+			There are thousands of ftp servers available on the Internet and it would be way too much to list them here. Others have already done so far. However, the following
+			list provides some interesting starting points for ftp and you can test your ftp knowledge there:
+			<UL>
+			<IMG SRC="WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="*"> <A HREF="tppmsgs/msgs1.htm#172" tppabs="ftp://ftp.winsite.com/">The famous WinSite Archive</A><BR>
+			<IMG SRC="WIN.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/win.gif" ALT="*"> <A HREF="tppmsgs/msgs1.htm#173" tppabs="ftp://ftp.microsoft.com/">Microsoft Corporation</A><BR>
+			</UL>
+			<DIV ALIGN=RIGHT>
+			<A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A>
+			</DIV>
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP3.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap3.gif" ALT="Chapter 3">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			<!-- How do I work with FTP -->
+			<FONT COLOR="#008000" SIZE=3><B>How do I work with FTP ?</B></FONT><P>
+			Before we begin, here's some information on how the files are stored on an ftp server. If you already have experience with unix, then you can go on to the
+			next chapter, but since most of our visitors are coming from DOS/Windows based environments, a little introduction will be useful.
+			<P>
+			The files on a FTP server is stored like you know it from your hard disk. There are directories, filenames and file extensions.
+			The file structure on an ftp server often looks like the 
+			<IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*"><A HREF="UNIX.HTM" tppabs="http://www.austria.eu.net/iic/glossary/unix.htm">unix</A> file structure. 
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+		</TD></TR>
+		<TR><TD VALIGN=TOP ALIGN=RIGHT>
+			<IMG SRC="BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			The unix file system is case sensitive and uses long filenames.
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+			If you are using an operating system, that only supports short filenames (8.3 convention), then your client will truncate the filenames if necessary
+			But don't worry, your client or operating system will truncate the filename if necessary. Here is a typical FTP server directory listing:
+			<P>
+			<SAMP>
+			drwxr-xr-x   6 0     1       1024 Dec 29 00:02 .<BR>
+			drwxr-xr-x   6 0     1       1024 Dec 29 00:02 ..<BR>
+			-rw-r--r--   1 0     0        165 Oct 18 23:33 .message<BR>
+			-rw-r--r--   1 0     0       1045 Oct 18 22:54 BECOME_A_MIRROR<BR>
+			-r--r--r--   1 0     0       2166 Oct 18 22:47 CDROMS.TXT<BR>
+			-rw-r--r--   1 0     0       2159 Dec 29 00:02 MIRRORS.TXT<BR>
+			-rw-r--r--   1 0     0      17942 Oct 18 22:56 README<BR>
+			-r--r--r--   1 0     0       1070 Dec 12 14:03 SYSTEM.TXT<BR>
+			-rw-r--r--   1 0     0       1021 Oct 18 22:33 WINSITE.TXT<BR>
+			dr-xr-xr-x   2 0     0       1024 Dec 20 17:30 bin<BR>
+			drwx--x--x   3 0     0       1024 Dec 31 22:07 msgs<BR>
+			dr-xr-xr-x   3 0     0       1024 Dec 27 08:29 pub<BR>
+			drwxr-xr-x   3 0     0       1024 Jul 11 23:20 usr<BR>
+			</SAMP>
+			<P>
+			Have a look at the directories and filenames on the right side of the above list. There are several text files (extension .TXT). These files normally 
+			contain information about the FTP server and the files stored on it. There also might be a list of <IMG SRC="R_ARROW.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/r_arrow.gif" ALT="*">
+			<A HREF="MIRROR.HTM" tppabs="http://www.austria.eu.net/iic/glossary/mirror.htm">mirror</A> (MIRRORS.TXT).
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+		</TD></TR>
+		<TR><TD VALIGN=TOP ALIGN=RIGHT>
+			<IMG SRC="BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			A mirror file usually contains a list of alternative sites, that offer the same files. It's a good idea to download this file and check if there
+			is a server in your vicinity. If so, then please use it, as this will reduce net traffic and the files will be transferred faster.
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+			Now please have a look on the left side, at the cryptic <I>dr-xr-xr-x</I> entry in front of every file or directory. These are the access rights for users: 
+			<I>d</I> stands for directory, <I>r</I> for read, <I>x</I> for execute and <I>w</I> for write. I won't give a detailed description now, since this 
+			belongs to UNIX. The important thing you have to know is, that if there is a d set (first flag, left side), the entry is a directory. The next three flags 
+			are important for you as an anonymous user. It defines the access rights. If a r is set, then you have read access, if a w is set, then you have write 
+			access and if there is an x set (short for execute) then you can execute something.
+			<P>
+			<B>Loggin on to a server</B><BR>
+			Start you command line client and type open &lt;address&gt; where &lt;address&gt; is to be replaced with the address of an ftp server. Here is an
+			example: 
+			<P>
+			<SAMP>
+			open ftp.winsite.com<BR>
+			Connected to ftp.winsite.com.<BR>
+			</SAMP>
+			<P>
+			If you are using a window-based client locate an <I>open</I> or <I>connect</I> button or menu.
+			You then might see a welcome message. Such a message could look like this:
+			<P>
+			<SAMP>
+			220-&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<BR>
+			220-&lt;&lt;&lt;  Login with username &quot;anonymous&quot;;   &lt;&lt;&lt;<BR>
+			220-&lt;&lt;&lt; use email address as password    &lt;&lt;&lt;<BR>
+			220-&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<BR>
+			220-<BR>
+			220 winftp FTP server (Sun Nov 5 20:26:15 EST 1995) ready.<BR>
+			</SAMP>
+			<P>
+			Now log in using either <I>anonymous</I> or <I>FTP</I> as the username:
+			<P>
+			<SAMP>
+			Name (ftp.winsite.com:k3070e2): anonymous
+			</SAMP>
+			<P>
+			Now type in you e-mail address as a password. Note that you won't see it as you type it:
+			<P>
+			<SAMP>
+			331 Guest login ok, send your complete e-mail <BR>
+			331 address as password. <BR>
+			331 Password: &lt;e-mail here&gt;<BR>
+			</SAMP>
+			<P>
+			We have just connected to an <I>anonymous</I> ftp server. Not all servers are offering this access, but many do. For all other servers you have to know
+			a username and a password.
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+		</TD><TR>
+		<TR><TD VALIGN=TOP ALIGN=RIGHT>
+			<IMG SRC="BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			Some servers do not have an <I>anonymous</I> access. If your server does not accept <I>anonymous</I> then you might try <I>guest</I> or <I>ftp</I>.
+			Also some servers require the password to be guest as well, but <I>anonymous</I> along with your e-mail address is the most commonly
+			used combination.
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+			If the FTP server is to busy, that is if there are too many people logged on, then you will get an error message after you typed the username, 
+			indicating, that there are too many people logged on at this time and maybe a list of alternative servers (mirror servers).
+			<P>
+			Once you have successfully logged on you might see a message again. This message might be short overview, where the files are stored and/or 
+			something like the following:
+			<P>
+			<SAMP>
+			230-
+			230-Please read the file README<BR>
+			230-  it was last modified on Wed Oct 18 22:56:10 1995<BR>
+			239-  75 days ago<BR>
+			230 Guest login ok, access restrictions apply.<BR>
+			Remote system type is UNIX.<BR>
+			Using binary mode to transfer files. <BR>
+			ftp&gt;<BR>
+			</SAMP>
+			<P>
+			<!-- Navigating directories -->
+			<B>Navigating directories</B><BR>
+			Once the <I>ftp&gt;</I> prompt is visible you can change directories and/or download or upload files. Let's begin with a directory
+			listing, right after we have logged in. To get a directory listing use the <I>dir</I> command (like in MSDOS). This will present the
+			following list to you: 
+			<P>
+			<SAMP>
+			ftp&gt; dir<BR>
+			200 PORT command successful.<BR>
+			150 Opening ASCII mode data connection for /bin/ls.<BR>
+			total 37<BR>
+			drwxr-xr-x   6 0     1      1024 Dec 29 00:02 .<BR>
+			-wxr-xr-x   6 0     1      1024 Dec 29 00:02 ..<BR>
+			-rw-r--r--   1 0     0       165 Oct 18 23:33 .message<BR>
+			-rw-r--r--   1 0     0      1045 Oct 18 22:54 BECOME_A_MIRROR<BR>
+			-r--r--r--   1 0     0      2166 Oct 18 22:47 CDROMS.TXT<BR>
+			-rw-r--r--   1 0     0      2159 Dec 29 00:02 MIRRORS.TXT<BR>
+			-rw-r--r--   1 0     0     17942 Oct 18 22:56 README<BR>
+			-r--r--r--   1 0     0      1070 Dec 12 14:03 SYSTEM.TXT<BR>
+			-rw-r--r--   1 0     0      1021 Oct 18 22:33 WINSITE.TXT<BR>
+			dr-xr-xr-x   2 0     0      1024 Dec 20 17:30 bin<BR>
+			drwx--x--x   3 0     0      1024 Dec 31 22:07 msgs<BR>
+			dr-xr-xr-x   3 0     0      1024 Dec 27 08:29 pub<BR>
+			drwxr-xr-x   3 0     0      1024 Jul 11 23:20 usr<BR>
+			226 Transfer complete.<BR>
+			</SAMP>
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+		</TD></TR>
+		<TR><TD VALIGN=TOP ALIGN=RIGHT>
+			<IMG SRC="BULB.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/bulb.gif">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			You can also use wildcards, like &quot;*&quot; to see a listing of those file of interest to you. The command <I>dir *.txt</I> would list all files ending 
+			with <I>txt</I> in the current directory. Also note that a unix ftp server is case sensitive, which means that <I>file.txt</I> is not the same as <I>File.TXT</I>.
+			<HR WIDTH=100% SIZE=1 COLOR="#C0C0C0">
+			We now want to have a look into the pub directory. To change a directory, use the <I>cd</I> command in conjunction with the directory name. 
+			Be careful. Here is how to change the directory:
+			<P>
+			<SAMP>
+			ftp&gt; cd pub<BR>
+			250-** Welcome to the Windows archive at WinSite(tm)<BR>
+			250-**<BR>
+			250-**    For more information about this server, <BR>
+			250-**   go to the root directory,<BR>
+			250-**   and get the README file.<BR>
+			250-**<BR>
+			250-** The Archive:<BR>
+			250-**    ftp.winsite.com:/pub/pc/win3    <BR>
+			250-**       Windows 3.x and Win32s files<BR>
+			250-**    ftp.winsite.com:/pub/pc/win95   <BR>
+			250-**       Windows 95 files<BR>
+			250-**    ftp.winsite.com:/pub/pc/winnt   <BR>
+			250-**      Windows NT files<BR>
+			250-**    ftp.winsite.com:/pub/pc/starter <BR>
+			250-**     Basic compress/zip/zoo, etc files<BR>
+			250-**<BR>
+			250-<BR>
+			250-<BR>
+			250-Please read the file README<BR>
+			250-  it was last modified on Wed Oct 18 23:30:54 1995 <BR>
+			250- 75 days ago<BR>
+			250 CWD command successful.<BR>
+			ftp&gt;<BR>
+			</SAMP>
+			<P>
+			Once again, you might see a welcome message, when changing to this directory (like above). Now you can do a <I>dir</I> again to see the contents 
+			of that directory. To navigate one level higher, use <I>cd ..</I>
+			<P>
+			<!-- Transferring Files -->
+			<B>Transferring files</B><BR>
+			While you can download files from nearly every directory, there is a dedicated upload directory most of the time. This directory normally is named 
+			<I>incoming</I> or <I>uploads</I>. To transfer a file you need to set the proper transfer mode first. Switch transfer mode to ASCII for plain text files typing
+			<P>
+			<SAMP>
+			ftp&gt; asc<BR>
+			200 Type set to A.<BR>
+			</SAMP>
+			<P>
+			or switch transfer mode to binary for all other files by typing
+			<P>
+			<SAMP>
+			ftp&gt; bin<BR>
+			200 Type set to I.<BR>
+			</SAMP>
+			<P>
+			Now you can start your transfer by using the appropriate command. Use get &lt;filename&gt; to download a file or put &lt;filename&gt; to upload a file. 
+			&lt;Filename&gt; is to be replaced with the exact filename (again, case sensitive if you're using a UNIX command line). You can't use wildcards 
+			(*, etc.) when using the get or put command. If you intend to transfer a set of files or want to use wildcards, then you have to use the 
+			<I>mget &lt;filespec&gt;</I> and <I>mput &lt;filespec&gt;</I> commands (m is for multiple). &lt;Filespec&gt; can contain wildcards. 
+			<P>
+			<SAMP>
+			ftp&gt; mget *.*<BR>
+			</SAMP>
+			<P>
+			Normally, when transferring files, you won't get any progress indicator. You can enable a progress indicator by typing hash at the prompt. Typing 
+			hash once will turn the progress meter on, typing it again will turn it off. The progress meter is displayed as a # for each 1024 Bytes transferred.
+			<P>
+			<SAMP>
+			ftp&gt; hash<BR>
+			Hash mark printing on (1024 bytes/hash mark).<BR>
+			</SAMP>
+			<P>
+			Now start your transfer:
+			<P>
+			<SAMP>
+			ftp&gt; get last100uploads<BR>
+			200 PORT command successful.<BR>
+			150 Opening ASCII mode data connection for <BR>
+			150 last100uploads (7366 bytes).<BR>
+			########<BR>
+			226 Transfer complete.<BR>
+			7467 bytes received in 1.5 seconds (4.8 Kbytes/s)<BR>
+			</SAMP>
+			<P>
+			As you can see, you will get a message, displaying that a transfer using either ascii or binary mode has been started and how much bytes will be transferred.
+			Below you will see the hash marks. For each 1024 bytes, one hash mark is added. After the file has successfully been transferred, you will get the 
+			<I>transfer complete</I> message and how many bytes were transferred per second. Note that this is an average value. 
+			<P>
+			If you want to transfer multiple files at one, you can use the <I>mget</I> and <I>mput</I> commands to do so. Then you might be asked to confirm 
+			the transfer of each file. This can be turned on or off.
+			<P>
+			<SAMP>
+			ftp&gt; mget *.txt<BR>
+			</SAMP>
+			<P>
+			As you can see you have to use wildcards like &quot;*&quot; to define which files should be transferred. If the <I>interactive mode</I> is turned on, then
+			a confirmation has to be given for each file which is about to be transferred. Such a confirmation looks like this:		
+			<P>
+			<SAMP>
+			ftp&gt; mget *.txt<BR>
+			Get "index.txt" ? (Y=Yes, N=No, A=Get all, C=Cancel) <BR>
+			</SAMP>
+			<P>
+			In this case pressing <I>A</I> will transfer all files without further asking. If you want to turn on or off the interactive mode, type the following command:
+			<P>
+			<SAMP>
+			ftp&gt; prompt<BR>
+			Interactive Mode is now OFF <BR>
+			</SAMP>
+			<P>
+			The <I>prompt</I> command will toggle the interactive mode, which means, that if it is currently enabled, then it will be disabled and vice versa.
+			<P>
+			After you have completed your transfers you might want to log off. This is done by typing <I>quit</I> or <I>bye</I>.
+			<P>
+			<SAMP>
+			ftp&gt; quit<BR>
+			221 Goodbye.<BR>
+			</SAMP>
+			<P>
+			You will see a <I>goodbye</I> message and in some cases, depending on the server, you will se additional message like how long you have been 
+			logged on and how many bytes you have transferred.
+			<P>
+			<DIV ALIGN=RIGHT>
+			<A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A>
+			</DIV>
+			<HR COLOR="#008000" SIZE=3 NOSHADE>
+		</TD></TR>
+		<TR><TD VALIGN=TOP>
+			<IMG SRC="CHAP4.GIF" tppabs="http://www.austria.eu.net/iic/images/titles/chap4.gif" ALT="Chapter 4">
+		</TD><TD>
+			<FONT FACE="Verdana, Arial, Helvetica" SIZE=2>
+			<!-- Additional Information -->
+			<FONT COLOR="#008000" SIZE=3><B>Additional information</B></FONT><P>
+			If you need help type help at the ftp&gt; prompt. You will see a list of available commands. Then you can use <I>help &lt;command&gt;</I>
+			to get detailed help on that command, where &lt;command&gt; is to be replaced with the command name.
+			<P>
+			When uploading files, be sure to always use the appropriate directories and don't upload files, that don't fit on the server (e.g. upload
+			a unix file onto a server, that is specialized in windows software). And don't upload copyrighted software. It's illegal. The administrator
+			will remove your upload and maybe ban you from this site and might even shut it down. It doesn't pay.
+			</FONT>
+		</TD></TR>
+	</TABLE>
+
+	<!-- Footer -->
+	<P>	
+	<HR COLOR="#008000" SIZE=2 NOSHADE WIDTH=90%>
+	<CENTER><A HREF="#top"><FONT FACE="Verdana, Arial, Helvetica" SIZE=2>Top</FONT></A> <A HREF="#top"><IMG SRC="TOP.GIF" tppabs="http://www.austria.eu.net/iic/images/misc/top.gif" BORDER=0></A></CENTER>
+	<DIV ALIGN=RIGHT>
+		<FONT FACE="Verdana, Arial, Helvetica" SIZE=1>
+		&copy 1996 - 97 Christian Feichtner&nbsp;&nbsp;<BR>
+		Redistribution without permission prohibited, <A HREF="LEGAL.HTM" tppabs="http://www.austria.eu.net/iic/legal.htm">Legal Notices</A>&nbsp;&nbsp;<BR>
+		Internet Services provided and sponsored by <A HREF="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">EUnet International</A>&nbsp;&nbsp;<BR>
+		</FONT>
+	</DIV>
+</BODY>
+</HTML>
+
+
+
+
+

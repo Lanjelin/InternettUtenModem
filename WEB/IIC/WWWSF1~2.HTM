@@ -1,0 +1,297 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>WWW Security FAQ: General Questions</title>
+</head>
+
+<body>
+<H1>The World Wide Web Security FAQ</H1>
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF0~1.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf0.html">Backward to <cite>What's New</cite></a>
+  <li><A HREF="WWWSF2~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html">Forward to <cite>Running a Secure Server</cite></a>
+</ul>
+<HR>
+<h1>3. General Questions</h1>
+
+<H2><A NAME="Q1">Q1: What's to worry about?</A></H2>
+
+Unfortunately, there's a lot to worry about.  The moment you install a
+Web server at your site, you've opened a window into your local
+network that the entire Internet can peer through.  Most visitors are
+content to window shop, but a few will try to to peek at things you
+don't intend for public consumption.  Others, not content with looking
+without touching, will attempt to force the window open and crawl in.
+
+<p>
+It's a maxim in system security circles that buggy software opens up
+security holes.  It's a maxim in software development circles that
+large, complex programs contain bugs.  Unfortunately, Web servers are
+large, complex programs that can (and in some cases have been proven
+to) contain security holes.
+
+<p>
+Furthermore, the open architecture of Web servers allows arbitrary CGI
+scripts to be executed on the server's side of the connection in
+response to remote requests.  Any CGI script installed at your site
+may contain bugs, and every such bug is a potential security hole.
+
+<HR>
+
+<p>
+<H2><A NAME="Q2">Q2: Exactly what security risks are we talking about?</A></H2>
+
+There are basically four overlapping types of risk:
+
+<OL>
+  <LI> Private or confidential documents stored in the Web site's document
+tree falling into the hands of unauthorized individuals.
+
+  <LI> Private or confidential information sent by the remote user to the
+server (such as credit card information) being intercepted.
+
+  <LI> Information about the Web server's host machine leaking through,
+giving outsiders access to data that can potentially allow them to
+break into the host.
+
+  <LI> Bugs that allow outsiders to execute commands on the server's host
+machine, allowing them to modify and/or damage the system.  This
+includes "denial of service" attacks, in which the attackers pummel
+the machine with so many requests that it is rendered effectively
+useless.
+
+</OL>
+<p>
+<HR>
+
+<p>
+<H2><A NAME="Q3">Q3: Are some operating systems more secure to use as platforms for Web
+servers than others?</A></H2>
+
+The answer is yes, although the Unix community may not like to hear
+it.  In general, the more powerful and flexible the operating system,
+the more open it is for attack through its Web (and other) servers.
+
+<p>
+Unix systems, with their large number of built-in servers, services,
+scripting languages, and interpreters, are particular vulnerable to
+attack because there are simply so many portals of entry for hackers
+to exploit.  Less capable systems, such as Macintoshes and MS-Windows
+machines, are less easy to exploit.  Then again it's harder to
+accomplish really cool stuff on these machines, so you have a tradeoff
+between convenience and security.
+
+<p>
+Of course you always have to factor in the experience of the people
+running the server host and software.  A Unix system administered by a
+seasoned Unix administrator will probably be more secure than a
+MS Windows system set up by a novice.
+
+<HR>
+
+<H2><A NAME="Q4">Q4: Are some Web server software programs more secure than others?</A></H2>
+
+Again, the answer is yes, although it would be foolhardy to give
+specific recommendations on this point.  As a rule of thumb, the more
+features a server offers, the more likely it is to contain security
+holes.  Simple servers that do little more than make static files
+available for requests are probably safer than complex servers that
+offer such features as on-the-fly directory listings, CGI script
+execution, server-side include processing, and scripted error
+handling.
+
+<p>
+Version 1.3 of NCSA's Unix server contains a serious known security
+hole.  Discovered in March of 1995, this hole allows outsiders to
+execute arbitrary commands on the server host.  If you have a version
+1.3 httpd binary whose creation date is earlier than March 1995 don't
+use it!  Replace it with the patched 1.3 server (available at
+<A HREF="tppmsgs/msgs6.htm#615" tppabs="http://hoohoo.ncsa.uiuc.edu/">http://hoohoo.ncsa.uiuc.edu/</A>) or with
+version 1.4 or higher (available at the same site).  The
+Apache plug-in replacement for NCSA (<A HREF="tppmsgs/msgs6.htm#616" tppabs="http://www.hyperreal.com/apache/info.html">
+http://www.hyperreal.com/apache/info.html</A>) is also free of this bug.
+
+<p>
+Servers also vary in their ability to restrict browser access to
+individual documents or portions of the document tree.  Some servers
+provide no restriction at all, while others allow you to restrict
+access to directories based on the IP address of the browser or to
+users who can provide the correct password.  A few servers, primarily
+commercial ones (e.g. Netsite Commerce Server, Open Market), provide
+data encryption as well.
+
+<p>
+The WN server, by John Franks, deserves special mention in this regard
+because its design is distinctively different from other Web servers.
+While most servers take a permissive attitude to file distribution,
+allowing any document in the document root to be transferred unless it
+is specifically forbidden, WN takes a restrictive stance.  The server
+will not transfer a file unless it has been explicitly placed on a
+list of allowed documents.  On-the-fly directory listings and other
+"promiscuous" features are also disallowed.  Information on WN's
+security features can be found in its online documentation at:
+
+<p>
+<A HREF="tppmsgs/msgs6.htm#617" tppabs="http://hopf.math.nwu.edu/docs/security.html">http://hopf.math.nwu.edu/docs/security.html</A>
+
+<p>
+A table comparing the features of a large number of commercial,
+freeware and public domain servers has been put together by Paul
+Hoffman and is also available online:
+
+<p>
+  <A HREF="tppmsgs/msgs6.htm#618" tppabs="http://www.proper.com/www/servers-chart.html">http://www.proper.com/www/servers-chart.html</A>
+
+<HR>
+
+<H2><A NAME="Q5">Q5: Are CGI scripts insecure?</A></H2>
+
+CGI scripts are a major source of security holes.  Although the CGI
+(Common Gateway Interface) protocol is not inherently insecure, CGI
+scripts must be written with just as much care as the server
+itself. Unfortunately some scripts fall short of this standard and
+trusting Web administrators install them at their sites without
+realizing the problems.
+
+<HR>
+
+<H2><A NAME="Q6">Q6: Are server-side includes insecure?</A></H2>
+
+<p>
+Server side includes, snippets of server directives embedded in HTML
+documents, are another potential hole.  A subset of the directives
+available in server-side includes instruct the server to execute
+arbitrary system commands and CGI scripts.  Unless the author is aware
+of the potential problems it's easy to introduce unintentional side
+effects.  Unfortunately, HTML files containing dangerous server-side
+includes are seductively easy to write.
+
+<HR>
+
+<H2><A NAME="Q7">Q7: What general security precautions should I take?</A></H2>
+
+For Web servers running on Unix systems, here are some general
+security precautions to take:
+
+<OL>
+  <LI> Limit the number of login accounts available on the machine.
+Delete inactive users.
+
+  <LI> Make sure that people with login privileges choose good passwords.
+The Crack program will help you detect poorly-chosen passwords:
+
+</OL>
+<p>
+        <A HREF="tppmsgs/msgs6.htm#619" tppabs="ftp://ftp.cert.org/pub/tools/crack/">
+           ftp://ftp.cert.org/pub/tools/crack/
+        </A>
+
+<p>
+3. Turn off unused services.  For example, if you don't need to run
+FTP on the Web server host, physically remove the ftp daemon.
+Likewise for tftp, sendmail, gopher, NIS (network information
+services) clients, NFS (networked file system), finger, systat, and
+anything else that might be hanging around.  Check the file
+/etc/inetd.conf for a list of daemons that may be lurking, and comment
+out the ones you don't use.
+
+<p>
+4. Remove shells and interpreters that you don't absolutely need.  For
+example, if you don't run any Perl-based CGI scripts, remove the Perl
+interpreter.
+
+<p>
+5. Check both the system and Web logs regularly for suspicious
+activity.  The program Tripwire is helpful for scanning the system
+logs and sensitive files for break in attempts:
+
+<p>
+   <A HREF="tppmsgs/msgs6.htm#620" tppabs="ftp://coast.cs.purdue.edu/pub/COAST/Tripwire/">
+      ftp://coast.cs.purdue.edu/pub/COAST/Tripwire/</A>
+
+<p>
+More on scanning Web logs for suspicious activity below.
+
+<p>
+6. Make sure that permissions are set correctly on system files, to
+discourage tampering.  The program COPS is useful for this:
+
+<p>
+   <A HREF="tppmsgs/msgs6.htm#621" tppabs="ftp://ftp.cert.org/pub/tools/cops/">
+       ftp://ftp.cert.org/pub/tools/cops/
+   </A>
+
+<p>
+Be alert to the possibility that a _local_ user can accidentally make
+a change to the Web server configuration file or the document tree
+that opens up a security hole.  You should set file permissions in the
+document and server root directories such that only trusted local
+users can make changes.  Many sites create a "www" group to which
+trusted Web authors are added.  The document root is made writable
+only by members of this group.  To increase security further, the
+server root where vital configuration files are kept, is made writable
+only by the official Web administrator.  Many sites create a "www"
+user for this purpose.
+
+<HR>
+
+<H2><A NAME="Q8">Q8: Where can I learn more about general network security measures?</A></H2>
+
+Good books to get include:
+
+<UL>
+<LI><A HREF="#curry">Unix System Security: A Guide for Users and System
+     Administrators</A>, by David Curry
+
+<LI><A HREF="#garfinkel">Practical Unix Security</A>, by Simson Garfinkel and Gene
+     Spafford
+</UL>
+
+<p>
+A source of timely information, including the discovery of new
+security holes, are the CERT Coordination Center advisories, posted to
+the newsgroup comp.security.announce, and archived at:
+
+<p>
+        <A HREF="tppmsgs/msgs6.htm#622" tppabs="ftp://ftp.cert.org/pub/cert_advisories/">
+           ftp://ftp.cert.org/pub/cert_advisories/
+        </A>
+
+<p>
+A mailing list devoted specifically to issues of WWW security is
+maintained by the IETF Web Transaction Security Working Group.  To
+subscribe, send e-mail to www-security-request@nsmx.rutgers.edu.  In
+the body text of the message write:
+
+<p>
+   SUBSCRIBE www-security your_email_address
+
+<p>
+A series of security FAQs is mainted by Internet Security Systems,
+Inc.  The FAQs can be found at:
+
+<p>
+   <A HREF="tppmsgs/msgs6.htm#623" tppabs="http://www.iss.net/iss/faq.html">
+      http://www.iss.net/iss/faq.html
+   </A>
+
+<p>
+The main WWW FAQ also contains questions and answers relevant to Web
+security, such as log file management and sources of server software.
+The most recent version of this FAQ can be found at:
+
+<p>
+   http://sunsite.unc.edu/boutell/faq/www_faq.html
+<HR>
+<ul>
+  <li><A HREF="WWW-SE~1.HTM#contents" tppabs="http://www.austria.eu.net/www-security-faq/www-security-faq.html#contents">Up to Table of contents</A>
+  <li><A HREF="WWWSF0~1.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf0.html">Backward to <cite>What's New</cite></a>
+  <li><A HREF="WWWSF2~2.HTM" tppabs="http://www.austria.eu.net/www-security-faq/wwwsf2.html">Forward to <cite>Running a Secure Server</cite></a>
+</ul>
+<HR>
+<address>Lincoln D. Stein, lstein@genome.wi.mit.edu<br>
+<a href="INDEX-1.HTM" tppabs="http://www.austria.eu.net/">Whitehead Institute/MIT Center for Genome Research</a></address>
+<!-- hhmts start -->
+Last modified: Tue Mar 19 23:11:26 MET 1996
+<!-- hhmts end -->
+</body> </html>

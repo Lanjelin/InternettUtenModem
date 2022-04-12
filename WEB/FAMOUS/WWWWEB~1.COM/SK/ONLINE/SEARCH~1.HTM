@@ -1,0 +1,80 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY BGCOLOR=ffffcc TEXT=993333 LINK=993333 ALINK=993333 VLINK=993333>
+<BASE TARGET="main_page">
+<CENTER><TABLE BGCOLOR="cccc99" WIDTH=430>
+<TD><DL><DL>
+<Font Face="Arial" SIZE=6><B>kierkegaard</B> <FONT SIZE=3>GLOBAL SØGNING</FONT></FONT><P>
+
+<FONT FACE=ARIAL SIZE=2>
+<FORM METHOD="POST" ACTION="http://www.webcom.com/cgi-bin/glimpse" tppabs="http://www.webcom.com/cgi-bin/glimpse">
+<BR>Søgeord: <INPUT TYPE=text NAME="glimpse_search" SIZE = 50 MAXLENGTH=50>
+<BR><FONT SIZE=1><B>Boolean:</B> Brug semikolon som "og" , komma som "eller", { }  som parantes.</FONT>
+<P>Vis format: <INPUT TYPE=radio NAME=glimpse_rec_delim VALUE="<P>"> <B>Lang</B>
+ <INPUT TYPE=radio NAME=glimpse_rec_delim VALUE="$" CHECKED> <B>Kort</B>
+ &#160; &#160; &#160; Vis Maximalt: <SELECT NAME=glimpse_max>
+<OPTION>10						    
+<OPTION>25						     
+<OPTION>50						     
+<OPTION SELECTED>100						    
+<OPTION>200
+<OPTION>500
+</SELECT>
+<P>Søgetype:
+<INPUT TYPE=radio NAME=glimpse_type VALUE="g" > <B>Løs</B> 
+<INPUT TYPE=radio NAME=glimpse_type VALUE="w" CHECKED> <B>Stram</B>
+<P>Ignorér store/små bogstaver:  
+<INPUT TYPE=radio NAME=glimpse_case_sensitive CHECKED VALUE="off"> <B>Ja</B> 
+<INPUT TYPE=radio NAME=glimpse_case_sensitive VALUE="on"> <B>Nej</B>
+ <INPUT TYPE=hidden NAME="glimpse_show_lines" VALUE=on>
+<INPUT TYPE=hidden NAME=userid VALUE=sk>
+<INPUT TYPE=hidden NAME=glimpse_directory VALUE=www/online>
+<INPUT TYPE=hidden NAME=glimpse_not_matched VALUE="Søgningen gav intet resultat - prøv igen!">
+<INPUT TYPE=hidden NAME=glimpse_header VALUE="www/online/header.html">
+<CENTER><BR><INPUT TYPE="submit" VALUE="Start søgning"></CENTER>
+</FORM><BR></TABLE>
+<P>
+<CENTER><TABLE BGCOLOR="FFCC00" WIDTH=430 cellpadding=20>
+<TD >
+<Font size=4><CENTER>Kort søgevejledning</CENTER></font>
+<P><Font size=2 face=arial>
+I langt de fleste tilfælde opnår du den bedste søgning ved at anvende de forvalgte indstillinger. Dvs. du blot indtaster de(t) ord du søger og klikker på "start søgning".<P>
+<B>Booleansk søgning:</B><BR>
+Du kan søge på mere end et ord ad gangen ved at adskille ordene med "semikolon" (betyder "og")  eller "komma" (betyder "eller"):<P>
+Søgestrengen: <B>naade;skjæbne</B> betyder altså <I> vis mig de sider, hvor både </I>naade<I><B> og</B> </I>skjæbne<I> indgår.</I><P>
+Søgestrengen:<B>naade,skjæbne</B> betyder derimod<I> vis mig de sider, hvor enten </I>naade<I> <B>eller</B></I> skjæbne<I> indgår.</I><P>
+Ved mere komplekse søgninger kan du anvende <B>{ }</B> ("Tuborg-parentes") som parenteser:<P>
+Søgestrengen:<B>naade;skjæbne;{Gjentagelsen,Frygt og Bæven}</B> betyder <I>vis mig de sider, hvor både </I>naade<I><B> og </B></I>skjæbne<I> indgår, men kun i skrifterne "Gjentagelsen" og "Frygt og Bæven".</I><P>
+Du kan også søge uden booleansk markør:<BR>
+Søgestrengen <B>troens ridder</B> betyder lige ud <I>vis mig de sider, hvor  ordstillingen "troens ridder" optræder.</I><P>
+
+<B>Løs  eller stram søgning:</B><BR>
+Stram søgning søger kun hele ord, modsat løs søgning, der også søger på dele af ord:
+Søgeordet <B>naade</B> vil med stram søgning kun finde de steder, hvor ordet <B>naade</B> findes, mens løs søgning også vil omfatte f.eks <B>naade<I>n</I>, naade<I>fuld</I>, <I>be</I>naade.</B><BR>
+Det er afhængig af opgaven, hvilken af de to søgetyper, der er den mest effektive. Løs søgning kan være effektfuld, men er også langsommere. Ved tvivl om stavemåden, kan en løs søgning være en god løsning. Er du f.eks. usikker på hvorledes Kierkegaard staver "incommensurabel" kan du søge løst på f.eks. <B>surabel.</B><P>
+<B>Ignorér store/små bogstaver:</B><BR>
+Kun i få tilfælde er det anbefalelsesværdigt at stille denne parameter til "nej", men i ovennævnte eksempel med søgeord <B>naade</B> kan det med fordel gøres. Du vil hermed kunne eliminere måske mindre vedkommende ord som "naadefuld" og "benaade", idet disse modsat  "Naade" og "Naaden"  er stavet med lille begyndelsesbogstav.<P>
+<B>Lang og kort format:</B><BR>
+Denne indstilling har betydning for hvorledes resultatet af din søgning vises: 
+<B>Kort</B> format vil vise den eller de <B>linjer</B> på en side, hvor søgeordet indgår, mens <B>lang</B> søgning vil vise <B>hele tekstafsnittet</B>. Forventer du et stort antal fund, er <B>kort</B> visning at anbefale. <P>
+Det maximale antal fund du ønsker vist kan du justere med parametren <B>vis maximalt</B>. Den er forudinstillet til 100, hvilket sædvanligvis er en passende grænse. Ønsker du lang format, kan du evt. nedsætte "vis maximum" til 50.
+</TABLE>
+<P><FONT FACE="Times New Roman">
+<CENTER>
+<FONT SIZE=2>
+<B>Kierkegaard Online</B><br>
+is created and maintained by<br>
+<b>Per Linds&oslash; Larsen</b></A><BR>
+<I>lindsoe@po.ia.dk<BR></I>
+
+
+
+</BODY></HTML>
+
+
+
+
+
+

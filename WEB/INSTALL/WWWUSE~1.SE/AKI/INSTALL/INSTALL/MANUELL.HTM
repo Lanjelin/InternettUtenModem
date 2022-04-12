@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<title>Manuell avinstallation</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 1.1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<h1><img src="IMG00012.GIF" tppabs="http://www.users.wineasy.se/aki/install/install/IMG00012.gif" align=bottom width=34 height=34> Att avinstallera program</h1>
+<hr>
+<h3><font size=5>Manuell avinstallation</font> </h3>
+<p>Ibland kan det h&auml;nda att ovanst&aring;ende avinstallation inte fungerar av n&aring;gon anledning, d&aring; m&aring;ste du 
+avinstallera programmet sj&auml;lv. Det m&aring;ste du &auml;ven g&ouml;ra om programmet saknar ett 
+avinstallationsprogram. Helst b&ouml;r du anv&auml;nda n&aring;gon typ av avinstallationsprogram, tex 
+CleanSweep, men inte ens dessa program kan avinstallera allt som det var f&ouml;re installationen. 
+D&auml;rf&ouml;r b&ouml;r du k&auml;nna till vad du ska ta bort n&auml;r du avinstallerar program.</p>
+<p><b>Ta bort programkatalogen</b> </p>
+<p>Det f&ouml;rsta och s&auml;kraste du ska g&ouml;ra &auml;r att ta bort programmets katalog, men innan du tar bort 
+katalogen kolla datumet p&aring; programfilerna i katalogen. Det kan du ha nytta av n&auml;r du ska ta bort 
+filer i Windows systemkatalog senare. Kom ocks&aring; ih&aring;g att flytta filer som du vill ha kvar n&aring;gon 
+annanstans, det g&auml;ller s&auml;rskilt filer som du sj&auml;lv har skapat.</p>
+<p><b>Ta bort filer fr&aring;n Windows och System-katalogen</b> </p>
+<p>Kolla f&ouml;rst om det finns n&aring;gon/n&aring;gra Ini-filer till programmet, de ligger i Windowskatalogen. </p>
+<p>G&aring; d&auml;refter till Windows systemkatalog och sortera filerna i datumordning och kolla om det finns 
+n&aring;gra filer med samma datum som f&ouml;r programmet som du tog bort. Om det finns filer med samma 
+datum &auml;r det troligt att dem h&ouml;r till programmet, men de kan ocks&aring; anv&auml;ndas av andra program. 
+F&ouml;r att prova om de h&ouml;r till andra program kan du flytta dem till en katalog som inte finns i din 
+s&ouml;kv&auml;g och prova om dina andra program fungerar.</p>
+<p><b>Ta bort inst&auml;llningar</b> </p>
+<p>Kolla om det finns h&auml;nvisningar till programmets katalog i Config.sys eller Autoexec.bat. Om det 
+finns ta bort dem. </p>
+<p>Forts&auml;tt sedan med att kolla Win.ini och ta bort eventuella h&auml;nvisningar till programmet. Tex kan 
+det finnas information om programmets filtyp i Win.ini. </p>
+<p>I Windows 95 ska du &auml;ven kolla registret. K&ouml;r RegEdit och ta bort programmets filtyp fr&aring;n 
+HKEY_CLASSES_ROOT, kolla om det finns inst&auml;llningar f&ouml;r programmet under 
+HKEY_CURRENT_USER\Software\&lt;Programtillverkare&gt;\&lt;Programnamn&gt; och 
+HKEY_LOCAL_MACHINE\Software\&lt;Programtillverkare&gt;\&lt;Programnamn&gt;, dessa kan du ta 
+bort. Vidare kan du s&ouml;ka efter information om programmet i registret genom att v&auml;lja S&ouml;k&#133; fr&aring;n 
+Redigera-menyn och skriva programmets namn i S&ouml;k-rutan. D&aring; kan du &auml;ven hitta eventuella andra 
+inst&auml;llningar som OLE inst&auml;llningar vilka du kan ta bort.</p>
+<p><b>Bra tips</b> </p>
+<p>&Auml;r du os&auml;ker p&aring; om vad du ska ta bort s&aring; ska du f&ouml;rst ta en s&auml;kerhetskopia av den filen d&auml;r du tar 
+bort n&aring;got. Registret s&auml;kerhetskopierar du genom att kopiera filerna User.dat och System.dat vilka 
+ligger i Windows-katalogen. </p>
+<p>Ett annat s&auml;tt att testa om du tar bort r&auml;tt rader i filer &auml;r att skriva Rem eller ; (semikolon) f&ouml;rst p&aring; 
+den rad som du t&auml;nkar ta bort, d&aring; tolkar systemet det som en kommentar och om det inte skulle 
+fungera &auml;r det bara ta bort Rem eller ; och d&aring; ska det fungera som f&ouml;rut igen. </p>
+<p>Med programmet SysEdit kan du enkelt g&ouml;ra &auml;ndringar i systemfilerna Config.sys, AutoExec.bat, 
+Win.ini och System.ini. SysEdit tar dessutom automatiskt en s&auml;kerhetskopia med fil&auml;ndelsen .Syd 
+om du &auml;ndrar i n&aring;gon fil. Efter&aring;t n&auml;r allt fungerar igen kan du ta bort dessa s&auml;kerhetskopior eller 
+flytta dem n&aring;gon annanstans s&aring; att du inte f&aring;r f&ouml;r m&aring;nga on&ouml;diga filer i ditt system. </p>
+<p><img src="IMG00014.GIF" tppabs="http://www.users.wineasy.se/aki/install/install/IMG00014.gif" align=bottom width=278 height=186> </p>
+<p><i>Register-editorn, k&ouml;r regedit.</i></p>
+<p><img src="IMG00015.GIF" tppabs="http://www.users.wineasy.se/aki/install/install/IMG00015.gif" align=bottom width=277 height=181> </p>
+<p><i>Systemfils-editorn, k&ouml;r sysedit.</i></p>
+<hr>
+<p>| <a href="EGET.HTM" tppabs="http://www.users.wineasy.se/aki/install/install/eget.htm">&lt;&lt; Bak&aring;t</a> <a href="../TIPS/EFFEKT~1.HTM" tppabs="http://www.users.wineasy.se/aki/install/tips/effektiva.htm">Fram&aring;t &gt;&gt;</a> <a href="../INNEH.HTM" tppabs="http://www.users.wineasy.se/aki/install/inneh.htm">Tillbaka till inneh&aring;llet</a> |</p>
+</body>
+
+</html>

@@ -1,0 +1,1644 @@
+<!doctype HTML public "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This HTML file was created by texi2html 1.28
+     from jargon.tex on 26 July 1996 -->
+<HTML>
+<HEAD>
+
+<TITLE>The New Hacker's Dictionary  - = C =</TITLE>
+</HEAD>
+<BODY>
+<P>Go to the <A HREF="JARGO~18.HTM" tppabs="http://www.ccil.org/jargon/jargon_17.html">previous</A>, <A HREF="JARGO~21.HTM" tppabs="http://www.ccil.org/jargon/jargon_19.html">next</A> section.<P>
+<H2><A NAME="SEC25" HREF="JARGON~1.HTM#SEC25" tppabs="http://www.ccil.org/jargon/jargon_toc.html#SEC25">= C =</A></H2>
+
+
+
+<A NAME=TAG242><B>C</B></A> /n./ <P> 1. The third letter of the English alphabet.  2. ASCII
+   1000011.  3. The name of a programming language designed by Dennis
+   Ritchie during the early 1970s and immediately used to reimplement
+    <A HREF="JARGO~35.HTM#TAG1869" tppabs="http://www.ccil.org/jargon/jargon_36.html#TAG1869">Unix</A>; so called because many features derived from an earlier
+   compiler named `B' in commemoration of <EM>its</EM> parent, BCPL.
+   (BCPL was in turn descended from an earlier Algol-derived language,
+   CPL.)  Before Bjarne Stroustrup settled the question by designing
+    <A HREF="JARGO~19.HTM#TAG244" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG244">C++</A>, there was a humorous debate over whether C's successor should
+   be named `D' or `P'.  C became immensely popular outside Bell Labs
+   after about 1980 and is now the dominant language in systems and
+   microcomputer applications programming.  See also  <A HREF="JARGO~28.HTM#TAG1010" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1010">languages of choice</A>,  <A HREF="JARGO~24.HTM#TAG934" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG934">indent style</A>.
+<P>
+   C is often described, with a mixture of fondness and disdain
+   varying according to the speaker, as "a language that combines
+   all the elegance and power of assembly language with all the
+   readability and maintainability of assembly language".  <P>
+<A NAME=TAG243><B>C Programmer's Disease</B></A> /n./ <P> The tendency of the undisciplined
+   C programmer to set arbitrary but supposedly generous static limits
+   on table sizes (defined, if you're lucky, by constants in header
+   files) rather than taking the trouble to do proper dynamic storage
+   allocation.  If an application user later needs to put 68 elements
+   into a table of size 50, the afflicted programmer reasons that he
+   or she can easily reset the table size to 68 (or even as much as
+   70, to allow for future expansion) and recompile.  This gives the
+   programmer the comfortable feeling of having made the effort to
+   satisfy the user's (unreasonable) demands, and often affords the
+   user multiple opportunities to explore the marvelous consequences
+   of  <A HREF="JARGO~22.HTM#TAG585" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG585">fandango on core</A>.  In severe cases of the disease, the
+   programmer cannot comprehend why each fix of this kind seems only
+   to further disgruntle the user.  <P>
+<A NAME=TAG244><B>C++</B></A> /C'-pluhs-pluhs/ /n./ <P> Designed by Bjarne Stroustrup
+   of AT&#38;T Bell Labs as a successor to  <A HREF="JARGO~19.HTM#TAG242" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG242">C</A>.  Now one of the
+    <A HREF="JARGO~28.HTM#TAG1010" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1010">languages of choice</A>, although many hackers still grumble that
+   it is the successor to either Algol 68 or  <A HREF="JARGO~17.HTM#TAG8" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG8">Ada</A> (depending on
+   generation), and a prime example of  <A HREF="JARGO~46.HTM#TAG1571" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1571">second-system effect</A>.
+   Almost anything that can be done in any language can be done in
+   C++, but it requires a  <A HREF="JARGO~28.HTM#TAG1009" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1009">language lawyer</A> to know what is and
+   what is not legal-- the design is <EM>almost</EM> too large to hold
+   in even hackers' heads.  Much of the  <A HREF="JARGO~19.HTM#TAG390" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG390">cruft</A> results from C++'s
+   attempt to be backward compatible with C.  Stroustrup himself has
+   said in his retrospective book "The Design and Evolution of
+   C++" (p. 207), "Within C++, there is a much smaller and cleaner
+   language struggling to get out."  [Many hackers would now add
+   "Yes, and it's called Java" --ESR] <P>
+<A NAME=TAG245><B>calculator</B></A> [Cambridge] /n./ <P> Syn. for  <A HREF="JARGO~18.HTM#TAG124" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG124">bitty box</A>.  <P>
+<A NAME=TAG246><B>Camel Book</B></A> /n./ <P> Universally recognized nickname for the book
+   "Programming Perl", by Larry Wall and Randal L. Schwartz,
+   O'Reilly Associates 1991, ISBN 0-937175-64-1.  The definitive
+   reference on  <A HREF="JARGO~34.HTM#TAG1353" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1353">Perl</A>. <P>
+<A NAME=TAG247><B>can</B></A> /vt./ <P> To abort a job on a time-sharing system.  Used
+   esp. when the person doing the deed is an operator, as in
+   "canned from the  <A HREF="JARGO~19.HTM#TAG332" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG332">console</A>".  Frequently used in an imperative
+   sense, as in "Can that print job, the LPT just popped a
+   sprocket!"  Synonymous with  <A HREF="JARGO~23.HTM#TAG816" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG816">gun</A>.  It is said that the ASCII
+   character with mnemonic CAN (0011000) was used as a kill-job
+   character on some early OSes.  Alternatively, this term may derive
+   from mainstream slang `canned' for being laid off or fired.  <P>
+<A NAME=TAG248><B>can't happen</B></A> <P> The traditional program comment for code
+   executed under a condition that should never be true, for example a
+   file size computed as negative.  Often, such a condition being true
+   indicates data corruption or a faulty algorithm; it is almost
+   always handled by emitting a fatal error message and terminating or
+   crashing, since there is little else that can be done.  Some case
+   variant of "can't happen" is also often the text emitted if the
+   `impossible' error actually happens!  Although "can't happen"
+   events are genuinely infrequent in production code, programmers
+   wise enough to check for them habitually are often surprised at how
+   frequently they are triggered during development and how many
+   headaches checking for them turns out to head off. See also
+    <A HREF="JARGO~22.HTM#TAG629" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG629">firewall code</A> (sense 2).  <P>
+<A NAME=TAG249><B>candygrammar</B></A> /n./ <P> A programming-language grammar that is
+   mostly  <A HREF="JARGO~46.HTM#TAG1737" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1737">syntactic sugar</A>; the term is also a play on
+   `candygram'.   <A HREF="JARGO~19.HTM#TAG303" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG303">COBOL</A>, Apple's Hypertalk language, and a lot
+   of the so-called `4GL' database languages share this property.
+   The usual intent of such designs is that they be as English-like as
+   possible, on the theory that they will then be easier for unskilled
+   people to program.  This intention comes to grief on the reality
+   that syntax isn't what makes programming hard; it's the mental
+   effort and organization required to specify an algorithm precisely
+   that costs.  Thus the invariable result is that `candygrammar'
+   languages are just as difficult to program in as terser ones, and
+   far more painful for the experienced hacker.  <P>
+   [The overtones from the old Chevy Chase skit on Saturday Night Live
+   should not be overlooked.  This was a "Jaws" parody.
+   Someone lurking outside an apartment door tries all kinds of bogus
+   ways to get the occupant to open up, while ominous music plays in
+   the background.  The last attempt is a half-hearted "Candygram!"
+   When the door is opened, a shark bursts in and chomps the poor
+   occupant.  There is a moral here for those attracted to
+   candygrammars.  Note that, in many circles, pretty much the same
+   ones who remember Monty Python sketches, all it takes is the word
+   "Candygram!", suitably timed, to get people rolling on the
+   floor. -- GLS]
+<P>
+<A NAME=TAG250><B>canonical</B></A> /adj./ <P> [historically, `according to religious law']
+   The usual or standard state or manner of something.  This word has
+   a somewhat more technical meaning in mathematics.  Two formulas
+   such as @Math{9 + x} and @Math{x + 9} are said to be equivalent
+   because they mean the same thing, but the second one is in
+   `canonical form' because it is written in the usual way, with the
+   highest power of @Math{x} first.  Usually there are fixed rules you
+   can use to decide whether something is in canonical form.  The
+   jargon meaning, a relaxation of the technical meaning, acquired its
+   present loading in computer-science culture largely through its
+   prominence in Alonzo Church's work in computation theory and
+   mathematical logic (see  <A HREF="JARGO~27.HTM#TAG1003" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG1003">Knights of the Lambda Calculus</A>).
+   Compare  <A HREF="JARGO~36.HTM#TAG1891" tppabs="http://www.ccil.org/jargon/jargon_37.html#TAG1891">vanilla</A>.  <P>
+   Non-technical academics do not use the adjective `canonical' in
+   any of the senses defined above with any regularity; they do
+   however use the nouns `canon' and `canonicity' (not
+   **canonicalness or **canonicality). The `canon' of a given author
+   is the complete body of authentic works by that author (this usage
+   is familiar to Sherlock Holmes fans as well as to literary
+   scholars).  `<EM>The</EM> canon' is the body of works in a given
+   field (e.g., works of literature, or of art, or of music) deemed
+   worthwhile for students to study and for scholars to investigate. <P>
+   The word `canon' has an interesting history.  It derives
+   ultimately from the Greek
+   (akin to the English `cane') referring to a reed.  Reeds were used
+   for measurement, and in Latin and later Greek the word `canon'
+   meant a rule or a standard.  The establishment of a canon of
+   scriptures within Christianity was meant to define a standard or a
+   rule for the religion.  The above non-techspeak academic usages
+   stem from this instance of a defined and accepted body of work.
+   Alongside this usage was the promulgation of `canons' (`rules')
+   for the government of the Catholic Church.  The techspeak usages
+   ("according to religious law") derive from this use of the Latin
+   `canon'.  <P>
+   Hackers invest this term with a playfulness that makes an ironic
+   contrast with its historical meaning.  A true story: One Bob
+   Sjoberg, new at the MIT AI Lab, expressed some annoyance at the
+   incessant use of jargon.  Over his loud objections, GLS and RMS
+   made a point of using as much of it as possible in his presence,
+   and eventually it began to sink in.  Finally, in one conversation,
+   he used the word `canonical' in jargon-like fashion without
+   thinking.  Steele: "Aha!  We've finally got you talking jargon
+   too!"  Stallman: "What did he say?"  Steele: "Bob just used
+   `canonical' in the canonical way."  <P>
+   Of course, canonicality depends on context, but it is implicitly
+   defined as the way <EM>hackers</EM> normally expect things to be.
+   Thus, a hacker may claim with a straight face that `according to
+   religious law' is <EM>not</EM> the canonical meaning of
+   `canonical'.  <P>
+<A NAME=TAG251><B>card walloper</B></A> /n./ <P> An EDP programmer who grinds out batch
+   programs that do stupid things like print people's paychecks.
+   Compare  <A HREF="JARGO~19.HTM#TAG305" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG305">code grinder</A>.  See also  <A HREF="JARGO~34.HTM#TAG1436" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1436">punched card</A>,
+    <A HREF="JARGO~20.HTM#TAG539" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG539">eighty-column mind</A>.  <P>
+<A NAME=TAG252><B>careware</B></A> /keir'weir/ /n./ <P> A variety of  <A HREF="JARGO~46.HTM#TAG1592" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1592">shareware</A> for
+   which either the author suggests that some payment be made to a
+   nominated charity or a levy directed to charity is included on top
+   of the distribution charge.  Syn.  <A HREF="JARGO~19.HTM#TAG271" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG271">charityware</A>; compare
+    <A HREF="JARGO~19.HTM#TAG384" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG384">crippleware</A>, sense 2.  <P>
+<A NAME=TAG253><B>cargo cult programming</B></A> /n./ <P> A style of (incompetent)
+   programming dominated by ritual inclusion of code or program
+   structures that serve no real purpose.  A cargo cult programmer
+   will usually explain the extra code as a way of working around some
+   bug encountered in the past, but usually neither the bug nor the
+   reason the code apparently avoided the bug was ever fully
+   understood (compare  <A HREF="JARGO~46.HTM#TAG1600" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1600">shotgun debugging</A>,  <A HREF="JARGO~36.HTM#TAG1921" tppabs="http://www.ccil.org/jargon/jargon_37.html#TAG1921">voodoo programming</A>).
+<P>
+   The term `cargo cult' is a reference to aboriginal religions that
+   grew up in the South Pacific after World War II.  The practices of
+   these cults center on building elaborate mockups of airplanes and
+   military style landing strips in the hope of bringing the return of
+   the god-like airplanes that brought such marvelous cargo during the
+   war.  Hackish usage probably derives from Richard Feynman's
+   characterization of certain practices as "cargo cult science" in
+   his book "Surely You're Joking, Mr. Feynman!" (W. W. Norton
+   &#38; Co, New York 1985, ISBN 0-393-01921-7).  <P>
+<A NAME=TAG254><B>cascade</B></A> /n./ <P> 1. A huge volume of spurious error-message
+   output produced by a compiler with poor error recovery.  Too
+   frequently, one trivial syntax error (such as a missing `)' or
+   `}') throws the parser out of synch so that much of the remaining
+   program text is interpreted as garbaged or ill-formed.  2. A chain
+   of Usenet followups, each adding some trivial variation or riposte
+   to the text of the previous one, all of which is reproduced in the
+   new message; an  <A HREF="JARGO~24.HTM#TAG933" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG933">include war</A> in which the object is to create a
+   sort of communal graffito.  <P>
+<A NAME=TAG255><B>case and paste</B></A> /n./ <P> [from `cut and paste'] 1. The addition of a new
+    <A HREF="JARGO~22.HTM#TAG597" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG597">feature</A> to an existing system by selecting the code from an
+   existing feature and pasting it in with minor changes.  Common in
+   telephony circles because most operations in a telephone switch are
+   selected using <CODE>case</CODE> statements.  Leads to  <A HREF="JARGO~46.HTM#TAG1657" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1657">software bloat</A>.
+<P>
+   In some circles of EMACS users this is called `programming by
+   Meta-W', because Meta-W is the EMACS command for copying a block of
+   text to a kill buffer in preparation to pasting it in elsewhere.
+   The term is condescending, implying that the programmer is acting
+   mindlessly rather than thinking carefully about what is required to
+   integrate the code for two similar cases.  <P>
+   At DEC, this is sometimes called `clone-and-hack' coding.
+<P>
+<A NAME=TAG256><B>casters-up mode</B></A> /n./ <P> [IBM, prob. fr. slang <I>belly up</I>] Yet
+   another synonym for `broken' or `down'.  Usually connotes a
+   major failure.  A system (hardware or software) which is `down'
+   may be already being restarted before the failure is noticed,
+   whereas one which is `casters up' is usually a good excuse to
+   take the rest of the day off (as long as you're not responsible for
+   fixing it).  <P>
+<A NAME=TAG257><B>casting the runes</B></A> /n./ <P> What a  <A HREF="JARGO~23.HTM#TAG819" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG819">guru</A> does when you ask him
+   or her to run a particular program and type at it because it never
+   works for anyone else; esp. used when nobody can ever see what
+   the guru is doing different from what J. Random Luser does.
+   Compare  <A HREF="JARGO~24.HTM#TAG931" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG931">incantation</A>,  <A HREF="JARGO~33.HTM#TAG1530" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1530">runes</A>,  <A HREF="JARGO~20.HTM#TAG570" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG570">examining the entrails</A>;
+   also see the AI koan about Tom Knight in " <A HREF="JARGO~49.HTM#SEC54" tppabs="http://www.ccil.org/jargon/jargon_47.html#SEC54">AI Koans</A>"
+   (Appendix A).  <P>
+   A correspondent from England tells us that one of ICL's most
+   talented systems designers used to be called out occasionally to
+   service machines which the  <A HREF="JARGO~22.HTM#TAG611" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG611">field circus</A> had given up on.
+   Since he knew the design inside out, he could often find faults
+   simply by listening to a quick outline of the symptoms.  He used to
+   play on this by going to some site where the field circus had just
+   spent the last two weeks solid trying to find a fault, and
+   spreading a diagram of the system out on a table top.  He'd then
+   shake some chicken bones and cast them over the diagram, peer at
+   the bones intently for a minute, and then tell them that a certain
+   module needed replacing.  The system would start working again
+   immediately upon the replacement. <P>
+<A NAME=TAG258><B>cat</B></A> [from `catenate' via  <A HREF="JARGO~35.HTM#TAG1869" tppabs="http://www.ccil.org/jargon/jargon_36.html#TAG1869">Unix</A> <CODE>cat(1)</CODE>] /vt./ <P>
+   1. [techspeak] To spew an entire file to the screen or some other
+   output sink without pause.  2. By extension, to dump large amounts
+   of data at an unprepared target or with no intention of browsing it
+   carefully.  Usage: considered silly.  Rare outside Unix sites.  See
+   also  <A HREF="JARGO~21.HTM#TAG423" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG423">dd</A>,  <A HREF="JARGO~18.HTM#TAG151" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG151">BLT</A>.  <P>
+   Among Unix fans, <CODE>cat(1)</CODE> is considered an excellent example
+   of user-interface design, because it delivers the file contents
+   without such verbosity as spacing or headers between the files, and
+   because it does not require the files to consist of lines of text,
+   but works with any sort of data.  <P>
+   Among Unix haters, <CODE>cat(1)</CODE> is considered the  <A HREF="JARGO~19.HTM#TAG250" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG250">canonical</A>
+   example of <EM>bad</EM> user-interface design, because of its
+   woefully unobvious name.  It is far more often used to  <A HREF="JARGO~18.HTM#TAG133" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG133">blast</A> a
+   file to standard output than to concatenate two files.  The name
+   <CODE>cat</CODE> for the former operation is just as unintuitive as, say,
+   LISP's  <A HREF="JARGO~19.HTM#TAG262" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG262">cdr</A>.  <P>
+   Of such oppositions are  <A HREF="JARGO~26.HTM#TAG897" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG897">holy wars</A> made.... <P>
+<A NAME=TAG259><B>catatonic</B></A> /adj./ <P> Describes a condition of suspended animation
+   in which something is so  <A HREF="JARGO~40.HTM#TAG1951" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1951">wedged</A> or  <A HREF="JARGO~26.HTM#TAG912" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG912">hung</A> that it makes no
+   response.  If you are typing on a terminal and suddenly the
+   computer doesn't even echo the letters back to the screen as you
+   type, let alone do what you're asking it to do, then the computer
+   is suffering from catatonia (possibly because it has crashed).
+   "There I was in the middle of a winning game of  <A HREF="JARGO~29.HTM#TAG1233" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1233">nethack</A> and
+   it went catatonic on me!  Aaargh!" Compare  <A HREF="JARGO~18.HTM#TAG236" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG236">buzz</A>.  <P>
+<A NAME=TAG260><B>cd tilde</B></A> /C-D til-d*/ /vi./ <P> To go home.  From the Unix
+   C-shell and Korn-shell command <CODE>cd ~</CODE>, which takes one to
+   one's <CODE>$HOME</CODE> (<CODE>cd</CODE> with no arguments happens to do the
+   same thing).  By extension, may be used with other arguments; thus,
+   over an electronic chat link, <CODE>cd ~coffee</CODE> would mean "I'm
+   going to the coffee machine."
+<P>
+<A NAME=TAG261><B>CDA</B></A> /C-D-A/ <P>  The "Communications Decency Act" of 1996,
+   passed on  <A HREF="JARGO~18.HTM#TAG130" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG130">Black Thursday</A> as section 502 of a major
+   telecommunications reform bill. The CDA made it a federal crime in
+   the USA to send a communication which is "obscene,
+   lewd, lascivious, filthy, or indecent, with intent to annoy, abuse,
+   threaten, or harass another person." It also threatens with
+   imprisonment anyone who "knowingly" makes accessible to minors
+   any message that "describes, in terms patently offensive as
+   measured by contemporary community standards, sexual or excretory
+   activities or organs".   
+   While the CDA was sold as a measure to protect minors from the
+   putative evils of pornography, the repressive political aims of the
+   bill were laid bare by the Hyde amendment, which intended to
+   outlaw discussion of abortion on the Internet. <P>
+   To say that this direct attack on First Amendment free-speech
+   rights was not well received on the Internet would be putting it
+   mildly.  A firestorm of protest followed, including a February 29th
+   mass demonstration by thousands of netters who turned their
+    <A HREF="JARGO~26.HTM#TAG900" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG900">home page</A>s black for 48 hours.  Several civil-rights groups
+   and computing/telecommunications companies sought an immediate
+   injunction to block enforcement of the CDA pending a constitutional
+   challenge.  This injunction was granted on the likelihood that
+   plaintiffs would prevail on the merits of the case.  At time of
+   writing (Spring 1996), the fate of the CDA, and its effect on the
+   Internet, is still unknown. See also  <A HREF="JARGO~20.HTM#TAG576" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG576">Exon</A>. <P>
+   To join the fight against the CDA (if it's still law) and other
+   forms of Internet censorship, visit the Center for Democracy and
+   Technology Home Page at <I><a href="../../tppmsgs/msgs9.htm#940" tppabs="http://www.cdt.org/">http://www.cdt.org</a></I>. <P>
+<A NAME=TAG262><B>cdr</B></A> /ku'dr/ or /kuh'dr/ /vt./ <P> [from LISP] To skip past
+   the first item from a list of things (generalized from the LISP
+   operation on binary tree structures, which returns a list
+   consisting of all but the first element of its argument).  In the
+   form `cdr down', to trace down a list of elements: "Shall we cdr
+   down the agenda?"  Usage: silly.  See also  <A HREF="JARGO~28.HTM#TAG1063" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1063">loop through</A>.
+<P>
+   Historical note: The instruction format of the IBM 704 that hosted
+   the original LISP implementation featured two 15-bit fields called
+   the `address' and `decrement' parts.  The term `cdr' was originally
+   `Contents of Decrement part of Register'.  Similarly, `car' stood
+   for `Contents of Address part of Register'.
+<P>
+   The cdr and car operations have since become bases for
+   formation of compound metaphors in non-LISP contexts.  GLS recalls,
+   for example, a programming project in which strings were
+   represented as linked lists; the get-character and skip-character
+   operations were of course called CHAR and CHDR.  <P>
+<A NAME=TAG263><B>chad</B></A> /chad/ /n./ <P> 1. The perforated edge strips on printer
+   paper, after they have been separated from the printed portion.
+   Also called  <A HREF="JARGO~46.HTM#TAG1581" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1581">selvage</A> and  <A HREF="JARGO~34.HTM#TAG1351" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1351">perf</A>.  2. obs. The confetti-like
+   paper bits punched out of cards or paper tape; this has also been
+   called `chaff', `computer confetti', and `keypunch
+   droppings'.  This use may now be mainstream; it has been reported
+   seen (1993) in directions for a card-based voting machine in
+   California. <P>
+   Historical note: One correspondent believes `chad' (sense 2)
+   derives from the Chadless keypunch (named for its inventor), which
+   cut little u-shaped tabs in the card to make a hole when the tab
+   folded back, rather than punching out a circle/rectangle; it was
+   clear that if the Chadless keypunch didn't make them, then the
+   stuff that other keypunches made had to be `chad'.  There is a
+   legend that the word was originally acronymic, standing for
+   "Card Hole Aggregate Debris", but this has all the earmarks of
+   a bogus folk etymology.  <P>
+<A NAME=TAG264><B>chad box</B></A> /n./ <P> A metal box about the size of a lunchbox (or in
+   some models a large wastebasket), for collecting the  <A HREF="JARGO~19.HTM#TAG263" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG263">chad</A>
+   (sense 2) that accumulated in  <A HREF="JARGO~24.HTM#TAG954" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG954">Iron Age</A> card punches.  You had
+   to open the covers of the card punch periodically and empty the
+   chad box.  The  <A HREF="JARGO~18.HTM#TAG116" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG116">bit bucket</A> was notionally the equivalent device
+   in the CPU enclosure, which was typically across the room in
+   another great gray-and-blue box.  <P>
+<A NAME=TAG265><B>chain</B></A> <P> 1. /vi./ [orig. from BASIC's <CODE>CHAIN</CODE> statement]
+   To hand off execution to a child or successor without going
+   through the  <A HREF="JARGO~32.HTM#TAG1309" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1309">OS</A> command interpreter that invoked it.  The state
+   of the parent program is lost and there is no returning to it.
+   Though this facility used to be common on memory-limited micros and
+   is still widely supported for backward compatibility, the jargon
+   usage is semi-obsolescent; in particular, most Unix programmers
+   will think of this as an  <A HREF="JARGO~20.HTM#TAG574" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG574">exec</A>.  Oppose the more modern
+   `subshell'.  2. /n./ A series of linked data areas within an
+   operating system or application.  `Chain rattling' is the process
+   of repeatedly running through the linked data areas searching for
+   one which is of interest to the executing program.  The implication
+   is that there is a very large number of links on the chain.  <P>
+<A NAME=TAG266><B>channel</B></A> /n./ <P> [IRC] The basic unit of discussion on  <A HREF="JARGO~24.HTM#TAG952" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG952">IRC</A>.
+   Once one joins a channel, everything one types is read by others on
+   that channel.  Channels are named with strings that begin with a
+   `#' sign and can have topic descriptions (which are generally
+   irrelevant to the actual subject of discussion).  Some notable
+   channels are <CODE>#initgame</CODE>, <CODE>#hottub</CODE>, and <CODE>#report</CODE>.
+   At times of international crisis, <CODE>#report</CODE> has hundreds of
+   members, some of whom take turns listening to various news services
+   and typing in summaries of the news, or in some cases, giving
+   first-hand accounts of the action (e.g., Scud missile attacks in
+   Tel Aviv during the Gulf War in 1991).     
+<P>
+<A NAME=TAG267><B>channel hopping</B></A> /n./ <P> [IRC, GEnie] To rapidly switch channels
+   on  <A HREF="JARGO~24.HTM#TAG952" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG952">IRC</A>, or a GEnie chat board, just as a social butterfly
+   might hop from one group to another at a party.  This term may
+   derive from the TV watcher's idiom, `channel surfing'.  <P>
+<A NAME=TAG268><B>channel op</B></A> /chan'l op/ /n./ <P> [IRC] Someone who is endowed
+   with privileges on a particular  <A HREF="JARGO~24.HTM#TAG952" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG952">IRC</A> channel; commonly
+   abbreviated `chanop' or `CHOP'.  These privileges include the
+   right to  <A HREF="JARGO~27.HTM#TAG989" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG989">kick</A> users, to change various status bits, and to
+   make others into CHOPs.     
+<P>
+<A NAME=TAG269><B>chanop</B></A> /chan'-op/ /n./ <P> [IRC] See  <A HREF="JARGO~19.HTM#TAG268" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG268">channel op</A>.
+<P>
+<A NAME=TAG270><B>char</B></A> /keir/ or /char/; rarely, /kar/ /n./ <P> Shorthand for
+   `character'.  Esp. used by C programmers, as `char' is C's
+   typename for character data.  <P>
+<A NAME=TAG271><B>charityware</B></A> /cha'rit-ee-weir`/ /n./ <P> Syn.  <A HREF="JARGO~19.HTM#TAG252" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG252">careware</A>.
+<P>
+<A NAME=TAG272><B>chase pointers</B></A> <P> 1. /vi./ To go through multiple levels of
+   indirection, as in traversing a linked list or graph structure.
+   Used esp. by programmers in C, where explicit pointers are a very
+   common data type.  This is techspeak, but it remains jargon when
+   used of human networks.  "I'm chasing pointers.  Bob said you
+   could tell me who to talk to about...." See  <A HREF="JARGO~21.HTM#TAG418" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG418">dangling pointer</A> and  <A HREF="JARGO~46.HTM#TAG1642" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1642">snap</A>.  2. [Cambridge] `pointer chase' or
+   `pointer hunt': The process of going through a  <A HREF="JARGO~19.HTM#TAG355" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG355">core dump</A>
+   (sense 1), interactively or on a large piece of paper printed with
+   hex  <A HREF="JARGO~33.HTM#TAG1530" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1530">runes</A>, following dynamic data-structures.  Used only in a
+   debugging context.  <P>
+<A NAME=TAG273><B>chawmp</B></A> /n./ <P> [University of Florida] 16 or 18 bits (half of a
+   machine word).  This term was used by FORTH hackers during the late
+   1970s/early 1980s; it is said to have been archaic then, and may
+   now be obsolete.  It was coined in revolt against the promiscuous
+   use of `word' for anything between 16 and 32 bits; `word' has
+   an additional special meaning for FORTH hacks that made the
+   overloading intolerable.  For similar reasons, /gaw'bl/ (spelled
+   `gawble' or possibly `gawbul') was in use as a term for 32 or
+   48 bits (presumably a full machine word, but our sources are
+   unclear on this).  These terms are more easily understood if one
+   thinks of them as faithful phonetic spellings of `chomp' and
+   `gobble' pronounced in a Florida or other Southern U.S. dialect.
+   For general discussion of similar terms, see  <A HREF="JARGO~29.HTM#TAG1278" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1278">nybble</A>. <P>
+<A NAME=TAG274><B>check</B></A> /n./ <P> A hardware-detected error condition, most commonly
+   used to refer to actual hardware failures rather than
+   software-induced traps.  E.g., a `parity check' is the result of
+   a hardware-detected parity error.  Recorded here because the word
+   often humorously extended to non-technical problems. For example,
+   the term `child check' has been used to refer to the problems
+   caused by a small child who is curious to know what happens when
+   s/he presses all the cute buttons on a computer's console (of
+   course, this particular problem could have been prevented with
+    <A HREF="JARGO~30.HTM#TAG1163" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1163">molly-guard</A>s).  <P>
+<A NAME=TAG275><B>chemist</B></A> /n./ <P> [Cambridge] Someone who wastes computer time
+   on  <A HREF="JARGO~29.HTM#TAG1275" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1275">number-crunching</A> when you'd far rather the machine were
+   doing something more productive, such as working out anagrams of
+   your name or printing Snoopy calendars or running  <A HREF="JARGO~28.HTM#TAG1030" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1030">life</A>
+   patterns.  May or may not refer to someone who actually studies
+   chemistry.  <P>
+<A NAME=TAG276><B>Chernobyl chicken</B></A> /n./ <P> See  <A HREF="JARGO~28.HTM#TAG1013" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1013">laser chicken</A>.
+<P>
+<A NAME=TAG277><B>Chernobyl packet</B></A> /cher-noh'b*l pak'*t/ /n./ <P> A network
+   packet that induces a  <A HREF="JARGO~18.HTM#TAG205" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG205">broadcast storm</A> and/or  <A HREF="JARGO~29.HTM#TAG1241" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1241">network meltdown</A>, in memory of the April 1986 nuclear accident at
+   Chernobyl in Ukraine.  The typical scenario involves an IP Ethernet
+   datagram that passes through a gateway with both source and
+   destination Ether and IP address set as the respective broadcast
+   addresses for the subnetworks being gated between.  Compare
+    <A HREF="JARGO~19.HTM#TAG288" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG288">Christmas tree packet</A>.  <P>
+<A NAME=TAG278><B>chicken head</B></A> /n./ <P> [Commodore] The Commodore Business
+   Machines logo, which strongly resembles a poultry part.  Rendered
+   in ASCII as `C='.  With the arguable exception of the Amiga (see
+    <A HREF="JARGO~17.HTM#TAG27" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG27">amoeba</A>), Commodore's machines are notoriously crocky little
+    <A HREF="JARGO~18.HTM#TAG124" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG124">bitty box</A>es (see also  <A HREF="JARGO~34.HTM#TAG1358" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1358">PETSCII</A>).  Thus, this usage may owe
+   something to Philip K. Dick's novel "Do Androids Dream of
+   Electric Sheep?"  (the basis for the movie "Blade Runner"; the
+   novel is now sold under that title), in which a `chickenhead' is
+   a mutant with below-average intelligence.  <P>
+<A NAME=TAG279><B>chiclet keyboard</B></A> /n./ <P> A keyboard with a small, flat
+   rectangular or lozenge-shaped rubber or plastic keys that look like
+   pieces of chewing gum.  (Chiclets is the brand name of a variety of
+   chewing gum that does in fact resemble the keys of chiclet
+   keyboards.)  Used esp. to describe the original IBM PCjr
+   keyboard.  Vendors unanimously liked these because they were cheap,
+   and a lot of early portable and laptop products got launched using
+   them.  Customers rejected the idea with almost equal unanimity, and
+   chiclets are not often seen on anything larger than a digital watch
+   any more.  <P>
+<A NAME=TAG280><B>chine nual</B></A> /sheen'yu-*l/ /n. obs./ <P> [MIT] The LISP Machine
+   Manual, so called because the title was wrapped around the cover so
+   only those letters showed on the front.
+<P>
+<A NAME=TAG281><B>Chinese Army technique</B></A> /n./ <P> Syn.  <A HREF="JARGO~30.HTM#TAG1164" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1164">Mongolian Hordes technique</A>.  <P>
+<A NAME=TAG282><B>choad</B></A> /chohd/ /n./ <P> Synonym for `penis' used in
+   <I><a href="news:alt.tasteless">alt.tasteless</a></I> and popularized by the denizens thereof.  They
+   say: "We think maybe it's from Middle English but we're all too
+   damned lazy to check the OED."  [I'm not.  It isn't. --ESR] This
+   term is alleged to have been inherited through 1960s underground
+   comics, and to have been recently sighted in the Beavis and
+   Butthead cartoons.  Speakers of the Hindi, Bengali and Gujarati
+   languages have confirmed that `choad' is in fact an Indian
+   vernacular word equivalent to `fuck'; it is therefore likely to
+   have entered English slang via the British Raj. <P>
+<A NAME=TAG283><B>choke</B></A> /v./ <P> 1. To reject input, often ungracefully.  "NULs
+   make System V's <CODE>lpr(1)</CODE> choke."  "I tried building an
+    <A HREF="JARGO~20.HTM#TAG548" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG548">EMACS</A> binary to use  <A HREF="JARGO~37.HTM#TAG2017" tppabs="http://www.ccil.org/jargon/jargon_39.html#TAG2017">X</A>, but <CODE>cpp(1)</CODE> choked on all
+   those <CODE>#define</CODE>s."  See  <A HREF="JARGO~18.HTM#TAG75" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG75">barf</A>,  <A HREF="JARGO~23.HTM#TAG726" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG726">gag</A>,  <A HREF="JARGO~36.HTM#TAG1909" tppabs="http://www.ccil.org/jargon/jargon_37.html#TAG1909">vi</A>.
+   2. [MIT] More generally, to fail at any endeavor, but with some
+   flair or bravado; the popular definition is "to snatch defeat from
+   the jaws of victory."<P>
+<A NAME=TAG284><B>chomp</B></A> /vi./ <P> To  <A HREF="JARGO~28.HTM#TAG1066" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1066">lose</A>; specifically, to chew on something
+   of which more was bitten off than one can.  Probably related to
+   gnashing of teeth.  See  <A HREF="JARGO~18.HTM#TAG62" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG62">bagbiter</A>.  <P>
+   A hand gesture commonly accompanies this.  To perform it, hold the
+   four fingers together and place the thumb against their tips.  Now
+   open and close your hand rapidly to suggest a biting action (much
+   like what Pac-Man does in the classic video game, though this
+   pantomime seems to predate that).  The gesture alone means `chomp
+   chomp' (see " <A HREF="JARGON~6.HTM#SEC6" tppabs="http://www.ccil.org/jargon/jargon_5.html#SEC6">Verb Doubling</A>" in the " <A HREF="JARGON~4.HTM#SEC4" tppabs="http://www.ccil.org/jargon/jargon_4.html#SEC4">How Jargon Works</A>" section of the Prependices).  The hand may be
+   pointed at the object of complaint, and for real emphasis you can
+   use both hands at once.  Doing this to a person is equivalent to
+   saying "You chomper!"  If you point the gesture at yourself, it
+   is a humble but humorous admission of some failure.  You might do
+   this if someone told you that a program you had written had failed
+   in some surprising way and you felt dumb for not having anticipated
+   it.  <P>
+<A NAME=TAG285><B>chomper</B></A> /n./ <P> Someone or something that is chomping; a loser.
+   See  <A HREF="JARGO~28.HTM#TAG1068" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1068">loser</A>,  <A HREF="JARGO~18.HTM#TAG62" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG62">bagbiter</A>,  <A HREF="JARGO~19.HTM#TAG284" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG284">chomp</A>.  <P>
+<A NAME=TAG286><B>CHOP</B></A> /chop/ /n./ <P> [IRC] See  <A HREF="JARGO~19.HTM#TAG268" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG268">channel op</A>.
+<P>
+<A NAME=TAG287><B>Christmas tree</B></A> /n./ <P> A kind of RS-232 line tester or breakout
+   box featuring rows of blinking red and green LEDs suggestive of
+   Christmas lights.  <P>
+<A NAME=TAG288><B>Christmas tree packet</B></A> /n./ <P> A packet with every single option
+   set for whatever protocol is in use.  See  <A HREF="JARGO~27.HTM#TAG982" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG982">kamikaze packet</A>,
+    <A HREF="JARGO~19.HTM#TAG277" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG277">Chernobyl packet</A>.  (The term doubtless derives from a fanciful
+   image of each little option bit being represented by a
+   different-colored light bulb, all turned on.) <P>
+<A NAME=TAG289><B>chrome</B></A> /n./ <P> [from automotive slang via wargaming] Showy features
+   added to attract users but contributing little or nothing to
+   the power of a system.  "The 3D icons in Motif are just chrome,
+   but they certainly are <EM>pretty</EM> chrome!"  Distinguished from
+    <A HREF="JARGO~18.HTM#TAG93" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG93">bells and whistles</A> by the fact that the latter are usually
+   added to gratify developers' own desires for featurefulness. 
+   Often used as a term of contempt.  <P>
+<A NAME=TAG290><B>chug</B></A> /vi./ <P> To run slowly; to  <A HREF="JARGO~23.HTM#TAG803" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG803">grind</A> or  <A HREF="JARGO~23.HTM#TAG811" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG811">grovel</A>.
+   "The disk is chugging like crazy." <P>
+<A NAME=TAG291><B>Church of the SubGenius</B></A> /n./ <P> A mutant offshoot of
+    <A HREF="JARGO~21.HTM#TAG480" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG480">Discordianism</A> launched in 1981 as a spoof of fundamentalist
+   Christianity by the `Reverend' Ivan Stang, a brilliant satirist
+   with a gift for promotion.  Popular among hackers as a rich source
+   of bizarre imagery and references such as "Bob" the divine
+   drilling-equipment salesman, the Benevolent Space Xists, and the
+   Stark Fist of Removal.  Much SubGenius theory is concerned with the
+   acquisition of the mystical substance or quality of  <A HREF="JARGO~46.HTM#TAG1620" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1620">slack</A>.  <P>
+<A NAME=TAG292><B>Cinderella Book</B></A> [CMU] /n./ <P> "Introduction to Automata
+   Theory, Languages, and Computation", by John Hopcroft and Jeffrey
+   Ullman, (Addison-Wesley, 1979).  So called because the cover
+   depicts a girl (putatively Cinderella) sitting in front of a Rube
+   Goldberg device and holding a rope coming out of it.  On the back
+   cover, the device is in shambles after she has (inevitably) pulled
+   on the rope.  See also  <A HREF="JARGO~18.HTM#TAG179" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG179">book titles</A>.  <P>
+<A NAME=TAG293><B>CI$</B></A> // /n./ <P> Hackerism for `CIS', CompuServe Information
+   Service.  The dollar sign refers to CompuServe's rather steep line
+   charges.  Often used in  <A HREF="JARGO~46.HTM#TAG1607" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1607">sig block</A>s just before a CompuServe
+   address.  Syn.  <A HREF="JARGO~19.HTM#TAG321" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG321">Compu$erve</A>.  <P>
+<A NAME=TAG294><B>Classic C</B></A> /klas'ik C/ [a play on `Coke Classic'] /n./ <P> The
+   C programming language as defined in the first edition of  <A HREF="JARGO~27.HTM#TAG979" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG979">K&#38;R</A>,
+   with some small additions.  It is also known as `K&#38;R C'.  The name
+   came into use while C was being standardized by the ANSI X3J11
+   committee.  Also `C Classic'.  <P>
+   An analogous construction is sometimes applied elsewhere: thus,
+   `X Classic', where X = Star Trek (referring to the original TV
+   series) or X = PC (referring to IBM's ISA-bus machines as opposed
+   to the PS/2 series).  This construction is especially used of
+   product series in which the newer versions are considered serious
+   losers relative to the older ones.  <P>
+<A NAME=TAG295><B>clean</B></A> 1. /adj./ <P> Used of hardware or software designs, implies
+   `elegance in the small', that is, a design or implementation that
+   may not hold any surprises but does things in a way that is
+   reasonably intuitive and relatively easy to comprehend from the
+   outside.  The antonym is `grungy' or  <A HREF="JARGO~19.HTM#TAG393" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG393">crufty</A>.  2. /v./ To
+   remove unneeded or undesired files in a effort to reduce clutter:
+   "I'm cleaning up my account."  "I cleaned up the garbage and now
+   have 100 Meg free on that partition." <P>
+<A NAME=TAG296><B>CLM</B></A> /C-L-M/ <P> [Sun: `Career Limiting Move'] 1. /n./ An action
+   endangering one's future prospects of getting plum projects and
+   raises, and possibly one's job: "His Halloween costume was a
+   parody of his manager.  He won the prize for `best CLM'."  2. adj.
+   Denotes extreme severity of a bug, discovered by a customer and
+   obviously missed earlier because of poor testing: "That's a CLM
+   bug!"<P>
+<A NAME=TAG297><B>clobber</B></A> /vt./ <P> To overwrite, usually unintentionally: "I
+   walked off the end of the array and clobbered the stack."  Compare
+    <A HREF="JARGO~30.HTM#TAG1197" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1197">mung</A>,  <A HREF="JARGO~46.HTM#TAG1563" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1563">scribble</A>,  <A HREF="JARGO~38.HTM#TAG1831" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1831">trash</A>, and  <A HREF="JARGO~46.HTM#TAG1631" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1631">smash the stack</A>.  <P>
+<A NAME=TAG298><B>clocks</B></A> /n./ <P> Processor logic cycles, so called because each
+   generally corresponds to one clock pulse in the processor's timing.
+   The relative execution times of instructions on a machine are
+   usually discussed in clocks rather than absolute fractions of a
+   second; one good reason for this is that clock speeds for various
+   models of the machine may increase as technology improves, and it
+   is usually the relative times one is interested in when discussing
+   the instruction set.  Compare  <A HREF="JARGO~19.HTM#TAG408" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG408">cycle</A>.  <P>
+<A NAME=TAG299><B>clone</B></A> /n./ <P> 1. An exact duplicate: "Our product is a clone of
+   their product."  Implies a legal reimplementation from
+   documentation or by reverse-engineering.  Also connotes lower
+   price.  2. A shoddy, spurious copy: "Their product is a clone of
+   our product."  3. A blatant ripoff, most likely violating
+   copyright, patent, or trade secret protections: "Your product is a
+   clone of my product."  This use implies legal action is pending.
+   4. `PC clone:' a PC-BUS/ISA or EISA-compatible 80x86-based
+   microcomputer (this use is sometimes spelled `klone' or
+   `PClone').  These invariably have much more bang for the buck
+   than the IBM archetypes they resemble.  5. In the construction
+   `Unix clone': An OS designed to deliver a Unix-lookalike
+   environment without Unix license fees, or with additional
+   `mission-critical' features such as support for real-time
+   programming.  6. /v./ To make an exact copy of something.  "Let me
+   clone that" might mean "I want to borrow that paper so I can make
+   a photocopy" or "Let me get a copy of that file before you
+    <A HREF="JARGO~30.HTM#TAG1197" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1197">mung</A> it".  <P>
+<A NAME=TAG300><B>clone-and-hack coding</B></A> /n./ <P> [DEC] Syn.  <A HREF="JARGO~19.HTM#TAG255" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG255">case and paste</A>. <P>
+<A NAME=TAG301><B>clover key</B></A> /n./ <P> [Mac users] See  <A HREF="JARGO~22.HTM#TAG599" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG599">feature key</A>.
+<P>
+<A NAME=TAG302><B>clustergeeking</B></A> /kluh'st*r-gee`king/ /n./ <P> [CMU] Spending
+   more time at a computer cluster doing CS homework than most people
+   spend breathing.  <P>
+<A NAME=TAG303><B>COBOL</B></A> /koh'bol/ /n./ <P> [COmmon Business-Oriented Language]
+   (Synonymous with  <A HREF="JARGO~20.HTM#TAG567" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG567">evil</A>.)  A weak, verbose, and flabby language
+   used by  <A HREF="JARGO~19.HTM#TAG251" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG251">card walloper</A>s to do boring mindless things on
+    <A HREF="JARGO~21.HTM#TAG474" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG474">dinosaur</A> mainframes.  Hackers believe that all COBOL
+   programmers are  <A HREF="JARGO~46.HTM#TAG1716" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1716">suit</A>s or  <A HREF="JARGO~19.HTM#TAG305" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG305">code grinder</A>s, and no
+   self-respecting hacker will ever admit to having learned the
+   language.  Its very name is seldom uttered without ritual
+   expressions of disgust or horror.  One popular one is Edsger W.
+   Dijkstra's famous observation that "The use of COBOL cripples the
+   mind; its teaching should, therefore, be regarded as a criminal
+   offense." (from "Selected Writings on Computing: A Personal
+   Perspective") See also  <A HREF="JARGO~22.HTM#TAG596" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG596">fear and loathing</A>,  <A HREF="JARGO~46.HTM#TAG1660" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1660">software rot</A>. <P>
+<A NAME=TAG304><B>COBOL fingers</B></A> /koh'bol fing'grz/ /n./ <P> Reported from Sweden,
+   a (hypothetical) disease one might get from coding in COBOL.  The
+   language requires code verbose beyond all reason (see
+    <A HREF="JARGO~19.HTM#TAG249" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG249">candygrammar</A>); thus it is alleged that programming too much in
+   COBOL causes one's fingers to wear down to stubs by the endless
+   typing.  "I refuse to type in all that source code again; it would
+   give me COBOL fingers!" <P>
+<A NAME=TAG305><B>code grinder</B></A> /n./ <P> 1. A  <A HREF="JARGO~46.HTM#TAG1716" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1716">suit</A>-wearing minion of the sort
+   hired in legion strength by banks and insurance companies to
+   implement payroll packages in RPG and other such unspeakable
+   horrors.  In its native habitat, the code grinder often removes the
+   suit jacket to reveal an underplumage consisting of button-down
+   shirt (starch optional) and a tie.  In times of dire stress, the
+   sleeves (if long) may be rolled up and the tie loosened about half
+   an inch.  It seldom helps.  The  <A HREF="JARGO~19.HTM#TAG305" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG305">code grinder</A>'s milieu is about
+   as far from hackerdom as one can get and still touch a computer;
+   the term connotes pity.  See  <A HREF="JARGO~33.HTM#TAG1482" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1482">Real World</A>,  <A HREF="JARGO~46.HTM#TAG1716" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1716">suit</A>.  2. Used
+   of or to a hacker, a really serious slur on the person's creative
+   ability; connotes a design style characterized by primitive
+   technique, rule-boundedness,  <A HREF="JARGO~18.HTM#TAG214" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG214">brute force</A>, and utter lack of
+   imagination.  Compare  <A HREF="JARGO~19.HTM#TAG251" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG251">card walloper</A>; contrast  <A HREF="JARGO~26.HTM#TAG833" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG833">hacker</A>,
+    <A HREF="JARGO~33.HTM#TAG1478" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1478">Real Programmer</A>.  <P>
+<A NAME=TAG306><B>Code of the Geeks</B></A> /n./ <P> see  <A HREF="JARGO~23.HTM#TAG738" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG738">geek code</A>. <P>
+<A NAME=TAG307><B>code police</B></A> /n./ <P> [by analogy with George Orwell's `thought
+   police'] A mythical team of Gestapo-like storm troopers that might
+   burst into one's office and arrest one for violating programming
+   style rules.  May be used either seriously, to underline a claim
+   that a particular style violation is dangerous, or ironically, to
+   suggest that the practice under discussion is condemned mainly by
+   anal-retentive  <A HREF="JARGO~40.HTM#TAG1956" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1956">weenie</A>s.  "Dike out that goto or the code
+   police will get you!"  The ironic usage is perhaps more common.  <P>
+<A NAME=TAG308><B>codes</B></A> /n./ <P> [scientific computing] Programs.  This usage is common
+   in people who hack supercomputers and heavy-duty
+    <A HREF="JARGO~29.HTM#TAG1275" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1275">number-crunching</A>, rare to unknown elsewhere (if you say
+   "codes" to hackers outside scientific computing, their
+   first association is likely to be "and cyphers").  <P>
+<A NAME=TAG309><B>codewalker</B></A> /n./ <P> A program component that traverses other
+   programs for a living.  Compilers have codewalkers in their front
+   ends; so do cross-reference generators and some database front
+   ends.  Other utility programs that try to do too much with source
+   code may turn into codewalkers.  As in "This new <CODE>vgrind</CODE>
+   feature would require a codewalker to implement." <P>
+<A NAME=TAG310><B>coefficient of X</B></A> /n./ <P> Hackish speech makes heavy use of
+   pseudo-mathematical metaphors.  Four particularly important
+   ones involve the terms `coefficient', `factor', `index', and
+   `quotient'.  They are often loosely applied to things you cannot
+   really be quantitative about, but there are subtle distinctions
+   among them that convey information about the way the speaker
+   mentally models whatever he or she is describing.  <P>
+   `Foo factor' and `foo quotient' tend to describe something for
+   which the issue is one of presence or absence.  The canonical
+   example is  <A HREF="JARGO~22.HTM#TAG715" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG715">fudge factor</A>.  It's not important how much you're
+   fudging; the term simply acknowledges that some fudging is needed.
+   You might talk of liking a movie for its silliness factor.
+   Quotient tends to imply that the property is a ratio of two
+   opposing factors: "I would have won except for my luck quotient."
+   This could also be "I would have won except for the luck factor",
+   but using <EM>quotient</EM> emphasizes that it was bad luck
+   overpowering good luck (or someone else's good luck overpowering
+   your own).  <P>
+   `Foo index' and `coefficient of foo' both tend to imply
+   that foo is, if not strictly measurable, at least something that
+   can be larger or smaller.  Thus, you might refer to a paper or
+   person as having a `high bogosity index', whereas you would be less
+   likely to speak of a `high bogosity factor'.  `Foo index' suggests
+   that foo is a condensation of many quantities, as in the mundane
+   cost-of-living index; `coefficient of foo' suggests that foo is a
+   fundamental quantity, as in a coefficient of friction.  The choice
+   between these terms is often one of personal preference; e.g., some
+   people might feel that bogosity is a fundamental attribute and thus
+   say `coefficient of bogosity', whereas others might feel it is a
+   combination of factors and thus say `bogosity index'.  <P>
+<A NAME=TAG311><B>cokebottle</B></A> /kohk'bot-l/ /n./ <P> Any very unusual character,
+   particularly one you can't type because it it isn't on your
+   keyboard.  MIT people used to complain about the
+   `control-meta-cokebottle' commands at SAIL, and SAIL people
+   complained right back about the ` <A HREF="JARGO~17.HTM#TAG25" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG25">altmode</A>-altmode-cokebottle'
+   commands at MIT.  After the demise of the  <A HREF="JARGO~46.HTM#TAG1667" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1667">space-cadet keyboard</A>, `cokebottle' faded away as serious usage, but was
+   often invoked humorously to describe an (unspecified) weird or
+   non-intuitive keystroke command.  It may be due for a second
+   inning, however.  The OSF/Motif window manager, <CODE>mwm(1)</CODE>, has
+   a reserved keystroke for switching to the default set of
+   keybindings and behavior.  This keystroke is (believe it or not)
+   `control-meta-bang' (see  <A HREF="JARGO~18.HTM#TAG69" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG69">bang</A>).  Since the exclamation point
+   looks a lot like an upside down Coke bottle, Motif hackers have
+   begun referring to this keystroke as `cokebottle'.  See also
+    <A HREF="JARGO~31.HTM#TAG1442" tppabs="http://www.ccil.org/jargon/jargon_32.html#TAG1442">quadruple bucky</A>.  <P>
+<A NAME=TAG312><B>cold boot</B></A> /n./ <P> See  <A HREF="JARGO~18.HTM#TAG180" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG180">boot</A>.
+<P>
+<A NAME=TAG313><B>COME FROM</B></A> /n./ <P> A semi-mythical language construct dual to the
+   `go to'; <CODE>COME FROM</CODE> &#60;label&#62; would cause the referenced label
+   to act as a sort of trapdoor, so that if the program ever reached
+   it control would quietly and  <A HREF="JARGO~17.HTM#TAG49" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG49">automagically</A> be transferred to
+   the statement following the <CODE>COME FROM</CODE>.  <CODE>COME FROM</CODE>
+   was first proposed in R. Lawrence Clark's "A Linguistic
+   Contribution to GOTO-less programming", which appeared in a 1973
+    <A HREF="JARGO~21.HTM#TAG420" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG420">Datamation</A> issue (and was reprinted in the April 1984 issue of
+   "Communications of the ACM").  This parodied the then-raging
+   `structured programming'  <A HREF="JARGO~26.HTM#TAG897" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG897">holy wars</A> (see  <A HREF="JARGO~19.HTM#TAG331" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG331">considered harmful</A>).  Mythically, some variants are the `assigned COME
+   FROM' and the `computed COME FROM' (parodying some nasty control
+   constructs in FORTRAN and some extended BASICs).  Of course,
+   multi-tasking (or non-determinism) could be implemented by having
+   more than one <CODE>COME FROM</CODE> statement coming from the same
+   label.  <P>
+   In some ways the FORTRAN <CODE>DO</CODE> looks like a <CODE>COME FROM</CODE>
+   statement.  After the terminating statement number/<CODE>CONTINUE</CODE>
+   is reached, control continues at the statement following the DO.
+   Some generous FORTRANs would allow arbitrary statements (other than
+   <CODE>CONTINUE</CODE>) for the statement, leading to examples like:
+<P>
+<PRE>
+      DO 10 I=1,LIMIT
+C imagine many lines of code here, leaving the
+C original DO statement lost in the spaghetti...
+      WRITE(6,10) I,FROB(I)
+ 10   FORMAT(1X,I5,G10.4)
+</PRE>
+<P>
+   in which the trapdoor is just after the statement labeled 10.
+   (This is particularly surprising because the label doesn't appear
+   to have anything to do with the flow of control at all!)
+<P>
+   While sufficiently astonishing to the unsuspecting reader, this
+   form of <CODE>COME FROM</CODE> statement isn't completely general.  After
+   all, control will eventually pass to the following statement.  The
+   implementation of the general form was left to Univac FORTRAN,
+   ca. 1975 (though a roughly similar feature existed on the IBM 7040
+   ten years earlier).  The statement <CODE>AT 100</CODE> would perform a
+   <CODE>COME FROM 100</CODE>.  It was intended strictly as a debugging aid,
+   with dire consequences promised to anyone so deranged as to use it
+   in production code.  More horrible things had already been
+   perpetrated in production languages, however; doubters need only
+   contemplate the <CODE>ALTER</CODE> verb in  <A HREF="JARGO~19.HTM#TAG303" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG303">COBOL</A>.  <P>
+   <CODE>COME FROM</CODE> was supported under its own name for the first
+   time 15 years later, in C-INTERCAL (see  <A HREF="JARGO~24.HTM#TAG945" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG945">INTERCAL</A>,
+    <A HREF="JARGO~33.HTM#TAG1501" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1501">retrocomputing</A>); knowledgeable observers are still reeling
+   from the shock.  <P>
+<A NAME=TAG314><B>comm mode</B></A> /kom mohd/ /n./ <P> [ITS: from the feature supporting
+   on-line chat; the term may spelled with one or two m's] Syn. for
+    <A HREF="JARGO~38.HTM#TAG1748" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1748">talk mode</A>.  <P>
+<A NAME=TAG315><B>command key</B></A> /n./ <P> [Mac users] Syn.  <A HREF="JARGO~22.HTM#TAG599" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG599">feature key</A>.
+<P>
+<A NAME=TAG316><B>comment out</B></A> /vt./ <P> To surround a section of code with comment
+   delimiters or to prefix every line in the section with a comment
+   marker; this prevents it from being compiled or interpreted.  Often
+   done when the code is redundant or obsolete, but is being left in
+   the source to make the intent of the active code clearer; also when
+   the code in that section is broken and you want to bypass it in
+   order to debug some other part of the code.  Compare  <A HREF="JARGO~19.HTM#TAG326" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG326">condition out</A>, usually the preferred technique in languages (such as  <A HREF="JARGO~19.HTM#TAG242" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG242">C</A>)
+   that make it possible.  <P>
+<A NAME=TAG317><B>Commonwealth Hackish</B></A> /n./ <P> Hacker jargon as spoken in
+   English outside the U.S., esp. in the British Commonwealth.  It
+   is reported that Commonwealth speakers are more likely to pronounce
+   truncations like `char' and `soc', etc., as spelled (/char/,
+   /sok/), as opposed to American /keir/ and /sohsh/.  Dots in
+    <A HREF="JARGO~29.HTM#TAG1251" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1251">newsgroup</A> names (especially two-component names) tend to be
+   pronounced more often (so soc.wibble is /sok dot wib'l/ rather
+   than /sohsh wib'l/).  The prefix  <A HREF="JARGO~30.HTM#TAG1134" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1134">meta</A> may be pronounced
+   /mee't*/; similarly, Greek letter beta is usually /bee't*/,
+   zeta is usually /zee't*/, and so forth.  Preferred
+    <A HREF="JARGO~30.HTM#TAG1136" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1136">metasyntactic variable</A>s include  <A HREF="JARGO~18.HTM#TAG157" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG157">blurgle</A>, <CODE>eek</CODE>,
+   <CODE>ook</CODE>, <CODE>frodo</CODE>, and <CODE>bilbo</CODE>;  <A HREF="JARGO~40.HTM#TAG1971" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1971">wibble</A>,
+   <CODE>wobble</CODE>, and in emergencies <CODE>wubble</CODE>; <CODE>flob</CODE>,
+   <CODE>banana</CODE>, <CODE>tom</CODE>, <CODE>dick</CODE>, <CODE>harry</CODE>,
+   <CODE>wombat</CODE>, <CODE>frog</CODE>,  <A HREF="JARGO~22.HTM#TAG633" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG633">fish</A>, and so on and on (see
+    <A HREF="JARGO~22.HTM#TAG670" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG670">foo</A>, sense 4).  <P>
+   Alternatives to verb doubling include suffixes `-o-rama',
+   `frenzy' (as in feeding frenzy), and `city' (examples: "barf
+   city!"  "hack-o-rama!"  "core dump frenzy!").  Finally, note
+   that the American terms `parens', `brackets', and `braces' for (),
+   [], and {} are uncommon; Commonwealth hackish prefers
+   `brackets', `square brackets', and `curly brackets'.  Also, the
+   use of `pling' for  <A HREF="JARGO~18.HTM#TAG69" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG69">bang</A> is common outside the United States.
+<P>
+   See also  <A HREF="JARGO~17.HTM#TAG47" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG47">attoparsec</A>,  <A HREF="JARGO~19.HTM#TAG245" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG245">calculator</A>,  <A HREF="JARGO~19.HTM#TAG275" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG275">chemist</A>,
+    <A HREF="JARGO~19.HTM#TAG333" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG333">console jockey</A>,  <A HREF="JARGO~22.HTM#TAG633" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG633">fish</A>,  <A HREF="JARGO~23.HTM#TAG769" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG769">go-faster stripes</A>,
+    <A HREF="JARGO~23.HTM#TAG812" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG812">grunge</A>,  <A HREF="JARGO~26.HTM#TAG846" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG846">hakspek</A>,  <A HREF="JARGO~26.HTM#TAG871" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG871">heavy metal</A>,  <A HREF="JARGO~28.HTM#TAG1019" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1019">leaky heap</A>,
+    <A HREF="JARGO~28.HTM#TAG1065" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1065">lord high fixer</A>,  <A HREF="JARGO~28.HTM#TAG1064" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1064">loose bytes</A>,  <A HREF="JARGO~30.HTM#TAG1185" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1185">muddie</A>,  <A HREF="JARGO~29.HTM#TAG1203" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1203">nadger</A>,
+    <A HREF="JARGO~29.HTM#TAG1260" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1260">noddy</A>,  <A HREF="JARGO~34.HTM#TAG1432" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1432">psychedelicware</A>,  <A HREF="JARGO~34.HTM#TAG1381" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1381">plingnet</A>,  <A HREF="JARGO~33.HTM#TAG1462" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1462">raster blaster</A>,  <A HREF="JARGO~33.HTM#TAG1521" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1521">RTBM</A>,  <A HREF="JARGO~46.HTM#TAG1576" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1576">seggie</A>,  <A HREF="JARGO~46.HTM#TAG1683" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1683">spod</A>,  <A HREF="JARGO~46.HTM#TAG1719" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1719">sun lounge</A>,
+    <A HREF="JARGO~38.HTM#TAG1774" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1774">terminal junkie</A>,  <A HREF="JARGO~38.HTM#TAG1794" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1794">tick-list features</A>,  <A HREF="JARGO~40.HTM#TAG1954" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1954">weeble</A>,
+    <A HREF="JARGO~40.HTM#TAG1948" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1948">weasel</A>,  <A HREF="JARGO~39.HTM#TAG2026" tppabs="http://www.ccil.org/jargon/jargon_40.html#TAG2026">YABA</A>, and notes or definitions under  <A HREF="JARGO~18.HTM#TAG60" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG60">Bad Thing</A>,  <A HREF="JARGO~18.HTM#TAG75" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG75">barf</A>,  <A HREF="JARGO~18.HTM#TAG173" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG173">bogus</A>,  <A HREF="JARGO~18.HTM#TAG229" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG229">bum</A>,  <A HREF="JARGO~19.HTM#TAG272" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG272">chase pointers</A>,
+    <A HREF="JARGO~19.HTM#TAG359" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG359">cosmic rays</A>,  <A HREF="JARGO~19.HTM#TAG384" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG384">crippleware</A>,  <A HREF="JARGO~19.HTM#TAG395" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG395">crunch</A>,  <A HREF="JARGO~21.HTM#TAG489" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG489">dodgy</A>,
+    <A HREF="JARGO~23.HTM#TAG775" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG775">gonk</A>,  <A HREF="JARGO~26.HTM#TAG848" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG848">hamster</A>,  <A HREF="JARGO~26.HTM#TAG861" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG861">hardwarily</A>,  <A HREF="JARGO~30.HTM#TAG1133" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1133">mess-dos</A>,
+    <A HREF="JARGO~29.HTM#TAG1278" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1278">nybble</A>,  <A HREF="JARGO~34.HTM#TAG1418" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1418">proglet</A>,  <A HREF="JARGO~33.HTM#TAG1515" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1515">root</A>,  <A HREF="JARGO~46.HTM#TAG1586" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1586">SEX</A>,  <A HREF="JARGO~38.HTM#TAG1852" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1852">tweak</A>, and
+    <A HREF="JARGO~37.HTM#TAG2024" tppabs="http://www.ccil.org/jargon/jargon_39.html#TAG2024">xyzzy</A>.  <P>
+<A NAME=TAG318><B>compact</B></A> /adj./ <P> Of a design, describes the valuable property
+   that it can all be apprehended at once in one's head.  This
+   generally means the thing created from the design can be used with
+   greater facility and fewer errors than an equivalent tool that is
+   not compact.  Compactness does not imply triviality or lack of
+   power; for example, C is compact and FORTRAN is not, but C is more
+   powerful than FORTRAN.  Designs become non-compact through
+   accreting  <A HREF="JARGO~22.HTM#TAG597" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG597">feature</A>s and  <A HREF="JARGO~19.HTM#TAG390" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG390">cruft</A> that don't merge cleanly
+   into the overall design scheme (thus, some fans of  <A HREF="JARGO~19.HTM#TAG294" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG294">Classic C</A>
+   maintain that ANSI C is no longer compact).  <P>
+<A NAME=TAG319><B>compiler jock</B></A> /n./ <P> See  <A HREF="JARGO~25.HTM#TAG970" tppabs="http://www.ccil.org/jargon/jargon_25.html#TAG970">jock</A> (sense 2).
+<P>
+<A NAME=TAG320><B>compress</B></A> [Unix] /vt./ <P> When used without a qualifier,
+   generally refers to  <A HREF="JARGO~19.HTM#TAG395" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG395">crunch</A>ing of a file using a particular C
+   implementation of compression by James A. Woods et al. and widely
+   circulated via  <A HREF="JARGO~35.HTM#TAG1882" tppabs="http://www.ccil.org/jargon/jargon_36.html#TAG1882">Usenet</A>; use of  <A HREF="JARGO~19.HTM#TAG395" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG395">crunch</A> itself in this sense
+   is rare among Unix hackers.  Specifically, compress is built around
+   the Lempel-Ziv-Welch algorithm as described in "A Technique for
+   High Performance Data Compression", Terry A. Welch, "IEEE
+   Computer", vol. 17, no. 6 (June 1984), pp. 8--19.  <P>
+<A NAME=TAG321><B>Compu$erve</B></A> /n./ <P> See  <A HREF="JARGO~19.HTM#TAG293" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG293">CI$</A>.  Synonyms CompuSpend and
+   Compu$pend are also reported.
+<P>
+<A NAME=TAG322><B>computer confetti</B></A> /n./ <P> Syn.  <A HREF="JARGO~19.HTM#TAG263" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG263">chad</A>.  Though this term is
+   common, this use of punched-card chad is not a good idea, as the
+   pieces are stiff and have sharp corners that could injure the eyes.
+   GLS reports that he once attended a wedding at MIT during which he
+   and a few other guests enthusiastically threw chad instead of
+   rice. The groom later grumbled that he and his bride had spent most
+   of the evening trying to get the stuff out of their hair.  <P>
+<A NAME=TAG323><B>computer geek</B></A> /n./ <P> 1. One who eats (computer) bugs for a
+   living.  One who fulfills all the dreariest negative stereotypes
+   about hackers: an asocial, malodorous, pasty-faced monomaniac with
+   all the personality of a cheese grater.  Cannot be used by
+   outsiders without implied insult to all hackers; compare
+   black-on-black vs. white-on-black usage of `nigger'.  A computer
+   geek may be either a fundamentally clueless individual or a
+   proto-hacker in  <A HREF="JARGO~28.HTM#TAG1011" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1011">larval stage</A>.  Also called `turbo nerd',
+   `turbo geek'.  See also  <A HREF="JARGO~34.HTM#TAG1423" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1423">propeller head</A>,  <A HREF="JARGO~19.HTM#TAG302" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG302">clustergeeking</A>,
+    <A HREF="JARGO~23.HTM#TAG739" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG739">geek out</A>,  <A HREF="JARGO~40.HTM#TAG1937" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1937">wannabee</A>,  <A HREF="JARGO~38.HTM#TAG1774" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1774">terminal junkie</A>,  <A HREF="JARGO~46.HTM#TAG1683" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1683">spod</A>,
+    <A HREF="JARGO~40.HTM#TAG1956" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1956">weenie</A>.  2. Some self-described computer geeks use this term
+   in a positive sense and protest sense 1 (this seems to have
+   been a post-1990 development).  For one such argument, see
+   <I><a href="../../tppmsgs/msgs9.htm#947" tppabs="http://samsara.circus.com/~omni/geek.html">http://samsara.circus.com/~omni/geek.html</a></I>. <P>
+<A NAME=TAG324><B>computron</B></A> /kom'pyoo-tron`/ <P> /n./ 1. A notional unit of
+   computing power combining instruction speed and storage capacity,
+   dimensioned roughly in instructions-per-second times
+   megabytes-of-main-store times megabytes-of-mass-storage.  "That
+   machine can't run GNU Emacs, it doesn't have enough computrons!"
+   This usage is usually found in metaphors that treat computing power
+   as a fungible commodity good, like a crop yield or diesel
+   horsepower.  See  <A HREF="JARGO~18.HTM#TAG124" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG124">bitty box</A>,  <A HREF="JARGO~23.HTM#TAG747" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG747">Get a real computer!</A>,
+    <A HREF="JARGO~38.HTM#TAG1824" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1824">toy</A>,  <A HREF="JARGO~19.HTM#TAG367" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG367">crank</A>.  2. A mythical subatomic particle that bears
+   the unit quantity of computation or information, in much the same
+   way that an electron bears one unit of electric charge (see also
+    <A HREF="JARGO~18.HTM#TAG167" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG167">bogon</A>).  An elaborate pseudo-scientific theory of computrons
+   has been developed based on the physical fact that the molecules in
+   a solid object move more rapidly as it is heated.  It is argued
+   that an object melts because the molecules have lost their
+   information about where they are supposed to be (that is, they have
+   emitted computrons).  This explains why computers get so hot and
+   require air conditioning; they use up computrons.  Conversely, it
+   should be possible to cool down an object by placing it in the path
+   of a computron beam.  It is believed that this may also explain why
+   machines that work at the factory fail in the computer room: the
+   computrons there have been all used up by the other hardware.
+   (This theory probably owes something to the "Warlock" stories
+   by Larry Niven, the best known being "What Good is a Glass
+   Dagger?", in which magic is fueled by an exhaustible natural
+   resource called `mana'.) <P>
+<A NAME=TAG325><B>con</B></A> [from SF fandom] /n./ <P> A science-fiction convention.  Not
+   used of other sorts of conventions, such as professional meetings.
+   This term, unlike many others of SF-fan slang, is widely recognized
+   even by hackers who aren't  <A HREF="JARGO~22.HTM#TAG584" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG584">fan</A>s. "We'd been corresponding on
+   the net for months, then we met face-to-face at a con." <P>
+<A NAME=TAG326><B>condition out</B></A> /vt./ <P> To prevent a section of code from being
+   compiled by surrounding it with a conditional-compilation directive
+   whose condition is always false.  The  <A HREF="JARGO~19.HTM#TAG250" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG250">canonical</A> examples of
+   these directives are <CODE>#if 0</CODE> (or <CODE>#ifdef notdef</CODE>, though
+   some find the latter  <A HREF="JARGO~18.HTM#TAG136" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG136">bletcherous</A>) and <CODE>#endif</CODE> in C.
+   Compare  <A HREF="JARGO~19.HTM#TAG316" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG316">comment out</A>.  <P>
+<A NAME=TAG327><B>condom</B></A> /n./ <P> 1. The protective plastic bag that accompanies
+   3.5-inch microfloppy diskettes.  Rarely, also used of (paper) disk
+   envelopes.  Unlike the write protect tab, the condom (when left on)
+   not only impedes the practice of  <A HREF="JARGO~46.HTM#TAG1586" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1586">SEX</A> but has also been shown
+   to have a high failure rate as drive mechanisms attempt to access
+   the disk -- and can even fatally frustrate insertion.  2. The
+   protective cladding on a  <A HREF="JARGO~28.HTM#TAG1032" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1032">light pipe</A>.  3. `keyboard condom':
+   A flexible, transparent plastic cover for a keyboard, designed to
+   provide some protection against dust and  <A HREF="JARGO~34.HTM#TAG1422" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1422">programming fluid</A>
+   without impeding typing.  4. `elephant condom': the plastic
+   shipping bags used inside cardboard boxes to protect hardware in
+   transit.  5. /n. obs./ A dummy directory <CODE>/usr/tmp/sh</CODE>, created
+   to foil the Great Worm by exploiting a portability bug in one
+   of its parts.  So named in the title of a <I><a href="news:comp.risks">comp.risks</a></I> article by
+   Gene Spafford during the Worm crisis, and again in the text of
+   "The Internet Worm Program: An Analysis", Purdue Technical
+   Report CSD-TR-823.  See  <A HREF="JARGO~23.HTM#TAG793" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG793">Great Worm, the</A>. <P>
+<A NAME=TAG328><B>confuser</B></A> /n./ <P> Common soundalike slang for `computer'.
+   Usually encountered in compounds such as `confuser room',
+   `personal confuser', `confuser guru'.  Usage: silly.  <P>
+<A NAME=TAG329><B>connector conspiracy</B></A> /n./ <P> [probably came into prominence with
+   the appearance of the KL-10 (one model of the  <A HREF="JARGO~34.HTM#TAG1345" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1345">PDP-10</A>), none of
+   whose connectors matched anything else] The tendency of
+   manufacturers (or, by extension, programmers or purveyors of
+   anything) to come up with new products that don't fit together with
+   the old stuff, thereby making you buy either all new stuff or
+   expensive interface devices.  The KL-10 Massbus connector was
+   actually <EM>patented</EM> by  <A HREF="JARGO~21.HTM#TAG435" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG435">DEC</A>, which reputedly refused to
+   license the design and thus effectively locked third parties out of
+   competition for the lucrative Massbus peripherals market.  This
+   policy is a source of never-ending frustration for the diehards who
+   maintain older PDP-10 or VAX systems.  Their CPUs work fine, but
+   they are stuck with dying, obsolescent disk and tape drives with
+   low capacity and high power requirements.  <P>
+   (A closely related phenomenon, with a slightly different intent, is
+   the habit manufacturers have of inventing new screw heads so that
+   only Designated Persons, possessing the magic screwdrivers, can
+   remove covers and make repairs or install options.  A good 1990s
+   example is the use of Torx screws for cable-TV set-top boxes.
+   Older Apple Macintoshes took this one step further, requiring not
+   only a hex wrench but a specialized case-cracking tool to open the
+   box.) <P>
+   In these latter days of open-systems computing this term has fallen
+   somewhat into disuse, to be replaced by the observation that
+   "Standards are great!  There are so many of them to choose
+   from!"  Compare  <A HREF="JARGO~18.HTM#TAG58" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG58">backward combatability</A>.  <P>
+<A NAME=TAG330><B>cons</B></A> /konz/ or /kons/ <P> [from LISP] 1. /vt./ To add a new
+   element to a specified list, esp. at the top.  "OK, cons picking
+   a replacement for the console TTY onto the agenda."  2. `cons
+   up': /vt./ To synthesize from smaller pieces: "to cons up an
+   example".  <P>
+   In LISP itself, <CODE>cons</CODE> is the most fundamental operation for
+   building structures.  It takes any two objects and returns a
+   `dot-pair' or two-branched tree with one object hanging from each
+   branch.  Because the result of a cons is an object, it can be used
+   to build binary trees of any shape and complexity.  Hackers think
+   of it as a sort of universal constructor, and that is where the
+   jargon meanings spring from.
+<P>
+<A NAME=TAG331><B>considered harmful</B></A> /adj./ <P> Edsger W. Dijkstra's note in the
+   March 1968 "Communications of the ACM", "Goto Statement
+   Considered Harmful", fired the first salvo in the structured
+   programming wars (text at <I><a href="../../tppmsgs/msgs9.htm#914" tppabs="http://www.acm.org/classics">http://www.acm.org/classics</a></I>).
+   Amusingly, the ACM considered the resulting acrimony sufficiently
+   harmful that it will (by policy) no longer print an article taking
+   so assertive a position against a coding practice.  In the ensuing
+   decades, a large number of both serious papers and parodies have
+   borne titles of the form "X considered Y".  The
+   structured-programming wars eventually blew over with the
+   realization that both sides were wrong, but use of such titles has
+   remained as a persistent minor in-joke (the `considered silly'
+   found at various places in this lexicon is related).  <P>
+<A NAME=TAG332><B>console</B></A> /n./ <P> 1. The operator's station of a  <A HREF="JARGO~30.HTM#TAG1100" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1100">mainframe</A>.
+   In times past, this was a privileged location that conveyed godlike
+   powers to anyone with fingers on its keys.  Under Unix and other
+   modern timesharing OSes, such privileges are guarded by passwords
+   instead, and the console is just the  <A HREF="JARGO~38.HTM#TAG1844" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1844">tty</A> the system was booted
+   from.  Some of the mystique remains, however, and it is traditional
+   for sysadmins to post urgent messages to all users from the console
+   (on Unix, /dev/console).  2. On microcomputer Unix boxes, the main
+   screen and keyboard (as opposed to character-only terminals talking
+   to a serial port).  Typically only the console can do real graphics
+   or run  <A HREF="JARGO~37.HTM#TAG2017" tppabs="http://www.ccil.org/jargon/jargon_39.html#TAG2017">X</A>.  See also  <A HREF="JARGO~19.HTM#TAG399" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG399">CTY</A>.  <P>
+<A NAME=TAG333><B>console jockey</B></A> /n./ <P> See  <A HREF="JARGO~38.HTM#TAG1774" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1774">terminal junkie</A>.  <P>
+<A NAME=TAG334><B>content-free</B></A> /adj./ <P> [by analogy with techspeak
+   `context-free'] Used of a message that adds nothing to the
+   recipient's knowledge.  Though this adjective is sometimes applied
+   to  <A HREF="JARGO~22.HTM#TAG641" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG641">flamage</A>, it more usually connotes derision for
+   communication styles that exalt form over substance or are centered
+   on concerns irrelevant to the subject ostensibly at hand.  Perhaps
+   most used with reference to speeches by company presidents and
+   other professional manipulators.  "Content-free?  Uh... that's
+   anything printed on glossy paper."  (See also  <A HREF="JARGO~22.HTM#TAG687" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG687">four-color glossies</A>.)  "He gave a talk on the implications of electronic
+   networks for postmodernism and the fin-de-siecle aesthetic.  It was
+   content-free."  <P>
+<A NAME=TAG335><B>control-C</B></A> /vi./ <P> 1. "Stop whatever you are doing."  From the
+   interrupt character used on many operating systems to abort a
+   running program.  Considered silly.  2. /interj./ Among BSD Unix
+   hackers, the canonical humorous response to "Give me a break!"
+<P>
+<A NAME=TAG336><B>control-O</B></A> /vi./ <P> "Stop talking."  From the character used on
+   some operating systems to abort output but allow the program to
+   keep on running.  Generally means that you are not interested in
+   hearing anything more from that person, at least on that topic; a
+   standard response to someone who is flaming.  Considered silly.
+   Compare  <A HREF="JARGO~19.HTM#TAG338" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG338">control-S</A>.  <P>
+<A NAME=TAG337><B>control-Q</B></A> /vi./ <P> "Resume."  From the ASCII DC1 or  <A HREF="JARGO~37.HTM#TAG2020" tppabs="http://www.ccil.org/jargon/jargon_39.html#TAG2020">XON</A>
+   character (the pronunciation /X-on/ is therefore also used), used
+   to undo a previous  <A HREF="JARGO~19.HTM#TAG338" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG338">control-S</A>.  <P>
+<A NAME=TAG338><B>control-S</B></A> /vi./ <P> "Stop talking for a second."  From the
+   ASCII DC3 or XOFF character (the pronunciation /X-of/ is
+   therefore also used).  Control-S differs from  <A HREF="JARGO~19.HTM#TAG336" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG336">control-O</A> in
+   that the person is asked to stop talking (perhaps because you are
+   on the phone) but will be allowed to continue when you're ready to
+   listen to him -- as opposed to control-O, which has more of the
+   meaning of "Shut up."  Considered silly.
+<P>
+<A NAME=TAG339><B>Conway's Law</B></A> /prov./ <P> The rule that the organization of the
+   software and the organization of the software team will be
+   congruent; originally stated as "If you have four groups working
+   on a compiler, you'll get a 4-pass compiler". <P>
+   The law was named after Melvin Conway, an early proto-hacker who
+   wrote an assembler for the Burroughs 220 called SAVE.  (The name
+   `SAVE' didn't stand for anything; it was just that you lost fewer
+   card decks and listings because they all had SAVE written on them.) <P>
+   There is also Tom Cheatham's amendment of Conway's Law:
+   "If a group of N persons implements a COBOL compiler, there will be
+   N-1 passes.  Someone in the group has to be the manager." <P>
+<A NAME=TAG340><B>cookbook</B></A> /n./ <P> [from amateur electronics and radio] A book of small
+   code segments that the reader can use to do various  <A HREF="JARGO~30.HTM#TAG1092" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1092">magic</A>
+   things in programs.  One current example is the
+   " <A HREF="JARGO~34.HTM#TAG1401" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1401">PostScript</A> Language Tutorial and Cookbook" by Adobe
+   Systems, Inc (Addison-Wesley, ISBN 0-201-10179-3), also known as
+   the  <A HREF="JARGO~18.HTM#TAG152" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG152">Blue Book</A> which has recipes for things like wrapping text
+   around arbitrary curves and making 3D fonts.  Cookbooks, slavishly
+   followed, can lead one into  <A HREF="JARGO~36.HTM#TAG1921" tppabs="http://www.ccil.org/jargon/jargon_37.html#TAG1921">voodoo programming</A>, but are useful
+   for hackers trying to  <A HREF="JARGO~30.HTM#TAG1165" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1165">monkey up</A> small programs in unknown
+   languages.  This function is analogous to the role of phrasebooks
+   in human languages.  <P>
+<A NAME=TAG341><B>cooked mode</B></A> /n./ <P> [Unix, by opposition from  <A HREF="JARGO~33.HTM#TAG1469" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1469">raw mode</A>] The
+   normal character-input mode, with interrupts enabled and with
+   erase, kill and other special-character interpretations performed
+   directly by the tty driver.  Oppose  <A HREF="JARGO~33.HTM#TAG1469" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1469">raw mode</A>,  <A HREF="JARGO~33.HTM#TAG1461" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1461">rare mode</A>.
+   This term is techspeak under Unix but jargon elsewhere; other
+   operating systems often have similar mode distinctions, and the
+   raw/rare/cooked way of describing them has spread widely along with
+   the C language and other Unix exports.  Most generally, `cooked
+   mode' may refer to any mode of a system that does extensive
+   preprocessing before presenting data to a program.  <P>
+<A NAME=TAG342><B>cookie</B></A> /n./ <P> A handle, transaction ID, or other token of
+   agreement between cooperating programs.  "I give him a packet, he
+   gives me back a cookie."  The claim check you get from a
+   dry-cleaning shop is a perfect mundane example of a cookie; the
+   only thing it's useful for is to relate a later transaction to this
+   one (so you get the same clothes back).  Compare  <A HREF="JARGO~30.HTM#TAG1093" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1093">magic cookie</A>;
+   see also  <A HREF="JARGO~22.HTM#TAG684" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG684">fortune cookie</A>.  <P>
+<A NAME=TAG343><B>cookie bear</B></A> /n. obs./ <P> Original term, pre-Sesame-Street, for
+   what is now universally called a  <A HREF="JARGO~19.HTM#TAG346" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG346">cookie monster</A>. A
+   correspondent observes "In those days, hackers were actually
+   getting their yucks from...sit down now...Andy Williams.
+   Yes, <EM>that</EM> Andy Williams.  Seems he had a rather hip (by the
+   standards of the day) TV variety show. One of the best parts of the
+   show was the recurring `cookie bear' sketch. In these sketches, a
+   guy in a bear suit tried all sorts of tricks to get a cookie out of
+   Williams. The sketches would always end with Williams shrieking
+   (and I don't mean figuratively), `No cookies! Not now, not
+   ever...NEVER!!!' And the bear would fall down.  Great stuff." <P>
+<A NAME=TAG344><B>cookie file</B></A> /n./ <P> A collection of  <A HREF="JARGO~22.HTM#TAG684" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG684">fortune cookie</A>s in a
+   format that facilitates retrieval by a fortune program.  There are
+   several different cookie files in public distribution, and site
+   admins often assemble their own from various sources including this
+   lexicon.  <P>
+<A NAME=TAG345><B>cookie jar</B></A> /n./ <P> An area of memory set aside for storing
+    <A HREF="JARGO~19.HTM#TAG342" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG342">cookie</A>s.  Most commonly heard in the Atari ST community; many
+   useful ST programs record their presence by storing a distinctive
+    <A HREF="JARGO~30.HTM#TAG1094" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1094">magic number</A> in the jar.  Programs can inquire after the
+   presence or otherwise of other programs by searching the contents
+   of the jar.  <P>
+<A NAME=TAG346><B>cookie monster</B></A> /n./ <P> [from the children's TV program
+   "Sesame Street"] Any of a family of early (1970s) hacks
+   reported on  <A HREF="JARGO~38.HTM#TAG1819" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1819">TOPS-10</A>,  <A HREF="JARGO~24.HTM#TAG958" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG958">ITS</A>,  <A HREF="JARGO~30.HTM#TAG1188" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1188">Multics</A>, and elsewhere
+   that would lock up either the victim's terminal (on a time-sharing
+   machine) or the  <A HREF="JARGO~19.HTM#TAG332" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG332">console</A> (on a batch  <A HREF="JARGO~30.HTM#TAG1100" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1100">mainframe</A>),
+   repeatedly demanding "I WANT A COOKIE".  The required responses
+   ranged in complexity from "COOKIE" through "HAVE A COOKIE" and
+   upward.  Folklorist Jan Brunvand (see  <A HREF="JARGO~22.HTM#TAG665" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG665">FOAF</A>) has described
+   these programs as urban legends (implying they probably never
+   existed) but they existed, all right, in several different
+   versions.  See also  <A HREF="JARGO~40.HTM#TAG1925" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1925">wabbit</A>.  Interestingly, the term `cookie
+   monster' appears to be a  <A HREF="JARGO~33.HTM#TAG1499" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1499">retcon</A>; the original term was
+    <A HREF="JARGO~19.HTM#TAG343" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG343">cookie bear</A>. <P>
+<A NAME=TAG347><B>copious free time</B></A> /n./ <P> [Apple; orig. fr. the intro to Tom
+   Lehrer's song "It Makes A Fellow Proud To Be A Soldier"]
+   1. [used ironically to indicate the speaker's lack of the quantity
+   in question] A mythical schedule slot for accomplishing tasks held
+   to be unlikely or impossible.  Sometimes used to indicate that the
+   speaker is interested in accomplishing the task, but believes that
+   the opportunity will not arise.  "I'll implement the automatic
+   layout stuff in my copious free time."  2. [Archly] Time reserved
+   for bogus or otherwise idiotic tasks, such as implementation of
+    <A HREF="JARGO~19.HTM#TAG289" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG289">chrome</A>, or the stroking of  <A HREF="JARGO~46.HTM#TAG1716" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1716">suit</A>s.  "I'll get back to him
+   on that feature in my copious free time."<P>
+<A NAME=TAG348><B>copper</B></A> /n./ <P> Conventional electron-carrying network cable with
+   a core conductor of copper -- or aluminum!  Opposed to  <A HREF="JARGO~28.HTM#TAG1032" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1032">light pipe</A> or, say, a short-range microwave link.  <P>
+<A NAME=TAG349><B>copy protection</B></A> /n./ <P> A class of methods for preventing
+   incompetent pirates from stealing software and legitimate customers
+   from using it.  Considered silly.  <P>
+<A NAME=TAG350><B>copybroke</B></A> /kop'ee-brohk/ /adj./ <P> 1. [play on `copyright']
+   Used to describe an instance of a copy-protected program that has
+   been `broken'; that is, a copy with the copy-protection scheme
+   disabled.  Syn.   <A HREF="JARGO~19.HTM#TAG352" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG352">copywronged</A>.  2. Copy-protected software
+   which is unusable because of some bit-rot or bug that has confused
+   the anti-piracy check.  See also  <A HREF="JARGO~19.HTM#TAG349" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG349">copy protection</A>.  <P>
+<A NAME=TAG351><B>copyleft</B></A> /kop'ee-left/ /n./ <P> [play on `copyright'] 1. The
+   copyright notice (`General Public License') carried by  <A HREF="JARGO~23.HTM#TAG765" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG765">GNU</A>
+    <A HREF="JARGO~20.HTM#TAG548" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG548">EMACS</A> and other Free Software Foundation software, granting reuse
+   and reproduction rights to all comers (but see also  <A HREF="JARGO~23.HTM#TAG742" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG742">General Public Virus</A>).  2. By extension, any copyright notice intended to
+   achieve similar aims.  <P>
+<A NAME=TAG352><B>copywronged</B></A> /kop'ee-rongd/ /adj./ <P> [play on `copyright']
+   Syn. for  <A HREF="JARGO~19.HTM#TAG350" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG350">copybroke</A>.  <P>
+<A NAME=TAG353><B>core</B></A> /n./ <P> Main storage or RAM.  Dates from the days of
+   ferrite-core memory; now archaic as techspeak most places outside
+   IBM, but also still used in the Unix community and by old-time
+   hackers or those who would sound like them.  Some derived idioms
+   are quite current; `in core', for example, means `in memory'
+   (as opposed to `on disk'), and both  <A HREF="JARGO~19.HTM#TAG355" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG355">core dump</A> and the `core
+   image' or `core file' produced by one are terms in favor.  Some
+   varieties of Commonwealth hackish prefer  <A HREF="JARGO~46.HTM#TAG1703" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1703">store</A>.  <P>
+<A NAME=TAG354><B>core cancer</B></A> /n./ <P> A process that exhibits a slow but
+   inexorable resource  <A HREF="JARGO~28.HTM#TAG1018" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1018">leak</A> -- like a cancer, it kills by
+   crowding out productive `tissue'.  <P>
+<A NAME=TAG355><B>core dump</B></A> /n./ <P> [common  <A HREF="JARGO~24.HTM#TAG954" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG954">Iron Age</A> jargon, preserved by
+   Unix] 1. [techspeak] A copy of the contents of  <A HREF="JARGO~19.HTM#TAG353" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG353">core</A>, produced
+   when a process is aborted by certain kinds of internal error.
+   2. By extension, used for humans passing out, vomiting, or
+   registering extreme shock.  "He dumped core.  All over the floor.
+   What a mess."  "He heard about X and dumped core."
+   3. Occasionally used for a human rambling on pointlessly at great
+   length; esp. in apology: "Sorry, I dumped core on you".  4. A
+   recapitulation of knowledge (compare  <A HREF="JARGO~18.HTM#TAG123" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG123">bits</A>, sense 1).  Hence,
+   spewing all one knows about a topic (syn.  <A HREF="JARGO~18.HTM#TAG192" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG192">brain dump</A>), esp.
+   in a lecture or answer to an exam question.  "Short, concise
+   answers are better than core dumps" (from the instructions to an
+   exam at Columbia).  See  <A HREF="JARGO~19.HTM#TAG353" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG353">core</A>.  <P>
+<A NAME=TAG356><B>core leak</B></A> /n./ <P> Syn.  <A HREF="JARGO~30.HTM#TAG1130" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1130">memory leak</A>.  <P>
+<A NAME=TAG357><B>Core Wars</B></A> /n./ <P> A game between `assembler' programs in a
+   simulated machine, where the objective is to kill your opponent's
+   program by overwriting it.  Popularized by A. K. Dewdney's column
+   in "Scientific American" magazine, this was actually devised
+   by Victor Vyssotsky, Robert Morris Sr., and Dennis Ritchie in the
+   early 1960s (their original game was called `Darwin' and ran on a
+   PDP-1 at Bell Labs).  See  <A HREF="JARGO~19.HTM#TAG353" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG353">core</A>.  <P>
+<A NAME=TAG358><B>corge</B></A> /korj/ /n./ <P> [originally, the name of a cat] Yet
+   another  <A HREF="JARGO~30.HTM#TAG1136" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1136">metasyntactic variable</A>, invented by Mike Gallaher and
+   propagated by the  <A HREF="JARGO~23.HTM#TAG784" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG784">GOSMACS</A> documentation.  See  <A HREF="JARGO~23.HTM#TAG789" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG789">grault</A>.  <P>
+<A NAME=TAG359><B>cosmic rays</B></A> /n./ <P> Notionally, the cause of  <A HREF="JARGO~18.HTM#TAG118" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG118">bit rot</A>.
+   However, this is a semi-independent usage that may be invoked as a
+   humorous way to  <A HREF="JARGO~26.HTM#TAG854" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG854">handwave</A> away any minor  <A HREF="JARGO~33.HTM#TAG1459" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1459">randomness</A> that
+   doesn't seem worth the bother of investigating.  "Hey, Eric -- I
+   just got a burst of garbage on my  <A HREF="JARGO~38.HTM#TAG1845" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1845">tube</A>, where did that come
+   from?"  "Cosmic rays, I guess."  Compare  <A HREF="JARGO~46.HTM#TAG1721" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1721">sunspots</A>,
+    <A HREF="JARGO~34.HTM#TAG1361" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1361">phase of the moon</A>.  The British seem to prefer the usage
+   `cosmic showers'; `alpha particles' is also heard, because
+   stray alpha particles passing through a memory chip can cause
+   single-bit errors (this becomes increasingly more likely as memory
+   sizes and densities increase).
+<P>
+   Factual note: Alpha particles cause bit rot, cosmic rays do not
+   (except occasionally in spaceborne computers).  Intel could not
+   explain random bit drops in their early chips, and one hypothesis
+   was cosmic rays.  So they created the World's Largest Lead Safe,
+   using 25 tons of the stuff, and used two identical boards for
+   testing.  One was placed in the safe, one outside.  The hypothesis
+   was that if cosmic rays were causing the bit drops, they should see
+   a statistically significant difference between the error rates on
+   the two boards.  They did not observe such a difference.  Further
+   investigation demonstrated conclusively that the bit drops were due
+   to alpha particle emissions from thorium (and to a much lesser
+   degree uranium) in the encapsulation material.  Since it is
+   impossible to eliminate these radioactives (they are uniformly
+   distributed through the earth's crust, with the statistically
+   insignificant exception of uranium lodes) it became obvious that
+   one has to design memories to withstand these hits.  <P>
+<A NAME=TAG360><B>cough and die</B></A> /v./ <P> Syn.  <A HREF="JARGO~18.HTM#TAG75" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG75">barf</A>.  Connotes that the program
+   is throwing its hands up by design rather than because of a bug or
+   oversight.  "The parser saw a control-A in its input where it was
+   looking for a printable, so it coughed and died."  Compare
+    <A HREF="JARGO~21.HTM#TAG466" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG466">die</A>,  <A HREF="JARGO~21.HTM#TAG467" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG467">die horribly</A>,  <A HREF="JARGO~46.HTM#TAG1559" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1559">scream and die</A>.  <P>
+<A NAME=TAG361><B>cowboy</B></A> /n./ <P> [Sun, from William Gibson's  <A HREF="JARGO~19.HTM#TAG406" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG406">cyberpunk</A> SF]
+   Synonym for  <A HREF="JARGO~26.HTM#TAG833" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG833">hacker</A>.  It is reported that at Sun this word is
+   often said with reverence.  <P>
+<A NAME=TAG362><B>CP/M</B></A> /C-P-M/ /n./ <P> [Control Program/Monitor; later
+    <A HREF="JARGO~33.HTM#TAG1499" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1499">retcon</A>ned to Control Program for Microcomputers] An early
+   microcomputer  <A HREF="JARGO~32.HTM#TAG1309" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1309">OS</A> written by hacker Gary Kildall for 8080- and
+   Z80-based machines, very popular in the late 1970s but virtually
+   wiped out by MS-DOS after the release of the IBM PC in 1981.
+   Legend has it that Kildall's company blew its chance to write the
+   OS for the IBM PC because Kildall decided to spend a day IBM's reps
+   wanted to meet with him enjoying the perfect flying weather in his
+   private plane.  Many of CP/M's features and conventions strongly
+   resemble those of early  <A HREF="JARGO~21.HTM#TAG435" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG435">DEC</A> operating systems such as
+    <A HREF="JARGO~38.HTM#TAG1819" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1819">TOPS-10</A>, OS/8, RSTS, and RSX-11.  See  <A HREF="JARGO~30.HTM#TAG1182" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1182">MS-DOS</A>,
+    <A HREF="JARGO~32.HTM#TAG1300" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1300">operating system</A>.  <P>
+<A NAME=TAG363><B>CPU Wars</B></A> /C-P-U worz/ /n./ <P> A 1979 large-format comic by
+   Chas Andres chronicling the attempts of the brainwashed androids of
+   IPM (Impossible to Program Machines) to conquer and destroy the
+   peaceful denizens of HEC (Human Engineered Computers).  This rather
+   transparent allegory featured many references to  <A HREF="JARGO~17.HTM#TAG11" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG11">ADVENT</A> and
+   the immortal line "Eat flaming death, minicomputer mongrels!"
+   (uttered, of course, by an IPM stormtrooper).  It is alleged that
+   the author subsequently received a letter of appreciation on IBM
+   company stationery from the head of IBM's Thomas J. Watson Research
+   Laboratories (then, as now, one of the few islands of true
+   hackerdom in the IBM archipelago).  The lower loop of the B in the
+   IBM logo, it is said, had been carefully whited out.  See  <A HREF="JARGO~20.HTM#TAG536" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG536">eat flaming death</A>.  <P>
+<A NAME=TAG364><B>crack root</B></A> /v./ <P> To defeat the security system of a Unix
+   machine and gain  <A HREF="JARGO~33.HTM#TAG1515" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1515">root</A> privileges thereby; see  <A HREF="JARGO~19.HTM#TAG366" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG366">cracking</A>.  <P>
+<A NAME=TAG365><B>cracker</B></A> /n./ <P> One who breaks security on a system.  Coined
+   ca. 1985 by hackers in defense against journalistic misuse of
+    <A HREF="JARGO~26.HTM#TAG833" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG833">hacker</A> (q.v., sense 8).  An earlier attempt to establish
+   `worm' in this sense around 1981--82 on Usenet was largely a
+   failure.  <P>
+   Use of both these neologisms reflects a strong revulsion against
+   the theft and vandalism perpetrated by cracking rings.  While it is
+   expected that any real hacker will have done some playful cracking
+   and knows many of the basic techniques, anyone past  <A HREF="JARGO~28.HTM#TAG1011" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1011">larval stage</A> is expected to have outgrown the desire to do so except for
+   immediate, benign, practical reasons (for example, if it's
+   necessary to get around some security in order to get some work
+   done).  <P>
+   Thus, there is far less overlap between hackerdom and crackerdom
+   than the  <A HREF="JARGO~30.HTM#TAG1196" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1196">mundane</A> reader misled by sensationalistic journalism
+   might expect.  Crackers tend to gather in small, tight-knit, very
+   secretive groups that have little overlap with the huge, open
+   poly-culture this lexicon describes; though crackers often like to
+   describe <EM>themselves</EM> as hackers, most true hackers consider
+   them a separate and lower form of life.  <P>
+   Ethical considerations aside, hackers figure that anyone who can't
+   imagine a more interesting way to play with their computers than
+   breaking into someone else's has to be pretty  <A HREF="JARGO~28.HTM#TAG1069" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1069">losing</A>.  Some
+   other reasons crackers are looked down on are discussed in the
+   entries on  <A HREF="JARGO~19.HTM#TAG366" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG366">cracking</A> and  <A HREF="JARGO~34.HTM#TAG1364" tppabs="http://www.ccil.org/jargon/jargon_31.html#TAG1364">phreaking</A>.  See also
+    <A HREF="JARGO~46.HTM#TAG1546" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1546">samurai</A>,  <A HREF="JARGO~21.HTM#TAG419" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG419">dark-side hacker</A>, and  <A HREF="JARGO~26.HTM#TAG834" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG834">hacker ethic</A>.  For a
+   portrait of the typical teenage cracker, see  <A HREF="JARGO~40.HTM#TAG1940" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1940">warez d00dz</A>. <P>
+<A NAME=TAG366><B>cracking</B></A> /n./ <P> The act of breaking into a computer system;
+   what a  <A HREF="JARGO~19.HTM#TAG365" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG365">cracker</A> does.  Contrary to widespread myth, this does
+   not usually involve some mysterious leap of hackerly brilliance,
+   but rather persistence and the dogged repetition of a handful of
+   fairly well-known tricks that exploit common weaknesses in the
+   security of target systems.  Accordingly, most crackers are only
+   mediocre hackers.  <P>
+<A NAME=TAG367><B>crank</B></A> /vt./ <P> [from automotive slang] Verb used to describe the
+   performance of a machine, especially sustained performance.  "This
+   box cranks (or, cranks at) about 6 megaflops, with a burst mode of
+   twice that on vectorized operations." <P>
+<A NAME=TAG368><B>CrApTeX</B></A> /krap'tekh/ /n./ <P> [University of York, England] Term
+   of abuse used to describe TeX and LaTeX when they don't work (when
+   used by TeXhackers), or all the time (by everyone else).  The
+   non-TeX-enthusiasts generally dislike it because it is more verbose
+   than other formatters (e.g.  <A HREF="JARGO~38.HTM#TAG1837" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1837">troff</A>) and because (particularly
+   if the standard Computer Modern fonts are used) it generates vast
+   output files.  See  <A HREF="JARGO~33.HTM#TAG1495" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1495">religious issues</A>,  <A HREF="JARGO~38.HTM#TAG1777" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1777">TeX</A>.  <P>
+<A NAME=TAG369><B>crash</B></A> <P> 1. /n./ A sudden, usually drastic failure.  Most often
+   said of the  <A HREF="JARGO~46.HTM#TAG1742" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1742">system</A> (q.v., sense 1), esp. of magnetic disk
+   drives (the term originally described what happens when the air
+   gap of a hard disk collapses).  "Three  <A HREF="JARGO~28.HTM#TAG1080" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1080">luser</A>s lost their
+   files in last night's disk crash."  A disk crash that involves the
+   read/write heads dropping onto the surface of the disks and
+   scraping off the oxide may also be referred to as a `head crash',
+   whereas the term `system crash' usually, though not always,
+   implies that the operating system or other software was at fault.
+   2. /v./ To fail suddenly.  "Has the system just crashed?"
+   "Something crashed the OS!" See  <A HREF="JARGO~21.HTM#TAG503" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG503">down</A>.  Also used
+   transitively to indicate the cause of the crash (usually a person
+   or a program, or both).  "Those idiots playing  <A HREF="JARGO~46.HTM#TAG1669" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1669">SPACEWAR</A>
+   crashed the system." 3. /vi./  Sometimes said of people hitting the
+   sack after a long  <A HREF="JARGO~26.HTM#TAG836" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG836">hacking run</A>; see  <A HREF="JARGO~23.HTM#TAG809" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG809">gronk out</A>.  <P>
+<A NAME=TAG370><B>crash and burn</B></A> /vi.,n./ <P> A spectacular crash, in the mode of
+   the conclusion of the car-chase scene in the movie "Bullitt"
+   and many subsequent imitators (compare  <A HREF="JARGO~21.HTM#TAG467" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG467">die horribly</A>).  Sun-3
+   monitors losing the flyback transformer and lightning strikes on
+   VAX-11/780 backplanes are notable crash and burn generators.  The
+   construction `crash-and-burn machine' is reported for a computer
+   used exclusively for alpha or  <A HREF="JARGO~18.HTM#TAG99" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG99">beta</A> testing, or reproducing
+   bugs (i.e., not for development).  The implication is that it
+   wouldn't be such a disaster if that machine crashed, since only the
+   testers would be inconvenienced.  <P>
+<A NAME=TAG371><B>crawling horror</B></A> /n./ <P> Ancient crufty hardware or software that
+   is kept obstinately alive by forces beyond the control of the
+   hackers at a site.  Like  <A HREF="JARGO~21.HTM#TAG530" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG530">dusty deck</A> or  <A HREF="JARGO~23.HTM#TAG776" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG776">gonkulator</A>, but
+   connotes that the thing described is not just an irritation but an
+   active menace to health and sanity.  "Mostly we code new stuff in
+   C, but they pay us to maintain one big FORTRAN II application from
+   nineteen-sixty-X that's a real crawling horror...." Compare
+    <A HREF="JARGO~40.HTM#TAG2000" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG2000">WOMBAT</A>.  <P>
+<A NAME=TAG372><B>cray</B></A> /kray/ /n./ <P> 1. (properly, capitalized) One of the line
+   of supercomputers designed by Cray Research.  2. Any supercomputer
+   at all.  3. The  <A HREF="JARGO~19.HTM#TAG250" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG250">canonical</A>  <A HREF="JARGO~29.HTM#TAG1275" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1275">number-crunching</A> machine.
+<P>
+   The term is actually the lowercased last name of Seymour Cray, a
+   noted computer architect and co-founder of the company.  Numerous
+   vivid legends surround him, some true and some admittedly invented
+   by Cray Research brass to shape their corporate culture and image.  <P>
+<A NAME=TAG373><B>cray instability</B></A> /n./ <P> 1. A shortcoming of a program or
+   algorithm that manifests itself only when a large problem is being
+   run on a powerful machine (see  <A HREF="JARGO~19.HTM#TAG372" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG372">cray</A>).  Generally more subtle
+   than bugs that can be detected in smaller problems running on a
+   workstation or mini.  2. More specifically, a shortcoming of
+   algorithms which are well behaved when run on gentle floating point
+   hardware (such as IEEE-standard or DEC) but which break down badly
+   when exposed to a Cray's unique `rounding' rules. <P>
+<A NAME=TAG374><B>crayola</B></A> /kray-oh'l*/ /n./ <P> A super-mini or -micro computer
+   that provides some reasonable percentage of supercomputer
+   performance for an unreasonably low price.  Might also be a
+    <A HREF="JARGO~27.HTM#TAG992" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG992">killer micro</A>.  <P>
+<A NAME=TAG375><B>crayola books</B></A> /n./ <P> The  <A HREF="JARGO~33.HTM#TAG1456" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1456">rainbow series</A> of National
+   Computer Security Center (NCSC) computer security standards (see
+    <A HREF="JARGO~32.HTM#TAG1304" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1304">Orange Book</A>).  Usage: humorous and/or disparaging.
+<P>
+<A NAME=TAG376><B>crayon</B></A> /n./ <P> 1. Someone who works on Cray supercomputers.
+   More specifically, it implies a programmer, probably of the CDC
+   ilk, probably male, and almost certainly wearing a tie
+   (irrespective of gender).  Systems types who have a Unix background
+   tend not to be described as crayons.  2. A  <A HREF="JARGO~19.HTM#TAG324" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG324">computron</A> (sense 2)
+   that participates only in  <A HREF="JARGO~29.HTM#TAG1275" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1275">number-crunching</A>.  3. A unit of
+   computational power equal to that of a single Cray-1.  There is a
+   standard joke about this usage that derives from an old Crayola
+   crayon promotional gimmick: When you buy 64 crayons you get a free
+   sharpener.  <P>
+<A NAME=TAG377><B>creationism</B></A> /n./ <P> The (false) belief that large, innovative
+   software designs can be completely specified in advance and then
+   painlessly magicked out of the void by the normal efforts of a team
+   of normally talented programmers.  In fact, experience has shown
+   repeatedly that good designs arise only from evolutionary,
+   exploratory interaction between one (or at most a small handful of)
+   exceptionally able designer(s) and an active user population ---
+   and that the first try at a big new idea is always wrong.
+   Unfortunately, because these truths don't fit the planning models
+   beloved of  <A HREF="JARGO~30.HTM#TAG1101" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1101">management</A>, they are generally ignored.  <P>
+<A NAME=TAG378><B>creep</B></A> /v./ <P> To advance, grow, or multiply inexorably.  In
+   hackish usage this verb has overtones of menace and silliness,
+   evoking the creeping horrors of low-budget monster movies.  <P>
+<A NAME=TAG379><B>creeping elegance</B></A> /n./ <P> Describes a tendency for parts of a
+   design to become  <A HREF="JARGO~20.HTM#TAG542" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG542">elegant</A> past the point of diminishing return,
+   something which often happens at the expense of the less
+   interesting parts of the design, the schedule, and other things
+   deemed important in the  <A HREF="JARGO~33.HTM#TAG1482" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1482">Real World</A>.  See also  <A HREF="JARGO~19.HTM#TAG380" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG380">creeping featurism</A>,  <A HREF="JARGO~46.HTM#TAG1571" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1571">second-system effect</A>,  <A HREF="JARGO~38.HTM#TAG1766" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1766">tense</A>.  <P>
+<A NAME=TAG380><B>creeping featurism</B></A> /kree'ping fee'chr-izm/ /n./ <P>
+   1. Describes a systematic tendency to load more  <A HREF="JARGO~19.HTM#TAG289" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG289">chrome</A> and
+    <A HREF="JARGO~22.HTM#TAG597" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG597">feature</A>s onto systems at the expense of whatever elegance they
+   may have possessed when originally designed.  See also  <A HREF="JARGO~22.HTM#TAG605" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG605">feeping creaturism</A>.  "You know, the main problem with  <A HREF="JARGO~18.HTM#TAG216" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG216">BSD</A> Unix has
+   always been creeping featurism."  2. More generally, the tendency
+   for anything complicated to become even more complicated because
+   people keep saying "Gee, it would be even better if it had this
+   feature too".  (See  <A HREF="JARGO~22.HTM#TAG597" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG597">feature</A>.)  The result is usually a
+   patchwork because it grew one ad-hoc step at a time, rather than
+   being planned.  Planning is a lot of work, but it's easy to add
+   just one extra little feature to help someone ... and then
+   another ... and another.... When creeping featurism gets
+   out of hand, it's like a cancer.  Usually this term is used to
+   describe computer programs, but it could also be said of the
+   federal government, the IRS 1040 form, and new cars.  A similar
+   phenomenon sometimes afflicts conscious redesigns; see
+    <A HREF="JARGO~46.HTM#TAG1571" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1571">second-system effect</A>.  See also  <A HREF="JARGO~19.HTM#TAG379" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG379">creeping elegance</A>.  <P>
+<A NAME=TAG381><B>creeping featuritis</B></A> /kree'ping fee'-chr-i:`t*s/ /n./ <P>
+   Variant of  <A HREF="JARGO~19.HTM#TAG380" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG380">creeping featurism</A>, with its own spoonerization:
+   `feeping creaturitis'.  Some people like to reserve this form for
+   the disease as it actually manifests in software or hardware, as
+   opposed to the lurking general tendency in designers' minds.
+   (After all, -ism means `condition' or `pursuit of', whereas
+   -itis usually means `inflammation of'.) <P>
+<A NAME=TAG382><B>cretin</B></A> /kret'in/ or /kree'tn/ /n./ <P> Congenital  <A HREF="JARGO~28.HTM#TAG1068" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1068">loser</A>;
+   an obnoxious person; someone who can't do anything right.  It has
+   been observed that many American hackers tend to favor the British
+   pronunciation /kret'in/ over standard American /kree'tn/; it is
+   thought this may be due to the insidious phonetic influence of
+   Monty Python's Flying Circus.  <P>
+<A NAME=TAG383><B>cretinous</B></A> /kret'n-*s/ or /kreet'n-*s/ /adj./ <P> Wrong;
+   stupid; non-functional; very poorly designed.  Also used
+   pejoratively of people.  See  <A HREF="JARGO~21.HTM#TAG511" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG511">dread high-bit disease</A> for an
+   example.  Approximate synonyms:  <A HREF="JARGO~18.HTM#TAG136" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG136">bletcherous</A>,  <A HREF="JARGO~18.HTM#TAG63" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG63">bagbiting</A>
+    <A HREF="JARGO~28.HTM#TAG1069" tppabs="http://www.ccil.org/jargon/jargon_27.html#TAG1069">losing</A>,  <A HREF="JARGO~18.HTM#TAG194" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG194">brain-damaged</A>.  <P>
+<A NAME=TAG384><B>crippleware</B></A> /n./ <P> 1. Software that has some important
+   functionality deliberately removed, so as to entice potential users
+   to pay for a working version.  2. [Cambridge] Variety of
+    <A HREF="JARGO~23.HTM#TAG814" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG814">guiltware</A> that exhorts you to donate to some charity (compare
+    <A HREF="JARGO~19.HTM#TAG252" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG252">careware</A>,  <A HREF="JARGO~29.HTM#TAG1204" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1204">nagware</A>).  3. Hardware deliberately crippled,
+   which can be upgraded to a more expensive model by a trivial change
+   (e.g., cutting a jumper).  <P>
+   An excellent example of crippleware (sense 3) is Intel's 486SX
+   chip, which is a standard 486DX chip with the co-processor dyked
+   out (in some early versions it was present but disabled).  To
+   upgrade, you buy a complete 486DX chip with <EM>working</EM>
+   co-processor (its identity thinly veiled by a different pinout) and
+   plug it into the board's expansion socket.  It then disables the
+   SX, which becomes a fancy power sink.  Don't you love Intel? <P>
+<A NAME=TAG385><B>critical mass</B></A> /n./ <P> In physics, the minimum amount of
+   fissionable material required to sustain a chain reaction.  Of a
+   software product, describes a condition of the software such that
+   fixing one bug introduces one plus  <A HREF="JARGO~20.HTM#TAG560" tppabs="http://www.ccil.org/jargon/jargon_20.html#TAG560">epsilon</A> bugs.  (This malady
+   has many causes:  <A HREF="JARGO~19.HTM#TAG380" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG380">creeping featurism</A>, ports to too many
+   disparate environments, poor initial design, etc.)  When software
+   achieves critical mass, it can never be fixed; it can only be
+   discarded and rewritten.  <P>
+<A NAME=TAG386><B>crlf</B></A> /ker'l*f/, sometimes /kru'l*f/ or /C-R-L-F/ /n./ <P>
+   (often capitalized as `CRLF') A carriage return (CR, ASCII 0001101)
+   followed by a line feed (LF, ASCII 0001010).  More loosely,
+   whatever it takes to get you from the end of one line of text to
+   the beginning of the next line.  See  <A HREF="JARGO~29.HTM#TAG1247" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1247">newline</A>,  <A HREF="JARGO~38.HTM#TAG1775" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1775">terpri</A>.
+   Under  <A HREF="JARGO~35.HTM#TAG1869" tppabs="http://www.ccil.org/jargon/jargon_36.html#TAG1869">Unix</A> influence this usage has become less common (Unix
+   uses a bare line feed as its `CRLF').  <P>
+<A NAME=TAG387><B>crock</B></A> /n./ <P> [from the American scatologism `crock of shit']
+   1. An awkward feature or programming technique that ought to be
+   made cleaner.  For example, using small integers to represent error
+   codes without the program interpreting them to the user (as in, for
+   example, Unix <CODE>make(1)</CODE>, which returns code 139 for a process
+   that dies due to  <A HREF="JARGO~46.HTM#TAG1575" tppabs="http://www.ccil.org/jargon/jargon_34.html#TAG1575">segfault</A>).  2. A technique that works
+   acceptably, but which is quite prone to failure if disturbed in the
+   least.  For example, a too-clever programmer might write an
+   assembler which mapped instruction mnemonics to numeric opcodes
+   algorithmically, a trick which depends far too intimately on the
+   particular bit patterns of the opcodes.  (For another example of
+   programming with a dependence on actual opcode values, see  <A HREF="JARGO~48.HTM#SEC56" tppabs="http://www.ccil.org/jargon/jargon_49.html#SEC56">The Story of Mel, a Real Programmer</A> in Appendix A.)  Many crocks
+   have a tightly woven, almost completely unmodifiable structure.
+   See  <A HREF="JARGO~27.HTM#TAG1000" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG1000">kluge</A>,  <A HREF="JARGO~18.HTM#TAG204" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG204">brittle</A>.  The adjectives `crockish' and
+   `crocky', and the nouns `crockishness' and `crockitude', are
+   also used.  <P>
+<A NAME=TAG388><B>cross-post</B></A> [Usenet] /vi./ <P> To post a single article
+   simultaneously to several newsgroups.  Distinguished from posting
+   the article repeatedly, once to each newsgroup, which causes people
+   to see it multiple times (which is very bad form).  Gratuitous
+   cross-posting without a Followup-To line directing responses to a
+   single followup group is frowned upon, as it tends to cause
+    <A HREF="JARGO~22.HTM#TAG668" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG668">followup</A> articles to go to inappropriate newsgroups when
+   people respond to only one part of the original posting.  <P>
+<A NAME=TAG389><B>crudware</B></A> /kruhd'weir/ /n./ <P> Pejorative term for the hundreds
+   of megabytes of low-quality  <A HREF="JARGO~22.HTM#TAG691" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG691">freeware</A> circulated by user's
+   groups and BBS systems in the micro-hobbyist world.  "Yet
+   <EM>another</EM> set of disk catalog utilities for  <A HREF="JARGO~30.HTM#TAG1182" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1182">MS-DOS</A>?
+   What crudware!" <P>
+<A NAME=TAG390><B>cruft</B></A> /kruhft/ <P> [back-formation from  <A HREF="JARGO~19.HTM#TAG393" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG393">crufty</A>] 1. /n./ An
+   unpleasant substance.  The dust that gathers under your bed is
+   cruft; the TMRC Dictionary correctly noted that attacking it with a
+   broom only produces more.  2. /n./ The results of shoddy
+   construction.  3. /vt./ [from `hand cruft', pun on `hand craft']
+   To write assembler code for something normally (and better) done by
+   a compiler (see  <A HREF="JARGO~26.HTM#TAG850" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG850">hand-hacking</A>).  4. /n./ Excess; superfluous
+   junk; used esp. of redundant or superseded code.  5. [University
+   of Wisconsin] /n./ Cruft is to hackers as gaggle is to geese; that
+   is, at UW one properly says "a cruft of hackers". <P>
+<A NAME=TAG391><B>cruft together</B></A> /vt./ <P> (also `cruft up') To throw together
+   something ugly but temporarily workable.  Like /vt./  <A HREF="JARGO~27.HTM#TAG1002" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG1002">kluge up</A>,
+   but more pejorative.  "There isn't any program now to reverse all
+   the lines of a file, but I can probably cruft one together in about
+   10 minutes."  See  <A HREF="JARGO~26.HTM#TAG828" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG828">hack together</A>,  <A HREF="JARGO~26.HTM#TAG829" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG829">hack up</A>,  <A HREF="JARGO~27.HTM#TAG1002" tppabs="http://www.ccil.org/jargon/jargon_26.html#TAG1002">kluge up</A>,
+    <A HREF="JARGO~19.HTM#TAG393" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG393">crufty</A>.  <P>
+<A NAME=TAG392><B>cruftsmanship</B></A> /kruhfts'm*n-ship / /n./ <P> [from  <A HREF="JARGO~19.HTM#TAG390" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG390">cruft</A>]
+   The antithesis of craftsmanship.  <P>
+<A NAME=TAG393><B>crufty</B></A> /kruhf'tee/ /adj./ <P> [origin unknown; poss. from
+   `crusty' or `cruddy'] 1. Poorly built, possibly over-complex.
+   The  <A HREF="JARGO~19.HTM#TAG250" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG250">canonical</A> example is "This is standard old crufty
+    <A HREF="JARGO~21.HTM#TAG435" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG435">DEC</A> software".  In fact, one fanciful theory of the origin of
+   `crufty' holds that was originally a mutation of `crusty'
+   applied to DEC software so old that the `s' characters were tall
+   and skinny, looking more like `f' characters.  2. Unpleasant,
+   especially to the touch, often with encrusted junk.  Like spilled
+   coffee smeared with peanut butter and catsup.  3. Generally
+   unpleasant.  4. (sometimes spelled `cruftie') /n./ A small crufty
+   object (see  <A HREF="JARGO~22.HTM#TAG697" tppabs="http://www.ccil.org/jargon/jargon_21.html#TAG697">frob</A>); often one that doesn't fit well into the
+   scheme of things.  "A LISP property list is a good place to store
+   crufties (or, collectively,  <A HREF="JARGO~33.HTM#TAG1457" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1457">random</A> cruft)." <P>
+   This term is one of the oldest in the jargon and no one is sure of
+   its etymology, but it is suggestive that there is a Cruft Hall at
+   Harvard University which is part of the old physics building; it's
+   said to have been the physics department's radar lab during WWII.
+   To this day (early 1993) the windows appear to be full of random
+   techno-junk.  MIT or Lincoln Labs people may well have coined the
+   term as a knock on the competition.  <P>
+<A NAME=TAG394><B>crumb</B></A> /n./ <P> Two binary digits; a  <A HREF="JARGO~31.HTM#TAG1441" tppabs="http://www.ccil.org/jargon/jargon_32.html#TAG1441">quad</A>.  Larger than a
+    <A HREF="JARGO~18.HTM#TAG113" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG113">bit</A>, smaller than a  <A HREF="JARGO~29.HTM#TAG1278" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1278">nybble</A>.  Considered silly.
+   Syn.  <A HREF="JARGO~38.HTM#TAG1755" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1755">tayste</A>.  General discussion of such terms is under
+    <A HREF="JARGO~29.HTM#TAG1278" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1278">nybble</A>.  <P>
+<A NAME=TAG395><B>crunch</B></A> 1. /vi./ <P> To process, usually in a time-consuming or
+   complicated way.  Connotes an essentially trivial operation that is
+   nonetheless painful to perform.  The pain may be due to the
+   triviality's being embedded in a loop from 1 to 1,000,000,000.
+   "FORTRAN programs do mostly  <A HREF="JARGO~29.HTM#TAG1275" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1275">number-crunching</A>."  2. /vt./ To
+   reduce the size of a file by a complicated scheme that produces bit
+   configurations completely unrelated to the original data, such as
+   by a Huffman code.  (The file ends up looking something like a
+   paper document would if somebody crunched the paper into a wad.)
+   Since such compression usually takes more computations than simpler
+   methods such as run-length encoding, the term is doubly
+   appropriate.  (This meaning is usually used in the construction
+   `file crunch(ing)' to distinguish it from  <A HREF="JARGO~29.HTM#TAG1275" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1275">number-crunching</A>.)
+   See  <A HREF="JARGO~19.HTM#TAG320" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG320">compress</A>.  3. /n./ The character <SAMP>`#'</SAMP>.  Used at XEROX
+   and CMU, among other places.  See  <A HREF="JARGO~17.HTM#TAG43" tppabs="http://www.ccil.org/jargon/jargon_16.html#TAG43">ASCII</A>.  4. /vt./ To squeeze
+   program source into a minimum-size representation that will still
+   compile or execute.  The term came into being specifically for a
+   famous program on the BBC micro that crunched BASIC source in order
+   to make it run more quickly (it was a wholly interpretive BASIC, so
+   the number of characters mattered).   <A HREF="JARGO~32.HTM#TAG1281" tppabs="http://www.ccil.org/jargon/jargon_30.html#TAG1281">Obfuscated C Contest</A>
+   entries are often crunched; see the first example under that entry.  <P>
+<A NAME=TAG396><B>cruncha cruncha cruncha</B></A> /kruhn'ch* kruhn'ch* kruhn'ch*/ /interj./ <P>
+   An encouragement sometimes muttered to a machine
+   bogged down in a serious  <A HREF="JARGO~23.HTM#TAG811" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG811">grovel</A>.  Also describes a notional
+   sound made by groveling hardware.  See  <A HREF="JARGO~40.HTM#TAG2013" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG2013">wugga wugga</A>,  <A HREF="JARGO~23.HTM#TAG803" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG803">grind</A>
+   (sense 3).  <P>
+<A NAME=TAG397><B>cryppie</B></A> /krip'ee/ /n./ <P> A cryptographer.  One who hacks or
+   implements cryptographic software or hardware.  <P>
+<A NAME=TAG398><B>CTSS</B></A> /C-T-S-S/ /n./ <P> Compatible Time-Sharing System.  An
+   early (1963) experiment in the design of interactive time-sharing
+   operating systems, ancestral to  <A HREF="JARGO~30.HTM#TAG1188" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1188">Multics</A>,  <A HREF="JARGO~35.HTM#TAG1869" tppabs="http://www.ccil.org/jargon/jargon_36.html#TAG1869">Unix</A>, and
+    <A HREF="JARGO~24.HTM#TAG958" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG958">ITS</A>.  The name  <A HREF="JARGO~24.HTM#TAG958" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG958">ITS</A> (Incompatible Time-sharing System)
+   was a hack on CTSS, meant both as a joke and to express some basic
+   differences in philosophy about the way I/O services should be
+   presented to user programs.  <P>
+<A NAME=TAG399><B>CTY</B></A> /sit'ee/ or /C-T-Y/ /n./ <P> [MIT] The terminal
+   physically associated with a computer's system  <A HREF="JARGO~19.HTM#TAG332" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG332">console</A>.  The
+   term is a contraction of `Console  <A HREF="JARGO~38.HTM#TAG1844" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1844">tty</A>', that is, `Console
+   TeleTYpe'.  This  <A HREF="JARGO~24.HTM#TAG958" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG958">ITS</A>- and  <A HREF="JARGO~38.HTM#TAG1819" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1819">TOPS-10</A>-associated term has
+   become less common, as most Unix hackers simply refer to the CTY as
+   `the console'.  <P>
+<A NAME=TAG400><B>cube</B></A> /n./ <P> 1. [short for `cubicle'] A module in the
+   open-plan offices used at many programming shops.  "I've got the
+   manuals in my cube."  2. A NeXT machine (which resembles a
+   matte-black cube).  <P>
+<A NAME=TAG401><B>cubing</B></A> /vi./ <P> [parallel with `tubing'] 1. Hacking on an IPSC
+   (Intel Personal SuperComputer) hypercube.  "Louella's gone cubing
+   <EM>again</EM>!!"  2. Hacking Rubik's Cube or related puzzles,
+   either physically or mathematically.  3. An indescribable form of
+   self-torture (see sense 1 or 2).  <P>
+<A NAME=TAG402><B>cursor dipped in X</B></A> /n./ <P> There are a couple of metaphors in
+   English of the form `pen dipped in X' (perhaps the most common
+   values of X are `acid', `bile', and `vitriol').  These map
+   over neatly to this hackish usage (the cursor being what moves,
+   leaving letters behind, when one is composing on-line).  "Talk
+   about a  <A HREF="JARGO~29.HTM#TAG1218" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1218">nastygram</A>!  He must've had his cursor dipped in acid
+   when he wrote that one!"<P>
+<A NAME=TAG403><B>cuspy</B></A> /kuhs'pee/ /adj./ <P> [WPI: from the  <A HREF="JARGO~21.HTM#TAG435" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG435">DEC</A>
+   abbreviation CUSP, for `Commonly Used System Program', i.e., a
+   utility program used by many people] 1. (of a program)
+   Well-written.  2. Functionally excellent.  A program that performs
+   well and interfaces well to users is cuspy.  See  <A HREF="JARGO~33.HTM#TAG1529" tppabs="http://www.ccil.org/jargon/jargon_33.html#TAG1529">rude</A>.
+   3. [NYU] Said of an attractive woman, especially one regarded as
+   available.  Implies a certain curvaceousness.  <P>
+<A NAME=TAG404><B>cut a tape</B></A> /vi./ <P> To write a software or document distribution
+   on magnetic tape for shipment.  Has nothing to do with physically
+   cutting the medium!  Early versions of this lexicon claimed that
+   one never analogously speaks of `cutting a disk', but this has
+   since been reported as live usage.  Related slang usages are
+   mainstream business's `cut a check', the recording industry's
+   `cut a record', and the military's `cut an order'.  <P>
+   All of these usages reflect physical processes in obsolete
+   recording and duplication technologies.  The first stage in
+   manufacturing an old-style vinyl record involved cutting grooves in
+   a stamping die with a precision lathe.  More mundanely, the
+   dominant technology for mass duplication of paper documents in
+   pre-photocopying days involved "cutting a stencil", punching away
+   portions of the wax overlay on a silk screen.  More directly,
+   paper tape with holes punched in it was an important early storage
+   medium.  <P>
+<A NAME=TAG405><B>cybercrud</B></A> /si:'ber-kruhd/ /n./ <P> 1. [coined by Ted Nelson]
+   Obfuscatory tech-talk.  Verbiage with a high  <A HREF="JARGO~30.HTM#TAG1124" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1124">MEGO</A> factor.  The
+   computer equivalent of bureaucratese.  2. Incomprehensible stuff
+   embedded in email.  First there were the "Received" headers that
+   show how mail flows through systems, then MIME (Multi-purpose
+   Internet Mail Extensions) headers and part boundaries, and now huge
+   blocks of hex for PEM (Privacy Enhanced Mail) or PGP (Pretty Good
+   Privacy) digital signatures and certificates of authenticity.  This
+   stuff all services a purpose and good user interfaces should hide
+   it, but all too often users are forced to wade through it.  <P>
+<A NAME=TAG406><B>cyberpunk</B></A> /si:'ber-puhnk/ /n.,adj./ <P> [orig. by SF writer
+   Bruce Bethke and/or editor Gardner Dozois] A subgenre of SF
+   launched in 1982 by William Gibson's epoch-making novel
+   "Neuromancer" (though its roots go back through Vernor Vinge's
+   "True Names" (see the  <A HREF="JARGO~72.HTM#SEC77" tppabs="http://www.ccil.org/jargon/jargon_70.html#SEC77">Bibliography</A> in Appendix C) to
+   John Brunner's 1975 novel "The Shockwave Rider").  Gibson's
+   near-total ignorance of computers and the present-day hacker
+   culture enabled him to speculate about the role of computers and
+   hackers in the future in ways hackers have since found both
+   irritatingly na&iuml;ve and tremendously stimulating.  Gibson's work
+   was widely imitated, in particular by the short-lived but
+   innovative "Max Headroom" TV series.  See  <A HREF="JARGO~19.HTM#TAG407" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG407">cyberspace</A>,
+    <A HREF="JARGO~24.HTM#TAG922" tppabs="http://www.ccil.org/jargon/jargon_24.html#TAG922">ice</A>,  <A HREF="JARGO~25.HTM#TAG963" tppabs="http://www.ccil.org/jargon/jargon_25.html#TAG963">jack in</A>,  <A HREF="JARGO~23.HTM#TAG767" tppabs="http://www.ccil.org/jargon/jargon_22.html#TAG767">go flatline</A>.  <P>
+   Since 1990 or so, popular culture has included a movement or
+   fashion trend that calls itself `cyberpunk', associated especially
+   with the rave/techno subculture.  Hackers have mixed feelings about
+   this.  On the one hand, self-described cyberpunks too often seem to
+   be shallow trendoids in black leather who have substituted
+   enthusiastic blathering about technology for actually learning and
+   <EM>doing</EM> it.  Attitude is no substitute for competence.  On the
+   other hand, at least cyberpunks are excited about the right things
+   and properly respectful of hacking talent in those who have it.
+   The general consensus is to tolerate them politely in hopes that
+   they'll attract people who grow into being true hackers.  <P>
+<A NAME=TAG407><B>cyberspace</B></A> /si:'br-spays`/ /n./ <P> 1. Notional
+   `information-space' loaded with visual cues and navigable with
+   brain-computer interfaces called `cyberspace decks'; a
+   characteristic prop of  <A HREF="JARGO~19.HTM#TAG406" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG406">cyberpunk</A> SF.  Serious efforts to
+   construct  <A HREF="JARGO~36.HTM#TAG1914" tppabs="http://www.ccil.org/jargon/jargon_37.html#TAG1914">virtual reality</A> interfaces modeled explicitly on
+   Gibsonian cyberspace are under way, using more conventional devices
+   such as glove sensors and binocular TV headsets.  Few hackers are
+   prepared to deny outright the possibility of a cyberspace someday
+   evolving out of the network (see  <A HREF="JARGO~29.HTM#TAG1242" tppabs="http://www.ccil.org/jargon/jargon_29.html#TAG1242">network, the</A>).  2. The
+   Internet or  <A HREF="JARGO~30.HTM#TAG1116" tppabs="http://www.ccil.org/jargon/jargon_28.html#TAG1116">Matrix</A> (sense #2) as a whole, considered as a
+   crude cyberspace (sense 1).  Although this usage became widely
+   popular in the mainstream press during 1994 when the Internet
+   exploded into public awareness, it is strongly deprecated among
+   hackers because the Internet does not meet the high, SF-inspired
+   standards they have for true cyberspace technology. Thus, this use
+   of the term usually tags a  <A HREF="JARGO~40.HTM#TAG1937" tppabs="http://www.ccil.org/jargon/jargon_38.html#TAG1937">wannabee</A> or outsider.
+   3. Occasionally, the metaphoric location of the mind of a person in
+    <A HREF="JARGO~26.HTM#TAG826" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG826">hack mode</A>.  Some hackers report experiencing strong eidetic
+   imagery when in hack mode; interestingly, independent reports from
+   multiple sources suggest that there are common features to the
+   experience.  In particular, the dominant colors of this subjective
+   `cyberspace' are often gray and silver, and the imagery often
+   involves constellations of marching dots, elaborate shifting
+   patterns of lines and angles, or moire patterns.  <P>
+<A NAME=TAG408><B>cycle</B></A> <P> 1. /n./ The basic unit of computation.  What every
+   hacker wants more of (noted hacker Bill Gosper describes himself as
+   a "cycle junkie"). One can describe an instruction as taking so
+   many `clock cycles'.  Often the computer can access its memory
+   once on every clock cycle, and so one speaks also of `memory
+   cycles'.  These are technical meanings of  <A HREF="JARGO~19.HTM#TAG408" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG408">cycle</A>.  The jargon
+   meaning comes from the observation that there are only so many
+   cycles per second, and when you are sharing a computer the cycles
+   get divided up among the users.  The more cycles the computer
+   spends working on your program rather than someone else's, the
+   faster your program will run.  That's why every hacker wants more
+   cycles: so he can spend less time waiting for the computer to
+   respond.  2. By extension, a notional unit of <EM>human</EM> thought
+   power, emphasizing that lots of things compete for the typical
+   hacker's think time.  "I refused to get involved with the Rubik's
+   Cube back when it was big.  Knew I'd burn too many cycles on it if
+   I let myself."  3. /vt./ Syn.  <A HREF="JARGO~18.HTM#TAG183" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG183">bounce</A> (sense 4),  <A HREF="JARGO~50.HTM#TAG2063" tppabs="http://www.ccil.org/jargon/jargon_42.html#TAG2063">120 reset</A>;
+   from the phrase `cycle power'. "Cycle the machine again, that
+   serial port's still hung." <P>
+<A NAME=TAG409><B>cycle crunch</B></A> /n./ <P> A situation wherein the number of people
+   trying to use a computer simultaneously has reached the point where
+   no one can get enough cycles because they are spread too thin and
+   the system has probably begun to  <A HREF="JARGO~38.HTM#TAG1787" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1787">thrash</A>.  This scenario is an
+   inevitable result of Parkinson's Law applied to timesharing.
+   Usually the only solution is to buy more computer.  Happily, this
+   has rapidly become easier since the mid-1980s, so much so that the
+   very term `cycle crunch' now has a faintly archaic flavor; most
+   hackers now use workstations or personal computers as opposed to
+   traditional timesharing systems.  <P>
+<A NAME=TAG410><B>cycle drought</B></A> /n./ <P> A scarcity of cycles.  It may be due to a
+    <A HREF="JARGO~19.HTM#TAG409" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG409">cycle crunch</A>, but it could also occur because part of the
+   computer is temporarily not working, leaving fewer cycles to go
+   around.  "The  <A HREF="JARGO~26.HTM#TAG886" tppabs="http://www.ccil.org/jargon/jargon_23.html#TAG886">high moby</A> is  <A HREF="JARGO~21.HTM#TAG503" tppabs="http://www.ccil.org/jargon/jargon_19.html#TAG503">down</A>, so we're running with
+   only half the usual amount of memory.  There will be a cycle
+   drought until it's fixed." <P>
+<A NAME=TAG411><B>cycle of reincarnation</B></A> /n./ <P> [coined in a paper by T. H. Myer
+   and I.E. Sutherland "On the Design of Display Processors", Comm.
+   ACM, Vol. 11, no. 6, June 1968)] Term used to refer to a well-known
+   effect whereby function in a computing system family is migrated
+   out to special-purpose peripheral hardware for speed, then the
+   peripheral evolves toward more computing power as it does its job,
+   then somebody notices that it is inefficient to support two
+   asymmetrical processors in the architecture and folds the function
+   back into the main CPU, at which point the cycle begins again. <P>
+   Several iterations of this cycle have been observed in
+   graphics-processor design, and at least one or two in
+   communications and floating-point processors.  Also known as `the
+   Wheel of Life', `the Wheel of Samsara', and other variations of
+   the basic Hindu/Buddhist theological idea.  See also  <A HREF="JARGO~18.HTM#TAG140" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG140">blitter</A>,
+    <A HREF="JARGO~18.HTM#TAG114" tppabs="http://www.ccil.org/jargon/jargon_17.html#TAG114">bit bang</A>.  <P>
+<A NAME=TAG412><B>cycle server</B></A> /n./ <P> A powerful machine that exists primarily
+   for running large compute-, disk-, or memory-intensive jobs.
+   Implies that interactive tasks such as editing are done on other
+   machines on the network, such as workstations.  <P>
+<A NAME=TAG413><B>cypherpunk</B></A> /n./ <P> [from  <A HREF="JARGO~19.HTM#TAG406" tppabs="http://www.ccil.org/jargon/jargon_18.html#TAG406">cyberpunk</A>] Someone interested in the
+   uses of encryption via electronic ciphers for enhancing personal
+   privacy and guarding against tyranny by centralized, authoritarian
+   power structures, especially government.  There is an active
+   cypherpunks mailing list at <I><a href="mailto:cypherpunks-request@toad.com">cypherpunks-request@toad.com</a></I>
+   coordinating work on public-key encryption freeware, privacy, and
+   digital cash.  See also  <A HREF="JARGO~38.HTM#TAG1767" tppabs="http://www.ccil.org/jargon/jargon_35.html#TAG1767">tentacle</A>. <P>
+<P>Go to the <A HREF="JARGO~18.HTM" tppabs="http://www.ccil.org/jargon/jargon_17.html">previous</A>, <A HREF="JARGO~21.HTM" tppabs="http://www.ccil.org/jargon/jargon_19.html">next</A> section.<P>
+</BODY>
+</HTML>

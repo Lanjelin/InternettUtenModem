@@ -1,0 +1,118 @@
+
+From bobrankin@mhv.net Tue Jul 23 20:22:00 1996
+Date: Tue, 23 Jul 1996 17:10:05 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 23 July 1996 - Internet Info Center
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /     H A P P Y   B I R T H D A Y   T O U R B U S  !!  |//////|    |
+ |          Celebrating One Year of Cyber-Touring       |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : Internet Information Center
+TODAY'S TOURBUS ADDRESS : http://www.austria.eu.net/iic/
+
+Welcome back to another week, or should I say another year, of TOURBUS!
+Can you believe the Bus first pulled out of that big garage in cyberspace
+on July 20th, 1995?  We've grown from just 3000 riders to an audience of
+over 50,000 in 110 countries worldwide.  Thanks for riding with us, and
+also a special word of thanks to all of our sponsors!
+
+*----------* Online Backup for Business, Writers and Individuals *-----*
+  CYBeRGEM Remote Backup System provides an easy to use, cost effective
+  off site storage system for your critical data.  Save & retrieve your
+  zipped and encrypted files (only you have the key) via the Internet.
+*---* e-mail: backup@cybrgem.com  *  http://www.cybrgem.com/backup *---*
+
+
+You know, I get a couple of e-mails each time a Bus rolls out which if I
+may paraphrase, go something like this:  "What the heck is all this
+Internet stuff, anyway... And where's the bathroom???"
+
+So a little bit of background seems in order from time to time.  With that
+in mind, I've invited 23-year old Christian Feichtner, a computer science
+student from Austria to tell us about the really cool site he's created for
+Internet beginners.  So heeeeeeeere's Christian!
+
+A Little Cookie With Your Chips, Sir?
+-------------------------------------
+
+"If you think a Backbone has something to do with your body or a Cookie
+ is something to eat, then you should get onboard the Tourbus and let it
+ take you to this week's stop, the Internet Information Center.
+
+ While browsing the many documents at the IIC you will find out that the
+ Internet has much more to offer than a point-and-click interface (you
+ know the little constructions spiders make).
+
+ You will find references and how to's for the most popular services.  If
+ you want to chat with people all over the world about useful (or useless)
+ topics, you'll find everything you need in the IRC guide (addiction
+ guaranteed).
+
+
+ Confused by mailing lists?  No problem - the IIC will show you how to
+ use e-mail and how to participate in mailing lists (like the fantastic
+ Tourbus). All these guides can be found in the "How To" section of the IIC.
+     See http://www.austria.eu.net/iic/HowTo.html
+
+ Beware The Torch
+ ----------------
+
+ If you've been wondering how all the data sent over the 'Net reaches it's
+ destination, then the "Net Introduction" is your place to go.  This
+ section also outlines the do's and don'ts of electronic communication
+ and how to avoid being flamed.
+     See http://www.austria.eu.net/iic/NetIntro.html
+
+ "Flamed???  Does it hurt much?"  Find out in the IIC's rich glossary of
+ Internet related terms.  If you still can't get enough then point your
+ browser to the "Additional Information and Reference" section.  There's
+ a smiley directory, a list of domains and selected starting points,
+ Software, Search Engines, Parental Software and more!
+     See http://www.austria.eu.net/iic/MoreInfo.html
+
+ The IIC also has a mirror of an excellent guide, how to use the Internet
+ using an e-mail only connection (that makes the IIC a real complete
+ reference).  The site is updated continously with new information and new
+ terms for the Internet glossary.  So come often and come early to the
+ Internet Information Center!"
+
+
+*---------------*  Win the $1 Million Dollar Giveaway!  *-------------*
+ Play the Prize-link Progressive Jackpot Sweepstakes at Web Warehouse.
+  A chance to WIN up to $1 Million Instantly!  Web Warehouse offers a
+ wide assortment of quality consumer items from jewelry to music CDs.
+*-----------------------( http://webwarehouse.com )-------------------*
+
+*-----------------------*     ONLINE COURSES     *--------------------*
+ Do you want to keep your job AND take courses?  Univ. of Wisconsin-
+  Stout provides facilitated & self-paced courses online.  For info
+   visit "http://major.uwstout.edu" or e-mail "conted@uwstout.edu".
+*---------------------------------------------------------------------*
+
+Here's to another great year...  See you on the Bus!   --Bob
+
+========================================================================
+  Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+  Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Info  : On the Web at http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=-----------------------------------------------------------------------=
+  For info on my new book "Doctor Bob's Painless Guide To The Internet"
+      send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+     (Quantity discounts available for schools, clubs and sysops)
+=========================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

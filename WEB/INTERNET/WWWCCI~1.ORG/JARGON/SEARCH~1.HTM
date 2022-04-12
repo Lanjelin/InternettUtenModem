@@ -1,0 +1,36 @@
+<!doctype HTML public "-//W3O//DTD W3 HTML 2.0//EN">
+<HTML>
+<HEAD>
+<link rev=made href=mailto:esr@snark,thyrsus.com>
+<TITLE>Jargon File Search</TITLE>
+</HEAD>
+<BODY BGCOLOR="fffffh">
+<H1>Jargon File Search</H1>
+
+Return to <A HREF="JARGO~71.HTM" tppabs="http://www.ccil.org/jargon/jargon.html">Jargon Page</A>
+<P>
+<FORM METHOD=GET ACTION="/cgi-bin/jargon-search">
+Search Key: <INPUT TYPE=TEXT NAME=key SIZE=32 LENGTH=80> 
+<P>
+Scope Of Search:<BR>
+<INPUT TYPE=RADIO NAME=scope checked value="headwords"> Search Headwords <BR>
+<INPUT TYPE=RADIO NAME=scope value="everything"> Search Entire Document <BR>
+<P>
+Search Options:<BR>
+<INPUT TYPE=RADIO NAME=options checked value="literal"> Literal Search <BR>
+<INPUT TYPE=RADIO NAME=options value="regexp"> Perl Regexp Search <BR>
+<P>
+<INPUT TYPE=SUBMIT VALUE="Perform Search">
+<BR>
+<INPUT TYPE=RESET VALUE="Clear This Form">
+</FORM>
+
+Warning: this is a brute-force search (essentially a multi-file grep
+written in Perl) and will be slow.  Some of the
+<a href="ALTERN~1.HTM" tppabs="http://www.ccil.org/jargon/alternates.html">unofficial conversions</a> are specialized 
+for searching and have faster engines. <P>
+
+<HR>
+<ADDRESS>Eric S. Raymond <A HREF="mailto:esr@thyrsus.com">&lt;esr@snark.thyrsus.com&gt;</A></ADDRESS>
+</BODY>
+</HTML>

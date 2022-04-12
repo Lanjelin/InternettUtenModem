@@ -1,0 +1,205 @@
+
+From bobrankin@mhv.net Tue May 28 23:27:10 1996
+Date: Tue, 28 May 1996 21:03:48 -0400
+From: Bob Rankin <bobrankin@mhv.net>
+Reply-To: TOURBUS-REQUEST@LISTSERV.AOL.COM
+To: Multiple recipients of list TOURBUS <TOURBUS@LISTSERV.AOL.COM>
+Subject: TOURBUS - 28 May 1996 - Telnet Basics
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"    /    |  \
+   |__________|__________/__________|__________|_________/     |   \
+  /                                                     /______|----\
+ /     Be the first web-surfer on your block to own an  |//////|    |
+ | ultra-cool WorldVillage T-shirt. For more info visit |//////|    |
+ |        http://www.worldvillage.com/tshirt.htm        |//////|    |
+ |                                                      |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s  \___/
+
+
+TODAY'S TOURBUS STOP    : Telnet Basics
+TODAY'S TOURBUS ADDRESS : http://lmc.einet.net/hytelnet/SITES2.html
+
+
+Long before the Web and all of its multimedia flash was a blip on the
+Internet radar, savvy netizens were using a text-based tool called
+Telnet to tap into the wonders of the online world.  But today, many Net
+surfers who have never even heard of Telnet are missing out on something
+good...
+
+*----------------------------*  GET SMART  *-----------------------------*
+  Bring the classroom to your room!  University of Wisconsin-Stout online
+  courses let you learn in your own place and time.  For more info, point
+    to http://major.uwstout.edu or send e-mail to "conted@uwstout.edu".
+*------------------------------------------------------------------------*
+
+
+What is Telnet?
+---------------
+
+Telnet is a tool that lets you log in to other computers using the
+Internet.  Why would you want to do that?  Simple - to access the
+interesting stuff on those other computers, such as research databases,
+games, card catalogs, and information services.  And many times, the
+only way to get there is by Telnet.
+
+Since Telnet is text-based, there's no pointing or clicking.  All
+your navigation is done via the keyboard, so leave the mouse at home
+when you venture out with Telnet.  Even though there are no pretty
+pictures, you'll find that a little time invested in learning the basics
+of Telnet will be time well spent!
+
+
+How to Connect
+--------------
+
+Before you can connect to another computer with Telnet, you'll need to
+know a few things.  No matter type of computer or connection you have,
+you must specify a hostname (and sometimes a port number) before you can
+connect to the other computer.  And once you connect, you'll need to
+enter a userid (and sometimes a password) in order to log in and start
+using the service at that remote computer.
+
+Once you are logged in, you'll need to pay careful attention to the
+instructions on the screen to find out how to navigate the Telnet site
+and logout when you're done.  When Telnetting you could end up on almost
+any type of computer -- a UNIX computer at a university, a DOS-based BBS,
+or an IBM mainframe, so the commands you use while logged in to the
+remote site will differ from site to site.
+
+
+Telnet via a Shell Account
+--------------------------
+
+Let's work through an example using a UNIX shell account to find out
+what this Telnet stuff is all about.  (Things work pretty much the same way
+if you have a SLIP/PPP account - more on that later.)  In general, when you
+use Telnet from a shell prompt, you'll send a command like this:
+
+   telnet hostname <portnumber>
+
+The word "telnet" tells your system to start a Telnet session and to go
+to the address that you specify in hostname.  (You replace hostname with
+the name of the site that you want to Telnet to.)
+
+Unless you are told to use a specific port number (such as 3000), you
+should omit the portnumber value.  The brackets around portnumber mean
+that this field is optional.
+
+
+Vanilla Telnet
+--------------
+
+OK, time to try some Telnet-ing.  Let's Telnet to the computer called
+SJSULIB1.SJSU.EDU (The San Jose State University Library and
+Instructional Resource Center, gateway to the Beethoven Bibliography
+Database) and see what happens.  To connect to this site, type
+
+   telnet SJSULIB1.SJSU.EDU
+
+You will be able to login to this site without being prompted for a userid
+or password.  (The Beethoven database can be accessed by entering "O" at
+the prompt after you connect.)
+
+
+Telnet With a Port Number
+-------------------------
+
+Here's another Telnet example, this time with a specific port number.
+For this one, type
+
+   telnet DOWNWIND.SPRL.UMICH.EDU 3000
+
+a weather forecasting service.  Again, there's no need for a
+userid or password here.  Explore at your leisure...
+
+
+Telnet With a Userid
+--------------------
+
+Finally, here's a Telnet example that does require a userid for entry. To
+connect to the InterNIC Directory and Database Services site, type
+
+   telnet ds.internic.net
+
+While this site requires a userid, we're told in the welcome screen to
+login as "guest". Don't count on being told how to login though. Sometimes
+you have to know the userid ahead of time!  Unless you are connecting to
+a fee-based service to which you have previously subscribed (like CompuServe
+or a BBS) you probably won't ever need a password when using Telnet.
+
+
+Telnet Clients for SLIP/PPP
+---------------------------
+
+If you're Telnetting from a SLIP/PPP account (using Windows or Macintosh
+graphical software) look for an icon on your screen labelled "Telnet"
+(or possibly "Terminal") to start a Telnet session.  If you don't have
+the software already installed, here are some free Telnet programs that
+you can download through your Web browser.
+
+   NetTerm (Windows)
+   http://starbase.neosoft.com/~zkrr01
+
+   NCSA Telnet (Macintosh)
+   http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/comm/tcp/
+   ncsa-telnet-27b4.hqx  (line split for clarity)
+
+Note: If you're a subscriber to Prodigy or America Online, Telnet may be
+out of your reach.  Check in the Internet area to see if Telnet is available.
+
+
+A Word About Terminal Emulation
+-------------------------------
+
+The phrase "terminal emulation" may sound like a fatal disease, but
+it's important to understand.  Because there are many different types of
+computers out there, your Telnet software has to act just like (or emulate)
+the real terminals that are connected to the host computer you wish to access.
+
+Each Telnet program (or client) allows you to specify the type of terminal
+to use before you connect.  It's usually safe to try VT100 emulation, but
+if the screen looks jumbled or keys will not function properly, try ANSI
+(common for BBS's) or TN3270 (for IBM mainframe systems).
+
+
+*-----------------*  Win the $1 Million Dollar Giveaway!  *----------------*
+   Enter in the PrizeLINK Progressive Jackpot Sweepstakes At Web Warehouse
+   mall!  Play the Browse & Win game, with a chance to Win up to a COOL $1
+      Million!!  Web Warehouse Shopping Mall offers a wide assortment of
+    quality consumer items and services ranging from jewelry to music CDs.
+       Stop by today and take advantage of the Special Monthly Savings!
+*------------------------( http://webwarehouse.com )-----------------------*
+
+
+How To Find Interesting Telnet Sites
+------------------------------------
+
+Hopefully the examples in this psoting have given you an idea of the
+type of services available by Telnet.  But that's just the tip of the
+iceberg - you can visit BBS's all over the world, access free databases,
+search through library card catalogs, play interactive multi-player
+games and do lots of other interesting things via Telnet.  Check out
+
+   http://lmc.einet.net/hytelnet/SITES2.html
+
+with your Web browser and you'll find a listing with dozens of Telnet
+sites to explore.  They're all arranged by category with nice descriptions,
+and best of all they're just a click away.
+
+See you next time!   --Bob
+
+ ======================================================================
+  SUBSCRIBE  : Send SUBSCRIBE TOURBUS Firstname Lastname
+               to LISTSERV@LISTSERV.AOL.COM
+  unSUBSCRIBE: Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+  Web Site   : http://www.worldvillage.com/tourbus.htm
+  Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+               Ad slots for June are going fast!
+======================================================================
+
+     TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+ All rights reserved.  Redistribution is allowed only with permission.
+     Send this copy to 3 friends and tell them to get on the Bus!
+

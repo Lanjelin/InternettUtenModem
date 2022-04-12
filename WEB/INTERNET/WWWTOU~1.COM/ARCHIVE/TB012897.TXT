@@ -1,0 +1,137 @@
+
+From bobrankin@MHV.NET Wed Jan 29 02:42:21 1997
+Date: Wed, 29 Jan 1997 02:21:30 -0500
+From: Bob Rankin <bobrankin@MHV.NET>
+Reply-To: TOURBUS-Request@LISTSERV.AOL.COM
+To: TOURBUS@LISTSERV.AOL.COM
+Subject: TOURBUS - 28 Jan 1997 - Searching The Archives
+
+    /~~~~~~~~~|~~~~~~~~~~~~/~~~~~~~~|~~~~~~~~~~|~~~~~~~~~~~~/~~~|~\
+   |     "Why | Surf When / You Can | Ride The | Bus?"     /    |  \
+   |__________|__________/__________|__________|__________/     |   \
+  /  WIN FREE SOFTWARE! Join WorldVillage and become a   /______|----\
+ |     Citizen. Monthly drawings for software prizes,    |//////|    |
+ |    as well as special offers, cool sites, and more!   |//////|    |
+ |           http://www.worldvillage.com/join.htm        |//////|    |
+ ~~~/~~~\~~/~~~\~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/~~~\~~~~
+    \___/  \___/  T h e   I n t e r n e t   T o u r B u s   \___/
+
+           TODAY'S TOURBUS TOPIC: SEARCHING LIST ARCHIVES
+
+Howdy all - today we're going to cover the new SEARCH feature in the
+LISTSERV software, which can help you locate individual postings
+stored in the archives of mailing lists.  But first, a word from one
+of the sponsors that keep the Bus rolling...
+
+----------------------------------------------------------------------
+   FREE Coupons on great apparel brands like Timberland, Duck Head,
+  Woolrich, and Calvin Klein. Just sign up at Aardwulf Apparel's web
+ store. Since they're electronic, they'll never clutter your drawers!
+---------------------( http://www.aardwulf.com )----------------------
+
+Desperately Seeking Something?
+------------------------------
+
+Maybe LISTSERV can help.  The new SEARCH feature in version 1.8c of the
+LISTSERV software (the system that manages TOURBUS and hundreds of other
+mailing lists) lets you search the archives of a mailing list using
+keywords.
+
+I get quite a few questions from TOURBUS riders asking "Can you please
+resend me the TOURBUS where you mentioned <whatever> ?"  Now I can tell
+them to send a message like this:
+
+   SEARCH <keywords> IN <listname>
+
+to LISTSERV@LISTSERV.AOL.COM - and they'll be able to find it themselves.
+Here's what you'll get back if you try "SEARCH BIRDS IN TOURBUS"
+
+  > search birds in tourbus
+  -> 2 matches.
+
+  Item #   Date   Time  Recs   Subject
+  ------   ----   ----  ----   -------
+  000009 95/09/12 01:03  492   Wheelin' and Dealin'
+  000149 97/01/14 01:45  139   TOURBUS - 14 Jan 1997 - Do Birds Have Lips?
+
+  To order a copy of these postings, send the following command:
+
+                      GETPOST TOURBUS 9 149
+
+  >>> Item #9 (12 Sep 1995 01:03) - Wheelin' and Dealin'
+  And so, without further ado, let's take a cruise through the wires and see
+  what we can find about cats, dogs, gerbils, snakes, hampsters, birds, and
+                                                                 ^^^^^
+  just about any other pet you might have.
+
+  rec.pets.birds          The culture and care of indoor birds.
+           ^^^^^
+  rec.pets.cats           Discussion about domestic cats.
+
+  >>> Item #149 (14 Jan 1997 01:45) - TOURBUS - 14 Jan 1997 - Do Birds Have Lips?
+  From:         Bob Rankin <bobrankin@MHV.NET>
+  Subject:      TOURBUS - 14 Jan 1997 - Do Birds Have Lips?
+                                           ^^^^^
+You can see there were two postings that contained the word "birds", one
+in September '95 and one in January '97.  LISTSERV gives you the matching
+lines (with a little context) from those two postings and tells you how
+to order the full text if you wish.  (The GETPOST command should be sent
+to the same LISTSERV address as the SEARCH command.)
+
+
+Can I Search Other List Archives?
+---------------------------------
+
+Of course you're not limited to searches in the TOURBUS list.  You can
+search the archives of any LISTSERV-based list that is running on a
+server using LISTSERV 1.8c (and some other LISTSERVs running on IBM
+mainframes).
+
+If you don't know where to start your search, I suggest you visit the
+L-Soft site at http://www.lsoft.com, use CATALIST to search the
+catalog of lists to find one or more that suit your needs, and then
+send the SEARCH command to the LISTSERV site that hosts that list.
+
+Another way to find lists is to send e-mail to "liszter@bluemarble.net"
+with the command
+
+   search "whatever"
+
+in the BODY if the message.  (But don't confuse this "search" command
+with the LISTSERV one - this one finds LISTS, the other finds postings.)
+
+For example, if you find a mailing list called CLOWNS which is run by
+LISTSERV@CIRCUS.COM, then you might want to send the command:
+
+   SEARCH emmet kelly IN CLOWNS
+
+to LISTSERV@CIRCUS.COM - but don't try this one, I just made it up.  Do
+keep in mind that not all LISTSERV sites will accept the SEARCH command
+yet, but over the course of time most will.
+
+
+Stupid Computer Joke of the Week
+--------------------------------
+
+  * Remember, 640k is 4480k on FidoNet - they use dog bytes.
+
+Okay, I can hear the groans.  Well send me some of YOUR stupid computer
+jokes and I'll print them here!
+
+See you next time.  --Bob
+
+========================================================================
+ Join  : Send SUBSCRIBE TOURBUS Your Name to LISTSERV@LISTSERV.AOL.COM
+ Leave : Send SIGNOFF TOURBUS to LISTSERV@LISTSERV.AOL.COM
+ Archives: On the Web at http://www.worldvillage.com/tourbus.htm
+ Advertising: E-mail BobRankin@MHV.net w/ Subject: SEND TBRATES
+=----------------------------------------------------------------------=
+                          Get The Scoop On
+       -->  "Doctor Bob's Painless Guide To The Internet"  <--
+     Send e-mail to BobRankin@MHV.net w/ Subject: SEND BOOKINFO
+   or browse reviews & sample chapters at http://biz.mhv.net/drbob
+========================================================================
+
+      TOURBUS - (c) Copyright 1996, Patrick Crispen and Bob Rankin
+  All rights reserved.  Redistribution is allowed only with permission.
+      Send this copy to 3 friends and tell them to get on the Bus!

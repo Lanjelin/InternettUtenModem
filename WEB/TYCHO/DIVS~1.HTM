@@ -1,0 +1,165 @@
+<html>
+<TITLE>
+The BAO Divisions.
+</TITLE>
+<body bgcolor="#00005F" text="#FFFFFF" vlink="#9F9F9F" link="#8F8FFF">
+<h1> BAO Software Division &
+BAO Hardware Division. </h1>
+<img src="RAINBO~2.GIF" tppabs="http://www.astro.ku.dk/Icons/rainbowline.gif">
+<hr>
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/baosoft.gif">
+<hr>
+<h2><img src="BLUEBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/blueball.gif">
+    BAO Software Division </h2>
+
+  BAO Software Division (abbreviated <i> BSD </i>), headed
+by <a href="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren">S&oslash;ren Larsen</a>, 
+is responsible
+for all software developments at BAO. One very important part of
+the division's work is to maintain <i> OPERATE </i>, the user
+interface of the BTCS (BAO Telesope Control System). Also, the division
+is responsible for keeping the image reduction software up to date - 
+quite a large task since we make practically all software ourselves.
+The very first program developed by the division was <i> BAOphot </i>,
+designed for the reduction of photoelectric photometry data from
+the Brorfelde 25 cm telescope. 
+The main programmes beeing maintained by BAO Software Division right now
+are:
+<p>
+<dl>
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+     <i> OPERATE </i> 
+     <dd> As mentioned above, <i> OPERATE </i> is the
+ interface to the telescope control system. The system is actually
+ based on two personal computers but one of them, running a
+ program called <i> BTCS </i>, is merely a "black
+ box" from the user's point of view. For a long time it did not even
+ have a screen, and only half of the keys on the keyboard worked.
+ This didn't matter, however, because all you have to do from this
+ PC is to start up the control software, using a script we called 'bb'
+ (because 'b' happened to be one of the keys that worked!)
+<p>
+   The other PC is the one that actually runs <i> OPERATE </i>. From
+ this PC you can control the motion of the telescope (i.e. pointing
+ and tracking), the Lynxx CCD camera and the autoguider camera. All
+ this can be done at the same time, and you can even do some simple
+ image reductions too. We recommend that you see the 
+ <a href="TCS~1.HTM" tppabs="http://www.astro.ku.dk/~jacob/bao/tcs.html"> 
+BAO Telescope control system</a> page.
+<p>
+
+<dt>  <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+<i> CCDIM </i> 
+<dd> This was the first piece of image reduction
+software from BSD. The development of it actually started before
+we got our first CCD camera, but we wanted to be sure that
+we could process the images right from the start, and commercially
+avaliable software did not fullfill our critical requirements. 
+<i> CCDIM </i> is a very specialized program in that it can only
+handle images of the special format from the Lynxx camera (192 x 165
+pixels). This is, admittedly, rather disadvantageous, but it means
+at the same time that the program is very efficient for handling
+that particular image format.
+<p>
+
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+Other MS-DOS stuff 
+<dd>  <i>CCDIM</i> is capable of doing rather
+simple reductions only, so we have developed a number of utility programs
+for cross-correlation of images, deconvolution, convertion between
+different formats etc.
+<p>
+
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+<i> <a href="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baolab">BAOLab</a> </i> 
+<dd> One of the future goals of BAO is to interchange the Lynxx PC
+camera with a more efficient one. This requires, in turn, more
+efficient image reduction facilities, running under a more
+powerfull platform than MS-DOS. We have chosen 
+<a href="tppmsgs/msgs19.htm#1950" tppabs="http://www.linux.org/"> Linux </a> for
+this purpose, and right now BAO Software Division is working on
+a program called <i> BAOLab </i> which is designed to run in the
+Linux / X-Windows environment. <i> BAOLab </i> is pretty much inspired by
+the IRAF package, but it is much simpler and it is completely
+self-contained - no need to use other programs like <i> SAOImage </i>
+for the display of images. Another advantage is that <i> BAOLab </i>
+will be able to run on most UNIX systems - all you need to
+compile it is a C-compiler (preferably gcc) and properly
+installed X-libraries. The program is designed to require
+as little hardware as possible, and even though <i> BAOLab </i> is able
+to draw graphics on your screen, you can also use
+it while sitting at a dumb VT-100 terminal, but with no graphics 
+of course. 
+</dl> 
+<hr>
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/bjarne.gif">
+<img src="Pending_relink" tppabs="http://www.astro.ku.dk/~soeren/baopics/hwgroup1.gif">
+<h2><img src="BLUEBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/blueball.gif">
+   BAO Hardware Division </h2>
+Also known as <i> BAO Hardware Group </i>, this division is headed
+by <b> Bjarne Lassen </b>. The division takes care of all kinds
+of hardware installments to the observatory (except implementation
+of new computer components which is done in cooperation between the hardware 
+and software divisions). 
+<dl>
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+     <i> Stepper motor TCS </i> 
+     <dd> 
+The first project of BAO Hardware Division was the construction of the 
+<a href="TCS~1.HTM" tppabs="http://www.astro.ku.dk/~jacob/bao/tcs.html">
+steppermotor controlled BTCS </a> - a vast step forward in the location
+of faint objects. This system is based on two 4-phased steppermotors,
+the one mounted on the Right Ascension axis having 800 steps / revolution,
+and the declination motor having 400 steps / revolution. Both of the
+motors are attached directly to the worm drives with no gears
+in between - this makes it possible to use the stepper motors
+for slewing the telescope with a rate of several degrees pr. second.
+For tracking we use the so-called "micro-stepping" technique to
+achieve a sufficiently smooth movement.
+<p>
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+     <i> The BAG (Bjarne AutoGuider) </i>
+<dd> Until recently, we had to guide our long exposures manually -
+     a very tiresome job, and not always with the best results. It
+     was therefore with very great expectations that we looked
+     forward to the release of the BAG-camera (Bjarne AutoGuider)
+     in early 1994. Unfortunately, the first version of the camera did
+     not work very well, but during the summer the design was
+     significantly improved and the autoguider is now very
+     good.
+<p>
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+     <i> The guideplatform </i>
+<dd> Almost simultaneously with the development of the autoguider,
+     a new <a href="INSTR~1.HTM" tppabs="http://www.astro.ku.dk/~jacob/bao/instr.html"> 
+     guidetelescope </a> was implemented instead of the 60mm
+     refractor we had previously been using. Along with a larger
+     aperture (114 mm), the new guidescope also features a much
+     better adjustment system, making it easy to find guidestars
+     anywhere withing 3 degrees from the main object.
+<p>
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+     <i> New equatorial mounting.</i>
+<dd> Our next project is a new mounting for the telescope. The old
+     one is not really capable of carrying all the things we have
+     hung on it, and we have a lot of problems with mechanical
+     flexure. 
+<p>
+<dt> <img src="REDBALL.GIF" tppabs="http://www.astro.ku.dk/Icons/redball.gif">
+     <i> New CCD camera.</i>
+<dd> Our current CCD is a Lynxx PC camera, based on a Texas TC-211
+     chip with only 192 x 165 pixels. This camera is rather old-fashioned
+     now, so we hope that we will be able to get a new one in
+     near future. The new camera should be based on a Kodak KAF-0400
+     chip with 768 x 512 pixels, and much better noise characteristics.
+</dl> 
+<hr>
+This page is maintained by
+  Jacob Clasen <address>jacob@astro.ku.dk</address>
+  and
+  S&oslash;ren Larsen <address>soeren@astro.ku.dk </address>
+  Last updated: May 15. 1995.
+<p>
+<a href="Pending_relink" tppabs="http://www.astro.ku.dk/~jacob/bao">To the BAO Homepage</a>
+
+</html>
