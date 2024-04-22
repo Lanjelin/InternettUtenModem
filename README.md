@@ -1,6 +1,6 @@
 # Internett Uten Modem
 
-![WEB/SNABELA.GIF](WEB/SNABELA.GIF)
+![logo](img/k640x480.bmp)
 
 [Komputer for alle](https://komputer.no/) er et datamagasin utgitt av Bonnier Publication International.  
 For mange datainterreserte var det et stort høydepunkt hver gang et nytt magasin ble utgitt, hvor en fikk utforske medfølgende CD-rom for programvare og spill, shareware, freeware og demoer.
